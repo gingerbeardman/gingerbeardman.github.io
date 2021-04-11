@@ -7,12 +7,12 @@
 
 # Site settings
 title:       Extended Information
-email:       'matt@gingerbeardman.com'
+email:       ''
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://blog.gingerbeardman.com/' # The base hostname & protocol for your site
-twitter:     'gingerbeardman'
-github:      'gingerbeardman'
+twitter:     'https://twitter.com/gingerbeardman'
+github:      ''
 instagram:   ''
 facebook:    ''
 
