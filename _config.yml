@@ -7,18 +7,18 @@
 
 # Site settings
 title:       Type
-email:       ''
+email:       'matt@gingerbeardman.com'
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
-twitter:     ''
-github:      ''
+url:         'https://blog.gingerbeardman.com/' # The base hostname & protocol for your site
+twitter:     'gingerbeardman'
+github:      'gingerbeardman'
 instagram:   ''
 facebook:    ''
 
 markdown:  kramdown
 permalink: pretty
-paginate:  10
+paginate:  100
 
 sass:
   style: compressed
