@@ -4,15 +4,31 @@
 
 .c-logo {
   &__link {
-    font-size: $font-size-base;
+    font-size: $font-size-larger;
     transition: $global-transition;
+
+    span {
+      display: none;
+    }
+
+    &:hover span {
+      // display: inline;
+      // margin-right: 2rem;
+    }
 
     @include attention() {
       color: $color-brand;
       text-decoration: none;
     }
   }
+}
+
+.c-byline {
+  font-size: $font-size-large;
+  float: right;
+
   &__desc {
+    float: right;
     color: silver;
   }
 }

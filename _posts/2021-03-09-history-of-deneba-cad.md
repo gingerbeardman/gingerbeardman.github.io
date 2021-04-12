@@ -2,6 +2,7 @@
 layout: post
 title: History of DenebaCAD
 tags: [macintosh, system7, history, deneba]
+comments: https://twitter.com/gingerbeardman/status/1380424305662656517
 excerpt_separator: <!--more-->
 ---
 
@@ -63,7 +64,3 @@ ArchiDOT was written up to that time in Symantec Pascal, a good language that wa
 They ported, through the use of the PtoC converter, the Pascal code and the mathematical algorithms of ArchiDOT to the C++ language in its implementation "Code Warrior" of Metrowerks, to give birth to a much superior application in speed and performance, generating laboratory versions that were tested by several users among which I was. It was amazing at that time the image quality that we could achieve with that version that could only be surpassed with render engines years later.
 The conversion process from Pascal to C++ was in charge of Eng. Federico Zappi.
 The next step was the development of the new interface that was in charge of Architect Hernan Pisani and Mr. Doug Levy, vice-president of Deneba Software. All this happened after signing a publishing contract with Deneba Software, which gave birth to Deneba CAD.
-
-## Comment thread
-
-https://twitter.com/rubygems/status/518821243320287232

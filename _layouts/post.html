@@ -20,7 +20,16 @@ layout: default
         <div class='c-content' itemprop='articleBody'>
           {% include page-image.html %}
 
-          {{ content }}
+          {% assign processed = content %}
+          {% for noun in page.nouns %}
+          {{ processed | replace: noun, "NONE" }}
+          {% endfor %}
+
+          {{ processed }}
+        </div>
+
+        <div class='c-comments'>
+          Comments: <a href="{{ page.comments }}">{{ site.twitter }}</a>
         </div>
 
         <div class='c-tags'>

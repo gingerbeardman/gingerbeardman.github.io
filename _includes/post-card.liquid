@@ -9,9 +9,7 @@
       <img src='{{ post.image | prepend: site.baseurl }}' class='c-post__image' alt='{{ post.title }}'>
     {% endif %}
 
-    <p class='c-post-card__excerpt u-font-medium'>
-      {{ post.excerpt | strip_html }}
-    </p>
+    {{ post.content }}
   </a>
 
 </div>
