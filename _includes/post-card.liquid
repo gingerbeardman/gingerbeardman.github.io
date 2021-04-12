@@ -8,7 +8,7 @@
     {% assign ago_date = 'now' | date: '%s' | minus: 605000 %}
 
     {% if post_date > ago_date %}
-        <span class="u-right new">!</span>
+        <span class="u-right new">!&nbsp;</span>
     {% else %}
       {% if post.favourite %}
         <span class="u-right fave">♥<!-- ★ ☆ --></span>
@@ -17,7 +17,14 @@
 
     </h3>
 
-    <span class='c-post-card__date'>{{ post.date | date: '%Y-%m-%d ' }}</span>
+    <span class='c-post-card__date'>
+      {{ post.date | date: '%Y-%m-%d ' }}
+
+      <!-- Tags: -->
+      {% for tag in post  .tags %}
+        #{{ tag }}
+      {% endfor %}
+    </span>
 
     {% if post.image %}
       <img src='{{ post.image | prepend: site.baseurl }}' class='c-post__image' alt='{{ post.title }}'>
