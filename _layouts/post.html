@@ -23,9 +23,11 @@ layout: default
           {{ content }}
         </div>
 
+        {% if page.comments %}
         <div class='c-comments'>
           Comments: <a href="{{ page.comments }}">{{ site.twitter }}</a>
         </div>
+        {% endif %}
 
         <div class='c-tags'>
           Tags:
