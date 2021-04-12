@@ -22,6 +22,11 @@ $grid-gutter: $base-spacing-unit;
   &--full {
     max-width: 100vw;
   }
+
+  &--final {
+    max-width: 100vw;
+    padding: 0 $grid-gutter;
+  }
 }
 
 .o-grid__col {
@@ -95,5 +100,9 @@ $grid-gutter: $base-spacing-unit;
 
   &--end {
     margin-left: auto;
+  }
+
+  &--final {
+    padding: 0 $grid-gutter;
   }
 }
