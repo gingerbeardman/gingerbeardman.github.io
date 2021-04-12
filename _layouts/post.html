@@ -20,12 +20,7 @@ layout: default
         <div class='c-content' itemprop='articleBody'>
           {% include page-image.html %}
 
-          {% assign processed = content %}
-          {% for noun in page.nouns %}
-          {{ processed | replace: noun, "NONE" }}
-          {% endfor %}
-
-          {{ processed }}
+          {{ content }}
         </div>
 
         <div class='c-comments'>
