@@ -20,7 +20,14 @@ layout: default
         <div class='c-content' itemprop='articleBody'>
           {% include page-image.html %}
 
-          {{ content }}
+          {% assign modified = content %}
+
+          {% for noun in page.nouns %}
+          {% assign italic = noun | prepend: '<em>' | append: '</em>' %}
+          {% assign modified = modified | replace: noun,italic %}
+          {% endfor %}
+
+          {{ modified }}
         </div>
 
         {% if page.comments %}

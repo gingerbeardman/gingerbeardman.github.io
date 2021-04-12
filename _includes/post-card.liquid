@@ -3,9 +3,18 @@
   <a href='{{ post.url | prepend: site.baseurl }}' class='c-post-card {% if forloop.first == true %} c-post-card--first {% endif %} {% if forloop.last == true %} c-post-card--last {% endif %}'>
     <h3 class='c-post-card__title'>
     {{ post.title }}
-    {% if post.favourite %}
-      <span class="u-right">✱</span>
+
+    {% assign post_date = post.date | date: '%s' | minus: 0 %}
+    {% assign ago_date = 'now' | date: '%s' | minus: 605000 %}
+
+    {% if post_date > ago_date %}
+        <span class="u-right new">!</span>
+    {% else %}
+      {% if post.favourite %}
+        <span class="u-right fave">♥<!-- ★ ☆ --></span>
+      {% endif %}
     {% endif %}
+
     </h3>
 
     <span class='c-post-card__date'>{{ post.date | date: '%Y-%m-%d ' }}</span>

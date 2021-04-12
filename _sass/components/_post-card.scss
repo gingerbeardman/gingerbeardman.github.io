@@ -8,6 +8,14 @@
   word-break: break-word;
   border-bottom: 1px solid $color-border;
 
+  .new {
+    font-weight: bold;
+  }
+
+  .fave {
+    font-weight: bold;
+  }
+
   &--first {
     padding-top: 0;
   }

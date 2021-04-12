@@ -8,15 +8,25 @@ img {
 }
 
 img[src$='#playdate'] {
-  width: 440px;
-  height: 280px;
+  max-width: 860px;
+  width: 860px;
+  height: 540px;
+  margin: 25px -90px;
+  border-radius: 28px;
+  border: 30px solid #322f28;
 
-  border-radius: 20px;
-  border: 20px solid #322f28;
   // background-color: #322f28;
   background-color: #b1aea7;
 
   image-rendering: auto;
   image-rendering: crisp-edges;
   image-rendering: pixelated;
+
+  @include mq($until: tablet) {
+    width: 400px;
+    height: 240px;
+    border-radius: 0;
+    border: none;
+    margin: 25px -40px;
+  }
 }

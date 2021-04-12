@@ -9,7 +9,7 @@
 title:       '⌘I'
 email:       ''
 description: 'Get Info'
-author:      'Matt Sephton'
+author:      'Matt&nbsp;Sephton'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://blog.gingerbeardman.com' # The base hostname & protocol for your site
 homepage:    'https://www.gingerbeardman.com' # The base hostname & protocol for your site
