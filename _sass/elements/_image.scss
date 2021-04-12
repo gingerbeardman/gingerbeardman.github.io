@@ -5,14 +5,16 @@
 img {
   display: block;
   max-width: 100%;
-  width: 440px;
-  height: 280px;
 }
 
 img[src$='#playdate'] {
+  width: 440px;
+  height: 280px;
+
   border-radius: 20px;
   border: 20px solid #322f28;
-  background-color: #322f28;
+  // background-color: #322f28;
+  background-color: #b1aea7;
 
   image-rendering: auto;
   image-rendering: crisp-edges;
