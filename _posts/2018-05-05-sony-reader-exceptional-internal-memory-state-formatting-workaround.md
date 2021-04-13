@@ -21,10 +21,10 @@ At this point pressing `OK` will format the device.
 
 ### Workaround
 
-0. Do NOT press `OK` on the format warning
-1. Plug device into the computer
-2. Backup `READER` partition
-3. Press `RESET` button
+0. **Do not press** `OK` on the format warning
+1. Instead, plug device into your computer
+2. Backup `READER` partition (optional, but recommended)
+3. Press hardware `RESET` button with paperclip
 4. Wait for Reader to reboot (no PRS+ features when booting with USB connected)
 5. Unplug from computer
 6. Shutdown/restart reader (PRS+ features will be re-enabled)
