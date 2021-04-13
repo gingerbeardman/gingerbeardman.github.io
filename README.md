@@ -26,7 +26,7 @@ description: ''
 author:      ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         '' # The base hostname & protocol for your site
-homepage:    ''
+homepage:    '' # A different site that is related to your blog
 twitter:     ''
 github:      ''
 instagram:   ''
