@@ -4,6 +4,7 @@ title: 'Famicom Mahjong/Hanafuda controller USB keyboard mod'
 tags: [dreamcast,mod,electronics]
 nouns: [Famicom, Capcom, Arduino, Pro Micro]
 carousel: hanafuda-controller
+favourite: yes
 ---
 
 - Difficulty: 7/10
