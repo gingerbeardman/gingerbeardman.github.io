@@ -19,11 +19,13 @@ The below text has been edited to reflect the changes I have made to the theme.
 Type theme comes with different customizations in the `_config.yml` file:
 
 ```sh
-title:       Type
+title:       ''
 email:       ''
 description: ''
+author:      ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         '' # The base hostname & protocol for your site
+homepage:    ''
 twitter:     ''
 github:      ''
 instagram:   ''
