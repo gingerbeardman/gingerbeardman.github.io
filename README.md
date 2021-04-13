@@ -1,4 +1,4 @@
-# Type: Minimal and Clean Free Jekyll Theme
+# Get Info, a blog by Matt Sephton
 
 See https://github.com/ahmadajmi/type for details of the original version of this theme.
 
