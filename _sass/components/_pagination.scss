@@ -5,6 +5,8 @@
 .c-pagination {
   text-transform: uppercase;
   transition: $global-transition;
+  margin-top: 25px;
+  display: block;
 
   @include attention() {
     color: $color-brand;
@@ -27,7 +29,7 @@
   }
 
   &__icon {
-    vertical-align: text-top;
+    vertical-align: middle;
 
     &--prev {
       left: - half($base-spacing-unit);
