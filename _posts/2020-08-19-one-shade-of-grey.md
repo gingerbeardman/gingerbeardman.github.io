@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Daily Driver: One Shade of Grey?'
+title: 'One Shade of Grey?'
 tags: [dailydriver, playdate, 60fps]
 nouns: [60fps, Commodore 64, Palm, Game Boy, Creatures]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Daily Driver: Influences'
+title: 'Influences'
 tags: [dailydriver, playdate, questions, info]
 ---
 

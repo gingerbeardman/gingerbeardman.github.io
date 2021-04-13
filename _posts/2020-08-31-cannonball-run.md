@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Daily Driver: Cannonball Run'
+title: 'Cannonball Run'
 tags: [dailydriver, playdate, gamedev, modes, gameplay]
 nouns: [60fps, Commodore 64, Palm, Game Boy, Creatures]
 ---

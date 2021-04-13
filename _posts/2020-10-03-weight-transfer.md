@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Daily Driver: Weight Transfer'
+title: 'Weight Transfer'
 tags: [dailydriver, playdate, gameplay, physics, cars]
 nouns: [PlayStation, Daily Driver, Playdate, Touge Max G]
 ---

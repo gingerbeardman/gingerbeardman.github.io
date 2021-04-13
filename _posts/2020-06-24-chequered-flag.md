@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Daily Driver: Chequered Flag'
+title: 'Chequered Flag'
 tags: [dailydriver, playdate, 2D, graphics]
 ---
 

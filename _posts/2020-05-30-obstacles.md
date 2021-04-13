@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Daily Driver: Obstacles'
+title: 'Obstacles'
 tags: [dailydriver, codename, gameplay, playdate]
 ---
 

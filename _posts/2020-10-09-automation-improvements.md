@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Daily Driver: Automation Improvements'
+title: 'Automation Improvements'
 tags: [dailydriver, playdate, graphics, software, workflow]
 nouns: [macOS, Folder Actions, Daily Driver, Playdate, OpenSCAD]
 ---

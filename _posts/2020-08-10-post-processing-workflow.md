@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Daily Driver: Post-processing workflow'
+title: 'Post-processing workflow'
 tags: [dailydriver, playdate, graphics, software]
 nouns: [OpenSCAD]
 ---

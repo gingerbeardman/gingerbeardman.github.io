@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Daily Driver: デイリードライバー'
+title: 'デイリードライバー'
 tags: [dailydriver, playdate, graphics, japanese, logo]
 nouns: [Playdate, SDK, 60fps, Daily Driver, Playdate, Season]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Daily Driver: Playable Demo'
+title: 'Playable Demo'
 tags: [dailydriver, playdate, software]
 ---
 
