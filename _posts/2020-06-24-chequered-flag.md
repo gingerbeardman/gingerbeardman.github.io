@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chequered Flag'
-tags: [dailydriver, playdate, 2D, graphics]
+tags: [dailydriver, playdate, graphics]
 ---
 
 ![GIF](/images/posts/daily-driver-chequered-flag.gif#playdate)

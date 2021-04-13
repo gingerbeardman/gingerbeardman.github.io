@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenSCAD workflow'
-tags: [dailydriver, playdate, 3D, graphics, software]
+tags: [dailydriver, playdate, graphics, software]
 keywords:
 carousel: openscad
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Influences'
-tags: [dailydriver, playdate, questions, info]
+tags: [dailydriver, playdate, videogames]
 ---
 
 Some fellow Playdate developers commented that at this point the game reminded them of _Ivan "Ironman" Stewart's Super Off Road_, _Super Sprint_ and even _Rocket League_.

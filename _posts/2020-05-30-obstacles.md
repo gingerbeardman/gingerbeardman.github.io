@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Obstacles'
-tags: [dailydriver, codename, gameplay, playdate]
+tags: [dailydriver, gameplay, playdate]
 ---
 
 At this point I have three rows of rotated cars in the sprite sheet: each has wheels pointing in different directions.
