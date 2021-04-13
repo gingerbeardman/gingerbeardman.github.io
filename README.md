@@ -1,10 +1,13 @@
 # Type: Minimal and Clean Free Jekyll Theme
 
-<img alt="Type: Minimal and Clean Free Jekyll Theme" src="https://user-images.githubusercontent.com/626005/63093493-c3daa880-bf65-11e9-860e-da88047cce24.png">
+See https://github.com/ahmadajmi/type for details of the original version of this theme.
+
+The below text has been edited to reflect the changes I have made to the theme.
 
 - [Configurations](#configurations)
 - [Deployment](#deployment)
 - [Posts](#posts)
+- [Images](#images)
 - [Pages](#pages)
 - [Navigation](#navigation)
 - [Disqus Comments](#disqus-comments)
@@ -74,26 +77,44 @@ The following is a post file with different configurations you can add as an exa
 ---
 layout: post
 title: Welcome to Jekyll!
-featured: true
 tags: [frontpage, jekyll, blog]
-image: '/images/welcome.jpg'
+nouns: [list, keywords, for, emphasise]
+image: '/images/posts/welcome.jpg'
+featured: true
+comments: https://twitter.com/gingerbeardman/status/1380424305662656517
+carousel: carousel-id
+excerpt_separator: <!--more-->
 ---
 ```
 
-You can set the author, featured or not, tags, and the post image.
+You can set the `title`, and the following optional fields `tags`, `nouns`, post `image`, `featured`, `comments` link, `carousel` id, and `excerpt-separator`.
 
-The `featured` key is to mark the post as a featured post, this will add a simple star icon (*) to the postcard.
+- To create a draft post, create the post file under the **_drafts** directory, and you can find more information at [Working with Drafts](http://jekyllrb.com/docs/drafts/).
 
-To keep things more organized, add post images to **/images/pages** directory, and add page images to **/images/pages** directory.
+- For tags, try to not add space between two words, for example, `Ruby on Rails`, could be something like (`ruby-on-rails`, `Ruby_on_Rails`, or `Ruby-on-Rails`).
 
-To create a draft post, create the post file under the **_drafts** directory, and you can find more information at [Working with Drafts](http://jekyllrb.com/docs/drafts/).
+- Nouns are similar to tags but list keywords that should be emphasised in the rendered post. I use these to emphasise, in italics, certain names, places, brands or products mentioned in the content. Doing it this way reduces the possibility of human error.
 
-For tags, try to not add space between two words, for example, `Ruby on Rails`, could be something like (`ruby-on-rails`, `Ruby_on_Rails`, or `Ruby-on-Rails`).
+- To keep things more organized, add post images to **/images/posts** directory, and add page images to **/images/pages** directory.
 
-Note that tags are not working with GitHub Pages, that's because the used [jekyll-tagging
-](https://github.com/pattex/jekyll-tagging) plugin is not [whitelisted](https://pages.github.com/versions/) by GitHub.
+- The `featured` key is to mark the post as a featured post, this will add a heart icon (♥) to the postcard.
 
-To make this work, I use [Netlify.com](https://www.netlify.com/) for deployment.
+- I prefer to encourage comments in a related twitter thread, so each post has an optional comments URL that can be defined.
+
+- Carousel is taken from https://jekyllcodex.org/without-plugin/slider/ so please see that page for documentation. The only change I have made is allowing the id of the carousel to be specified in the post front matter, so that multple carousels can be defined in `carousel.yml`.
+
+- Excerpt display is currently disabled on postcards, but an excerpt_separator can be defined. eg. <!--more-->
+
+### Images
+
+- I provide specific styling for images taken from the Playdate console. They're shown with a bezel at chunky pixel @2x size and can be inserted as follows, noting the trailing hash
+  `![GIF](/images/posts/daily-driver-animation.gif#playdate)`
+
+- Static images can be inserted normally and are displayed without any styling
+  `![JPG](/images/posts/daily-driver-still.png)`
+
+- Carousels are inserted as below, but will only display if there is a `carousel-id` in the post front matter
+  `{% include carousel.html height="82" unit="%" duration="7" %}`
 
 ### Pages
 
@@ -114,7 +135,9 @@ Things you can change are: `title` and `image` path.
 
 ### Navigation
 
-The navigation on the sidebar will automatically include all the links to the pages you have created.
+I have removed the top navigation.
+
+My plan is to include all the links to the pages you have created in the footer.
 
 ### Disqus Comments
 
@@ -136,77 +159,11 @@ And also check [Disqus troubleshooting guide](https://help.disqus.com/customer/p
 
 ### Social Media Links
 
-Social media links included in `_includes/footer.html` file.
+Removed in my fork.
 
-The theme is using [Evil Icons](http://evil-icons.io/), which contains very simple and clean icons. The following is a list of the social media icons to use:
-
-Twitter
-
-```html
-<span data-icon='ei-sc-twitter' data-size='s'></span>
-```
-
-Facebook
-
-```html
-<span data-icon='ei-sc-facebook' data-size='s'></span>
-```
-
-Instagram
-
-```html
-<span data-icon='ei-sc-instagram' data-size='s'></span>
-```
-
-Pinterest
-
-```html
-<span data-icon='ei-sc-pinterest' data-size='s'></span>
-```
-
-Vimeo
-
-```html
-<span data-icon='ei-sc-vimeo' data-size='s'></span>
-```
-
-Google Plus
-
-```html
-<span data-icon='ei-sc-google-plus' data-size='s'></span>
-```
-
-SoundCloud
-
-```html
-<span data-icon='ei-sc-soundcloud' data-size='s'></span>
-```
-
-Tumblr
-
-```html
-<span data-icon='ei-sc-tumblr' data-size='s'></span>
-```
-
-Youtube
-
-```html
-<span data-icon='ei-sc-youtube' data-size='s'></span>
-```
 
 ### Update favicon
 
 You can find the current favicon (favicon.ico) inside the theme root directory, just replace it with your new favicon.
 
-
-### Aspire Themes
-
-👉 Visit [**aspirethemes.com**](http://bit.ly/type-jekyll-github-link) for more Jekyll, Ghost, and WordPress themes.
-
-<img alt="Aspire Themes" src="https://user-images.githubusercontent.com/626005/63092640-afe17780-bf62-11e9-9ea9-546489bb282c.png">
-
----
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8G8PKPEADPD42&source=url">
-  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif">
-</a>
+EOF
