@@ -2,7 +2,7 @@
 layout: post
 title: 'Famicom Mahjong/Hanafuda controller USB keyboard mod'
 tags: [dreamcast,mod,electronics]
-nouns: [Famicom, Capcom, Arduino, Pro Micro]
+nouns: [Famicom, Capcom, Arduino, Pro Micro, NES]
 carousel: hanafuda-controller
 favourite: yes
 ---
@@ -10,9 +10,9 @@ favourite: yes
 - Difficulty: 7/10
 - Cost: < £20
 
-I play a lot of Hanafuda games. In the arcade these games share a control panel with Mahjong. It’s basically a keyboard featuring the first half of the alphabet, presented in a long row of keys in alphabetical order. This makes playing Arcade Hanafuda games a bit of a chore without a bunch of keyboard remapping and emulator faff.
+I play a lot of Hanafuda games. In the arcade these games share a control panel with Mahjong. It’s basically a keyboard featuring the first half of the alphabet, presented as a long row of keys in alphabetical order. This makes playing Arcade Hanafuda games a bit of a chore without a bunch of keyboard remapping and emulator faff.
 
-Some people were using arcade control panels connected to their PC. In Japan you can buy a custom electronics kit to make a usb Mahjong/Hanafuda controller, but it’s expensive at about €85 plus shipping and import duty. There had to be a better way!
+Some people were using arcade control panels connected to their PC. In Japan you can buy a custom electronics kit to make a USB Mahjong/Hanafuda controller, but it’s expensive at about €85 plus shipping and import duty. There had to be a better way!
 
 I saw that a couple of old Famicom Mahjong games by Capcom were bundled with a custom controller. It was essentially two controllers in one, so won’t work with my controller adapter cables. So I wondered how easy it would be to convert one to USB? Posting on a NES developer forum helped me verify that it should be possible.
 
