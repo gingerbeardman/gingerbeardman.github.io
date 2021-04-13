@@ -25,6 +25,10 @@
     border-bottom: 0;
   }
 
+  &--post {
+    padding: 0;
+  }
+
   &__title {
     margin-bottom: half($font-size-base);
     font-size: $font-size-base;

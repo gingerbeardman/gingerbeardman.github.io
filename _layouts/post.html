@@ -13,9 +13,20 @@ layout: default
     <div class='o-grid__col'>
       <article class='c-post' itemscope itemtype='http://schema.org/BlogPosting'>
 
-        <h1 class='c-post__title'>{{ page.title }}</h1>
+        <a href='/' class='c-post-card c-post-card--last c-post-card--post'><h1 class='c-post__title'>{{ page.title }}</h1></a>
 
-        <time class='c-post__date' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>{{ page.date | date: '%Y-%m-%d ' }}</time>
+        <time class='c-post__date' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>
+          {{ page.date | date: '%Y-%m-%d ' }}
+          &nbsp;•&nbsp; {% include read-time.html %}
+          {% if page.tags %}
+          <span class='c-tags'>
+            &nbsp;•&nbsp;
+            {% for tag in page.tags %}
+              <a href='{{ site.baseurl }}/tag/{{ tag }}'>#{{ tag }}</a>
+            {% endfor %}
+          </span>
+          {% endif %}
+        </time>
 
         <div class='c-content' itemprop='articleBody'>
           {% include page-image.html %}
@@ -36,12 +47,12 @@ layout: default
         </div>
         {% endif %}
 
-        <div class='c-tags'>
+        <!-- <div class='c-tags'>
           Tags:
           {% for tag in page.tags %}
             <a href='{{ site.baseurl }}/tag/{{ tag }}'>#{{ tag }}</a>
           {% endfor %}
-        </div>
+        </div> -->
 
       </article>
     </div>

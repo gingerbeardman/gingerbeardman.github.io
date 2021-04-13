@@ -3,9 +3,10 @@ layout: post
 title: 'Daily Driver: OpenSCAD workflow'
 tags: [dailydriver, playdate, 3D, graphics, software]
 keywords:
+carousel: openscad
 ---
 
-{% include carousel.html height="50" unit="%" duration="7" %}
+{% include carousel.html height="82" unit="%" duration="7" %}
 
 I took the plunge and upgraded to a Mac mini and 4K display so had to migrate my setup and then figure out why my workflow was broken (spoiler: retina!) compared to my old rMBP with non-retina display.
 

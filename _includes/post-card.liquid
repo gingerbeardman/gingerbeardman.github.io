@@ -14,16 +14,19 @@
         <span class="u-right fave">♥<!-- ★ ☆ --></span>
       {% endif %}
     {% endif %}
-
     </h3>
 
     <span class='c-post-card__date'>
       {{ post.date | date: '%Y-%m-%d ' }}
-
-      <!-- Tags: -->
-      {% for tag in post  .tags %}
+<!--
+      &nbsp;•&nbsp; {% include post-card-read-time.html %}
+      {% if post.tags %}
+      &nbsp;•&nbsp;
+      {% for tag in post.tags %}
         #{{ tag }}
       {% endfor %}
+      {% endif %}
+ -->
     </span>
 
     {% if post.image %}

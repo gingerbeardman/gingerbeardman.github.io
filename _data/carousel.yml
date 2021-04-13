@@ -1,6 +1,39 @@
-images:
+openscad:
   - image: /images/posts/daily-driver-openscad-workflow-1.png
   - image: /images/posts/daily-driver-openscad-workflow-2.png
   - image: /images/posts/daily-driver-openscad-workflow-3.png
   - image: /images/posts/daily-driver-openscad-workflow-4.png
   - image: /images/posts/daily-driver-openscad-workflow-5.png
+
+retrobatch:
+  - image: /images/posts/daily-driver-retrobatch-workflow-1.png
+  - image: /images/posts/daily-driver-retrobatch-workflow-2.png
+  - image: /images/posts/daily-driver-retrobatch-workflow-3.png
+  - image: /images/posts/daily-driver-retrobatch-workflow-4.png
+
+denebacad:
+  - image: /images/posts/history-of-deneba-cad-1.jpg
+  - image: /images/posts/history-of-deneba-cad-2.jpg
+  - image: /images/posts/history-of-deneba-cad-3.jpg
+  - image: /images/posts/history-of-deneba-cad-4.jpg
+  - image: /images/posts/history-of-deneba-cad-5.jpg
+  - image: /images/posts/history-of-deneba-cad-6.jpg
+
+dreamcast-gdemu:
+  - image: /images/posts/dreamcast-gdemu-1.jpg
+  - image: /images/posts/dreamcast-gdemu-2.jpg
+  - image: /images/posts/dreamcast-gdemu-3.jpg
+  - image: /images/posts/dreamcast-gdemu-4.jpg
+  - image: /images/posts/dreamcast-gdemu-5.jpg
+
+hanafuda-controller:
+  - image: /images/posts/hanafuda-controller-a-1.jpg
+  - image: /images/posts/hanafuda-controller-a-2.jpg
+  - image: /images/posts/hanafuda-controller-b-1.jpg
+  - image: /images/posts/hanafuda-controller-b-2.jpg
+
+macintosh-classic-recap:
+  - image: /images/posts/macintosh-classic-recap-1.jpg
+  - image: /images/posts/macintosh-classic-recap-2.jpg
+  - image: /images/posts/macintosh-classic-recap-3.jpg
+  - image: /images/posts/macintosh-classic-recap-4.jpg
