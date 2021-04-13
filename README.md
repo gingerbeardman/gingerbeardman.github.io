@@ -13,6 +13,7 @@ The below text has been edited to reflect the changes I have made to the theme.
 - [Disqus Comments](#disqus-comments)
 - [Social Media Links](#social-media-links)
 - [Update favicon](#update-favicon)
+- [Extra Includes](#extra-includes)
 
 ### Configurations
 
@@ -167,5 +168,10 @@ Removed in my fork.
 ### Update favicon
 
 You can find the current favicon (favicon.ico) inside the theme root directory, just replace it with your new favicon.
+
+### Extra Includes
+
+- `read-time.html` to display reading time of non-html content
+- `tag-cloud.html` to display a tag cloud with proportional sizing of tags (count per tags is present, but disabled by default)
 
 EOF
