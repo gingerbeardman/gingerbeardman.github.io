@@ -20,7 +20,7 @@
       {{ post.date | date: '%Y-%m-%d ' }}
       &nbsp;•&nbsp; {% include post-card-read-time.html %}
       {% if post.tags %}
-      &nbsp;•&nbsp;
+      <br>
       {% for tag in post.tags %}
         #{{ tag }}
       {% endfor %}
