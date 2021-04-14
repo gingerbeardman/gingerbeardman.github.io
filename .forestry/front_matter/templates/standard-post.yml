@@ -21,4 +21,5 @@ fields:
   name: featured
   label: featured
 pages:
+- _posts/bubble-era-t-shirts.md
 - _posts/iwata-asks-downloader.md
