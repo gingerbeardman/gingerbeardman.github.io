@@ -19,7 +19,7 @@ layout: default
           {{ page.date | date: '%Y-%m-%d ' }}
           &nbsp;•&nbsp; {% include read-time.html %}
           {% if page.tags %}
-          <span class='c-tags'>
+          <Br-><span class='c-tags'>
             &nbsp;•&nbsp;
             {% for tag in page.tags %}
               <a href='{{ site.baseurl }}/tag/{{ tag }}'>#{{ tag }}</a>
