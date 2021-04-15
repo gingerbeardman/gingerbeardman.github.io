@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Verbum "journal of personal computer aesthetics"
+title: Verbum “The Journal of Personal Computer-Aesthetics”
 tags:
 - internetarchive
 - macintosh
 - verbum
 nouns:
+- Michael Gosney
 - Verbum
 carousel: ''
 featured: false
