@@ -1,12 +1,22 @@
 ---
 layout: post
-title: 'Famicom Mahjong/Hanafuda controller USB keyboard mod'
-tags: [dreamcast,mod,electronics]
-nouns: [Famicom, Capcom, Arduino, Pro Micro, NES]
+title: Famicom Mahjong/Hanafuda controller USB keyboard mod
+tags:
+- mod
+- electronics
+- famicom
+- mahjong
+- hanafuda
+nouns:
+- Famicom
+- Capcom
+- Arduino
+- Pro Micro
+- NES
 carousel: hanafuda-controller
-featured: yes
----
+featured: true
 
+---
 - Difficulty: 7/10
 - Cost: < £20
 
