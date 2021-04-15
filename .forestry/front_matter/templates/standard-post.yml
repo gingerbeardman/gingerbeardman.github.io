@@ -23,6 +23,7 @@ fields:
   label: featured
 pages:
 - _posts/1-bit-woodblocks.md
+- _posts/2019-07-10-verbum-journal-of-personal-computer-aesthetics.md
 - _posts/2021-04-06-ultrapaint-manual.md
 - _posts/asanegami-morning-hair.md
 - _posts/band-kun.md
@@ -37,4 +38,3 @@ pages:
 - _posts/skateboarder-magazine.md
 - _posts/system-7-on-ipad-pro.md
 - _posts/system-7-sending-apple-events-using-macros.md
-- _posts/verbum-journal-of-personal-computer-aesthetics.md
