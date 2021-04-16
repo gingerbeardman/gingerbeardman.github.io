@@ -5,6 +5,16 @@ tags: []
 nouns: []
 carousel: ''
 featured: false
+comments: ''
 
 ---
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s are the <a href="https://twitter.com/playscii?ref_src=twsrc%5Etfw">@Playscii</a> art files for the Sharp MZ-700 Hanafuda by ZATSOFT. Also includes blank cards: <a href="https://t.co/v6av4nfcHq">https://t.co/v6av4nfcHq</a><br><br>I&#39;d encourage you to at least try to recreate a few yourself as you&#39;ll then encounter some of the genius design decisions made by the original creator! <a href="https://t.co/SsPL3kESOO">pic.twitter.com/SsPL3kESOO</a></p>&mdash; Matt Sephton🎴 (@gingerbeardman) <a href="https://twitter.com/gingerbeardman/status/1373013485903314945?ref_src=twsrc%5Etfw">March 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Hanafuda on Sharp MZ-700.   
+By ZAT SOFT. 1983. [(instagram.com/p/Btx6ogiFPO-/)](https://www.instagram.com/p/Btx6ogiFPO-/)
+
+![](https://pbs.twimg.com/media/DzNGU74W0AAicys.jpg)
+
+Here's are the [@Playscii](https://twitter.com/Playscii) art files for the Sharp MZ-700 Hanafuda by ZATSOFT. Also includes blank cards: [https://www.dropbox.com/s/7j8lyoi6twdderl/Sharp%20MZ-700%20Hanafuda.zip?dl=0](https://www.dropbox.com/s/7j8lyoi6twdderl/Sharp%20MZ-700%20Hanafuda.zip?dl=0 "https://www.dropbox.com/s/7j8lyoi6twdderl/Sharp%20MZ-700%20Hanafuda.zip?dl=0")  
+  
+I'd encourage you to at least try to recreate a few cards yourself as you'll then encounter some of the genius design decisions made by the original creator!
+
+![](https://pbs.twimg.com/media/Ew3r2xiXEAgrqWj.png)
