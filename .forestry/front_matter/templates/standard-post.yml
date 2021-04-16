@@ -21,6 +21,11 @@ fields:
 - type: boolean
   name: featured
   label: featured
+- name: comments
+  type: text
+  config:
+    required: false
+  label: comments
 pages:
 - _posts/2019-02-28-hanafuda-discord.md
 - _posts/2019-07-10-verbum-journal-of-personal-computer-aesthetics.md
