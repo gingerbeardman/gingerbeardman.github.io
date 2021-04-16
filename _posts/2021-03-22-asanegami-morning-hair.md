@@ -9,7 +9,7 @@ tags:
 - 1bitwoodblocks
 nouns: []
 carousel: ''
-featured: false
+featured: true
 comments: ''
 
 ---
