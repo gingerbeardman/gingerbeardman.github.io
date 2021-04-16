@@ -1,7 +1,12 @@
 ---
 layout: post
 title: Kamisuki (Woman Combing her Hair)
-tags: []
+tags:
+- nft
+- japanese
+- 1bitwoodblocks
+- 1bit
+- macintosh
 nouns: []
 carousel: ''
 featured: false
