@@ -162,7 +162,7 @@ And also check [Disqus troubleshooting guide](https://help.disqus.com/customer/p
 
 ### Social Media Links
 
-Removed in my fork.
+Removed in this fork.
 
 
 ### Update favicon
