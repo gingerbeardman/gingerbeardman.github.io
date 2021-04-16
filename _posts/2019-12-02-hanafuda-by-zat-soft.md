@@ -5,7 +5,7 @@ tags: []
 nouns: []
 carousel: ''
 featured: false
-comments: ''
+comments: https://twitter.com/gingerbeardman/status/1095296460999008256?s=20
 
 ---
 Hanafuda on Sharp MZ-700.   
