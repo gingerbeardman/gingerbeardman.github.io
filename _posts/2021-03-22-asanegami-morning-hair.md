@@ -2,12 +2,15 @@
 layout: post
 title: Asanegami (Morning Hair)
 tags:
+- macintosh
+- 1bit
 - nft
 - japanese
 - 1bitwoodblocks
 nouns: []
 carousel: ''
 featured: false
+comments: ''
 
 ---
 Second in my series 1-bit Woodblocks. 
