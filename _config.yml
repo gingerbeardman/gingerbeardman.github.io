@@ -20,7 +20,7 @@ facebook:    ''
 
 markdown:  kramdown
 permalink: pretty
-paginate:  16
+paginate:  10
 
 sass:
   style: compressed
