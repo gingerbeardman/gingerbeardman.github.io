@@ -7,7 +7,15 @@ tags:
 - deneba
 - resedit
 - system7
-nouns: []
+nouns:
+- Palm OS
+- Macintosh
+- iPad
+- System
+- artWORKS
+- Deneba
+- Photoshop
+- ResEdit
 carousel: ''
 featured: false
 comments: https://twitter.com/gingerbeardman/status/1376195983676170249
@@ -23,7 +31,7 @@ Several trips between ResEdit and Photoshop (version 1.0!) and I was done.
 
 This is to make the tool buttons easier to tap with my thumb when running System 7 on iPad.  
   
-I love this takable nature of early Mac systems. Palm OS is very similar in that regard.   
+I love this takable nature of early Macintosh systems. Palm OS is very similar in that regard.   
   
 Why moan about an app not being to your liking when you can DIY!?
 
