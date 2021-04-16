@@ -10,6 +10,21 @@ tags:
 nouns: []
 carousel: ''
 featured: false
+comments: https://twitter.com/gingerbeardman/status/1376195983676170249
 
 ---
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I just finished increasing the size of toolbar icons in Deneba artWorks from 24x16 to 24x24.<br><br>Easily done by finding the dialog that contains these icons, and resizing the canvas of each related PICT.<br><br>Several trips between ResEdit and Photoshop and I was done. <a href="https://twitter.com/hashtag/MARCHintosh?src=hash&amp;ref_src=twsrc%5Etfw">#MARCHintosh</a> <a href="https://t.co/N0cFJ0SPxV">pic.twitter.com/N0cFJ0SPxV</a></p>&mdash; Matt Sephton🎴 (@gingerbeardman) <a href="https://twitter.com/gingerbeardman/status/1376195983676170249?ref_src=twsrc%5Etfw">March 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+I just finished increasing the size of toolbar icons in Deneba artWorks from 24x16 to 24x24.  
+  
+Easily done by finding the dialog that contains these icons, and resizing the canvas of each related PICT.  
+  
+Several trips between ResEdit and Photoshop (version 1.0!) and I was done.
+
+![](https://pbs.twimg.com/media/Exk6ssWW8AI4RWU.png)
+
+This is to make the tool buttons easier to tap with my thumb when running System 7 on iPad.  
+  
+I love this takable nature of early Mac systems. Palm OS is very similar in that regard.   
+  
+Why moan about an app not being to your liking when you can DIY!?
+
+![](https://pbs.twimg.com/media/Exk7A6PW8AMkIzW.png)
