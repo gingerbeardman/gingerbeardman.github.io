@@ -8,6 +8,7 @@ tags:
 nouns: []
 carousel: ''
 featured: false
+comments: https://twitter.com/gingerbeardman/status/1312397376926216193
 
 ---
 Backed up a very old laptop and found a bunch of cool old stuff from 15-20 years ago! [#thread](https://twitter.com/hashtag/thread?src=hash)
