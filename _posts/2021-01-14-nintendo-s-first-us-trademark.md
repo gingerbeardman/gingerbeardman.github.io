@@ -2,8 +2,10 @@
 layout: post
 title: Nintendo's first US trademark
 tags:
+- history
 - nintendo
-nouns: []
+nouns:
+- Nintendo
 carousel: ''
 featured: false
 
