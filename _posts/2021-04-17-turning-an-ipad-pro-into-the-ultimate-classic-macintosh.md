@@ -26,6 +26,8 @@ comments: ''
 ---
 I've started work on the next in my 1-bit Woodblocks series: "Tekagami" (Ito Shinsui's "Hand Mirror"). So I thought it is a good time to talk a bit about how I turned my iPad Pro into the ultimate Classic Macintosh.
 
+![](/images/6547d0cb-447f-4373-92c3-a23eac7acb51.jpeg)
+
 ### Emulators
 
 Both Macintosh emulators available on iOS we're ported by [@maczydeco](https://Twitter.com/maczydeco "@maczydeco") who has done an amazing job making them feel truly at home on iOS. Many thanks! They need to be built from source using Xcode but it's a pretty straight forward process.
