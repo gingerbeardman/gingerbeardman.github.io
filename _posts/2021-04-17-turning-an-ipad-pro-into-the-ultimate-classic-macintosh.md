@@ -8,6 +8,7 @@ tags:
 - emulation
 - macintosh
 nouns:
+- Classic
 - iPhone
 - System
 - 1-bit Woodblocks
