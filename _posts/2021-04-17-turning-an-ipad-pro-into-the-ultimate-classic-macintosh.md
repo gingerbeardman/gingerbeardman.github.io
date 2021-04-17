@@ -26,7 +26,7 @@ nouns:
 - BasiliskII
 carousel: ''
 featured: false
-comments: ''
+comments: https://twitter.com/gingerbeardman/status/1383559592873918469
 
 ---
 I've started work on the next in my 1-bit Woodblocks series: "Tekagami" (Ito Shinsui's "Hand Mirror"). So it's a good time to talk about how I turned an iPad Pro into the ultimate Classic Macintosh.
