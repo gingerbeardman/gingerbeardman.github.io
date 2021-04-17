@@ -8,6 +8,7 @@ tags:
 - emulation
 - macintosh
 nouns:
+- 1-bit Woodblocks
 - Share Sheet
 - iOS
 - artWORKS
