@@ -26,7 +26,7 @@ featured: false
 comments: ''
 
 ---
-I've started work on the next in my 1-bit Woodblocks series: "Tekagami" (Ito Shinsui's "Hand Mirror"). So I thought it is a good time to talk a bit about how I turned my iPad Pro into the ultimate Classic Macintosh.
+I've started work on the next in my 1-bit Woodblocks series: "Tekagami" (Ito Shinsui's "Hand Mirror"). So it's a good time to talk about how I turned my iPad Pro into the ultimate Classic Macintosh.
 
 ![](/images/6547d0cb-447f-4373-92c3-a23eac7acb51.jpeg)
 
