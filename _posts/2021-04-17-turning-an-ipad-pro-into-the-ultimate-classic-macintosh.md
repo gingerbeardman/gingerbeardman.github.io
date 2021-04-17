@@ -62,11 +62,11 @@ With BasiliskII things are easier as it has a drive mapped to the apps file shar
 
 ### Screen Resolutions
 
-The original Macintosh had a native screen resolution of 512x342.
+The original Macintosh had a native screen resolution of 512×342.
 
-Conceptually, the iPad has a logical screen resolution of 1024x768, which when running in pixel doubled mode equates to 512x384. A pretty good match. Specifically, the native resolution varies according to the model of iPad or iPhone you are using.
+Conceptually, the iPad has a logical screen resolution of 1024×768, which when running in pixel doubled mode equates to 512×384. A pretty good match. Specifically, the native resolution varies according to the model of iPad or iPhone you are using.
 
-I use an iPad Pro 12.9" which has a native resolution of 2732x2048, pixel doubled that means 1366x1024, and pixel quadrupled 683x512. Targetting this ballpark of resolution means user interface elements will be around the magic 44pt tappable area, meaning that fingertip intersctions are accurate and enjoyable.
+I use an iPad Pro 12.9" which has a native resolution of 2732×2048, pixel doubled that means 1366×1024, and pixel quadrupled 683×512. Targetting this ballpark of resolution means user interface elements will be around the magic 44pt tappable area, meaning that fingertip intersctions are accurate and enjoyable.
 
 Of course the iPad can flip between landscape and portrait orientations on demand, which means BasiliskII supporting the Monitors control panel is a big win.
 
