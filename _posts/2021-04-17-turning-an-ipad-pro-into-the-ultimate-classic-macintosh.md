@@ -15,7 +15,6 @@ nouns:
 - artWORKS
 - UltraPaint
 - Macintosh
-- iPhone
 - Monitors
 - Mini vMac
 - Pro
