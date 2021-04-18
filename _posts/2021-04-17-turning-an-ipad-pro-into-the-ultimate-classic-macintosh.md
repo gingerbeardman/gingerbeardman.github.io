@@ -41,7 +41,7 @@ Both Macintosh emulators available on iOS we're ported by [@maczydeco](https://T
 
 * Supports System 1.1 to 7.5.5
 * Limited RAM and CPU emulation
-* File sharing via bespoke apps
+* File sharing via bespoke method
 * No dynamic screen resolution changing
 * Odd interface using Control key shortcuts
 
