@@ -77,6 +77,6 @@ So I added a bunch of custom resolutions to the BasiliskII soure code to add sup
 
 Both emulators share the same software keyboard mechanism. The keyboard maps are user-editable as JSON and compiled into a custom format.
 
-So I hacked together a custom keyboard for BasiliskII that gives me quick thumb access to tools and shortcuts in my most used apps: UltraPaint and artWORKS. With this I'm mostly relabelling the function keys, but I've also replaced some key codes to reposition keys for my own purposes. I'll go into exactly how I do it in another post.
+So I hacked together a custom keyboard for BasiliskII that gives me quick thumb access to tools and shortcuts in my most used apps: UltraPaint and artWORKS. With this I'm mostly relabelling the function keys, but I've also replaced some key codes to reposition keys for my own purposes. I'll go into exactly how these keys trigger app functions in another post.
 
 ![](https://pbs.twimg.com/media/Ex96lH3WUAEJQyX.jpg)
