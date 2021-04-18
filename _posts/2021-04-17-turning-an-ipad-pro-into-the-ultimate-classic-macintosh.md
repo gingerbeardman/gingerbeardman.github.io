@@ -59,7 +59,7 @@ This works a treat in both emulators, but the experience is better in BasiliskII
 
 With Mini vMac you need to run a special file import app, and then whilst it's open use iOS Share Sheet to send a file to Mini vMac. These extra steps are just enough friction to make the emulator annoying to use.
 
-With BasiliskII things are easier as it has a drive mapped to the apps file sharing folder. You can use the Share Sheet in the same way as Mini vMac, but you can also simply copy/move a file to the BasiliskII folder and it will be accessible inside the emulator. The only gotcha with this approach is that you'll need to move the file to the main disk drive otherwise you'll encounter various oddities with apps that don't know how to cope with files located on this sort of shared drive.
+With BasiliskII things are easier as it has a drive mapped to the app's file sharing folder. You can use the Share Sheet in the same way as Mini vMac, but you can also simply copy/move a file to the BasiliskII folder and it will be accessible inside the emulator. The only gotcha with this approach is that you'll need to move the file to the emulated system's main disk drive otherwise you'll encounter various oddities with apps that don't know how to cope with files located on this sort of shared drive.
 
 ### Screen Resolutions
 
