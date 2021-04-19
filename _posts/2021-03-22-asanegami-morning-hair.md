@@ -15,16 +15,16 @@ comments: ''
 ---
 Second in my series 1-bit Woodblocks.
 
-I've just finished "Asanegami" [#MorningHair](https://twitter.com/hashtag/MorningHair?src=hash) so I thought I'd go into a few of my favourite details!  
-  
+I've just finished "Asanegami" (Morning Hair) so I thought I'd go into a few of my favourite details!
+
 • eyes  
 • eyebrows  
 • background  
 • lips  
 • comb/history
 
-I spent a long time adding and refining eye details, my reasoning being that these are the first thing you look at.  
-  
+I spent a long time adding and refining eye details, my reasoning being that these are the first thing you look at.
+
 Also I went without "blusher" skin tone shading around the eyes, the amount of which varies depending on which impression of the original you're looking at.
 
 ![](https://pbs.twimg.com/media/ExaQV15WgAMOBpT.png)
@@ -33,8 +33,8 @@ The eyebrows were quite tricky, I tried layering multiple dither patterns but wa
 
 ![](https://pbs.twimg.com/media/ExaOsKYWUAE7N7M.png)
 
-The original background is quite busy. I tried being faithful to it but I was never happy with how it looked. Too noisy.  
-  
+The original background is quite busy. I tried being faithful to it but I was never happy with how it looked. Too noisy.
+
 So I used one of my own "noise" dithered patterns. I'm quite proud of these patterns and wonder if they are unique? They strike a good balance of order/chaos.
 
 ![](https://pbs.twimg.com/media/ExaOxifW8AQgLRB.png)
@@ -51,8 +51,8 @@ I thought it would be a fun modern twist to replace the comb with an iPhone show
 
 ![](https://pbs.twimg.com/media/ExaPRPXW8AQgV4l.png)
 
-As always I used a mix of old and new technology to create this piece.   
-  
+As always I used a mix of old and new technology to create this piece.
+
 Old: UltraPaint on Macintosh System 7.1  
 New: Mini vMac emulator on iPad Pro
 
