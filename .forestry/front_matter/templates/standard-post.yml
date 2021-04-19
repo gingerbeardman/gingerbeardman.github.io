@@ -13,8 +13,9 @@ fields:
   type: tag_list
   default: []
   label: tags
-- type: list
-  name: nouns
+- name: nouns
+  type: tag_list
+  default: []
   label: nouns
 - name: comments
   type: text
