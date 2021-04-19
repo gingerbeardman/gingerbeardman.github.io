@@ -48,6 +48,3 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
-
-- name: Jekyll Actions
-  uses: helaili/jekyll-action@2.2.0
