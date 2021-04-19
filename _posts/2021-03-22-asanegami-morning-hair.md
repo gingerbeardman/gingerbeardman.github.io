@@ -17,10 +17,10 @@ Second in my series 1-bit Woodblocks.
 
 I've just finished "Asanegami" (Morning Hair) so I thought I'd go into a few of my favourite details!
 
-• eyes  
-• eyebrows  
-• background  
-• lips  
+• eyes
+• eyebrows
+• background
+• lips
 • comb/history
 
 I spent a long time adding and refining eye details, my reasoning being that these are the first thing you look at.
@@ -53,9 +53,9 @@ I thought it would be a fun modern twist to replace the comb with an iPhone show
 
 As always I used a mix of old and new technology to create this piece.
 
-Old: UltraPaint on Macintosh System 7.1  
+Old: UltraPaint on Macintosh System 7.1
 New: Macintosh emulator on iPad Pro 12.9"
 
 My interpretation of Torii Kotondo's "Morning Hair" is now available to purchase as “1-bit Woodblock: Asanegami” [(foundation.app/gingerbeardman…)](https://foundation.app/gingerbeardman/1-bit-woodblock-asanegami-14297)
 
-![](https://pbs.twimg.com/media/Exae_U7WUAE3uDX.jpg)
+![PNG](/images/posts/1bit-asanegami.png)
