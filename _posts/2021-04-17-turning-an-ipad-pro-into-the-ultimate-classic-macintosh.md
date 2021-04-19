@@ -50,6 +50,7 @@ Both Macintosh emulators available on iOS we're ported by [@maczydeco](https://T
 * File Sharing via bespoke method
 * No dynamic screen resolution changing
 * Odd interface using Control key shortcuts
+* Source details: [https://github.com/zydeco/minivmac4ios](https://github.com/zydeco/minivmac4ios "https://github.com/zydeco/minivmac4ios")
 
 **BasiliskII**
 
@@ -58,6 +59,7 @@ Both Macintosh emulators available on iOS we're ported by [@maczydeco](https://T
 * File Sharing via mapped folder
 * Dynamic screen resolutions through Monitors control panel, or automation
 * Native iOS interface for settings panel, negating all the issues with the desktop GUI
+* Source details: [https://github.com/zydeco/macemu/wiki/BasiliskII-for-iOS](https://github.com/zydeco/macemu/wiki/BasiliskII-for-iOS "https://github.com/zydeco/macemu/wiki/BasiliskII-for-iOS") (use the `ios` branch!)
 
 ### File Sharing
 
@@ -95,9 +97,9 @@ The iPad Pro is more portable, reliable and capable than my real Macintosh. We'v
 
 The iPad's display in particular is a huge differentiator—it can assume so many different resolutions it should be thought of as a collection of displays rather than just one.
 
-Apple Pencil is very similar in feel to my Wacom ArtPad II, but with the single huge improvement that you're drawing directly on the screen. Drawing with an Apple Pencil on System 7 is every bit as good as with a native iPad app. 
+Apple Pencil is very similar in feel to my Wacom ArtPad II, but with the single huge improvement that you're drawing directly on the screen. Drawing with an Apple Pencil on System 7 is every bit as good as with a native iPad app.
 
-iOS is only a swipe away: you can use a modern web browser like Safari to download software, expand archives more quickly with Files, watch videos picture-in-picture, listen to streaming music and so many other things that aren't doable (or are very tricky to do) on a real classic Macintosh. 
+iOS is only a swipe away: you can use a modern web browser like Safari to download software, expand archives more quickly with Files, watch videos picture-in-picture, listen to streaming music and so many other things that aren't doable (or are very tricky to do) on a real classic Macintosh.
 
 This setup is the best of both worlds, and that's why I refer to it as the Ultimate Classic Macintosh.
 
