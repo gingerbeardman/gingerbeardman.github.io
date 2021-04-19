@@ -85,7 +85,7 @@ So I hacked together a custom keyboard for BasiliskII that gives me quick thumb 
 
 ### How does it compare to a real Macintosh?
 
-The most important aspect of this setup is that it runs System 7 and the various apps I use. That is the core of my classic Macintosh experience. Hardware is just a conduit. 
+The most important aspect of this setup is that it runs System 7 and the various apps I use. That is the core of my classic Macintosh experience. The hardware is merely a conduit.
 
 The iPad Pro is more portable, reliable and capable than my real Macintosh Classic. The screen in particular is a huge differentiator—it can assume so many different resolutions it should be thought of as a collection of displays.
 
