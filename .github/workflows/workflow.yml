@@ -5,9 +5,9 @@ on:
     branches:
       - master
       # - source
-      # It is highly recommended that you only run this action on push to a 
+      # It is highly recommended that you only run this action on push to a
         # specific branch, eg. master or source (if on *.github.io repo)
-    
+
 jobs:
   jekyll:
     runs-on: ubuntu-16.04 # can change this to ubuntu-latest if you prefer
@@ -71,4 +71,4 @@ jobs:
           publish_dir: ./_site
           # if the repo you are deploying to is <username>.github.io, uncomment the line below.
           # if you are including the line below, make sure your source files are NOT in the master branch:
-          # publish_branch: master
+          publish_branch: master
