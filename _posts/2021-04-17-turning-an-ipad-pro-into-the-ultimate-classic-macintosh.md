@@ -95,9 +95,11 @@ The iPad Pro is more portable, reliable and capable than my real Macintosh. We'v
 
 The iPad's display in particular is a huge differentiator—it can assume so many different resolutions it should be thought of as a collection of displays rather than just one.
 
-Apple Pencil is very similar in feel to my Wacom ArtPad II, but with the single huge improvement that you're drawing directly on the screen.
+Apple Pencil is very similar in feel to my Wacom ArtPad II, but with the single huge improvement that you're drawing directly on the screen. Drawing with an Apple Pencil on System 7 is every bit as good as with a native iPad app. 
 
-And of course this is all sitting inside of iOS do you can use a modern web browser like Safari to download software, expand archives more quickly with Files, watch videos picture-in-picture, listen to streaming music and so many other things that aren't possible on a real classic Macintosh. It's the best of both worlds, and why I call it the Ultimate Classic Macintosh.
+iOS is only a swipe away: you can use a modern web browser like Safari to download software, expand archives more quickly with Files, watch videos picture-in-picture, listen to streaming music and so many other things that aren't doable (or are very tricky to do) on a real classic Macintosh. 
+
+This setup is the best of both worlds, and that's why I refer to it the Ultimate Classic Macintosh.
 
 ### Forthcoming posts
 
