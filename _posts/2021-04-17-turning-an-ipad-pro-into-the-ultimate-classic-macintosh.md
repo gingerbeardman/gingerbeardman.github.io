@@ -40,7 +40,7 @@ comments: https://twitter.com/gingerbeardman/status/1383559592873918469
 ---
 I've started work on the next in my 1-bit Woodblocks series: "Tekagami" (Ito Shinsui's "Hand Mirror"). So it's a good time to talk about how I turned an iPad Pro into the ultimate Classic Macintosh.
 
-![](/images/6547d0cb-447f-4373-92c3-a23eac7acb51.jpeg)
+![JPG](/images/posts/ultimate-classic-macintosh-1.jpg)
 
 ### Emulators
 
@@ -90,11 +90,9 @@ Both emulators share the same software keyboard mechanism. The keyboard maps are
 
 So I hacked together a [custom keyboard layout](https://github.com/gingerbeardman/artworks-keyboard) that can be used in either emulator that gives me quick thumb access to tools and shortcuts in my most used apps: artWORKS and UltraPaint. It works for both apps as they are related, sharing a lot of code and resources.
 
-With this keyboard layout I'm mostly relabelling the function keys, but I've also replaced some key codes to reposition keys for my own purposes. The apps don't respond to function keys so I use macros to get things to work.
+![PNG](/images/posts/ultimate-classic-macintosh-2.png)
 
-I'll go into exactly how these keys trigger app functions—using System 7's Apple Events—in another post.
-
-![](https://pbs.twimg.com/media/Ex96lH3WUAEJQyX.jpg)
+With this keyboard layout I'm mostly relabelling the function keys, but I've also replaced some key codes to reposition keys for my own purposes. The apps don't respond to function keys so I use macros and Apple Events to get things to work [as detailed in another post](/2021/04/19/automating-interactions-using-apple-events/).
 
 ### How does the experience compare to a real Macintosh?
 

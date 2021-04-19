@@ -29,8 +29,6 @@ comments: ''
 
 My first thought was to try the naive way of selecting tools by just clicking them! If the tool palettes are positioned in the same place (this can also be automated) then macros can simply click at specific screen locations to select a tool. This approach works well for both apps. But this is a very fragile way of automating interactions—if windows are inadvertently moved the automation will break. So, there's definitely room for improvement.
 
-![](https://pbs.twimg.com/media/Ex_UUFJW8AAgJVs.jpg)
-
 ### Going Deeper
 
 According to period Apple documentation ([PDF](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiIr_OAzYXwAhXErHEKHR_sAcYQFjAAegQIChAD&url=https%3A%2F%2Fdeveloper.apple.com%2Flegacy%2Flibrary%2Fdocumentation%2Fmac%2Fpdf%2FInterapplication_Communication%2FIntro_to_IAC.pdf&usg=AOvVaw0WKA5J59562fzTuOMZ58PG), [HTML](http://mirror.informatimago.com/next/developer.apple.com/documentation/mac/IAC/IAC-94.html)) a means of automation was introduced in System 7:
@@ -61,7 +59,7 @@ The result was much faster Apple Events sending and no distracting window focus 
 
 The end result is a macro of two parts: the first section operates artWORKS using Apple Events, continuing without complaint if the app is not open, and the second section operates UltraPaint via simple mouse clicks.
 
-![](/images/dual-macro-1.png)
+![PNG](/images/posts/automating-apple-events.png)
 
 I plan to adding support for Canvas 3.x at some point as this shares Apple Events support with artWORKS.
 
