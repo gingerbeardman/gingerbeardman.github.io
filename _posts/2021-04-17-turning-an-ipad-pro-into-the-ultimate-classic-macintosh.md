@@ -8,6 +8,7 @@ tags:
 - emulation
 - macintosh
 nouns:
+- Apple Pencil
 - Wacom ArtPad II
 - Ultimate Classic Macintosh
 - Safari
@@ -87,7 +88,7 @@ So I hacked together a custom keyboard for BasiliskII that gives me quick thumb 
 
 ![](https://pbs.twimg.com/media/Ex96lH3WUAEJQyX.jpg)
 
-### How does it compare to a real Macintosh?
+### How does the experience compare to a real Macintosh?
 
 The most important aspect of this setup is that it runs System 7 and the various apps I use. That is the core of my classic Macintosh experience. The hardware is merely a conduit.
 
