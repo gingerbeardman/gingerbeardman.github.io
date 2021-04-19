@@ -103,7 +103,7 @@ iOS is only a swipe away: download software using a modern web browser like Safa
 
 Bluetooth keyboards just work. The new/recent mouse pointer support in iOS also works. You for even plug the iPad into an external display to go full circle back to a desktop computer. 
 
-This setup is the best of both worlds, and that's why I refer to it as the Ultimate Classic Macintosh.
+This setup gives me the best of both worlds, and that's why I refer to it as the Ultimate Classic Macintosh.
 
 ### Forthcoming posts
 
