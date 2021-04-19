@@ -8,6 +8,8 @@ tags:
 - emulation
 - macintosh
 nouns:
+- Books
+- Inside Macintosh
 - Apple Pencil
 - Wacom ArtPad II
 - Ultimate Classic Macintosh
