@@ -97,7 +97,7 @@ Thst said, the iPad Pro is more portable, reliable and capable than my real Maci
 
 The iPad's display in particular is a huge differentiator—it can assume so many different resolutions it should be thought of as a collection of displays rather than just a single one.
 
-Apple Pencil is very similar in feel to my Wacom ArtPad II, but with the single huge improvement that you're drawing directly on the screen. Drawing with an Apple Pencil on System 7 is every bit as good as with a native iPad app.
+Apple Pencil is very similar in feel to my Wacom ArtPad II, but with the single huge improvement that you're drawing directly on the screen. Drawing with an Apple Pencil on System 7 is every bit as good as drawing in a native iPad app.
 
 iOS is only a swipe away: download software using a modern web browser like Safari, expand archives more quickly with Files, watch videos picture-in-picture, listen to streaming music and so many other things that aren't doable (or at least are extremely difficult to do) on a real classic Macintosh.
 
