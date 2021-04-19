@@ -8,6 +8,7 @@ tags:
 - emulation
 - macintosh
 nouns:
+- Wacom ArtPad II
 - Ultimate Classic Macintosh
 - Safari
 - Files
