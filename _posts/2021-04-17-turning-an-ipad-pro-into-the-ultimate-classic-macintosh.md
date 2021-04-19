@@ -34,7 +34,7 @@ nouns:
 - iPad
 - BasiliskII
 carousel: ''
-featured: false
+featured: true
 comments: https://twitter.com/gingerbeardman/status/1383559592873918469
 
 ---
