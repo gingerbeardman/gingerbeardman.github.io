@@ -8,6 +8,8 @@ tags:
 - emulation
 - macintosh
 nouns:
+- Apple Events
+- System
 - 44pt
 - Xcode
 - Classic
@@ -59,7 +61,7 @@ This works a treat in both emulators, but the experience is better in BasiliskII
 
 With Mini vMac you need to run a special file import app, and then whilst it's open use iOS Share Sheet to send a file to Mini vMac. These extra steps are just enough friction to make the emulator annoying to use.
 
-With BasiliskII things are easier as it has a drive mapped to the app's file sharing folder. You can use the Share Sheet in the same way as Mini vMac, but you can also simply copy/move a file to the BasiliskII folder and it will be accessible inside the emulator. The only gotcha with this approach is that you'll need to move the file to the emulated system's main disk drive otherwise you'll encounter various oddities with apps that don't know how to cope with files located on this sort of shared drive.
+With BasiliskII things are easier as it has a drive mapped to the app's file sharing folder. You can use the Share Sheet in the same way as Mini vMac, but you can also simply copy/move a file to the BasiliskII folder and it will be accessible inside the emulator. The only gotcha with this approach is that you're best moving the file to the emulated system's main disk drive otherwise you'll encounter various oddities with apps that don't know how to cope with files located on this sort of shared drive.
 
 ### Screen Resolutions
 
@@ -77,6 +79,15 @@ So I added a bunch of custom resolutions to the BasiliskII soure code to add sup
 
 Both emulators share the same software keyboard mechanism. The keyboard maps are user-editable as JSON and compiled into a custom format.
 
-So I hacked together a custom keyboard for BasiliskII that gives me quick thumb access to tools and shortcuts in my most used apps: UltraPaint and artWORKS. With this I'm mostly relabelling the function keys, but I've also replaced some key codes to reposition keys for my own purposes. I'll go into exactly how these keys trigger app functions in another post.
+So I hacked together a custom keyboard for BasiliskII that gives me quick thumb access to tools and shortcuts in my most used apps: UltraPaint and artWORKS. With this I'm mostly relabelling the function keys, but I've also replaced some key codes to reposition keys for my own purposes. I'll go into exactly how these keys trigger app functions—using System 7's Apple Events—in another post.
 
 ![](https://pbs.twimg.com/media/Ex96lH3WUAEJQyX.jpg)
+
+### Forthcoming posts
+
+* Automation
+* App Choices
+* File Conversions
+* Interoperability with iOS
+* Printing
+* Apple Pencil
