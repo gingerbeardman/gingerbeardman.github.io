@@ -99,7 +99,7 @@ Apple Pencil is very similar in feel to my Wacom ArtPad II, but with the single 
 
 iOS is only a swipe away: you can use a modern web browser like Safari to download software, expand archives more quickly with Files, watch videos picture-in-picture, listen to streaming music and so many other things that aren't doable (or are very tricky to do) on a real classic Macintosh. 
 
-This setup is the best of both worlds, and that's why I refer to it the Ultimate Classic Macintosh.
+This setup is the best of both worlds, and that's why I refer to it as the Ultimate Classic Macintosh.
 
 ### Forthcoming posts
 
