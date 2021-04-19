@@ -83,6 +83,14 @@ So I hacked together a custom keyboard for BasiliskII that gives me quick thumb 
 
 ![](https://pbs.twimg.com/media/Ex96lH3WUAEJQyX.jpg)
 
+### How does it compare to a real Macintosh?
+
+The most important aspect of this setup is that it runs System 7 and the apps I use. That is the core of my classic Macintosh experience and why I've done this.
+
+The iPad Pro is more portable, reliable and capable than my real Macintosh Classic. The screen in particular is a huge differentiator—it can assume so many different resolutions it's more like a bank of monitors rather than just one. 
+
+Apple Pencil is very similar in feel to my Wacom ArtPad II pen, but with the huge improvement that you're drawing directly on the screen.
+
 ### Forthcoming posts
 
 * Automation
