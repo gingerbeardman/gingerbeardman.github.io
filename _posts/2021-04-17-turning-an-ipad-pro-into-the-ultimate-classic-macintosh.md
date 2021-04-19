@@ -99,7 +99,9 @@ The iPad's display in particular is a huge differentiator—it can assume so man
 
 Apple Pencil is very similar in feel to my Wacom ArtPad II, but with the single huge improvement that you're drawing directly on the screen. Drawing with an Apple Pencil on System 7 is every bit as good as with a native iPad app.
 
-iOS is only a swipe away: you can use a modern web browser like Safari to download software, expand archives more quickly with Files, watch videos picture-in-picture, listen to streaming music and so many other things that aren't doable (or are very tricky to do) on a real classic Macintosh.
+iOS is only a swipe away: download software using a modern web browser like Safari, expand archives more quickly with Files, watch videos picture-in-picture, listen to streaming music and so many other things that aren't doable (or at least are extremely difficult to do) on a real classic Macintosh.
+
+Bluetooth keyboards just work. The new/recent mouse pointer support in iOS also works.
 
 This setup is the best of both worlds, and that's why I refer to it as the Ultimate Classic Macintosh.
 
