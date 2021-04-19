@@ -93,9 +93,9 @@ So I hacked together a custom keyboard for BasiliskII that gives me quick thumb 
 
 The most important aspect of this setup is that it runs System 7 and the various apps I use. That is the core of my classic Macintosh experience and the only goal I had in mind. The hardware running System 7 is merely a conduit.
 
-The iPad Pro is more portable, reliable and capable than my real Macintosh. We've got 30 years of hardware progress on our side.
+Thst said, the iPad Pro is more portable, reliable and capable than my real Macintosh. That's 30 years of hardware progress for you.
 
-The iPad's display in particular is a huge differentiator—it can assume so many different resolutions it should be thought of as a collection of displays rather than just one.
+The iPad's display in particular is a huge differentiator—it can assume so many different resolutions it should be thought of as a collection of displays rather than just a single one.
 
 Apple Pencil is very similar in feel to my Wacom ArtPad II, but with the single huge improvement that you're drawing directly on the screen. Drawing with an Apple Pencil on System 7 is every bit as good as with a native iPad app.
 
