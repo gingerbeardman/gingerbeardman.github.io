@@ -101,7 +101,7 @@ Apple Pencil is very similar in feel to my Wacom ArtPad II, but with the single 
 
 iOS is only a swipe away: download software using a modern web browser like Safari, expand archives more quickly with Files, watch videos picture-in-picture, listen to streaming music and so many other things that aren't doable (or at least are extremely difficult to do) on a real classic Macintosh.
 
-Bluetooth keyboards just work. The new/recent mouse pointer support in iOS also works.
+Bluetooth keyboards just work. The new/recent mouse pointer support in iOS also works. You for even plug the iPad into an external display to go full circle back to a desktop computer. 
 
 This setup is the best of both worlds, and that's why I refer to it as the Ultimate Classic Macintosh.
 
