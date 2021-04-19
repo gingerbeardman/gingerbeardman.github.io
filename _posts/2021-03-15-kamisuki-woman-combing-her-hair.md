@@ -17,7 +17,7 @@ Woman Combing her Hair (Portrait of Kodaira Tomi) original by Hashiguchi Goyô, 
 
 ![PNG](/images/posts/1bit-kamisuki-ultrapaint.png)
 
-My process involves both modern software (custom image processing tool & custom Portrait build of Mini vMac) and old technology (1992 Macintosh Classic & period Wacom ArtPad tablet, Deneba UltraPaint, Dave Theurer's DeBabelizer) it's such a zen experience.
+My process involves both modern software (custom image processing tool & custom Portrait build of Mini vMac) and old technology (1992 Macintosh Classic & period Wacom ArtPad II tablet, Deneba UltraPaint, Dave Theurer's DeBabelizer) it's such a zen experience.
 
 ![](https://pbs.twimg.com/media/EwW7GeQWEAYXbGt.jpg)
 
