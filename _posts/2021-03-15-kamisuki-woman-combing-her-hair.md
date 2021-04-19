@@ -7,7 +7,14 @@ tags:
 - 1bitwoodblocks
 - 1bit
 - macintosh
-nouns: []
+nouns:
+- Macintosh
+- Classic
+- Wacom ArtPad II
+- Deneba
+- UltraPaint
+- DeBabelizer
+- MacPaint
 carousel: ''
 featured: false
 comments: https://twitter.com/gingerbeardman/status/1371255704292581377
@@ -17,7 +24,7 @@ Woman Combing her Hair (Portrait of Kodaira Tomi) original by Hashiguchi Goyô, 
 
 ![PNG](/images/posts/1bit-kamisuki-ultrapaint.png)
 
-My process involves both modern software (custom image processing tool & custom Portrait build of Mini vMac) and old technology (1992 Macintosh Classic & period Wacom ArtPad II tablet, Deneba UltraPaint, Dave Theurer's DeBabelizer) it's such a zen experience.
+My process involves both modern software (custom image processing tool & custom build of a Macintosh emulator) and old technology (1992 Macintosh Classic & period Wacom ArtPad II tablet, Deneba UltraPaint, Dave Theurer's DeBabelizer) it's such a zen experience.
 
 ![](https://pbs.twimg.com/media/EwW7GeQWEAYXbGt.jpg)
 
