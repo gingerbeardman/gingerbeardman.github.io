@@ -2,9 +2,8 @@
 layout: post
 title: Automating interactions using Apple Events
 tags:
-- book
-- minivmac
-- basiliskii
+- automation
+- system7
 - emulation
 - macintosh
 nouns:
