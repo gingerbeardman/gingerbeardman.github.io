@@ -96,7 +96,7 @@ So I hacked together a custom keyboard for BasiliskII that gives me quick thumb 
 
 The most important aspect of this setup is that it runs System 7 and the various apps I use. That is the core of my classic Macintosh experience and the only goal I had in mind. The hardware running System 7 is merely a conduit.
 
-Thst said, the iPad Pro is more portable, reliable and capable than my real Macintosh. That's 30 years of hardware progress for you.
+That said, the iPad Pro is more portable, reliable and capable than my real Macintosh. That's 30 years of hardware progress for you.
 
 The iPad's display in particular is a huge differentiator—it can assume so many different resolutions it should be thought of as a collection of displays rather than just a single one.
 
@@ -104,7 +104,7 @@ Apple Pencil is very similar in feel to my Wacom ArtPad II, but with the single 
 
 iOS is only a swipe away: download classic software using a modern web browser like Safari, expand archives more quickly with Files or Documents, watch videos picture-in-picture, search your Inside Macintosh PDFs in Books, listen to streaming music, and so many other things that aren't doable (or at least are extremely difficult to do) on a real classic Macintosh.
 
-Bluetooth keyboards just work. The new/recent mouse pointer support in iOS also works. You for even plug the iPad into an external display to go full circle back to a desktop computer. 
+Bluetooth keyboards just work. The new/recent mouse pointer support in iOS also works. You for even plug the iPad into an external display to go full circle back to a desktop computer.
 
 This setup gives me the best of both worlds, and that's why I refer to it as the Ultimate Classic Macintosh.
 
