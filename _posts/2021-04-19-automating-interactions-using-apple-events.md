@@ -8,6 +8,8 @@ tags:
 - emulation
 - macintosh
 nouns:
+- EightyRez
+- HyperCard
 - Canvas
 - Resorcerer
 - ResEdit
@@ -49,7 +51,7 @@ Sounds perfect—my idea of a good time!
 
 ### Apple Events
 
-To support AppleScript, apps were required to offer suites of supported messages and mechanisms. These are advertised through the `aete` resource. ResEdit shows this data as raw hex, unless you install a template to enable it to make sense of it. Resorcerer supports it out of the box. There are a bunch of other tools that can display the data in a human readable way such an Apple-created HyperCard stack, a third-party app called EightyRez, and automation tool QuicKeys to name just a few.
+To support AppleScript, apps were required to offer suites of supported messages and mechanisms. These are advertised through the `aete` resource. ResEdit shows this data as raw hex, unless you install a template to enable it to make sense of it. Resorcerer supports it out of the box. There are a bunch of other tools that can display the data in a human readable way such an Apple-created [HyperCard stack](https://staticky.com/mirrors/ftp.apple.com/developer/Development_Kits/AppleScript/Development_Tools/Aete_Editor_Stack_1.0b3/), a third-party app called [EightyRez](https://macintoshgarden.org/apps/eightyrez), and automation tool [QuicKeys](https://macintoshgarden.org/apps/quickeys-353) to name just a few.
 
 QuicKeys sounded ideal as it lets me query the data, using a set of dropdown menus, and use it to specify automation to try out the Apple Events way of selecting a tool. It worked first time! But it was slow, and there was a distracting loss of window focus as the macro was executed.
 
