@@ -9,8 +9,9 @@ fields:
 - type: text
   name: title
   label: title
-- type: list
-  name: tags
+- name: tags
+  type: tag_list
+  default: []
   label: tags
 - type: list
   name: nouns
