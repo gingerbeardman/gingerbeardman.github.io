@@ -75,7 +75,7 @@ According to the `aete` resource description in both artWORKS and Canvas, select
 
 Some time later I read "The Automatic Mac" again and it shows a more complete list of tool values! The order seems to be based on the tool palette in Canvas. 
 
-Even so, I went the extra mile to complete the list of both internal and external tools, shown below.
+Even so, I went the extra mile to complete a list of both internal and external tools, shown below.
 
 #### Internal Tools (btol)
 
