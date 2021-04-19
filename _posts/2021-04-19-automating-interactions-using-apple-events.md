@@ -2,6 +2,7 @@
 layout: post
 title: Automating interactions using Apple Events
 tags:
+- book
 - minivmac
 - basiliskii
 - emulation
