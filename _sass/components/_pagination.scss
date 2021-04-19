@@ -13,6 +13,12 @@
     text-decoration: none;
   }
 
+  em {
+    font-style: normal;
+    font-weight: bold;
+    text-transform: none;
+  }
+
   &__text {
     position: relative;
     font-size: $font-size-small;
