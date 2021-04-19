@@ -71,9 +71,11 @@ I plan to adding support for Canvas 3.x at some point as this shares Apple Event
 
 ### Investigation
 
-According to the `aete` resource description in both artWORKS and Canvas, selection of Internal Tools using Apple Events is limited to 10 seemingly random tools. This made no sense to me, so I tried specifying higher tools and this experimentation proved that all 18 internal tools are indeed available. I guess the description had been truncated at some point?
+According to the `aete` resource description in both artWORKS and Canvas, selection of Internal Tools using Apple Events is limited to 10 seemingly random tools. This made no sense to me, so I tried specifying higher tools and this experimentation proved that all 18 internal tools are indeed available. I guess the description had been truncated at some point? 
 
-#### Internal Tool references
+Some time later I read "The Automatic Mac" again and they list a lot more tool values there! I did some extra leg work to complete the list of both internal and external tools, shown below.
+
+#### Internal Tools (btol)
 
 | INTERNAL | btol |
 | --- | --- |
@@ -96,7 +98,7 @@ According to the `aete` resource description in both artWORKS and Canvas, select
 | Spray Can | 13 |
 | Text | 2 |
 
-#### External Tools references
+#### External Tools (etol)
 
 | EXTERNAL | etol |
 | --- | --- |
