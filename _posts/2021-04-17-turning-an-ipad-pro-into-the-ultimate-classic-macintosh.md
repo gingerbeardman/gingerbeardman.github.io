@@ -8,6 +8,7 @@ tags:
 - emulation
 - macintosh
 nouns:
+- Documents
 - Books
 - Inside Macintosh
 - Apple Pencil
