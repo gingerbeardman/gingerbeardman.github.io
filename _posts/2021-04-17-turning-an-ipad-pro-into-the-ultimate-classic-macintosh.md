@@ -90,7 +90,7 @@ Both emulators share the same software keyboard mechanism. The keyboard maps are
 
 So I hacked together a [custom keyboard layout](https://github.com/gingerbeardman/artworks-keyboard) that can be used in either emulator that gives me quick thumb access to tools and shortcuts in my most used apps: artWORKS and UltraPaint. It works for both apps as they are related, sharing a lot of code and resources.
 
-With this keyboard layout I'm mostly relabelling the function keys, but I've also replaced some key codes to reposition keys for my own purposes. The apps don't respond to function keys so I use macros to get things to work. 
+With this keyboard layout I'm mostly relabelling the function keys, but I've also replaced some key codes to reposition keys for my own purposes. The apps don't respond to function keys so I use macros to get things to work.
 
 I'll go into exactly how these keys trigger app functions—using System 7's Apple Events—in another post.
 
@@ -112,9 +112,12 @@ Bluetooth keyboards just work. The new/recent mouse pointer support in iOS also 
 
 This setup gives me the best of both old and new worlds, and that's why I refer to it as the Ultimate Classic Macintosh.
 
+### Related posts
+
+* [Automation](/2021/04/19/automating-interactions-using-apple-events/)
+
 ### Forthcoming posts
 
-* Automation
 * App Choices
 * File Conversions
 * Interoperability with iOS
