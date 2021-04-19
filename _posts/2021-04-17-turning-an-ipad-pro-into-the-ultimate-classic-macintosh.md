@@ -14,7 +14,6 @@ nouns:
 - Safari
 - Files
 - Apple Events
-- System
 - 44pt
 - Xcode
 - Classic
@@ -90,7 +89,7 @@ So I hacked together a custom keyboard for BasiliskII that gives me quick thumb 
 
 ### How does the experience compare to a real Macintosh?
 
-The most important aspect of this setup is that it runs System 7 and the various apps I use. That is the core of my classic Macintosh experience. The hardware is merely a conduit.
+The most important aspect of this setup is that it runs System 7 and the various apps I use. That is the core of my classic Macintosh experience and the only goal I had in mind. The hardware running System 7 is merely a conduit.
 
 The iPad Pro is more portable, reliable and capable than my real Macintosh Classic. 
 
