@@ -7,6 +7,7 @@ tags:
 - emulation
 - macintosh
 nouns:
+- Canvas
 - Resorcerer
 - ResEdit
 - interapplication communication
@@ -24,6 +25,8 @@ comments: ''
 
 ---
 [As I've previously mentioned](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/), UltraPaint and artWORKS share a lot of DNA so their structure is effectively identical, including the tool palette. This is a good thing as I intend to automate tool selection in both apps and I'll take any help 30-year-old software wants to send my way!
+
+Chapter 6 in the book "The Automatic Mac" (1992, [download](https://vintageapple.org/macbooks/)) details a number of ways of scripting graphics programs. They use Canvas as an example, which is great because that is a very close relative to the artWORKS and UltraPaint apps that I use. The book informed a lot of what I'm doing here, though my approach differs because of my available tools and personal preference.
 
 ### Simply Clicking
 
