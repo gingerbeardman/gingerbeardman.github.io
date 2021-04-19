@@ -1,11 +1,21 @@
 ---
 layout: post
-title: 'Weight Transfer'
-tags: [dailydriver, playdate, gameplay, physics, cars]
-nouns: [PlayStation, Daily Driver, Playdate, Touge Max G]
----
+title: Weight Transfer
+tags:
+- dailydriver
+- playdate
+- gameplay
+- physics
+- cars
+nouns:
+- Touge
+- PlayStation
+- Daily Driver
+- Playdate
+- Touge Max G
 
-I've been playing old Japanese PlayStation game [Touge Max G](https://digitaldriftracer.wordpress.com/2019/06/09/touge-max-series-overview/)and besides this having a gymkhana mode similar to aspects of _Daily Driver_, it also has a realistic handling model. One of the things that struck me about that was how the car rocks back and forth when accelerating and braking/reversing. One of the other games in the _Touge series_ also has a school mode that talks you through this concept of weight transfer. It's realistic and adds some level of dynamics to the car, making it feel less like a solid block sliding around.
+---
+I've been playing old Japanese PlayStation game [Touge Max G](https://digitaldriftracer.wordpress.com/2019/06/09/touge-max-series-overview/) and besides this having a gymkhana mode similar to aspects of Daily Driver, it also has a realistic handling model. One of the things that struck me about that was how the car rocks back and forth when accelerating and braking/reversing. One of the other games in the Touge series also has a school mode that talks you through this concept of weight transfer. It's realistic and adds some level of dynamics to the car, making it feel less like a solid block sliding around.
 
 ![GIF](/images/posts/daily-driver-weight-transfer.gif#playdate)
 
