@@ -70,7 +70,7 @@ This works a treat in both emulators, but the experience is better in BasiliskII
 
 With Mini vMac you need to run a special file import app, and then whilst it's open use iOS Share Sheet to send a file to Mini vMac. These extra steps are just enough friction to make the emulator annoying to use.
 
-With BasiliskII things are easier as it has a drive mapped to the app's file sharing folder. You can use the Share Sheet in the same way as Mini vMac, but you can also simply copy/move a file to the BasiliskII folder and it will be accessible inside the emulator. The only gotcha with this approach is that you're best moving the file to the emulated system's main disk drive otherwise you'll encounter various oddities with apps that don't know how to cope with files located on this sort of shared drive.
+With BasiliskII things are easier as it has a drive mapped to the app's file sharing folder. You can use the Share Sheet in the same way as Mini vMac, but you can also simply copy/move a file to the BasiliskII folder and it will be accessible inside the emulator. The only gotcha with this approach is that you're best moving the file to the emulated system's main disk drive otherwise you'll encounter various oddities with certain apps that don't know how to cope with files located on this type of drive.
 
 ### Screen Resolutions
 
@@ -78,7 +78,7 @@ The original Macintosh had a native screen resolution of 512×342.
 
 Conceptually, the iPad has a logical screen resolution of 1024×768, which when running in pixel doubled mode equates to 512×384. A pretty good match. Specifically, the native resolution varies according to the model of iPad or iPhone you are using.
 
-I use an iPad Pro 12.9" which has a native resolution of 2732×2048, pixel doubled that means 1366×1024, and pixel quadrupled 683×512. Targetting this ballpark of resolution means user interface elements will be around the magic 44pt tappable area, so that fingertip interactions are accurate, predictable and enjoyable.
+I use an iPad Pro 12.9" which has a native resolution of 2732×2048, pixel doubled that means 1366×1024, and pixel quadrupled 683×512. Targetting this ballpark of resolution means user interface elements will be around the [magic 44pt tappable area](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/), so that fingertip interactions are accurate, predictable and enjoyable.
 
 Of course the iPad can flip between landscape and portrait orientations on demand, which means BasiliskII supporting the Monitors control panel is a big win.
 
@@ -94,7 +94,7 @@ So I hacked together a custom keyboard for BasiliskII that gives me quick thumb 
 
 ### How does the experience compare to a real Macintosh?
 
-The most important aspect of this setup is that it runs System 7 and the various apps I use. That is the core of my classic Macintosh experience and the only goal I had in mind. The hardware running System 7 is merely a conduit.
+The most important aspect of this setup is that it runs System 7 and the various apps I use. That is the core of my classic Macintosh experience and the goal I had in mind. The hardware running System 7 is merely a conduit.
 
 That said, the iPad Pro is more portable, reliable and capable than my real Macintosh. That's 30 years of hardware progress for you.
 
@@ -106,7 +106,7 @@ iOS is only a swipe away: download classic software using a modern web browser l
 
 Bluetooth keyboards just work. The new/recent mouse pointer support in iOS also works. You for even plug the iPad into an external display to go full circle back to a desktop computer.
 
-This setup gives me the best of both worlds, and that's why I refer to it as the Ultimate Classic Macintosh.
+This setup gives me the best of both old and new worlds, and that's why I refer to it as the Ultimate Classic Macintosh.
 
 ### Forthcoming posts
 
