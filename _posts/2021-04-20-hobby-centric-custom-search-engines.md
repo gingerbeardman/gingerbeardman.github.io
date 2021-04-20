@@ -43,7 +43,7 @@ Software downloads for PalmOS-based devices.
 
 ## Japanese Software
 
-Software downloads for mostly vintage systems: Windows, Macintosh, Sharp X68000, PC-98, Palm, etc.  
+Software downloads for vintage systems: Windows, Macintosh, Sharp X68000, PC-98, Palm, etc.  
 [https://bit.ly/searchjapansoft](https://bit.ly/searchjapansoft "https://bit.ly/searchjapansoft")
 
 ## ROM Finder
