@@ -16,7 +16,7 @@ nouns:
 - CSEs
 - Programmable Search
 title: Hobby-centric Custom Search Engines
-comments: ''
+comments: https://twitter.com/gingerbeardman/status/1384534480371736577
 featured: true
 carousel: ''
 
