@@ -8,7 +8,7 @@ After receiving access to the _Playdate SDK_ I took a while to read the docs, an
 
 ![GIF](/images/posts/daily-driver-the-beginning.gif#playdate)
 
-### Collector
+## Collector
 
 - Everything is drawn using graphics primitives (circle, rect, line)
 - Pattern fills rather than pixel dithering

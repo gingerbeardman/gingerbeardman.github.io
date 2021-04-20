@@ -23,7 +23,7 @@ After the Reader powers up, it does the busy spinner and then says:
 
 At this point pressing `OK` will format the device. Yikes!
 
-### Workaround
+## Workaround
 
 1. **Do not press** `OK` on the format warning
 2. Instead, plug device into your computer
@@ -34,6 +34,6 @@ At this point pressing `OK` will format the device. Yikes!
 7. Shutdown/restart reader (PRS+ features will be re-enabled)
 8. Problem is gone!
 
-### Cause
+## Cause
 
 My theory is that PRS+ doesn't the device being "dirty" when it is unmounted or ejected improperly.

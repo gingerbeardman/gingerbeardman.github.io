@@ -8,7 +8,7 @@ carousel: retrobatch
 
 {% include carousel.html height="82" unit="%" duration="7" %}
 
-### Retrobatch
+## Retrobatch
 
 1. process dumped frames x 32
 - once each for left, right and straight directions

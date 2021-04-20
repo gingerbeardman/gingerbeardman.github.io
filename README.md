@@ -15,7 +15,7 @@ The below text has been edited to reflect the changes I have made to the theme.
 - [Update favicon](#update-favicon)
 - [Extra Includes](#extra-includes)
 
-### Configurations
+## Configurations
 
 Type theme comes with different customizations in the `_config.yml` file:
 
@@ -64,13 +64,13 @@ defaults:
       permalink: /:basename:output_ext
 ```
 
-### Deployment
+## Deployment
 
 To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` to start the Jekyll server.
 
 I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
 
-### Posts
+## Posts
 
 To create a new post, you can create a new markdown file inside the `_posts` directory by following the [recommended file structure](https://jekyllrb.com/docs/posts/#creating-post-files).
 
@@ -108,7 +108,7 @@ You can set the `title`, and the following optional fields `tags`, `nouns`, post
 
 - Excerpt display is currently disabled on postcards, but an excerpt_separator can be defined. eg. <!--more-->
 
-### Images
+## Images
 
 - I provide specific styling for images taken from the Playdate console. They're shown with a bezel at chunky pixel @2x size and can be inserted as follows, noting the trailing hash
   `![GIF](/images/posts/daily-driver-animation.gif#playdate)`
@@ -119,7 +119,7 @@ You can set the `title`, and the following optional fields `tags`, `nouns`, post
 - Carousels are inserted as below, but will only display if there is a `carousel-id` in the post front matter
   `{% include carousel.html height="82" unit="%" duration="7" %}`
 
-### Pages
+## Pages
 
 To create a new page, just create a new markdown file inside the `_pages` directory.
 
@@ -136,13 +136,13 @@ image: '/images/pages/about.jpeg'
 Things you can change are: `title` and `image` path.
 
 
-### Navigation
+## Navigation
 
 I have removed the top navigation.
 
 My plan is to include all the links to the pages you have created in the footer.
 
-### Disqus Comments
+## Disqus Comments
 
 Open `_includes/disqus.html` file, and change the `aspirethemes-demos` value on line `12` with your [Disqus account shortname](https://help.disqus.com/customer/portal/articles/466208).
 
@@ -160,16 +160,16 @@ That's all you need to setup Disqus from the theme side. If you get any issue re
 
 And also check [Disqus troubleshooting guide](https://help.disqus.com/customer/portal/articles/472007-i-m-receiving-the-message-%22we-were-unable-to-load-disqus-%22) if you still have issues.
 
-### Social Media Links
+## Social Media Links
 
 Removed in this fork.
 
 
-### Update favicon
+## Update favicon
 
 You can find the current favicon (favicon.ico) inside the theme root directory, just replace it with your new favicon.
 
-### Extra Includes
+## Extra Includes
 
 - `read-time.html` to display reading time of non-html content
 - `tag-cloud.html` to display a tag cloud with proportional sizing of tags (count per tags is present, but disabled by default)

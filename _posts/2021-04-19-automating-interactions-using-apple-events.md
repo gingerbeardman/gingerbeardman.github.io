@@ -30,11 +30,11 @@ comments: https://twitter.com/gingerbeardman/status/1384486144784490498?s=20
 
 Chapter 6 in the book "The Automatic Mac" (1992, [download](https://vintageapple.org/macbooks/)) details a number of ways of scripting graphics programs. They use Canvas as an example, which is great because that is a very close relative to the artWORKS and UltraPaint apps that I use. The book informed a lot of what I'm doing here, though my approach differs because of my available tools and personal preference.
 
-### Simply Clicking
+## Simply Clicking
 
 My first thought was to try the naive way of selecting tools by just clicking them! If the tool palettes are positioned in the same place (this can also be automated) then macros can simply click at specific screen locations to select a tool. This approach works well for both apps. But this is a very fragile way of automating interactions—if windows are inadvertently moved the automation will break. So, there's definitely room for improvement.
 
-### Going Deeper
+## Going Deeper
 
 According to period Apple documentation ([PDF](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiIr_OAzYXwAhXErHEKHR_sAcYQFjAAegQIChAD&url=https%3A%2F%2Fdeveloper.apple.com%2Flegacy%2Flibrary%2Fdocumentation%2Fmac%2Fpdf%2FInterapplication_Communication%2FIntro_to_IAC.pdf&usg=AOvVaw0WKA5J59562fzTuOMZ58PG), [HTML](http://mirror.informatimago.com/next/developer.apple.com/documentation/mac/IAC/IAC-94.html)) a means of automation was introduced in System 7:
 
@@ -48,7 +48,7 @@ According to period Apple documentation ([PDF](https://www.google.co.uk/url?sa=t
 
 Sounds perfect—my idea of a good time!
 
-### Apple Events
+## Apple Events
 
 To support AppleScript, apps were required to offer suites of supported messages and mechanisms. These are advertised through the `aete` resource. ResEdit shows this data as raw hex, unless you install a template to enable it to make sense of it. Resorcerer supports it out of the box. There are a bunch of other tools that can display the data in a human readable way such an Apple-created [HyperCard stack](https://staticky.com/mirrors/ftp.apple.com/developer/Development_Kits/AppleScript/Development_Tools/Aete_Editor_Stack_1.0b3/), a third-party app called [EightyRez](https://macintoshgarden.org/apps/eightyrez), and automation tool [QuicKeys](https://macintoshgarden.org/apps/quickeys-353) to name just a few.
 
@@ -60,7 +60,7 @@ I used QuicKeys GUI to set up the initial Apple Events call, as it allows you to
 
 The result was much faster Apple Events sending and no distracting window focus flickering.
 
-### Two-in-One
+## Two-in-One
 
 The end result is a macro of two parts: the first section operates artWORKS using Apple Events, continuing without complaint if the app is not open, and the second section operates UltraPaint via simple mouse clicks.
 
@@ -68,7 +68,7 @@ The end result is a macro of two parts: the first section operates artWORKS usin
 
 I plan to adding support for Canvas 3.x at some point as this shares Apple Events support with artWORKS.
 
-### Investigation
+## Investigation
 
 According to the `aete` resource description in both artWORKS and Canvas, selection of Internal Tools using Apple Events is limited to 10 seemingly random tools. This made no sense to me, so I tried specifying higher tools and this experimentation proved that all 18 internal tools are indeed available. I guess the description had been truncated at some point?
 
@@ -76,7 +76,7 @@ Some time later I read "The Automatic Mac" again and it shows a more complete li
 
 Even so, I went the extra mile to complete a list of both internal and external tools, shown below.
 
-#### Internal Tools (btol)
+### Internal Tools (btol)
 
 | Name | shor |
 | --- | --- |
@@ -99,7 +99,7 @@ Even so, I went the extra mile to complete a list of both internal and external 
 | Spray Can | 13 |
 | Text | 2 |
 
-#### External Tools (etol)
+### External Tools (etol)
 
 | Name | long |
 | --- | --- |

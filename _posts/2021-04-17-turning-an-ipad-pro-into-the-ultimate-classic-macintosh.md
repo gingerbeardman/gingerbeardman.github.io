@@ -42,7 +42,7 @@ I've started work on the next in my 1-bit Woodblocks series: "Tekagami" (Ito Shi
 
 ![JPG](/images/posts/ultimate-classic-macintosh-1.jpg)
 
-### Emulators
+## Emulators
 
 Both Macintosh emulators available on iOS we're ported by [@maczydeco](https://Twitter.com/maczydeco "@maczydeco") who has done an amazing job making them feel truly at home on iOS. Many thanks! They need to be built from source using Xcode but it's a pretty straight forward process.
 
@@ -64,7 +64,7 @@ Both Macintosh emulators available on iOS we're ported by [@maczydeco](https://T
 * Native iOS interface for settings panel, negating all the issues with the desktop GUI
 * [Source code](https://github.com/zydeco/macemu/wiki/BasiliskII-for-iOS) (use the `ios` branch!)
 
-### File Sharing
+## File Sharing
 
 This works a treat in both emulators, but the experience is better in BasiliskII.
 
@@ -72,7 +72,7 @@ With Mini vMac you need to run a special file import app, and then whilst it's o
 
 With BasiliskII things are easier as it has a drive mapped to the app's file sharing folder. You can use the Share Sheet in the same way as Mini vMac, but you can also simply copy/move a file to the BasiliskII folder and it will be accessible inside the emulator. The only gotcha with this approach is that you're best moving the file to the emulated system's main disk drive otherwise you'll encounter various oddities with certain apps that don't know how to cope with files located on this type of drive.
 
-### Screen Resolutions
+## Screen Resolutions
 
 The original Macintosh had a native screen resolution of 512×342.
 
@@ -84,7 +84,7 @@ Of course the iPad can flip between landscape and portrait orientations on deman
 
 So I added a bunch of custom resolutions to the BasiliskII soure code to add support for both pixel-doubled and pixel-quadrupled resolutions, in both portrait and landscape, with and without room for the software keyboard. I can switch between these resolutions with keyboard shortcuts. Which leads nicely on to...
 
-### Custom Keyboards
+## Custom Keyboards
 
 Both emulators share the same software keyboard mechanism. The keyboard maps are user-editable as JSON and compiled into a custom format.
 
@@ -94,7 +94,7 @@ So I hacked together a [custom keyboard layout](https://github.com/gingerbeardma
 
 With this keyboard layout I'm mostly relabelling the function keys, but I've also replaced some key codes to reposition keys for my own purposes. The apps don't respond to function keys so I use macros and Apple Events to get things to work [as detailed in another post](/2021/04/19/automating-interactions-using-apple-events/).
 
-### How does the experience compare to a real Macintosh?
+## How does the experience compare to a real Macintosh?
 
 The most important aspect of this setup is that it runs System 7 and the various apps I use. That is the core of my classic Macintosh experience and the goal I had in mind. The hardware running System 7 is merely a conduit.
 
@@ -110,11 +110,11 @@ Bluetooth keyboards just work. The new/recent mouse pointer support in iOS also 
 
 This setup gives me the best of both old and new worlds, and that's why I refer to it as the Ultimate Classic Macintosh.
 
-### Related posts
+## Related posts
 
 * [Automation](/2021/04/19/automating-interactions-using-apple-events/)
 
-### Forthcoming posts
+## Forthcoming posts
 
 * App Choices
 * File Conversions
