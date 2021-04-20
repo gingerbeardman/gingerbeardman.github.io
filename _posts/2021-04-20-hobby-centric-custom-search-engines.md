@@ -33,7 +33,7 @@ Listed below are a handful of what I would consider are the most useful CSEs I'v
 
 ## Classic Macintosh
 
-Software, PDF books downloads for pre-OSX Macintosh systems.  
+Software and PDF books downloads for pre-OSX Macintosh systems.  
 [https://bit.ly/searchclassicmac](https://bit.ly/searchclassicmac "https://bit.ly/searchclassicmac")
 
 ## PalmOS
@@ -43,7 +43,7 @@ Software downloads for PalmOS-based devices.
 
 ## Japanese Software
 
-Software downloads for mostly vintage systems including Windows, Macintosh, Sharp X68000, PC-98, Palm, etc.  
+Software downloads for mostly vintage systems: Windows, Macintosh, Sharp X68000, PC-98, Palm, etc.  
 [https://bit.ly/searchjapansoft](https://bit.ly/searchjapansoft "https://bit.ly/searchjapansoft")
 
 ## ROM Finder
