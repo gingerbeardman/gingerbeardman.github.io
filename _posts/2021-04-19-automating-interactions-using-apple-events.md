@@ -23,7 +23,7 @@ nouns:
 - Apple Events
 carousel: ''
 featured: false
-comments: ''
+comments: https://twitter.com/gingerbeardman/status/1384486144784490498?s=20
 
 ---
 [As I've previously mentioned](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/), UltraPaint and artWORKS share a lot of DNA so their structure is effectively identical, including the tool palette. This is a good thing as I intend to automate tool selection in both apps and I'll take any help 30-year-old software wants to send my way!
