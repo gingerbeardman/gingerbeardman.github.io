@@ -8,7 +8,7 @@ sections:
   path: _drafts
   label: Drafts
   create: all
-  match: "**/*"
+  match: "**/*.md"
   templates:
   - standard-post
 - type: jekyll-posts
