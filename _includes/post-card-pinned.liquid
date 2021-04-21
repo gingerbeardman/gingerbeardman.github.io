@@ -1,7 +1,7 @@
 {% if post.pinned %}
 <div class='o-grid__col--full o-grid__col--final'>
 
-  <a href='{{ post.url | prepend: site.baseurl }}' class='c-post-card {% if forloop.first == true %} c-post-card--first {% endif %} {% if forloop.last == true %} c-post-card--last {% endif %}'>
+  <a href='{{ post.url | prepend: site.baseurl }}' class='c-post-card {% if forloop.first == true %} c-post-card--first {% endif %} {% if post.pinned == true %} c-post-card--first {% endif %} {% if forloop.last == true %} c-post-card--last {% endif %}'>
     <h3 class='c-post-card__title'>
     {{ post.title }}
 
@@ -15,11 +15,10 @@
     {% if post_date > ago_date %}
         <span class="u-right new">!&nbsp;</span>
     {% else %}
-      {% if post.pinned %}
-        <span class="u-right fave">🖈</span>
-      {% elsif post.featured %}
-        <span class="u-right fave">♥</span>
-      {% endif %}
+        <span class="u-right fave">
+      {% if post.featured %} ♥ {% endif %}
+      {% if post.pinned %} 🖈 {% endif %}
+        </span>
     {% endif %}
     </h3>
 
