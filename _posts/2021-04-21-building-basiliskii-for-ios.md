@@ -93,9 +93,7 @@ This be enabled by changing `BasiliskII-Info.plist`: `UIRequiresFullScreen` shou
 
 * When in Split View mode, the very top of the screen (where the iPadOS status bar would be, where the System 7 menu bar is) will become unresponsive to touch due to the Slide Over indicator
 
-This would need to be managed/avoided by the screen layout of BasiliskII, but when I attempted this it raised more issues
-
-However, you can still use Slide Over to position Safari, Files, etc. along the edge of your screen.
+This would need to be managed/avoided by the screen layout of BasiliskII, but when I attempted this it raised more issues. However, you can still use Slide Over to position Safari, Files, etc. along the edge of your screen.
 
 ## Notes
 
