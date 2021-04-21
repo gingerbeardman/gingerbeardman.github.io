@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Beginning'
+title: 'Daily Driver: The Beginning'
 tags: [dailydriver, gamedev, playdate]
 ---
 

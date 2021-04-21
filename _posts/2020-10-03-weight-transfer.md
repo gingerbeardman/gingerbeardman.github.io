@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weight Transfer
+title: 'Daily Driver: Weight Transfer'
 tags:
 - dailydriver
 - playdate

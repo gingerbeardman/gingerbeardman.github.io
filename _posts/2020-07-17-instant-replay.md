@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Instant Replay'
+title: 'Daily Driver: Instant Replay'
 tags: [dailydriver, playdate, gamedev]
 ---
 

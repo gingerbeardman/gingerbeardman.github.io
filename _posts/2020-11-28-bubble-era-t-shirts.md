@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My "Bubble Era" T-shirt Store
+title: 'My "Bubble Era" T-shirt Store'
 tags:
 - logos
 - japanese
@@ -12,8 +12,8 @@ featured: false
 comments: https://twitter.com/gingerbeardman/status/1332759398528200704
 
 ---
-I'm relaunching my "bubble era" T-shirt store on [@teespring](https://twitter.com/teespring) with international shipping in time for Christmas! [https://teespring.com/stores/gingerbeardman](https://teespring.com/stores/gingerbeardman "https://teespring.com/stores/gingerbeardman")  
-  
+I'm relaunching my "bubble era" T-shirt store on [@teespring](https://twitter.com/teespring) with international shipping in time for Christmas! [https://teespring.com/stores/gingerbeardman](https://teespring.com/stores/gingerbeardman "https://teespring.com/stores/gingerbeardman")
+
 Retro games, computers, scooters and other cool logos on your favourite colour T-shirts!
 
 ![](https://pbs.twimg.com/media/En7hM0SXMAMs_g8.jpg)

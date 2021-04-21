@@ -4,6 +4,7 @@ title: Hanafuda Discord
 tags:
 - japanese
 - hanafuda
+- discord
 nouns: []
 carousel: ''
 featured: false

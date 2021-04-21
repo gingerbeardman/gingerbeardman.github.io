@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Social Update'
+title: 'Daily Driver: Social Update'
 tags: [dailydriver, playdate]
 nouns: [Patreon, Daily Driver, Playdate]
 ---

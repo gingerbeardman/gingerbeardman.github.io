@@ -5,6 +5,7 @@ tags:
 - internetarchive
 - macintosh
 - verbum
+- history
 nouns:
 - Michael Gosney
 - Verbum
