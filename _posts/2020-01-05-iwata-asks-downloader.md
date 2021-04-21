@@ -10,10 +10,10 @@ tags:
 nouns:
 - Iwata Asks
 carousel: ''
-featured: false
+featured: true
 
 ---
-This tool downloads the Iwata Asks series of interviews, saving as Markdown and HTML with images. ePub files are optional and can be generated in a secondary post-process phase. 
+This tool downloads the Iwata Asks series of interviews, saving as Markdown and HTML with images. ePub files are optional and can be generated in a secondary post-process phase.
 
 I created this tool in Spring/Summer 2019 so that I could more easily read and search the Iwata Asks interviews.
 
