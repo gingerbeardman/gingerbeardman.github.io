@@ -29,7 +29,6 @@ fields:
   name: carousel
   label: carousel
 pages:
-- _drafts/system-7-on-ios.md
 - _posts/2019-02-28-hanafuda-discord.md
 - _posts/2019-07-10-verbum-journal-of-personal-computer-aesthetics.md
 - _posts/2019-08-14-moai-games.md
