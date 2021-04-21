@@ -35,6 +35,7 @@ nouns:
 - BasiliskII
 carousel: ''
 featured: true
+pinned: true
 comments: https://twitter.com/gingerbeardman/status/1383559592873918469
 
 ---

@@ -84,13 +84,14 @@ tags: [frontpage, jekyll, blog]
 nouns: [list, keywords, for, emphasise]
 image: '/images/posts/welcome.jpg'
 featured: true
+pinned: true
 comments: https://twitter.com/gingerbeardman/status/1380424305662656517
 carousel: carousel-id
 excerpt_separator: <!--more-->
 ---
 ```
 
-You can set the `title`, and the following optional fields `tags`, `nouns`, post `image`, `featured`, `comments` link, `carousel` id, and `excerpt-separator`.
+You can set the `title`, and the following optional fields `tags`, `nouns`, post `image`, `featured`, `pinned`, `comments` link, `carousel` id, and `excerpt-separator`.
 
 - To create a draft post, create the post file under the **_drafts** directory, and you can find more information at [Working with Drafts](http://jekyllrb.com/docs/drafts/).
 
@@ -100,7 +101,11 @@ You can set the `title`, and the following optional fields `tags`, `nouns`, post
 
 - To keep things more organized, add post images to **/images/posts** directory, and add page images to **/images/pages** directory.
 
-- The `featured` key is to mark the post as a featured post, this will add a heart icon (♥) to the postcard.
+- The `featured` key is to mark the post as a featured post, this will add a heart character (♥) to the postcard.
+
+- The `pinned` key is to pin the post to the top of the first page, this will add a pin character (🖈) to the postcard.
+
+- Recent posts (more recent than set number of seconds, default is 2 days) are marked with an exclamation character (!) on the postcard.
 
 - I prefer to encourage comments in a related twitter thread, so each post has an optional comments URL that can be defined.
 

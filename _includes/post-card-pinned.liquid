@@ -1,5 +1,4 @@
 {% if post.pinned %}
-{% else %}
 <div class='o-grid__col--full o-grid__col--final'>
 
   <a href='{{ post.url | prepend: site.baseurl }}' class='c-post-card {% if forloop.first == true %} c-post-card--first {% endif %} {% if forloop.last == true %} c-post-card--last {% endif %}'>
@@ -16,8 +15,10 @@
     {% if post_date > ago_date %}
         <span class="u-right new">!&nbsp;</span>
     {% else %}
-      {% if post.featured %}
-        <span class="u-right fave">♥<!-- ★ ☆ --></span>
+      {% if post.pinned %}
+        <span class="u-right fave">🖈</span>
+      {% elsif post.featured %}
+        <span class="u-right fave">♥</span>
       {% endif %}
     {% endif %}
     </h3>
