@@ -37,7 +37,7 @@ Note: I'm building with Xcode 11.3.1 on macOS 10.14.6 Mojave, so your experience
 3. Switch to the `ios` branch.
 4. Open .xcodeproj file
 5. Optional: change iOS deployment target (defaults to iOS 8.0)
-6. Set `Product > Destination` to point to your Device
+6. Set `Product > Destination` to point to your device
 7. Run
 
 ## Optional Changes
