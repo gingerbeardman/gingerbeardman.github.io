@@ -1,22 +1,32 @@
 ---
 layout: post
-title: 'Level Viewer for Pang (Nintendo DS)'
-tags: [pang,nintendods,reverseengineering]
-nouns: [Pang, Nintendo DS, JavaScript, PHP, WebKit, Mighty!, Tour]
-featured: no
----
+title: Level Viewer for Pang (Nintendo DS)
+tags:
+- pang
+- nintendods
+- reverseengineering
+nouns:
+- Pang
+- Nintendo DS
+- JavaScript
+- PHP
+- WebKit
+- Mighty!
+- Tour
+featured: false
 
+---
 I'm a huge fan of the Pang series of video games. In my experienced and humble opinion the best game in the series is the one on Nintendo DS. It takes the core Pang concept—refined from the original game in 1990 through to Mighty! Pang in 2000—and turns everything it up to 11. It makes full use of the dual screens to add in some novel level layouts, with a near perfect difficulty curve across the 60 levels that make up Tour mode.
 
 Back in 2017 I tried to reverse engineer it, with the goal of creating custom levels. I got so far as to extract all 256 levels from the ROM and wrote some software to process those into more human-readable formats:
 
-- convert level data to JSON (in PHP)
-- view levels in browser (in JavaScript)
-- [Source code at GitHub](https://github.com/gingerbeardman/pang-ds)
+* convert level data to JSON (in PHP)
+* view levels in browser (in JavaScript)
+* [Source code at GitHub](https://github.com/gingerbeardman/pang-ds)
 
 ## Level Viewer
 
-This web page is hosted on my server and presented here in an `iframe`.
+Below is an `iframe` containing a web page hosted on my server:
 
 <iframe class="pang" src="https://www.gingerbeardman.com/pangds/"></iframe>
 
