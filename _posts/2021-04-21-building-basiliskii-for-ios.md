@@ -93,7 +93,9 @@ This be enabled by changing `BasiliskII-Info.plist`: `UIRequiresFullScreen` shou
 
 * the very top of the screen (where you'd expect the iOS status bar to be, and where part of the System 7 menu bar is) will become unresponsive to touch due to the Slide Over indicator
 
-This would need to be managed/avoided by the screen layout of BasiliskII, but when I attempted this it raised more issues. However, you can still use Slide Over to position Safari, Files, etc. along the edge of your screen.
+This would need to be managed/avoided by the screen layout of BasiliskII, but when I attempted this it raised more issues. 
+
+However, you can still use Slide Over to position Safari, Files, etc. along the edge of your screen.
 
 ## Notes
 
