@@ -34,7 +34,7 @@ Below is an `iframe` containing a web page hosted on my server:
 
 ## Notes
 
-The levels are stored in typical Nintendo DS format, so these scripts could well work for levels from other games.
+The levels are stored in the standard format for Nintendo DS tile-based levels, so these scripts could well work for levels from other games.
 
 It was interesting to find one of the levels shown on the back of the box, seen in the top right of the image below, which is not featured in the main game. My theory is that this level was created to make the game seem more appealing to anybody looking at these supposedly in-game screenshots.
 
