@@ -9,6 +9,7 @@ sections:
   label: Drafts
   create: documents
   match: "**/*.md"
+  exclude: "**"
   templates:
   - standard-post
 - type: jekyll-posts
