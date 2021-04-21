@@ -5,7 +5,12 @@
     {{ post.title }}
 
     {% assign post_date = post.date | date: '%s' | minus: 0 %}
-    {% assign ago_date = 'now' | date: '%s' | minus: 226875 %}
+    {% assign ago_date = 'now' | date: '%s' | minus: 172800 %}
+
+{% comment %}
+<!-- 86400 per day -->
+{% endcomment %}
+
 
     {% if post_date > ago_date %}
         <span class="u-right new">!&nbsp;</span>
