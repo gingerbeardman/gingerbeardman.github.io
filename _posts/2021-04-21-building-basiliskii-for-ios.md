@@ -27,7 +27,7 @@ comments: https://twitter.com/gingerbeardman/status/1383559592873918469
 ---
 I've had numerous requests for a guide to building BasiliskII on iOS. Let me know of anything is unclear or would benefit from more details!
 
-**Note:** I'm building with Xcode 11.3.1 on macOS 10.14.6 Mojave, so your experience may be different.
+Note: I'm building with Xcode 11.3.1 on macOS 10.14.6 Mojave, so your experience may be different.
 
 ## Building
 
