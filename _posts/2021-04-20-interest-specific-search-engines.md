@@ -27,7 +27,7 @@ These days they seem to be calling the feaure Google Programmable Search, though
 
 I've been using CSEs for years to help with finding files related to my various hobby interests, mostly retro gaming and computing. Heck, for a few years a decade ago my way of downloading music files was through a CSE I called "one click wonder". They work really well.
 
-Given the nature of the web, and the fact that they benefit from continued maintenance, a lot of my CSEs have gradually faded away over time. But a few of them have survived the test of time.
+Given the nature of the web, and the fact that CSEs benefit from continued maintenance, a lot of mine have gradually withered away. But a few of them have survived the test of time.
 
 Listed below are a handful of what I would consider are the most useful CSEs I've created, I won't list the domains involved because the information would need to be updated over time, but you can try each one and use the top tabs to get a handle on exactly which sites are being indexed.
 
