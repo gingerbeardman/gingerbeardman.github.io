@@ -6,6 +6,5 @@ title: Tekagami (Hand Mirror)
 comments: ''
 featured: false
 carousel: ''
-published: false
 
 ---
