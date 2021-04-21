@@ -32,31 +32,25 @@ Given the nature of the web, and the fact that CSEs benefit from continued maint
 Listed below are a handful of what I would consider are the most useful CSEs I've created, I won't list the domains involved because the information would need to be updated over time, but you can try each one and use the top tabs to get a handle on exactly which sites are being indexed.
 
 ## Classic Macintosh
-
 Software and PDF books downloads for pre-OSX Macintosh systems.
-[https://bit.ly/searchclassicmac](https://bit.ly/searchclassicmac "https://bit.ly/searchclassicmac")
+- [https://bit.ly/searchclassicmac](https://bit.ly/searchclassicmac "https://bit.ly/searchclassicmac")
 
 ## PalmOS
-
 Software downloads for PalmOS-based devices.
-[https://bit.ly/searchpalmos](https://bit.ly/searchpalmos "https://bit.ly/searchpalmos")
+- [https://bit.ly/searchpalmos](https://bit.ly/searchpalmos "https://bit.ly/searchpalmos")
 
 ## Japanese Software
-
 Software downloads for vintage systems: Windows, Macintosh, Sharp X68000, PC-98, Palm, etc.
-[https://bit.ly/searchjapansoft](https://bit.ly/searchjapansoft "https://bit.ly/searchjapansoft")
+- [https://bit.ly/searchjapansoft](https://bit.ly/searchjapansoft "https://bit.ly/searchjapansoft")
 
 ## ROM Finder
-
 Classic/retro video game ROMs, ISOs, disc images.
-[https://bit.ly/searchroms](http://bit.ly/searchroms "http://bit.ly/searchroms")
+- [https://bit.ly/searchroms](http://bit.ly/searchroms "http://bit.ly/searchroms")
 
 ## Manuals
-
 Consumer Electronics operation manual or user guide PDFs.
-[https://bit.ly/searchmanuals](https://bit.ly/searchmanuals "https://bit.ly/searchmanuals")
+- [https://bit.ly/searchmanuals](https://bit.ly/searchmanuals "https://bit.ly/searchmanuals")
 
 ## Ace Answers
-
 Vintage FAQs and repair guides for the Toyota TownAce and Space Cruiser vehicles.
-[https://bit.ly/searchaceanswers](https://bit.ly/searchaceanswers "https://bit.ly/searchaceanswers")
+- [https://bit.ly/searchaceanswers](https://bit.ly/searchaceanswers "https://bit.ly/searchaceanswers")
