@@ -7,6 +7,7 @@
   </div>
 {% endif %}
 
+{% comment %}
 <div class='o-grid__col o-grid__col--2-4-s'>
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
@@ -30,6 +31,7 @@
     {% endif %}
   {% endfor %}
 </div>
+{% endcomment %}
 
 {% if paginator.next_page %}
   <div class='o-grid__col o-grid__col--end o-grid__col--1-4-s u-text-right'>
