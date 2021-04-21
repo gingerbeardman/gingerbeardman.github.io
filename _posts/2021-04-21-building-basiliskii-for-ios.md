@@ -55,7 +55,7 @@ Error mentioning `pointerInteraction`. This is because of a missing `#ifdef`, so
         }
     #endif
 
-### Add chunky screen resolutions
+### Adding chunky screen resolutions
 
 I added chunky "half resolution" screen modes to increase the size of user interface elements so that buttons, menu items and so on are all around the 44pt recommended in the Apple iOS HIG.
 
@@ -77,7 +77,7 @@ My personal prefernce is to disable filtering/smoothing on all graphics scaling:
 
 Make this change [around line 80 in file B2ScreenView.mm](https://github.com/zydeco/macemu/blob/eb8d0a71054d450c09ec0220abf4407971ce9df9/BasiliskII/src/iOS/BasiliskII/B2ScreenView.mm#L80)
 
-### Keyboard Layouts
+### Custom Keyboard Layouts
 
 These are defined in JSON and compiled to a custom format:
 
@@ -87,7 +87,7 @@ These are defined in JSON and compiled to a custom format:
 
 [Here's one that I made](https://github.com/gingerbeardman/artworks-keyboard), based on the British layout, for use with Deneba artWORKS/UltraPaint.
 
-### Split View Support
+### Enable Split View Support
 
 This be enabled by changing `BasiliskII-Info.plist`: `UIRequiresFullScreen` should be `false` in [BasiliskII-Info.plist](zydeco/macemu@eb8d0a7/BasiliskII/src/iOS/BasiliskII/BasiliskII-Info.plist#L103-L104) but be wary of the following problem:
 
