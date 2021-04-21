@@ -15,7 +15,7 @@ nouns:
 - CSE
 - CSEs
 - Programmable Search
-title: Interest-specific Custom Search Engines
+title: Interest-specific Search Engines
 comments: https://twitter.com/gingerbeardman/status/1384534480371736577
 featured: true
 carousel: ''
