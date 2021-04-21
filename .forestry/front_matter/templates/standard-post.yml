@@ -29,6 +29,7 @@ fields:
   name: carousel
   label: carousel
 pages:
+- _drafts/download-pdf-of-protected-book-from-internet-archive.md
 - _drafts/hanafuda.md
 - _drafts/noon-color-kun.md
 - _drafts/system-7-on-ios.md
