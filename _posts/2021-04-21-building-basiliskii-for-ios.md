@@ -91,7 +91,7 @@ These are defined in JSON and compiled to a custom format:
 
 This be enabled by changing `BasiliskII-Info.plist`: `UIRequiresFullScreen` should be `false` in [BasiliskII-Info.plist](zydeco/macemu@eb8d0a7/BasiliskII/src/iOS/BasiliskII/BasiliskII-Info.plist#L103-L104) but be wary of the following problem:
 
-* When in Split View mode, the very top of the screen (where the iPadOS status bar would be, where the System 7 menu bar is) will become unresponsive to touch due to the Slide Over indicator
+* the very top of the screen (where you'd expect the iOS status bar to be, and where part of the System 7 menu bar is) will become unresponsive to touch due to the Slide Over indicator
 
 This would need to be managed/avoided by the screen layout of BasiliskII, but when I attempted this it raised more issues. However, you can still use Slide Over to position Safari, Files, etc. along the edge of your screen.
 
