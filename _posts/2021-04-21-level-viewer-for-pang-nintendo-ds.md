@@ -21,7 +21,7 @@ I'm a huge fan of the Pang series of video games. In my experienced and humble o
 Back in 2017 I tried to reverse engineer it, with the goal of creating custom levels. I got so far as to extract all 256 levels from the ROM and wrote some software to process those into more human-readable formats:
 
 1. Extract stages tile maps from ROM (using PHP)
-2. Convert stage data to JavaScript (using PHP)
+2. Convert stage data to JSON (using PHP)
 3. Level viewer (using JavaScript and HTML canvas)
 
 * [Source code at GitHub](https://github.com/gingerbeardman/pang-ds)
