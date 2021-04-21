@@ -99,6 +99,8 @@ However, you can still use Slide Over to position Safari, Files, etc. along the 
 
 ## Notes
 
+There are about capabilities of the emulator integration. I'll go further into these, and more besides, in a future post.
+
 ### File Sharing
 
 A drive appears on the desktop that is mapped to the iOS file sharing folder of the app.
