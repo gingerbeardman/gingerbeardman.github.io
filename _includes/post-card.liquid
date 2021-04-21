@@ -7,7 +7,7 @@
     {{ post.title }}
 
     {% assign post_date = post.date | date: '%s' | minus: 0 %}
-    {% assign ago_date = 'now' | date: '%s' | minus: 172800 %}
+    {% assign ago_date = 'now' | date: '%s' | minus: 0 %}
 
 {% comment %}
 <!-- 86400 per day -->

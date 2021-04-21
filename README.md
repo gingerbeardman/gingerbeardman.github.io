@@ -105,7 +105,7 @@ You can set the `title`, and the following optional fields `tags`, `nouns`, post
 
 - The `pinned` key is to pin the post to the top of the first page, this will add a pin character (🖈) to the postcard.
 
-- Recent posts (more recent than set number of seconds, default is 2 days) are marked with an exclamation character (!) on the postcard.
+- Recent posts (more recent than set number of seconds, currently disabled) are marked with an exclamation character (!) on the postcard.
 
 - I prefer to encourage comments in a related twitter thread, so each post has an optional comments URL that can be defined.
 
