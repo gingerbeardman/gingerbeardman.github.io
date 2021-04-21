@@ -67,7 +67,7 @@ For iPad Pro 12.9" these changes were:
 
 Enter those after [line 53 in file B2ScreenView.mm](https://github.com/zydeco/macemu/blob/eb8d0a71054d450c09ec0220abf4407971ce9df9/BasiliskII/src/iOS/BasiliskII/B2ScreenView.mm#L53)
 
-### Disable graphics smoothing
+### Disabling graphics smoothing
 
 My personal prefernce is to disable filtering/smoothing on all graphics scaling:
 
