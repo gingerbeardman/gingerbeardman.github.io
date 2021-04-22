@@ -113,8 +113,8 @@ This setup gives me the best of both old and new worlds, and that's why I refer 
 
 ## Related posts
 
-* [Building and (optional) code changes](/2021/04/21/building-basiliskii-for-ios/)
-* [Automation](/2021/04/19/automating-interactions-using-apple-events/)
+* [How to install BasiliskII on your iPad](/2021/04/21/building-basiliskii-for-ios/)
+* [Exploring Custom Keyboards and Automation](/2021/04/19/automating-interactions-using-apple-events/)
 
 ## Forthcoming posts
 
