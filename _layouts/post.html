@@ -34,8 +34,9 @@ layout: default
           {% assign modified = content %}
 
           {% for noun in page.nouns %}
-          {% assign italic = noun | prepend: '<em>' | append: '</em>' %}
-          {% assign modified = modified | replace: noun,italic %}
+          {% assign nounword = noun | prepend: ' ' %}
+          {% assign italic = noun | prepend: ' <em>' | append: '</em>' %}
+          {% assign modified = modified | replace: nounword,italic %}
           {% endfor %}
 
           {{ modified }}
