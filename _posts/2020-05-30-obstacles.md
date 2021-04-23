@@ -2,6 +2,7 @@
 layout: post
 title: 'Daily Driver: Obstacles'
 tags: [dailydriver, gameplay, playdate]
+nouns: [Daily Driver, Playdate, SDK, Crank Turismo]
 ---
 
 At this point I have three rows of rotated cars in the sprite sheet: each has wheels pointing in different directions.
@@ -12,6 +13,6 @@ I’m currently doing the skid marks as sprites (which is why they disappear ove
 
 Short term goal is to have some lap races/time-trials, plus a “driving test” or “stunt driving” mode which is what you’re seeing here.
 
-Codename is currently: *Crank Turismo*
+Codename is currently: Crank Turismo
 
 At this point you can’t hear my great synth-powered car engine and skidding sfx!

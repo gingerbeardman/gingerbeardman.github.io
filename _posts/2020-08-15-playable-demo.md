@@ -2,16 +2,17 @@
 layout: post
 title: 'Daily Driver: Playable Demo'
 tags: [dailydriver, playdate, software]
+nouns: [Daily Driver, Playdate, SDK, 60fps]
 ---
 
 ![GIF](/images/posts/daily-driver-playable-demo.gif#playdate)
 
-A made a demo build of _Daily Driver_. It is based on code a couple weeks old (dated **30 July 2020**) so whilst not representative of where I am right now with the game it does show my progress since the last build I shared at the start of June.
+A made a demo build of Daily Driver. It is based on code a couple weeks old (dated **30 July 2020**) so whilst not representative of where I am right now with the game it does show my progress since the last build I shared at the start of June.
 
 Controls
 
 - any combination of d-pad, A/B, Crank
-- d-pad U/D, or A/B = accel/brake
+- d-pad U/D, or A/B = accelerate/brake
 - d-pad L/R, or Crank = steer left/right
 
 Notes
