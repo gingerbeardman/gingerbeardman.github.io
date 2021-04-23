@@ -16,7 +16,7 @@ body.playdate {
   .c-logo__link span,
   .c-byline__desc,
   .c-byline__desc a {
-    color: $color-white;
+    color: $color-text;
   }
 
   code,
@@ -25,7 +25,7 @@ body.playdate {
   }
 
   .c-header__inner {
-    // border-color: transparent;
+    border-color: $color-text;
   }
 
   blockquote {
