@@ -30,3 +30,8 @@ img[src$='#playdate'] {
     margin: 25px -40px;
   }
 }
+
+img[src$='#compare'] {
+  float: left;
+  margin-right: double($base-spacing-unit);
+}
