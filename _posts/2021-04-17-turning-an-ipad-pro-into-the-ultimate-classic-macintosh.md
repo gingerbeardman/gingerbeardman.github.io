@@ -63,6 +63,7 @@ Both Macintosh emulators available on iOS we're ported by [@maczydeco](https://T
 * File Sharing via mapped folder
 * Dynamic screen resolutions through Monitors control panel, or automation
 * Native iOS interface for settings panel, negating all the issues with the desktop GUI
+* We have a winner!
 * [Source code](https://github.com/zydeco/macemu/wiki/BasiliskII-for-iOS) (use the `ios` branch!)
 
 ## File Sharing
@@ -87,13 +88,13 @@ So I added a bunch of custom resolutions to the BasiliskII soure code to add sup
 
 ## Custom Keyboards
 
-Both emulators share the same software keyboard mechanism. The keyboard maps are user-editable as JSON and compiled into a custom format.
+Both emulators share the same software keyboard mechanism. The keyboard layouts are user-editable as JSON and compiled into a custom format.
 
-So I hacked together a [custom keyboard layout](https://github.com/gingerbeardman/artworks-keyboard) that can be used in either emulator that gives me quick thumb access to tools and shortcuts in my most used apps: artWORKS and UltraPaint. It works for both apps as they are related, sharing a lot of code and resources.
+So I put together a [custom keyboard layout](https://github.com/gingerbeardman/artworks-keyboard) that can be used in either emulator that gives me quick thumb access to tools and shortcuts in my most used apps: artWORKS and UltraPaint. It works for both apps as they are closely related, sharing a lot of code and resources.
 
 ![PNG](/images/posts/ultimate-classic-macintosh-2.png)
 
-With this keyboard layout I'm mostly relabelling the function keys, but I've also replaced some key codes to reposition keys for my own purposes. The apps don't respond to function keys so I use macros and Apple Events to get things to work [as detailed in another post](/2021/04/19/automating-interactions-using-apple-events/).
+With this keyboard layout I'm not only relabelling the function keys, but also replacing some key codes to reposition keys for my own purposes. The apps don't respond to function keys so I use macros and Apple Events to get things to work [as detailed in another post](/2021/04/19/automating-interactions-using-apple-events/).
 
 ## How does the experience compare to a real Macintosh?
 
@@ -113,8 +114,8 @@ This setup gives me the best of both old and new worlds, and that's why I refer 
 
 ## Related posts
 
-* [Building and (optional) code changes](/2021/04/21/building-basiliskii-for-ios/)
-* [Automation](/2021/04/19/automating-interactions-using-apple-events/)
+* [How to install BasiliskII on your iPad](/2021/04/21/building-basiliskii-for-ios/)
+* [Exploring Custom Keyboards and Automation](/2021/04/19/automating-interactions-using-apple-events/)
 
 ## Forthcoming posts
 
