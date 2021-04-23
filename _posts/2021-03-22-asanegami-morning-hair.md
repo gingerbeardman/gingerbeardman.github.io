@@ -17,11 +17,11 @@ Second in my series 1-bit Woodblocks.
 
 I've just finished "Asanegami" (Morning Hair) so I thought I'd go into a few of my favourite details!
 
-• eyes
-• eyebrows
-• background
-• lips
-• comb/history
+- eyes
+- eyebrows
+- background
+- lips
+- comb/history
 
 I spent a long time adding and refining eye details, my reasoning being that these are the first thing you look at.
 
