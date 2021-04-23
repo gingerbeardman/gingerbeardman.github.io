@@ -8,8 +8,6 @@ tags:
 - 1bit
 - macintosh
 nouns:
-- Macintosh
-- Classic
 - Wacom ArtPad II
 - Deneba
 - UltraPaint

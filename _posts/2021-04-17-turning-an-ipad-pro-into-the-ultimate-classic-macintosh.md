@@ -11,27 +11,17 @@ nouns:
 - Documents
 - Books
 - Inside Macintosh
-- Apple Pencil
-- Wacom ArtPad II
-- Ultimate Classic Macintosh
 - Safari
 - Files
 - Apple Events
 - 44pt
-- Xcode
-- Classic
-- iPhone
 - System
 - 1-bit Woodblocks
 - Share Sheet
-- iOS
 - artWORKS
 - UltraPaint
-- Macintosh
 - Monitors
 - Mini vMac
-- Pro
-- iPad
 - BasiliskII
 carousel: ''
 featured: true
@@ -116,6 +106,7 @@ This setup gives me the best of both old and new worlds, and that's why I refer 
 
 * [How to install BasiliskII on your iPad](/2021/04/21/building-basiliskii-for-ios/)
 * [Exploring Custom Keyboards and Automation](/2021/04/19/automating-interactions-using-apple-events/)
+* [Optimising Macintosh app toolbars for touch](/2021/03/28/changing-the-size-of-toolbar-items-using-resedit/)
 
 ## Forthcoming posts
 

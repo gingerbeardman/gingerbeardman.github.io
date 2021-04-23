@@ -8,7 +8,6 @@ tags:
 - xcode
 nouns:
 - BasiliskII
-- iOS
 - Xcode
 - Mojave
 - System 7
@@ -20,8 +19,6 @@ nouns:
 - Files
 - Safari
 - Slide Over
-- macOS
-- HIG
 carousel: ''
 featured: false
 comments: https://twitter.com/gingerbeardman/status/1384827300697489408

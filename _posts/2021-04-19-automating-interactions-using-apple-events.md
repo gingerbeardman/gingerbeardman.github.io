@@ -19,7 +19,6 @@ nouns:
 - UltraPaint
 - QuicKeys
 - KeyQuencer
-- Macintosh
 - Apple Events
 carousel: ''
 featured: false
