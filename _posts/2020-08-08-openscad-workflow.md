@@ -2,7 +2,7 @@
 layout: post
 title: 'Daily Driver: OpenSCAD workflow'
 tags: [dailydriver, playdate, graphics, software]
-keywords:
+nouns: [OpenSCAD, Retrobatch, LEGO, Qt Framework]
 carousel: openscad
 ---
 
@@ -12,8 +12,8 @@ I took the plunge and upgraded to a Mac mini and 4K display so had to migrate my
 
 So, my workflow uses the following apps:
 
-- OpenSCAD “The Programmers Solid 3D CAD Modeller”
-- Retrobatch “a unique application for automating actions on multiple images at the same time”
+- [OpenSCAD](https://openscad.org) “The Programmers Solid 3D CAD Modeller”
+- [Retrobatch](https://flyingmeat.com/retrobatch/) “a unique application for automating actions on multiple images at the same time”
 - post-processing “greyscale and dithering tool” (I use my own realtime tool, but any image editor would do it to a degree, see this other thread)
 
 This is so I can re-run a workflow at any point (maybe in a make file) which I often do during development. These become executable assets, of sorts, in my project.
