@@ -3,7 +3,7 @@
 
 {% include head.html %}
 
-<body>
+<body class="{% if page.tags contains 'playdate' %}playdate {% endif %}{% if page.tags contains 'macintosh' or page.tags contains 'system7' %}macintosh {% endif %}">
 
   <div class='js-off-canvas-container c-off-canvas-container'>
     {% include header.html %}

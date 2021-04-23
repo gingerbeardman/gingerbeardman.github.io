@@ -4,6 +4,7 @@ title: Phosphor Essence
 tags:
 - crt
 - photoshop
+- macintosh
 nouns:
 - Ikegami
 - Barco

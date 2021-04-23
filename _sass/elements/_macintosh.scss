@@ -1,0 +1,39 @@
+body.macintosh {
+  background-color: $bg-color-macintosh;
+
+  .c-post__date,
+  .c-tags a {
+    color: $color-text;
+  }
+
+  a:hover,
+  .c-tags a:hover {
+    // color: $color-white;
+    background-color: transparent;
+    transition: none;
+  }
+
+  .c-logo__link span,
+  .c-byline__desc,
+  .c-byline__desc a {
+    // color: $color-white;
+  }
+
+  code,
+  .highlighter-rouge {
+    background-color: transparent;
+  }
+
+  .c-header__inner {
+    border-color: $color-gray;
+  }
+
+  blockquote {
+    color: $color-dark !important;
+    border-left: 2px solid $color-dark;
+  }
+
+  .highlighter-rouge .highlight {
+    background-color: $bg-color-mac-code;
+  }
+}

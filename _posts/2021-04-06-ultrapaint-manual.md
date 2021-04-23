@@ -6,6 +6,7 @@ tags:
 - manual
 - ultrapaint
 - deneba
+- macintosh
 nouns:
 - Option
 - UltraPaint

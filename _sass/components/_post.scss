@@ -25,16 +25,16 @@
     line-height: $line-height-small;
     color: $color-gray;
 
-    &:after {
-      position: absolute;
-      content: '';
-      top: 0;
-      left: 50%;
-      height: 1px;
-      width: quadruple($base-spacing-unit);
-      background: $bg-color-gray;
-      transform: translateX(-50%);
-    }
+    // &:after {
+    //   position: absolute;
+    //   content: '';
+    //   top: 0;
+    //   left: 50%;
+    //   height: 1px;
+    //   width: quadruple($base-spacing-unit);
+    //   background: $bg-color-gray;
+    //   transform: translateX(-50%);
+    // }
   }
 
   &__image {
