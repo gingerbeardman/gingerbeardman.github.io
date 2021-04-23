@@ -63,6 +63,7 @@ Both Macintosh emulators available on iOS we're ported by [@maczydeco](https://T
 * File Sharing via mapped folder
 * Dynamic screen resolutions through Monitors control panel, or automation
 * Native iOS interface for settings panel, negating all the issues with the desktop GUI
+* We have a winner!
 * [Source code](https://github.com/zydeco/macemu/wiki/BasiliskII-for-iOS) (use the `ios` branch!)
 
 ## File Sharing
@@ -87,9 +88,9 @@ So I added a bunch of custom resolutions to the BasiliskII soure code to add sup
 
 ## Custom Keyboards
 
-Both emulators share the same software keyboard mechanism. The keyboard maps are user-editable as JSON and compiled into a custom format.
+Both emulators share the same software keyboard mechanism. The keyboard layouts are user-editable as JSON and compiled into a custom format.
 
-So I hacked together a [custom keyboard layout](https://github.com/gingerbeardman/artworks-keyboard) that can be used in either emulator that gives me quick thumb access to tools and shortcuts in my most used apps: artWORKS and UltraPaint. It works for both apps as they are related, sharing a lot of code and resources.
+So I put together a [custom keyboard layout](https://github.com/gingerbeardman/artworks-keyboard) that can be used in either emulator that gives me quick thumb access to tools and shortcuts in my most used apps: artWORKS and UltraPaint. It works for both apps as they are related, sharing a lot of code and resources.
 
 ![PNG](/images/posts/ultimate-classic-macintosh-2.png)
 
