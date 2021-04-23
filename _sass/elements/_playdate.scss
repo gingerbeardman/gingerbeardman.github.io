@@ -27,4 +27,9 @@ body.playdate {
   .c-header__inner {
     // border-color: transparent;
   }
+
+  blockquote {
+    color: $color-darker;
+    border-color: $color-darker;
+  }
 }
