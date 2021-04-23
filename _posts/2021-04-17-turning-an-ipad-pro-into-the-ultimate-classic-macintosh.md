@@ -94,7 +94,7 @@ So I put together a [custom keyboard layout](https://github.com/gingerbeardman/a
 
 ![PNG](/images/posts/ultimate-classic-macintosh-2.png)
 
-With this keyboard layout I'm mostly relabelling the function keys, but I've also replaced some key codes to reposition keys for my own purposes. The apps don't respond to function keys so I use macros and Apple Events to get things to work [as detailed in another post](/2021/04/19/automating-interactions-using-apple-events/).
+With this keyboard layout I'm not only relabelling the function keys, but also replacing some key codes to reposition keys for my own purposes. The apps don't respond to function keys so I use macros and Apple Events to get things to work [as detailed in another post](/2021/04/19/automating-interactions-using-apple-events/).
 
 ## How does the experience compare to a real Macintosh?
 
