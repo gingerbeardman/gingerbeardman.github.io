@@ -12,7 +12,17 @@
     line-height: $line-height-medium;
     color: $color-gray;
 
+    text-decoration: underline;
+    text-decoration-skip: ink;
+    color: $color-text;
+
     transition: $global-transition;
+
+    &:hover {
+      color: $color-brand;
+      text-decoration: underline !important;
+      text-decoration-skip: ink;
+    }
 
     @include attention() {
       text-decoration: none;
