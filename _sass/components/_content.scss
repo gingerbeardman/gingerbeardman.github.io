@@ -3,6 +3,8 @@
 \*------------------------------------*/
 
 .c-content {
+  overflow-x: auto;
+
   a:not(.c-btn) {
     text-decoration: underline;
     text-decoration-skip: ink;
