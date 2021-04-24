@@ -28,25 +28,25 @@ One small disappointment is that Macromedia Fireworks required won't run on this
 
 | APP | PIXEL | VECTOR | LAYERS | TRANSP. | NOTES |
 | --- | --- | --- | --- | --- | --- |
-| artWorks | • | • | • | ◦ | Bottom layer opaque |
-| Canvas | • | • | • | ◦ | Bottom layer opaque |
-| Cricket Draw |   | • |   |   |  |
-| Draw It Again Sam |   | • | • |   |  |
-| Drawing Table |   | • |   |   |  |
-| Freehand 1.0 |   | • | ◦ |   | Layers not managed visually |
-| Freehand 3.1–5.5 |   | • | • |   |  |
-| Illustrator 88–3.0 |   | • |   |   |  |
-| ImageStudio 0.6 | • |   |   |   | Custom brushes |
-| LightningPaint | • |   |   |   |  |
-| MacDraw |   | • | • |   |  |
-| MacPaint | • |   |   |   |  |
-| MacroPaint | • |   |   | ◦ | Transparent patterns |
-| Photoshop 1.0–2.5 | • |   |   |   |  |
-| Photoshop 3.0 | • |   | • | • |  |
-| PixelPaint | • |   |   |   |  |
-| ShareDraw |   | • | • |   |  |
-| Studio/1 | • |   |   |   | Animation, 1-bit |
-| Studio/8 | • |   |   |   | Animation, 8-bit |
-| SuperPaint | • | • | ◦ |   | One layer each for pixel/vector |
-| UltraPaint | • | • | • | ◦ | Bottom layer opaque |
-| Zeus | • |   |   |   | Animation |
+| artWorks | ● | ● | ● | ○ | Bottom layer opaque |
+| Canvas | ● | ● | ● | ○ | Bottom layer opaque |
+| Cricket Draw |   | ● |   |   |  |
+| Draw It Again Sam |   | ● | ● |   |  |
+| Drawing Table |   | ● |   |   |  |
+| Freehand 1.0 |   | ● | ○ |   | Layers not managed visually |
+| Freehand 3.1–5.5 |   | ● | ● |   |  |
+| Illustrator 88–3.0 |   | ● |   |   |  |
+| ImageStudio 0.6 | ● |   |   |   | Custom brushes |
+| LightningPaint | ● |   |   |   |  |
+| MacDraw |   | ● | ● |   |  |
+| MacPaint | ● |   |   |   |  |
+| MacroPaint | ● |   |   | ○ | Transparent patterns |
+| Photoshop 1.0–2.5 | ● |   |   |   |  |
+| Photoshop 3.0 | ● |   | ● | ● |  |
+| PixelPaint | ● |   |   |   |  |
+| ShareDraw |   | ● | ● |   |  |
+| Studio/1 | ● |   |   |   | Animation, 1-bit |
+| Studio/8 | ● |   |   |   | Animation, 8-bit |
+| SuperPaint | ● | ● | ○ |   | One layer each for pixel/vector |
+| UltraPaint | ● | ● | ● | ○ | Bottom layer opaque |
+| Zeus | ● |   |   |   | Animation |

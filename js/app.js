@@ -20,4 +20,6 @@ $(document).ready(function() {
     $('.js-off-canvas-container').toggleClass('is-active');
   });
 
+  $("table").tablesorter();
+
 });
