@@ -8,7 +8,7 @@ tags:
 - macintosh
 nouns:
 - System
-title: Vintage Macintsh drawing software compared
+title: Macintosh drawing software compared
 comments: ''
 featured: false
 carousel: ''
