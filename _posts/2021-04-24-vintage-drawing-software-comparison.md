@@ -4,6 +4,8 @@ tags:
 - system7
 - graphics
 - drawing
+- software
+- macintosh
 nouns:
 - System
 title: Vintage drawing software comparison
