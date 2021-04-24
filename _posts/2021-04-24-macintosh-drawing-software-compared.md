@@ -9,22 +9,22 @@ tags:
 nouns:
 - System
 title: Macintosh drawing software compared
-comments: ''
+comments: https://twitter.com/gingerbeardman/status/1385985050479677445
 featured: false
 carousel: ''
 
 ---
 Below is a list of various drawing applications that are available to use with System 7.
 
-I'm mostly interested in apps that can do both of pixel and vector, support for layers and transparency so thought this table might be useful for at-a-glance comparisons. Apps run in both mono or colour, unless stated.
+I'm mostly interested in apps that can do both pixel and vector, and that support layers and transparency. The table below might be useful for at-a-glance comparisons. Apps run in both mono or colour, unless stated otherwise.
 
-Deneba artWorks is a standout app that can do both pixel and vector and has layers and partial transparency. The bottom layer is opaque and all layers on top are transparent. Collections of pixels are managed as a special object.
+Deneba artWorks is a standout app that can do both pixel and vector, has layers and (partial) transparency. The bottom layer is opaque and all layers on top are transparent. Collections of pixels are managed as a special object. There's a limit of 8 layers.
 
-Freehand is king of the vector apps. It really was so much better than Illustrator. Such a shame that it's no longer around.
+Freehand is king of the vector apps. It really was so much better than Illustrator. Such a shame that it's no longer around. To use it on iPad is quite something!
 
-Also interesting is how many early version of successful apps didn't support layers (Photoshop, Freehand) or transparency (Photoshop).
+Also interesting is how many early versions of successful apps didn't support layers (Photoshop, Freehand) or transparency (Photoshop).
 
-One small disappointment is that Macromedia Fireworks required won't run on this setup as it requires the PPC architecture.
+One small disappointment: Macromedia Fireworks won't run on this setup as it requires the PPC architecture.
 
 | APP | PIXEL | VECTOR | LAYERS | TRANSP. | NOTES |
 | --- | --- | --- | --- | --- | --- |
