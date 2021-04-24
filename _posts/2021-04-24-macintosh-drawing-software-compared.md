@@ -28,8 +28,8 @@ One small disappointment is that Macromedia Fireworks required won't run on this
 
 | APP | PIXEL | VECTOR | LAYERS | TRANSP. | NOTES |
 | --- | --- | --- | --- | --- | --- |
-| artWorks | • | • | • | ◦ | Bottom layer not transparent |
-| Canvas | • | • | • | ◦ | Bottom layer not transparent |
+| artWorks | • | • | • | ◦ | Bottom layer opaque |
+| Canvas | • | • | • | ◦ | Bottom layer opaque |
 | Cricket Draw |   | • |   |   |  |
 | Draw It Again Sam |   | • | • |   |  |
 | Drawing Table |   | • |   |   |  |
@@ -48,5 +48,5 @@ One small disappointment is that Macromedia Fireworks required won't run on this
 | Studio/1 | • |   |   |   | Animation, 1-bit |
 | Studio/8 | • |   |   |   | Animation, 8-bit |
 | SuperPaint | • | • | ◦ |   | One layer each for pixel/vector |
-| UltraPaint | • | • | • | ◦ | Bottom layer not transparent |
+| UltraPaint | • | • | • | ◦ | Bottom layer opaque |
 | Zeus | • |   |   |   | Animation |
