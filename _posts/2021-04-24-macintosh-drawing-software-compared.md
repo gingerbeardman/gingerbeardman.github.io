@@ -33,7 +33,7 @@ One small disappointment: Macromedia Fireworks won't run on this setup as it req
 | Cricket Draw |   | ● |   |   |  |
 | Draw It Again Sam |   | ● | ● |   |  |
 | Drawing Table |   | ● |   |   |  |
-| Freehand 1.0 |   | ● | ○ |   | Layers not managed visually |
+| Freehand 1.0-2.0 |   | ● | ○ |   | Layers not managed visually |
 | Freehand 3.1–5.5 |   | ● | ● |   |  |
 | Illustrator 88–3.0 |   | ● |   |   |  |
 | ImageStudio 0.6 | ● |   |   |   | Custom brushes |
@@ -47,6 +47,6 @@ One small disappointment: Macromedia Fireworks won't run on this setup as it req
 | ShareDraw |   | ● | ● |   |  |
 | Studio/1 | ● |   |   |   | Animation, 1-bit |
 | Studio/8 | ● |   |   |   | Animation, 8-bit |
-| SuperPaint | ● | ● | ○ |   | One layer each for pixel/vector |
+| SuperPaint | ● | ● | ○ |   | One layer each for pixel and vector |
 | UltraPaint | ● | ● | ● | ○ | Bottom layer opaque |
 | Zeus | ● |   |   |   | Animation |

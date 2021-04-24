@@ -35,3 +35,9 @@ img[src$='#compare'] {
   float: left;
   margin-right: double($base-spacing-unit);
 }
+
+img[src$='#pixel'] {
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
