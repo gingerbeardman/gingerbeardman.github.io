@@ -33,7 +33,7 @@ One small disappointment is that Macromedia Fireworks required won't run on this
 | Cricket Draw |   | • |   |   |  |
 | Draw It Again Sam |   | • | • |   |  |
 | Drawing Table |   | • |   |   |  |
-| Freehand 1.0 |   | • | ◦ |   | Layers not through GUI |
+| Freehand 1.0 |   | • | ◦ |   | Layers not managed visually |
 | Freehand 3.1–5.5 |   | • | • |   |  |
 | Illustrator 88–3.0 |   | • |   |   |  |
 | ImageStudio 0.6 | • |   |   |   | Custom brushes |
