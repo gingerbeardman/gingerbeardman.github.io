@@ -6,7 +6,7 @@ tags:
 - drawing
 nouns:
 - System
-title: Drawing software for Classic Macintosh
+title: Vintage drawing software comparison
 comments: ''
 featured: false
 carousel: ''
