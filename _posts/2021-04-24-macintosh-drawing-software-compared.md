@@ -24,6 +24,8 @@ Freehand is king of the vector apps. It really was so much better than Illustrat
 
 Also interesting is how many early version of successful apps didn't support layers (Photoshop, Freehand) or transparency (Photoshop).
 
+One small disappointment is that Macromedia Fireworks required won't run on this setup as it requires the PPC architecture.
+
 | APP | PIXEL | VECTOR | LAYERS | TRANSP. | NOTES |
 | --- | --- | --- | --- | --- | --- |
 | artWorks | • | • | • | ◦ | Bottom layer not transparent |
