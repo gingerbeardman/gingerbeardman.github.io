@@ -30,6 +30,7 @@ One small disappointment: Macromedia Fireworks requires the PPC architecture so 
 | --- |:---:|:---:|:---:|:---:| --- |
 | artWorks | ● | ● | ● | ○ | Bottom layer opaque |
 | Canvas | ● | ● | ● | ○ | Bottom layer opaque |
+| ClarisDraw | ● | ● | ● |  |  |
 | Cricket Draw |  | ● |  |  |  |
 | Draw It Again Sam |  | ● | ● |  |  |
 | Drawing Table |  | ● |  |  |  |
@@ -38,7 +39,7 @@ One small disappointment: Macromedia Fireworks requires the PPC architecture so 
 | Illustrator 88–3.0 |  | ● |  |  |  |
 | ImageStudio 0.6 | ● |  |  |  | Custom brushes |
 | LightningPaint | ● |  |  |  |  |
-| MacDraw |  | ● | ● |  |  |
+| MacDraw Pro |  | ● | ● |  |  |
 | MacPaint | ● |  |  |  |  |
 | MacroPaint | ● |  |  | ○ | Transparent patterns |
 | Photoshop 1.0–2.5 | ● |  |  |  |  |
