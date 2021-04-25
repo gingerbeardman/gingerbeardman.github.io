@@ -23,7 +23,7 @@ Amongst the Deneba material on an AppleLink archive disk from Spring 1993 there 
 ![PNG](/images/posts/deneba-external-tools-0.png#pixel "Spot the odd one out")
 {:.tofigure}
 
-I can confirm this that this tool - which I don't believe is included with UltraPaint - allows my Wacom ArtPad II to work in UltraPaint. Bonus! But why was this tool meant for UltraPaint included in a download for Canvas. Could it work in Canvas?
+I can confirm this that this tool - which I don't believe was ever included with UltraPaint - allows my Wacom ArtPad II to work. Bonus! But why was this tool meant for UltraPaint included in a download for Canvas. Could it work in Canvas?
 
 I put the additional files in the Canvas Tools folder and started the app with the Space Bar held down. This starts the Tool Picker allowing you to select which tools you want to use for that session.
 
