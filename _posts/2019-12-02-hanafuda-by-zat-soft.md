@@ -8,19 +8,22 @@ tags:
 nouns:
 - MZ-700
 - Sharp
-- ZATSOFT
-carousel: ''
-featured: false
-comments: https://twitter.com/gingerbeardman/status/1095296460999008256?s=20
+- Playscii
+- ZAT SOFT
+comments: https://twitter.com/gingerbeardman/status/1095296460999008256
 
 ---
-Hanafuda on Sharp MZ-700.  
-By ZAT SOFT. 1983. [(instagram.com/p/Btx6ogiFPO-/)](https://www.instagram.com/p/Btx6ogiFPO-/)
 
-![](https://pbs.twimg.com/media/DzNGU74W0AAicys.jpg)
+These beautiful cards were created in 1983 using only characters, without bitmap graphics. This was because the Sharp MZ-700, like many home computers of its era, couldn't do bitmap graphics.
 
-Here's are the [@Playscii](https://twitter.com/Playscii) art files for the Sharp MZ-700 Hanafuda by ZAT SOFT. Also includes blank cards: [https://www.dropbox.com/s/7j8lyoi6twdderl/Sharp%20MZ-700%20Hanafuda.zip?dl=0](https://www.dropbox.com/s/7j8lyoi6twdderl/Sharp%20MZ-700%20Hanafuda.zip?dl=0 "https://www.dropbox.com/s/7j8lyoi6twdderl/Sharp%20MZ-700%20Hanafuda.zip?dl=0")
+![PNG](/images/posts/hanafuda-zat-soft.png#pixel "Hanafuda on Sharp MZ-700. By ZAT SOFT, 1983.")
+{:.tofigure}
 
-I'd encourage you to at least try to recreate a few cards yourself as you'll then encounter some of the genius design decisions made by the original creator!
+Here is a download of the [Playscii](http://vectorpoem.com/playscii/) art files for the above cards: [Sharp MZ-700 Hanafuda.zip](https://www.dropbox.com/s/7j8lyoi6twdderl/Sharp%20MZ-700%20Hanafuda.zip?dl=0)
 
-![](https://pbs.twimg.com/media/Ew3r2xiXEAgrqWj.png)
+Also included are a set of blank cards so you can try creating something yourself.
+
+I encourage you to at least try as you'll encounter some of the genius design decisions made by the original creator!
+
+![PNG](/images/posts/hanafuda-zat-soft-playscii.png#pixel "Hanafuda October month recreated in Playscii using Sharp MZ-700 character set")
+{:.tofigure}

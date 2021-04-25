@@ -61,9 +61,10 @@ The result was much faster Apple Events sending and no distracting window focus 
 
 ## Two-in-One
 
-The end result is a macro of two parts: the first section operates artWORKS using Apple Events, continuing without complaint if the app is not open, and the second section operates UltraPaint via simple mouse clicks.
+The end result is a macro of two parts: the first section operates artWORKS using Apple Events, continuing without complaint if the app is not open, and the second section operates UltraPaint using simple mouse clicks.
 
-![PNG](/images/posts/automating-apple-events.png#pixel)
+![PNG](/images/posts/automating-apple-events.png#pixel "Example of a KeyQuencer Macro that works in both artWORKS and UltraPaint")
+{:.tofigure}
 
 I plan to adding support for Canvas 3.x at some point as this shares Apple Events support with artWORKS.
 

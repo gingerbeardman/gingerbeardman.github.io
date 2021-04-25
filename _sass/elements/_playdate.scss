@@ -1,6 +1,10 @@
 body.playdate {
   background-color: $bg-color-playdate;
 
+  .c-content {
+    overflow-x: unset;
+  }
+
   .c-post__date,
   .c-tags a {
     color: $color-text;

@@ -11,7 +11,7 @@ img[src$='#playdate'] {
   max-width: 860px;
   width: 860px;
   height: 540px;
-  margin: 25px -90px;
+  margin: 25px -60px;
   border-radius: 28px;
   border: 30px solid #322f28;
 
@@ -40,4 +40,13 @@ img[src$='#pixel'] {
   image-rendering: auto;
   image-rendering: crisp-edges;
   image-rendering: pixelated;
+}
+
+figcaption {
+  display: block;
+  width: 100%;
+  margin: .25rem auto 1rem;
+  font-size: 1rem;
+  text-align: center;
+  color: $color-gray;
 }

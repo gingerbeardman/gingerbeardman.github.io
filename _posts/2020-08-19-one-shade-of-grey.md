@@ -7,7 +7,7 @@ nouns: [60fps, Commodore 64, Palm, Game Boy, Creatures]
 
 Since I am targeting 60fps one of the things I can do is flash a black sprite every other frame to get a shade of grey. Yes! Grey on a black and white screen.
 
-It only works at high frame rates (note: 50fps isn’t high enough!) because the screen is so good that flashing at a slower rate simple looks like an image flashing. It also only on device for the same reason.
+It only works at high frame rates (note: 50fps isn’t high enough!) because the screen is _so damned good_ that flashing at a slower rate simply looks like... an image flashing. The effects is also visible on device for the same reason.
 
 So I’m not sure I’ll use it, as all other shadows are dithered and flashing them all will hit the frame rate. But it was fun to try! One for another game, perhaps?
 

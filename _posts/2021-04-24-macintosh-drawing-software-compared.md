@@ -27,7 +27,7 @@ Also interesting is how many early versions of successful apps didn't support la
 One small disappointment: Macromedia Fireworks won't run on this setup as it requires the PPC architecture.
 
 | APP | PIXEL | VECTOR | LAYERS | TRANSP. | NOTES |
-| --- | --- | --- | --- | --- | --- |
+| --- |:---:|:---:|:---:|:---:| --- |
 | artWorks | ● | ● | ● | ○ | Bottom layer opaque |
 | Canvas | ● | ● | ● | ○ | Bottom layer opaque |
 | Cricket Draw |   | ● |   |   |  |
@@ -50,3 +50,5 @@ One small disappointment: Macromedia Fireworks won't run on this setup as it req
 | SuperPaint | ● | ● | ○ |   | One layer each for pixel and vector |
 | UltraPaint | ● | ● | ● | ○ | Bottom layer opaque |
 | Zeus | ● |   |   |   | Animation |
+
+Key: ● full support, ○ partial support
