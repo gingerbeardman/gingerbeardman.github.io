@@ -35,7 +35,7 @@ One small disappointment: Macromedia Fireworks requires the PPC architecture so 
 | Draw It Again Sam |  | ● | ● |  |  |
 | Drawing Table |  | ● |  |  |  |
 | Expression |  | ● | ● |  |  |
-| Freehand 1.0-2.0 |  | ● | ○ |  | Layers not managed visually |
+| Freehand 1.0–2.0 |  | ● | ○ |  | Layers not managed visually |
 | Freehand 3.1–5.5 |  | ● | ● |  |  |
 | Illustrator 88–3.0 |  | ● |  |  |  |
 | ImageStudio 0.6 | ● |  |  |  | Custom brushes |
