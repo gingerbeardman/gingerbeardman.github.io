@@ -2,7 +2,7 @@
 layout: post
 tags: [system7, macintosh, software, hacking]
 nouns: [External Tools, AppleLink, Deneba, UltraPaint, TOOL, ULTR, Canvas, TOL2, DAD2, artWORKS, TOL4, DAD3, Wacom, ArtPad II, Tool Picker, ResEdit, Snitch, FileTyper]
-title: Mixing External Tools across Deneba apps
+title: Mixing External Tools across Deneba software
 featured: yes
 ---
 One of the most interesting things about Deneba's early 1990s Macintosh drawing apps is that they were built in a modular way with additional files that add specific features. These days we call those plugins but back in 1990 Deneba referred to them as External Tools.
