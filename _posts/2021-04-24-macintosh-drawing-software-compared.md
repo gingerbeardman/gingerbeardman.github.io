@@ -30,10 +30,11 @@ One small disappointment: Macromedia Fireworks requires the PPC architecture so 
 | --- |:---:|:---:|:---:|:---:| --- |
 | artWorks | ● | ● | ● | ○ | Bottom layer opaque |
 | Canvas | ● | ● | ● | ○ | Bottom layer opaque |
-| ClarisDraw | ● | ● | ● |  |  |
+| ClarisDraw | ● | ● | ● |  | Pixel drawing within specific objects only |
 | Cricket Draw |  | ● |  |  |  |
 | Draw It Again Sam |  | ● | ● |  |  |
 | Drawing Table |  | ● |  |  |  |
+| Expression |  | ● | ● |  |  |
 | Freehand 1.0-2.0 |  | ● | ○ |  | Layers not managed visually |
 | Freehand 3.1–5.5 |  | ● | ● |  |  |
 | Illustrator 88–3.0 |  | ● |  |  |  |
