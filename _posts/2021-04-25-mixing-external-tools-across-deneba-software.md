@@ -15,7 +15,6 @@ They are first seen in UltraPaint and later in Canvas 3.0, artWORKS and Canvas 3
 | 1990 | UltraPaint | TOOL | ULTR |
 | 1992 | Canvas 3.0 | TOL2 | DAD2 |
 | 1993 | artWORKS   | TOL4 | DAD3 |
-| 1995 | Canvas 3.5 | TOL2 | DAD2 |
 
 Tools are categorised into several types: Effect, I/O, Manager, Modifier, Object, Setting and Other. Each adds functionality and/or user interface to the app in their own way.
 
