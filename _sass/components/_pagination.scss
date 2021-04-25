@@ -12,6 +12,10 @@
     float: left;
   }
 
+  &__page {
+    text-align: center;
+  }
+
   @include attention() {
     color: $color-brand;
     text-decoration: none;
