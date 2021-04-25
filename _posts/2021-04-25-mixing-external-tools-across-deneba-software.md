@@ -16,7 +16,7 @@ They are first seen in UltraPaint and later in Canvas 3.0, artWORKS and Canvas 3
 | 1992 | Canvas 3.0 | TOL2 | DAD2 |
 | 1993 | artWORKS   | TOL4 | DAD3 |
 
-Tools are categorised into several types: Effect, I/O, Manager, Modifier, Object, Setting and Other. Each adds functionality and/or user interface to the app in their own way.
+Tools are categorised into several types: Effect, I/O, Manager, Modifier, Object, Setting and Other. Each adds functionality and/or user interface to the app in its own way.
 
 Amongst the Deneba material on an AppleLink archive disk from Spring 1993 there are a bunch of "non-shipping" tools labelled for use with Canvas 3.0. Interestingly, they are listed individually and also as a combined set. If we extract the combined set of tools there's a single additional tool that is somewhat out of place: the Waco Tool (for Wacom pressure sensitive pen) which is marked with UltraPaint's type and creator information.
 
