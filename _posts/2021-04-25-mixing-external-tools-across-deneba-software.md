@@ -49,7 +49,7 @@ I set about copying the tools from one app to artWORKS, my favourite app, changi
 
 ## Very far!
 
-The result was quite amazing with artWORKS total tools increasing from 59 to 93—that's 34 additional tools! This is not counting a handful of tools that install but do not present themselves in the user interface. I'll need to investigate those further at a later date.
+The result was quite amazing with artWORKS total tools increasing from 59 to 92—that's 33 additional tools! This is not counting a handful of tools that install but do not present themselves in the user interface. I'll need to investigate those further at a later date.
 
 The table below shows tools present in each of the apps, each with their own symbol, and then the final combined column shows all tools that are compatible with artWORKS with the symbols showing which app that tool originated from.
 
@@ -110,7 +110,6 @@ The table below shows tools present in each of the apps, each with their own sym
 |MacPaint I/O            | ▲        | ●        | ■      | ■       |
 |Magic Wand              | ▲        |          | ■      | ■       |
 |Masking                 | ▲        |          | ■      | ■       |
-|Master Texture File     |          |          | ■      | ■       |
 |Mover                   |          | ●        | ■      | ■       |
 |Multigon                | ▲        | ●        | ■      | ■       |
 |NameStamp               |          | ●        |        | ●       |
@@ -159,7 +158,7 @@ The table below shows tools present in each of the apps, each with their own sym
 |Undo Killer             |          | ●        |        | ○       |
 |Water Droplet           | ▲        |          | ■      | ■       |
 |========================|==========|==========|========|=========|
-|Total Tools             | 30       | 74       | 59     | 93      |
+|Total Tools             | 30       | 74       | 59     | 92      |
 {: #deneba-external-tools}
 
 Key:
