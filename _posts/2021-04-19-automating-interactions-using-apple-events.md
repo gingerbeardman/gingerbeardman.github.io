@@ -98,6 +98,7 @@ Even so, I went the extra mile to complete a list of both internal and external 
 | RoundRect | 5 |
 | Spray Can | 13 |
 | Text | 2 |
+{: #deneba-btol}
 
 ### External Tools (etol)
 
@@ -125,3 +126,4 @@ Even so, I went the extra mile to complete a list of both internal and external 
 | Split | Splt |
 | Star | STAR |
 | Timestamp | TimE |
+{: #deneba-etol}

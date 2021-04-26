@@ -26,3 +26,14 @@ tfoot td {
 tfoot {
   border-top: 2px solid #ccc;
 }
+
+table#deneba-btol th:last-child,
+table#deneba-btol td:last-child,
+table#deneba-etol th:last-child,
+table#deneba-etol td:last-child,
+table#macintosh-drawing-software th:last-child,
+table#macintosh-drawing-software td:last-child,
+table#deneba-external-tools th:last-child,
+table#deneba-external-tools td:last-child {
+  border-left: 1px solid #ccc;
+}

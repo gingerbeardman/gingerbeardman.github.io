@@ -53,7 +53,7 @@ I set about copying the tools from one app to artWORKS, my favourite app, changi
 
 The result was quite amazing, as shown in the table below, with artWORKS total tools increasing from 59 to 94—that's 35 additional tools! This is not counting a handful of tools that install but do not present themselves in the user interface. I'll need to investigate those further at a later date.
 
-So after all this I now have an install of artWORKS (let's call it artWORKS+) that includes additional tools from both UltraPaint and Canvas 3.0 and I had a ton of fun figuring all this out.
+So after all this I now have an install of artWORKS (let's call it artWORKS+) that includes additional tools from both UltraPaint and Canvas 3.0 and I had a ton of fun figuring all this out. Only 30 years late!
 
 # External Tools
 
@@ -163,6 +163,7 @@ So after all this I now have an install of artWORKS (let's call it artWORKS+) th
 |Water Droplet         | ▲        |          | ■      | ■       |
 |======================|==========|==========|========|=========|
 |Total Tools           | 30       | 74       | 59     | 94      |
+{: #deneba-external-tools}
 
 Key:
 
@@ -173,4 +174,4 @@ Key:
 
 ### Footnote
 
-A note about later versions of Canvas: version 3.5 provides roughly the same compatible tools, and the unique tools it has are not compatible with artWORKS. Canvas 5.0 feature similar tools, but they're no longer compatible with the earlier apps.
+A note about later versions of Canvas: version 3.5 provides roughly the same tools, and the unique tools it has are not compatible with artWORKS. Canvas 5.0 features similar tools but they're no longer compatible with the earlier apps.

@@ -52,5 +52,6 @@ One small disappointment: Macromedia Fireworks requires the PPC architecture so 
 | SuperPaint | ● | ● | ○ |  | One layer each for pixel and vector |
 | UltraPaint | ● | ● | ● | ○ | Bottom layer opaque |
 | Zeus | ● |   |   |   | Animation |
+{: #macintosh-drawing-software}
 
 Key: ● full support, ○ partial support
