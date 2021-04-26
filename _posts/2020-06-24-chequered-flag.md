@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Daily Driver: Chequered Flag'
-tags: [dailydriver, playdate, graphics]
+tags: dailydriver playdate graphics
 nouns: [Daily Driver, Playdate, SDK]
 ---
 

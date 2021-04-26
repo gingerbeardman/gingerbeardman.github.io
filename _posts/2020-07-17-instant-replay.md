@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Daily Driver: Instant Replay'
-tags: [dailydriver, playdate, gamedev]
+tags: dailydriver playdate gamedev
 ---
 
 ![GIF](/images/posts/daily-driver-instant-replay.gif#playdate)

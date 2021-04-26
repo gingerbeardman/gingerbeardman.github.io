@@ -1,24 +1,52 @@
 ---
 layout: default
 ---
-
 <div class='o-wrapper'>
-
-  <div class='o-grid'>
-    <div class='o-grid__col tag-filter'>
-      <h6>Filter:
-        <a href="/">#{{ page.tag }}</a>
-      </h6>
-    </div>
-  </div>
-
-  <div class='o-grid'>
-    {% for post in page.posts %}
-      {% include post-card.liquid %}
-    {% endfor %}
-  </div>
-
-  <div class='o-grid'>
-    {% include pagination.html %}
-  </div>
+	<div class='o-grid'>
+		<div class='o-grid__col tag-filter'>
+			<h6>Filter:
+				<a href="{{ site.baseurl }}/">#{{ page.tag }}</a>
+			</h6>
+		</div>
+	</div>
+	<div class='o-grid'>
+		{% for post in site.tags[page.tag] %}
+		{% if post.pinned %}
+		{% else %}
+		<div class='o-grid__col--full o-grid__col--final'>
+			<a href='{{ post.url | prepend: site.baseurl }}' class='c-post-card {% if forloop.first == true %} c-post-card--first {% endif %} {% if forloop.last == true %} c-post-card--last {% endif %}'>
+				<h3 class='c-post-card__title'>
+					{{ post.title }}
+					{% assign post_date = post.date | date: '%s' | minus: 0 %}
+					{% assign ago_date = 'now' | date: '%s' | minus: 0 %}
+					{% comment %}
+					<!-- 86400 per day -->
+					{% endcomment %}
+					{% if post_date > ago_date %}
+					<span class="u-right new">!&nbsp;</span>
+					{% else %}
+					{% if post.featured %}
+					<span class="u-right fave">♥
+						<!-- ★ ☆ --></span>
+					{% endif %}
+					{% endif %}
+				</h3>
+				<span class='c-post-card__date'>
+					{{ post.date | date: '%Y-%m-%d ' }}
+					&nbsp;•&nbsp; {% include post-card-read-time.html %}
+					{% if post.tags %}
+					<br>
+					{% for tag in post.tags %}
+					#{{ tag }}
+					{% endfor %}
+					{% endif %}
+				</span>
+				{% if post.image %}
+				<img src='{{ post.image | prepend: site.baseurl }}' class='c-post__image' alt='{{ post.title }}'>
+				{% endif %}
+			</a>
+		</div>
+		{% endif %}
+		{% endfor %}
+	</div>
 </div>

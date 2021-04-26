@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dreamcast GDEMU installation'
-tags: [dreamcast,mod,electronics]
+tags:  dreamcast mod electronics
 nouns: [Dreamcast, WinCE, Super Runabout, Noctua]
 carousel: dreamcast-gdemu
 ---

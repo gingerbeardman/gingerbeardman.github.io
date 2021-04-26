@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Daily Driver: Obstacles'
-tags: [dailydriver, gameplay, playdate]
+tags: dailydriver gameplay playdate
 nouns: [Daily Driver, Playdate, SDK, Crank Turismo]
 ---
 

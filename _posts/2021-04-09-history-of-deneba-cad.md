@@ -1,7 +1,7 @@
 ---
 layout: post
 title: History of DenebaCAD
-tags: [macintosh, system7, history, deneba]
+tags: macintosh system7 history deneba
 comments: https://twitter.com/gingerbeardman/status/1380424305662656517
 excerpt_separator: <!--more-->
 carousel: denebacad

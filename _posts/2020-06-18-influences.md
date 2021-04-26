@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Daily Driver: Influences'
-tags: [dailydriver, playdate, videogames]
+tags: dailydriver playdate videogames
 nouns: [Daily Driver, Playdate, SDK]
 ---
 

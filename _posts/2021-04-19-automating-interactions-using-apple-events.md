@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Automating interactions using Apple Events
-tags:
-- automation
-- system7
-- emulation
-- macintosh
+tags: automation system7 emulation macintosh
 nouns:
 - EightyRez
 - HyperCard

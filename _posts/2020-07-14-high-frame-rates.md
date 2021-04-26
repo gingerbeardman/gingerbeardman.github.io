@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Daily Driver: High Frame Rates are Best Frame Rates'
-tags: [dailydriver, playdate, 60fps]
+tags: dailydriver playdate 60fps
 nouns: [60fps, SDK, Playdate]
 ---
 

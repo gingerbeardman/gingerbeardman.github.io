@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Turning an iPad Pro into the Ultimate Classic Macintosh
-tags:
-- system7
-- minivmac
-- basiliskii
-- emulation
-- macintosh
+tags: system7 minivmac basiliskii emulation macintosh
 nouns:
 - Documents
 - Books

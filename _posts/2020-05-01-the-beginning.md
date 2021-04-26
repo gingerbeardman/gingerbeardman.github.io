@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Daily Driver: The Beginning'
-tags: [dailydriver, gamedev, playdate]
+tags: dailydriver gamedev playdate
 nouns: [Daily Driver, Playdate, SDK]
 ---
 

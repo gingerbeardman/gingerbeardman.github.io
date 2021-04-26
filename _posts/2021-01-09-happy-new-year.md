@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Daily Driver: Happy New Year!'
-tags: [dailydriver, playdate, graphics, cars, physics]
+tags: dailydriver playdate graphics cars physics
 nouns: [Playdate, SDK, Daily Driver, Re-volt, RC Revenge, Smash Cars, RC de Go!, Excite Truck, RC Pro-Am, Shenmue, New Yokosuka Harbor District]
 carousel: happy-new-year
 ---

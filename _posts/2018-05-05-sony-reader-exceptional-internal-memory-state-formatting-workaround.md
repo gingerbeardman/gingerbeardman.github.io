@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Sony Reader "Exceptional internal memory state: formatting" workaround'
-tags:
-- workaround
-- sonyreader
+tags: workaround sonyreader
 nouns:
 - Sony
 - Reader

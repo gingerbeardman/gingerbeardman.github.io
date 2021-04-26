@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Daily Driver: Retrobatch workflow'
-tags: [dailydriver, playdate, software]
+tags: dailydriver playdate software
 keywords: [Retrobatch]
 carousel: retrobatch
 ---

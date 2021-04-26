@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Daily Driver: Social Update'
-tags: [dailydriver, playdate]
+tags: dailydriver playdate
 nouns: [Patreon, Daily Driver, Playdate]
 ---
 

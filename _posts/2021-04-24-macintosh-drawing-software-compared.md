@@ -1,11 +1,6 @@
 ---
 layout: post
-tags:
-- system7
-- graphics
-- drawing
-- software
-- macintosh
+tags: system7 graphics drawing software macintosh
 nouns:
 - System
 title: Macintosh drawing software compared

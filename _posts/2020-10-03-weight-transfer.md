@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'Daily Driver: Weight Transfer'
-tags:
-- dailydriver
-- playdate
-- gameplay
-- physics
-- cars
+tags: dailydriver playdate gameplay physics cars
 nouns:
 - Touge
 - PlayStation

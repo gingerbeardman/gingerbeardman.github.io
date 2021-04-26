@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Changing the size of toolbar items using ResEdit
-tags:
-- artworks
-- ultrapaint
-- deneba
-- resedit
-- system7
+tags: artworks ultrapaint deneba resedit system7
 nouns:
 - System
 - artWORKS
