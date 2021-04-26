@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: [system7, macintosh, software, hacking]
-nouns: [External Tools, AppleLink, Deneba, UltraPaint, TOOL, ULTR, Canvas, TOL2, DAD2, artWORKS, TOL4, DAD3, Wacom, ArtPad II, Tool Picker, ResEdit, Snitch, FileTyper]
+nouns: [External Tools, AppleLink, Deneba, UltraPaint, TOOL, ULTR, Canvas, TOL2, DAD2, artWORKS, TOL4, DAD3, Wacom, ArtPad II, Tool Picker, ResEdit, Snitch, FileTyper, StuffIt! Expander]
 title: Mixing External Tools across Deneba software
 featured: yes
 comments: https://twitter.com/gingerbeardman/status/1386443522258219023
@@ -174,7 +174,7 @@ Key:
 
 ## Result
 
-So after all this I now have an install of artWORKS (let's call it artWORKS+) that includes additional tools from both UltraPaint and Canvas 3.0 and I had a ton of fun figuring all this out. And I'm only 30 years late! Here's a download of the combined tools for use with artWORKS: [artWORKS-Tools-Combined.sit](/files/artWORKS-Tools-Combined.sit) (1.1MB).
+So after all this I now have an install of artWORKS (let's call it artWORKS+) that includes additional tools from both UltraPaint and Canvas 3.0 and I had a ton of fun figuring all this out. And I'm only 30 years late! Here's a download of my artWORKS Tools folder containing all 94 combined tools: [artWORKS-Tools-Combined.sit](/files/artWORKS-Tools-Combined.sit) (1.1MB, use StuffIt! Expander 5.5 to extract).
 
 ### Footnote
 
