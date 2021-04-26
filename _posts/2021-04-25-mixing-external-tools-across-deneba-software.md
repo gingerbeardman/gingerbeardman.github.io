@@ -169,7 +169,7 @@ Key:
 
   ▲ UltraPaint tool
   ● Canvas 3.0 tool
-  ○ that installs but doesn't present any interface
+  (○ that installs but doesn't show any interface)
   ■ artWORKS tool
 
 ### Footnote
