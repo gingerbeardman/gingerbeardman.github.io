@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [system7, macintosh, software, hacking]
+tags: [system7, macintosh, software, hacking, deneba]
 nouns: [External Tools, AppleLink, Deneba, UltraPaint, TOOL, ULTR, Canvas, TOL2, DAD2, artWORKS, TOL4, DAD3, Wacom, ArtPad II, Tool Picker, ResEdit, Snitch, FileTyper, StuffIt! Expander]
 title: Mixing External Tools across Deneba software
 featured: yes
