@@ -51,118 +51,117 @@ I set about copying the tools from one app to artWORKS, my favourite app, changi
 
 ## Very far!
 
-The result was quite amazing with artWORKS total tools increasing from 59 to 94—that's 35 additional tools! This is not counting a handful of tools that install but do not present themselves in the user interface. I'll need to investigate those further at a later date.
+The result was quite amazing with artWORKS total tools increasing from 59 to 93—that's 34 additional tools! This is not counting a handful of tools that install but do not present themselves in the user interface. I'll need to investigate those further at a later date.
 
 The table below shows tools present in each of the apps, each with their own symbol, and then the final combined column shows all tools that are compatible with artWORKS with the symbols showing which app that tool originated from.
 
 # External Tools
 
-| Software Name        |UltraPaint|Canvas 3.0|artWORKS|artWORKS+|
-|----------------------|:--------:|:--------:|:------:|:-------:|
-|&nbsp;Tool Loader     |          |          | ■      | ■       |
-|&nbsp;ToolPicker      | ▲        | ●        | ■      | ■       |
-|Alignment Specs       |          | ●        | ■      | ■       |
-|Antialias             |          |          | ■      | ■       |
-|Arrowhead Manager     |          | ●        | ■      | ■       |
-|Auto Trace            | ▲        | ●        | ■      | ■       |
-|Balloon Help          |          | ●        | ■      | ■       |
-|Bézier Text           |          | ●        |        | ●       |
-|Bind                  |          | ●        |        |         |
-|Blend Objects         |          | ●        | ■      | ■       |
-|Blotter Pen           | ▲        |          | ■      | ■       |
-|Brush Manager         |          | ●        | ■      | ■       |
-|Canvas 1.0 I/O        |          | ●        |        | ●       |
-|Canvas 2.1 I/O        |          | ●        | ■      | ■       |
-|CGM I/O               |          | ●        |        | ●       |
-|Chalk                 | ▲        |          | ■      | ■       |
-|Charcoal              | ▲        |          | ■      | ■       |
-|Coil                  |          | ●        |        | ●       |
-|Color Manager         | ▲        |          | ■      | ■       |
-|Combine Objects       |          | ●        | ■      | ■       |
-|Concentric Circles    |          | ●        |        | ●       |
-|Contrast              | ▲        |          |        | ▲       |
-|Convert To            |          | ●        | ■      | ■       |
-|Cube                  | ▲        | ●        | ■      | ■       |
-|Cylinder              |          | ●        |        | ●       |
-|Dash Manager          |          | ●        |        | ●       |
-|Dimensioning          |          | ●        |        | ●       |
-|Doughnuts             |          | ●        |        | ●       |
-|Drawing Size          |          | ●        | ■      | ■       |
-|Dropper               | ▲        | ●        | ■      | ■       |
-|Duplication Specs     |          | ●        | ■      | ■       |
-|DXF I/O               |          | ●        |        | ●       |
-|Filters               |          |          | ■      | ■       |
-|Fingertip             | ▲        |          | ■      | ■       |
-|Fractals              |          | ●        |        | ●       |
-|Fuzz lasso edges tool | ▲        |          |        | ▲       |
-|GIF I/O               | ▲        | ●        | ■      | ■       |
-|Gradient Fill         | ▲        | ●        | ■      | ■       |
-|Gray Scale Manager    | ▲        |          |        | ▲       |
-|Grid Specs            |          | ●        |        | ●       |
-|Grid Tool/Maker       | ▲        | ●        |        | ●       |
-|Grids & Rulers        |          |          | ■      | ■       |
-|Hatch Patterns        |          | ●        |        | ●       |
-|IGES I/O              |          | ●        |        | ●       |
-|Illustrator I/O       |          | ●        | ■      | ■       |
-|Imported Filters      |          |          | ■      | ■       |
-|Impressionist         | ▲        |          |        | ▲       |
-|Layer Specs           |          | ●        | ■      | ■       |
-|Luminance             | ▲        |          | ■      | ■       |
-|MacDraw I/O           | ▲        | ●        | ■      | ■       |
-|MacPaint I/O          | ▲        | ●        | ■      | ■       |
-|Magic Wand            | ▲        |          | ■      | ■       |
-|Masking               | ▲        |          | ■      | ■       |
-|Master Texture File   |          |          | ■      | ■       |
-|Mover                 |          | ●        | ■      | ■       |
-|Multigon              | ▲        | ●        | ■      | ■       |
-|NameStamp             |          | ●        |        | ●       |
-|Object Specs          |          | ●        | ■      | ■       |
-|Object Tint           |          | ●        |        | ●       |
-|PANTONE™ Colors       |          | ●        |        | ○       |
-|Parallel Lines        |          | ●        |        | ●       |
-|Pattern Manager       |          | ●        | ■      | ■       |
-|Pen Manager           |          | ●        |        | ●       |
-|Place                 |          | ●        |        | ●       |
-|Point Rotate          |          | ●        |        | ●       |
-|PostScript            |          |          | ■      | ■       |
-|Preferences           |          | ●        | ■      | ■       |
-|Pressure Pen          | ▲        | ●        | ■      | ■       |
-|QuickTime             |          | ●        | ■      | ■       |
-|Quill Pen             | ▲        |          | ■      | ■       |
-|Registration Marks    |          | ●        |        | ●       |
-|Resistor              |          | ●        |        | ●       |
-|RGB Color Manager     |          | ●        |        | ●       |
-|Rubber Stamp          | ▲        |          | ■      | ■       |
-|Ruler Specs           |          | ●        |        | ●       |
-|Scale Specs           |          | ●        | ■      | ■       |
-|Search & Replace      |          | ●        |        | ●       |
-|Selection Specs       |          | ●        |        | ○       |
-|Separations           |          | ●        |        | ○       |
-|Sharpen and Blur      | ▲        |          |        | ▲       |
-|Size Other            |          |          | ■      | ■       |
-|Slides                |          | ●        |        |         |
-|Smart Mouse           |          | ●        |        | ○       |
-|Soften Edges          |          |          | ■      | ■       |
-|Sounder               |          | ●        | ■      | ■       |
-|Spacing Other         |          |          | ■      | ■       |
-|Spelling              |          | ●        |        | ●       |
-|Spiral                |          | ●        |        | ●       |
-|Split                 |          | ●        | ■      | ■       |
-|Spray Manager         |          | ●        | ■      | ■       |
-|StartupScreen I/O     | ▲        | ●        | ■      | ■       |
-|System 7.0 Options    |          | ●        | ■      | ■       |
-|Text Ruler            |          | ●        |        | ○       |
-|Text Utilities        |          | ●        |        | ●       |
-|Textures              |          |          | ■      | ■       |
-|Three Color Airbrush  | ▲        |          | ■      | ■       |
-|TIFF I/O              | ▲        | ●        | ■      | ■       |
-|TimeStamp             |          | ●        |        | ●       |
-|Tool Info             |          | ●        | ■      | ■       |
-|UltraPaint 1.0 I/O    |          | ●        | ■      | ■       |
-|Undo Killer           |          | ●        |        | ○       |
-|Water Droplet         | ▲        |          | ■      | ■       |
-|======================|==========|==========|========|=========|
-|Total Tools           | 30       | 74       | 59     | 94      |
+| Software Name          |UltraPaint|Canvas 3.0|artWORKS|artWORKS+|
+|------------------------|:--------:|:--------:|:------:|:-------:|
+|&nbsp;Tool Loader       |          |          | ■      | ■       |
+|&nbsp;ToolPicker        | ▲        | ●        | ■      | ■       |
+|Alignment Specs         |          | ●        | ■      | ■       |
+|Antialias               |          |          | ■      | ■       |
+|Arrowhead Manager       |          | ●        | ■      | ■       |
+|Auto Trace              | ▲        | ●        | ■      | ■       |
+|Balloon Help            |          | ●        | ■      | ■       |
+|Bézier Text             |          | ●        |        | ●       |
+|Bind                    |          | ●        |        |         |
+|Blend Objects           |          | ●        | ■      | ■       |
+|Blotter Pen             | ▲        |          | ■      | ■       |
+|Brush Manager           |          | ●        | ■      | ■       |
+|Canvas 1.0 I/O          |          | ●        |        | ●       |
+|Canvas 2.1 I/O          |          | ●        | ■      | ■       |
+|CGM I/O                 |          | ●        |        | ●       |
+|Chalk                   | ▲        |          | ■      | ■       |
+|Charcoal                | ▲        |          | ■      | ■       |
+|Coil                    |          | ●        |        | ●       |
+|Color Manager           | ▲        |          | ■      | ■       |
+|Combine Objects         |          | ●        | ■      | ■       |
+|Concentric Circles      |          | ●        |        | ●       |
+|Contrast                | ▲        |          |        | ▲       |
+|Convert To              |          | ●        | ■      | ■       |
+|Cube                    | ▲        | ●        | ■      | ■       |
+|Cylinder                |          | ●        |        | ●       |
+|Dash Manager            |          | ●        |        | ●       |
+|Dimensioning            |          | ●        |        | ●       |
+|Doughnuts               |          | ●        |        | ●       |
+|Drawing Size            |          | ●        | ■      | ■       |
+|Dropper                 | ▲        | ●        | ■      | ■       |
+|Duplication Specs       |          | ●        | ■      | ■       |
+|DXF I/O                 |          | ●        |        | ●       |
+|Filters                 |          |          | ■      | ■       |
+|Fingertip               | ▲        |          | ■      | ■       |
+|Fractals                |          | ●        |        | ●       |
+|Fuzz lasso/Soften Edges | ▲        |          | ■      | ■       |
+|GIF I/O                 | ▲        | ●        | ■      | ■       |
+|Gradient Fill           | ▲        | ●        | ■      | ■       |
+|Gray Scale Manager      | ▲        |          |        | ▲       |
+|Grid Specs              |          | ●        |        | ●       |
+|Grid Tool/Maker         | ▲        | ●        |        | ●       |
+|Grids & Rulers          |          |          | ■      | ■       |
+|Hatch Patterns          |          | ●        |        | ●       |
+|IGES I/O                |          | ●        |        | ●       |
+|Illustrator I/O         |          | ●        | ■      | ■       |
+|Imported Filters        |          |          | ■      | ■       |
+|Impressionist           | ▲        |          |        | ▲       |
+|Layer Specs             |          | ●        | ■      | ■       |
+|Luminance               | ▲        |          | ■      | ■       |
+|MacDraw I/O             | ▲        | ●        | ■      | ■       |
+|MacPaint I/O            | ▲        | ●        | ■      | ■       |
+|Magic Wand              | ▲        |          | ■      | ■       |
+|Masking                 | ▲        |          | ■      | ■       |
+|Master Texture File     |          |          | ■      | ■       |
+|Mover                   |          | ●        | ■      | ■       |
+|Multigon                | ▲        | ●        | ■      | ■       |
+|NameStamp               |          | ●        |        | ●       |
+|Object Specs            |          | ●        | ■      | ■       |
+|Object Tint             |          | ●        |        | ●       |
+|PANTONE™ Colors         |          | ●        |        | ○       |
+|Parallel Lines          |          | ●        |        | ●       |
+|Pattern Manager         |          | ●        | ■      | ■       |
+|Pen Manager             |          | ●        |        | ●       |
+|Place                   |          | ●        |        | ●       |
+|Point Rotate            |          | ●        |        | ●       |
+|PostScript              |          |          | ■      | ■       |
+|Preferences             |          | ●        | ■      | ■       |
+|Pressure Pen            | ▲        | ●        | ■      | ■       |
+|QuickTime               |          | ●        | ■      | ■       |
+|Quill Pen               | ▲        |          | ■      | ■       |
+|Registration Marks      |          | ●        |        | ●       |
+|Resistor                |          | ●        |        | ●       |
+|RGB Color Manager       |          | ●        |        | ●       |
+|Rubber Stamp            | ▲        |          | ■      | ■       |
+|Ruler Specs             |          | ●        |        | ●       |
+|Scale Specs             |          | ●        | ■      | ■       |
+|Search & Replace        |          | ●        |        | ●       |
+|Selection Specs         |          | ●        |        | ○       |
+|Separations             |          | ●        |        | ○       |
+|Sharpen and Blur        | ▲        |          |        | ▲       |
+|Size Other              |          |          | ■      | ■       |
+|Slides                  |          | ●        |        |         |
+|Smart Mouse             |          | ●        |        | ○       |
+|Sounder                 |          | ●        | ■      | ■       |
+|Spacing Other           |          |          | ■      | ■       |
+|Spelling                |          | ●        |        | ●       |
+|Spiral                  |          | ●        |        | ●       |
+|Split                   |          | ●        | ■      | ■       |
+|Spray Manager           |          | ●        | ■      | ■       |
+|StartupScreen I/O       | ▲        | ●        | ■      | ■       |
+|System 7.0 Options      |          | ●        | ■      | ■       |
+|Text Ruler              |          | ●        |        | ○       |
+|Text Utilities          |          | ●        |        | ●       |
+|Textures                |          |          | ■      | ■       |
+|Three Color Airbrush    | ▲        |          | ■      | ■       |
+|TIFF I/O                | ▲        | ●        | ■      | ■       |
+|TimeStamp               |          | ●        |        | ●       |
+|Tool Info               |          | ●        | ■      | ■       |
+|UltraPaint 1.0 I/O      |          | ●        | ■      | ■       |
+|Undo Killer             |          | ●        |        | ○       |
+|Water Droplet           | ▲        |          | ■      | ■       |
+|========================|==========|==========|========|=========|
+|Total Tools             | 30       | 74       | 59     | 93      |
 {: #deneba-external-tools}
 
 Key:
