@@ -178,4 +178,4 @@ So after all this I now have an install of artWORKS (let's call it artWORKS+) th
 
 ### Footnote
 
-A note about later versions of Canvas: version 3.5 provides roughly the same tools, and the unique tools it has are not compatible with artWORKS. Canvas 5.0 features similar tools but they're no longer compatible with the earlier apps.
+A note about later versions of Canvas: version 3.5 provides roughly the same tools as version 3.0. The handful of unique tools in version 3.5 are not compatible with artWORKS. Version 5.0 features similar tools but they're no longer compatible with the earlier apps.
