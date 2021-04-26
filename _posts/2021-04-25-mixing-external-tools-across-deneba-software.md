@@ -164,7 +164,12 @@ So after all this I now have an install of artWORKS (let's call it artWORKS+) th
 |======================|==========|==========|========|=========|
 |Total Tools           | 30       | 74       | 59     | 94      |
 
-Key: ● usable in app, ○ does not appear in app interface
+Key:
+
+  ▲ UltraPaint tool
+  ● Canvas 3.0 tool
+  ○ that installs but doesn't present any interface
+  ■ artWORKS tool
 
 ### Footnote
 
