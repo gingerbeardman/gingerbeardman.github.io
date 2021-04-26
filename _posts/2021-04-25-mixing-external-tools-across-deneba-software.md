@@ -6,7 +6,7 @@ title: Mixing External Tools across Deneba software
 featured: yes
 comments: https://twitter.com/gingerbeardman/status/1386443522258219023
 ---
-One of the most interesting things about Deneba's early 1990s Macintosh drawing apps is that they were built in a modular way with additional files that add specific features. These days we call those plugins but back in 1990 Deneba referred to them as External Tools.
+One of the most interesting things about Deneba's early 1990s Macintosh drawing apps is that they were built in a modular way with additional files adding specific features. These days we call those Plugins but back in 1990 Deneba referred to them as External Tools.
 
 They are first seen in UltraPaint and later in Canvas 3.0, artWORKS and Canvas 3.5. Tools are categorised as several types: Effect, I/O, Manager, Modifier, Object, Setting and Other. Each adds functionality and/or user interface to the app in its own way.
 
