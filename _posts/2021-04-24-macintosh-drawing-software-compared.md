@@ -26,32 +26,32 @@ Also interesting is how many early versions of successful apps didn't support la
 
 One small disappointment: Macromedia Fireworks requires the PPC architecture so won't run on my iPad System 7 setup. Sad face.
 
-| APP | PIXEL | VECTOR | LAYERS | TRANSP. | NOTES |
-| --- |:---:|:---:|:---:|:---:| --- |
-| artWorks | ● | ● | ● | ○ | Bottom layer opaque |
-| Canvas | ● | ● | ● | ○ | Bottom layer opaque |
-| ClarisDraw | ● | ● | ● |  | Pixel drawing within specific objects only |
-| Cricket Draw |  | ● |  |  |  |
-| Draw It Again Sam |  | ● | ● |  |  |
-| Drawing Table |  | ● |  |  |  |
-| Expression |  | ● | ● |  |  |
-| Freehand 1.0–2.0 |  | ● | ○ |  | Layers not managed visually |
-| Freehand 3.1–5.5 |  | ● | ● |  |  |
-| Illustrator 88–3.0 |  | ● |  |  |  |
-| ImageStudio 0.6 | ● |  |  |  | Custom brushes |
-| LightningPaint | ● |  |  |  |  |
-| MacDraw Pro |  | ● | ● |  |  |
-| MacPaint | ● |  |  |  |  |
-| MacroPaint | ● |  |  | ○ | Transparent patterns |
-| Photoshop 1.0–2.5 | ● |  |  |  |  |
-| Photoshop 3.0 | ● |  | ● | ● |  |
-| PixelPaint | ● |  |  |  |  |
-| ShareDraw |  | ● | ● |  |  |
-| Studio/1 | ● |  |  |  | Animation, 1-bit |
-| Studio/8 | ● |  |  |  | Animation, 8-bit |
-| SuperPaint | ● | ● | ○ |  | One layer each for pixel and vector |
-| UltraPaint | ● | ● | ● | ○ | Bottom layer opaque |
-| Zeus | ● |   |   |   | Animation |
+| APP                | PIXEL | VECTOR | LAYERS | TRANSP. | NOTES |
+| ------------------ |:-----:|:------:|:------:|:-------:| ----- |
+| artWorks           | ●     | ●      | ●      | ○       | Bottom layer opaque |
+| Canvas             | ●     | ●      | ●      | ○       | Bottom layer opaque |
+| ClarisDraw         | ●     | ●      | ●      |         | Pixel drawing within specific objects only |
+| Cricket Draw       |       | ●      |        |         |  |
+| Draw It Again Sam  |       | ●      | ●      |         |  |
+| Drawing Table      |       | ●      |        |         |  |
+| Expression         |       | ●      | ●      |         |  |
+| Freehand 1.0–2.0   |       | ●      | ○      |         | Layers not managed visually |
+| Freehand 3.1–5.5   |       | ●      | ●      |         |  |
+| Illustrator 88–3.0 |       | ●      |        |         |  |
+| ImageStudio 0.6    | ●     |        |        |         | Custom brushes |
+| LightningPaint     | ●     |        |        |         |  |
+| MacDraw Pro        |       | ●      | ●      |         |  |
+| MacPaint           | ●     |        |        |         |  |
+| MacroPaint         | ●     |        |        | ○       | Transparent patterns |
+| Photoshop 1.0–2.5  | ●     |        |        |         |  |
+| Photoshop 3.0      | ●     |        | ●      | ●       |  |
+| PixelPaint         | ●     |        |        |         |  |
+| ShareDraw          |       | ●      | ●      |         |  |
+| Studio/1           | ●     |        |        |         | Animation, 1-bit |
+| Studio/8           | ●     |        |        |         | Animation, 8-bit |
+| SuperPaint         | ●     | ●      | ○      |         | One layer each for pixel and vector |
+| UltraPaint         | ●     | ●      | ●      | ○       | Bottom layer opaque |
+| Zeus               | ●     |        |        |         | Animation |
 {: #macintosh-drawing-software}
 
 Key: ● full support, ○ partial support
