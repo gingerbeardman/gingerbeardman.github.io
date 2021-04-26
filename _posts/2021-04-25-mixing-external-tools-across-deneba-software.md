@@ -170,7 +170,9 @@ Key:
 
 ## Result
 
-So after all this I now have an install of artWORKS (let's call it artWORKS+) that includes additional tools from both UltraPaint and Canvas 3.0 and I had a ton of fun figuring all this out. And I'm only 30 years late! Here's a download of my artWORKS Tools folder containing all 93 combined tools: [artWORKS-Tools-Combined.sit](/files/artWORKS-Tools-Combined.sit) (1.1MB, use StuffIt! Expander 5.5 to extract).
+So after all this I now have an install of artWORKS (let's call it artWORKS+) that includes additional tools from both UltraPaint and Canvas 3.0 and I had a ton of fun figuring all this out. And I'm only 30 years late!
+
+Here's a download of my artWORKS Tools folder containing all the combined tools (use StuffIt! Expander 5.5 to extract): [artWORKS-Tools-Combined.sit](/files/artWORKS-Tools-Combined.sit) [1.1MB]
 
 ### Footnote
 
