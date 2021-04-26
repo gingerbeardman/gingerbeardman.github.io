@@ -8,15 +8,7 @@ comments: https://twitter.com/gingerbeardman/status/1386443522258219023
 ---
 One of the most interesting things about Deneba's early 1990s Macintosh drawing apps is that they were built in a modular way with additional files that add specific features. These days we call those plugins but back in 1990 Deneba referred to them as External Tools.
 
-They are first seen in UltraPaint and later in Canvas 3.0, artWORKS and Canvas 3.5.
-
-| Year | Software | Type | Creator |
-| ---- | -------- | ---- | ------- |
-| 1990 | UltraPaint | TOOL | ULTR |
-| 1992 | Canvas 3.0 | TOL2 | DAD2 |
-| 1993 | artWORKS   | TOL4 | DAD3 |
-
-Tools are categorised into several types: Effect, I/O, Manager, Modifier, Object, Setting and Other. Each adds functionality and/or user interface to the app in its own way.
+They are first seen in UltraPaint and later in Canvas 3.0, artWORKS and Canvas 3.5. Tools are categorised as several types: Effect, I/O, Manager, Modifier, Object, Setting and Other. Each adds functionality and/or user interface to the app in its own way.
 
 Amongst the Deneba material on an AppleLink archive disk from Spring 1993 there are a bunch of "non-shipping" tools labelled for use with Canvas 3.0. Interestingly, they are listed individually and also as a combined set. If we extract the combined set of tools there's a single additional tool that is somewhat out of place: the Waco Tool (for Wacom pressure sensitive pen) which is marked with UltraPaint's type and creator information.
 
@@ -48,6 +40,12 @@ I was surprised, and also impressed. Deneba did a really great job with the arch
 Some questions remained: how many tools could this be done with? Would they install and function? Could I use tools in artWORKS that were meant only for the more expensive Canvas? There was only one way to find out: try all the tools!
 
 I set about copying the tools from one app to artWORKS, my favourite app, changing the creator and type codes to match. To make bulk changes to type/creator I used Get Info (with Snitch) on multiple items, but I could have used software such as FileTyper.
+
+| Year | Software   | Type | Creator |
+| ---- | ---------- | ---- | ------- |
+| 1990 | UltraPaint | TOOL | ULTR    |
+| 1992 | Canvas 3.0 | TOL2 | DAD2    |
+| 1993 | artWORKS   | TOL4 | DAD3    |
 
 ## Very far!
 
@@ -173,7 +171,7 @@ Key:
 
 ## Result
 
-So after all this I now have an install of artWORKS (let's call it artWORKS+) that includes additional tools from both UltraPaint and Canvas 3.0 and I had a ton of fun figuring all this out. And I'm only 30 years late! Here's a download of my artWORKS Tools folder containing all 94 combined tools: [artWORKS-Tools-Combined.sit](/files/artWORKS-Tools-Combined.sit) (1.1MB, use StuffIt! Expander 5.5 to extract).
+So after all this I now have an install of artWORKS (let's call it artWORKS+) that includes additional tools from both UltraPaint and Canvas 3.0 and I had a ton of fun figuring all this out. And I'm only 30 years late! Here's a download of my artWORKS Tools folder containing all 93 combined tools: [artWORKS-Tools-Combined.sit](/files/artWORKS-Tools-Combined.sit) (1.1MB, use StuffIt! Expander 5.5 to extract).
 
 ### Footnote
 
