@@ -53,9 +53,7 @@ I set about copying the tools from one app to artWORKS, my favourite app, changi
 
 The result was quite amazing with artWORKS total tools increasing from 59 to 94—that's 35 additional tools! This is not counting a handful of tools that install but do not present themselves in the user interface. I'll need to investigate those further at a later date.
 
-So after all this I now have an install of artWORKS (let's call it artWORKS+) that includes additional tools from both UltraPaint and Canvas 3.0 and I had a ton of fun figuring all this out. Only 30 years late!
-
-The table below shows tools present in each of the apps, each with their own symbol, and then the final combined column shows all tools that are compatible with artWORKS.
+The table below shows tools present in each of the apps, each with their own symbol, and then the final combined column shows all tools that are compatible with artWORKS with the symbols showing which app that tool originated from.
 
 # External Tools
 
@@ -173,6 +171,10 @@ Key:
   ● Canvas 3.0 tool
   (○ that installs but doesn't show any interface)
   ■ artWORKS tool
+
+## Result
+
+So after all this I now have an install of artWORKS (let's call it artWORKS+) that includes additional tools from both UltraPaint and Canvas 3.0 and I had a ton of fun figuring all this out. And I'm only 30 years late!
 
 ### Footnote
 
