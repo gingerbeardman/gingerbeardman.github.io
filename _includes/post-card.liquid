@@ -26,8 +26,9 @@
       {{ post.date | date: '%Y-%m-%d ' }}
       &nbsp;•&nbsp; {% include post-card-read-time.html %}
       {% if post.tags %}
+      {% assign sorted_tags = post.tags | sort %}
       <br>
-      {% for tag in post.tags %}
+      {% for tag in sorted_tags %}
         #{{ tag }}
       {% endfor %}
       {% endif %}
