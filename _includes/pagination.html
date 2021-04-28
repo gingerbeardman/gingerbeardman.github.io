@@ -2,7 +2,7 @@
   <div class='o-grid__col o-grid__col--1-4-s'>
     <a class='c-pagination' href='{{ paginator.previous_page_path | prepend: site.baseurl }}'>
       <div class='c-pagination__icon c-pagination__icon--prev' data-icon='ei-chevron-left'></div>
-      <span class='c-pagination__text c-pagination__text--prev'>Previous Page</span>
+      <span class='c-pagination__text c-pagination__text--prev'>Previous</span>
     </a>
   </div>
 {% else %}
@@ -14,7 +14,6 @@
 <div class='o-grid__col o-grid__col--2-4-s'>
   <span class='c-pagination c-pagination__page'>
     <span class='c-pagination__text'>
-      Page
       {{ paginator.page }}
       of
       {{ paginator.total_pages }}
@@ -25,7 +24,7 @@
 {% if paginator.next_page %}
   <div class='o-grid__col o-grid__col--end o-grid__col--1-4-s u-text-right'>
     <a class='c-pagination' href='{{ paginator.next_page_path | prepend: site.baseurl }}'>
-      <span class='c-pagination__text c-pagination__text--next'>Next Page</span>
+      <span class='c-pagination__text c-pagination__text--next'>Next</span>
       <div class='c-pagination__icon c-pagination__icon--next' data-icon='ei-chevron-right'></div>
     </a>
   </div>
