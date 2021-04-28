@@ -4,6 +4,7 @@ tags:
 - system7
 - hacking
 - macintosh
+- resorcerer
 nouns:
 - Resorcerer
 - Super
