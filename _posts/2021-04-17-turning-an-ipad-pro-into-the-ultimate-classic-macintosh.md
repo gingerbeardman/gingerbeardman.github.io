@@ -31,7 +31,7 @@ comments: https://twitter.com/gingerbeardman/status/1383559592873918469
 ---
 I've started work on the next in my [1-bit Woodblocks](/tag/1bitwoodblocks/) series: "Tekagami" (Ito Shinsui's "Hand Mirror"). So it's a good time to talk about how I turned an iPad Pro into the ultimate Classic Macintosh.
 
-![JPG](/images/posts/ultimate-classic-macintosh-1.jpg "One of my drawings in UltraPaint on Macintosh System 7, running in the BasiliskII emulator on an iPad")
+![JPG](/images/posts/ultimate-classic-macintosh-1.jpg "One of my drawings in Deneba UltraPaint on System 7, running in a Macintosh emulator on an iPad Pro")
 {:.tofigure}
 
 ## Emulators
