@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Level Viewer for Pang (Nintendo DS)
+title: Level viewer for Pang (Nintendo DS)
 tags:
 - pang
 - nintendods
