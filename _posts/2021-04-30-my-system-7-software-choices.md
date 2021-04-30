@@ -10,13 +10,15 @@ nouns:
 - macOS
 title: My System 7 software choices
 comments: https://twitter.com/gingerbeardman/status/1388119568162377728
+featured: false
+carousel: ''
 
 ---
-System 7 is a great operating system. Even in 2020 the experience using it remains very close to modern macOS. It's surprising how little has changed on the Desktop in the 30 years since. That said, the experience can still be improved with the judicious use of specific additional software.
+System 7 is a great operating system. The experience using it today remains very close to modern macOS. It's surprising how little has changed on our Desktop in the 30 years since. That said, the experience can be improved with the judicious use of additional software.
 
 When adding things to the system my goal is always to increase quality of life and improve user experience. Functionality is key and nothing is added without careful consideration. If I can install one package to add several functions I'd rather do that than add several individual packages. If I can install software to match modern macOS features or muscle memory then I'll do so.
 
-Below are my personal choices that help improve my time spent using System 7.
+Below are my personal choices that improve my time spent using System 7.
 
 ## Control Panels
 
@@ -25,9 +27,9 @@ Below are my personal choices that help improve my time spent using System 7.
 * [Capture AE](https://macintoshgarden.org/apps/capture-ae) - logger for Apple Events calls
 * [Desktop Makeover](https://macintoshgarden.org/apps/aladdin-desktop-tools) - provides custom Finder features such as menu shortcuts, enhanced diskette icons, allows you to hide Balloon Help
 * [DragAnyWindow](https://macintoshgarden.org/apps/draganywindow "https://macintoshgarden.org/apps/draganywindow") - adds solid dragging of any window, apps can be excluded
-* [Hidden Finder Features](https://macintoshgarden.org/apps/hidden-finder-features) - enables hidden Finder keyboard shortcuts tocreate alias by dragging, reveal alias original and move file to Trash
+* [Hidden Finder Features](https://macintoshgarden.org/apps/hidden-finder-features) - enables hidden Finder keyboard shortcuts to create aliases by dragging, reveal alias original, and move file to Trash
 * [KeyQuencer](https://macintoshgarden.org/apps/keyquencer) - macro and automation utility
-* [PopupFolder](https://macintoshgarden.org/apps/popup-folder-201) - allows access to folder contents from hierarchical popup menu without having to drill down into folders
+* [PopupFolder](https://macintoshgarden.org/apps/popup-folder-201) - allows access to folder contents from hierarchical pop-up menu without having to drill down into folders
 * [QuicKeys](https://macintoshgarden.org/apps/quickeys-353) - macro and automation utility, used only for composing Apple Event calls
 * [Smart Scroll](https://macintoshgarden.org/apps/smart-scroll) - live scrolling and proportionally sized scrollbar thumb
 * [SmartLaunch](https://macintoshgarden.org/apps/smartlaunch-308) - application launcher, I launch this using Cmd+Return KeyQuencer macro
@@ -39,15 +41,15 @@ Below are my personal choices that help improve my time spent using System 7.
 ## Extensions
 
 * [2020Patch](https://macintoshgarden.org/apps/2020patch) - fixes year 2020 date bug
-* [About](https://macintoshgarden.org/apps/about) - enhanced replacement for About This Macintosh window
-* [Apollo](https://macintoshgarden.org/apps/apollo) - popup-menu at any location to select and launch apps
-* [CopyPaste](https://macintoshgarden.org/apps/copypaste-33) - multiple clipboard manager
+* [About](https://macintoshgarden.org/apps/about) - replacement for About This Macintosh window, with task manager features
+* [Apollo](https://macintoshgarden.org/apps/apollo) - pop-up menu at any location to select and launch apps
+* [CopyPaste](https://macintoshgarden.org/apps/copypaste-33) - multiple clipboard manager, works everywhere but ResEdit!
 * [DirtyDesk](https://macgui.com/downloads/?file_id=26327) - disables Clean Up Desktop menu item
-* [Natural Order](https://macintoshgarden.org/apps/natural-order) - improves sort order in Finder
+* [Natural Order](https://macintoshgarden.org/apps/natural-order) - improves sorting order in Finder
 
 ## Text Editors
 
-* [Alpha](https://macgui.com/downloads/?file_id=20966) - programmer's editor with TCL scripting
+* [Alpha](https://macgui.com/downloads/?file_id=20966) - programmer's editor, includes TCL scripting
 * [Anarcho](https://macintoshgarden.org/apps/anarcho-16) - has a few unique features
 * [BBEdit](https://macintoshgarden.org/apps/bbedit-5) - packed with features
 * [Eddan](https://macgui.com/downloads/?file_id=21218) - has a way to summon THINK References
@@ -75,6 +77,7 @@ Below are my personal choices that help improve my time spent using System 7.
 * [Type Resolve](https://macintoshgarden.org/apps/type-resolve-201) - drag-and-drop type/creator changer
 
 ## Operating System
+
 * [System 7.5.3 plus updates](https://macintoshgarden.org/apps/macintosh-os-755) - Apple released this version for free!
 * [Japanese Language Kit](https://macintoshgarden.org/apps/japanese-language-kit-v12) - adds support for Japanese, I use this on a duplicate System folder
 * [System Picker](https://macintoshgarden.org/apps/system-picker) - choose which system folder to boot from
