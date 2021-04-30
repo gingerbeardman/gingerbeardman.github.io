@@ -6,7 +6,7 @@ tags:
 nouns:
 - System
 title: My System 7 Software Choices
-comments: ''
+comments: https://twitter.com/gingerbeardman/status/1388119568162377728
 
 ---
 ## Control Panels
