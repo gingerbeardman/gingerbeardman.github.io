@@ -18,6 +18,8 @@ github:      ''
 instagram:   ''
 facebook:    ''
 
+google_analytics: 'G-JVMQWHYEWV'
+
 markdown:  kramdown
 permalink: pretty
 paginate:  10
