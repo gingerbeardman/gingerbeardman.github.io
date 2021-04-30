@@ -75,8 +75,8 @@ Below are my personal choices that help improve my time spent using System 7.
 * [Type Resolve](https://macintoshgarden.org/apps/type-resolve-201) - drag-and-drop type/creator changer
 
 ## Operating System
-* [System 7.5.5](https://macintoshgarden.org/apps/macintosh-os-755)
-* [Japanese Language Kit](https://macintoshgarden.org/apps/japanese-language-kit-v12)
+* [System 7.5.5](https://macintoshgarden.org/apps/macintosh-os-755) - Apple released this for free
+* [Japanese Language Kit](https://macintoshgarden.org/apps/japanese-language-kit-v12) - adds support for Japanese, I use this on a duplicate System folder
 * [System Picker](https://macintoshgarden.org/apps/system-picker) - choose which system folder to boot from
 
 ### Related
