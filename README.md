@@ -99,13 +99,13 @@ You can set the `title`, and the following optional fields `tags`, `nouns`, post
 
 - For tags, try to not add space between two words, for example, `Ruby on Rails`, could be something like (`ruby-on-rails`, `Ruby_on_Rails`, or `Ruby-on-Rails`).
 
-- Nouns are similar to tags but list keywords that should be emphasised in the rendered post. I use these to emphasise, in italics, certain names, places, brands or products mentioned in the content. Doing it this way reduces the possibility of human error.
+- Nouns are similar to tags but list keywords that should be emphasised in the rendered post. I use these to emphasise (in italics) certain names, places, brands or products mentioned in the content. Doing it this way reduces the possibility of human error.
 
 - To keep things more organized, add post images to **/images/posts** directory, and add page images to **/images/pages** directory.
 
 - The `featured` key is to mark the post as a featured post, this will add a heart character (♥) to the postcard.
 
-- The `pinned` key is to pin the post to the top of the first page, this will add a pin character (🖈) to the postcard.
+- The `pinned` key is to pin the post to the top of the first page, this will add a pin character () to the postcard.
 
 - Recent posts (more recent than set number of seconds, currently disabled) are marked with an exclamation character (!) on the postcard.
 
@@ -113,7 +113,7 @@ You can set the `title`, and the following optional fields `tags`, `nouns`, post
 
 - Carousel is taken from https://jekyllcodex.org/without-plugin/slider/ so please see that page for documentation. The only change I have made is allowing the id of the carousel to be specified in the post front matter, so that multple carousels can be defined in `carousel.yml`.
 
-- Excerpt display is currently disabled on postcards, but an excerpt_separator can be defined. eg. <!--more-->
+- Excerpt display is currently disabled on postcards, but an excerpt_separator can be defined.
 
 ## Images
 
@@ -180,5 +180,6 @@ You can find the current favicon (favicon.ico) inside the theme root directory, 
 
 - `read-time.html` to display reading time of non-html content
 - `tag-cloud.html` to display a tag cloud with proportional sizing of tags (count per tags is present, but disabled by default)
+- `analytics.html` to include Google Analytics. Requires `google_analytics` to be defined in `_config.yml` and `JEKYLL_ENV=production`
 
 EOF
