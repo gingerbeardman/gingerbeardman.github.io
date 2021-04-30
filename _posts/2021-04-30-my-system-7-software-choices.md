@@ -6,7 +6,7 @@ tags:
 nouns:
 - System 7
 - macOS
-title: My System 7 Software Choices
+title: My System 7 software choices
 comments: https://twitter.com/gingerbeardman/status/1388119568162377728
 
 ---
