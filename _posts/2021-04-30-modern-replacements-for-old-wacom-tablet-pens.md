@@ -21,7 +21,7 @@ nouns:
 - Penabled
 - Samsung S-Pen with Eraser
 - Nintendo DS
-comments: ''
+comments: https://twitter.com/gingerbeardman/status/1388149800101687299
 
 ---
 Whilst researching the Wacom ArtPad II for my Macintosh Classic, I stumbled across some information that the Samsung Galaxy Note S-Pen is compatible with the pen used on the Wacom ArtPad and other tablets from that period. I love that the same technology is being used almost 30 years on.
