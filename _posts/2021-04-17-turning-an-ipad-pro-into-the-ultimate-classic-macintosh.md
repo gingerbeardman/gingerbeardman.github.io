@@ -123,6 +123,7 @@ This setup gives me the best of both old and new worlds, and that's why I refer 
 
 * 2021/03/29 [The Mac Observer](https://www.macobserver.com/cool-stuff-found/emulating-mac-plus-ios/)
 * 2021/04/19 [Boing Boing](https://boingboing.net/2021/04/19/ipad-pro-turned-into-the-best-classic-mac-there-ever-was.html)
+* 2021/04/19 [iDownloadBlog](https://www.idownloadblog.com/2021/04/19/ipad-pro-classic-macintosh-emulator/)
 * 2021/04/22 [FredZone](https://www.fredzone.org/et-si-vous-transformiez-votre-ipad-en-macintosh-portable-2828) (in French)
 * 2021/04/23 [Gizmodo](https://gizmodo.com/this-artist-turned-their-ipad-pro-into-a-classic-macint-1846749495)
 * 2021/04/23 [Pixel Envy](https://pxlnv.com/linklog/classic-macintosh-painting/)
