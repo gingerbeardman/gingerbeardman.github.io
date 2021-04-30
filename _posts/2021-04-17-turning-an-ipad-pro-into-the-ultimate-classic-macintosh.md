@@ -114,7 +114,6 @@ This setup gives me the best of both old and new worlds, and that's why I refer 
 
 ## Forthcoming posts
 
-* App Choices
 * File Conversions
 * Interoperability with iOS
 * Printing
