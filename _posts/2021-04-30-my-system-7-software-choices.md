@@ -3,6 +3,8 @@ layout: post
 tags:
 - software
 - recommendations
+- system7
+- macintosh
 nouns:
 - System 7
 - macOS
