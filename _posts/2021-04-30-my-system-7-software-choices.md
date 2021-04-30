@@ -31,7 +31,7 @@ Below are my personal choices that help improve my time spent using System 7.
 * [QuicKeys](https://macintoshgarden.org/apps/quickeys-353) - macro and automation utility, used only for composing Apple Event calls
 * [Smart Scroll](https://macintoshgarden.org/apps/smart-scroll) - live scrolling and proportionally sized scrollbar thumb
 * [SmartLaunch](https://macintoshgarden.org/apps/smartlaunch-308) - application launcher
-* [Snitch](https://macintoshgarden.org/apps/snitch) - Get Info extender
+* [Snitch](https://macintoshgarden.org/apps/snitch) - Get Info extender, can do batch type/creator changes by summoning whilst holding Shift key
 * [Symbionts](https://macintoshgarden.org/apps/symbionts-286) - occasionally used to troubleshoot Control Panels and Extensions
 * [WindowShade](https://macintoshgarden.org/apps/windowshade) - collapse a window into its title bar by double-clicking
 * [YesNoCancel](https://macintoshgarden.org/apps/yesnocancel-121) - adds modern keyboard control to dialog boxes
@@ -40,7 +40,7 @@ Below are my personal choices that help improve my time spent using System 7.
 
 * [2020Patch](https://macintoshgarden.org/apps/2020patch) - fixes year 2020 date bug
 * [About](https://macintoshgarden.org/apps/about) - enhanced replacement for About This Macintosh window
-* [Apollo](https://macintoshgarden.org/apps/apollo) - popup menu app selector and launcher
+* [Apollo](https://macintoshgarden.org/apps/apollo) - popup-menu at any location to select and launch apps
 * [CopyPaste](https://macintoshgarden.org/apps/copypaste-33) - multiple clipboard manager
 * [DirtyDesk](https://macgui.com/downloads/?file_id=26327) - disables Clean Up Desktop menu item
 * [Natural Order](https://macintoshgarden.org/apps/natural-order) - improves sort order in Finder
@@ -68,8 +68,8 @@ Below are my personal choices that help improve my time spent using System 7.
 * [Greg's Browser](https://macintoshgarden.org/apps/gregs-browser) - file manager with StuffIt integration
 * [MasterFinder](https://macintoshgarden.org/apps/masterfinder-13-fat) - multi-column file manager
 * [MindExpander](https://macintoshgarden.org/apps/mindexpander) - file decompressor
-* [(Super) ResEdit](https://macintoshgarden.org/apps/super-resedit-213) - resource editor with build in code viewer
-* [Resorcerer](https://macintoshgarden.org/apps/resorcerer-125) - resource editor with build in code viewer
+* [(Super) ResEdit](https://macintoshgarden.org/apps/super-resedit-213) - resource editor with built-in code viewer
+* [Resorcerer](https://macintoshgarden.org/apps/resorcerer-125) - resource editor with built-in code viewer
 * [ShrinkWrap](https://macintoshgarden.org/apps/shrinkwrap-21) - disk and archiving helper
 * [ShowSizes](https://www.macgui.com/downloads/?file_id=23652) - disk usage analyser
 * [Type Resolve](https://macintoshgarden.org/apps/type-resolve-201) - drag-and-drop type/creator changer
