@@ -13,7 +13,7 @@ featured: true
 comments: https://twitter.com/gingerbeardman/status/1375462328406278152
 
 ---
-Second in my series 1-bit Woodblocks.
+Second in my series [1-bit Woodblocks](/tag/1bitwoodblocks/).
 
 I've just finished "Asanegami" (Morning Hair) so I thought I'd go into a few of my favourite details!
 
