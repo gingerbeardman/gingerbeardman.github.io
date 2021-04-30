@@ -30,7 +30,7 @@ Below are my personal choices that help improve my time spent using System 7.
 * [PopupFolder](https://macintoshgarden.org/apps/popup-folder-201) - allows access to folder contents from hierarchical popup menu without having to drill down into folders
 * [QuicKeys](https://macintoshgarden.org/apps/quickeys-353) - macro and automation utility, used only for composing Apple Event calls
 * [Smart Scroll](https://macintoshgarden.org/apps/smart-scroll) - live scrolling and proportionally sized scrollbar thumb
-* [SmartLaunch](https://macintoshgarden.org/apps/smartlaunch-308) - application launcher, I launch this using Cmd+Enter KeyQuencer macro
+* [SmartLaunch](https://macintoshgarden.org/apps/smartlaunch-308) - application launcher, I launch this using Cmd+Return KeyQuencer macro
 * [Snitch](https://macintoshgarden.org/apps/snitch) - Get Info extender, can do batch type/creator changes by summoning whilst holding Shift key
 * [Symbionts](https://macintoshgarden.org/apps/symbionts-286) - occasionally used to troubleshoot Control Panels and Extensions
 * [WindowShade](https://macintoshgarden.org/apps/windowshade) - collapse a window into its title bar by double-clicking
