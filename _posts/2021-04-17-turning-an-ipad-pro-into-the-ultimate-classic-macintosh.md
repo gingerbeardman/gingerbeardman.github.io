@@ -110,6 +110,7 @@ This setup gives me the best of both old and new worlds, and that's why I refer 
 * [Optimising Macintosh app toolbars for touch](/2021/03/28/changing-the-size-of-toolbar-items-using-resedit/)
 * [Macintosh drawing software compared](/2021/04/24/macintosh-drawing-software-compared/)
 * [Mixing External Tools across Deneba software](/2021/04/25/mixing-external-tools-across-deneba-software/)
+* [My System 7 software choices](https://blog.gingerbeardman.com/2021/04/30/my-system-7-software-choices/)
 
 ## Forthcoming posts
 
