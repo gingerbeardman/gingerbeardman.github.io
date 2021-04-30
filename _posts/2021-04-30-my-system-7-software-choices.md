@@ -7,8 +7,6 @@ nouns:
 - System
 title: My System 7 Software Choices
 comments: ''
-featured: false
-carousel: ''
 
 ---
 ## Control Panels
@@ -53,7 +51,7 @@ carousel: ''
 * [WordPerfect](https://macintoshgarden.org/apps/wordperfect-35-novell) 3.5
 * [WriteNow](https://macintoshgarden.org/apps/writenow) 4
 
-## Other
+## Other Utilities
 
 * [CompactPro](https://macintoshgarden.org/apps/compact-pro) - file compressor/decompressor
 * [GraphicConverter](https://macintoshgarden.org/apps/graphicconverter-4x) - image file converter
@@ -67,6 +65,10 @@ carousel: ''
 * [ShowSizes](https://www.macgui.com/downloads/?file_id=23652) - disk usage analyser
 * [System Picker](https://macintoshgarden.org/apps/system-picker) - choose which system folder to boot from
 * [Type Resolve](https://macintoshgarden.org/apps/type-resolve-201) - drag-and-drop type/creator changer
+
+## Operating System
+* [System 7.5.5](https://macintoshgarden.org/apps/macintosh-os-755)
+* [Japanese Language Kit](https://macintoshgarden.org/apps/japanese-language-kit-v12)
 
 ### Related
 
