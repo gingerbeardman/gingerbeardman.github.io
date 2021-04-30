@@ -10,11 +10,11 @@ title: My System 7 software choices
 comments: https://twitter.com/gingerbeardman/status/1388119568162377728
 
 ---
-System 7 is a great operating system. Even in 2020 the experience using it remains very close to modern macOS. It's surprising how little has changed on the Desktop in 30 years since.
+System 7 is a great operating system. Even in 2020 the experience using it remains very close to modern macOS. It's surprising how little has changed on the Desktop in the 30 years since. That said, the experience can still be improved with the judicious use of specific additional software.
 
-That said, the experience can be improved further with the judicious use of certain additions. When adding things to the system my goal is always to increase usability and improve my user experience. Functionality is key and nothing is added without careful consideration. If I can install one package to achieve several functions I'd rather do that than use individual packages.
+When adding things to the system my goal is always to increase quality of life and improve user experience. Functionality is key and nothing is added without careful consideration. If I can install one package to add several functions I'd rather do that than add several individual packages. If I can install software to match modern macOS features or muscle memory then I'll do so.
 
-Below are my personal choices that help improve my time using System 7.
+Below are my personal choices that help improve my time spent using System 7.
 
 ## Control Panels
 
