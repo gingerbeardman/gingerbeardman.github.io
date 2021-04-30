@@ -68,6 +68,8 @@ defaults:
 
 To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` to start the Jekyll server.
 
+I use [Netlify](https://www.netlify.com) to deploy the site as it enables me to use Jekyll plugins without the limitations of GitHub Pages. 
+
 I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
 
 ## Posts
