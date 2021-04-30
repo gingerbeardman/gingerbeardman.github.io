@@ -3,10 +3,19 @@ layout: post
 tags:
 - software
 - recommendations
+nouns:
+- System 7
+- macOS
 title: My System 7 Software Choices
 comments: https://twitter.com/gingerbeardman/status/1388119568162377728
 
 ---
+System 7 is a great operating system. Even in 2020 the experience using it remains very close to modern macOS. It's surprising how little has changed on the Desktop in 30 years since.
+
+That said, the experience can be improved further with the judicious use of certain additions. When adding things to the system my goal is always to increase usability and improve my user experience. Functionality is key and nothing is added without careful consideration. If I can install one package to achieve several functions I'd rather do that than use individual packages.
+
+Below are my personal choices that help improve my time using System 7.
+
 ## Control Panels
 
 * [Better Edit Keys](https://macintoshgarden.org/apps/better-edit-keys) - adds modern text editing and selection keyboard controls, such as the ability to grow the selection by word
