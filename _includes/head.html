@@ -16,4 +16,8 @@
 
     {{ inlineCSS | scssify }}
   </style>
+
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 </head>
