@@ -37,7 +37,7 @@ Below are my personal choices that help improve my time using System 7.
 ## Extensions
 
 * [2020Patch](https://macintoshgarden.org/apps/2020patch) - fixes year 2020 date bug
-* [About](https://macintoshgarden.org/apps/about) - replacement for About This Macintosh window
+* [About](https://macintoshgarden.org/apps/about) - enhanced replacement for About This Macintosh window
 * [Apollo](https://macintoshgarden.org/apps/apollo) - popup menu app selector and launcher
 * [CopyPaste](https://macintoshgarden.org/apps/copypaste-33) - multiple clipboard manager
 * [DirtyDesk](https://macgui.com/downloads/?file_id=26327) - disables Clean Up Desktop menu item
