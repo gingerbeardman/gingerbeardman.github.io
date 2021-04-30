@@ -55,7 +55,7 @@ Both Macintosh emulators available on iOS we're ported by [@maczydeco](https://T
 * Dynamic screen resolutions through Monitors control panel, or automation
 * Native iOS interface for settings panel, negating all the issues with the desktop GUI
 * We have a winner!
-* [Source code](https://github.com/zydeco/macemu/wiki/BasiliskII-for-iOS) (use the `ios` branch!)
+* [Source code](https://github.com/zydeco/macemu/wiki/BasiliskII-for-iOS) (use the `ios` branch)
 
 ## File Sharing
 
