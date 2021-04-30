@@ -70,12 +70,12 @@ Below are my personal choices that help improve my time using System 7.
 * [Resorcerer](https://macintoshgarden.org/apps/resorcerer-125) - resource editor with build in code viewer
 * [ShrinkWrap](https://macintoshgarden.org/apps/shrinkwrap-21) - disk and archiving helper
 * [ShowSizes](https://www.macgui.com/downloads/?file_id=23652) - disk usage analyser
-* [System Picker](https://macintoshgarden.org/apps/system-picker) - choose which system folder to boot from
 * [Type Resolve](https://macintoshgarden.org/apps/type-resolve-201) - drag-and-drop type/creator changer
 
 ## Operating System
 * [System 7.5.5](https://macintoshgarden.org/apps/macintosh-os-755)
 * [Japanese Language Kit](https://macintoshgarden.org/apps/japanese-language-kit-v12)
+* [System Picker](https://macintoshgarden.org/apps/system-picker) - choose which system folder to boot from
 
 ### Related
 
