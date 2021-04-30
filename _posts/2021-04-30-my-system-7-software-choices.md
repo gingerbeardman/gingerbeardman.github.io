@@ -3,8 +3,6 @@ layout: post
 tags:
 - software
 - recommendations
-nouns:
-- System
 title: My System 7 Software Choices
 comments: https://twitter.com/gingerbeardman/status/1388119568162377728
 
