@@ -14,6 +14,10 @@ layout: default
 
   <div class='o-grid'>
     {% for post in page.posts %}
+      {% include post-card-pinned.liquid %}
+    {% endfor %}
+
+    {% for post in page.posts %}
       {% include post-card.liquid %}
     {% endfor %}
   </div>
