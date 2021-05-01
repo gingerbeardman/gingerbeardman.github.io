@@ -6,4 +6,8 @@ blockquote {
   padding-left: $base-spacing-unit;
   border-left: 2px solid $color-gray;
   color: $color-gray;
+
+  a {
+    color: $color-gray;
+  }
 }
