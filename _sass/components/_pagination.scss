@@ -16,6 +16,12 @@
     text-align: center;
   }
 
+  &__label {
+    @include mq(mobile, tablet) {
+      display: none;
+    }
+  }
+
   @include attention() {
     color: $color-brand;
     text-decoration: none;
@@ -34,12 +40,19 @@
 
     &--prev {
       left: - $base-spacing-unit;
+
+      @include mq(mobile, tablet) {
+        display: none;
+      }
     }
 
     &--next {
       right: - $base-spacing-unit;
-    }
 
+      @include mq(mobile, tablet) {
+        display: none;
+      }
+    }
   }
 
   &__icon {
