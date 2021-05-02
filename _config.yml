@@ -13,12 +13,22 @@ author:      'Matt&nbsp;Sephton'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://blog.gingerbeardman.com' # The base hostname & protocol for your site
 homepage:    'https://www.gingerbeardman.com' # The base hostname & protocol for your site
-twitter:     '@gingerbeardman'
 github:      ''
 instagram:   ''
 facebook:    ''
 
 google_analytics: 'G-JVMQWHYEWV'
+
+twitter:
+  username: gingerbeardman
+  card: summary
+
+social:
+  name: Matt Sephton
+  links:
+    - https://twitter.com/gingerbeardman
+
+# Jekyll specific
 
 markdown:  kramdown
 permalink: pretty

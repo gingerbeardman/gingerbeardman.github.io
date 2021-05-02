@@ -23,7 +23,7 @@
 
     <span class='c-post-card__date'>
       {{ include.pdate | date: '%Y-%m-%d ' }}
-      &nbsp;•&nbsp; {% include post-card-read-time.html %}
+      &nbsp;•&nbsp; {% include_cached post-card-read-time.html pcontent=post.content %}
       {% comment %}
       {% if include.ptags %}
       {% assign sorted_tags = include.ptags | sort %}

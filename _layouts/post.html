@@ -24,7 +24,7 @@ layout: default
 
         <time class='c-post__date' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>
           {{ page.date | date: '%Y-%m-%d ' }}
-          &nbsp;•&nbsp; {% include read-time.html %}
+          &nbsp;•&nbsp; {% include_cached read-time.html pcontent=page.content %}
           {% if page.tags %}
           {% assign sorted_tags = page.tags | sort %}
           <span class='c-tags'>
@@ -82,7 +82,7 @@ layout: default
         {% if page.comments.size > 0 %}
         <div class='c-comments'>
           --<br>
-          Comments: <a href="{{ page.comments }}" target="comments">{{ site.twitter }}</a>
+          Comments: <a href="{{ page.comments }}" target="comments">@{{ site.twitter.username }}</a>
         </div>
         {% endif %}
 
