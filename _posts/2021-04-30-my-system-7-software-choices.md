@@ -56,6 +56,8 @@ Below are my personal choices that improve my time spent using System 7.
 
 ## Word Processors
 
+Take your pick of the best:
+
 * [MacWritePro](https://macintoshgarden.org/apps/macwrite-pro-15) 1.5
 * [Nisus Writer](https://macintoshgarden.org/apps/nisus-writer-4) 4
 * [Word](https://macintoshgarden.org/apps/microsoft-word) 5.1
