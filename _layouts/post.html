@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include base_path %}
+{% include_cached base_path surl=site.url sbaseurl=site.baseurl %}
 
 {% if page.image %}
   <meta itemprop='og:image' content='{{ base_path }}{{ page.image }}'>
@@ -13,7 +13,14 @@ layout: default
     <div class='o-grid__col'>
       <article class='c-post' itemscope itemtype='http://schema.org/BlogPosting'>
 
-        <a href='/' class='c-post-card c-post-card--last c-post-card--post'><h1 class='c-post__title'>{{ page.title }}</h1></a>
+        <a href='/' class='c-post-card c-post-card--last c-post-card--post'>
+          <h1 class='c-post__title'>{{ page.title }}
+            <span class="u-right fave">
+              {% if page.pinned %} 📍 {% endif %}
+              {% if page.featured %} ♥ {% endif %}
+            </span>
+          </h1>
+        </a>
 
         <time class='c-post__date' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>
           {{ page.date | date: '%Y-%m-%d ' }}

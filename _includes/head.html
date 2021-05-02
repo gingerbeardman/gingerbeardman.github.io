@@ -3,21 +3,21 @@
   <meta http-equiv='X-UA-Compatible' content='IE=edge'>
   <meta name='viewport' content='width=device-width, initial-scale=1'>
 
-  <title>{% if page.tag %}#{{ page.tag }} {% endif %}{% if page.title %} {{ page.title }} {{ site.title }} {{ site.description }}{% else %}{{ site.title }} {{ site.description }}{% endif %}</title>
-  <meta name='description' content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <link rel='canonical' href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel='alternate' type='application/rss+xml' title='{{ site.title }}' href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="stylesheet" href="{{ '/js/tablesorter.theme.default.min.css' | prepend: site.baseurl }}">
+  <title>{% if include.ptag %}#{{ include.ptag }} {% endif %}{% if include.ptitle %} {{ include.ptitle }} {{ include.stitle }} {{ include.sdescription }}{% else %}{{ include.stitle }} {{ include.sdescription }}{% endif %}</title>
+  <meta name='description' content="{% if include.pexcerpt %}{{ include.pexcerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ include.sdescription }}{% endif %}">
+  <link rel='canonical' href="{{ include.purl | replace:'index.html','' | prepend: include.sbaseurl | prepend: include.surl }}">
+  <link rel='alternate' type='application/rss+xml' title='{{ include.stitle }}' href="{{ '/feed.xml' | prepend: include.sbaseurl | prepend: include.surl }}">
+  <link rel="stylesheet" href="{{ '/js/tablesorter.theme.default.min.css' | prepend: include.sbaseurl }}">
 
   <style>
     {% capture inlineCSS %}
-      {% include app.scss %}
+      {% include_cached app.scss %}
     {% endcapture %}
 
     {{ inlineCSS | scssify }}
   </style>
 
-  {% if jekyll.environment == 'production' and site.google_analytics %}
-    {% include analytics.html %}
+  {% if jekyll.environment == 'production' and include.sgoogle_analytics %}
+    {% include_cached analytics.html sanalytics=site.google_analytics %}
   {% endif %}
 </head>

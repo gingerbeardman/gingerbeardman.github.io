@@ -28,6 +28,7 @@ sass:
   style: compressed
 
 plugins:
+  - jekyll-include-cache
   - jekyll-paginate
   - jekyll/tagging
 

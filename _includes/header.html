@@ -7,14 +7,14 @@
         <div class='o-grid'>
           <div class='o-grid__col o-grid__col--1-4-s'>
             <div class='c-logo u-text-left'>
-              <a class='c-logo__link' href='{{ site.baseurl }}/' title='{{ site.description }}'>
-                {{ site.title }}&nbsp;&nbsp;<span>{{ site.description }}</span>
+              <a class='c-logo__link' href='{{ include.sbaseurl }}/' title='{{ include.sdescription }}'>
+                {{ include.stitle }}&nbsp;&nbsp;<span>{{ include.sdescription }}</span>
               </a>
             </div>
           </div>
           <div class='o-grid__col o-grid__col--3-4-s'>
             <div class='c-byline u-text-right'>
-              <div class='c-byline__desc'>by&nbsp;<a href="{{ site.homepage }}" class='c-byline__desc'>{{ site.author }}</a></div>
+              <div class='c-byline__desc'>by&nbsp;<a href="{{ include.shomepage }}" class='c-byline__desc'>{{ include.sauthor }}</a></div>
             </div>
           </div>
         </div>

@@ -13,12 +13,11 @@ layout: default
   </div>
 
   <div class='o-grid'>
-    {% for post in page.posts %}
-      {% include post-card-pinned.liquid %}
-    {% endfor %}
-
-    {% for post in page.posts %}
-      {% include post-card.liquid %}
+    {% for post in site.posts %}
+      {% if post.tags contains page.tag %}
+        {% include_cached post-card.html pdate=post.date pfeatured=post.featured
+   ppinned=post.pinned ptags=post.tags ptitle=post.title purl=post.url sbaseurl=site.baseurl %}
+      {% endif %}
     {% endfor %}
   </div>
 </div>

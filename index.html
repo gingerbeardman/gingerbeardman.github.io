@@ -4,12 +4,20 @@ layout: default
 
 <div class='o-wrapper'>
   <div class='o-grid'>
-    {% for post in paginator.posts %}
-      {% include post-card-pinned.liquid %}
-    {% endfor %}
+    {% if page.url == "/" %}
+      {% for post in site.posts %}
+        {% if post.pinned %}
+          {% include_cached post-card.html pdate=post.date pfeatured=post.featured
+   ppinned=post.pinned ptags=post.tags ptitle=post.title purl=post.url sbaseurl=site.baseurl %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
 
     {% for post in paginator.posts %}
-      {% include post-card.liquid %}
+      {% unless post.pinned %}
+        {% include_cached post-card.html pdate=post.date pfeatured=post.featured
+ ppinned=post.pinned ptags=post.tags ptitle=post.title purl=post.url sbaseurl=site.baseurl %}
+      {% endunless %}
     {% endfor %}
   </div>
 
