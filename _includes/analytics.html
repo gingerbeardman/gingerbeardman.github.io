@@ -1,9 +1,9 @@
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ sanalytics }}"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ include.sanalytics }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', '{{ sanalytics }}');
+  gtag('config', '{{ include.sanalytics }}');
 </script>
