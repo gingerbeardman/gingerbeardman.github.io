@@ -6,7 +6,7 @@ nouns: [Koikoi Komachi, Tim2View, PlayStation, Youkai Hana Asobi, Adobe Photosho
 comments:
 
 ---
-> A version of this article was [originally posted on my Patreon](https://www.patreon.com/posts/28136581), 4th July 2019
+> A version of this article was [originally posted on my Patreon](https://www.patreon.com/posts/28136581)
 
 I found an old Hanafuda Koi-Koi game that I can no longer easily play due to… sigh… what they call progress? It’s called Koikoi Komachi and was released around 2005 for Mac OS X (initially for PPC, and later Intel).
 
