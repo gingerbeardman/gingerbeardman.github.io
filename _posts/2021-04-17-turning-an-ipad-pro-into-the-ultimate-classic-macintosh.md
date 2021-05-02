@@ -122,6 +122,7 @@ This setup gives me the best of both old and new worlds, and that's why I refer 
 ## Press
 
 * 2021-03-29 [The Mac Observer](https://www.macobserver.com/cool-stuff-found/emulating-mac-plus-ios/)
+* 2021-04-18 [Hacker News](https://news.ycombinator.com/item?id=26854990)
 * 2021-04-19 [Boing Boing](https://boingboing.net/2021/04/19/ipad-pro-turned-into-the-best-classic-mac-there-ever-was.html)
 * 2021-04-19 [iDownloadBlog](https://www.idownloadblog.com/2021/04/19/ipad-pro-classic-macintosh-emulator/)
 * 2021-04-19 [The Loop](https://www.loopinsight.com/2021/04/19/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
