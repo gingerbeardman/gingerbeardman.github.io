@@ -8,17 +8,16 @@ layout: default
   <meta itemprop='og:image' content='{{ base_path }}{{ page.image }}'>
 {% endif %}
 
-<div class='o-wrapper'>
+<div class='o-wrapper post-page'>
   <div class='o-grid'>
     <div class='o-grid__col'>
       <article class='c-post' itemscope itemtype='http://schema.org/BlogPosting'>
 
         <a href='/' class='c-post-card c-post-card--last c-post-card--post'>
           <h1 class='c-post__title'>{{ page.title }}
-            <span class="u-right fave">
-              {% if page.pinned %} 📍 {% endif %}
-              {% if page.featured %} ♥ {% endif %}
-            </span>
+            {% if page.featured %}
+              <span class="u-right fave">♥</span>
+            {% endif %}
           </h1>
         </a>
 

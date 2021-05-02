@@ -3,7 +3,11 @@
 \*------------------------------------*/
 
 .o-wrapper {
-  padding: double($base-spacing-unit) 0;
+  padding: $base-spacing-unit 0 double($base-spacing-unit) 0;
+
+  &.post-page {
+    padding: double($base-spacing-unit) 0;
+  }
 }
 
 /**

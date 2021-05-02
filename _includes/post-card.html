@@ -1,6 +1,6 @@
 <div class='o-grid__col--full o-grid__col--final'>
 
-  <a href='{{ include.purl | prepend: include.sbaseurl }}' class='c-post-card {% if forloop.first == true %} c-post-card--xfirst {% endif %} {% if include.purl == "/" and include.ppinned == true %} c-post-card--first {% endif %}'>
+  <a href='{{ include.purl | prepend: include.sbaseurl }}' class='c-post-card'>
     <h3 class='c-post-card__title'>
     {{ include.ptitle }}
 
