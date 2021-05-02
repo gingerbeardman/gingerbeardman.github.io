@@ -23,9 +23,6 @@ google_analytics: 'G-JVMQWHYEWV'
 markdown:  kramdown
 permalink: pretty
 
-paginate:  10
-paginate_path: "/page/:num/"
-
 sass:
   style: compressed
 
@@ -41,6 +38,10 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+
+# Paginate
+paginate:  10
+paginate_path: "/page/:num/"
 
 # Tags
 tag_page_dir:         tag
