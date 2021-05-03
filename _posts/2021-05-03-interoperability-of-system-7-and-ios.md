@@ -134,9 +134,9 @@ The above files can be converted or extracted using StuffIt, MindExpander, or Co
 - **.img** — disk image
 - **.smi** — self-mounting disk image
 
-The above disk images can be mounted using StuffIt, ShrinkWrap, DiskCopy 6.
+The above disk images can be mounted using StuffIt, ShrinkWrap, DiskCopy 6. You could also mount them in the BasiliskII interface, but I tend not to do so for disk images that I won't have mounted for very long.
 
 - **.iso** — standard CD-ROM disk image
 - **.toast** — proprietary CD-ROM disk image
 
-The above optical disk images should be mounted using the BasiliskII settings interface (shown at first launch, or whenever you shake your device).
+The above optical disk images should be mounted using the BasiliskII settings interface (shown at first launch, or whenever you shake your device). Disks mounted in this way will be available at every boot, and can only be removed by shutting down the system and restarting the emulator.
