@@ -87,7 +87,7 @@ More exotic document formats will be trickier, but [LibreOffice](https://www.lib
 
 ## File I/O
 
-To get files out of System 7 simply drop them onto the File Sharing drive, open Files, and long press on the PDF to get a list of the available actions. The exact options that iOS will give you will depend on the apps you have installed. Don't be a stranger over at the App Store!
+To get files out of System 7 simply drop them onto the File Sharing drive, open Files, and long press on the file to get a list of the available actions. The exact options that iOS will give you will depend on the apps you have installed. Don't be a stranger over at the App Store!
 
 ---
 
