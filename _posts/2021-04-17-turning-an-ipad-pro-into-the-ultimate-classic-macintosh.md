@@ -110,13 +110,11 @@ This setup gives me the best of both old and new worlds, and that's why I refer 
 * [Optimising Macintosh app toolbars for touch](/2021/03/28/changing-the-size-of-toolbar-items-using-resedit/)
 * [Macintosh drawing software compared](/2021/04/24/macintosh-drawing-software-compared/)
 * [Mixing External Tools across Deneba software](/2021/04/25/mixing-external-tools-across-deneba-software/)
-* [My System 7 software choices](https://blog.gingerbeardman.com/2021/04/30/my-system-7-software-choices/)
+* [My System 7 software choices](/2021/04/30/my-system-7-software-choices/)
+* [About the interoperability of System 7 and iOS](/2021/05/03/interoperability-of-system-7-and-ios/)
 
 ## Forthcoming posts
 
-* File Conversions
-* Interoperability with iOS
-* Printing
 * Apple Pencil
 
 ## Press
