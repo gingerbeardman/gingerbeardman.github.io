@@ -1,6 +1,6 @@
 ---
 layout: post
-title: System 7 and iOS interoperability
+title: Interoperability of System 7 and iOS
 tags:
 - system7
 - basiliskii
