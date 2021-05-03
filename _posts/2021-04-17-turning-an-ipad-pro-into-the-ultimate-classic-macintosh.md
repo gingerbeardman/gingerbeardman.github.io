@@ -121,13 +121,13 @@ This setup gives me the best of both old and new worlds, and that's why I refer 
 
 ## Press
 
-* 2021-03-29 [The Mac Observer](https://www.macobserver.com/cool-stuff-found/emulating-mac-plus-ios/)
-* 2021-04-18 [Hacker News](https://news.ycombinator.com/item?id=26854990)
-* 2021-04-19 [Boing Boing](https://boingboing.net/2021/04/19/ipad-pro-turned-into-the-best-classic-mac-there-ever-was.html)
-* 2021-04-19 [iDownloadBlog](https://www.idownloadblog.com/2021/04/19/ipad-pro-classic-macintosh-emulator/)
-* 2021-04-19 [The Loop](https://www.loopinsight.com/2021/04/19/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
-* 2021-04-22 [FredZone](https://www.fredzone.org/et-si-vous-transformiez-votre-ipad-en-macintosh-portable-2828) (in French)
-* 2021-04-23 [Gizmodo](https://gizmodo.com/this-artist-turned-their-ipad-pro-into-a-classic-macint-1846749495)
-* 2021-04-23 [Pixel Envy](https://pxlnv.com/linklog/classic-macintosh-painting/)
-* 2021-04-26 [Input Magazine](https://www.inputmag.com/tech/this-artist-uses-an-ipad-pro-running-classic-macintosh-os-to-make-nfts)
+* 2021-03-29 — [The Mac Observer](https://www.macobserver.com/cool-stuff-found/emulating-mac-plus-ios/)
+* 2021-04-18 — [Hacker News](https://news.ycombinator.com/item?id=26854990)
+* 2021-04-19 — [Boing Boing](https://boingboing.net/2021/04/19/ipad-pro-turned-into-the-best-classic-mac-there-ever-was.html)
+* 2021-04-19 — [iDownloadBlog](https://www.idownloadblog.com/2021/04/19/ipad-pro-classic-macintosh-emulator/)
+* 2021-04-19 — [The Loop](https://www.loopinsight.com/2021/04/19/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
+* 2021-04-22 — [FredZone](https://www.fredzone.org/et-si-vous-transformiez-votre-ipad-en-macintosh-portable-2828) (in French)
+* 2021-04-23 — [Gizmodo](https://gizmodo.com/this-artist-turned-their-ipad-pro-into-a-classic-macint-1846749495)
+* 2021-04-23 — [Pixel Envy](https://pxlnv.com/linklog/classic-macintosh-painting/)
+* 2021-04-26 — [Input Magazine](https://www.inputmag.com/tech/this-artist-uses-an-ipad-pro-running-classic-macintosh-os-to-make-nfts)
 * 2021-04-26 [iGeneration](https://www.igen.fr/ipad/2021/04/un-ipad-pro-sous-systeme-7-pour-dessiner-en-noir-et-blanc-122071) (in French)
