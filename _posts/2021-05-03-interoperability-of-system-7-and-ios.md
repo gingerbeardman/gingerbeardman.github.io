@@ -16,6 +16,9 @@ nouns:
 - BasiliskII
 - Illustrator
 - Files
+- Music
+- Podcasts
+- YouTube
 - Acrobat
 - PDFWriter
 - AirPrint
