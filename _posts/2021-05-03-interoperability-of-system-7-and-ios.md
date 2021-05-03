@@ -41,7 +41,7 @@ nouns:
 carousel: ''
 featured: false
 pinned: false
-comments: ''
+comments: https://twitter.com/gingerbeardman/status/1389342826597699587
 
 ---
 It never fails to amaze me how at home System 7 feels on an iPad. In fact, I'd go so far as to say I've never felt more capable than when I'm using it this way. *What a time to be alive!*
