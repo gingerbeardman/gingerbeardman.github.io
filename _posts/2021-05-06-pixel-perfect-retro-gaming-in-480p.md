@@ -32,6 +32,8 @@ Philips made the best 20" 480p EDTVs: they have an LG/Philips IPS panel (yes, in
 
 Notes: some other manufacturers used the same LG/Philips IPS panel. Be aware that Sharp used their own panel technology, and Samsung used a different panel again, neither of which are IPS and so not as good. Sharp also use their own scaler hardware which is not as good as the scaler in my Philips. Scalers my MStar as used in certain EDTVs do not support 240p.
 
+I'm yet to find a 16:9 aspect 480p TV with PC input. Though I continue to look for one!
+
 ## The EDTV Hit List
 
 [Here's a Google Docs spreadsheet](https://docs.google.com/spreadsheets/d/1HOEvXkjMTum_Vd1CJ0RrpvgH0a_Uo0zJc9RwUtfZVZ0/edit?usp=sharing) that should help you find a suitable LCD 480p EDTV. The top and most well-tested EDTVs from that list are displayed in the smaller table below.
@@ -52,5 +54,7 @@ Please contact me [@gingerbeardman](https://twitter.com/gingerbeardman) on twitt
 | Philips | 20HF5473 | EU |  |  |  |  | DVI | 2005 | link |  |  |  |
 
 ## Photos
+
+You can also look through my [Instagram photos tagged with #20PF4121](https://www.instagram.com/explore/tags/20pf4121/) for additonal photos and video footage.
 
 {% include carousel.html height="82" unit="%" duration="7" %}
