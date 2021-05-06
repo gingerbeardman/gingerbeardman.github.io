@@ -54,7 +54,7 @@ When looking for one of these you need to check the following:
 
 Places to get this info are: photos of spare parts, specification brochure, service manual parts list, panelook and icecat websites. 
 
-Feel free to contact me [@gingerbeardman](https://twitter.com/gingerbeardman) on twitter with details of your buying choice and experiences.
+Feel free to contact me [@gingerbeardman](https://twitter.com/gingerbeardman) on twitter with details of your buying choice and experiences and I'll be sure to update the spreadsheet.
 
 | BRAND | MODEL | REGION | CHASSIS | IPS | SCALER | 240P | INPUT | YEAR | SPECSHEET | WEBSITE | SERVICE | NOTES |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
