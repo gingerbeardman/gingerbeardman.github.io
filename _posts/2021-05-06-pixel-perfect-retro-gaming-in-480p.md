@@ -36,6 +36,8 @@ The 480p EDTV also proves unremarkable to my wife, I guess because unlike my PVM
 
 Philips made the best 20" 480p EDTVs: they have an LG/Philips IPS panel (yes, in 2006!) and DVI connector. The trick is to find a set with DVI or VGA input so you can use the PC mode which does not have any image processing applied to it. I'm in Europe so I use the Philips 20PF4121, which is simply glorious. Response time is less than one frame, and there is little to no motion blur on my TV, as measured by the EIZO monitor test. It has a hardware scaler by Genesis Logic that can handle 240p and is pretty good at deinterlacing (though I use a GBS-Control for better deinterlacing on PS2).
 
+Connections wise you want to use DVI and whatever adaptors you need to get your signal there. Analogue signals over VGA and Component (YPbPr) can be used with a simple adaptor. Digital signals like HDMI and DisplayPort, or even those modern HDMI dongles for old consoles, can be used with a suitable converter to get to VGA.
+
 Notes: some other manufacturers used the same LG/Philips IPS panel. Be aware that Sharp used their own panel technology, and Samsung used a different panel again, neither of which are IPS and so not as good. Sharp also use their own scaler hardware which is not as good as the scaler in my Philips. Scalers my MStar as used in certain EDTVs do not support 240p.
 
 I'm yet to find a 16:9 aspect 480p TV with PC input. Though I continue to look for one!
