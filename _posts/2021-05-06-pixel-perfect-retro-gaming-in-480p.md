@@ -46,7 +46,15 @@ I'm yet to find a 16:9 aspect 480p TV with PC input. Though I continue to look f
 
 [Here's a Google Docs spreadsheet](https://docs.google.com/spreadsheets/d/1HOEvXkjMTum_Vd1CJ0RrpvgH0a_Uo0zJc9RwUtfZVZ0/edit?usp=sharing) that should help you find a suitable LCD 480p EDTV. The top and most well-tested EDTVs from that list are displayed in the smaller table below.
 
-Please contact me [@gingerbeardman](https://twitter.com/gingerbeardman) on twitter with details of your buying choice and experiences.
+When looking for one of these you need to check the following:
+
+* DVI or VGA connector?
+* IPS panel?
+* Genesis Logic scaler?
+
+Places to get this info are: photos of spare parts, specification brochure, service manual parts list, panelook and icecat websites. 
+
+Feel free to contact me [@gingerbeardman](https://twitter.com/gingerbeardman) on twitter with details of your buying choice and experiences.
 
 | BRAND | MODEL | REGION | CHASSIS | IPS | SCALER | 240P | INPUT | YEAR | SPECSHEET | WEBSITE | SERVICE | NOTES |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
