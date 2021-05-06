@@ -18,17 +18,17 @@ featured: true
 ---
 I recently saw a feature on [RacketBoy](https://www.racketboy.com/retro/the-best-43-square-lcd-monitors-for-retro-gaming-classic-pc-use) about "The Best 4:3 LCD Monitors for Retro Gaming" which is an interesting list but misses the mark for one reason: it ignores scaling problems.
 
-LCDs are best at their native resolution and all the listed monitors in that article are odd PC resolutions. If we think about retro gaming display outputs then we're squarely sub-480p. Anything higher will mean the image gets scaled and the results will be suboptimal. 
+LCDs are best at their native resolution and all the listed monitors in that article are odd PC resolutions. If we think about retro gaming display outputs then we're squarely sub-480p. Anything higher will mean the image gets scaled and the results will be suboptimal.
 
 What we need is a display with a native resolution of 480p. Do such things exist? Why, yes, they do!
 
 ## LCD 480p EDTVs
 
-For a handful of years I've been using a 20" LCD 480p EDTV which offers great support for 240p and 480p with zero scaling. These types of TVs mean you get pixel-perfect results for Wii/GC, Dreamcast, Xbox, Xbox 360, PS3/2/1 and more besides. Plus, they don't take up anywhere near as much room as a PVM/PVM or other CRT, and are a lot more manageable than the huge (40"+) plasma 480p TVs. Seeing the Wii on this kind of display is a real shock - quite amazing.
+For a handful of years I've been using a 20" LCD 480p EDTV which offers great support for 240p and 480p with zero scaling. These types of TVs mean you get pixel-perfect results for Wii/GC, Dreamcast, Xbox, Xbox 360, PS3/2/1 and more besides. Plus, they don't take up anywhere near as much room as a PVM or other CRT, and are a lot more manageable than the huge (40"+) plasma 480p TVs. Seeing the Wii on this kind of display is a real shock - quite amazing.
 
-In fact I use my modern emulation PC at 640x480p using a DisplayPort to VGA adapter. This gives me perfect video output from RetroArch for everything up to and including 480p, which covers what I consider the golden period of arcade and console gaming. 
+In fact I use my modern emulation PC at 640x480p using a DisplayPort to VGA adapter. This gives me perfect video output from RetroArch for everything up to and including 480p, which covers what I consider the golden period of arcade and console gaming.
 
-The pixel density of a 20" IPS panel like this is such that the sub-pixel gaps look a little like an aperture grille. Adding a 640x480 pixel scan-line overlay in RetroArch brings me very close to the look of my PVM but with a display that is much easier to manage. 
+The pixel density of a 20" IPS panel like this is such that the sub-pixel gaps look a little like an aperture grille. Adding a 640x480 pixel scan-line overlay in RetroArch brings me very close to the look of my PVM but with a display that is much easier to manage.
 
 The 480p EDTV also proves unremarkable to my wife, I guess because unlike my PVM it doesn't like a microwave, which means it can happily live in the lounge.
 
