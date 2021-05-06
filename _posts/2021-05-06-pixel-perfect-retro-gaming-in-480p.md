@@ -4,6 +4,7 @@ title: 'Pixel-Perfect retro gaming on LCD 480p EDTVs'
 tags: [480p, retrogaming, recommendations]
 nouns: [Philips, Sharp, Samsung, Genesis Logic, MStar]
 carousel: pixel-perfect-480p-edtv
+comments: https://twitter.com/gingerbeardman/status/1390306410617966592
 ---
 
 I recently saw a feature on [RacketBoy](https://www.racketboy.com/retro/the-best-43-square-lcd-monitors-for-retro-gaming-classic-pc-use) about "The Best 4:3 LCD Monitors for Retro Gaming" which is an interesting list but misses the mark for one reason: it ignores scaling problems.
