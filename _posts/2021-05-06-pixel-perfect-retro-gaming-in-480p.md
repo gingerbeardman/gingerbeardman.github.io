@@ -24,9 +24,9 @@ What we need is a display with a native resolution of 480p. Do such things exist
 
 ## LCD 480p EDTVs
 
-For a handful of years I've been using a 20" LCD 480p EDTV which offers great support for 240p and 480p with zero scaling. These types of TVs mean you get pixel-perfect results for Wii/GC, Dreamcast, Xbox, Xbox 360, PS3/2/1 and more besides. Plus, they don't take up anywhere near as much room as a PVM or other CRT, and are a lot more manageable than the huge (40"+) plasma 480p TVs. Seeing the Wii on this kind of display is a real shock and quite amazing.
+For a handful of years I've been using a 20" LCD 480p EDTV which offers great support for 240p and 480p with zero scaling. These types of TVs mean you get pixel-perfect (1:1 PAR) results for Wii/GC, Dreamcast, Xbox, Xbox 360, PS3/2/1 and for lower resolutions you get the output in the centre of the display, for example Mega Drive (Genesis) is 320×224px maps doubled to 640×448 and sits neatly in the centre of the display with small black bars top and bottom. RetroArch users will be very familiar with this kind of pixel mapping. Seeing the Wii on this kind of display is a real shock and quite amazing.
 
-In fact I use my modern emulation PC at 640x480p using a DisplayPort to VGA adapter. This gives me perfect video output from RetroArch for everything up to and including 480p, which covers what I consider the golden period of arcade and console gaming. On occasion I've run some PC software (Dolphin emulator, Richard Burns Really) at much higher resolutions and downscaled to 640x480—a process called supersampling which gives great, smooth results.
+In fact I use my modern emulation PC at 640×480p using a DisplayPort to VGA adapter. This gives me perfect video output from RetroArch for everything up to and including 480p, which covers what I consider the golden period of arcade and console gaming. On occasion I've run some PC software (Dolphin emulator, Richard Burns Really) at much higher resolutions and downscaled to 640×480—a process called supersampling which gives great, smooth results.
 
 The pixel density of a 20" IPS panel like this is such that the sub-pixel gaps look a little like an aperture grille. Adding a 640x480 pixel scan-line overlay in RetroArch brings me very close to the look of my PVM but with a display that is much easier to manage.
 
@@ -49,14 +49,14 @@ I'm yet to find a 16:9 aspect LCD 480p EDTV with PC input. Though I continue to 
 When looking for one of these you need to check the following:
 
 * **DVI or VGA connector?**
-  - _quick check: specification brochure_
-  - _long check: take a look physically_
+  * _quick check: specification brochure_
+  * _long check: take a look physically_
 * **IPS panel?**
-  - _quick check: spec brochure, viewing angle \~178 degrees_
-  - _long check: service manual parts list, check panel part number manually_
+  * _quick check: spec brochure, viewing angle \~178 degrees_
+  * _long check: service manual parts list, check panel part number manually_
 * **Genesis Logic scaler?**
-  - _quick check: parts list or PCB photo_
-  - _long check: check PCB manually, feed it a 240p signal_
+  * _quick check: parts list or PCB photo_
+  * _long check: check PCB manually, feed it a 240p signal_
 
 Places to get this info are: photos of spare parts, specification brochure, service manual parts list. It's useful to cross-reference LCD panel numbers on [panelook.com](https://www.panelook.com/modelsearch.php?keyword=LC201V02) and browse for 480p EDTVs using the [icecat](https://www.google.com/search?q=%22640+x+480+pixels%22+tv+site%3Ahttps%3A%2F%2Ficecat.biz) or [productz](https://www.google.com/search?q=%22Resolution+640,480%22+tv+site%3Ahttps%3A%2F%2Fproductz.com) websites.
 
@@ -64,15 +64,15 @@ Feel free to contact me [@gingerbeardman](https://twitter.com/gingerbeardman) on
 
 | BRAND | MODEL | REGION | CHASSIS | IPS | SCALER | 240P | INPUT | YEAR |
 | --- | --- | --- | --- | :---: | --- | :---: | --- | --- |
-| Philips | [20PF4121](https://www.philips.co.uk/c-p/20PF4121_05/4000-series-20-inch-lcd) | EU | LC4.1E | Y | Genesis | Y | DVI | 2006 |
-| Philips | [20PF5121](https://www.philips.co.uk/c-p/20PF5121_01/5000-series-20-inch-lcd) | EU | LC4.1E | Y | Genesis | Y | DVI | 2006 |
-| Philips | [20HF5474](https://www.philips.co.uk/c-p/20HF5474_10/20-inch-lcd) | EU | LC4.1HE | Y | Genesis | Y | DVI | 2006 |
-| Philips | [20PF4110](https://www.philips.co.uk/c-p/20PF4110_01/20-inch-lcd) | EU | LC4.1E | Y | Genesis | Y | DVI | 2005 |
-| Philips | [20HF5473](https://www.philips.co.uk/c-p/20HF5473_10/-) | EU | LC4.1E | Y | Genesis | Y | DVI | 2005 |
-| LG | [RZ-20LA90](https://www.lg.com/uk/support/product/lg-RZ-20LA90) | EU | ML-041B | Y | Genesis | Y | VGA | 2005 |
-| Philips | [20FT3310](https://www.usa.philips.com/c-p/20FT3310_37/-) | USA | LC4.1HU | Y | Genesis | Y | VGA | 2004 |
-| Philips | [20FT3220](https://www.usa.philips.com/c-p/20FT3220_37/-) | USA | LC4.1HU | Y | Genesis | Y | VGA | 2004 |
-| Philips | [20PF8946](https://www.usa.philips.com/c-p/20PF8946_37/51-cm-20-inch-lcd) | USA | LC4.1U/A | Y | Genesis | Y | VGA | 2004 |
+| Philips | 20PF4121 | EU | LC4.1E | Y | Genesis | Y | DVI | 2006 |
+| Philips | 20PF5121 | EU | LC4.1E | Y | Genesis | Y | DVI | 2006 |
+| Philips | 20HF5474 | EU | LC4.1HE | Y | Genesis | Y | DVI | 2006 |
+| Philips | 20PF4110 | EU | LC4.1E | Y | Genesis | Y | DVI | 2005 |
+| Philips | 20HF5473 | EU | LC4.1E | Y | Genesis | Y | DVI | 2005 |
+| LG | RZ-20LA90 | EU | ML-041B | Y | Genesis | Y | VGA | 2005 |
+| Philips | 20FT3310 | USA | LC4.1HU | Y | Genesis | Y | VGA | 2004 |
+| Philips | 20FT3220 | USA | LC4.1HU | Y | Genesis | Y | VGA | 2004 |
+| Philips | 20PF8946 | USA | LC4.1U/A | Y | Genesis | Y | VGA | 2004 |
 
 ## Photos
 
