@@ -57,7 +57,7 @@ Places to get this info are: photos of spare parts, specification brochure, serv
 Feel free to contact me [@gingerbeardman](https://twitter.com/gingerbeardman) on twitter with details of your buying choice and experiences and I'll be sure to update the spreadsheet.
 
 |BRAND  |MODEL    |REGION|CHASSIS       |IPS|SCALER |240P|INPUT|YEAR|
-|-------|---------|------|--------------|---|-------|----|-----|----|
+|-------|---------|------|--------------|:-:|-------|:--:|-----|----|
 |Philips|20PF4121 |EU    |LC4.1E        |Y  |Genesis|Y   |DVI  |2006|
 |Philips|20PF4110 |EU    |LC4.1E        |Y  |Genesis|Y   |DVI  |2005|
 |Philips|20PF5121 |EU    |Scaler/PCB    |Y  |Genesis|Y   |DVI  |2006|
