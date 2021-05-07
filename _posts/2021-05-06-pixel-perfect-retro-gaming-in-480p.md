@@ -24,7 +24,7 @@ What we need is a display with a native resolution of 480p. Do such things exist
 
 ## LCD 480p EDTVs
 
-For a handful of years I've been using a 20" LCD 480p EDTV which offers great support for 240p and 480p with zero scaling. These types of TVs mean you get pixel-perfect (1:1 PAR) results for Wii/GC, Dreamcast, Xbox, Xbox 360, PS3/2/1 and for lower resolutions you get the output in the centre of the display, for example Mega Drive (Genesis) is 320×224px maps doubled to 640×448 and sits neatly in the centre of the display with small black bars top and bottom. RetroArch users will be very familiar with this kind of pixel mapping. Seeing the Wii on this kind of display is a real shock and quite amazing.
+For a handful of years I've been using a 20" LCD 480p EDTV which offers great support for 240p and 480p with zero scaling. These types of TVs mean you get pixel-perfect (1:1 PAR) results for Wii/GC, Dreamcast, Xbox, Xbox 360, PS3/2/1 and for lower resolutions you get the output in the centre of the display, for example Mega Drive (Genesis) is 320×224px maps doubled to 640×448px and sits neatly in the centre of the display with small black bars top and bottom. RetroArch users will be very familiar with this kind of pixel mapping. Seeing the Wii on this kind of display is a real shock and quite amazing.
 
 In fact I use my modern emulation PC at 640×480p using a DisplayPort to VGA adapter. This gives me perfect video output from RetroArch for everything up to and including 480p, which covers what I consider the golden period of arcade and console gaming. On occasion I've run some PC software (Dolphin emulator, Richard Burns Really) at much higher resolutions and downscaled to 640×480—a process called supersampling which gives great, smooth results.
 
