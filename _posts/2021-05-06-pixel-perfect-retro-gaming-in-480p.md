@@ -48,13 +48,13 @@ I'm yet to find a 16:9 aspect 480p TV with PC input. Though I continue to look f
 
 When looking for one of these you need to check the following:
 
-* DVI or VGA connector?  
+* **DVI or VGA connector?**  
   _quick check: specification brochure  
   long check: take a look physically_
-* IPS panel?  
+* **IPS panel?**  
   _quick check: spec brochure, viewing angle \~178 degrees  
   long check: service manual parts list, check panel part number manually_
-* Genesis Logic scaler?  
+* **Genesis Logic scaler?**  
   _quick check: parts list or PCB photo  
   long check: check PCB manually_
 
