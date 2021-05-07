@@ -24,11 +24,11 @@ What we need is a display with a native resolution of 480p. Do such things exist
 
 ## LCD 480p EDTVs
 
-For a handful of years I've been using a 20" LCD 480p EDTV which offers great support for 240p and 480p with zero scaling. These types of TVs mean you get pixel-perfect (1:1 PAR) results for Wii/GC, Dreamcast, Xbox, Xbox 360, PS3/2/1 and for lower resolutions you get the output in the centre of the display, for example Mega Drive (Genesis) is 320×224px maps doubled to 640×448px and sits neatly in the centre of the display with small black bars top and bottom. RetroArch users will be very familiar with this kind of pixel mapping. Seeing the Wii on this kind of display is a real shock and quite amazing.
+For a handful of years I've been using a 20" LCD 480p EDTV which offers great support for 240p and 480p with zero scaling. These types of TVs mean you get pixel-perfect (1:1 PAR) results for Wii/GC, Dreamcast, Xbox, Xbox 360, PS3/2/1 and for lower resolutions you get the output in the centre of the display, for example Mega Drive (Genesis) is 320×224px maps 640×448px and sits neatly in the centre of the display with small black bars top and bottom. RetroArch users will be very familiar with this kind of pixel mapping technique. Seeing the Wii on this kind of display is a real shock and quite amazing.
 
 In fact I use my modern emulation PC at 640×480p using a DisplayPort to VGA adapter. This gives me perfect video output from RetroArch for everything up to and including 480p, which covers what I consider the golden period of arcade and console gaming. On occasion I've run some PC software (Dolphin emulator, Richard Burns Really) at much higher resolutions and downscaled to 640×480—a process called supersampling which gives great, smooth results.
 
-The pixel density of a 20" IPS panel like this is such that the sub-pixel gaps look a little like an aperture grille. Adding a 640x480 pixel scan-line overlay in RetroArch brings me very close to the look of my PVM but with a display that is much easier to manage.
+The pixel density of a 20" IPS panel like this is such that the sub-pixel gaps look a little like an aperture grille. Adding a 640×480px scan-line overlay image in RetroArch brings me very close to the look of my PVM but with a display that is much easier to manage. That said, CRT emulation isn't really the goal here—we just want a display that is able to display these low resolutions without any scaling.
 
 The 480p EDTV also proves unremarkable to my wife, I guess because unlike my PVM it doesn't like a microwave, which means it can happily live in the lounge.
 
