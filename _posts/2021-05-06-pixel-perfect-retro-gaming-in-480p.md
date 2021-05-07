@@ -56,7 +56,7 @@ When looking for one of these you need to check the following:
   - _long check: service manual parts list, check panel part number manually_
 * **Genesis Logic scaler?**
   - _quick check: parts list or PCB photo_
-  - _long check: check PCB manually_
+  - _long check: check PCB manually, feed it a 240p signal_
 
 Places to get this info are: photos of spare parts, specification brochure, service manual parts list. It's useful to cross-reference LCD panel numbers on [panelook.com](https://www.panelook.com/modelsearch.php?keyword=LC201V02) and browse for 480p EDTVs using the [icecat](https://www.google.com/search?q=%22640+x+480+pixels%22+tv+site%3Ahttps%3A%2F%2Ficecat.biz) or [productz](https://www.google.com/search?q=%22Resolution+640,480%22+tv+site%3Ahttps%3A%2F%2Fproductz.com) websites.
 
