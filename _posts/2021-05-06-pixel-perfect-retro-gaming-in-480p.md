@@ -48,15 +48,15 @@ I'm yet to find a 16:9 aspect LCD 480p EDTV with PC input. Though I continue to 
 
 When looking for one of these you need to check the following:
 
-* **DVI or VGA connector?**<br>
-  _quick check: specification brochure<br>
-  long check: take a look physically_
-* **IPS panel?**<br>
-  _quick check: spec brochure, viewing angle \~178 degrees<br>
-  long check: service manual parts list, check panel part number manually_
-* **Genesis Logic scaler?**<br>
-  _quick check: parts list or PCB photo<br>
-  long check: check PCB manually_
+* **DVI or VGA connector?**
+  - _quick check: specification brochure_
+  - _long check: take a look physically_
+* **IPS panel?**
+  - _quick check: spec brochure, viewing angle \~178 degrees_
+  - _long check: service manual parts list, check panel part number manually_
+* **Genesis Logic scaler?**
+  - _quick check: parts list or PCB photo_
+  - _long check: check PCB manually_
 
 Places to get this info are: photos of spare parts, specification brochure, service manual parts list. It's useful to cross-reference LCD panel numbers on [panelook.com](https://www.panelook.com/modelsearch.php?keyword=LC201V02) and browse for 480p EDTVs using the [icecat](https://www.google.com/search?q=%22640+x+480+pixels%22+tv+site%3Ahttps%3A%2F%2Ficecat.biz) or [productz](https://www.google.com/search?q=%22Resolution+640,480%22+tv+site%3Ahttps%3A%2F%2Fproductz.com) websites.
 
