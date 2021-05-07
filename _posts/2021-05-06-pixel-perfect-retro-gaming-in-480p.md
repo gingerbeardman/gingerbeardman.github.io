@@ -40,7 +40,7 @@ Connections: you want to use DVI and whatever adaptors you need to get your sign
 
 Notes: some other manufacturers used the same LG/Philips IPS panel. Be aware that Sharp used their own panel technology, and Samsung used a different panel again, neither of which are IPS and so not as good. Sharp also use their own scaler hardware which is not as good as the scaler in my Philips. Scalers my MStar as used in certain EDTVs do not support 240p.
 
-I'm yet to find a 16:9 aspect 480p TV with PC input. Though I continue to look for one!
+I'm yet to find a 16:9 aspect LCD 480p EDTV with PC input. Though I continue to look for one!
 
 ## The Hit List
 
