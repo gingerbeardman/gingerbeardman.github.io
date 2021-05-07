@@ -56,17 +56,17 @@ Places to get this info are: photos of spare parts, specification brochure, serv
 
 Feel free to contact me [@gingerbeardman](https://twitter.com/gingerbeardman) on twitter with details of your buying choice and experiences and I'll be sure to update the spreadsheet.
 
-|BRAND  |MODEL    |REGION|CHASSIS       |IPS|SCALER |240P|INPUT|YEAR|
-|-------|---------|------|--------------|:-:|-------|:--:|-----|----|
-|Philips|20PF4121 |EU    |LC4.1E        |Y  |Genesis|Y   |DVI  |2006|
-|Philips|20PF4110 |EU    |LC4.1E        |Y  |Genesis|Y   |DVI  |2005|
-|Philips|20PF5121 |EU    |Scaler/PCB    |Y  |Genesis|Y   |DVI  |2006|
-|LG     |RZ-20LA90|EU    |ML-041B       |Y  |Genesis|Y   |VGA  |2005|
-|Philips|20FT3310 |USA   |LC4.1HU       |Y  |Genesis|Y   |VGA  |2004|
-|Philips|20FT3220 |USA   |LC4.1HU       |Y  |Genesis|Y   |VGA  |2004|
-|Philips|20PF8946 |USA   |LC4.1U, LC4.1A|Y  |Genesis|Y   |VGA  |2004|
-|Philips|20HF5474 |EU    |LC4.1HE       |Y  |Genesis|Y   |DVI  |2009|
-|Philips|20HF5473 |EU    |LC4.1E        |Y  |Genesis|Y   |DVI  |2005|
+|BRAND  |MODEL    |REGION|CHASSIS    |IPS|SCALER |240P|INPUT|YEAR|
+|-------|---------|------|-----------|:-:|-------|:--:|-----|----|
+|Philips|20PF4121 |EU    |LC4.1E     |Y  |Genesis|Y   |DVI  |2006|
+|Philips|20PF4110 |EU    |LC4.1E     |Y  |Genesis|Y   |DVI  |2005|
+|Philips|20PF5121 |EU    |Scaler/PCB |Y  |Genesis|Y   |DVI  |2006|
+|LG     |RZ-20LA90|EU    |ML-041B    |Y  |Genesis|Y   |VGA  |2005|
+|Philips|20FT3310 |USA   |LC4.1HU    |Y  |Genesis|Y   |VGA  |2004|
+|Philips|20FT3220 |USA   |LC4.1HU    |Y  |Genesis|Y   |VGA  |2004|
+|Philips|20PF8946 |USA   |LC4.1U/A   |Y  |Genesis|Y   |VGA  |2004|
+|Philips|20HF5474 |EU    |LC4.1HE    |Y  |Genesis|Y   |DVI  |2009|
+|Philips|20HF5473 |EU    |LC4.1E     |Y  |Genesis|Y   |DVI  |2005|
 
 ## Photos
 
