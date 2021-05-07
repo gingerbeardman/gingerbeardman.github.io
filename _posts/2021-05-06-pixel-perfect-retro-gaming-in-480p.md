@@ -62,12 +62,12 @@ Feel free to contact me [@gingerbeardman](https://twitter.com/gingerbeardman) on
 | Philips | 20PF4110 | EU | LC4.1E | Y | Genesis | Y | DVI | 2005 | link | link |  | see USA models |
 | Philips | 20PF5121 | EU | LC4.1E | Y | Genesis | Y | DVI | 2006 | link | link |  |  |
 | LG | RZ-20LA90 | EU | ML-041B | Y | Genesis | Y | VGA | 2005 | link | link | link |  |
-| Philips | 20FT3310 | USA |  | Y | Genesis | Y | VGA |  | link | link |  | Scaler/PCB |
-| Philips | 20FT3220 | USA |  | Y | Genesis | Y | VGA |  | link | link |  | Scaler/PCB |
-| Philips | 20PF8846 | EU |  | ? | Genesis | Y | VGA? | 2004 | link | link |  | Some have VGA, others do not |
+| Philips | 20FT3310 | USA | ? | Y | Genesis | Y | VGA |  | link | link |  | Scaler/PCB |
+| Philips | 20FT3220 | USA | ? | Y | Genesis | Y | VGA |  | link | link |  | Scaler/PCB |
+| Philips | 20PF8846 | EU | ? | ? | Genesis | Y | VGA? | 2004 | link | link |  | Some have VGA, others do not |
 | Philips | 20PF8946 | USA | LC4.1U/A | Y | Genesis | Y | VGA | 2004 | link | link | https://elektrotanya.com/philips_lc4.1l-aa_chassis_20pf8946-78_23pf5321-78_23pf8946-78_23pf8946m-78_sm.pdf/download.html | Scaler/PCB, IPS/Service |
-| Philips | 20HF5474 | EU |  | Y |  |  | DVI | 2009 | link |  |  |  |
-| Philips | 20HF5473 | EU |  |  |  |  | DVI | 2005 | link |  |  |  |
+| Philips | 20HF5474 | EU | ? | Y | ? | ? | DVI | 2009 | link |  |  |  |
+| Philips | 20HF5473 | EU | ? | ? | ? | ? | DVI | 2005 | link |  |  |  |
 
 ## Photos
 
