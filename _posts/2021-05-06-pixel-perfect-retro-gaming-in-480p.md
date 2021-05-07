@@ -48,14 +48,14 @@ I'm yet to find a 16:9 aspect 480p TV with PC input. Though I continue to look f
 
 When looking for one of these you need to check the following:
 
-* **DVI or VGA connector?**  
-  _quick check: specification brochure  
+* **DVI or VGA connector?**
+  _quick check: specification brochure
   long check: take a look physically_
-* **IPS panel?**  
-  _quick check: spec brochure, viewing angle \~178 degrees  
+* **IPS panel?**
+  _quick check: spec brochure, viewing angle \~178 degrees
   long check: service manual parts list, check panel part number manually_
-* **Genesis Logic scaler?**  
-  _quick check: parts list or PCB photo  
+* **Genesis Logic scaler?**
+  _quick check: parts list or PCB photo
   long check: check PCB manually_
 
 Places to get this info are: photos of spare parts, specification brochure, service manual parts list. It's useful to cross-reference LCD panel numbers on [panelook.com](https://www.panelook.com/modelsearch.php?keyword=LC201V02) and browse for 480p EDTVs using the [icecat](https://www.google.com/search?q=%22640+x+480+pixels%22+tv+site%3Ahttps%3A%2F%2Ficecat.biz) or [productz](https://www.google.com/search?q=%22Resolution+640,480%22+tv+site%3Ahttps%3A%2F%2Fproductz.com) websites.
@@ -64,15 +64,15 @@ Feel free to contact me [@gingerbeardman](https://twitter.com/gingerbeardman) on
 
 | BRAND | MODEL | REGION | CHASSIS | IPS | SCALER | 240P | INPUT | YEAR |
 | --- | --- | --- | --- | :---: | --- | :---: | --- | --- |
-| Philips | 20PF4121 | EU | LC4.1E | Y | Genesis | Y | DVI | 2006 |
-| Philips | 20PF5121 | EU | LC4.1E | Y | Genesis | Y | DVI | 2006 |
-| Philips | 20HF5474 | EU | LC4.1HE | Y | Genesis | Y | DVI | 2006 |
-| Philips | 20PF4110 | EU | LC4.1E | Y | Genesis | Y | DVI | 2005 |
-| Philips | 20HF5473 | EU | LC4.1E | Y | Genesis | Y | DVI | 2005 |
-| LG | RZ-20LA90 | EU | ML-041B | Y | Genesis | Y | VGA | 2005 |
-| Philips | 20FT3310 | USA | LC4.1HU | Y | Genesis | Y | VGA | 2004 |
-| Philips | 20FT3220 | USA | LC4.1HU | Y | Genesis | Y | VGA | 2004 |
-| Philips | 20PF8946 | USA | LC4.1U/A | Y | Genesis | Y | VGA | 2004 |
+| Philips | [20PF4121](https://www.philips.co.uk/c-p/20PF4121_05/4000-series-20-inch-lcd) | EU | LC4.1E | Y | Genesis | Y | DVI | 2006 |
+| Philips | [20PF5121](https://www.philips.co.uk/c-p/20PF5121_01/5000-series-20-inch-lcd) | EU | LC4.1E | Y | Genesis | Y | DVI | 2006 |
+| Philips | [20HF5474](https://www.philips.co.uk/c-p/20HF5474_10/20-inch-lcd) | EU | LC4.1HE | Y | Genesis | Y | DVI | 2006 |
+| Philips | [20PF4110](https://www.philips.co.uk/c-p/20PF4110_01/20-inch-lcd) | EU | LC4.1E | Y | Genesis | Y | DVI | 2005 |
+| Philips | [20HF5473](https://www.philips.co.uk/c-p/20HF5473_10/-) | EU | LC4.1E | Y | Genesis | Y | DVI | 2005 |
+| LG | [RZ-20LA90](https://www.lg.com/uk/support/product/lg-RZ-20LA90) | EU | ML-041B | Y | Genesis | Y | VGA | 2005 |
+| Philips | [20FT3310](https://www.usa.philips.com/c-p/20FT3310_37/-) | USA | LC4.1HU | Y | Genesis | Y | VGA | 2004 |
+| Philips | [20FT3220](https://www.usa.philips.com/c-p/20FT3220_37/-) | USA | LC4.1HU | Y | Genesis | Y | VGA | 2004 |
+| Philips | [20PF8946](https://www.usa.philips.com/c-p/20PF8946_37/51-cm-20-inch-lcd) | USA | LC4.1U/A | Y | Genesis | Y | VGA | 2004 |
 
 ## Photos
 
