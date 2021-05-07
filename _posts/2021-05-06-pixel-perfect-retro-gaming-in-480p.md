@@ -42,7 +42,7 @@ Notes: some other manufacturers used the same LG/Philips IPS panel. Be aware tha
 
 I'm yet to find a 16:9 aspect 480p TV with PC input. Though I continue to look for one!
 
-## The EDTV Hit List
+## The Hit List
 
 [Here's a Google Docs spreadsheet](https://docs.google.com/spreadsheets/d/1HOEvXkjMTum_Vd1CJ0RrpvgH0a_Uo0zJc9RwUtfZVZ0/edit?usp=sharing) that should help you find a suitable LCD 480p EDTV. The top and most well-tested EDTVs from that list are displayed in the smaller table below.
 
