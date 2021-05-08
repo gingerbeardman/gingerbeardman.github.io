@@ -44,7 +44,8 @@ I plan to add these changes into my own fork of the code. Soon, I promise!
 
 ### Possible build errors
 
-Error mentioning `pointerInteraction`. This is because of a missing `#ifdef`, so add one around the if statement at [line 82 in B2ViewController.mm](zydeco/macemu@eb8d0a7/BasiliskII/src/iOS/BasiliskII/B2ViewController.mm#L82-L85):
+**Error mentioning `pointerInteraction`**  
+This is because of a missing `#ifdef`, so add one around the if statement at [line 82 in B2ViewController.mm](zydeco/macemu@eb8d0a7/BasiliskII/src/iOS/BasiliskII/B2ViewController.mm#L82-L85):
 
     #ifdef __IPHONE_13_4
         if (@available(iOS 13.4, *)) {
@@ -52,6 +53,9 @@ Error mentioning `pointerInteraction`. This is because of a missing `#ifdef`, so
             [pointingDeviceView addInteraction:pointerInteraction];
         }
     #endif
+
+**Error mentioning `qemu`  
+**I've seen this error on macOS 11 Big Sur with Xcode 12. The crux is that the code as it stands will only build with Xcode 11 (the last version was 11.7) so be sure to use that.
 
 ### Adding chunky screen resolutions
 
