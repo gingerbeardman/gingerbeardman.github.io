@@ -46,6 +46,18 @@ I'm yet to find a 16:9 aspect LCD 480p EDTV with PC input. Though I continue to 
 
 [Here's a Google Docs spreadsheet](https://docs.google.com/spreadsheets/d/1HOEvXkjMTum_Vd1CJ0RrpvgH0a_Uo0zJc9RwUtfZVZ0/edit?usp=sharing) that should help you find a suitable LCD 480p EDTV. The top and most well-tested EDTVs from that list are displayed in the smaller table below.
 
+| BRAND | MODEL | REGION | CHASSIS | IPS | SCALER | 240P | INPUT | YEAR |
+| --- | --- | --- | --- | :---: | --- | :---: | --- | --- |
+| Philips | 20PF4121 | EU | LC4.1E | Y | Genesis | Y | DVI | 2006 |
+| Philips | 20PF5121 | EU | LC4.1E | Y | Genesis | Y | DVI | 2006 |
+| Philips | 20HF5474 | EU | LC4.1HE | Y | Genesis | Y | DVI | 2006 |
+| Philips | 20PF4110 | EU | LC4.1E | Y | Genesis | Y | DVI | 2005 |
+| Philips | 20HF5473 | EU | LC4.1E | Y | Genesis | Y | DVI | 2005 |
+| LG | RZ-20LA90 | EU | ML-041B | Y | Genesis | Y | VGA | 2005 |
+| Philips | 20FT3310 | USA | LC4.1HU | Y | Genesis | Y | VGA | 2004 |
+| Philips | 20FT3220 | USA | LC4.1HU | Y | Genesis | Y | VGA | 2004 |
+| Philips | 20PF8946 | USA | LC4.1U/A | Y | Genesis | Y | VGA | 2004 |
+
 When looking for one of these you need to check the following:
 
 * **DVI or VGA connector?**
@@ -61,18 +73,6 @@ When looking for one of these you need to check the following:
 Places to get this info are: photos of spare parts, specification brochure, service manual parts list. It's useful to cross-reference LCD panel numbers on [panelook.com](https://www.panelook.com/modelsearch.php?keyword=LC201V02) and browse for 480p EDTVs using the [icecat](https://www.google.com/search?q=%22640+x+480+pixels%22+tv+site%3Ahttps%3A%2F%2Ficecat.biz) or [productz](https://www.google.com/search?q=%22Resolution+640,480%22+tv+site%3Ahttps%3A%2F%2Fproductz.com) websites.
 
 Feel free to contact me [@gingerbeardman](https://twitter.com/gingerbeardman) on twitter with details of your buying choice and experiences and I'll be sure to update the spreadsheet.
-
-| BRAND | MODEL | REGION | CHASSIS | IPS | SCALER | 240P | INPUT | YEAR |
-| --- | --- | --- | --- | :---: | --- | :---: | --- | --- |
-| Philips | 20PF4121 | EU | LC4.1E | Y | Genesis | Y | DVI | 2006 |
-| Philips | 20PF5121 | EU | LC4.1E | Y | Genesis | Y | DVI | 2006 |
-| Philips | 20HF5474 | EU | LC4.1HE | Y | Genesis | Y | DVI | 2006 |
-| Philips | 20PF4110 | EU | LC4.1E | Y | Genesis | Y | DVI | 2005 |
-| Philips | 20HF5473 | EU | LC4.1E | Y | Genesis | Y | DVI | 2005 |
-| LG | RZ-20LA90 | EU | ML-041B | Y | Genesis | Y | VGA | 2005 |
-| Philips | 20FT3310 | USA | LC4.1HU | Y | Genesis | Y | VGA | 2004 |
-| Philips | 20FT3220 | USA | LC4.1HU | Y | Genesis | Y | VGA | 2004 |
-| Philips | 20PF8946 | USA | LC4.1U/A | Y | Genesis | Y | VGA | 2004 |
 
 ## Photos
 
