@@ -84,17 +84,17 @@ I also use the [#20PF4121 tag on Instagram](https://www.instagram.com/explore/ta
 
 The goal is to get the video output from your console into VGA or DVI. Specifically for PC input we need the DVI-A (Analogue), rather than DVD-D (Digital).
 
-Straight VGA cable
+**Straight VGA cable**
 - Dreamcast
 - Xbox 360
 - Xbox
 
-Component cable to VGA/DVI adapter (analogue pass-through)
+**Component cable to VGA/DVI adapter** (analogue pass-through)
   - Wii
   - GameCube
   - PS3/2 (and PS1 via backwards compatibility)
 
-- HDMI/DisplayPort/Thunderbolt to VGA/DVI (digital to analogue conversion)
+**HDMI/DisplayPort/Thunderbolt to VGA/DVI** (digital to analogue conversion)
   - Xbox One
   - Wii U
   - PS4
