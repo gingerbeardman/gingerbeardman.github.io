@@ -79,3 +79,31 @@ Feel free to contact me [@gingerbeardman](https://twitter.com/gingerbeardman) on
 I also use the [#20PF4121 tag on Instagram](https://www.instagram.com/explore/tags/20pf4121/) to share photos and video footage.
 
 {% include carousel.html height="82" unit="%" duration="7" %}
+
+## Connections
+
+The goal is to get the video output from your console into VGA or DVI. Specifically for PC input we need the DVI-A (Analogue), rather than DVD-D (Digital).
+
+Straight VGA cable
+- Dreamcast
+- Xbox 360
+- Xbox
+
+Component cable to VGA/DVI adapter (analogue pass-through)
+  - Wii
+  - GameCube
+  - PS3/2 (and PS1 via backwards compatibility)
+
+- HDMI/DisplayPort/Thunderbolt to VGA/DVI (digital to analogue conversion)
+  - Xbox One
+  - Wii U
+  - PS4
+  - Mac
+  - PC
+  - Other consoles using a HDMI adapter
+
+## Deinterlacing
+
+To improve deinterlacing for 480i content (eg. PS2) you might consider using a scaler that has motion adaptive deinterlacing and good 480p output, such as [GBS-Control](https://github.com/ramapcsx2/gbs-control).
+
+A scaler such as the Extron DVS 304 is useful when using a VGA KVM as it will align the position of all different inputs so that you will not have to do Auto Adjust on the EDTV to centre the display when switching from console to console.
