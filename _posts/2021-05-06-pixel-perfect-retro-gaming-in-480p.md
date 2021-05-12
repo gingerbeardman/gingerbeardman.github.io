@@ -88,6 +88,7 @@ The goal is to get the video output from your console into VGA or DVI. Specifica
 - Dreamcast
 - Xbox 360
 - Xbox
+- Vintage Mac/PC
 
 **Component cable to VGA/DVI adapter** (analogue pass-through)
   - Wii
