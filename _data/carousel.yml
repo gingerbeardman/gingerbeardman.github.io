@@ -48,3 +48,11 @@ pixel-perfect-480p-edtv:
   - image: /images/posts/pixel-perfect-480p-edtv-3.jpg
   - image: /images/posts/pixel-perfect-480p-edtv-4.jpg
   - image: /images/posts/pixel-perfect-480p-edtv-5.jpg
+
+prerendered-shadows:
+  - image: /images/posts/daily-driver-prerendered-shadows-old.png
+  - image: /images/posts/daily-driver-prerendered-shadows-new.png
+
+prerendered-sprites:
+  - image: /images/posts/daily-driver-prerendered-sprites-old.png
+  - image: /images/posts/daily-driver-prerendered-sprites-new.png
