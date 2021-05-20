@@ -1,12 +1,18 @@
 ---
 layout: post
 title: 'Daily Driver: Pre-rendering Ranger'
-tags: [dailydriver, playdate, graphics, cars]
-nouns: [OpenSCAD, Daily Driver]
+tags:
+- dailydriver
+- playdate
+- graphics
+- cars
+nouns:
+- OpenSCAD
+- Daily Driver
 carousel: prerendered-shadows
----
 
-Since very early on shadows in Daily Driver have just been simple rectangles: one sized fits all, rendered from a single 3D model, and post-processed to add dithering. MPV, you know? Over time I decided to do multiple shadows, one each for short cars and long cars.
+---
+Since very early on shadows in Daily Driver have just been simple rectangles: one size fits all, rendered from a single 3D model, and post-processed to add dithering. MPV, you know? Over time I decided to do multiple shadows, one each for short cars and long cars.
 
 Sometime later I threw caution to the wind and decided to render per-car shadows. However, the OpenSCAD `projection()` command that I was using was so slow! In fact it zapped my desire to finish implementing the feature. Instead, I let it sit for many months.
 
@@ -23,4 +29,4 @@ Result!
 
 {% include carousel.html height="82" unit="%" duration="7" %}
 
-*[MVP]: Minimum Viable Product
+\*\[MVP\]: Minimum Viable Product
