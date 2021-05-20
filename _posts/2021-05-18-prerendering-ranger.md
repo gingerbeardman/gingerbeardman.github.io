@@ -16,7 +16,7 @@ Since very early on shadows in Daily Driver have just been simple rectangles: on
 
 Sometime later I threw caution to the wind and decided to render per-car shadows. However, the OpenSCAD `projection()` command that I was using was so slow! In fact it zapped my desire to finish implementing the feature. Instead, I let it sit for many months.
 
-Recently, I picked things up again to get the a new trailer and demo out. And then it hit me, that if I flatten a car on the z-axis—as if Looney Tunes dropped a heavy weight on it—then that flat thing will be enough of an equivalent to a shadow for my use. So I did just that and the results were great, and more importantly very quick to render!
+Recently, I picked things up again to get the a new trailer and demo out. And then it hit me, that if I flatten a car on the z-axis—as if Looney Tunes dropped a heavy weight on it—then that flat thing will be a close enough equivalent of a shadow for my use. So I did just that and the results were great, and more importantly very quick to render!
 
 ![GIF](/images/posts/daily-driver-prerendered-shadows-anim.gif "Animation showing the theory of a model being squished down into its shadow")
 {:.tofigure}
