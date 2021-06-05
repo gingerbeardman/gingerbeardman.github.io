@@ -33,9 +33,11 @@ From this simple start I always find that building imagemagick commands a very t
 Overall, I did a few more tricks:
 - threshold convert the channels to 1-bit colour
 - apply a dither pattern to the green channel
-- composite the three layers back together as the final image
+- composite select layers back together as the final image
 
-The final process worked a treat! Here are some example hi-res images showing the the steps from initial render to final composited image:
+The final process worked a treat!
+
+Here are some example hi-res images showing the the steps from initial render to final composited image:
 
 ![PNG](/images/posts/daily-driver-rgb-1bit-1-render.png "Render, 8-bit colour")
 {:.tofigure}
