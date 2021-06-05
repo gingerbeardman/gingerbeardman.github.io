@@ -9,7 +9,8 @@ tags:
 nouns:
 - Makefile
 - imagemagick
-image: /images/posts/daily-driver-rgb-1bit-1-render.png
+image: "/images/posts/daily-driver-rgb-1bit-1-render.png"
+
 ---
 After successfully splitting out dark and light elements of the sprites and rendering them in a HDR style, I figured: why stop there? Maybe I could squeeze another colour into the render - some specific shade of grey - that I could treat in a different way to introduce dithered areas to the sprite.
 
@@ -28,12 +29,13 @@ Using imagemagick it is easy to separate a single channel from an image:
 
     magick render.png -channel G -separate green.png
 
-From this simple start I always find that building imagemagick commands a very time consuming process. Indeed, it took me a long time to get a result that worked well. But I think of it as time well-spent as it will result in much quicker and easier iterations when designing vehicles.
+From this simple start I always find that building imagemagick commands a very time consuming process. Indeed, it took me a long time to get a result that was just right. But I think of it as time well-spent as it will result in much quicker and easier iterations when designing vehicles.
 
 Overall, I did a few more tricks:
-- threshold convert the channels to 1-bit colour
-- apply a dither pattern to the green channel
-- composite select layers back together as the final image
+
+* threshold convert the channels to 1-bit colour
+* apply a dither pattern to the green channel
+* composite select layers back together as the final image
 
 The final process worked a treat!
 
