@@ -29,7 +29,7 @@ Using imagemagick it is easy to separate a single channel from an image:
 
     magick render.png -channel G -separate green.png
 
-From this simple start I always find that building imagemagick commands a very time consuming process. Indeed, it took me a long time to get a result that was just right. But I think of it as time well-spent as it will result in much quicker and easier iterations when designing vehicles.
+From this simple start things quickly become more complex. I always find building imagemagick commands a very time consuming process. Indeed, it took me a long time to get a result that was just right. But I think of it as time well-spent as it will result in much quicker and easier iterations when designing vehicles.
 
 Overall, I did a few more tricks:
 
