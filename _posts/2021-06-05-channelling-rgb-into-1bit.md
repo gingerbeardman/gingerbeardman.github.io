@@ -37,7 +37,7 @@ Overall, I did a few more tricks:
 * apply a dither pattern to the green channel
 * composite select layers back together as the final image
 
-The final process worked a treat!
+And the process worked a treat!
 
 Here are some example hi-res images showing the the steps from initial render to final composited image:
 
