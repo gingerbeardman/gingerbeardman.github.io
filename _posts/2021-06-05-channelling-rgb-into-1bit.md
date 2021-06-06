@@ -37,11 +37,11 @@ Overall, I did a few more tricks:
 * apply a dither pattern to the green channel
 * composite select layers back together as the final image
 
-And the process worked a treat! 
+And the process worked a treat!
 
 The resulting workflow takes half as long to execute as my previous workflow, with all vehicles rendering in \~8 minutes compared to \~16 minutes before that.
 
-Here are some example hi-res images showing the the steps from initial render to final composite:
+Here are some example hi-res images showing the journey from initial render to final composite:
 
 ![PNG](/images/posts/daily-driver-rgb-1bit-1-render.png "Render, 8-bit colour")
 {:.tofigure}
