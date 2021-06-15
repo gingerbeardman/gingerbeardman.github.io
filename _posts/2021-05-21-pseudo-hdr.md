@@ -11,6 +11,7 @@ nouns:
 - Playdate
 - Makefile
 - HDR 1-bit rendering
+comments: https://twitter.com/gingerbeardman/status/1395782266509475840
 
 ---
 I love OpenSCAD "the programmer's solid 3D CAD modeller", despite its idiosyncrasies. One of the quirks that causes me most pain is the lack of controls for scene lighting in the Preview render. Unfortunately, I use that very Preview render as my main output!
