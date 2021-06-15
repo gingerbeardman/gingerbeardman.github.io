@@ -10,6 +10,7 @@ nouns:
 - Makefile
 - imagemagick
 image: "/images/posts/daily-driver-rgb-1bit-1-render.png"
+comments: https://twitter.com/gingerbeardman/status/1401212929240977413
 
 ---
 After successfully splitting out dark and light elements of the sprites and rendering them in a HDR style, I figured: why stop there? Maybe I could squeeze another colour into the render - some specific shade of grey - that I could treat in a different way to introduce dithered areas to the sprite.
