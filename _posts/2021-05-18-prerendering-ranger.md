@@ -10,6 +10,7 @@ nouns:
 - OpenSCAD
 - Daily Driver
 carousel: prerendered-shadows
+comments: https://twitter.com/gingerbeardman/status/1394985517708685314
 
 ---
 Since very early on shadows in Daily Driver have just been simple rectangles: one size fits all, rendered from a single 3D model, and post-processed to add dithering. MVP, you know? Over time I decided to do multiple shadows, one each for short cars and long cars.
