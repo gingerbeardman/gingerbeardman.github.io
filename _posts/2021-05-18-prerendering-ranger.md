@@ -30,4 +30,4 @@ Result!
 
 {% include carousel.html height="82" unit="%" duration="7" %}
 
-\*\[MVP\]: Minimum Viable Product
+*[MVP]: Minimum Viable Product
