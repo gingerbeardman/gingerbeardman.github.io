@@ -5,16 +5,28 @@ body.playdate {
     overflow-x: unset;
   }
 
+  *::selection {
+    background: $color-white;
+  }
+
+  a,
+  .tag-filter span,
+  .c-post-card__date,
+  .c-post-card__title,
+  .c-post-card .c-post-card__title,
+  .c-post-card .c-post-card__date,
   .c-post__date,
   .c-tags a {
     color: $color-text;
   }
 
   a:hover,
+  .c-post-card:hover,
+  .c-post-card__title:hover,
+  .c-post-card:hover .c-post-card__title,
   .c-tags a:hover {
     color: $color-white;
     background-color: transparent;
-    transition: none;
   }
 
   .c-logo__link span,
@@ -28,6 +40,7 @@ body.playdate {
     background-color: transparent;
   }
 
+  .c-post-card,
   .c-header__inner {
     border-color: $color-text;
   }

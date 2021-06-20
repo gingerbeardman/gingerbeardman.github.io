@@ -3,7 +3,7 @@
 
 {% include_cached head.html ptag=page.tag ptitle=page.title stitle=site.title sdescription=site.description pexcerpt=page.excerpt purl=page.url surl=site.url sbaseurl=site.baseurl sanalytics=site.google_analytics %}
 
-<body class="{% if page.tags contains 'playdate' %}playdate {% endif %}{% if page.tags contains 'macintosh' or page.tags contains 'system7' %}macintosh {% endif %}">
+<body class="{% if page.tags contains 'playdate' or page.tag contains 'playdate' or page.tag contains 'dailydriver' %}playdate {% endif %}{% if page.tags contains 'macintosh' or page.tags contains 'system7' %}macintosh {% endif %}">
 
   <div class='js-off-canvas-container c-off-canvas-container'>
     {% include_cached header.html sdescription=site.description sbaseurl=site.baseurl stitle=site.title shomepage=site.homepage sauthor=site.author %}
