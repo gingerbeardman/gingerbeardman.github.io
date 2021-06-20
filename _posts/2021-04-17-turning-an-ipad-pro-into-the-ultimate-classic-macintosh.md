@@ -117,7 +117,7 @@ This setup gives me the best of both old and new worlds, and that's why I refer 
 
 * Apple Pencil
 
-## Press
+## Elsewhere
 
 * 2021-03-29 — [The Mac Observer](https://www.macobserver.com/cool-stuff-found/emulating-mac-plus-ios/)
 * 2021-04-18 — [Hacker News](https://news.ycombinator.com/item?id=26854990)
