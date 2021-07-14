@@ -52,8 +52,8 @@ fullname=$(basename -- "$1")
 filename="${fullname%.*}"
 
 # extract cell size from filename
-regex=".*\-table\-([0-9]+)\-([0-9]+)"
-if [[ ${filename} =~ ${regex} ]]
+regex=".*\-table\-([0-9]+)\-([0-9]+)\.png"
+if [[ ${fullname} =~ ${regex} ]]
 then
 	W="${BASH_REMATCH[1]}"
 	H="${BASH_REMATCH[2]}"
@@ -68,15 +68,23 @@ magick identify -format "${filename}.gif: %n frames\n" "${filename}.gif" | head 
 
 ### Convert Animated GIF to image table
 
-[https://gist.github.com/gingerbeardman/15a8e1e72745848190c0e7d583ca24e1](https://gist.github.com/gingerbeardman/15a8e1e72745848190c0e7d583ca24e1)
+[https://gist.github.com/gingerbeardman/2a79913a883b2a675ce6a8004ebd8d4c](https://gist.github.com/gingerbeardman/2a79913a883b2a675ce6a8004ebd8d4c)
 
 ```sh
 # input file details
 fullname=$(basename -- "$1")
 filename="${fullname%.*}"
 
+# extract cell size from filename
+regex_table=".*\-table\-([0-9]+)\-([0-9]+)\.gif"
+if [[ ${fullname} =~ ${regex_table} ]]
+then
+	W="${BASH_REMATCH[1]}"
+	H="${BASH_REMATCH[2]}"
+fi
+
 # convert to image table PNG
-magick montage "$1" -tile 32x -geometry "1x1+0+0<" -alpha On -background transparent "${filename}.png"
+magick montage "$1" -geometry "1x1+0+0<" -alpha On -background transparent "${filename}.png"
 
 # output specifications
 magick identify -format "${filename}.png: %w x %h pixels\n" "${filename}.png"
