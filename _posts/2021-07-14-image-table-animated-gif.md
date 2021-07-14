@@ -10,17 +10,16 @@ nouns:
 - SDK
 - Daily Driver
 - imagemagick
-- image tables
 - matrix image tables
-- image table
 - matrix image table
 - Animated GIF
 - macOS
 - Makefile
+- image tables
+- image table
 comments: https://twitter.com/gingerbeardman/status/1415361340613484547
 
 ---
-
 When rendering my vehicles I generate a single PNG containing all frames. Playdate SDK calls these image tables, or more specifically matrix image tables. You could also call them sprite-sheets, with the one qualification that every sprite has the same dimensions.
 
 Given that these are plain old images they can be viewed easily. Showing a grid on top of the image makes the layout obvious. You can edit the image as a whole easily enough, but what if you want to adjust the size of every cell? Then we have a problem.
