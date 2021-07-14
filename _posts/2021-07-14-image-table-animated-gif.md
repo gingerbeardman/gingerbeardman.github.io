@@ -49,6 +49,7 @@ Below are both scripts, be sure to grab the Gist versions as they have error che
 ```sh
 # input file details
 fullname=$(basename -- "$1")
+extension="${fullname##*.}"
 filename="${fullname%.*}"
 
 # extract cell size from filename
@@ -60,10 +61,10 @@ then
 fi
 
 # convert to Animated GIF
-magick -dispose background -delay 1 -loop 0 $1 +repage -crop ${W}x${H} +repage ${filename}.gif
+magick -dispose background -delay 1 -loop 0 "$1" +repage -crop ${W}x${H} +repage "${filename}.gif"
 
 # output specifications
-magick identify -format "${filename}.gif: %n frames\n" ${filename}.gif
+magick identify -format "${filename}.gif: %n frames\n" "${filename}.gif" | head -1
 ```
 
 ### Convert Animated GIF to image table
@@ -73,11 +74,12 @@ magick identify -format "${filename}.gif: %n frames\n" ${filename}.gif
 ```sh
 # input file details
 fullname=$(basename -- "$1")
+extension="${fullname##*.}"
 filename="${fullname%.*}"
 
 # convert to image table PNG
-magick montage $1 -tile 32x -geometry '1x1+0+0<' -alpha On -background "rgba(0, 0, 0, 0.0)" ${filename}.png
+magick montage "$1" -tile 32x -geometry '1x1+0+0<' -alpha On -background transparent "${filename}.png"
 
 # output specifications
-magick identify -format "${filename}.png: %w x %h pixels\n" ${filename}.png
+magick identify -format "${filename}.png: %w x %h pixels\n" "${filename}.png"
 ```
