@@ -36,7 +36,7 @@ How can we convert a matrix image table to Animated GIF, and back again?
 
 We could use Piskel, but its GUI isn't the most straightforward so using it twice at separate points in the conversion process gets old fast.
 
-So I had the idea of writing a couple of small shell scripts that leverage imagemagick and can be run from my Makefile, the command-line, macOS context menu or all of the above.
+So I had the idea of writing a couple of small shell scripts that leverage imagemagick and can be run from my Makefile, the command-line, macOS context menu, or all of the above.
 
 ## Solution
 
