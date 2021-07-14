@@ -49,7 +49,6 @@ Below are both scripts, be sure to grab the Gist versions as they have error che
 ```sh
 # input file details
 fullname=$(basename -- "$1")
-extension="${fullname##*.}"
 filename="${fullname%.*}"
 
 # extract cell size from filename
@@ -74,7 +73,6 @@ magick identify -format "${filename}.gif: %n frames\n" "${filename}.gif" | head 
 ```sh
 # input file details
 fullname=$(basename -- "$1")
-extension="${fullname##*.}"
 filename="${fullname%.*}"
 
 # convert to image table PNG
