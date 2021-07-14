@@ -53,7 +53,7 @@ filename="${fullname%.*}"
 
 # extract cell size from filename
 regex=".*\-table\-([0-9]+)\-([0-9]+)"
-if [[ $filename =~ $regex ]]
+if [[ ${filename} =~ ${regex} ]]
 then
 	W="${BASH_REMATCH[1]}"
 	H="${BASH_REMATCH[2]}"
