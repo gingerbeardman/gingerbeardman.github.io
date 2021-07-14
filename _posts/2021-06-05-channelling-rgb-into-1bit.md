@@ -65,6 +65,6 @@ Here are some example hi-res images showing the journey from initial render to f
 ![PNG](/images/posts/daily-driver-rgb-1bit-7-composite.png "Final composite, 1-bit colour")
 {:.tofigure}
 
-## Press
+## Elsewhere
 
 * 2021-06-06 — [Hacker News](https://news.ycombinator.com/item?id=27409371)
