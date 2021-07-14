@@ -40,7 +40,7 @@ So I had the idea of writing a couple of small shell scripts that leverage image
 
 ## Solution
 
-Below are both scripts, be sure to grab the Gist versions as they have error checking and "help" usage display.
+Below are the cores of both scripts, be sure to grab the Gist versions as they have error checking and "help" usage display.
 
 ### Convert image table to Animated GIF
 
