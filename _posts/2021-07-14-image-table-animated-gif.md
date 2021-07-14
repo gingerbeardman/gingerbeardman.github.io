@@ -52,8 +52,8 @@ fullname=$(basename -- "$1")
 filename="${fullname%.*}"
 
 # extract cell size from filename
-regex=".*\-table\-([0-9]+)\-([0-9]+)\.png"
-if [[ ${fullname} =~ ${regex} ]]
+regex_table=".*\-table\-([0-9]+)\-([0-9]+)\.png"
+if [[ ${fullname} =~ ${regex_table} ]]
 then
 	W="${BASH_REMATCH[1]}"
 	H="${BASH_REMATCH[2]}"
@@ -76,8 +76,8 @@ fullname=$(basename -- "$1")
 filename="${fullname%.*}"
 
 # extract cell size from filename
-regex_table=".*\-table\-([0-9]+)\-([0-9]+)\.gif"
-if [[ ${fullname} =~ ${regex_table} ]]
+regex_anim=".*\-table\-([0-9]+)\-([0-9]+)\.gif"
+if [[ ${fullname} =~ ${regex_anim} ]]
 then
 	W="${BASH_REMATCH[1]}"
 	H="${BASH_REMATCH[2]}"
