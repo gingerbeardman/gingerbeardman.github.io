@@ -17,7 +17,7 @@ nouns:
 - Animated GIF
 - macOS
 - Makefile
-comments:
+comments: https://twitter.com/gingerbeardman/status/1415361340613484547
 
 ---
 
