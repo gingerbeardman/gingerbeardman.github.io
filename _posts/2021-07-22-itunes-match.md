@@ -25,7 +25,9 @@ featured: false
 carousel: ''
 
 ---
-Last week I briefly entertained buying a MiniDisc bookshelf system, before I came to my senses. All my music playback happens digitally so, as much as MiniDisc would look cool and fill me with warmth and light, I know I would never use it. These days I play most things through the Music app on my Mac or iPhone, new releases through Apple Music and old stuff from my own rips. When I got my first iPod I ripped hundreds, if not thousands, of my own physical CDs using iTunes (version 2, according to some old files I've just looked at!) and they've lived on my computer ever since. Yes, I feel like a digital dinosaur.
+Last week I briefly entertained buying a MiniDisc bookshelf system, before I came to my senses. These days all my music playback happens digitally so, as much as a MiniDisc system would look cool and fill me with warmth and light, I know I would never use it. 
+
+I play most music through the Music app on my Mac or iPhone, new releases through Apple Music and old stuff from my own rips. When I got my first iPod I ripped hundreds, if not thousands, of my own physical CDs using iTunes (version 2, according to some old files I've just looked at!) and they've lived on my computer ever since. Yes, I feel like a digital dinosaur.
 
 Apple introduced iTunes Match in 2011 and year or so later I signed up for the yearly subscription to enable me to sync my music library to the cloud and be able to play my collection from other devices than my Mac. And when Apple Music was introduced in 2015 I subscribed so I could more easily access both new music releases and their entire library that is far larger than my own collection. And that brings us to the present.
 
