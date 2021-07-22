@@ -25,7 +25,7 @@ featured: false
 carousel: ''
 
 ---
-Last week I briefly entertained buying a MiniDisc bookshelf system, before I came to my senses. These days all my music playback happens digitally so, as much as a MiniDisc system would look cool and fill me with warmth and light, I know I would never use it. 
+Last week I briefly entertained buying a MiniDisc bookshelf system, before I came to my senses. These days all my music playback happens digitally so, as much as a MiniDisc system would look cool and fill me with warmth and light, I know I would never use it.
 
 I play most music through the Music app on my Mac or iPhone, new releases through Apple Music and old stuff from my own rips. When I got my first iPod I ripped hundreds, if not thousands, of my own physical CDs using iTunes (version 2, according to some old files I've just looked at!) and they've lived on my computer ever since. Yes, I feel like a digital dinosaur.
 
@@ -37,6 +37,8 @@ So! Where where we? Ah, yes, I was chatting to a friend — lamenting MiniDisc a
 
 Hang on a minute!? If this is true, then why have I been subscribing to iTunes Match for the last 6 years? And how many other people are in the same boat?
 
+Indeed, all the common reasons for why you would need iTunes Match such as DRM-free music, or the ability to sync bootlegs, are possible in Apple Music in addition to iTunes Match.
+
 I dug a little further and, finally, hidden behind a popup that is only revealed if you click on the [dotted underlined iTunes Match keyword](https://support.apple.com/en-gb/guide/music/musa3dd5209/mac), was the reason iTunes Match still exists (emphasis mine):
 
 > **If you subscribe to Apple Music, you don’t need to subscribe to iTunes Match** unless you still need to access your music on Apple TV (2nd or 3rd generation).
@@ -47,6 +49,6 @@ So where does this leave me? Well, my iTunes Match was set to renew at the end o
 
 But I am wondering if I can get a refund for the years I've been paying for a service that I am not using? I chatted with Apple Support through Messages and over the phone, but was told that they cannot refund anything purchased more than 60 days ago. "Computer says no". iTunes Match is an annual subscription so it's unlikely you'll get a full refund, and that's before we start thinking about the previous handful of years that have gone by. However, I have heard that [Apple have given pro-rata refunds](https://twitter.com/thisguise/status/1416802253416108043) for iTunes Match subscriptions that have more time remaining.
 
-I've checked my emails and there's never been any advice from Apple that iTunes Match has been superseded by Apple Music. The only warnings you find that imply you probably don't want both are in the support documents linked above. I find this very curious indeed.
+I've checked my emails and there's never been any advice from Apple that iTunes Match has been superseded by Apple Music. The only warnings you find that imply you probably don't want both are in the support documents linked above. I find that very curious.
 
 Finally, I'm left wondering why Apple didn't automatically cancel, or roll-up, iTunes Match subscriptions for people who took out subscriptions to Apple Music, like they do with Apple Music/Arcade/TV+/News/etc subscriptions when you sign up for a Apple One subscription. I don't suppose we'll ever get an answer to that one.
