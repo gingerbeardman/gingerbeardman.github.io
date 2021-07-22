@@ -19,7 +19,7 @@ nouns:
 - News
 - Apple One
 - Messages
-title: The Catch with iTunes Match and Apple Music
+title: The catch with iTunes Match and Apple Music
 comments: ''
 featured: false
 carousel: ''
