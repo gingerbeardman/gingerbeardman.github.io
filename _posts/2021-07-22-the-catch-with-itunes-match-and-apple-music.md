@@ -2,9 +2,9 @@
 layout: post
 tags:
 - apple
-- itunes match
-- apple music
 - subscriptions
+- itunesmatch
+- applemusic
 nouns:
 - Apple Music
 - iTunes Match
