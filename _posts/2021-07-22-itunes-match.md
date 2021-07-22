@@ -37,7 +37,7 @@ So! Where where we? Ah, yes, I was chatting to a friend — lamenting MiniDisc a
 
 Hang on a minute!? If this is true, then why have I been subscribing to iTunes Match for the last 6 years? And how many other people are in the same boat?
 
-Indeed, all the common reasons for why you would need iTunes Match such as DRM-free music, or the ability to sync bootlegs, are possible in Apple Music in addition to iTunes Match.
+Indeed, all the common reasons for why you would need iTunes Match, such as DRM-free music or the ability to sync bootlegs, are possible in Apple Music in addition to iTunes Match.
 
 I dug a little further and, finally, hidden behind a popup that is only revealed if you click on the [dotted underlined iTunes Match keyword](https://support.apple.com/en-gb/guide/music/musa3dd5209/mac), was the reason iTunes Match still exists (emphasis mine):
 
