@@ -39,7 +39,8 @@ My tool of choice on System 7 is [Deneba artWORKS](https://blog.gingerbeardman.c
 
 Some established Macintosh artists have questioned both my use of modern technology and my drawing techniques. Hopefully this post will give a little more insight into how I go about things.
 
-![](/images/playdate-pre-2x.png)
+![Using Deneba artWORKS on iPad Pro](/images/posts/playdate-during.jpg "Deneba artWORKS in Macintosh System 7 running on iPad Pro")
+{:.tofigure}
 
 ### Body
 
@@ -59,11 +60,12 @@ I first picked the dither pattern for the main "yellow" body and then picked the
 
 I used the Paintbrush and Pencil tools to add in some details like the dots on the buttons and my hand-drawn version of the Playdate logo. The shadow was drawn freehand using the Paintbrush tool with a larger circular brush size. The background pattern is a simple sparse dither pattern applied using the Paint Can tool.
 
+![Just the Playdate](/images/posts/playdate-before@2x.png "Just the Playdate looking a little bemused")
+{:.tofigure}
+
 ## Party Up!
 
 For pre-order day I thought it would be fun to add an extra layer to the illustration making it more celebratory. I had the idea to replicate the 🥳 emoji (Face with Party Horn and Party Hat) with the Playdate I'd already drawn.
-
-![](/images/playdate-2x.png)
 
 ### Party Horn
 
@@ -104,6 +106,9 @@ I saved out the image as a GIF (another external tool provides this capability) 
 Finally, I copied the file to BasiliskII emulator File Sharing drive at which point it became accessible in Files on the iPad, and from here I sent it to my iPhone via AirDrop, after which I added the image to a tweet and hit send!
 
 Job done.
+
+![Celebrate good times!](/images/posts/playdate-after@2x.png "🥳 Playdate with Party Horn and Party Hat")
+{:.tofigure}
 
 ## Keyboard craving
 
