@@ -1,7 +1,7 @@
 ---
 layout: post
 tags:
-- 1-bit
+- 1bit
 - playdate
 - macintosh
 nouns:
