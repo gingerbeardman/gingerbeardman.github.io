@@ -44,7 +44,7 @@ I first drew the body of the device using Rounded Rectangles for the perimeter, 
 
 Afterwards I grouped all those shapes and used the Point Rotate external tool to rotate the group by an arbitrary amount until it looked like a fun enough jaunty angle.
 
-Next, in the Layers manager I set the shape layer to be greyed out and created a new layer to do some drawing. I used the Paintbrush tool with small circular brush to draw over the shapes by hand, erasing any mistakes and redrawing some sections of lines until I was happy.
+Next, in the Layers Manager I set the shape layer to be greyed out and created a new layer to do some drawing. I used the Paintbrush tool with small circular brush to draw over the shapes by hand, erasing any mistakes and redrawing some sections of lines until I was happy.
 
 ### Colouring
 
