@@ -23,6 +23,7 @@ nouns:
 - Thoru Yamamoto
 - Files
 - iPadOS
+- Twitter
 title: Playdate 1-bit illustration postmortem
 comments: https://twitter.com/gingerbeardman/status/1421091701763055621
 featured: false
@@ -97,7 +98,9 @@ I used the Arc tool to add motion lines to the party horn and crank. Lastly I ad
 
 ## Pixel or Vector?
 
-Looking at the objects that make up the drawing, I'd say that the split is around 75% vector to 25% pixel, which I'd say is similar to most of my drawings. Pixels make up large freeform areas, filled vector shapes make up large defined areas. Small objects that will remain static use pixels, and those that I think will need to be moved or resized as I go on use vectors.
+Looking at the objects that make up the drawing, I'd say that the split is around 75% vector to 25% pixel, which is the same across most of my drawings. 
+
+Pixels make up large freeform areas, filled vector shapes make up large defined areas. Small objects that will remain static use pixels, and those that I think will need to be moved or resized use vectors.
 
 I tend to draw on the base layer with pixels and then use higher layers as rough groups for sets of vector shapes. For example, the confetti was all drawn on one layer.
 
@@ -105,7 +108,7 @@ I tend to draw on the base layer with pixels and then use higher layers as rough
 
 I saved out the image as a GIF (another external tool provides this capability) and loaded it into DeBabelizer, or sometimes Photoshop 3.0. Here I resized using simple sampling to 990px square from the original size of 330px square.
 
-Finally, I copied the file to BasiliskII emulator File Sharing drive at which point it became accessible in Files in iPadOS, and from here I sent it to my iPhone via AirDrop, after which I added the image to a tweet and hit send!
+Finally, I copied the file to BasiliskII emulator File Sharing drive at which point it became accessible in Files in iPadOS, and from here I sent it to my iPhone via AirDrop, after which I used the Twitter app to add the image to a tweet and hit send!
 
 Job done.
 
