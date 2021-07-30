@@ -94,7 +94,7 @@ I saved out the image as a GIF (another external tool provides this capability) 
 
 Finally, I copied the file to BasiliskII emulator File Sharing drive at which point it became accessible in Files on the iPad, and from here I sent it to my iPhone via AirDrop, after which I added the image to a tweet and hit send!
 
-Job done!
+Job done.
 
 ## Keyboard craving
 
