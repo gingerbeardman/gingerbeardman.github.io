@@ -21,7 +21,7 @@ nouns:
 - DeBabelizer
 - Photoshop
 title: Playdate 1-bit illustration postmortem
-comments: https://twitter.com/gingerbeardman/status/1421091377664991236
+comments: https://twitter.com/gingerbeardman/status/1421091701763055621
 featured: false
 carousel: ''
 
@@ -70,9 +70,9 @@ This was drawn as a vector path using the Polygon tool, and filled with a dither
 
 ### Confetti
 
-For the confetti I didn't want to draw each one by hand, and I wanted them to be vectors rather than pixels so they remained as editable as possible. I found that drawing very short curved strokes using the Pressure Pen tool produced shapes that looked a lot like tiny squares of paper bent at some 3D angle. Using this tool without any pressure means it performs as a dynamic, vector calligraphic pen. A nice little trick! 
+For the confetti I didn't want to draw each one by hand, and I wanted them to be vectors rather than pixels so they remained as editable as possible. I found that drawing very short curved strokes using the Pressure Pen tool produced shapes that looked a lot like tiny squares of paper bent at some 3D angle. Using this tool without any pressure means it performs as a dynamic, vector calligraphic pen. A nice little trick!
 
-Afterwards I applied one of the many standard fill patterns to each piece of confetti to give them a bit of individual flavour. Any confetti overlaying the Playdate body was duplicated, made white, and offset by a pixel or two to help make it stand out from the body. You can see this most clearly on the coil shape at the right side of the Playdate screen. 
+Afterwards I applied one of the many standard fill patterns to each piece of confetti to give them a bit of individual flavour. Any confetti overlaying the Playdate body was duplicated, made white, and offset by a pixel or two to help make it stand out from the body. You can see this most clearly on the coil shape at the right side of the Playdate screen.
 
 ### Jazz
 
@@ -92,7 +92,7 @@ I tend to draw on the base layer with pixels and then use higher layers as rough
 
 I saved out the image as a GIF (another external tool provides this capability) and loaded it into DeBabelizer, or sometimes Photoshop 3.0. Here I resized using simple sampling to 990px square from the original size of 330px square.
 
-Finally, I copied the file to BasiliskII emulator File Sharing drive at which point it became accessible in Files on the iPad, and from here I sent it to my iPhone via AirDrop, after which I added the image to a tweet and hit send! 
+Finally, I copied the file to BasiliskII emulator File Sharing drive at which point it became accessible in Files on the iPad, and from here I sent it to my iPhone via AirDrop, after which I added the image to a tweet and hit send!
 
 Job done!
 
