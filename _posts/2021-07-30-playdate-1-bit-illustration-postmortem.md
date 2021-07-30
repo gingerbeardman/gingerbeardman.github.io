@@ -21,7 +21,7 @@ nouns:
 - DeBabelizer
 - Photoshop
 title: Playdate 1-bit illustration postmortem
-comments: ''
+comments: https://twitter.com/gingerbeardman/status/1421091377664991236
 featured: false
 carousel: ''
 
