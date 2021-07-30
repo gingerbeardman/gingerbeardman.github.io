@@ -34,6 +34,8 @@ This kind of style is most associated with HyperCard, which provides a bunch of 
 
 My tool of choice on System 7 is Deneba artWORKS because it supports multiple layers, a ton of external tools (plugins), and has a good workflow for vector and pixels. Plus, I use it on iPad Pro with Apple Pencil which makes the whole experience an absolute pleasure.
 
+I've received lack of support from some established Macintosh artists due to my use of modern technology and drawing techniques. Hopefully this post will help with that.
+
 ![](/images/playdate-pre-2x.png)
 
 ### Body
