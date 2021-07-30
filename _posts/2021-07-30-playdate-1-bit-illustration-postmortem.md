@@ -44,9 +44,9 @@ Some established Macintosh artists have questioned both my use of modern technol
 ![Using Deneba artWORKS on iPad Pro](/images/posts/playdate-during.jpg "Deneba artWORKS in Macintosh System 7 running on iPad Pro")
 {:.tofigure}
 
-### Body
+### Playdate
 
-I first drew the body of the device using Rounded Rectangles for the perimeter, screen, crank, d-pad, speaker grille and using Ovals for the buttons and corner screws. This was all done by eye, no measuring.
+I first drew the body of the Playdate using Rounded Rectangles for the perimeter, screen, crank, d-pad, speaker grille and using Ovals for the buttons and corner screws. This was all done by eye, no measuring.
 
 Afterwards I grouped all those shapes and used the Point Rotate external tool to rotate the group by an arbitrary amount until it looked like a fun enough jaunty angle.
 
