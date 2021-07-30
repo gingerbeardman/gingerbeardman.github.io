@@ -80,6 +80,10 @@ Afterwards I applied one of the many standard fill patterns to each piece of con
 
 The extra geometric shapes in amongst the confetti are my attempt at bringing a bit of 1980s Memphis Group design aesthetic to the illustration. I use a variety of different external tools for this: Spiral (length 2), Fractals (default wiggle and density), Coil and Resistor. The later two tools are meant for drawing electrical circuits! The moral of the story: know your tools and use them!
 
+### Positioning
+
+After adding all the confetti and jazz, I adjusted the positions and sizes of many of the objects to produce what I thought was the most pleasing distribution. The benefits of all of these objects being vectors becomes clear at this point!
+
 ### Motion
 
 I used the Arc tool to add motion lines to the party horn and crank. Lastly I added some straight lines to imply that the light on the power button is flashing.
