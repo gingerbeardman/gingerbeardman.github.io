@@ -20,19 +20,22 @@ nouns:
 - Memphis Group
 - DeBabelizer
 - Photoshop
+- Thoru Yamamoto
 title: Playdate 1-bit illustration postmortem
 comments: https://twitter.com/gingerbeardman/status/1421091701763055621
 featured: false
 carousel: ''
 
 ---
-Yesterday saw the opening of pre-orders for Playdate, a new handheld gaming device that I'm developing some games for. To celebrate the occasion I drew an illustration in 1-bit with dither patterns using Macintosh System 7.
+Yesterday saw the opening of pre-orders for [Playdate](https://play.date), a new handheld gaming device that I'm developing some games for. To celebrate the occasion I drew an illustration in 1-bit with dither patterns using Macintosh System 7.
 
 This kind of style is most associated with HyperCard, which provides a bunch of great drawing tools and modes, and can be seen in many period pieces of interactive media, animations, art and video games.
 
+I've been revisiting the artwork of [Thoru Yamamoto](https://archive.org/search.php?query=creator%3A%22Thoru+Yamamoto%22&sort=titleSorter) recently, which I think influenced the style of this piece.
+
 **Toolbox**
 
-My tool of choice on System 7 is Deneba artWORKS because it supports multiple layers, a ton of external tools (plugins), and has a good workflow for vector and pixels. Plus, I use it on iPad Pro with Apple Pencil which makes the whole experience an absolute pleasure.
+My tool of choice on System 7 is [Deneba artWORKS](https://blog.gingerbeardman.com/2021/04/25/mixing-external-tools-across-deneba-software/) because it supports multiple layers, a ton of external tools (plugins), and has a good workflow for vector and pixels. Plus, I use it on [iPad Pro with Apple Pencil](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/) which makes the whole experience an absolute pleasure.
 
 Some established Macintosh artists have questioned both my use of modern technology and my drawing techniques. Hopefully this post will give a little more insight into how I go about things.
 
