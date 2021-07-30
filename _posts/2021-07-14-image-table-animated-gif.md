@@ -40,7 +40,7 @@ So I had the idea of writing a couple of small shell scripts that leverage image
 
 ## Solution
 
-Below are the cores of both scripts, be sure to grab the Gist versions as they have error checking and "help" usage display.
+Below are both scripts, be sure to grab the Gist versions as they have error checking and "help" usage display.
 
 ### Convert image table to Animated GIF
 
@@ -52,40 +52,32 @@ fullname=$(basename -- "$1")
 filename="${fullname%.*}"
 
 # extract cell size from filename
-regex_table=".*\-table\-([0-9]+)\-([0-9]+)\.png"
-if [[ ${fullname} =~ ${regex_table} ]]
+regex=".*\-table\-([0-9]+)\-([0-9]+)"
+if [[ $filename =~ $regex ]]
 then
 	W="${BASH_REMATCH[1]}"
 	H="${BASH_REMATCH[2]}"
 fi
 
 # convert to Animated GIF
-magick -dispose background -delay 1 -loop 0 "$1" +repage -crop "${W}x${H}" +repage "${filename}.gif"
+magick -dispose previous -delay 1 -loop 0 $1 +repage -crop ${W}x${H} +repage ${filename}.gif
 
 # output specifications
-magick identify -format "${filename}.gif: %n frames\n" "${filename}.gif" | head -1
+magick identify -format "${filename}.gif: %n frames\n" ${filename}.gif
 ```
 
 ### Convert Animated GIF to image table
 
-[https://gist.github.com/gingerbeardman/2a79913a883b2a675ce6a8004ebd8d4c](https://gist.github.com/gingerbeardman/2a79913a883b2a675ce6a8004ebd8d4c)
+[https://gist.github.com/gingerbeardman/15a8e1e72745848190c0e7d583ca24e1](https://gist.github.com/gingerbeardman/15a8e1e72745848190c0e7d583ca24e1)
 
 ```sh
 # input file details
 fullname=$(basename -- "$1")
 filename="${fullname%.*}"
 
-# extract cell size from filename
-regex_anim=".*\-table\-([0-9]+)\-([0-9]+)\.gif"
-if [[ ${fullname} =~ ${regex_anim} ]]
-then
-	W="${BASH_REMATCH[1]}"
-	H="${BASH_REMATCH[2]}"
-fi
-
 # convert to image table PNG
-magick montage "$1" -geometry "1x1+0+0<" -alpha On -background transparent "${filename}.png"
+magick montage $1 -tile 32x -geometry '1x1+0+0<' -alpha On -background "rgba(0, 0, 0, 0.0)" ${filename}.png
 
 # output specifications
-magick identify -format "${filename}.png: %w x %h pixels\n" "${filename}.png"
+magick identify -format "${filename}.png: %w x %h pixels\n" ${filename}.png
 ```
