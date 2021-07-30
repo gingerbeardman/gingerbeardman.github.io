@@ -34,7 +34,7 @@ This kind of style is most associated with HyperCard, which provides a bunch of 
 
 My tool of choice on System 7 is Deneba artWORKS because it supports multiple layers, a ton of external tools (plugins), and has a good workflow for vector and pixels. Plus, I use it on iPad Pro with Apple Pencil which makes the whole experience an absolute pleasure.
 
-Some established Macintosh artists have questioned my use of modern technology as well as my drawing techniques. Hopefully this post will give a little more insight into how I go about things. It's all good!
+Some established Macintosh artists have questioned both my use of modern technology and my drawing techniques. Hopefully this post will give a little more insight into how I go about things. It's all good!
 
 ![](/images/playdate-pre-2x.png)
 
