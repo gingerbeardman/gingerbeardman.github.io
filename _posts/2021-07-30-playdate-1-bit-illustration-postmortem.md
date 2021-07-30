@@ -21,6 +21,8 @@ nouns:
 - DeBabelizer
 - Photoshop
 - Thoru Yamamoto
+- Files
+- iPadOS
 title: Playdate 1-bit illustration postmortem
 comments: https://twitter.com/gingerbeardman/status/1421091701763055621
 featured: false
@@ -103,7 +105,7 @@ I tend to draw on the base layer with pixels and then use higher layers as rough
 
 I saved out the image as a GIF (another external tool provides this capability) and loaded it into DeBabelizer, or sometimes Photoshop 3.0. Here I resized using simple sampling to 990px square from the original size of 330px square.
 
-Finally, I copied the file to BasiliskII emulator File Sharing drive at which point it became accessible in Files on the iPad, and from here I sent it to my iPhone via AirDrop, after which I added the image to a tweet and hit send!
+Finally, I copied the file to BasiliskII emulator File Sharing drive at which point it became accessible in Files in iPadOS, and from here I sent it to my iPhone via AirDrop, after which I added the image to a tweet and hit send!
 
 Job done.
 
