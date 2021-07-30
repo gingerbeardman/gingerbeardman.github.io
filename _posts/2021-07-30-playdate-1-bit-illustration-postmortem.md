@@ -69,11 +69,11 @@ I used the Paintbrush and Pencil tools to add in some details like the dots on t
 
 For pre-order day I thought it would be fun to add an extra layer to the illustration making it more celebratory. I had the idea to replicate the 🥳 emoji (Face with Party Horn and Party Hat) with the Playdate I'd already drawn.
 
-### Party Horn
+### Horn
 
 This was drawn using a combination of freehand Brush tool and filled vector Polygons. Some extra shading is done using the Brush tool and a sparse dither pattern. I must have drawn a handful of different style horns, settling on the one that looked least like Playdate was smoking!
 
-### Party Hat
+### Hat
 
 This was drawn as a vector path using the Polygon tool, and filled with a dithered pattern using the Gradient Fill tool. The frilly stuff on top of the hat is a handful of Arcs drawn in various directions, always starting from the tip.
 
