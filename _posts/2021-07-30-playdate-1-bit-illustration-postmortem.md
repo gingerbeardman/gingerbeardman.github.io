@@ -84,7 +84,7 @@ I used the Arc tool to add motion lines to the party horn and crank. Lastly I ad
 
 ## Pixel or Vector?
 
-Looking at the objects that make up the drawing, I'd say that the split of this drawing is about 75% vector, 25% pixel which I'd say is the same as the split for most of my drawings. Pixels make up a bunch of larger more freeform areas, filled vector shapes make up larger more defined areas. Small objects that will remain static use pixels, and those that I think will need to be moved or resized as I go on use vectors.
+Looking at the objects that make up the drawing, I'd say that the split is around 75% vector to 25% pixel, which I'd say is similar as the split for most of my drawings. Pixels make up a bunch of larger more freeform areas, filled vector shapes make up larger more defined areas. Small objects that will remain static use pixels, and those that I think will need to be moved or resized as I go on use vectors.
 
 I tend to draw on the base layer with pixels and then use higher layers as rough groups for sets of vector shapes. For example, the confetti was all drawn on one layer.
 
