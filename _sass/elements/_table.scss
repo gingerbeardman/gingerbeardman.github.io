@@ -27,13 +27,13 @@ tfoot {
   border-top: 2px solid #ccc;
 }
 
-table#deneba-btol th:last-child,
-table#deneba-btol td:last-child,
-table#deneba-etol th:last-child,
-table#deneba-etol td:last-child,
-table#macintosh-drawing-software th:last-child,
-table#macintosh-drawing-software td:last-child,
-table#deneba-external-tools th:last-child,
-table#deneba-external-tools td:last-child {
+table#deneba-btol th:nth-last-child(-n+2),
+table#deneba-btol td:nth-last-child(-n+2),
+table#deneba-etol th:nth-last-child(-n+2),
+table#deneba-etol td:nth-last-child(-n+2),
+table#macintosh-drawing-software th:nth-last-child(-n+2),
+table#macintosh-drawing-software td:nth-last-child(-n+2),
+table#deneba-external-tools th:nth-last-child(-n+2),
+table#deneba-external-tools td:nth-last-child(-n+2) {
   border-left: 1px solid #ccc;
 }
