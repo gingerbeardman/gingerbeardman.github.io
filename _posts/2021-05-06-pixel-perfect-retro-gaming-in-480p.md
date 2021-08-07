@@ -83,26 +83,33 @@ I also use the [#20PF4121 tag on Instagram](https://www.instagram.com/explore/ta
 
 ## Connections
 
-The goal is to get the video output from your console into VGA or DVI. Specifically when using the EDTV's PC input we need DVI-A (Analogue), rather than DVD-D (Digital) even if the TV supports both via DVI-I (integrated analogue and digital).
+The goal is to get the video output from your console into VGA or DVI, depending on the input your TV has. 
 
-**Straight VGA cable**
-- Dreamcast
-- Xbox 360
-- Xbox
-- Vintage Mac/PC
+Specifically when using the EDTV's PC input we need DVI-A (Analogue), rather than DVD-D (Digital) even if the TV supports both via DVI-I (integrated analogue and digital).
+
+Here's how to connect the most common consoles. Let me know if you connect one that's not on the list!
+
+**Straight VGA cable** (with VGA to DVI adapter if needed)
+
+* Dreamcast
+* Xbox 360
+* Xbox
+* Vintage Mac/PC
 
 **Component cable to VGA/DVI adapter** (analogue pass-through)
-  - Wii
-  - GameCube
-  - PS3/2 (and PS1 via backwards compatibility)
+
+* Wii
+* GameCube
+* PS3/2 (and PS1 via backwards compatibility)
 
 **HDMI/DisplayPort/Thunderbolt to VGA/DVI** (digital to analogue conversion)
-  - Xbox One
-  - Wii U
-  - PS4
-  - Mac
-  - PC
-  - Other consoles using a HDMI adapter
+
+* Xbox One
+* Wii U
+* PS4
+* Mac
+* PC
+* Other consoles using HDMI output
 
 ## Deinterlacing
 
