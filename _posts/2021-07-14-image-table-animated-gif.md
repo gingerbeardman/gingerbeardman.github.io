@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Daily Driver: to GIF and back'
+title: 'Daily Driver: To GIF and Back'
 tags:
 - dailydriver
 - playdate
