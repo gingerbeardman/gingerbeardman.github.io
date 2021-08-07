@@ -109,7 +109,7 @@ Here's how to connect the most common consoles. Let me know if you connect one t
 * PS4
 * Mac
 * PC
-* Other consoles using a HDMI output
+* Other consoles using HDMI output
 
 ## Deinterlacing
 
