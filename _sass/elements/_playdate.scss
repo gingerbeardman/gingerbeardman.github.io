@@ -29,6 +29,7 @@ body.playdate {
     background-color: transparent;
   }
 
+  figcaption,
   .c-logo__link span,
   .c-byline__desc,
   .c-byline__desc a {
@@ -47,6 +48,10 @@ body.playdate {
 
   blockquote {
     color: $color-darker;
+    border-color: $color-darker;
+  }
+
+  .tablesorter-default th, .tablesorter-default td {
     border-color: $color-darker;
   }
 }
