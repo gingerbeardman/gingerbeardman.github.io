@@ -89,7 +89,7 @@ Specifically when using the EDTV's PC input we need DVI-A (Analogue), rather tha
 
 Here's how to connect the most common vintage consoles. Let me know if you connect one that's not on the list!
 
-**Straight VGA cable (optional VGA to DVI adapter)**
+**Straight VGA cable (with VGA to DVI adapter if needed)**
 
 * Dreamcast
 * Xbox 360
