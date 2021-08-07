@@ -10,7 +10,7 @@ nouns:
 - Playdate
 - Daily Driver
 - Jono
-comments:
+comments: https://twitter.com/gingerbeardman/status/1424070758268129281
 
 ---
 Since the early days of the project I've been generating the car sprites by rotating the 3D model 360 degrees in a sequence of 32 steps. It works well and I hadn't given it much thought. Until over on the [unofficial Playdate Discord server](https://discord.gg/zFKagQ2) user Jono showed of a hot-dog trick rendered using 64 steps which looked super smooth! This got me thinking about increasing the number of rotation steps used in my workflow for Daily Driver.
