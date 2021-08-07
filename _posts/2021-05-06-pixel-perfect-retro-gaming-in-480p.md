@@ -87,7 +87,7 @@ The goal is to get the video output from your console into VGA or DVI, depending
 
 Specifically when using the EDTV's PC input we need DVI-A (Analogue), rather than DVD-D (Digital) even if the TV supports both via DVI-I (integrated analogue and digital).
 
-Here is how to connect the most common vintage consoles. Let me know if you connect one that's not on the list!
+Here's how to connect the most common vintage consoles. Let me know if you connect one that's not on the list!
 
 **Straight VGA cable (optional VGA to DVI adapter)**
 
