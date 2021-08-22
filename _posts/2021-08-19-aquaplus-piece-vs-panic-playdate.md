@@ -99,7 +99,7 @@ Whilst digging I also found several old games by Kenta Cho (ABA Games) who even 
 ![GIF](/images/posts/piece-barrage-reactor.gif#piece)
 
 ### Barrage Reactor
-A twin-stick shmup played with a d-pad and two buttons! The d-pad moves your ship around and the buttons rotate your aim as you fire automatically Waves of enemies appear and a surprisingly tactical game ensues.
+A twin-stick shmup played with a d-pad and two buttons! The d-pad moves your ship around and the buttons rotate your aim as you fire automatically. Waves of enemies appear and a surprisingly tactical game ensues.
 
 ---
 
