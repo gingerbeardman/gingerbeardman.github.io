@@ -32,11 +32,11 @@ nouns:
 - Panel de Pon
 - Tetris Attack
 - Mitchell Corp
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1429479465781010432
 
 ---
 
-The P/ECE was a Japan-only handheld/mobile gaming console released in late-2001. It was created by Aquaplus a company better known for visual novels so it carries with it a specific sort of oddball charm.
+The P/ECE was a Japan-only handheld/mobile gaming console released in late-2001. It was created by Aquaplus a company better known for visual novels so it carries with it a specific oddball charm.
 
 ![Aquaplus P/ECE](/images/posts/piece.jpg " Aquaplus P/ECE, launch edition")
 {:.tofigure}
@@ -48,7 +48,7 @@ An [early preview of the P/ECE](https://game.watch.impress.co.jp/docs/20011203/p
 Looking back at the P/ECE it was ahead of its time in many ways. To get a feel for what was going on when it came out:
 
 - the most popular phone manufacturers were Nokia and Sony Ericsson
-- the battle between the PlayStation 2 and Dreamcast was still ongoing
+- the battle between the PlayStation 2 and Dreamcast was ongoing
 - ICO was the latest PlayStation 2 game
 - Rez was the latest Dreamcast game
 - the iPod and Game Boy Advance had both just launched
@@ -72,7 +72,7 @@ Anyway! During his indie days, Kuni developed for a range of platforms and in a 
 ![GIF](/images/posts/piece-spout.gif#piece)
 
 ### spout
-A sort of lunar lander style game where your thrust can destroy the scenery. Your task is to get as high as possible, though that is much easier said than done as the scenery becomes gradually more complex and time is always ticking away.
+A lunar lander style game where your thrust can destroy the scenery. Your task is to get as high as possible, though that is much easier said than done as the scenery becomes gradually more complex and time is always ticking away.
 
 This is perhaps the most famous P/ECE game as it was released with source code for an SDL version and received ports to GP32 and related platforms.
 
@@ -113,7 +113,7 @@ A 3D "Tron" light cycles game where the aim is to stay alive for as long as poss
 ![GIF](/images/posts/piece-re.gif#piece)
 
 ### Re:
-A 3D demake of Rez where the Microsoft Outlook(!) icon produces waves of enemies that need to be shot down as efficiently as possible by locking on to multiple enemies before firing your missiles.
+A 3D demake of Rez where the Microsoft Outlook(!) icon produces waves of enemies that need to be shot down as efficiently as possible by locking on to multiple enemies before firing your missiles. Maybe Kenta Cho was sick of email back in 2001?
 
 ---
 
