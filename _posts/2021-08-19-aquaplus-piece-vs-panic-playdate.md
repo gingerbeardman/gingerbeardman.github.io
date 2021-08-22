@@ -36,7 +36,7 @@ comments: https://twitter.com/gingerbeardman/status/1429479465781010432
 
 ---
 
-The P/ECE was a Japan-only handheld/mobile gaming console released in late-2001. It was created by Aquaplus, a company better known for visual novels, so it carries with it a specific oddball charm. The [official website](https://aquaplus.jp/piece/) is still up!
+The P/ECE was a Japan-only handheld/mobile gaming console released in late-2001. It was created by Aquaplus, a company better known for visual novels, so it carries with it a specific oddball charm. After 20 years I find it heart-warming to see that the [official website](https://aquaplus.jp/piece/) is still online!
 
 ![Aquaplus P/ECE](/images/posts/piece.jpg " Aquaplus P/ECE, launch edition")
 {:.tofigure}
