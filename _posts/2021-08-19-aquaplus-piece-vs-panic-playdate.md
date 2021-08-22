@@ -81,7 +81,7 @@ This is perhaps the most famous P/ECE game as it was released with source code f
 ![GIF](/images/posts/piece-fencer.gif#piece)
 
 ### fencer
-A snake type game where your head has momentum and your tail length depends on your speed, allowing fine and fluid movement. The goal is to avoid bombs and use your tail to destroy them. Chaining together multiple explosions is the key to high scores.
+A snake type game where your head has momentum and your tail length depends on your speed, allowing fine and fluid movement. The goal is to avoid bombs and use your tail as a barrier that will destroy them. Chaining together multiple explosions is the key to high scores.
 
 ---
 
@@ -94,7 +94,7 @@ In this game you must use a rotating stick to push sand around in an attempt to 
 
 ## Selected Games by Kenta Cho (ABA Games)
 
-Whilst digging I also found several old games by Kenta Cho (ABA Games) who even today continues to crank out brilliant little games at an inspiring rate.
+Whilst digging into P/ECE forgotten history, I also found several old games by Kenta Cho (ABA Games) who even today continues to [crank out brilliant little games](http://www.asahi-net.or.jp/~cs8k-cyu/browser.html) at an inspiring rate.
 
 ![GIF](/images/posts/piece-barrage-reactor.gif#piece)
 
