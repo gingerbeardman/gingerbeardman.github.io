@@ -106,7 +106,7 @@ A twin-stick shmup played with a d-pad and two buttons! The d-pad moves your shi
 ![GIF](/images/posts/piece-speed-barricade.gif#piece)
 
 ### Speed Barricade
-A 3D "Tron" light cycles game where the aim is to stay alive for as long as possible whilst outwitting as many computer controlled players. Quick reflexes are definitely needed for this one!
+A 3D "Tron" light cycles game where the aim is to stay alive for as long as possible whilst outwitting an increasing number of computer controlled players. Quick reflexes are definitely needed for this one!
 
 ---
 
