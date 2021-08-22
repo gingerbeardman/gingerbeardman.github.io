@@ -15,8 +15,30 @@ img[src$='#playdate'] {
   border-radius: 28px;
   border: 30px solid #322f28;
 
-  // background-color: #322f28;
   background-color: #b1aea7;
+
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+
+  @include mq($until: tablet) {
+    width: 400px;
+    height: 240px;
+    border-radius: 0;
+    border: none;
+    margin: 25px -40px;
+  }
+}
+
+img[src$='#piece'] {
+  max-width: 860px;
+  width: 860px;
+  height: 540px;
+  margin: 35px -60px;
+  border-radius: 0;
+  border: 40px solid $bg-color-black;
+
+  background-color: $bg-color-white;
 
   image-rendering: auto;
   image-rendering: crisp-edges;

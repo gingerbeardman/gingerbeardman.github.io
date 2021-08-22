@@ -5,18 +5,22 @@
 // Colors
 $color-brand: #00A0FF;
 $color-white: #FFFFFF;
+$color-black: #000000;
 $color-text:  #323232;
 $color-gray:  #999999;
 $color-dark:  #808080;
 $color-darker:#666666;
 
 // Background Colors
+$bg-color-black:     $color-black;
 $bg-color-white:     $color-white;
 $bg-color-dark:      #222228;
 $bg-color-gray:      #FAFAFA;
+$bg-color-piece:     #C7C7D0;
 $bg-color-playdate:  #FFCD3F;
 $bg-color-macintosh: #F2F2F2;
 $bg-color-mac-code:  #ECECEC;
+$bg-color-piece-code:#DDDDDD;
 
 // Border
 $color-border: #E9EFF3;
