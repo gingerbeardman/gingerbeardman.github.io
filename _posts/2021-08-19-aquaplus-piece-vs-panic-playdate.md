@@ -94,7 +94,7 @@ In this game you must use a rotating stick to push sand around in an attempt to 
 
 ## Selected Games by Kenta Cho (ABA Games)
 
-Whilst digging into P/ECE forgotten history, I also found several old games by Kenta Cho (ABA Games) who even today continues to [crank out brilliant little games](http://www.asahi-net.or.jp/~cs8k-cyu/browser.html) at an inspiring rate.
+Whilst digging into P/ECE forgotten history, I also found several old games by Kenta Cho (then: Saba, now: ABA Games) who even today continues to [crank out brilliant little games](http://www.asahi-net.or.jp/~cs8k-cyu/browser.html) at an inspiring rate.
 
 ![GIF](/images/posts/piece-barrage-reactor.gif#piece)
 
