@@ -112,7 +112,7 @@ A 3D "Tron" light cycles game where the aim is to stay alive for as long as poss
 
 ![GIF](/images/posts/piece-re.gif#piece)
 
-### Re:
+### Re: W32/Badtrance
 A 3D demake of Rez where the Microsoft Outlook(!) icon produces waves of enemies that need to be shot down as efficiently as possible by locking on to multiple enemies before firing your missiles. Maybe Kenta Cho was sick of email back in 2001?
 
 ---
