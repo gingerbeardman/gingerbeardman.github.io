@@ -36,14 +36,14 @@ comments: https://twitter.com/gingerbeardman/status/1429479465781010432
 
 ---
 
-The P/ECE was a Japan-only handheld/mobile gaming console released in late-2001. It was created by Aquaplus a company better known for visual novels so it carries with it a specific oddball charm.
+The P/ECE was a Japan-only handheld/mobile gaming console released in late-2001. It was created by Aquaplus, a company better known for visual novels, so it carries with it a specific oddball charm.
 
 ![Aquaplus P/ECE](/images/posts/piece.jpg " Aquaplus P/ECE, launch edition")
 {:.tofigure}
 
 ## What is it?
 
-An [early preview of the P/ECE](https://game.watch.impress.co.jp/docs/20011203/piece.htm) referred to the P/ECE as a portable game console though the water was somewhat muddied by the fact that one of the built in apps, Picket, was a PIM (Personal Information Manager). This means it was ofren referred to as a PDA. It has a d-pad, start and select buttons, and you can play games on it — that makes it a console in my eyes. But a console where each unit could be used as a development device by connecting it to a desktop computer.
+An [early preview of the P/ECE](https://game.watch.impress.co.jp/docs/20011203/piece.htm) referred to the P/ECE as a portable game console though the water was somewhat muddied by the fact that one of the built in apps, Picket, was a PIM (Personal Information Manager). This means it was often referred to as a PDA. It has a d-pad, start and select buttons, and you can play games on it — that makes it a console in my eyes. But a console where each unit could be used as a development device by connecting it to a desktop computer.
 
 Looking back at the P/ECE it was ahead of its time in many ways. To get a feel for what was going on when it came out:
 
@@ -67,7 +67,7 @@ Over its short term of popularity the P/ECE platform had a vibrant homebrew scen
 
 ## Selected Games by Kuniake Watanabe
 
-Anyway! During his indie days, Kuni developed for a range of platforms and in a variety of languages and wrote several games for the P/ECE.
+Anyway! During his indie days, Kuni developed for a range of platforms and in a variety of languages and wrote several games for the P/ECE. Here are my favourites:
 
 ![GIF](/images/posts/piece-spout.gif#piece)
 
