@@ -33,12 +33,12 @@ nouns:
 - Tetris Attack
 - Mitchell Corp
 - YouTube
-- Facebook
+- " Facebook"
 - fencell
 comments: https://twitter.com/gingerbeardman/status/1429479465781010432
 
 ---
-The P/ECE was a Japan-only handheld/mobile gaming console released in late-2001. It was created by Aquaplus, a company better known for visual novels, so it carries with it a specific oddball charm. After 20 years I find it heart-warming to see that the [official website](https://aquaplus.jp/piece/) is still online!
+The P/ECE was a Japan-only handheld/mobile gaming console released in late-2001. It was created by Aquaplus, a company better known for visual novels, so it carries with it a certain oddball charm. After 20 years I find it heart-warming to see that the [official website](https://aquaplus.jp/piece/) is still online!
 
 ![Aquaplus P/ECE](/images/posts/piece.jpg " Aquaplus P/ECE, launch edition")
 {:.tofigure}
@@ -64,7 +64,7 @@ I learned of the P/ECE several years ago when looking at the output of one of my
 
 The same preview article I mentioned above also says "in terms of specs, (P/ECE) comes above the PocketStation and below the Game Boy" though I think that's selling the P/ECE a little short. The CPU was quite fast and efficient for its time, and the fact that it had no specific graphics hardware meant that people had to get creative and optimise. Some of the results, seen below, would have been very tricky or impossible to achieve on the original Game Boy.
 
-Over its short term of popularity the P/ECE platform had a vibrant homebrew scene and received ports or demakes of everything from Mitchell Corp masterpiece Polarium, through arcade gems like Flipull (aka Plotting), to console classics Panel de Pon (aka Tetris Attack) and more besides. It was home to proper Japanese RPGs and small arcade games and the number of games stretch into triple figures.
+Over its short term of popularity the P/ECE platform had a vibrant homebrew scene and received ports or demakes of everything from Mitchell Corp's masterpiece Polarium, through arcade gems like Flipull (aka Plotting), to console classics Panel de Pon (aka Tetris Attack) and more besides. It was home to proper Japanese RPGs and small arcade games and the number of games stretch into triple figures.
 
 ***
 
@@ -78,7 +78,9 @@ Anyway! During his indie days, Kuni developed for a [range of platforms](https:/
 
 A lunar lander style game where your thrust can destroy the scenery. Your task is to get as high as possible, though that is much easier said than done as the scenery becomes gradually more complex and time is always ticking away.
 
-This is perhaps the most famous P/ECE game as it was released with source code for an SDL version and received ports to GP32 and related platforms. There's a [modern remake for iOS and Android](http://microtrip-game.com/spout/) by a different developer, but it goes by the same title. 
+This is perhaps the most famous P/ECE game as it was released with source code for an SDL version and received ports to GP32 and related platforms. There's a [modern remake for iOS and Android](http://microtrip-game.com/spout/) by a different developer, though it keeps the same title.
+
+edit: [kuni's game design notes](https://twitter.com/k_u/status/1429654871532212224?s=21)
 
 ***
 
@@ -90,6 +92,8 @@ A snake type game where your head has momentum and your tail length depends on y
 
 There was an official updated version for iOS, titled fencell, but it's not longer on the App Store due to Apple removing all 32-bit games back in 2017. Yet the 20-year-old P/ECE version is [still available for download](http://www.susami.co.jp/kuni/junk/junk.htm). There's a lesson for us all.
 
+edit: [kuni's game design notes](https://twitter.com/k_u/status/1429654873574830080?s=21)
+
 ***
 
 ![GIF](/images/posts/piece-interground.gif#piece)
@@ -97,6 +101,8 @@ There was an official updated version for iOS, titled fencell, but it's not long
 ### interground
 
 In this game you must use a rotating stick to push sand around in an attempt to bury the little people running on top of it. If the stick touches a moving enemy or you run out of time that means game over.
+
+edit: [kuni's game design notes](https://twitter.com/k_u/status/1429654875755802631?s=21)
 
 ***
 
