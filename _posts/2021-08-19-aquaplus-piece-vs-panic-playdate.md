@@ -33,7 +33,7 @@ nouns:
 - Tetris Attack
 - Mitchell Corp
 - YouTube
-- " Facebook"
+- Facebook
 - fencell
 comments: https://twitter.com/gingerbeardman/status/1429479465781010432
 
