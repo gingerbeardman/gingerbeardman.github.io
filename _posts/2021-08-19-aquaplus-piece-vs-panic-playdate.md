@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aquaplus P/ECE (vs Panic Playdate)'
+title: Aquaplus P/ECE (vs Panic Playdate)
 tags:
 - piece
 - playdate
@@ -32,10 +32,12 @@ nouns:
 - Panel de Pon
 - Tetris Attack
 - Mitchell Corp
+- YouTube
+- " Facebook"
+- fencell
 comments: https://twitter.com/gingerbeardman/status/1429479465781010432
 
 ---
-
 The P/ECE was a Japan-only handheld/mobile gaming console released in late-2001. It was created by Aquaplus, a company better known for visual novels, so it carries with it a specific oddball charm. After 20 years I find it heart-warming to see that the [official website](https://aquaplus.jp/piece/) is still online!
 
 ![Aquaplus P/ECE](/images/posts/piece.jpg " Aquaplus P/ECE, launch edition")
@@ -47,11 +49,12 @@ An [early preview of the P/ECE](https://game.watch.impress.co.jp/docs/20011203/p
 
 Looking back at the P/ECE it was ahead of its time in many ways. To get a feel for what was going on when it came out:
 
-- the most popular phone manufacturers were Nokia and Sony Ericsson
-- the battle between the PlayStation 2 and Dreamcast was ongoing
-- ICO was the latest PlayStation 2 game
-- Rez was the latest Dreamcast game
-- the iPod and Game Boy Advance had both just launched
+* the most popular phone manufacturers were Nokia and Sony Ericsson
+* the battle between the PlayStation 2 and Dreamcast was ongoing
+* ICO was the latest PlayStation 2 game
+* Rez was the latest Dreamcast game
+* the iPod and Game Boy Advance had both just launched
+* YouTube and Facebook had yet to be created
 
 ...it really was a different era!
 
@@ -63,7 +66,7 @@ The same preview article I mentioned above also says "in terms of specs, (P/ECE)
 
 Over its short term of popularity the P/ECE platform had a vibrant homebrew scene and received ports or demakes of everything from Mitchell Corp masterpiece Polarium, through arcade gems like Flipull (aka Plotting), to console classics Panel de Pon (aka Tetris Attack) and more besides. It was home to proper Japanese RPGs and small arcade games and the number of games stretch into triple figures.
 
----
+***
 
 ## Selected Games by Kuniake Watanabe
 
@@ -72,50 +75,58 @@ Anyway! During his indie days, Kuni developed for a [range of platforms](https:/
 ![GIF](/images/posts/piece-spout.gif#piece)
 
 ### spout
+
 A lunar lander style game where your thrust can destroy the scenery. Your task is to get as high as possible, though that is much easier said than done as the scenery becomes gradually more complex and time is always ticking away.
 
-This is perhaps the most famous P/ECE game as it was released with source code for an SDL version and received ports to GP32 and related platforms.
+This is perhaps the most famous P/ECE game as it was released with source code for an SDL version and received ports to GP32 and related platforms. There's a [modern remake for iOS and Android](http://microtrip-game.com/spout/) by a different developer, but it goes by the same title. 
 
----
+***
 
 ![GIF](/images/posts/piece-fencer.gif#piece)
 
 ### fencer
+
 A snake type game where your head has momentum and your tail length depends on your speed, allowing fine and fluid movement. The goal is to avoid bombs and use your tail as a barrier that will destroy them. Chaining together multiple explosions is the key to high scores.
 
----
+There was an official updated version for iOS, titled fencell, but it's not longer on the App Store due to Apple removing all 32-bit games back in 2017. Yet the 20-year-old P/ECE version is [still available for download](http://www.susami.co.jp/kuni/junk/junk.htm). There's a lesson for us all.
+
+***
 
 ![GIF](/images/posts/piece-interground.gif#piece)
 
 ### interground
+
 In this game you must use a rotating stick to push sand around in an attempt to bury the little people running on top of it. If the stick touches a moving enemy or you run out of time that means game over.
 
----
+***
 
 ## Selected Games by Kenta Cho (ABA Games)
 
-Whilst digging into P/ECE forgotten history, I also found several old games by Kenta Cho (then: Saba, now: ABA Games) who even today continues to [crank out brilliant little games](http://www.asahi-net.or.jp/~cs8k-cyu/browser.html) at an inspiring rate.
+Whilst digging into P/ECE forgotten history, I also found several old games by Kenta Cho (then: Saba, now: ABA Games) who even today continues to [crank out brilliant little games](http://www.asahi-net.or.jp/\~cs8k-cyu/browser.html) at an inspiring rate.
 
 ![GIF](/images/posts/piece-barrage-reactor.gif#piece)
 
 ### Barrage Reactor
+
 A twin-stick shmup played with a d-pad and two buttons! The d-pad moves your ship around and the buttons rotate your aim as you fire automatically. Waves of enemies appear and a surprisingly tactical game ensues.
 
----
+***
 
 ![GIF](/images/posts/piece-speed-barricade.gif#piece)
 
 ### Speed Barricade
+
 A 3D "Tron" light cycles game where the aim is to stay alive for as long as possible whilst outwitting an increasing number of computer controlled players. Quick reflexes are definitely needed for this one!
 
----
+***
 
 ![GIF](/images/posts/piece-re.gif#piece)
 
 ### Re: W32/Badtrance
+
 A 3D demake of Rez where the Microsoft Outlook(!) icon produces waves of enemies that need to be shot down as efficiently as possible by locking on to multiple enemies before firing your missiles. With the strap line "Gentlemen, open your Outlook. Go to Cyberterrorism." maybe Kenta Cho was sick of email back in 2001?
 
----
+***
 
 If there's enough interest I'll feature more P/ECE games in a future blog post. Let me know on the comments link at the bottom of the page.
 
@@ -131,31 +142,31 @@ Oh, and both devices have names that make web searches a bit tricky. 😅
 
 ## Specifications Comparison
 
-|                        |Playdate                                      |P/ECE                       |
-|------------------------|----------------------------------------------|----------------------------|
-|Manufacturer            |Panic                                         |Aquaplus                    |
-|Release date            |2021                                          |2001                        |
-|Battery (active)          |8h                                            |8h                          |
-|Battery (standby)         |2w                                            |?                           |
-|Battery (type)            |Rechargeable internal battery                 |1×AA                        |
-|CPU (type)                |STMicroelectronics STM32F746<br>(ARM Cortex-M7F) |EPSON S1C33209<br>(32-bit RISC)|
-|CPU (speed)               |180 MHz                                       |24 Mhz                      |
-|Storage (RAM)             |16MB                                          |256KB                       |
-|Storage (Flash)           |4GB (3.9GB usable)                            |512KB (348KB usable)        |
-|Device (colour)           |Yellow                                        |Silver                      |
-|Device (dimensions)       |76×74×9mm                                     |101×65×17mm                 |
-|Device (inputs)           |D-pad, A, B, Menu, Sleep, Accelerometer, Crank|D-pad, A, B, Start, Select  |
-|Device (weight)           |85g                                           |92g                         |
-|Data connection (wired)   |USB-C to A                                    |USB-B to A                  |
-|Data connection (wireless)|Wi-Fi & Bluetooth                             |Infrared (IR)               |
-|Sound (type)              |Software synthesis, Digital audio             |Software synthesis          |
-|Sound (speaker)           |Mono                                          |Mono                        |
-|Sound (headphone)         |Stereo                                        |Mono                        |
-|Display (technology)      |Sharp Memory LCD                              |FSTN LCD                    |
-|Display (size)            |59×35mm<br>(2.7” diagonal)                       |45×31mm<br>(2.15” diagonal)    |
-|Display (resolution)      |400×240                                       |128×88                      |
-|Display (colours)         |2 (1-bit)                                     |4 (2-bit greyscale)         |
-|Display (rendering)       |Software                                      |Software                    |
-|Software (bundled)        |24                                            |6                           |
-|Software (SDK)            |C & Lua                                       |C                           |
-|Launch price            |$179 (¥19000)                                 |¥11000 ($100)               |
+|  | Playdate | P/ECE |
+| --- | --- | --- |
+| Manufacturer | Panic | Aquaplus |
+| Release date | 2021 | 2001 |
+| Battery (active) | 8h | 8h |
+| Battery (standby) | 2w | ? |
+| Battery (type) | Rechargeable internal battery | 1×AA |
+| CPU (type) | STMicroelectronics STM32F746<br>(ARM Cortex-M7F) | EPSON S1C33209<br>(32-bit RISC) |
+| CPU (speed) | 180 MHz | 24 Mhz |
+| Storage (RAM) | 16MB | 256KB |
+| Storage (Flash) | 4GB (3.9GB usable) | 512KB (348KB usable) |
+| Device (colour) | Yellow | Silver |
+| Device (dimensions) | 76×74×9mm | 101×65×17mm |
+| Device (inputs) | D-pad, A, B, Menu, Sleep, Accelerometer, Crank | D-pad, A, B, Start, Select |
+| Device (weight) | 85g | 92g |
+| Data connection (wired) | USB-C to A | USB-B to A |
+| Data connection (wireless) | Wi-Fi & Bluetooth | Infrared (IR) |
+| Sound (type) | Software synthesis, Digital audio | Software synthesis |
+| Sound (speaker) | Mono | Mono |
+| Sound (headphone) | Stereo | Mono |
+| Display (technology) | Sharp Memory LCD | FSTN LCD |
+| Display (size) | 59×35mm<br>(2.7” diagonal) | 45×31mm<br>(2.15” diagonal) |
+| Display (resolution) | 400×240 | 128×88 |
+| Display (colours) | 2 (1-bit) | 4 (2-bit greyscale) |
+| Display (rendering) | Software | Software |
+| Software (bundled) | 24 | 6 |
+| Software (SDK) | C & Lua | C |
+| Launch price | $179 (¥19000) | ¥11000 ($100) |
