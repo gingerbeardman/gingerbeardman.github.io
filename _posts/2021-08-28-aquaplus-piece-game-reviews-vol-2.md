@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aquaplus P/ECE: Games Reviews Vol. 1'
+title: 'Aquaplus P/ECE: Games Reviews Vol. 2'
 tags:
 - piece
 - playdate
@@ -16,9 +16,9 @@ comments:
 
 ---
 
-If you've not yet read [my review of the P/ECE](/2021/08/19/aquaplus-piece-vs-panic-playdate/) hardware comparing it to Playdate, now is the time to catch up!
+If you've not yet read [my review of the P/ECE](/2021/08/19/aquaplus-piece-vs-panic-playdate/) hardware comparing it to Playdate, now is the time to catch up! It includes my 6 favourite games on the system.
 
-Below is the first of many roundups of interesting P/ECE games, in which I cover more of the interesting and unique games that I enjoy on the system.
+Below I cover more of the interesting and unique games that I enjoy on the system.
 
 ***
 
