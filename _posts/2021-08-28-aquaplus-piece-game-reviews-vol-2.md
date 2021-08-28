@@ -79,7 +79,7 @@ There's also a [Windows version](https://www.vector.co.jp/magazine/softnews/0506
 ![GIF](/images/posts/piece-norito.gif#piece)
 
 ### Norito, by Gorujii
-Another runner-up in the [Megastore Cup official contest](https://www.coremagazine.co.jp/megastore/piece/result.html). A great looking game featuring fluid wire-frame 3D with dithering for distant objects. It's a strange sort of shmup that gives me Jumping Flash vibes. Controls take some getting used to but after that score attack is quite a challenge. The game system and stages are intertwined with a story and things like the "one-shot" fortune-telling, add extra flair.
+Another runner-up in the [Megastore Cup official contest](https://www.coremagazine.co.jp/megastore/piece/result.html). A great looking game featuring fluid wire-frame 3D with dithering for distant objects. It's a strange sort of shmup that makes me thing of both Jumping Flash and Battlezone. Controls take some getting used to but after that score attack is quite a challenge. The game system and stages are intertwined with a story and things like the "one-shot" fortune-telling, add extra flair.
 
 ***
 
