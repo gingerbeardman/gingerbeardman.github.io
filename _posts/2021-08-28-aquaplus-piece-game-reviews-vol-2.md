@@ -60,7 +60,7 @@ This game came out of the first of two P/ECE Hand Books written by [Hiroshi Maka
 
 <iframe width="512" height="342" src="https://www.youtube.com/embed/YLcG_G5s8R8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### ALERT (アラート), by Iro
+### ALERT (アラート), by Jumpei Isshiki (HELLO WORLD PROJECT)
 A nice little barrage shmup with endless, procedurally generated boss fights! Prize winner in the [Megastore Cup official contest](https://www.coremagazine.co.jp/megastore/piece/result.html). There's a lot going on here, not just the bullets but also the gameplay logic and music. Remaining enemy bullets turn to points which offers an engaging risk/reward mechanic. Three game modes, Easy, Hard, and ENDLESS. Let's go for the high score!
 
 I read that there was once a [port of this game](https://webcache.googleusercontent.com/search?q=cache:YsJG_IIkS4EJ:https://itest.5ch.net/mao/test/read.cgi/linux/1262615084+&cd=2&hl=en&ct=clnk&gl=uk&client=safari) to Dingux-based devices, but I had no luck finding it.
