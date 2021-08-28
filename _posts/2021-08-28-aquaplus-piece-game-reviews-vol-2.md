@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aquaplus P/ECE: Games Reviews Vol. 2'
+title: 'Aquaplus P/ECE: Game Reviews Vol. 2'
 tags:
 - piece
 - playdate
