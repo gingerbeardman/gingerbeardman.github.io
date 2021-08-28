@@ -12,7 +12,7 @@ nouns:
 - Asteroids
 - Windows
 - Sokoban
-comments:
+comments: https://twitter.com/gingerbeardman/status/1431594718736130049
 
 ---
 
