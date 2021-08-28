@@ -60,8 +60,8 @@ This game came out of the first of two P/ECE Hand Books written by [Hiroshi Maka
 
 <iframe width="512" height="342" src="https://www.youtube.com/embed/YLcG_G5s8R8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### ALERT (アラート), by Isshiki
-A nice little barrage shmup with endless, procedurally generated boss fights! Prize winner in the Megastore Cup official contest. There's a lot going on here, not just the bullets but also the gameplay logic and music. Remaining enemy bullets turn to points which offers an engaging risk/reward mechanic. Three game modes, Easy, Hard, and ENDLESS. Let's go for the high score!
+### ALERT (アラート), by Iro
+A nice little barrage shmup with endless, procedurally generated boss fights! Prize winner in the [Megastore Cup official contest](https://www.coremagazine.co.jp/megastore/piece/result.html). There's a lot going on here, not just the bullets but also the gameplay logic and music. Remaining enemy bullets turn to points which offers an engaging risk/reward mechanic. Three game modes, Easy, Hard, and ENDLESS. Let's go for the high score!
 
 I read that there was once a [port of this game](https://webcache.googleusercontent.com/search?q=cache:YsJG_IIkS4EJ:https://itest.5ch.net/mao/test/read.cgi/linux/1262615084+&cd=2&hl=en&ct=clnk&gl=uk&client=safari) to Dingux-based devices, but I had no luck finding it.
 
@@ -70,13 +70,15 @@ I read that there was once a [port of this game](https://webcache.googleusercont
 ![GIF](/images/posts/piece-delivery-bird.gif#piece)
 
 ### Delivery Bird, by Hafupon
-This is a Sokoban that shifts the view to side-on rather than top-down, which allows for height and gravity to enter into the puzzles. As with many of the best games on P/ECE, it was entered into one of the official game development [contests run by Aquaplus](https://aquaplus.jp/piece/contest/index.html). There's also a [Windows version](https://www.vector.co.jp/magazine/softnews/050608/n0506085.html) that expands on the concept.
+This is a Sokoban that shifts the view to side-on rather than top-down, which allows for height and gravity to enter into the puzzles. As with many of the best games on P/ECE, it was entered into one of the official game development [contests run by Aquaplus](https://aquaplus.jp/piece/contest/index.html). This game won a runner-up prize.
+
+There's also a [Windows version](https://www.vector.co.jp/magazine/softnews/050608/n0506085.html) that expands on the concept.
 
 ***
 
 ![GIF](/images/posts/piece-norito.gif#piece)
 
-### Norito, by unknown author
+### Norito, by Gorujii
 Another great looking game featuring fluid wire-frame 3D. A strange sort of shmup that gives me Jumping Flash vibes, but without the jumping. Controls take some getting used to but after that score attack is quite a challenge. The game system and stages are intertwined with a story, with world-building features, like "one-shot" fortune-telling, add extra flair.
 
 ***
