@@ -152,8 +152,8 @@ Oh, and both devices have names that make web searches a bit tricky. 😅
 | --- | --- | --- |
 | Manufacturer | Panic | Aquaplus |
 | Release date | 2021 | 2001 |
-| Battery (active) | 8h | 8h |
-| Battery (standby) | 2w | ? |
+| Battery (active) | 8h | 2h |
+| Battery (standby) | 2w | 1w |
 | Battery (type) | Rechargeable internal battery | 1×AA |
 | CPU (type) | STMicroelectronics STM32F746<br>(ARM Cortex-M7F) | EPSON S1C33209<br>(32-bit RISC) |
 | CPU (speed) | 180 MHz | 24 Mhz |
