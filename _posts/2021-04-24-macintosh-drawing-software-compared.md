@@ -49,8 +49,8 @@ One small disappointment: Macromedia Fireworks requires the PPC architecture so 
 | ShareDraw          |       | ●      | ●      |         |  |
 | Studio/1           | ●     |        |        |         | Animation, 1-bit |
 | Studio/8           | ●     |        |        |         | Animation, 8-bit |
-| SuperPaint         | ●     | ●      | ○      |         | One layer each for pixel and vector |
-| UltraPaint         | ●     | ●      | ●      | ○       | Bottom layer opaque |
+| SuperPaint         | ●     | ●      | ●      |         | Two layers, plus many objects |
+| UltraPaint         | ●     | ●      | ●      | ○       | Eight layers, plus many objects |
 | Zeus               | ●     |        |        |         | Animation |
 {: #macintosh-drawing-software}
 
