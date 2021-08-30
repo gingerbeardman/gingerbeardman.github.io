@@ -18,20 +18,20 @@ Below is a list of various drawing applications that are available to use with S
 
 I'm mostly interested in apps that can do both pixel and vector, and that support layers and transparency. The table below might be useful for at-a-glance comparisons. Apps run in both mono or colour, unless stated otherwise.
 
-Deneba artWORKS can do both pixel and vector, has layers and (partial) transparency. The bottom layer is opaque and all layers on top are transparent. Collections of pixels are managed as a special object, and there's a limit of 8 layers. The user interface is brilliant.
+Deneba artWORKS can do both pixel and vector, has layers and partial transparency. The bottom layer is opaque and all layers on top are transparent. Collections of pixels are managed as a special object, and there's a limit of 8 layers. The user interface is brilliant.
 
-SuperPaint allows cut/copy and paste from the pixel layer to the vector layer at which point those collections of pixels are managed as SuperBits objects and can be edited in isolation. [ref](https://twitter.com/tumult/status/1432279388519763972)
+SuperPaint has two layers: pixel and vector with transparency in all but the base layer. Though it allows cut/copy and paste from the pixel layer to the vector layer at which point those collections of pixels are managed as SuperBits objects and can be edited in isolation.[ref](https://twitter.com/tumult/status/1432279388519763972)
 
 Freehand is king of the vector apps. It really was so much better than Illustrator. Such a shame that it's no longer around. To use it on iPad is quite something!
 
-Also interesting is how many early versions of successful apps didn't support layers (Photoshop, Freehand) or transparency (Photoshop).
+Also interesting is how many early versions of successful apps didn't support layers (Photoshop, Freehand) or full transparency (Photoshop).
 
 One small disappointment: Macromedia Fireworks requires the PPC architecture so won't run on my iPad System 7 setup. Sad face.
 
 | APP                | PIXEL | VECTOR | LAYERS | TRANSP. | NOTES |
 | ------------------ |:-----:|:------:|:------:|:-------:| ----- |
-| artWORKS           | ●     | ●      | ●      | ○       | Bottom layer opaque |
-| Canvas             | ●     | ●      | ●      | ○       | Bottom layer opaque |
+| artWORKS           | ●     | ●      | ●      | ○       | Many layers, many objects |
+| Canvas             | ●     | ●      | ●      | ○       | Many layers, many objects |
 | ClarisDraw         | ●     | ●      | ●      |         | Pixel drawing within specific objects only |
 | Cricket Draw       |       | ●      |        |         |  |
 | Draw It Again Sam  |       | ●      | ●      |         |  |
@@ -46,13 +46,13 @@ One small disappointment: Macromedia Fireworks requires the PPC architecture so 
 | MacPaint           | ●     |        |        |         |  |
 | MacroPaint         | ●     |        |        | ○       | Transparent patterns |
 | Photoshop 1.0–2.5  | ●     |        |        |         |  |
-| Photoshop 3.0      | ●     |        | ●      | ●       |  |
+| Photoshop 3.0      | ●     |        | ●      | ●       | Full alpha channel transparency |
 | PixelPaint         | ●     |        |        |         |  |
 | ShareDraw          |       | ●      | ●      |         |  |
 | Studio/1           | ●     |        |        |         | Animation, 1-bit |
 | Studio/8           | ●     |        |        |         | Animation, 8-bit |
-| SuperPaint         | ●     | ●      | ●      |         | Two layers, plus many objects |
-| UltraPaint         | ●     | ●      | ●      | ○       | Eight layers, plus many objects |
+| SuperPaint         | ●     | ●      | ●      | ○       | Two layers, many objects |
+| UltraPaint         | ●     | ●      | ●      | ○       | Eight layers, many objects |
 | Zeus               | ●     |        |        |         | Animation |
 {: #macintosh-drawing-software}
 
