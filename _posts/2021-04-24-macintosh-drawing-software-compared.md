@@ -20,7 +20,7 @@ I'm mostly interested in apps that can do both pixel and vector, and that suppor
 
 Deneba artWORKS can do both pixel and vector, has layers and (partial) transparency. The bottom layer is opaque and all layers on top are transparent. Collections of pixels are managed as a special object, and there's a limit of 8 layers. The user interface is brilliant.
 
-SuperPaint allows cut/copy and paste from the pixel layer to the vector layer at which point those collections of pixels are managed as SuperBits objects and can be edited individually. [ref](https://twitter.com/tumult/status/1432279388519763972)
+SuperPaint allows cut/copy and paste from the pixel layer to the vector layer at which point those collections of pixels are managed as SuperBits objects and can be edited in isolation. [ref](https://twitter.com/tumult/status/1432279388519763972)
 
 Freehand is king of the vector apps. It really was so much better than Illustrator. Such a shame that it's no longer around. To use it on iPad is quite something!
 
