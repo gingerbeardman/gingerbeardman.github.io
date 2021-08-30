@@ -28,7 +28,7 @@ One small disappointment: Macromedia Fireworks requires the PPC architecture so 
 
 | APP                | PIXEL | VECTOR | LAYERS | TRANSP. | NOTES |
 | ------------------ |:-----:|:------:|:------:|:-------:| ----- |
-| artWorks           | ●     | ●      | ●      | ○       | Bottom layer opaque |
+| artWORKS           | ●     | ●      | ●      | ○       | Bottom layer opaque |
 | Canvas             | ●     | ●      | ●      | ○       | Bottom layer opaque |
 | ClarisDraw         | ●     | ●      | ●      |         | Pixel drawing within specific objects only |
 | Cricket Draw       |       | ●      |        |         |  |
