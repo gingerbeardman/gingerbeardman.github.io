@@ -60,5 +60,5 @@ In 2015 Matt Repetski and Matt Hawkins at [Attract Mode](https://medium.com/attr
 - 2017-04: [Article by Victor Navarro Remesal](https://web.archive.org/web/20170401011626/http://abcdefghijklmn-pqrstuvwxyz.com/the-flying-luna-clipper-el-cine-chiptune-que-pudo-ser/) in Spanish
 - 2019-01: [My discovery of The Flying Luna Clipper](https://twitter.com/gingerbeardman/status/1080504185106386946)
 - 2020-08: [Follow-up article at Attract Mode blog](https://medium.com/attract-mode/dream-flight-interpreted-the-possible-flying-luna-clipper-origin-11c1ee5ebe1f)
-- 2020-08: [The Flying Luan Clipper is screened at Wonderville, NYC, and on Twitch](https://www.wonderville.nyc/events/luna-clipper)
+- 2020-08: [The Flying Luna Clipper is screened at Wonderville, NYC, and on Twitch](https://www.wonderville.nyc/events/luna-clipper)
 - [Reviews on Letterboxd](https://letterboxd.com/film/the-flying-luna-clipper/)
