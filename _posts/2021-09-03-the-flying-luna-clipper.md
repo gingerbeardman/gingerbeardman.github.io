@@ -17,7 +17,7 @@ carousel: flying-luna-clipper
 comments: https://twitter.com/gingerbeardman/status/1433782159685324804
 
 ---
- The Flying Luna Clipper (フライング ルナ クリッパー) is an animated movie produced by Sony and directed by [Ikko Ohno](https://www.instagram.com/ikko_nikko_kekko/). It was released only in Japan on 8mm, Betamax, VHS, and Laser Disc, in [October 1987](https://www.lddb.com/laserdisc/36908/88LS-85004/Flying-Luna-Clipper).
+ The Flying Luna Clipper (フライング ルナ クリッパー) is an animated movie produced by Kan Tsuzurahara at Sony and directed by [Ikko Ohno](https://www.instagram.com/ikko_nikko_kekko/) at MSX Magazine. It was released only in Japan on 8mm, Betamax, VHS, and Laser Disc, in [October 1987](https://www.lddb.com/laserdisc/36908/88LS-85004/Flying-Luna-Clipper).
 
 It's a quite surreal but relaxing 55 minutes, and well worth a viewing. If you plan to watch it, I'd suggest to do so now before reading any possible spoilers below. Come back later to read the rest of this post.
 
@@ -33,7 +33,7 @@ To me the piece feels like an extended intro sequence to a non-existent video ga
 
 The movie was created, incredibly, using only an MSX2. All artwork was drawn on that type of computer, and post production completed with additional video editing equipment attached to such a computer. I won't go into the plot specifically, but it features a travelling snowman, performing bananas, the titular Flying Luna Clipper, and plenty of sun, sea and surf. It's one of those things that could only come from [bubble era](https://en.wikipedia.org/wiki/Japanese_asset_price_bubble) Japan, and as the final credits rolled I felt incredibly lucky to have been able to witness it.
 
-![The Flying Luna Clipper, storyboard](/images/posts/flying-luna-clipper-storyboard.jpg " The Flying Luna Clipper, storyboard")
+![The Flying Luna Clipper, exclusive storyboard photo](/images/posts/flying-luna-clipper-storyboard.jpg " The Flying Luna Clipper, exclusive storyboard photo")
 {:.tofigure}
 
 In 2004 an elaborate effort was made to promote a sequel to The Flying Luna Clipper, with an article in [MSX Magazine Permanent Revival 2](https://archive.org/details/MSXMAGAZINE2) that laid out the story alongside still images and included a set of calendar postcard, all curiously missing the month of October. Production of the follow-up movie never went any further due to issues with the feasibility of using the ancient MSX graphics tools. Though Ikko has since told me he dreams that someday Luna Clipper will fly again！
