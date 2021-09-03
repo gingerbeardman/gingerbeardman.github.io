@@ -44,7 +44,7 @@ In 2004 an elaborate effort was made to promote a sequel to The Flying Luna Clip
 
 In 2015 Matt Repetski and Matt Hawkins at [Attract Mode](https://medium.com/attract-mode/about) were kind enough to share a copy of the movie that had been ripped from Laser Disc by an anonymous source. Thanks to all involved for preserving this wonderful work for all time. And, of course, arigatou gozaimasu Ohno-san! 🙌
 
-{% include carousel.html height="100" unit="%" duration="7" %}
+{% include carousel.html height="128" unit="%" duration="7" %}
 
 ### Further reading
 - 1987-05: [Announcement in MSX Magazine, detailing the 5th Anniversary project](https://archive.org/details/MSXmagazine198705S/page/n105/mode/1up)
