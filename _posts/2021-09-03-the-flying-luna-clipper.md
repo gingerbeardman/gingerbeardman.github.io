@@ -17,7 +17,7 @@ carousel: flying-luna-clipper
 comments: https://twitter.com/gingerbeardman/status/1433782159685324804
 
 ---
- The Flying Luna Clipper is an animated movie produced by Sony and directed by [Ikko Ohno](https://www.instagram.com/ikko_nikko_kekko/). It was released only in Japan on 8mm, Betamax, VHS, and Laser Disc, in [October 1987](https://www.lddb.com/laserdisc/36908/88LS-85004/Flying-Luna-Clipper).
+ The Flying Luna Clipper (フライング ルナ クリッパー) is an animated movie produced by Sony and directed by [Ikko Ohno](https://www.instagram.com/ikko_nikko_kekko/). It was released only in Japan on 8mm, Betamax, VHS, and Laser Disc, in [October 1987](https://www.lddb.com/laserdisc/36908/88LS-85004/Flying-Luna-Clipper).
 
 It's a quite surreal but relaxing 55 minutes, and well worth a viewing. If you plan to watch it, I'd suggest to do so now before reading any possible spoilers below. Come back later to read the rest of this post.
 
