@@ -54,7 +54,7 @@ In 2015 Matt Repetski and Matt Hawkins at [Attract Mode](https://medium.com/attr
 - 1987-09: [Preview in MSX Magazine, detailing related merch](https://issuu.com/msxblog/docs/msx_magazine_1987_09/134)
 - 1987-10: [Feature in MSX Magazine, showing storyboard timeline of all chapters](https://archive.org/details/MSXmagazine198710S/page/n145/mode/2up)
 - 1987-11: [Promotiomal feature in MSX Magazine, stating the movie is for sale](https://archive.org/details/MSXmagazine198711S/page/n137/mode/2up)
-- 2012-05: [Blog post by Ikko Ohno regarding feedback he receives from viewers of the movie](https://ja6nqo.blog.ss-blog.jp/2012-05-29-1)
+- 2012-05: [Blog post by movie produder regarding feedback received from a viewer of the movie](https://ja6nqo.blog.ss-blog.jp/2012-05-29-1)
 - 2015-12: [Parts 1](https://blog.attractmo.de/post/134913165050/review-the-flying-luna-clipper-part-1-my-love) & [2 of a review](https://blog.attractmo.de/post/134976251900/review-the-flying-luna-clipper-part-2-ladies) at the Attract Mode blog, the first Western mention I've found
 - 2017-03: [Twitter thread by Victor Navarro Remesal](https://twitter.com/VtheWanderer/status/846784959859830784)
 - 2017-04: [Article by Victor Navarro Remesal](https://web.archive.org/web/20170401011626/http://abcdefghijklmn-pqrstuvwxyz.com/the-flying-luna-clipper-el-cine-chiptune-que-pudo-ser/) in Spanish
