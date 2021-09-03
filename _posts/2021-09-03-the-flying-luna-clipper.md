@@ -38,11 +38,11 @@ The movie was created, incredibly, using only an MSX2. All artwork was drawn by 
 
 In 2004 an elaborate effort was made to promote a sequel to The Flying Luna Clipper, with an article in [MSX Magazine Permanent Revival 2](https://archive.org/details/MSXMAGAZINE2) that laid out the story alongside still images and included a set of calendar postcard, all curiously missing the month of October. Production of the follow-up movie never went any further due to issues with the feasibility of using the ancient MSX graphics tools. Though Ikko has since told me he dreams that someday Luna Clipper will fly again！
 
+In 2015 Matt Repetski and Matt Hawkins at [Attract Mode](https://medium.com/attract-mode/about) were kind enough to share a copy of the movie that had been ripped from Laser Disc by an anonymous source. Thanks to all involved for preserving this wonderful work for all time. And, of course, arigatou gozaimasu Ohno-san! 🙌
+
 ### Watch the movie
 - [Watch at YouTube](https://www.youtube.com/watch?v=P2TNZyCWA-Q)
 - [Download at Internet Archive](https://archive.org/details/the-flying-luna-clipper-complete)
-
-In 2015 Matt Repetski and Matt Hawkins at [Attract Mode](https://medium.com/attract-mode/about) were kind enough to share a copy of the movie that had been ripped from Laser Disc by an anonymous source. Thanks to all involved for preserving this wonderful work for all time. And, of course, arigatou gozaimasu Ohno-san! 🙌
 
 {% include carousel.html height="128" unit="%" duration="7" %}
 
