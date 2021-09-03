@@ -6,13 +6,13 @@ tags:
 - animation
 - movie
 nouns:
+- MSX Magazine Permanent Revival 2
+- MSX Magazine
 - MSX2
 - MSX
 - The Flying Luna Clipper
 - Flying Luna Clipper
 - Luna Clipper
-- MSX Magazine Permanent Revival 2
-- MSX Magazine
 carousel: flying-luna-clipper
 comments: https://twitter.com/gingerbeardman/status/1433782159685324804
 
