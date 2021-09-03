@@ -47,7 +47,7 @@ In 2015 Matt Repetski and Matt Hawkins at [Attract Mode](https://medium.com/attr
 {% include carousel.html height="128" unit="%" duration="7" %}
 
 ### Further reading
-- 1987-05: [Announcement in MSX Magazine, detailing the 5th Anniversary project](https://archive.org/details/MSXmagazine198705S/page/n105/mode/1up)
+- 1987-05: [Announcement in MSX Magazine, detailing the 5th Anniversary project](https://archive.org/details/MSXmagazine198705S/page/n105/mode/2up)
 - 1987-06: [Preview in MSX Magazine, detailing Polynesia destination](https://archive.org/details/MSXmagazine198706S/page/n85/mode/2up)
 - 1987-07: [Preview in MSX Magazine, detailing the starring characters](https://archive.org/details/MSXmagazine198707S/page/n139/mode/2up)
 - 1987-08: [Preview in MSX Magazine, detailing the chapter locations](https://archive.org/details/MSXmagazine198708S/page/n137/mode/2up)
