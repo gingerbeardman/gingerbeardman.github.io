@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'The Flying Luna Clipper (1987)'
+title: The Flying Luna Clipper (1987)
 tags:
 - msx
 - animation
 - movie
 nouns:
-- MSX Magazine Permanent Revival 2
-- MSX Magazine
 - MSX2
 - MSX
 - The Flying Luna Clipper
 - Flying Luna Clipper
 - Luna Clipper
+- MSX Magazine Permanent Revival 2
+- MSX Magazine
 carousel: flying-luna-clipper
 comments: https://twitter.com/gingerbeardman/status/1433782159685324804
 
 ---
- The Flying Luna Clipper (フライング ルナ クリッパー) is an animated movie produced by Kan Tsuzurahara at Sony and directed by [Ikko Ohno](https://www.instagram.com/ikko_nikko_kekko/) at MSX Magazine. It was released only in Japan on 8mm, Betamax, VHS, and Laser Disc, in [October 1987](https://www.lddb.com/laserdisc/36908/88LS-85004/Flying-Luna-Clipper).
+The Flying Luna Clipper (フライング ルナ クリッパー) is an animated movie produced by Kan Tsuzurahara at Sony and directed by [Ikko Ohno](https://www.instagram.com/ikko_nikko_kekko/). It was released—only in Japan—on 8mm, Betamax, VHS, and Laser Disc, in [October 1987](https://www.lddb.com/laserdisc/36908/88LS-85004/Flying-Luna-Clipper).
 
 It's a quite surreal but relaxing 55 minutes, and well worth a viewing. If you plan to watch it, I'd suggest to do so now before reading any possible spoilers below. Come back later to read the rest of this post.
 
@@ -41,24 +41,26 @@ In 2004 an elaborate effort was made to promote a sequel to The Flying Luna Clip
 In 2015 Matt Repetski and Matt Hawkins at [Attract Mode](https://medium.com/attract-mode/about) were kind enough to share a copy of the movie that had been ripped from Laser Disc by an anonymous source. Thanks to all involved for preserving this wonderful work for all time. And, of course, arigatou gozaimasu Ohno-san! 🙌
 
 ### Watch the movie
-- [Watch at YouTube](https://www.youtube.com/watch?v=P2TNZyCWA-Q)
-- [Download at Internet Archive](https://archive.org/details/the-flying-luna-clipper-complete)
+
+* [Watch at YouTube](https://www.youtube.com/watch?v=P2TNZyCWA-Q)
+* [Download at Internet Archive](https://archive.org/details/the-flying-luna-clipper-complete)
 
 {% include carousel.html height="128" unit="%" duration="7" %}
 
 ### Further reading
-- 1987-05: [Announcement in MSX Magazine, detailing the 5th Anniversary project](https://archive.org/details/MSXmagazine198705S/page/n105/mode/2up)
-- 1987-06: [Preview in MSX Magazine, detailing Polynesia destination](https://archive.org/details/MSXmagazine198706S/page/n85/mode/2up)
-- 1987-07: [Preview in MSX Magazine, detailing the starring characters](https://archive.org/details/MSXmagazine198707S/page/n139/mode/2up)
-- 1987-08: [Preview in MSX Magazine, detailing the chapter locations](https://archive.org/details/MSXmagazine198708S/page/n137/mode/2up)
-- 1987-09: [Preview in MSX Magazine, detailing related merch](https://issuu.com/msxblog/docs/msx_magazine_1987_09/134)
-- 1987-10: [Feature in MSX Magazine, showing storyboard timeline of all chapters](https://archive.org/details/MSXmagazine198710S/page/n145/mode/2up)
-- 1987-11: [Promotiomal feature in MSX Magazine, stating the movie is for sale](https://archive.org/details/MSXmagazine198711S/page/n137/mode/2up)
-- 2012-05: [Blog posts by producer Kan Tsuzurahara about the enduring nature of the movie](https://ja6nqo.blog.ss-blog.jp/search/?keyword=luna)
-- 2015-12: [Parts 1](https://blog.attractmo.de/post/134913165050/review-the-flying-luna-clipper-part-1-my-love) & [2 of a review at the Attract Mode blog](https://blog.attractmo.de/post/134976251900/review-the-flying-luna-clipper-part-2-ladies), the first Western mention I've found
-- 2017-03: [Twitter thread by Victor Navarro Remesal](https://twitter.com/VtheWanderer/status/846784959859830784)
-- 2017-04: [Article by Victor Navarro Remesal](https://web.archive.org/web/20170401011626/http://abcdefghijklmn-pqrstuvwxyz.com/the-flying-luna-clipper-el-cine-chiptune-que-pudo-ser/) in Spanish
-- 2019-01: [My discovery of The Flying Luna Clipper](https://twitter.com/gingerbeardman/status/1080504185106386946)
-- 2020-08: [Follow-up article at Attract Mode blog](https://medium.com/attract-mode/dream-flight-interpreted-the-possible-flying-luna-clipper-origin-11c1ee5ebe1f)
-- 2020-08: [The Flying Luna Clipper is screened at Wonderville, NYC, and on Twitch](https://www.wonderville.nyc/events/luna-clipper)
-- [Reviews on Letterboxd](https://letterboxd.com/film/the-flying-luna-clipper/)
+
+* 1987-05: [Announcement in MSX Magazine, detailing the 5th Anniversary project](https://archive.org/details/MSXmagazine198705S/page/n105/mode/2up)
+* 1987-06: [Preview in MSX Magazine, detailing Polynesia destination](https://archive.org/details/MSXmagazine198706S/page/n85/mode/2up)
+* 1987-07: [Preview in MSX Magazine, detailing the starring characters](https://archive.org/details/MSXmagazine198707S/page/n139/mode/2up)
+* 1987-08: [Preview in MSX Magazine, detailing the chapter locations](https://archive.org/details/MSXmagazine198708S/page/n137/mode/2up)
+* 1987-09: [Preview in MSX Magazine, detailing related merch](https://issuu.com/msxblog/docs/msx_magazine_1987_09/134)
+* 1987-10: [Feature in MSX Magazine, showing storyboard timeline of all chapters](https://archive.org/details/MSXmagazine198710S/page/n145/mode/2up)
+* 1987-11: [Promotiomal feature in MSX Magazine, stating the movie is for sale](https://archive.org/details/MSXmagazine198711S/page/n137/mode/2up)
+* 2012-05: [Blog posts by producer Kan Tsuzurahara about the enduring nature of the movie](https://ja6nqo.blog.ss-blog.jp/search/?keyword=luna)
+* 2015-12: [Parts 1](https://blog.attractmo.de/post/134913165050/review-the-flying-luna-clipper-part-1-my-love) & [2 of a review at the Attract Mode blog](https://blog.attractmo.de/post/134976251900/review-the-flying-luna-clipper-part-2-ladies), the first Western mention I've found
+* 2017-03: [Twitter thread by Victor Navarro Remesal](https://twitter.com/VtheWanderer/status/846784959859830784)
+* 2017-04: [Article by Victor Navarro Remesal](https://web.archive.org/web/20170401011626/http://abcdefghijklmn-pqrstuvwxyz.com/the-flying-luna-clipper-el-cine-chiptune-que-pudo-ser/) in Spanish
+* 2019-01: [My discovery of The Flying Luna Clipper](https://twitter.com/gingerbeardman/status/1080504185106386946)
+* 2020-08: [Follow-up article at Attract Mode blog](https://medium.com/attract-mode/dream-flight-interpreted-the-possible-flying-luna-clipper-origin-11c1ee5ebe1f)
+* 2020-08: [The Flying Luna Clipper is screened at Wonderville, NYC, and on Twitch](https://www.wonderville.nyc/events/luna-clipper)
+* [Reviews on Letterboxd](https://letterboxd.com/film/the-flying-luna-clipper/)
