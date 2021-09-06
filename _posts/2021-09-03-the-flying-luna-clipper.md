@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Flying Luna Clipper (1987)
+title: 'A movie made using MSX2 computers: The Flying Luna Clipper'
 tags:
 - msx
 - animation
