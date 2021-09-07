@@ -45,7 +45,7 @@ The comic strip details the history of Apple and the Macintosh from 1970 through
 * the break-up
 * NeXT
 * Knowledge Navigator
-* DynaMac (what Macintosh was called on its release in Japan)
+* DynaMac (a Macintosh 512K marketed by Canon in Japan)
 * successors to the Macintosh
 * Apple prototypes
 * Newton
