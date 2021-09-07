@@ -29,7 +29,7 @@ comments: https://twitter.com/gingerbeardman/status/1435348876823875586
 ---
  Macintosh Story "Sweet or Sour Apple?" (マッキントッシュ物語 リンゴ甘いか酸っぱいか) is a comic strip drawn by Hitoshi Tanaka for the 1993-11-25 "MacBoy" issue of Japanese men's lifestyle magazine POPEYE (widely known as the "Magazine for City Boys").
 
-The comic strip details the history of Apple and the Macintosh from 1970 through to 1993, and features:
+The comic strip details the history of Apple and the Macintosh from 1970 through to 1993, and features a whole lot of history over its four pages:
 * reality-distorting Steve Jobs
 * angry Steve Wozniak
 * a strangely ginger-bearded Doug Engelbart
