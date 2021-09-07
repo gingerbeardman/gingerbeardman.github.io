@@ -8,13 +8,15 @@ nouns:
 - Macintosh Story
 - Hitoshi Tanaka
 - POPEYE
+- XeroX PARC
 - Steve Jobs
 - Steve Wozniak
 - Doug Engelbart
+- Dynabook
 - Alan Kay
 - Bill Gates
-- Pepsi
 - Bill Atkinson
+- Pepsi
 - John Sculley
 - 1984
 - HyperCard
@@ -24,6 +26,7 @@ nouns:
 - DynaMac
 - Macintosh
 - Apple
+- Newton
 comments: https://twitter.com/gingerbeardman/status/1435348876823875586
 
 ---
