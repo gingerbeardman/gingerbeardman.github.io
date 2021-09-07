@@ -51,9 +51,11 @@ The comic strip details the history of Apple and the Macintosh from 1970 through
 * Newton
 * and more
 
+I scanned these images today from my copy of the original magazine.
+
 [Thanks to my patrons](https://www.patreon.com/gingerbeardman) for making this possible. More patrons means more cool stuff can be preserved/released.
 
-I scanned these images today from my copy of the original magazine. High-resolution scans are available to my patrons.
+High-resolution scans are available to my patrons.
 
 Hope you enjoy it.
 
