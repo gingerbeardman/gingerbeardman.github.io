@@ -56,4 +56,5 @@ From top to bottom:
 
 * [68kMLA forum topic](https://68kmla.org/forums/topic/62386-modern-replacements-for-old-wacom-tablet-pens/?tab=comments#comment-669264)
 * [greg-kennedy.com](https://greg-kennedy.com/wordpress/2014/11/19/wacom-artpad-ii-kt-0405-r-to-usb/) (plus comments)
+* [Archived Bongo-Fish wiki](https://web.archive.org/web/20150922033442/http://wiki.bongofish.co.uk/doku.php?id=bongofish:tablets)
 * [Wacom Asia](https://web.archive.org/web/20120710075320/http://www.wacom-asia.com/aptky/607/pen.pdf) (archived PDF)
