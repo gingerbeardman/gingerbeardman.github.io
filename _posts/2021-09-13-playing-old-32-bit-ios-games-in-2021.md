@@ -15,7 +15,7 @@ nouns:
 - Llamasoft
 - Clutch
 - QuickTime Player
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1437413977059954695
 
 ---
 
