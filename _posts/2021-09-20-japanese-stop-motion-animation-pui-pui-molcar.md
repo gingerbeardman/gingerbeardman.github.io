@@ -17,3 +17,5 @@ My favourite new TV discovery is this Japanese felt-stop-motion guinea-pig-car t
 And don't miss the OST on your favourite streaming service:
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/gb/album/pui-pui%E3%83%A2%E3%83%AB%E3%82%AB%E3%83%BC-sound-track-album/1571435566"></iframe>
+
+<iframe src="https://open.spotify.com/embed/album/74aJ8QuaOQbWWRfczIT6a7" width="100%" height="380" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
