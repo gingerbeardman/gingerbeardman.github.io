@@ -1,0 +1,10 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "bundle exec jekyll serve --livereload --drafts --profile"
+    }
+  },
+  "identifier" : "70D06628-0383-4C5E-949A-74DC768A7868",
+  "openLogOnRun" : "start"
+}
