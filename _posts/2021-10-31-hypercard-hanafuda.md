@@ -22,7 +22,15 @@ It's called 花札スタック (Hanafuda Stack) and was created by Kenji Chihara
 ![GIF](/images/posts/hypercard-hanafuda-stack.gif#pixel "花札スタック (Hanafuda Stack)")
 {:.tofigure}
 
-I found this game in my collection of Japanese Macintosh Magazine CD-ROMs, which at the time of writing consists of over 120 discs and almost 500,000 files. It's a real treasure trove of old software that I am sure has a few more secrets waiting to be rediscovered!
+## Where did this come from?
+
+I found this game in my collection of Japanese Macintosh Magazine CD-ROMs, which at the time of writing consists of over 120 discs and almost 500,000 files. It's a real treasure trove of old software that has many more secrets waiting to be rediscovered! You can [help me preserve more lost software by joining my Patreon](https://www.patreon.com/gingerbeardman).
+
+## How can I play this game?
+
+You can play it in your web browser right now at: [https://archive.org/details/hanafuda-stack](https://archive.org/details/hanafuda-stack)
+
+Alternatively, you can [download it](https://macintoshgarden.org/games/花札スタック-hanafuda-stack) to play on your real Macintosh or in an emulator.
 
 ## Hanafuda Resources
 
