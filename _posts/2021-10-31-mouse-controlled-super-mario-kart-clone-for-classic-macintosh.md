@@ -65,7 +65,7 @@ I found this game in my collection of Japanese Macintosh Magazine CD-ROMs, which
 
 You can play the game in your web browser at [https://archive.org/details/emora-kart](https://archive.org/details/emora-kart) though be warned it runs very slowly in this emulator.
 
-Alternatively, you can [download it](https://macintoshgarden.org/games/えもらのカート-emora-kart) to play on your real Macintosh or in a different emulator.
+Alternatively, you can [download it](https://macintoshgarden.org/games/emora-kart) to play on your real Macintosh or in a different emulator.
 
 ## Shifting perspective
 
