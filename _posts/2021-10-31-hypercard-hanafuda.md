@@ -7,7 +7,7 @@ tags:
 - hanafuda
 nouns:
 - HyperCard
-- Japanese Macintosh
+- Hanafuda
 - Macintosh
 comments: https://twitter.com/gingerbeardman/status/1454604195860987905
 
@@ -22,7 +22,7 @@ It's called 花札スタック (Hanafuda Stack) and was created by Kenji Chihara
 ![GIF](/images/posts/hypercard-hanafuda-stack.gif#pixel "花札スタック (Hanafuda Stack)")
 {:.tofigure}
 
-I found this game in my collection of Japanese Macintosh Magazine CD-ROMs, which at the time of writing totals over 120 discs and almost 500,000 files. A real treasure trove of old software that I am sure holds a few more secrets.
+I found this game in my collection of Japanese Macintosh Magazine CD-ROMs, which at the time of writing totals over 120 discs and almost 500,000 files. A real treasure trove of old software that I am sure holds a few more secrets!
 
 ## Hanafuda Resources
 
