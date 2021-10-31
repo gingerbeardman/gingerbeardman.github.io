@@ -9,6 +9,8 @@ nouns:
 - HyperCard
 - Hanafuda
 - Macintosh
+- MacPower Monthly
+- Miyuki Oshige Award
 comments: https://twitter.com/gingerbeardman/status/1454604195860987905
 
 ---
@@ -17,12 +19,14 @@ comments: https://twitter.com/gingerbeardman/status/1454604195860987905
 
 For over a decade I've wondered if there was a 1-bit Hanafuda game for Macintosh made by somebody in Japan back in the day. It turns out there is!
 
-It's called 花札スタック (Hanafuda Stack) and was created by Kenji Chihara in 1992/3 using HyperCard. YES! ✨🎴✨
+It's called 花札スタック (Hanafuda Stack) and was created by Kenji Chihara (千原健次氏)in 1992/3 using HyperCard. YES! ✨🎴✨
 
 I couldn't find a single thing about this game online. My first Googlewhack!
 
 ![GIF](/images/posts/hypercard-hanafuda-stack.gif#pixel "花札スタック (Hanafuda Stack)")
 {:.tofigure}
+
+According to menu system on the disc it came on, this game was the Winner of the Miyuki Oshige Award, the judges' prize in the "1st HyperCard Stack Contest" which was sponsored by Japanese Macintosh magazine MacPower Monthly.
 
 ## Where did this come from?
 
