@@ -19,7 +19,7 @@ nouns:
 - Super Mario Galaxy
 - Out Run
 - Micro Machines
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1454783234089357317
 
 ---
 
