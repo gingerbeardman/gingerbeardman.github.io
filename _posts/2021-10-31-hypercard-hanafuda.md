@@ -19,6 +19,8 @@ For over a decade I've wondered if there was a 1-bit Hanafuda game for Macintosh
 
 It's called 花札スタック (Hanafuda Stack) and was created by Kenji Chihara in 1992/3 using HyperCard. YES! ✨🎴✨
 
+I couldn't find a single thing about this game online. My first Googlewhack!
+
 ![GIF](/images/posts/hypercard-hanafuda-stack.gif#pixel "花札スタック (Hanafuda Stack)")
 {:.tofigure}
 
