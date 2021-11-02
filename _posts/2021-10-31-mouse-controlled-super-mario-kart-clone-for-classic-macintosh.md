@@ -40,7 +40,7 @@ The game starts with a short qualifying course, which doubles as a tutorial. Fin
 
 Your character automatically accelerates and you use the mouse to influence its direction. If the mouse pointer is too far away then it will have no effect, so it's better if you trail the mouse pointer in front of the character at a short distance — a bit like a carrot on a stick - which gives the feeling that you're almost pulling them around the track. The player can only move in straight lines and at 45-degrees which affects possible driving lines. And just like in Super Mario Kart there are coins littered around the track and they can be collected, not only by driving over them but also by clicking on them with the mouse pointer.
 
-It's interesting to note that this type of pointer control feels very much like a Wii game, which was a very nice surprise. In particular I'm thinking of the way you guide our player Pro Evolution Soccer, and the way you pick up things with the pointer in Super Mario Galaxy.
+It's interesting to note that this type of pointer control feels very much like a Wii game, which was a nice surprise. In particular I'm thinking of the way you guide your player in Pro Evolution Soccer, and the way you pick up things with the pointer in Super Mario Galaxy.
 
 Fastest lap times are recorded and you need to make sure you do proper laps for them to register properly - cheating and shortcuts are discouraged! Driving off-road will cause you player to slow down and it will take time for them to accelerate back up to cruising speed once they are back on the track. Hitting track side obstacles will cause you to spin out and slow down. If your player stops completely, you'll need to click on it to get it moving.
 
