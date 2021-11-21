@@ -4,3 +4,6 @@ _site
 .DS_Store
 _drafts
 .jekyll-metadata
+
+# Local Netlify folder
+.netlify
