@@ -39,7 +39,7 @@ An informational web site existed at [eggegg.co.jp](https://web.archive.org/web/
 
 {% include carousel.html height="100" unit="%" duration="7" %}
 
-Thoru also created [PalmPickle](http://www.vector.co.jp/magazine/pocket/spotlight/030423/sl030423114.html) a similar suite of mini apps for PalmOS.
+Thoru also created [PalmPickle](http://www.vector.co.jp/magazine/pocket/spotlight/030423/sl030423114.html) a similar suite of apps for PalmOS.
 
 Pickle is probably Thoru's most well-known character. Pickle's Book was a masterpiece of interactive media, released for Macintosh in 1994 and [available for iPhone and iPad since 2014](https://apps.apple.com/gb/app/pickles-book/id794738212).
 
