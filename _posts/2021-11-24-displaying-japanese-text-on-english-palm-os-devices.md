@@ -17,7 +17,7 @@ Palm OS took a lot of inspiration from the original Macintosh system and it show
 
 Anyway, Japanese Palm OS apps expect to be run on a system capable of displaying Japanese text, naturally. So running them on English Palm OS results in garbled text.
 
-| ![PNG](/images/posts/palmos-japanese-1-goal.png#pixel) | ![PNG](/images/posts/palmos-japanese-2-english.png#pixel "Garbled text") |
+| ![PNG](/images/posts/palmos-japanese-1-goal.png#pixel "Japanese our goal") | ![PNG](/images/posts/palmos-japanese-2-english.png#pixel "Garbled text") |
 |---|---|
 | Japanese: our goal | English: garbled |
 {: .donotsort }
@@ -30,15 +30,15 @@ I had to survey them all just to be able to sleep at night! 🤣
 
 | app  | pros  | cons | availability |
 |---|---|---|---|
-| [J-OS](http://simple-palm.com/josseries/index.html) | works,<br>good bundled fonts | [multiple versions for different devices](http://simple-palm.com/josseries/index.html),<br>uses multiple apps to achieve goal | discontinued,<br>time-limited,<br>easy to reset trial (pref: Psys) |
-| [CJKOS](https://www.njstar.com/cms/cjk-os-for-palm)  | works,<br>OS4 (4.23) & <br>OS5 (4.63) versions  | finding good fonts,<br>managing fonts,<br>bad default options | discontinued,<br>time-limited,<br>easy to serialise |
+| [J-OS](http://simple-palm.com/josseries/index.html) | works,<br>good bundled fonts | [multiple versions for different devices](http://simple-palm.com/josseries/index.html),<br>uses multiple apps to achieve goal | discontinued,<br>time-limited,<br>easy to reset trial<br>(delete pref: Psys) |
+| [CJKOS](https://www.njstar.com/cms/cjk-os-for-palm)  | works,<br>OS4 (4.23) & <br>OS5 (4.63) versions  | finding good fonts,<br>managing fonts,<br>bad default options | discontinued,<br>time-limited,<br>[easy to serialise](https://palmdb.net/app/cjkos) |
 | [JaPon](http://www5f.biglobe.ne.jp/~T-Pilot/PalmWares/JaPon/JaPon-ReadMe.html)  | slick installer,<br>great minimal UI | doesn't localise launcher app names,<br>limited fonts with trial version,<br>OS5-only | supported |
-|[ Yomeru&nbsp;5](http://yomeru5.sourceforge.net) | OS5 ver on sourceforge   | doesn't localise launcher app names,<br>default fonts are very poor | discontinued,<br>time-limited |
+|[ Yomeru&nbsp;5](http://yomeru5.sourceforge.net) | OS5 version on sourceforge   | doesn't localise launcher app names,<br>default fonts are very poor | discontinued,<br>time-limited |
 | [Yomeru&nbsp;4](https://web.archive.org/web/20060513185903/http://www.geocities.com:80/b_palm_ug/yomeru.html) | n/a | OS4 version crashes for me | discontinued,<br>broken |
 
 ## Results
 
-| ![PNG](/images/posts/palmos-japanese-3-cjkos-fjis10l.png#pixel "CJKOS+FJIS10L") | ![PNG](/images/posts/palmos-japanese-2-english.png#pixel "Garbled text") | ![PNG](/images/posts/palmos-japanese-4-cjkos-mplus10.png#pixel "CJKOS+Mplus10") |
+| ![PNG](/images/posts/palmos-japanese-3-cjkos-fjis10l.png#pixel "CJKOS + FJIS10L") | ![PNG](/images/posts/palmos-japanese-1-goal.png#pixel "Japanese our goal") | ![PNG](/images/posts/palmos-japanese-4-cjkos-mplus10.png#pixel "CJKOS + Mplus10") |
 |---|---|---|
 | CJKOS + FJIS10L | Japanese: our goal | CJKOS + Mplus10 |
 {: .donotsort }
