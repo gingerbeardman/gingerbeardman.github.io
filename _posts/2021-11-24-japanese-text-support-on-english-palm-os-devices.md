@@ -19,7 +19,7 @@ Anyway, Japanese Palm OS apps expect to be run on a system capable of displaying
 
 | ![PNG](/images/posts/palmos-japanese-1-goal.png#pixel "Official Japanese: goal") | ![PNG](/images/posts/palmos-japanese-2-english.png#pixel "English: garbled") |
 |---|---|
-| Japanese: our goal | English: garbled |
+| Official Japanese: goal | English: garbled |
 {: .donotsort }
 
 ## Solutions
@@ -40,7 +40,7 @@ I had to survey them all just to be able to sleep at night! 🤣
 
 | ![PNG](/images/posts/palmos-japanese-3-cjkos-fjis10l.png#pixel "CJKOS + FJIS10L") | ![PNG](/images/posts/palmos-japanese-1-goal.png#pixel "Official Japanese: goal") | ![PNG](/images/posts/palmos-japanese-4-cjkos-mplus10.png#pixel "CJKOS + Mplus10") |
 |---|---|---|
-| CJKOS + FJIS10L | Japanese: our goal | CJKOS + Mplus10 |
+| CJKOS + FJIS10L | Official Japanese: goal | CJKOS + Mplus10 |
 {: .donotsort }
 
 ## Recommendations
