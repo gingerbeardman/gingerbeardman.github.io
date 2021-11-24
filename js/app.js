@@ -24,7 +24,7 @@ $(document).ready(function() {
   // Sortable Tables
   // =================
 
-  $("table").tablesorter();
+  $("table:not(.donotsort)").tablesorter();
 
   // =================
   // Figure Caption

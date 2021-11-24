@@ -37,3 +37,18 @@ table#deneba-external-tools th:nth-last-child(-n+2),
 table#deneba-external-tools td:nth-last-child(-n+2) {
   border-left: 1px solid #ccc;
 }
+
+table.donotsort {
+  width: 100%;
+}
+
+table.donotsort th,
+table.donotsort td {
+  margin: .25rem auto 1rem;
+  font-size: 0.9rem;
+  text-align: center;
+  color: #999;
+}
+table.donotsort img {
+  margin: 0 auto;
+}
