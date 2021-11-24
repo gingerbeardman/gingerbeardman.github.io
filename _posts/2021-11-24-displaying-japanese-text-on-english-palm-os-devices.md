@@ -24,7 +24,7 @@ Anyway, Japanese Palm OS apps expect to be run on a system capable of displaying
 
 ## Solutions
 
-There exist a number of solutions that will allow Japanese text to be displayed correctly, though each has their own pros/cons. I original wrote up this stuff in [an issue on GitHub](https://github.com/meepingsnesroms/Mu/issues/60).
+There exist a number of solutions that will allow Japanese text to be displayed correctly, though each has their own pros/cons. I originally wrote about this [in an issue on GitHub](https://github.com/meepingsnesroms/Mu/issues/60).
 
 I had to survey them all just to be able to sleep at night! 🤣
 
