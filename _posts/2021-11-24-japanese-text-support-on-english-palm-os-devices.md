@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Displaying Japanese text on English Palm OS devices'
+title: 'Japanese text support on English Palm OS devices'
 tags:
 - palm
 - japanese
@@ -30,8 +30,8 @@ I had to survey them all just to be able to sleep at night! 🤣
 
 | app  | pros  | cons | availability |
 |---|---|---|---|
-| [J-OS](http://simple-palm.com/josseries/index.html) | works,<br>good bundled fonts | [multiple versions for different devices](http://simple-palm.com/josseries/index.html),<br>uses multiple apps to achieve goal | discontinued,<br>time-limited,<br>easy to reset trial<br>(delete pref: Psys) |
-| [CJKOS](https://www.njstar.com/cms/cjk-os-for-palm)  | works,<br>OS4 (4.23) & <br>OS5 (4.63) versions  | finding good fonts,<br>managing fonts,<br>bad default options | discontinued,<br>time-limited,<br>[easy to serialise](https://palmdb.net/app/cjkos) |
+| [J-OS](http://simple-palm.com/josseries/index.html) | works,<br>good bundled fonts | [multiple versions for different devices](http://simple-palm.com/josseries/index.html),<br>uses multiple apps to achieve goal | discontinued,<br>time-limited,<br>but easy to reset trial<br>(delete pref: Psys) |
+| [CJKOS](https://www.njstar.com/cms/cjk-os-for-palm)  | works,<br>OS4 (4.23) & <br>OS5 (4.63) versions  | finding good fonts,<br>managing fonts,<br>bad default options | discontinued,<br>time-limited,<br>but [easy to serialise](https://palmdb.net/app/cjkos) |
 | [JaPon](http://www5f.biglobe.ne.jp/~T-Pilot/PalmWares/JaPon/JaPon-ReadMe.html)  | slick installer,<br>great minimal UI | doesn't localise launcher app names,<br>limited fonts with trial version,<br>OS5-only | supported |
 |[ Yomeru&nbsp;5](http://yomeru5.sourceforge.net) | open source | doesn't localise launcher app names,<br>default fonts are very poor | discontinued,<br>time-limited |
 | [Yomeru&nbsp;4](https://web.archive.org/web/20060513185903/http://www.geocities.com:80/b_palm_ug/yomeru.html) | none | OS4 version crashes for me | discontinued,<br>broken |
