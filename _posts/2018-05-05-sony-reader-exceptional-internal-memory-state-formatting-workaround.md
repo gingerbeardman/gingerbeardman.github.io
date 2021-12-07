@@ -13,7 +13,7 @@ comments: https://www.mobileread.com/forums/showthread.php?t=296820
 ---
 I get a strange error from time-to-time on my Sony Reader (PRS-650).
 
-After the Reader powers up, it does the busy spinner and then says:
+After the Reader powers up, or comes out of transfer mode, it does the busy spinner and then says:
 
     +---------------------------------------+
     | Exceptional internal memory state     |
