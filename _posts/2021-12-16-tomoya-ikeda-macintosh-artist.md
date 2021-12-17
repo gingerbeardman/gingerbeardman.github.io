@@ -51,19 +51,6 @@ We need to travel back in time a bit, to the days before Ikeda-san was living in
 
 They made a name for themselves on the early Macintosh scene by providing collections of extremely high quality Clipart in a traditional Japanese style, Dennou Emaki (電脳絵巻 or Cyber Picture Scroll), mostly drawn by Ikeda-san. And also their MacCalligraphy package that allowed drawing of traditional Japanese calligraphy using only the Macintosh mouse, with the thickness and subtlties of each stroke being controlled only by the speed and movement of the mouse.
 
-## Selected works
-
-![PNG](/images/posts/tomoya-ikeda-hyperlib.jpg "Graphic for a feature article on サイバースペースデッキ in HyperLib issue 1, Jan/Feb 1989.")
-{:.tofigure}
-
-"The Golden Dragon" drawn in 1987 by Tomoya Ikeda (Enzan-Hoshigumi Co., Ltd.) using PixelPaint, the first full-color paint application for the Macintosh.
-
-![PNG](/images/posts/tomoya-ikeda-golden-dragon-bw.png "1-bit monochrome version, from "Chinese Zodiac Character Series Dragon", 1987.")
-{:.tofigure}
-
-![JPG](/images/posts/tomoya-ikeda-golden-dragon-color.jpg "8-bit color version from the book "Getting Started in Computer Graphics" by Gary Olsen, 1989.")
-{:.tofigure}
-
 ## MacWorld EXPO
 
 The 1988 MacWorld EXPO held in San Francisco was attended by over 45,000 people and hosted over 400 exhibits, one of which was Enzan-Hoshigumi. Hot topic was [the new, colour and expandable Macintosh II](http://www.cornica.org/mac-reports/macworld-expo-1988/). Photos courtesy of [Izumi Okano](https://twitter.com/haeckel).
@@ -83,6 +70,19 @@ The 1988 MacWorld EXPO held in San Francisco was attended by over 45,000 people 
 The Boston MacWorld EXPO event later that year also had an Enzan-Hoshiguni stand, accompanied by a 7x12 feet four-panel Japanese folding screen comprised of a sheet-by-sheet assembly of thermal prints from an enlarged PixelPaint illustration. The screen was later [shown at the "imagine" event](https://archive.org/details/verbum203unse/page/2/mode/2up) organised at Boston Computer Museum by Verbum Magazine.
 
 ![JPG](/images/posts/tomoya-ikeda-folding-screen.jpg " ")
+{:.tofigure}
+
+## Selected works
+
+![PNG](/images/posts/tomoya-ikeda-hyperlib.jpg "Graphic for a feature article on サイバースペースデッキ in HyperLib issue 1, Jan/Feb 1989.")
+{:.tofigure}
+
+"The Golden Dragon" drawn in 1987 by Tomoya Ikeda (Enzan-Hoshigumi Co., Ltd.) using PixelPaint, the first full-color paint application for the Macintosh.
+
+![PNG](/images/posts/tomoya-ikeda-golden-dragon-bw.png "1-bit monochrome version, from "Chinese Zodiac Character Series Dragon", 1987.")
+{:.tofigure}
+
+![JPG](/images/posts/tomoya-ikeda-golden-dragon-color.jpg "8-bit color version from the book "Getting Started in Computer Graphics" by Gary Olsen, 1989.")
 {:.tofigure}
 
 ## Mandala
