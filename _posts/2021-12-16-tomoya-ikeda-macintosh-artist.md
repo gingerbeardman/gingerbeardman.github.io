@@ -18,7 +18,7 @@ comments: https://twitter.com/gingerbeardman/status/1471859136828747777
 Junichi Matsuda @mactechlab)")
 {:.tofigure}
 
-Tomoya Ikeda (池田友也) might not be a name you're familiar with, but if you used a classic Macintosh computer at any time during in the 1990s you're likely already familiar with some his work.
+Tomoya Ikeda (池田友也) might not be a name you're familiar with, but if you used a classic Macintosh computer at any time during in the 1990s you're likely already familiar with some of his work.
 
 ![PNG](/images/posts/tomoya-ikeda-after-dark-flying-toasters-bw.png "After Dark 2.0: Flying Toasters")
 {:.tofigure}
