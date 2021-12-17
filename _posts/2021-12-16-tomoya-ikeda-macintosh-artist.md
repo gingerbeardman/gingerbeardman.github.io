@@ -27,7 +27,7 @@ Tomoya Ikeda (池田友也) might not be a name you're familiar with, but if you
 
 ## Berkeley Systems
 
-Tomoya Ikeda played a key part in the evolution of After Dark's world famous Flying Toasters. The original prototype artwork was done by Jack Eastman, and then Ikeda-san was brought in as a contractor to draw final 1-bit artwork. Later versions of the toasters were drawn in colour by Igor Gasowski and eventually rendered and animated in 3D by Jarir Maani.
+Tomoya Ikeda played a key part in the evolution of After Dark's world famous Flying Toasters. The original prototype artwork was done by Jack Eastman, at which time Ikeda-san was brought in as a contractor to draw the final 1-bit artwork. Later versions of the toasters were drawn in colour by Igor Gasowski and eventually rendered and animated in 3D by Jarir Maani.
 
 ![PNG](/images/posts/tomoya-ikeda-after-dark-flying-toasters-proto.png "Flying Toasters: prototype artwork by Jack Eastman")
 {:.tofigure}
