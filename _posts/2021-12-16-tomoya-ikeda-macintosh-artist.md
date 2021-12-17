@@ -67,7 +67,7 @@ The 1988 MacWorld EXPO held in San Francisco was attended by over 45,000 people 
 ![JPG](/images/posts/tomoya-ikeda-eh-ikeda-gosney.jpg "Ikeda-san interviewed by Michael Gosney (Verbum Magazine) at Moscone Center")
 {:.tofigure}
 
-The Boston MacWorld EXPO event later that year also had an Enzan-Hoshiguni stand, accompanied by a 7x12 feet four-panel Japanese folding screen comprised of a sheet-by-sheet assembly of thermal prints from an enlarged PixelPaint illustration. The screen was later [shown at the "imagine" event](https://archive.org/details/verbum203unse/page/2/mode/2up) organised at Boston Computer Museum by Verbum Magazine.
+The Boston MacWorld EXPO event later that year also had an Enzan-Hoshigumi stand, accompanied by a 7x12 feet four-panel Japanese folding screen comprised of a sheet-by-sheet assembly of thermal prints from an enlarged PixelPaint illustration. The screen was later [shown at the "imagine" event](https://archive.org/details/verbum203unse/page/2/mode/2up) organised at Boston Computer Museum by Verbum Magazine.
 
 ![JPG](/images/posts/tomoya-ikeda-folding-screen.jpg " ")
 {:.tofigure}
@@ -95,7 +95,7 @@ From 1988 Ikeda-san became fascinated with mandala — the circular figures repr
 ![JPG](/images/posts/tomoya-ikeda-mandala-89.jpg "Mandala 89 (aka Red Mandala). From <a href="https://archive.org/details/verbumbookofdigi0000gosn">Verbum Book of Digital Painting (1990).</a><br>Created in Studio-8 and coloured using PixelPaint at full screen resolution on a 19" monitor. ")
 {:.tofigure}
 
-![PNG](/images/posts/tomoya-ikeda-mandala-89-bw.png "Mandala 89 blueprint. <a hef="https://archive.org/details/graybookdesignin00gosn">The Gray Book (1990).</a><br>Created in Adobe Illustrator. This is the same design featured on Ikeda-san's business card.")
+![PNG](/images/posts/tomoya-ikeda-mandala-89-bw.png "Mandala 89 blueprint. From <a hef="https://archive.org/details/graybookdesignin00gosn">The Gray Book (1990).</a><br>Created in Adobe Illustrator. This is the same design featured on Ikeda-san's business card.")
 {:.tofigure}
 
 ![JPG](/images/posts/tomoya-ikeda-mandala-goddess.jpg "Oriental Goddess. From <a href="https://archive.org/details/gettingstartedin00olse_2">Getting Started in Computer Graphics (1989).</a><br>Created using PixelPaint.")
