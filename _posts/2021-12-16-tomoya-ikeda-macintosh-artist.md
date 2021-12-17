@@ -68,7 +68,7 @@ The 1988 MacWorld EXPO held in San Francisco was attended by over 45,000 people 
 ![JPG](/images/posts/tomoya-ikeda-eh-ikeda-gosney.jpg "Ikeda-san interviewed by Michael Gosney (Verbum Magazine) at Moscone Center")
 {:.tofigure}
 
-The Boston MacWorld EXPO event later that year also had an Enzan-Hoshigumi stand, accompanied by a 7x12 feet four-panel Japanese folding screen comprised of a sheet-by-sheet assembly of thermal prints from an enlarged PixelPaint illustration. The screen was later [shown at the "imagine" event](https://archive.org/details/verbum203unse/page/2/mode/2up) organised at Boston Computer Museum by Verbum Magazine.
+The Boston MacWorld EXPO event later that year also had an Enzan-Hoshigumi stand, accompanied by a 7x12 feet multi-panel Japanese folding screen comprised of a sheet-by-sheet assembly of thermal prints from an enlarged PixelPaint illustration. The screen was later [shown at the "imagine" event](https://archive.org/details/verbum203unse/page/2/mode/2up) organised at Boston Computer Museum by Verbum Magazine.
 
 ![JPG](/images/posts/tomoya-ikeda-folding-screen.jpg " ")
 {:.tofigure}
