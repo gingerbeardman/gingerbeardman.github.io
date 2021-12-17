@@ -50,7 +50,7 @@ We need to travel back in time a bit, to the days before Ikeda-san was living in
 ![PNG](/images/posts/tomoya-ikeda-eh-logo.png " ")
 {:.tofigure}
 
-They made a name for themselves on the early Macintosh scene by providing collections of extremely high quality Clipart in a traditional Japanese style, Dennou Emaki (電脳絵巻 or Cyber Picture Scroll), mostly drawn by Ikeda-san. And also their MacCalligraphy package that allowed drawing of traditional Japanese calligraphy using only the Macintosh mouse, with the thickness and subtleties of each stroke being controlled only by the speed and movement of the mouse.
+They became well known on the early Macintosh scene by providing collections of extremely high quality Clipart in a traditional Japanese style, Dennou Emaki (電脳絵巻 or Cyber Picture Scroll), mostly drawn by Ikeda-san. And also their MacCalligraphy package that allowed drawing of traditional Japanese calligraphy using only the Macintosh mouse, with the thickness and subtleties of each stroke being controlled only by the speed and movement of the mouse.
 
 ## MacWorld EXPO
 
