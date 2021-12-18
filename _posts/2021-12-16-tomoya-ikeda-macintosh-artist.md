@@ -13,6 +13,10 @@ nouns:
 comments: https://twitter.com/gingerbeardman/status/1471859136828747777
 
 ---
+![JPG](/images/posts/tomoya-ikeda-business-card.jpg "Tomoya Ikeda - Macintosh Artist<br>(image:
+Junichi Matsuda @mactechlab)")
+{:.tofigure}
+
 # Contents
 1. [Introduction](#introduction)
 1. [Berkeley Systems](#berkeley-systems)
@@ -21,10 +25,6 @@ comments: https://twitter.com/gingerbeardman/status/1471859136828747777
 1. [Selected Works](#selected-works)
 1. [Mandala](#mandala)
 1. [Timeline](#the-life-and-times-of-tomoya-ikeda)
-
-![JPG](/images/posts/tomoya-ikeda-business-card.jpg "Tomoya Ikeda - Macintosh Artist<br>(image:
-Junichi Matsuda @mactechlab)")
-{:.tofigure}
 
 ## Introduction
 
