@@ -115,7 +115,7 @@ From 1988 Ikeda-san became fascinated with mandala — the circular figures repr
 
 1984
 : Won the Grand Prix at the 2nd ASCII Software Contest.
-: Designed the computer game ["Dai-Kaiju no Gyakusou"](https://en.wikipedia.org/wiki/Daikaijū_no_Gyakushū) for Enzan-Hoshigumi and released in the arcades by Taito.
+: Designed the arcade game ["Dai-Kaiju no Gyakusou"](https://en.wikipedia.org/wiki/Daikaijū_no_Gyakushū) for Enzan-Hoshigumi which was released by Taito.
 
 1985
 : Awarded the Silver Prize at the International Exhibition of High Technology Art, for the work 'Reincarnation'.
