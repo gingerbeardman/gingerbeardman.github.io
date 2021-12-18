@@ -22,11 +22,11 @@ comments: https://twitter.com/gingerbeardman/status/1471859136828747777
 1. [Mandala](#mandala)
 1. [Timeline](#the-life-and-times-of-tomoya-ikeda)
 
-## Introduction
-
 ![JPG](/images/posts/tomoya-ikeda-business-card.jpg "Tomoya Ikeda - Macintosh Artist<br>(image:
 Junichi Matsuda @mactechlab)")
 {:.tofigure}
+
+## Introduction
 
 Tomoya Ikeda (池田友也) might not be a name you're familiar with, but if you used a classic Macintosh computer at any time during in the 1990s you're likely already familiar with some of his work.
 
