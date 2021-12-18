@@ -14,7 +14,7 @@ comments: https://twitter.com/gingerbeardman/status/1471859136828747777
 
 ---
 ![JPG](/images/posts/tomoya-ikeda-business-card.jpg "Tomoya Ikeda - Macintosh Artist<br>(image:
-Junichi Matsuda @mactechlab)")
+Junichi Matsuda <a href="https://twitter.com/mactechlab">@mactechlab</a>)")
 {:.tofigure}
 
 # Contents
