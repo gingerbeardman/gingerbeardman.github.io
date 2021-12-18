@@ -13,6 +13,17 @@ nouns:
 comments: https://twitter.com/gingerbeardman/status/1471859136828747777
 
 ---
+# Contents
+1. [Introduction](#introduction)
+1. [Berkeley Systems](#berkeley-systems)
+1. [Enzan-Hoshigumi](#enzan-hoshigumi)
+1. [MacWorld EXPO](#macworld-expo)
+1. [Selected Works](#selected-works)
+1. [Mandala](#mandala)
+1. [Timeline](#the-life-and-times-of-tomoya-ikeda)
+
+## Introduction
+
 ![JPG](/images/posts/tomoya-ikeda-business-card.jpg "Tomoya Ikeda - Macintosh Artist<br>(image:
 Junichi Matsuda @mactechlab)")
 {:.tofigure}
@@ -73,7 +84,9 @@ The Boston MacWorld EXPO event later that year also had an Enzan-Hoshigumi stand
 ![JPG](/images/posts/tomoya-ikeda-folding-screen.jpg " ")
 {:.tofigure}
 
-## Selected works
+## Selected Works
+
+Below are some of my personal favourites.
 
 ![PNG](/images/posts/tomoya-ikeda-hyperlib.jpg "Graphic for a feature article on サイバースペースデッキ in HyperLib issue 1, Jan/Feb 1989.")
 {:.tofigure}
@@ -114,7 +127,7 @@ From 1988 Ikeda-san became fascinated with mandala — the circular figures repr
 : While studying at the University, he became interested in computer graphics, and upon graduating he began creating his own works.
 
 1984
-: Won the Grand Prix at the 2nd ASCII Software Contest.
+: Won the Grand Prix at the 2nd ASCII Software Contest for ["Coron"](https://ameblo.jp/koorogiyousyoku/entry-11983851960.html).
 : Designed the arcade game ["Dai-Kaiju no Gyakusou"](https://en.wikipedia.org/wiki/Daikaijū_no_Gyakushū) for Enzan-Hoshigumi which was released by Taito.
 
 1985
