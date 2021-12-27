@@ -56,7 +56,7 @@ Tomoya Ikeda also did the artwork for the Fish! screensaver module in Macintosh 
 
 ## Enzan-Hoshigumi
 
-We need to travel back in time a bit, to the days before Ikeda-san was living in California. When he was in Japan he worked for a company called Enzan-Hoshigumi. The company name is best translated as "Computer Gangsters".
+We need to travel back in time a bit, to the days before Ikeda-san was living in California. When he was in Japan he worked for a company called Enzan-Hoshigumi (演算星組). The company name is best translated as "Computer Gangsters".
 
 ![PNG](/images/posts/tomoya-ikeda-eh-logo.png " ")
 {:.tofigure}
