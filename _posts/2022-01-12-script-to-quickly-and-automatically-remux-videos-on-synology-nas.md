@@ -13,7 +13,7 @@ comments: https://twitter.com/gingerbeardman/status/1481270187873738756
 
 ---
 
-I recently set up an old HP ProLiant Microserver N54L as a NAS running Xpenology (Synology DSM 6) and it's a great little device capable of a lot. It's also fun to script to add in extra automation and capabilities!
+I recently set up an old HP ProLiant Microserver N54L as a NAS running Xpenology (Synology DSM 6) and it's a great little device capable of a lot. It's also fun to write scripts and configure things to add automation and extra capabilities!
 
 Here's a script I wrote that will look for \*.mkv files and quickly copy-remux them as \*.mp4. I do this because my playback setup across Apple devices seems to have an easier time with that type of container.
 
