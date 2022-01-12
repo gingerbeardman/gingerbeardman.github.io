@@ -70,7 +70,7 @@ The 1988 MacWorld EXPO held in San Francisco was attended by over 45,000 people 
 ![JPG](/images/posts/tomoya-ikeda-eh-ikeda-prep.jpg "Tomoya Ikeda preparing for the show in a San Francisco hotel room")
 {:.tofigure}
 
-![JPG](/images/posts/tomoya-ikeda-eh-stand-prep.jpg "? (left), Izumi Okano (centre) and Ikeda-san (right, facing away) setting up")
+![JPG](/images/posts/tomoya-ikeda-eh-stand-prep.jpg "Hirofumi Inoue (left), Izumi Okano (centre) and Ikeda-san (right, facing away) setting up")
 {:.tofigure}
 
 ![JPG](/images/posts/tomoya-ikeda-eh-stand-empty.jpg "The Enzan-Hoshigumi range of Macintosh software")
