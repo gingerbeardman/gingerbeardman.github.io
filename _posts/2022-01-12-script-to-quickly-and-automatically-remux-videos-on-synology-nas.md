@@ -9,7 +9,7 @@ nouns:
 - Synology
 - Xpenology
 - HP ProLiant Microserver N54L
-comments:
+comments: https://twitter.com/gingerbeardman/status/1481270187873738756
 
 ---
 
