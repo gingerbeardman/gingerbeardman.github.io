@@ -10,6 +10,7 @@ nouns:
 - Enzan-Hoshigumi
 - Igor Gasowski
 - Jarir Maani
+featured: true
 comments: https://twitter.com/gingerbeardman/status/1471859136828747777
 
 ---
