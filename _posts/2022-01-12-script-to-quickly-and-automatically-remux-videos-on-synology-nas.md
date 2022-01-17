@@ -42,6 +42,6 @@ After the first successful run I decided to comment out all notifications except
 
 ## Bonus
 
-I've only recently begun to set the faststart movflag on my mp4 files, so my older videos did not have it set. So here's an additional script, [faststart.sh](https://gist.github.com/gingerbeardman/59413f3b9d06e0d7a8ccbf3119e7dbdf), to set the faststart movflag on all mp4 files.
+I've only recently begun to set the faststart movflag on my mp4 files, which meant my older videos did not have it set. So here's an additional script, [faststart.sh](https://gist.github.com/gingerbeardman/59413f3b9d06e0d7a8ccbf3119e7dbdf), to set the faststart movflag on all mp4 files.
 
 Note: if you have a lot of videos this script will take a long time to complete. You can estimate about 30 seconds per video, for a total of (all your videos divided by two) minutes.
