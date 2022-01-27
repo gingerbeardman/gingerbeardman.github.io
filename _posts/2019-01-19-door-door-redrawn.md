@@ -11,7 +11,7 @@ nouns:
 - ChunSoft
 - Enix
 featured: false
-comments:
+comments: https://twitter.com/gingerbeardman/status/1486808232878383105
 ---
 
 I redrew the box art from [Door Door](https://en.wikipedia.org/wiki/Door_Door) (1985, Famicom). It's a great game and worthy of your time.
