@@ -24,7 +24,7 @@ Out of all the versions I think the Famicom one plays best, even though it has a
 
 ![JPG](/images/posts/door-door-original.jpg)
 
-Affinity Designer is my tool of choice for doing most of vector work. Here are the outlines for the drawing above. As you can see I like to keep things fairly minimal!
+Affinity Designer is my tool of choice for doing most of my vector illustration work. Below are the vector outlines for the above drawing. As you can see I like to keep things fairly minimal! Lots of gradients were used, and the noise function to give things a bit of texture.
 
 ![PNG](/images/posts/door-door-redrawn-outline.png)
 
