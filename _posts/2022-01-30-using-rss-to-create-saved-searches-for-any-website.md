@@ -16,7 +16,7 @@ comments: https://twitter.com/gingerbeardman/status/1487917074244640771
 I've recently started using RSS again, with a couple of goals in mind.
 
 1. to read the latest interesting blog posts in a more focussed way
-2. to keep track of personal research saved searches, and that's what this post is about
+2. to assist with personal research, and that's what this post is about
 
 # Internet Archive
 
