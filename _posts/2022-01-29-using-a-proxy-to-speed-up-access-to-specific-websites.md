@@ -9,7 +9,7 @@ nouns:
 - HOYOYO
 - Opera
 - Documents
-comments: https://twitter.com/gingerbeardman/status/1487811090620821504
+comments: https://twitter.com/gingerbeardman/status/1487813258971074562
 
 ---
 
