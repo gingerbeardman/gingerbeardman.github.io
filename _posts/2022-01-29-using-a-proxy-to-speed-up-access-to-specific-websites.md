@@ -13,7 +13,7 @@ comments: https://twitter.com/gingerbeardman/status/1487813258971074562
 
 ---
 
-I use [https://world.hoyoyo.com](https://world.hoyoyo.com) quite a lot. It's a forwarding service for buying stuff from Japan. However, I found that their website took around a minute to load a page, which became hugely annoying very quickly.
+I use [https://world.hoyoyo.com](https://world.hoyoyo.com/member~register~code~IZhM8F) quite a lot. It's a forwarding service for buying stuff from Japan. However, I found that their website took around a minute to load a page, which became hugely annoying very quickly.
 
 HOYOYO are great as they will negotiate discount prices from Mercari sellers, which has saved me a ton of money, so I wanted to stick with them.
 
