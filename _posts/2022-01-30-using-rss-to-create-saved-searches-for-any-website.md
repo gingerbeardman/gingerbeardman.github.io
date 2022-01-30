@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Creating saved searches for any website using RSS'
+title: 'Using RSS to create saved searches for any website'
 tags:
 - rss
 - hack
