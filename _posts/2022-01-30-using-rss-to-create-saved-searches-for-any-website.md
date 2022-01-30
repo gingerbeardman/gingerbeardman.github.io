@@ -81,3 +81,7 @@ Here's the final result in my RSS reader:
 
 ![PNG](/images/posts/rss-saved-searches-8.png "Saved Search: a generated RSS feed for a Yahoo! Japan Auctions search")
 {:.tofigure}
+
+# It's up to you
+
+You could also use this technique for searches on eBay, Depop, Etsy, your favourite book store, or anything else you can think of. Just be sure to check the site doesn't already have RSS feeds before you begin!
