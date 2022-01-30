@@ -80,3 +80,12 @@ asistantpickle:
   - image: /images/posts/AsistantPickle-audiocd.png
   - image: /images/posts/AsistantPickle-calc.png
   - image: /images/posts/AsistantPickle-about.png
+
+rss-saved-searches:
+- image: /images/posts/rss-saved-searches-1.png
+- image: /images/posts/rss-saved-searches-2.png
+- image: /images/posts/rss-saved-searches-3.png
+- image: /images/posts/rss-saved-searches-4.png
+- image: /images/posts/rss-saved-searches-5.png
+- image: /images/posts/rss-saved-searches-6.png
+- image: /images/posts/rss-saved-searches-7.png
