@@ -113,7 +113,7 @@ Here's how to connect the most common systems. Let me know if you connect one th
 
 **SCART/Composite to VGA/DVI adapter**** (analogue to analogue conversion)
 
-* Most other systems not mentioned above
+* Most other systems (not mentioned above)
 
 An example external scaler that can take SCART/Composite to VGA would be the [GBS-Control](https://github.com/ramapcsx2/gbs-control).
 
