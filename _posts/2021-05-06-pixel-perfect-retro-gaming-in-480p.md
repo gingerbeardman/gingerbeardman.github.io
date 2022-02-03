@@ -83,7 +83,7 @@ I also use the [#20PF4121 tag on Instagram](https://www.instagram.com/explore/ta
 
 ## Connections
 
-The goal is to get the video output from your console into VGA or DVI, depending on the input your TV has. 
+The goal is to get the video output from your console into VGA or DVI, depending on the input your TV has.
 
 Specifically when using the EDTV's PC input we need DVI-A (Analogue), rather than DVD-D (Digital) even if the TV supports both via DVI-I (integrated analogue and digital).
 
@@ -109,10 +109,17 @@ Here's how to connect the most common consoles. Let me know if you connect one t
 * PS4
 * Mac
 * PC
-* Other consoles using HDMI output
+* Other systems using HDMI output
 
-## Deinterlacing
+**External scaler** (analogue to analogue conversion)
+
+* Systems using SCART output
+* Systems using Composite output
+
+## Deinterlacing quality
 
 To improve deinterlacing for 480i content (eg. PS2) you might consider using a scaler that has motion adaptive deinterlacing and good 480p output, such as [GBS-Control](https://github.com/ramapcsx2/gbs-control).
+
+## Aligment of multuple sources
 
 A scaler such as the Extron DVS 304 is useful when using a VGA KVM as it will align the position of all different inputs so that you will not have to do Auto Adjust on the EDTV to centre the display when switching from console to console.
