@@ -111,12 +111,11 @@ Here's how to connect the most common systems. Let me know if you connect one th
 * PC
 * Other systems using HDMI output
 
-**External scaler** (analogue to analogue conversion)
+**SCART/Composite to VGA/DVI adapter**** (analogue to analogue conversion)
 
-* Systems using SCART output
-* Systems using Composite output
+* Most other systems not mentioned above
 
-An example scaler that can take SCART/Composite to VGA would be the [GBS-Control](https://github.com/ramapcsx2/gbs-control).
+An example external scaler that can take SCART/Composite to VGA would be the [GBS-Control](https://github.com/ramapcsx2/gbs-control).
 
 ## Deinterlacing quality
 
