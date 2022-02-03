@@ -84,4 +84,4 @@ Here's the final result in my RSS reader:
 
 # It's up to you
 
-You could also use this technique for searches on eBay, Depop, Etsy, your favourite book store, or anything else you can think of. Just be sure to check the site doesn't already have RSS feeds before you begin!
+You can use this technique to implement saved searches from any website. Just be sure to check the site doesn't already have RSS feeds before you begin!
