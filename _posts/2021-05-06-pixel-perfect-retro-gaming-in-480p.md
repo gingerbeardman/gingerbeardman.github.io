@@ -116,6 +116,8 @@ Here's how to connect the most common systems. Let me know if you connect one th
 * Systems using SCART output
 * Systems using Composite output
 
+An example scaler that can take SCART/Composite to VGA would be the [GBS-Control](https://github.com/ramapcsx2/gbs-control).
+
 ## Deinterlacing quality
 
 To improve deinterlacing for 480i content (eg. PS2) you might consider using a scaler that has motion adaptive deinterlacing and good 480p output, such as [GBS-Control](https://github.com/ramapcsx2/gbs-control).
