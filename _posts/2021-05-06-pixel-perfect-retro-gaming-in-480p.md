@@ -83,11 +83,11 @@ I also use the [#20PF4121 tag on Instagram](https://www.instagram.com/explore/ta
 
 ## Connections
 
-The goal is to get the video output from your console into VGA or DVI, depending on the input your TV has.
+The goal is to get the video output from your gaming system into VGA or DVI, depending on the input your TV has.
 
 Specifically when using the EDTV's PC input we need DVI-A (Analogue), rather than DVD-D (Digital) even if the TV supports both via DVI-I (integrated analogue and digital).
 
-Here's how to connect the most common consoles. Let me know if you connect one that's not on the list!
+Here's how to connect the most common systems. Let me know if you connect one that's not on the list!
 
 **Straight VGA cable** (with VGA to DVI adapter if needed)
 
@@ -122,4 +122,4 @@ To improve deinterlacing for 480i content (eg. PS2) you might consider using a s
 
 ## Aligment of multuple sources
 
-A scaler such as the Extron DVS 304 is useful when using a VGA KVM as it will align the position of all different inputs so that you will not have to do Auto Adjust on the EDTV to centre the display when switching from console to console.
+A scaler such as the Extron DVS 304 is useful when using a [VGA KVM Switch](https://en.wikipedia.org/wiki/KVM_switch) as it will align the position of all different inputs, so you will not have to do Auto Adjust on the EDTV to centre the display when switching from system to system.
