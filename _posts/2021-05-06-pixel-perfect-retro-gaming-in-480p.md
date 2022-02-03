@@ -111,7 +111,7 @@ Here's how to connect the most common systems. Let me know if you connect one th
 * PC
 * Other systems using HDMI output
 
-**SCART/Composite to VGA/DVI adapter**** (analogue to analogue conversion)
+**SCART/Composite to VGA/DVI adapter** (analogue to analogue conversion)
 
 * Most other systems (not mentioned above)
 
