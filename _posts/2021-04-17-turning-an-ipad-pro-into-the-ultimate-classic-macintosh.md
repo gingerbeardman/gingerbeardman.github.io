@@ -127,5 +127,4 @@ This setup gives me the best of both old and new worlds, and that's why I refer 
 * 2021-04-22 — [FredZone](https://www.fredzone.org/et-si-vous-transformiez-votre-ipad-en-macintosh-portable-2828) (in French)
 * 2021-04-23 — [Gizmodo](https://gizmodo.com/this-artist-turned-their-ipad-pro-into-a-classic-macint-1846749495)
 * 2021-04-23 — [Pixel Envy](https://pxlnv.com/linklog/classic-macintosh-painting/)
-* 2021-04-26 — [Input Magazine](https://www.inputmag.com/tech/this-artist-uses-an-ipad-pro-running-classic-macintosh-os-to-make-nfts)
 * 2021-04-26 — [iGeneration](https://www.igen.fr/ipad/2021/04/un-ipad-pro-sous-systeme-7-pour-dessiner-en-noir-et-blanc-122071) (in French)

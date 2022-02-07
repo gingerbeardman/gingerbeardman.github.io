@@ -4,7 +4,6 @@ title: Asanegami (Morning Hair)
 tags:
 - macintosh
 - 1bit
-- nft
 - japanese
 - 1bitwoodblocks
 nouns: [UltraPaint, Pixaki]

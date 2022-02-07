@@ -2,7 +2,6 @@
 layout: post
 title: 1-bit Woodblocks
 tags:
-- nft
 - 1bit
 - macintosh
 - 1bitwoodblocks
