@@ -11,7 +11,7 @@ nouns:
 - (Big Oversized Super Shell)
 - PDP
 carousel: boss-wii
-comments: https://twitter.com/gingerbeardman/status/1497218970604220419?s=20&t=t52ka25BQUIEDVHi1OtciA
+comments: https://twitter.com/gingerbeardman/status/1497218970604220419
 
 ---
 
