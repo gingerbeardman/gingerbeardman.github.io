@@ -2,7 +2,8 @@
 layout: post
 title: 'Ace Mega Blaster controller for Sega Mega Drive'
 tags:
-- ios
+- megadrive
+- controllers
 nouns:
 - Mega Drive
 - Sega
@@ -12,6 +13,7 @@ nouns:
 - ACE
 - PC-Engine
 - Philips
+carousel: ace-mega-blaster
 comments: https://twitter.com/gingerbeardman/status/1438534028097904640
 
 ---
@@ -27,12 +29,6 @@ This particular controller is one of two colours that were available for the Seg
 
 The bottom half of the shell is held together with three small Philips screws, all visible, and three clips on the bottom and sides that need to be carefully pressed to release the shell.
 
-![1 of 4](/images/posts/ace-mega-blaster-1.jpg)
-
-![2 of 4](/images/posts/ace-mega-blaster-2.jpg)
-
-![3 of 4](/images/posts/ace-mega-blaster-3.jpg)
-
-![4 of 4](/images/posts/ace-mega-blaster-4.jpg)
+{% include carousel.html height="100" unit="%" duration="7" %}
 
 ![Print ad](/images/posts/ace-mega-blaster-ad.jpg)
