@@ -28,3 +28,5 @@ I'll outline a few facts here:
 In all the time since the game was made in 1981, he said to me that I was the first person outside of Taito to ever contact him about the game. The first person in over 20 years!? This was a shock to me, but perhaps I'm living in a dream world thinking such a classic video game should get more attention? Sometimes the game is more famous than the creator, Tetris being the best example of that.
 
 After finding out this information I added it in various places, such as in the MAME notes for the game. This interview is the original source of the JUS4QIX and other facts.
+
+![JUS4QIX](/images/posts/jus4qix.jpg)
