@@ -17,7 +17,7 @@ comments: https://twitter.com/gingerbeardman/status/1509533825520443393
 
 ---
 
-One of my "lockdown projects" is a collection of media from vintage Japanese Apple Macintosh magazines. These are mostly CD-ROMs but there are some floppy disks too. I started the project in July 2021 and have so far collected an archive of over 200 items spanning just over a decade, uncovering many long lost classics in the process. I call the project [Macintosh Magazine Media](https://www.patreon.com/posts/58097660) and contributions are always welcome.
+One of my "lockdown projects" is a collection of media from vintage Japanese Apple Macintosh magazines. These are mostly CD-ROMs but there are some floppy disks too. I started the project in July 2021 and have so far collected an archive of over 250 items spanning just over a decade, uncovering many long lost classics in the process. I call the project [Macintosh Magazine Media](https://www.patreon.com/posts/58097660) and contributions are always welcome.
 
 ## The Relentless March of Progress
 
@@ -37,7 +37,7 @@ There are many apps capable of cataloguing removable media, but it took me a lon
 
 ## DIY
 
-With no better solutions to be found the only remaining choice was to do it myself.
+With no better solutions to be found the only remaining choice was to do it myself. This was in October 2021.
 
 I found two apps that can be used on modern systems to view HFS media, both of which seemed like good places to start rather than reinventing the wheel:
 - [HFSExplorer](https://github.com/unsound/hfsexplorer) - a Java GUI app
@@ -45,7 +45,8 @@ I found two apps that can be used on modern systems to view HFS media, both of w
 
 ## HFSExplorer
 
-This app opened a lot of my HFS media, but failed on others. I [filed an issue on GitHub](https://github.com/unsound/hfsexplorer/issues/15) and to my surprise it was quickly resolved. This led to the discovery that the filenames on the media were in MacJapanese text encoding, so that was also added to HFSExplorer. Things went well for a while until certain other media failed to be read completely. Characters in certain filenames were out-of-range for MacJapanese. A [workaround](https://github.com/unsound/hfsexplorer/issues/26) was to read the filenames as MacJapanese and drop down to MacRoman for any filenames with out-of-range characters. This worked well enough. We're now in October 2021.
+This app opened a lot of my HFS media, but failed on others. I [filed an issue on GitHub](https://github.com/unsound/hfsexplorer/issues/15) and to my surprise it was quickly resolved. This led to the discovery that the filenames on the media were in MacJapanese text encoding, so that was also added to HFSExplorer. Things went well for a while until certain other media failed to be read completely. Characters in certain filenames were out-of-range for MacJapanese. A [workaround](https://github.com/unsound/hfsexplorer/issues/26) was to read the filenames as MacJapanese and drop down to MacRoman for any filenames with out-of-range characters. This worked well enough.
+
 
 At this point my attention moved on to wanting to search the contents of all media. It was possible with DiskCatalogMaker but I was limited to using apps on classic Macintosh or modern macOS. Ideally I'd want the search to be web based. So I needed to generate text file listings of each disk. This was the end of the line for HFSExplorer for me, as I found no easy way of doing so.
 
@@ -67,7 +68,7 @@ At this point, I was at an impasse and couldn't think of any way to proceed. Eve
 
 ## ScummVM
 
-What on earth does a point-and-click video game engine have to do with text encoding? Well it turns out that in July 2021 at the same time I was trying to solve this problem so where the ScummVM team. They needed a tool to be able to handle Japanese media that contained games that run on their engine. They created [dumper-companion](https://github.com/einstein95/scummvm/blob/master/devtools/dumper-companion.py). It was a pretty good solution once it had [support for MacJapanese added](https://github.com/scummvm/scummvm/pull/3485) in the same way it had been for HFSExplorer. But it was far too slow, reading the whole disk into memory at once, and it still had problems with the out-of-range characters.
+What on earth does a point-and-click video game engine have to do with text encoding? Well it turns out that in July 2021 at the same time I was trying to solve this problem so where the ScummVM team. They needed a tool to be able to handle Japanese media that contained games that run on their engine and so created [dumper-companion](https://github.com/einstein95/scummvm/blob/master/devtools/dumper-companion.py). It was a pretty good solution once it had [support for MacJapanese added](https://github.com/scummvm/scummvm/pull/3485) in the same way it had been for HFSExplorer. But it was far too slow, reading the whole disk into memory at once, and it still had problems with the out-of-range characters.
 
 ## Tickle
 
@@ -81,11 +82,11 @@ So much effort to arrive at this simple solution!
 
 ## conver2unicode
 
-I wrapped the Tcl one-liner in a bunch more script so that it can handle both files and directories, as well as wildcards and stdin. It can also list all known encodings, and can take an argument representing the source encoding (though it defaults to MacJapanese). I made the one-liner into a proper command-line tool.
+I wrapped the Tcl one-liner in a bunch more script so that it can handle both files and directories, as well as wildcards and stdin. It can also list all known encodings, and can take an argument representing the source encoding (of course it defaults to MacJapanese). I made the one-liner into a proper command-line tool.
 
 <script src="https://gist.github.com/gingerbeardman/4a3b66236e018b72b32ca17953474e12.js"></script>
 
-I have a shell script that runs `convert2unicode` against my drive full of disk images and cataloguing
+I have a shell script that runs `convert2unicode` against my drive full of disk images and takes less than 30 seconds to produce catalogue text files for 250 items.
 
 ## Let there be search
 
