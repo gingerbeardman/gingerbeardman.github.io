@@ -68,7 +68,7 @@ At this point, I was at an impasse and couldn't think of any way to proceed. Eve
 
 ### ScummVM
 
-What on earth does a point-and-click video game engine have to do with text encoding? Well it turns out that in July 2021 at the same time I was trying to solve this problem so where the ScummVM team. They needed a tool to be able to handle Japanese media that contained games that run on their engine and so created [dumper-companion](https://github.com/einstein95/scummvm/blob/master/devtools/dumper-companion.py). It was a pretty good solution once it had [support for MacJapanese added](https://github.com/scummvm/scummvm/pull/3485) in the same way it had been for HFSExplorer. But it was far too slow, reading the whole disk into memory at once, and it still had problems with the out-of-range characters.
+What on earth does a point-and-click video game engine have to do with text encoding? Well it turns out that in July 2021 at the same time I was trying to solve this problem so where the ScummVM team. They needed a tool to be able to handle Japanese media that contained games that run on their engine and so created [dumper-companion](https://github.com/einstein95/scummvm/blob/master/devtools/dumper-companion.py). It was a pretty good solution once it had [support for MacJapanese added](https://github.com/scummvm/scummvm/pull/3485) in the same way it had been for HFSExplorer. But it was far too slow, reading the whole disk image into memory at once, no mean feat for a 650MB CD-ROM image, and it also had problems with the out-of-range characters.
 
 ### Tickle
 
@@ -80,7 +80,7 @@ The Tcl solution to convert from MacJapanese to Unicode is a one-liner:
 
 So much effort to arrive at this simple solution!
 
-## conver2unicode
+## convert2unicode
 
 I wrapped the Tcl one-liner in a bunch more script so that it can handle both files and directories, as well as wildcards and stdin. It can also list all known encodings, and can take an argument representing the source encoding (of course it defaults to MacJapanese). I made the one-liner into a proper command-line tool.
 
