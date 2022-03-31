@@ -43,20 +43,20 @@ I found two apps that can be used on modern systems to view HFS media, both of w
 - [HFSExplorer](https://github.com/unsound/hfsexplorer) - a Java GUI app
 - [hfsutils](https://www.mars.org/home/rob/proj/hfs/) - a command-line suite of tools
 
-## HFSExplorer
+### HFSExplorer
 
 This app opened a lot of my HFS media, but failed on others. I [filed an issue on GitHub](https://github.com/unsound/hfsexplorer/issues/15) and to my surprise it was quickly resolved. This led to the discovery that the filenames on the media were in MacJapanese text encoding, so that was also added to HFSExplorer. Things went well for a while until certain other media failed to be read completely. Characters in certain filenames were out-of-range for MacJapanese. A [workaround](https://github.com/unsound/hfsexplorer/issues/26) was to read the filenames as MacJapanese and drop down to MacRoman for any filenames with out-of-range characters. This worked well enough.
 
 
 At this point my attention moved on to wanting to search the contents of all media. It was possible with DiskCatalogMaker but I was limited to using apps on classic Macintosh or modern macOS. Ideally I'd want the search to be web based. So I needed to generate text file listings of each disk. This was the end of the line for HFSExplorer for me, as I found no easy way of doing so.
 
-## Aside: out-of-range characters
+### Aside: out-of-range characters
 
 You might be wondering: how can there be out of range characters and what are they? There are a few scenarios that cause these problem characters to appear in filenames:
 1. Files encoded as MacRoman or Shift-JIS originating on other systems can easily be copied onto a computer running MacJapanese but the filenames are not re-encoded.
 2. Pressing forward delete key on an extended keyboard whilst renaming a file inserts an invisible DEL character into the filename rather than doing any actual deleting!
 
-## hfsutils
+### hfsutils
 
 Next, `hfsutils`. It's trivial to export the contents of a disk image as a text file, using the command line tool `hls`, but I couldn't make sense of the contents. I had no luck with the best text editors on classic Mac OS: BBEdit, Nisus, Tex-Edit Plus, even Japanese apps like LightWayText couldn't deal with the text. I had a little luck with a classic app called Cyclone Classic, but it hit the same problem as HFSExplorer when coming up against out-of-range characters.
 
@@ -66,11 +66,11 @@ Thinking back to using Japanese apps to work with Japanese text I looked for any
 
 At this point, I was at an impasse and couldn't think of any way to proceed. Eventually I had a couple of breakthroughs.
 
-## ScummVM
+### ScummVM
 
 What on earth does a point-and-click video game engine have to do with text encoding? Well it turns out that in July 2021 at the same time I was trying to solve this problem so where the ScummVM team. They needed a tool to be able to handle Japanese media that contained games that run on their engine and so created [dumper-companion](https://github.com/einstein95/scummvm/blob/master/devtools/dumper-companion.py). It was a pretty good solution once it had [support for MacJapanese added](https://github.com/scummvm/scummvm/pull/3485) in the same way it had been for HFSExplorer. But it was far too slow, reading the whole disk into memory at once, and it still had problems with the out-of-range characters.
 
-## Tickle
+### Tickle
 
 From time to time I would search for possible ways to deal with MacJapanese encoding. One day in November 2021 I stumbled on Tcl (pronounced "tickle") which has support for a whole bunch of text encodings, including MacJapanese! What's more [the encoding maps were written by Apple](https://opensource.apple.com/source/tcl/tcl-10/tcl/tools/encoding/macJapan.txt) in the mid-90s, so it's likely to be as correct as can be. Note: Peter Edberg, who wrote the Tcl mappings, is still working at Apple after almost 35 years!
 
@@ -88,7 +88,7 @@ I wrapped the Tcl one-liner in a bunch more script so that it can handle both fi
 
 I have another [shell script](https://gist.github.com/gingerbeardman/892e2c92b6fe17838a1443608c111a56) that runs `convert2unicode` against my drive full of disk images and takes less than 30 seconds to produce catalogue text files for 250 items.
 
-## Let there be search
+### Let there be search
 
 So, at this point I can generate text files with the contents of each disk, but to get sensible search results each filename would have to have its full path. So I [forked hfsutils and added a "full" mode](https://github.com/gingerbeardman/hfsutils) to display the listing in just the way I wanted. My C skills were really rusty so this was a bit of a challenge.
 
