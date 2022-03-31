@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Just For Kicks: the story of a classic arcade video game'
+title: 'JUS4QIX: the story of a classic arcade video game'
 tags:
 - videogames
 - history
