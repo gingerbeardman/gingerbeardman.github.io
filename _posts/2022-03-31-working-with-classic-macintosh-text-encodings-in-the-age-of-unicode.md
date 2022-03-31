@@ -96,6 +96,6 @@ I created a rudimentary [web-based search engine](https://www.gingerbeardman.com
 
 ## Future
 
-I'd like to offer the ability for individual files to be extracted from a disk and downloaded by interested users. However, this involves further challenges with text encoding.
+I'd like to offer the ability for individual files to be extracted from a disk image so they can be downloaded by interested parties. This would be similar to the way Internet Archive allows individual files to be downloaded from inside ISO disk images. However, this involves further challenges with text encoding and I would also have to address potential bandwidth concerns.
 
-The Tcl solution is great, but it is not quite perfect. Currently the behaviour of the `encoding convertfrom` command silently ignores problem characters. [Future versions of Tcl will have the option of displaying errors](https://core.tcl-lang.org/tcl/info/535705ffffffffff). I'll keep an eye on that progress and upgrade my scripts when the time comes.
+Whilst the Tcl solution is great, it is not quite perfect. Currently the behaviour of the `encoding convertfrom` command silently ignores problem characters. [Future versions of Tcl will have the option of displaying errors](https://core.tcl-lang.org/tcl/info/535705ffffffffff). I'll keep an eye on that progress and upgrade my scripts when the time comes.
