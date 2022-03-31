@@ -86,7 +86,7 @@ I wrapped the Tcl one-liner in a bunch more script so that it can handle both fi
 
 <script src="https://gist.github.com/gingerbeardman/4a3b66236e018b72b32ca17953474e12.js"></script>
 
-I have a shell script that runs `convert2unicode` against my drive full of disk images and takes less than 30 seconds to produce catalogue text files for 250 items.
+I have another [shell script](https://gist.github.com/gingerbeardman/892e2c92b6fe17838a1443608c111a56) that runs `convert2unicode` against my drive full of disk images and takes less than 30 seconds to produce catalogue text files for 250 items.
 
 ## Let there be search
 
