@@ -16,7 +16,7 @@ comments: https://twitter.com/gingerbeardman/status/1390306410617966592
 featured: true
 
 ---
-I recently saw a feature on [Racketboy](https://www.racketboy.com/retro/the-best-43-square-lcd-monitors-for-retro-gaming-classic-pc-use) about "The Best 4:3 LCD Monitors for Retro Gaming" which is an interesting list but misses the mark for one reason: it ignores scaling problems.
+I recently saw a feature on [Racketboy](https://www.racketboy.com/retro/the-best-43-square-lcd-monitors-for-retro-gaming-classic-pc-use) about "The Best 4:3 LCD Monitors for Retro Gaming" which is an interesting list that misses the mark for one reason: it ignores scaling problems.
 
 LCDs are best at their native resolution and all the listed monitors in that article are odd PC resolutions. If we think about retro gaming display outputs then we're squarely sub-480p. Anything higher will mean the image gets scaled and the results will be suboptimal.
 
@@ -38,7 +38,7 @@ Philips made the best 20" 480p EDTVs: they have an LG/Philips IPS panel (yes, in
 
 Connections: you want to use DVI and whatever adaptors you need to get your signal there. Analogue signals over VGA and Component (YPbPr) can be used with a simple pin adaptor. Digital signals like HDMI and DisplayPort, or even those modern HDMI dongles for old consoles, can be used with a suitable signal converter (pick a good one to avoid lag) to get to VGA and then go from there. TVs with HDMI input are different in that it is not used for PC mode.
 
-Notes: some other manufacturers used the same LG/Philips IPS panel. Be aware that Sharp used their own panel technology, and Samsung used a different panel again, neither of which are IPS and so not as good. Sharp also use their own scaler hardware which is not as good as the scaler in my Philips. Scalers my MStar as used in certain EDTVs do not support 240p.
+Notes: some other manufacturers used the same LG/Philips IPS panel. Be aware that Sharp used their own panel technology, and Samsung used a different panel again, neither of which are IPS and so not as good. Sharp also use their own scaler hardware which is not as good as the scaler in my Philips. Scalers by MStar are used in certain EDTVs - including some later Philips sets - and do not support 240p.
 
 I'm yet to find a 16:9 aspect LCD 480p EDTV with PC input. Though I continue to look for one!
 
