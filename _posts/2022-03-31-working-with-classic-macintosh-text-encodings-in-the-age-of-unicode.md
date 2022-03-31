@@ -13,7 +13,7 @@ nouns:
 - Nisus
 - Tex-Edit Plus
 - LightWayText
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1509533825520443393
 
 ---
 
