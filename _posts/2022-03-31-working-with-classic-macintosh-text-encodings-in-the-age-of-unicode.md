@@ -13,6 +13,7 @@ nouns:
 - Nisus
 - Tex-Edit Plus
 - LightWayText
+- Cyclone Classic
 comments: https://twitter.com/gingerbeardman/status/1509533825520443393
 
 ---
@@ -74,11 +75,11 @@ What on earth does a point-and-click video game engine have to do with text enco
 
 From time to time I would search for possible ways to deal with MacJapanese encoding. One day in November 2021 I stumbled on Tcl (pronounced "tickle") which has support for a whole bunch of text encodings, including MacJapanese! What's more [the encoding maps were written by Apple](https://opensource.apple.com/source/tcl/tcl-10/tcl/tools/encoding/macJapan.txt) in the mid-90s, so it's likely to be as correct as can be. Note: Peter Edberg, who wrote the Tcl mappings, is still working at Apple after almost 35 years!
 
-The Tcl solution to convert from MacJapanese to Unicode is a one-liner:
+The Tcl solution to convert from MacJapanese to Unicode is a beautiful one-liner:
 
     puts out.txt [encoding convertfrom macJapan [read in.txt]]
 
-So much effort to arrive at this simple solution!
+...so much effort to arrive at this simple solution!
 
 ## convert2unicode
 
