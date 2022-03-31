@@ -5,6 +5,7 @@ tags:
 - 1bit
 - macintosh
 - 1bitwoodblocks
+- marchintosh
 nouns:
 - 1-bit Woodblocks
 carousel: ''
