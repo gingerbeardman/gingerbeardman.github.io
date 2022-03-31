@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JUS4QIX: the origin of a classic video game'
+title: 'Just For Kicks: the story of a classic arcade video game'
 tags:
 - videogames
 - history
@@ -8,7 +8,7 @@ nouns:
 - Taito America
 - Taito
 - QIX
-comments: https://twitter.com/gingerbeardman/status/1300136506422702081
+comments:
 
 ---
 
@@ -23,7 +23,7 @@ I'll outline a few facts here:
 - Their eureka moment came in the jacuzzi with a bottle of vintage champagne
 - Being a pretty successful silicon valley programmer, he did so for Taito America
 - QIX was one of only a few games made by the US division of Taito
-- The game was named after his car licence/number plate at the time: "JUS4QIX"
+- The game was named after his car licence/number plate at the time: "JUS4QIX", which was pronounced "Just For Kicks"
 
 In all the time since the game was made in 1981, he said to me that I was the first person outside of Taito to ever contact him about the game. The first person in over 20 years!? This was a shock to me, but perhaps I'm living in a dream world thinking such a classic video game should get more attention? Sometimes the game is more famous than the creator, Tetris being the best example of that.
 
