@@ -8,7 +8,7 @@ nouns:
 - Taito America
 - Taito
 - QIX
-comments: https://twitter.com/gingerbeardman/status/1509483609887064069
+comments: https://twitter.com/gingerbeardman/status/1509483939471458306
 
 ---
 
