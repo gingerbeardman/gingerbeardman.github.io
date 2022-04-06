@@ -29,7 +29,7 @@ So I tried using a web proxy and the load times dropped drastically, to a handfu
 
 Of course, I don't want all traffic to go through the proxy. So I set up a PAC (Proxy Auto-Configuration) file to route only requests to HOYOYO through the proxy and leave everything else untouched.
 
-In terms of which proxy to use, I picked a HTTPS proxy from the [Corona VPN proxies list](https://www.coronavpn.net/proxies).
+In terms of which proxy to use, you'll have to hit Google or set up your own on an external server.
 
 # PAC, man
 
