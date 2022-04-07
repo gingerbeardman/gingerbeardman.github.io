@@ -42,9 +42,9 @@ Notes:
 - only use proxy to access selected websites, not all sites
 - avoid proxy/VPN apps with free trials and expensive monthly subscriptions thereafter
 
-## PAC (Proxy Auto Configuration)
+## PAC (Proxy Auto-Config)
 
-You don't really want to route all of your traffic through a proxy, especially if it's a free proxy that you shouldn't trust. It's recommended to enable the proxy only for *.yahoo.co.jp URLs, which is possible using a PAC file. [This handy website can be used to create and test your PAC file](https://thorsen.pm/proxyforurl), then you should host the PAC file somewhere publicly accessible on the internet (so no passwords or personal information should be in it!), and finally enter the proxy URL into your browser. This can be done on both iOS, macOS and likely other platforms.
+You don't really want to route all of your traffic through a proxy, especially if it's a free proxy that you shouldn't trust. It's recommended to enable the proxy only for *.yahoo.co.jp URLs, which is possible using a [PAC](https://en.wikipedia.org/wiki/Proxy_auto-config) file. [This handy website can be used to create and test your PAC file](https://thorsen.pm/proxyforurl), then you should host the PAC file somewhere publicly accessible on the internet (so no passwords or personal information should be in it!), and finally enter the proxy URL into your OS or browser. This can be done on both iOS, macOS and likely other platforms.
 
 ## Redirection
 
