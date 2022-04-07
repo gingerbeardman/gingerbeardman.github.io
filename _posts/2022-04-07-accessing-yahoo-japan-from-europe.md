@@ -26,7 +26,7 @@ We can use a couple of service to place the source of our access to Yahoo! Japan
 
 - VPN: this Virtual Private Network encompasses all access to/from your computer,at a system level. It is generally secure and encrypted.
 
-[For more information about the difference between a proxy and VPN read this page](https://nordvpn.com/blog/vpn-vs-proxy/).
+For more information about the difference between a proxy and VPN [read this page](https://nordvpn.com/blog/vpn-vs-proxy/).
 
 Now that we know what tools we're going to use, let's talk about specific uses.
 
