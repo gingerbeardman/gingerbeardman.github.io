@@ -17,7 +17,7 @@ comments: https://twitter.com/gingerbeardman/status/1512033740482035716
 
 ---
 
-[Since 6th April 2022 Yahoo! Japan has blocked access to the majority of their services for anybody located in the EEA](https://www.theverge.com/2022/2/1/22911965/yahoo-japan-europe-offline-regulations-compliance-gdpr) (European Economic Area). That means the following countries: Austria, Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden.
+Since 6th April 2022, [Yahoo! Japan has blocked access to the majority of their services for anybody located in the EEA](https://www.theverge.com/2022/2/1/22911965/yahoo-japan-europe-offline-regulations-compliance-gdpr) (European Economic Area). That means the following countries: Austria, Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden.
 
 I can't say I blame Yahoo! Japan for doing this, as the demands of GDPR, etc. are ill-considered and almost impossible for even the biggest companies to put into practice. But, regardless, here we are.
 
