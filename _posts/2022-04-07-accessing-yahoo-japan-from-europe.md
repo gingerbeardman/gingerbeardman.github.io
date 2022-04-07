@@ -18,6 +18,18 @@ My interest lies mostly in Yahoo! Japan Auctions, but the methods of access that
 
 With that said let's find some workarounds!
 
+## Proxy or VPN?
+
+We can use a couple of service to place the source of our access to Yahoo! Japan outside of the EEA blocked area, and any checks as to our physical location will get the physical location of the service instead. Neat!
+
+- Proxy: is a middleman service that relays your accesses to/from websites, usually at an application level. It is often not secure and encrypted.
+
+- VPN: this Virtual Private Network encompasses all access to/from your computer,at a system level. It is generally secure and encrypted.
+
+[For more information read this page](https://nordvpn.com/blog/vpn-vs-proxy/).
+
+----
+
 ## Browsers
 
 Certain browsers offer built in proxy/VPN, at zero cost. These will allow you to access Yahoo! Japan pretty much as you did before. But read the notes below!
