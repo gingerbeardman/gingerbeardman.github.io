@@ -59,8 +59,10 @@ My main browser on macOS is Safari and regardless of the previous workarounds I 
 
 To workaround this I have configured the [PageExtender extension](https://apps.apple.com/gb/app/pageextender-for-safari/id1457557274?mt=12) to apply custom CSS and JS to Yahoo! Japan Auctions URLs. I do the following:
 
-- CSS: hide everything on the page (so I don't see the ugly error)
-- JS: redirect the page to an alternative website so I can see details of the auction item (such as pages provided by one of the many "buy from japan" websites)
+- CSS
+  - hide everything on the page (so I don't see the ugly error)
+- JS
+  - redirect the page to an alternative website so I can see details of the auction item (such as pages provided by one of the many "buy from japan" websites)
 
 <script src="https://gist.github.com/gingerbeardman/789bcd8786fb76578fc11c491bd5b97b.js"></script>
 
