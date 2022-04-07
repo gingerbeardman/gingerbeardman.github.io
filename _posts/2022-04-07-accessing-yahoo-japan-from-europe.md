@@ -2,10 +2,17 @@
 layout: post
 title: Accessing Yahoo! Japan from Europe
 tags:
-- macintosh
+- yahoo-japan
+- internet
+- proxy
+- vpn
+- workarounds
 nouns:
 - Yahoo! Japan Auctions
 - Yahoo! Japan
+- Safari
+- macOS
+- iOS
 comments: https://twitter.com/gingerbeardman/status/1512033740482035716
 
 ---
