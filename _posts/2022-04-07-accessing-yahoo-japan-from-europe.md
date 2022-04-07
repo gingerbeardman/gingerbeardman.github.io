@@ -6,7 +6,7 @@ tags:
 nouns:
 - Yahoo! Japan Auctions
 - Yahoo! Japan
-comments: https://twitter.com/gingerbeardman/status/1509533825520443393
+comments: https://twitter.com/gingerbeardman/status/1512033740482035716
 
 ---
 
