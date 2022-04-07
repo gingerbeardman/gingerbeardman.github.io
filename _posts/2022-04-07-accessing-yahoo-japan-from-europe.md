@@ -62,7 +62,9 @@ To workaround this I have configured the [PageExtender extension](https://apps.a
 - CSS: hide everything on the page (so I don't see the ugly error)
 - JS: redirect the page to an alternative website so I can see details of the auction item (such as pages provided by one of the many "buy from japan" websites)
 
-You can [see my dot files in this gist](https://gist.github.com/gingerbeardman/789bcd8786fb76578fc11c491bd5b97b). This means I can keep browsing uninterrupted.
+<script src="https://gist.github.com/gingerbeardman/789bcd8786fb76578fc11c491bd5b97b.js"></script>
+
+This means I can keep browsing uninterrupted.
 
 ## Server-level access
 
