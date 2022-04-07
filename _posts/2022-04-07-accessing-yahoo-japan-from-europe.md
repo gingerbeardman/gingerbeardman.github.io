@@ -32,7 +32,7 @@ Notes:
 
 ## Server Access
 
-I run a server that does automated searches of Yahoo! Japan Auctions, giving me a sort of "Saved Search" mechanism for my own hobbies and interests. I now use a manual proxy configuration, for just the accesses to Yahoo! Japan websites, by specifying a proxy URL in my server configuration.
+I run a server that does automated searches of Yahoo! Japan Auctions, giving me a sort of "Saved Search" mechanism for my own hobbies and interests. I now route all accesses to Yahoo! Japan websites through a proxy by specifying the proxy URL in my server configuration.
 
 ## PAC (Proxy Auto Configuration)
 
