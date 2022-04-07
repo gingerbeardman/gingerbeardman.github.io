@@ -30,10 +30,6 @@ Notes:
 - only use proxy to access selected websites, not all sites
 - avoid proxy/VPN apps with free trials and expensive monthly subscriptions thereafter
 
-## Server Access
-
-I run a server that does automated searches of Yahoo! Japan Auctions, giving me a sort of "Saved Search" mechanism for my own hobbies and interests. I now route all accesses to Yahoo! Japan websites through a proxy by specifying the proxy URL in my server configuration.
-
 ## PAC (Proxy Auto Configuration)
 
 You don't really want to route all of your traffic through a proxy, especially if it's a free proxy that you can't really trust. You should enable the proxy only for *.yahoo.co.jp URLs using a PAC file. Use [this handy tool to create and test your PAC file](https://thorsen.pm/proxyforurl), host the script somewhere publicly accessible on the internet, and enter the proxy URL into your browser.
@@ -48,6 +44,10 @@ To workaround this I have configured the [PageExtender extension](https://apps.a
 - JS: redirect the page to an alternative website so I can see details of the auction item (such as pages provided by one of the many "buy from japan" websites)
 
 This means I can keep browsing uninterrupted.
+
+## Server-level access
+
+I run a server that does automated searches of Yahoo! Japan Auctions, giving me a sort of "Saved Search" mechanism for my own hobbies and interests. I now route all accesses to Yahoo! Japan websites through a proxy by specifying the proxy URL in my server configuration.
 
 ## To be continued...
 
