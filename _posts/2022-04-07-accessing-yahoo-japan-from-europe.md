@@ -57,7 +57,9 @@ You don't really want to route all of your traffic through a proxy, especially i
 
 My main browser on macOS is Safari and regardless of the previous workarounds I still visit Yahoo! Japan Auctions pages during general browsing and image searching. This results in the dreaded error page.
 
-To workaround this I have configured the [PageExtender extension](https://apps.apple.com/gb/app/pageextender-for-safari/id1457557274?mt=12) to apply custom CSS and JS to Yahoo! Japan Auctions URLs. I do the following:
+To workaround this I have configured the [PageExtender extension](https://apps.apple.com/gb/app/pageextender-for-safari/id1457557274?mt=12) (maOS) and the [Makeover extension](https://apps.apple.com/sg/app/makeover-custom-css/id1602361167) (iOS) to apply custom CSS and JS to Yahoo! Japan Auctions URLs.
+
+I do the following:
 
 - CSS
   - hide everything on the page (so I don't see the ugly error)
@@ -67,6 +69,8 @@ To workaround this I have configured the [PageExtender extension](https://apps.a
 <script src="https://gist.github.com/gingerbeardman/789bcd8786fb76578fc11c491bd5b97b.js"></script>
 
 This means I can keep browsing uninterrupted.
+
+Here is [my archive of CSS and JS for modifying other sites](https://github.com/gingerbeardman/dot-css-js/) in a similar way.
 
 ## Server-level access
 
