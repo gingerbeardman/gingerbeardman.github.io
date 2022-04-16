@@ -51,7 +51,11 @@ Notes:
 
 ## PAC (Proxy Auto-Config)
 
-You don't really want to route all of your traffic through a proxy, especially if it's a free proxy that you shouldn't trust. It's recommended to enable the proxy only for *.yahoo.co.jp URLs, which is possible using a [PAC](https://en.wikipedia.org/wiki/Proxy_auto-config) file. [This handy website can be used to create and test your PAC file](https://thorsen.pm/proxyforurl), then you should host the PAC file somewhere publicly accessible on the internet (so no passwords or personal information should be in it!), and finally enter the proxy URL into your OS or browser. This can be done on both iOS, macOS and likely other platforms.
+You don't really want to route all of your traffic through a proxy, especially if it's a free proxy that you shouldn't trust. It's recommended to enable the proxy only for *.yahoo.co.jp URLs, which is possible using a [PAC](https://en.wikipedia.org/wiki/Proxy_auto-config) file, an example of which is below.
+
+<script src="https://gist.github.com/gingerbeardman/d02b61f86eadd29a86b3ae42082eee7f.js"></script>
+
+[This handy website can be used to create and test your PAC file](https://thorsen.pm/proxyforurl), then you should host the PAC file somewhere publicly accessible on the internet (so no passwords or personal information should be in it!), and finally enter the proxy URL into your system or browser network settings. This can all be done on both iOS, macOS and likely other platforms.
 
 ## Which Proxy?
 
