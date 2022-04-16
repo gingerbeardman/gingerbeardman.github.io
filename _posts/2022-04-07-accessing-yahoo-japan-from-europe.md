@@ -53,6 +53,12 @@ Notes:
 
 You don't really want to route all of your traffic through a proxy, especially if it's a free proxy that you shouldn't trust. It's recommended to enable the proxy only for *.yahoo.co.jp URLs, which is possible using a [PAC](https://en.wikipedia.org/wiki/Proxy_auto-config) file. [This handy website can be used to create and test your PAC file](https://thorsen.pm/proxyforurl), then you should host the PAC file somewhere publicly accessible on the internet (so no passwords or personal information should be in it!), and finally enter the proxy URL into your OS or browser. This can be done on both iOS, macOS and likely other platforms.
 
+## Which Proxy?
+
+There are many free proxies listed at [freeproxy.world](https://www.freeproxy.world) with the caveat that you may have to hunt to find one that works, find new ones when things stop working, and not trust them with any personal data.
+
+It's possible to host your own! You could do this on your home network using a Synology NAS, Raspberry Pi or some other computer. Or you can do it on a wider scale by hosting your proxy in the cloud. This is an advanced level solution, but is currently my preferred method. I have a proxy installed on a cloud compute instance located outside of the EEA. More specifically, I am using an install of `tinyproxy` on an *Oracle Cloud Instance* located on a server in Switzerland. I then combine this with the PAC method on the network connection each of my devices.
+
 ## Redirection
 
 My main browser on macOS is Safari and regardless of the previous workarounds I still visit Yahoo! Japan Auctions pages during general browsing and image searching. This results in the dreaded error page.
@@ -68,7 +74,7 @@ I do the following:
 
 <script src="https://gist.github.com/gingerbeardman/789bcd8786fb76578fc11c491bd5b97b.js"></script>
 
-This means I can keep browsing uninterrupted.
+This means I can keep browsing uninterrupted, though of course you can no longer see the original pages as intended.
 
 Here is [my archive of CSS and JS for modifying other sites](https://github.com/gingerbeardman/dot-css-js/) in a similar way.
 
