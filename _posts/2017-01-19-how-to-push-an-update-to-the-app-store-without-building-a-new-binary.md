@@ -93,7 +93,7 @@ Metadata Rejected.
 Got to love that new icon.
 Application Approved!
 
-## That’s it
+## That’s all folks
 
 Hopefully you can get your app back on the App Store without too much effort. Of course, you should only do this for apps that you know are functioning correctly. Good luck!
 
