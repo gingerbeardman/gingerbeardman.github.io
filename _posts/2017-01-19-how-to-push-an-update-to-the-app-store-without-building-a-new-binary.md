@@ -105,4 +105,8 @@ Rather than drawing an arbitrary line by date, how about investing in automated 
 
 ## 2022 update
 
-The app I did this for is no longer on the App Store, I get better results [selling it at itch](https://gingerbeardman.itch.io/wire-hang-redux). I'm republishing this article to help developers dealing with similar requests from Apple over 5 years later.
+*Wire Hang Redux*, the game I did this for, is no longer listed on the Mac App Store. The reason being that I didn't have a 64-bit version ready-to-go for the 2017 deadline Apple set for removal of 32-bit-only apps.
+
+Since then I've been selling it elsewhere with better results. [You can grab it from itch.io](https://gingerbeardman.itch.io/wire-hang-redux).
+
+I'm republishing this article to help developers dealing with similar requests from Apple over 5 years later.
