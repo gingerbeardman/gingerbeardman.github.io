@@ -102,3 +102,7 @@ Final thanks to Mark Sibly of [Blitz Research](https://en.wikipedia.org/wiki/Bli
 ## A note to Apple Developer Relations
 
 Rather than drawing an arbitrary line by date, how about investing in automated testing of apps? Developers would appreciate Apple taking on that burden, rather than asking developers to do new builds of apps that don’t really need it. Thanks for reading.
+
+## 2022 update
+
+The app I did this for is no longer on the App Store, I get better results [selling it at itch](https://gingerbeardman.itch.io/wire-hang-redux). I'm republishing this article to help developers dealing with similar requests from Apple over 5 years later.
