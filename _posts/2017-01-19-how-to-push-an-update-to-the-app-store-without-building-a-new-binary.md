@@ -27,7 +27,7 @@ There’s an App Store cleanup going on under the banner of “Improving the App
 
 However, I’ve had a request to update an app that still functions perfectly despite not having been updated since 2011. That’s Snow Leopard vintage for all the old timers that are reading!
 
-##Next Steps
+## Next Steps
 
 First thing to know is that you can appeal such a request. You probably won’t have much luck—I didn’t. “Computer says no.”
 
