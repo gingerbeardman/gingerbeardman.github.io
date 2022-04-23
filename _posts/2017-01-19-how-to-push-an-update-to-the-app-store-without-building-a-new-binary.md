@@ -5,8 +5,6 @@ tags:
 - appstore
 - apple
 nouns:
-- App Store
-- Apple
 - Application Loader
 - iTunes Connect
 comments: https://twitter.com/gingerbeardman/status/1517897365373571073
