@@ -9,7 +9,7 @@ nouns:
 - Apple
 - Application Loader
 - iTunes Connect
-comments:
+comments: https://twitter.com/gingerbeardman/status/1517897365373571073
 
 ---
 
