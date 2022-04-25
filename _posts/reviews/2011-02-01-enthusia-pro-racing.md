@@ -9,12 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/3048957687/enthusia-pro-racing
 ---
-![Enthusia Professional Racing](https://64.media.tumblr.com/tumblr_lfv72zwTxp1qbfpni.jpg)  
-<!-- more --> **Title:** Enthusia Professional Racing  
-**Year:** 2005  
-**Developer:** Konami  
-**Publisher:** Konami  
-**Platform:** PlayStation 2
+![Enthusia Professional Racing](https://64.media.tumblr.com/tumblr_lfv72zwTxp1qbfpni.jpg)
 
 **It’s brave to go up against an established franchise, but that’s just what Konami tried to do with _Enthusia Professional Racing_. In many ways it’s a better game than _Gran Turismo_ but that wasn’t enough to take any substantial market share.**
 
@@ -30,10 +25,9 @@ These days I think most people would consider the game closer to the [Forza](htt
 
 I’d love to see a sequel to _Enthusia_, but I doubt Konami would ever consider it. They made an admirable effort but the game just didn’t excite the punter in any lasting way. Shame. Look out for a future review of Konami’s _Kaidō Battle_ game for their take on another style of driving game.
 
-**Links:**  
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=H1sPL5ZmZb8)  
-[Watch the crazy intro on YouTube.com](http://www.youtube.com/watch?v=9Pwh_UPUxdc)  
-[View images of all the cars at IGCD.net](http://www.igcd.net/movie.php?id=10000082)  
-[Find out more at mobygames.com](http://www.mobygames.com/game/enthusia-professional-racing)  
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=enthusia+racing)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=H1sPL5ZmZb8)
+- [Watch the crazy intro on YouTube.com](http://www.youtube.com/watch?v=9Pwh_UPUxdc)
+- [View images of all the cars at IGCD.net](http://www.igcd.net/movie.php?id=10000082)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/enthusia-professional-racing)

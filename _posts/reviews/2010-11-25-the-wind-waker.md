@@ -9,12 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1676267832/the-wind-waker
 ---
-[![The Wind Waker](https://64.media.tumblr.com/tumblr_lab1sxZXJa1qbfpni.jpg)](http://dreampast.tumblr.com/post/1676267832/the-wind-waker)  
-<!-- more --> **Title:** The Legend of Zelda: The Wind Waker  
-**Year:** 2003  
-**Developer:** Nintendo EAD  
-**Publisher:** Nintendo  
-**Platform:** GameCube
+[![The Wind Waker](https://64.media.tumblr.com/tumblr_lab1sxZXJa1qbfpni.jpg)](http://dreampast.tumblr.com/post/1676267832/the-wind-waker)
 
 **I’m not one for traditional adventure games - ones with a long, drawn-out main quest, lots of optional sub quests, experience points, levelling up, random battles and all of that sort of stuff. I need more direction in what to do next, although I still want to have fun figuring out how to do it and on the journey getting there.**
 
@@ -24,9 +19,8 @@ Just prior to playing _The Wind Waker_ I’d read _Paulo Coelho’s_ [The Alchem
 
 I’ve tried every _Zelda_ since and they’ve not held my attention as much as _The Wind Waker_. Only as recently as [The Twilight Princess](http://www.mobygames.com/game/legend-of-zelda-twilight-princess), with it’s more grown-up look, I decided that I’m pretty much wasting my time trying to find a Zelda game that hits me quite as hard as _The Wind Waker_ did. But there’s a special place in my heart for this story and I look forward to playing the game through again in 1080p High Definition when Nintendo give us capable hardware. I trust even more glorious visuals will once again help me see the final credits.
 
-**Links:**  
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=IyxTw_AlRaA)  
-[Watch the game at 1080p on YouTube.com](http://www.youtube.com/watch?v=LG9rN1zMNd0)  
-[Find out more at mobygames.com](http://www.mobygames.com/game/legend-of-zelda-the-wind-waker)  
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=the+wind+waker)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=IyxTw_AlRaA)
+- [Watch the game at 1080p on YouTube.com](http://www.youtube.com/watch?v=LG9rN1zMNd0)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/legend-of-zelda-the-wind-waker)

@@ -11,14 +11,6 @@ tumblr_url: https://dreampast.tumblr.com/post/1200852380/vanishing-point
 ---
 [![Vanishing Point](https://64.media.tumblr.com/tumblr_l9fhhoKbTj1qbfpni.jpg)](http://dreampast.tumblr.com/post/1200852380/vanishing-point)
 
-| Name      | Vanishing Point |
-|:----------|:--------------------------------|
-| Year      | 2001 |
-| Developer | Clockwork Games |
-| Publisher | Acclaim |
-| Platforms | Dreamacast |
-{: .donotsort }
-
 **I’ve recently come back to this game in an attempt to complete it 100%, picking up my 10 year old save game. It’s a great game, though the sensitivity of the controls can be unforgiving at times. But it’s definitely worth persevering with. Think of it like a modern day [Stunt Car Racer](http://www.mobygames.com/game/stunt-car-racer) and you’ll be fine – laying off the accelerator is just as important as keeping the pedal to the metal.**
 
 Straddling the narrow line between flat-out arcade racer and flat-tyre simulation, Vanishing Point offered a wealth of cars, locations and driving modes that still stand up today. Time Trial, Single Races and Tournaments as well as a novel Stunt Mode in which you had to throw the cars around various non-race challenges with pinpoint precision. The recent [Trials HD](http://www.mobygames.com/game/trials-hd) on the 360 brings back a lot of memories of Stunt Mode for me, except Vanishing Point had more cones, balloons and chequered flags.
@@ -38,5 +30,3 @@ Update: I finally completed the game in May 2015. Woop!
 - [Watch the game on YouTube.com](http://www.youtube.com/results?search_query=vanishing+point+dreamcast&sm=3)
 - [Find out more at mobygames.com](http://www.mobygames.com/game/dreamcast/vanishing-point)
 - [View images of all the cars at IGCD.net](http://www.igcd.net/game.php?id=268739)
-- [Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=vanishing+point+dreamcast)
-

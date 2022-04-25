@@ -10,12 +10,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1357929133/sensible-soccer
 ---
-[![Sensible Soccer](https://64.media.tumblr.com/tumblr_la4nmaT4lB1qbfpni.png)](http://dreampast.tumblr.com/post/1357929133/sensible-soccer)  
-<!-- more --> **Name:** Sensible Soccer  
-**Year:** 1992  
-**Developer:** Sensible Software  
-**Publisher:** Renegade  
-**Platforms:** Atari ST, Amiga
+[![Sensible Soccer](https://64.media.tumblr.com/tumblr_la4nmaT4lB1qbfpni.png)](http://dreampast.tumblr.com/post/1357929133/sensible-soccer)
 
 **The beautiful game.**
 
@@ -33,8 +28,7 @@ What set _Sensi_ apart from its competitors was that you could see so much more 
 
 But you know what? All that data doesn’t really matter - all you need is a couple of joysticks, a second player and a few minutes to enjoy one of the finest videogame experiences every made. In fact, in 2007 the game was included in a list of the[ten most important video games of all time](http://www.nytimes.com/2007/03/12/arts/design/12vide.html?ex=1331352000&en=380fc9bb18694da5&ei=5124&partner=permalink&exprod=permalink). The fact it plays as well today as it did all those years ago is testament to it’s quality. It remains a truly beautiful game.
 
-**Links:**  
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=NNyU4xc-G6Y)  
-[Find out more at mobygames.com](http://www.mobygames.com/game/sensible-soccer)  
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=sensible+soccer)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=NNyU4xc-G6Y)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/sensible-soccer)

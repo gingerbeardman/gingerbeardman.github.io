@@ -10,11 +10,6 @@ tags:
 tumblr_url: https://dreampast.tumblr.com/post/1297648627/sheep-dog-n-wolf
 ---
 [![](https://64.media.tumblr.com/tumblr_la544c18r21qbfpni.jpg)](http://dreampast.tumblr.com/post/1297648627/sheep-dog-n-wolf)
-<!-- more --> **Name:** Sheep, Dog ‘n’ Wolf/Sheep Raider
-**Year:** 2001
-**Developer:** Infogrames
-**Publisher:** Infogrames
-**Platform:** PlayStation
 
 **In a sea of badly realised licenced games French company Infogrames made a daring move to buck the trend, creating this cartoon stealth 'em up set in the Looney Tunes world. The result is a fabulous game as imaginative as the source material it’s based on.**
 
@@ -28,8 +23,7 @@ Even today - almost 10 years after it was released – it’s rare to get a game
 
 I’d love to see a follow-up to this game, or alternatively another game that treads the same ground as I’m hungry for more.
 
-**Links:**
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=-eNwFgiGx1A)
-[Find out more at mobygames.com](http://www.mobygames.com/game/looney-tunes-sheep-raider)
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=sheep+dog+wolf)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=-eNwFgiGx1A)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/looney-tunes-sheep-raider)

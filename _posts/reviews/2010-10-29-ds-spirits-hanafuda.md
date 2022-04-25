@@ -10,11 +10,6 @@ tags:
 tumblr_url: https://dreampast.tumblr.com/post/1430054555/ds-spirits-hanafuda
 ---
 [![DS Spirits Hanafuda](https://64.media.tumblr.com/tumblr_lb0pxhXMCu1qbfpni.png)](http://dreampast.tumblr.com/post/1430054555/ds-spirits-hanafuda)
-<!-- more --> **Name:** 1500DS Spirits Vol. 5: Hanafuda
-**Year:** 2007
-**Developer:** Tasuke
-**Publisher:** Tasuke
-**Platform:** Nintendo DS
 
 **Nintendo started out in the entertainment business by manufacturing Hanafuda, or flower cards. There are a number of games that are commonly played with these cards the most popular of which is Koi-Koi, a game of surprising depth and one of my vices.**
 
@@ -28,10 +23,8 @@ So, after much searching I was overjoyed to find _DS Spirits Hanafuda_, which fo
 
 But obstacles are there to be overcome. If you’ve not got a Nintendo DS, then the next best Koi-Koi game is on the iPhone. This version by Hidetoshi Hayakawa plays a great game of cards, supports wireless multi-player and also features a progressive mode versus the computer. Whilst not as polished or complete as _DS Spirits Hanafuda_ it features full English interface and instructions so it’s as probably the best starting point. Perhaps Koi-Koi will capture your heart as much as it has mine? Give the game a go and find out.
 
-**Links:**
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=xxx)
-[Read the objectives of DS Spirits Hanafuda’s Koi-Koi Mission](http://www.flickr.com/photos/emsef/sets/72157614337766883/)
-[Find out more about Koi-Koi at Wikipedia.org](http://en.wikipedia.org/wiki/Koi-Koi)
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=ds+spirits+hanafuda)
-[Buy Hidetoshi Hayakawa’s Koi-Koi on the App Store](http://itunes.apple.com/gb/app/id382262967?mt=8)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=xxx)
+- [Read the objectives of DS Spirits Hanafuda’s Koi-Koi Mission](http://www.flickr.com/photos/emsef/sets/72157614337766883/)
+- [Find out more about Hanafuda at fudawiki.org](https://fudawiki.org)

@@ -13,12 +13,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/4111406373/pilotwings
 ---
-[![Pilotwings](https://64.media.tumblr.com/tumblr_la4kbnQL8m1qbfpni.png)](http://dreampast.tumblr.com/post/4111406373/pilotwings)  
-<!-- more --> **Name:** Pilotwings  
-**Year:** 1992  
-**Developer:** Nintendo EAD  
-**Publisher:** Nintendo  
-**Platform:** SNES
+[![Pilotwings](https://64.media.tumblr.com/tumblr_la4kbnQL8m1qbfpni.png)](http://dreampast.tumblr.com/post/4111406373/pilotwings)
 
 **Take to the skies in one of the most relaxing video games of all time.**
 
@@ -32,8 +27,7 @@ The game saw a sequel in [Pilotwings 64](http://www.mobygames.com/game/pilotwing
 
 So it was great to find out that, after 15 years of waiting, an all-new Pilotwings game - [Pilotwings Resort](http://en.wikipedia.org/wiki/Pilotwings_Resort) - was to be a launch title for the [Nintendo 3DS](http://en.wikipedia.org/wiki/Nintendo_3DS). I’ve played the game extensively and it’s just sublime - every bit the sequel I’d wished for. Whilst it’s not without faults - there’s only one location, a handful of vehicles, less variety of landing areas and no funny bonus modes. But it is in 3D, has it’s fair share of novel rewards and bags of gameplay. It’s also a far more accessible game than either of the two previous games. It’s evident that the Nintendo of today can put out games of a higher quality than they have ever done before. Even if it takes them a while to get around to it.
 
-**Links:**  
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=mc4IyxvJTKs)  
-[Find out more at mobygames.com](http://www.mobygames.com/game/pilotwings)  
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=pilotwings)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=mc4IyxvJTKs)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/pilotwings)

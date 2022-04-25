@@ -9,12 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1242631648/rallisport-challenge-2
 ---
-[![RalliSport Challenge 2](https://64.media.tumblr.com/tumblr_la0zwhKO3I1qbfpni.jpg)](http://dreampast.tumblr.com/post/1242631648/rallisport-challenge-2)  
-<!-- more --> **Name:** RalliSport Challenge 2  
-**Year:** 2004  
-**Developer:** Digital Illusions/DICE  
-**Publisher:** Microsoft Game Studios  
-**Platform:** Xbox
+[![RalliSport Challenge 2](https://64.media.tumblr.com/tumblr_la0zwhKO3I1qbfpni.jpg)](http://dreampast.tumblr.com/post/1242631648/rallisport-challenge-2)
 
 **You’d be forgiven for not having heard of [RalliSport Challenge](http://www.mobygames.com/game/rallisport-challenge) - a rally racing game for the original Xbox, and Windows PC. But don’t go away without playing the sequel - the best rally racing game ever made.**
 
@@ -30,9 +25,8 @@ It’s sad to think that we may never get a third game in the series - Microsoft
 
 Some feelings are hard to describe in words and that’s true here - there’s never been a game that felt so right and so complete.
 
-**Links:**  
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=oBmxhmOfVu8)  
-[Find out more at mobygames.com](http://www.mobygames.com/game/rallisport-challenge-2)  
-[View images of all the cars at IGCD.net](http://www.igcd.net/movie.php?id=19842082)  
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=rallisport+challenge+2)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=oBmxhmOfVu8)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/rallisport-challenge-2)
+- [View images of all the cars at IGCD.net](http://www.igcd.net/movie.php?id=19842082)

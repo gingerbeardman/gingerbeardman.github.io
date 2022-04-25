@@ -9,12 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1349871356/excite-truck
 ---
-[![Excite Truck](https://64.media.tumblr.com/tumblr_lahvrnsZK41qbfpni.jpg)](http://dreampast.tumblr.com/post/1349871356/excite-truck)  
-<!-- more --> **Name:** Excite Truck  
-**Year:** 2007  
-**Developer:** Monster Games  
-**Publisher:** Nintendo  
-**Platform:** Wii
+[![Excite Truck](https://64.media.tumblr.com/tumblr_lahvrnsZK41qbfpni.jpg)](http://dreampast.tumblr.com/post/1349871356/excite-truck)
 
 **Creating a sequel to a game is a tricky thing. It’s often difficult to retain the essence of the original game, meaning a lot of sequels keep things safe and don’t stray too far from the concept along the way. This usually leads to an average game, which is why it was such a shock to find that this one goes up to 11.**
 
@@ -28,9 +23,7 @@ The game offered local multi-player only, something that was addressed in it’s
 
 For those that don’t own a Wii, [Smash Cars](http://www.mobygames.com/game/smash-cars) on the PlayStation 3 is a pretty decent copy of _Excite Truck_ but has you racing radio controlled cars around oversized locations. It’s not quite as good a game as either _Excite Truck_ or _Excite Bots_, and it brings little of it’s own to the table, but it plays well enough.
 
-**Links:**  
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=cxN0vshSuoY)  
-[Find out more at mobygames.com](http://www.mobygames.com/game/excite-truck)  
-[Search for Excite Truck on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=excite-truck)  
-[Search for Excite Bots on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=excitebots)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=cxN0vshSuoY)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/excite-truck)

@@ -9,12 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1248301285/kuru-kuru-kururin
 ---
-[<figure class="tmblr-full" data-orig-height="320" data-orig-width="480" data-orig-src="https://64.media.tumblr.com/tumblr_l9rsuyTLXx1qbfpni.png"><img src="https://64.media.tumblr.com/d1f917b282b1c4379ac367d431ee190e/tumblr_inline_pk2sfuvSBT1qbfpni_540.png" alt="Kuru Kuru Kururin" data-orig-height="320" data-orig-width="480" data-orig-src="https://64.media.tumblr.com/tumblr_l9rsuyTLXx1qbfpni.png"></figure>](http://dreampast.tumblr.com/post/1248301285/kuru-kuru-kururin)  
-<!-- more --> **Name:** Kuru Kuru Kururin (くるくるくるりん)  
-**Year:** 2001  
-**Developer:** Eighting  
-**Publisher:** Nintendo  
-**Platform:** Game Boy Advance
+[<figure class="tmblr-full" data-orig-height="320" data-orig-width="480" data-orig-src="https://64.media.tumblr.com/tumblr_l9rsuyTLXx1qbfpni.png"><img src="https://64.media.tumblr.com/d1f917b282b1c4379ac367d431ee190e/tumblr_inline_pk2sfuvSBT1qbfpni_540.png" alt="Kuru Kuru Kururin" data-orig-height="320" data-orig-width="480" data-orig-src="https://64.media.tumblr.com/tumblr_l9rsuyTLXx1qbfpni.png"></figure>](http://dreampast.tumblr.com/post/1248301285/kuru-kuru-kururin)
 
 **Kuru Kuru Kururin sums up what I think is so great about the sort of games Nintendo publish. It’s an unorthodox action/puzzle/maze game made by a third party best known for their scrolling shoot ’em ups. No other company would have the balls to release a game like this, never mind as part of a console launch line-up.**
 
@@ -24,20 +19,18 @@ In Kuru Kuru Kururin, you’re a rabbit, piloting a helicopter rotor blade, in s
 
 What’s brilliant about the game is that you can play it in so many different ways:
 
-Want it easy, play with the short stick.  
-Want it regular, play with the long stick.  
-Want it hard, go for all the fastest times.  
+Want it easy, play with the short stick.
+Want it regular, play with the long stick.
+Want it hard, go for all the fastest times.
 Want it extra hard, go for all perfect (no collisions).
 
 Whilst Nintendo were brave enough to release the game in Europe, it must not have sold very well as the two sequels ([Kururin Paradise](http://www.mobygames.com/game/kururin-paradise) for GBA and [Kururin Squash!](http://www.mobygames.com/game/kururin-squash) for GameCube) were only released in Japan. I was such a fan of the first game that I bought the other two regardless.
 
 I even took the two GBA versions of the game on holiday one year to Corfu, just to give me something to do whilst sunbathing. My girlfriend might argue against me when I say was possibly one of the greatest gaming decisions I’ve ever made. I sat for a few hours every day on the beach for the whole week we were away and managed to ace both games - I think I’m a bit gaming OCD like that. Even so, completing all levels perfectly and breaking all records remains one of my greatest gaming achievements to date. Though I think I drew the line at the secret, super-difficult levels that were unlocked for doing so. Perhaps I can do them on my next holiday?
 
-**Links:**  
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=78eHxHYUmJs)  
-[Find out more at mobygames.com](http://www.mobygames.com/game/gba/kuru-kuru-kururin)  
-[Read about Kururin Paradise](http://users.telenet.be/twin-dreams/Portable/GameBoy_Advance/Kururin_Paradise.html)  
-[Read about Kururin Squash!](http://users.telenet.be/twin-dreams/GameCube/Kururin_Squash.html)  
- [Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=kuru+kururin)  
-[Buy the game on Amazon.co.uk](http://www.amazon.co.uk/gp/product/B00005JGCJ?ie=UTF8&tag=mattspersonahobb&linkCode=as2&camp=1634&creative=19450&creativeASIN=B00005JGCJ)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=78eHxHYUmJs)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/gba/kuru-kuru-kururin)
+- [Read about Kururin Paradise](http://users.telenet.be/twin-dreams/Portable/GameBoy_Advance/Kururin_Paradise.html)
+- [Read about Kururin Squash!](http://users.telenet.be/twin-dreams/GameCube/Kururin_Squash.html)

@@ -9,12 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1304819152/tetris-attack
 ---
-[![Tetris Attack](https://64.media.tumblr.com/tumblr_la832qEWKE1qbfpni.png)](http://dreampast.tumblr.com/post/1304819152/tetris-attack)  
-<!-- more --> **Name:** Tetris Attack/Panel de Pon/Puzzle League  
-**Year:** 1996  
-**Developer:** Intelligent Systems  
-**Publisher:** Nintendo  
-**Platform:** SNES
+[![Tetris Attack](https://64.media.tumblr.com/tumblr_la832qEWKE1qbfpni.png)](http://dreampast.tumblr.com/post/1304819152/tetris-attack)
 
 **When does a [Tetris](http://www.mobygames.com/game/tetris) game have nothing to do with Tetris? When you’re trying to market a fantastic but niche Japanese game to the rest of the world, of course.**
 
@@ -26,8 +21,7 @@ One thing the game does have in common with Tetris is that it’s fiendishly add
 
 Playing the game today is easy, as there have been so many versions released over the years. The concept received a second rebranding a few years later in the form of the [Puzzle League](http://www.mobygames.com/game-group/panel-de-ponpuzzle-league-games) series which has appeared on every subsequent Nintendo console. The DS version even adds touch control to the game making it even more accessible.
 
-**Links:**  
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=EhHAQsUIAeM)  
-[Find out more at mobygames.com](http://www.mobygames.com/game/tetris-attack)  
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=tetris+attack)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=EhHAQsUIAeM)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/tetris-attack)

@@ -11,12 +11,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1515405465/bubble-bobble
 ---
-[![Bubble Bobble](https://64.media.tumblr.com/tumblr_l9th9beLOS1qbfpni.png)](http://dreampast.tumblr.com/post/1515405465/bubble-bobble)  
-<!-- more --> **Name:** Bubble Bobble (バブルボブル, Baburu Boburu)  
-**Year:** 1986  
-**Developer:** Taito  
-**Publisher:** Taito  
-**Platform:** Arcade, Atari ST
+[![Bubble Bobble](https://64.media.tumblr.com/tumblr_l9th9beLOS1qbfpni.png)](http://dreampast.tumblr.com/post/1515405465/bubble-bobble)
 
 **His and hers gaming at it’s finest.**
 
@@ -26,8 +21,7 @@ There have been a number of versions of the game released across most home forma
 
 Bub and Bob - the dinosaur characters featured in the game - returned to human form for the game’s sequel [Rainbow Islands](http://www.mobygames.com/game/rainbow-islands) and whilst it had some gameplay features in common with the original it was effectively a new concept. A more traditional sequel came somewhat later in the form of [Bubble Symphony](http://www.mobygames.com/game/bubble-symphony) which stayed faithful to the gameplay of the original whilst added a few new elements. it also featured a rousing brass band version of the fantastic _Bubble Bobble_ theme music. Other than using MAME to play the original under emulation, the WiiWare or PlayStation versions are probably the best home versions.
 
-**Links:**  
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=inAAItNuFaE)  
-[Find out more at mobygames.com](http://www.mobygames.com/game/bubble-bobble)  
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=bubble+bobble)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=inAAItNuFaE)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/bubble-bobble)

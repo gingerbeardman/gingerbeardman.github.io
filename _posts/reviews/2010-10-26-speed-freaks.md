@@ -9,12 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1405839780/speed-freaks
 ---
-[![Speed Freaks](https://64.media.tumblr.com/tumblr_la4jqeOxgi1qbfpni.png)](http://dreampast.tumblr.com/post/1405839780/speed-freaks)  
-<!-- more --> **Name:** Speed Freaks/Speed Punks  
-**Year:** 1999  
-**Developer:** Funcom Dublin  
-**Publisher:** Sony Computer Entertainment  
-**Platform:** PlayStation
+[![Speed Freaks](https://64.media.tumblr.com/tumblr_la4jqeOxgi1qbfpni.png)](http://dreampast.tumblr.com/post/1405839780/speed-freaks)
 
 **Nintendo seem reluctant to release more than one [Mario Kart](http://www.mobygames.com/game-group/mario-kart-series) per console, so fans of the game will often seek out a new challenge by playing one of its many clones. It’s often a futile exercise as it makes painfully clear how far ahead of the competition Nintendo are.**
 
@@ -24,8 +19,7 @@ The game has some really nice handling, with some subtle additions to the staple
 
 A distinctly British sense of humour pervades the whole game, especially obvious in the naming of two bonus characters - Cosworth and Beamer. If _Mario_ had grown up in Essex he’d fit perfectly into this game, and that’s a compliment. The graphics look really great and have a fantastic cartoon feel to them, character design is interesting and unusual, and track design has more going on than the standard scenarios you seem to get in kart racers like this. As with other games of this vintage, the computer AI is prone to stretching the laws physics somewhat, most noticeable in severe rubber-banding and predictable routing. However, despite these minor issues, it remains a fun and rewarding game and one well worth seeking out.
 
-**Links:**  
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=9HpDT0dmoyc#t=4m26)  
-[Find out more at mobygames.com](http://www.mobygames.com/game/speed-punks)  
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=speed+freaks)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=9HpDT0dmoyc#t=4m26)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/speed-punks)

@@ -9,12 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1254775129/vijay-singh-3d
 ---
-[![Vijay Singh 3D](https://64.media.tumblr.com/tumblr_l9tpw5Xh1V1qbfpni.jpg)](http://dreampast.tumblr.com/post/1254775129/vijay-singh-3d)  
-<!-- more --> **Name:** Vijay Singh Pro Golf 2005 3D  
-**Year:** 2005  
-**Developer:** Gameloft  
-**Publisher:** Gameloft  
-**Platform:** Java Mobile
+[![Vijay Singh 3D](https://64.media.tumblr.com/tumblr_l9tpw5Xh1V1qbfpni.jpg)](http://dreampast.tumblr.com/post/1254775129/vijay-singh-3d)
 
 **It seems a long time ago when mobile phones functioned more as a phone than anything else. You could download games for them, of course, but the whole experience was hard work and underwhelming at best. In fact, you’d be forgiven for wondering why you’d even bother. And then along came Vijay Singh.**
 
@@ -30,9 +25,9 @@ The game added some great new touches of it’s own: putting featured the now st
 
 Until, in September 2010, Gameloft released [Real Golf 2011](http://itunes.com/apps/realgolf2011) for iPhone/iPod touch and iPad. It’s a next generation incarnation of Vijay Singh in all but name and it plays like a dream. Of course, Vijay is featured in the game’s roster of real golfers. It just wouldn’t be the same without him.
 
-**Links:**  
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=Ailq7IapCK4)  
-[Find out more about the old game at gameloft.com](http://www.gameloft.com/mobile-games/pro-golf-2007-3d-feat-vijay-singh/)  
-[Find out more about the new game at gameloft.com](http://www.gameloft.com/iphone-games/real-golf-2011/)  
-[Buy Real Golf 2011 on the App Store](http://itunes.com/apps/realgolf2011)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=Ailq7IapCK4)
+- [Find out more about the old game at gameloft.com](http://www.gameloft.com/mobile-games/pro-golf-2007-3d-feat-vijay-singh/)
+- [Find out more about the new game at gameloft.com](http://www.gameloft.com/iphone-games/real-golf-2011/)
+- [Buy Real Golf 2011 on the App Store](http://itunes.com/apps/realgolf2011)

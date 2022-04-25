@@ -11,11 +11,6 @@ tags:
 tumblr_url: https://dreampast.tumblr.com/post/31394855632/chips-challenge
 ---
 [![Chip's Challenge](https://64.media.tumblr.com/tumblr_ma8ibkYAVK1qbfpni.png)](http://dreampast.tumblr.com/post/31394855632/chips-challenge)
-<!-- more --> **Name:** Chip’s Challenge
-**Year:** 1989
-**Developer:** Epyx, Inc.
-**Publisher:** Atari
-**Platform:** Lynx, PC
 
 **Sokoban for the 20th century.**
 
@@ -27,10 +22,9 @@ The game was subsequently released on multiple home computer platforms, culminat
 
 Chuck Sommerville apparently completed work on Chip’s Challenge 2, but it has never been published due to the fact he didn’t retain the copyright on the game name. But you can see [a video of what might have been on YouTube](http://www.youtube.com/watch?v=MLB43Mu4HgY). He has also gone on to reuse a lot of the same ideas in [Chuck’s Challenge](http://www.chuckschallenge.com), a pseudo sequel to the original game which keeps the majority of the gameplay elements but changes the scenario to one with much less personality. For me the master stroke of Chip’s Challenge is the more interesting scenario - kids growing up with the Atari Lynx would have much more affinity with a nerd trying to get into a computer club than with a guy pushing boxes around a warehouse with no real aim.
 
-**Links:**
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=lnMsCySN5IQ)
-[Watch footage of Chip’s Challenge 2 on YouTube.com](http://www.youtube.com/watch?v=MLB43Mu4HgY)
-[Find out more at mobygames.com](http://www.mobygames.com/game/chips-challenge)
-[Read all about the game at the official Wikia](http://chipschallenge.wikia.com)
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=chips+challenge)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=lnMsCySN5IQ)
+- [Watch footage of Chip’s Challenge 2 on YouTube.com](http://www.youtube.com/watch?v=MLB43Mu4HgY)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/chips-challenge)
+- [Read all about the game at the official Wikia](http://chipschallenge.wikia.com)

@@ -10,12 +10,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1318897734/binary-land
 ---
-[![Binary Land](https://64.media.tumblr.com/tumblr_l9tivxpF6i1qbfpni.png)](http://dreampast.tumblr.com/post/1318897734/binary-land)  
-<!-- more --> **Name:** Binary Land (バイナリィランド)  
-**Year:** 1985  
-**Developer:** Hudson Soft  
-**Publisher:** Hudson Soft  
-**Platform:** NES
+[![Binary Land](https://64.media.tumblr.com/tumblr_l9tivxpF6i1qbfpni.png)](http://dreampast.tumblr.com/post/1318897734/binary-land)
 
 **A tale of enduring love, spiders and spray cans. This charming little maze game is interesting for one major reason - you control both characters simultaneously.**
 
@@ -27,9 +22,8 @@ Hudson Soft first released _Binary Land_ in 1983 for the MSX and a bunch of othe
 
 More recently a poor java mobile phone version was made and the game was released as _Hudson Best Collection Vol. 4_ on Game Boy Advance, which contains a bunch of NES games running under emulation. Whilst emulation is the most convenient way to play the original game these days, there have also been a couple of fan remakes which can be played on your desktop computer.
 
-**Links:**  
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=NLI415emLzQ)  
-[Find out more at mobygames.com](http://www.mobygames.com/game/binary-land)  
-[Take a look at the Japanese game cover](http://www.famicom.biz/all/htmls/6800000003926.html)  
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=binary+land)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=NLI415emLzQ)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/binary-land)
+- [Take a look at the Japanese game cover](http://www.famicom.biz/all/htmls/6800000003926.html)

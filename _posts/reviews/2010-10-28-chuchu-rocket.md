@@ -13,12 +13,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1423631024/chuchu-rocket
 ---
-[![ChuChu Rocket!](https://64.media.tumblr.com/tumblr_lab0jaa6l61qbfpni.jpg)](http://dreampast.tumblr.com/post/1423631024/chuchu-rocket)  
-<!-- more --> **Name:** ChuChu Rocket!  
-**Year:** 2000  
-**Developer:** Sonic Team  
-**Publisher:** Sega  
-**Platform:** Dreamcast
+[![ChuChu Rocket!](https://64.media.tumblr.com/tumblr_lab0jaa6l61qbfpni.jpg)](http://dreampast.tumblr.com/post/1423631024/chuchu-rocket)
 
 **The Dreamcast was the first truly online home video game console, and brought with it the first wave of fantastic online multi-player games that could be played on your TV. _ChuChu Rocket!_ was one of the best, an outstanding action puzzler with a glorious multi-player mode.**
 
@@ -32,10 +27,8 @@ Recently a version of the game was released on the App Store, but with features 
 
 _This review is dedicated to my good friend Morgan, without whom I’d have never bought a Dreamcast. He will always be Mr Sega to me._
 
-**Links:**  
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=WHBsA-PZXiA)  
-[Find out more at mobygames.com](http://www.mobygames.com/game/chuchu-rocket)  
-[Find out more about the Atari ST version at Atari.org](http://rg.atari.org/chuchu.htm)  
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=chuchu+rocket)  
-[Buy the game on the App Store](http://itunes.apple.com/gb/app/chuchu-rocket/id392785292?mt=8)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=WHBsA-PZXiA)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/chuchu-rocket)
+- [Find out more about the Atari ST version at Atari.org](http://rg.atari.org/chuchu.htm)

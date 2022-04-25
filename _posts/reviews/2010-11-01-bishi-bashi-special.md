@@ -9,12 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1454980505/bishi-bashi-special
 ---
-[![Bishi Bashi Special](https://64.media.tumblr.com/tumblr_lab17u3uMy1qbfpni.png)](http://dreampast.tumblr.com/post/1454980505/bishi-bashi-special)  
-<!-- more --> **Title:** Bishi Bashi Special  
-**Year:** 2000  
-**Developer:** Konami  
-**Publisher:** Konami  
-**Platform:** PlayStation
+[![Bishi Bashi Special](https://64.media.tumblr.com/tumblr_lab17u3uMy1qbfpni.png)](http://dreampast.tumblr.com/post/1454980505/bishi-bashi-special)
 
 **Attention! Ready? Go!**
 
@@ -26,8 +21,7 @@ I used to play _Bishi Bashi Special_ whilst I was lived in my first house share 
 
 So if you’re not consumed by _Wii Party_ and it’s horse racing mode, or sick to death of _Wario Ware, Inc._, and you’re hungry for more social multi-player gaming, then it might be time to revisit _Bishi Bashi Special_. It can currently be picked up for £3.49 on the PlayStation Store. That works out at less than 5p a game, making it quite possibly the bargain of the century.
 
-**Links:**  
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=AYYtiIicCkI)  
-[Find out more at mobygames.com](http://www.mobygames.com/game/bishi-bashi-special)  
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=bishi+bashi+special)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=AYYtiIicCkI)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/bishi-bashi-special)

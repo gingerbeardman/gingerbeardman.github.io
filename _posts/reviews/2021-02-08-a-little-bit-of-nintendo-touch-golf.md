@@ -12,10 +12,7 @@ tags:
 - golf
 tumblr_url: https://dreampast.tumblr.com/post/642594822932299776/less-is-more-a-little-bit-of-was-series-of
 ---
-# A Little Bit of… Nintendo Touch Golf
 <figure data-orig-height="408" data-orig-width="272"><img src="https://64.media.tumblr.com/546aa32a2609ee8acd21f7af1c614fc0/e67b3d718f0a17b4-6f/s2048x3072/20144b929630388d0f929e09819d0db65a3c614a.jpg" data-orig-height="408" data-orig-width="272" data-media-key="546aa32a2609ee8acd21f7af1c614fc0:e67b3d718f0a17b4-6f" alt="A Little Bit of... Nintendo Touch Golf"></figure>
-
-<!-- more -->
 
 **Less is more.**
 
@@ -33,8 +30,8 @@ This little version is also missing a bunch of courses and their associated musi
 
 With this tweaked version _T&E SOFT_ took a look at the existing game with fresh eyes, removed the stuff that made it needlessly complicated, and added a new mode that reinforces the core gameplay. It’s a more focused and better game as a result.
 
-**Links:**
-[Watch _Nintendo Touch Golf_ on YouTube.com](https://href.li/?https://www.youtube.com/watch?v=Ch5Ui4RLFbk)
-[Find out more at mobygames.com](https://href.li/?https://www.mobygames.com/game/true-swing-golf)
-[Read the Iwata Asks about the Chotto series](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.nintendo.co.uk%2FIwata-Asks%2FIwata-Asks-Nintendo-DSi%2FVolume-6-A-little-bit-of-brain-training%2F1-Chotto-%2F1-Chotto--1049361.html&t=ZTM3ZTJjM2IzZmI4MWRjMTBkMmQwZGM0ZGU4YzZiMWUyM2E5MzZiZSwzYzY0NDgzMzgzMTMyZDY0M2ZmM2I2MWM5NGZjZjU4YmQ3MjA0YmFj&ts=1613041554)
+## Links
 
+- [Watch _Nintendo Touch Golf_ on YouTube.com](https://href.li/?https://www.youtube.com/watch?v=Ch5Ui4RLFbk)
+- [Find out more at mobygames.com](https://href.li/?https://www.mobygames.com/game/true-swing-golf)
+- [Read the Iwata Asks about the Chotto series](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.nintendo.co.uk%2FIwata-Asks%2FIwata-Asks-Nintendo-DSi%2FVolume-6-A-little-bit-of-brain-training%2F1-Chotto-%2F1-Chotto--1049361.html&t=ZTM3ZTJjM2IzZmI4MWRjMTBkMmQwZGM0ZGU4YzZiMWUyM2E5MzZiZSwzYzY0NDgzMzgzMTMyZDY0M2ZmM2I2MWM5NGZjZjU4YmQ3MjA0YmFj&ts=1613041554)

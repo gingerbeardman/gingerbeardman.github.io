@@ -11,11 +11,6 @@ tags:
 tumblr_url: https://dreampast.tumblr.com/post/3036476906/split-second-velocity
 ---
 [![Split/Second: Velocity](https://64.media.tumblr.com/tumblr_lfwnqqhjQ31qbfpni.jpg)](http://dreampast.tumblr.com/post/3036476906/split-second-velocity)
-<!-- more --> **Title:** Split/Second: Velocity
-**Year:** 2010
-**Developer:** Black Rock Studio
-**Publisher:** Disney Interactive Studios
-**Platform:** Xbox 360
 
 **It’s common knowledge that video game movie tie-ins generally result in disappointing games. So it’s interesting to see a game that takes so much inspiration from the big screen and manages to wrap it up in a great game. And all without a movie licence in sight.**
 
@@ -31,8 +26,7 @@ A few weeks in and you’re skills will really be tested. You’ll be having som
 
 Thinking about how a particular explosion and the chain of events that follow might be able to change the race is one thing, but the absolute joy that greets you when you manage to pull it off is another. _Split/Second: Velocity_ is undoubtedly my Game of the Year 2010 and I’m looking forward to the inevitable sequel. Very nicely done indeed.
 
-**Links:**
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=3IViDE0YmKM)
-[Find out more at mobygames.com](http://www.mobygames.com/game/splitsecond)
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=split+second)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=3IViDE0YmKM)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/splitsecond)
