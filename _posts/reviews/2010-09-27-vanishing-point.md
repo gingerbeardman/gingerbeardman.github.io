@@ -9,7 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1200852380/vanishing-point
 ---
-[![Vanishing Point](https://64.media.tumblr.com/tumblr_l9fhhoKbTj1qbfpni.jpg)](http://dreampast.tumblr.com/post/1200852380/vanishing-point)
+![Vanishing Point](https://64.media.tumblr.com/tumblr_l9fhhoKbTj1qbfpni.jpg)
 
 **I’ve recently come back to this game in an attempt to complete it 100%, picking up my 10 year old save game. It’s a great game, though the sensitivity of the controls can be unforgiving at times. But it’s definitely worth persevering with. Think of it like a modern day [Stunt Car Racer](http://www.mobygames.com/game/stunt-car-racer) and you’ll be fine – laying off the accelerator is just as important as keeping the pedal to the metal.**
 

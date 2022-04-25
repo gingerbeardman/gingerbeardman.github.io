@@ -10,7 +10,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1242108492/guru-logi-champ
 ---
-[![Guru Logi Champ](https://64.media.tumblr.com/tumblr_l9rnm9prQN1qbfpni.png)](http://dreampast.tumblr.com/post/1242108492/guru-logi-champ)
+![Guru Logi Champ](https://64.media.tumblr.com/tumblr_l9rnm9prQN1qbfpni.png)
 
 **I’ve been playing this on-and-off for years and still haven’t finished all the puzzles. It’s one of those games that I love so much that I sort of don’t want to finish it. Possibly the greatest puzzler of all time – disregarding [Tetris](http://www.mobygames.com/game/tetris), of course.**
 

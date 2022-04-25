@@ -9,7 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1676267832/the-wind-waker
 ---
-[![The Wind Waker](https://64.media.tumblr.com/tumblr_lab1sxZXJa1qbfpni.jpg)](http://dreampast.tumblr.com/post/1676267832/the-wind-waker)
+![The Wind Waker](https://64.media.tumblr.com/tumblr_lab1sxZXJa1qbfpni.jpg)
 
 **I’m not one for traditional adventure games - ones with a long, drawn-out main quest, lots of optional sub quests, experience points, levelling up, random battles and all of that sort of stuff. I need more direction in what to do next, although I still want to have fun figuring out how to do it and on the journey getting there.**
 

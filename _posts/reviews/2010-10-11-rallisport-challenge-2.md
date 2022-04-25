@@ -9,7 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1242631648/rallisport-challenge-2
 ---
-[![RalliSport Challenge 2](https://64.media.tumblr.com/tumblr_la0zwhKO3I1qbfpni.jpg)](http://dreampast.tumblr.com/post/1242631648/rallisport-challenge-2)
+![RalliSport Challenge 2](https://64.media.tumblr.com/tumblr_la0zwhKO3I1qbfpni.jpg)
 
 **You’d be forgiven for not having heard of [RalliSport Challenge](http://www.mobygames.com/game/rallisport-challenge) - a rally racing game for the original Xbox, and Windows PC. But don’t go away without playing the sequel - the best rally racing game ever made.**
 

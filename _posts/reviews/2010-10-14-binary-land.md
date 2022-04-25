@@ -10,7 +10,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1318897734/binary-land
 ---
-[![Binary Land](https://64.media.tumblr.com/tumblr_l9tivxpF6i1qbfpni.png)](http://dreampast.tumblr.com/post/1318897734/binary-land)
+![Binary Land](https://64.media.tumblr.com/tumblr_l9tivxpF6i1qbfpni.png)
 
 **A tale of enduring love, spiders and spray cans. This charming little maze game is interesting for one major reason - you control both characters simultaneously.**
 

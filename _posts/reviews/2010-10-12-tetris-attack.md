@@ -9,7 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1304819152/tetris-attack
 ---
-[![Tetris Attack](https://64.media.tumblr.com/tumblr_la832qEWKE1qbfpni.png)](http://dreampast.tumblr.com/post/1304819152/tetris-attack)
+![Tetris Attack](https://64.media.tumblr.com/tumblr_la832qEWKE1qbfpni.png)
 
 **When does a [Tetris](http://www.mobygames.com/game/tetris) game have nothing to do with Tetris? When you’re trying to market a fantastic but niche Japanese game to the rest of the world, of course.**
 

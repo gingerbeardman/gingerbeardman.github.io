@@ -9,7 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1430054555/ds-spirits-hanafuda
 ---
-[![DS Spirits Hanafuda](https://64.media.tumblr.com/tumblr_lb0pxhXMCu1qbfpni.png)](http://dreampast.tumblr.com/post/1430054555/ds-spirits-hanafuda)
+![DS Spirits Hanafuda](https://64.media.tumblr.com/tumblr_lb0pxhXMCu1qbfpni.png)
 
 **Nintendo started out in the entertainment business by manufacturing Hanafuda, or flower cards. There are a number of games that are commonly played with these cards the most popular of which is Koi-Koi, a game of surprising depth and one of my vices.**
 

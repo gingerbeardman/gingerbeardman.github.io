@@ -9,7 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1248301285/kuru-kuru-kururin
 ---
-[<figure class="tmblr-full" data-orig-height="320" data-orig-width="480" data-orig-src="https://64.media.tumblr.com/tumblr_l9rsuyTLXx1qbfpni.png"><img src="https://64.media.tumblr.com/d1f917b282b1c4379ac367d431ee190e/tumblr_inline_pk2sfuvSBT1qbfpni_540.png" alt="Kuru Kuru Kururin" data-orig-height="320" data-orig-width="480" data-orig-src="https://64.media.tumblr.com/tumblr_l9rsuyTLXx1qbfpni.png"></figure>](http://dreampast.tumblr.com/post/1248301285/kuru-kuru-kururin)
+<img src="https://64.media.tumblr.com/d1f917b282b1c4379ac367d431ee190e/tumblr_inline_pk2sfuvSBT1qbfpni_540.png" alt="Kuru Kuru Kururin" data-orig-height="320" data-orig-width="480" data-orig-src="https://64.media.tumblr.com/tumblr_l9rsuyTLXx1qbfpni.png">
 
 **Kuru Kuru Kururin sums up what I think is so great about the sort of games Nintendo publish. It’s an unorthodox action/puzzle/maze game made by a third party best known for their scrolling shoot ’em ups. No other company would have the balls to release a game like this, never mind as part of a console launch line-up.**
 

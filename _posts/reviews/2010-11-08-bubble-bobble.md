@@ -11,7 +11,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1515405465/bubble-bobble
 ---
-[![Bubble Bobble](https://64.media.tumblr.com/tumblr_l9th9beLOS1qbfpni.png)](http://dreampast.tumblr.com/post/1515405465/bubble-bobble)
+![Bubble Bobble](https://64.media.tumblr.com/tumblr_l9th9beLOS1qbfpni.png)
 
 **His and hers gaming at it’s finest.**
 

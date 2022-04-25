@@ -9,7 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1254775129/vijay-singh-3d
 ---
-[![Vijay Singh 3D](https://64.media.tumblr.com/tumblr_l9tpw5Xh1V1qbfpni.jpg)](http://dreampast.tumblr.com/post/1254775129/vijay-singh-3d)
+![Vijay Singh 3D](https://64.media.tumblr.com/tumblr_l9tpw5Xh1V1qbfpni.jpg)
 
 **It seems a long time ago when mobile phones functioned more as a phone than anything else. You could download games for them, of course, but the whole experience was hard work and underwhelming at best. In fact, you’d be forgiven for wondering why you’d even bother. And then along came Vijay Singh.**
 

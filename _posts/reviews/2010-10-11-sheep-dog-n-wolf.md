@@ -9,7 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1297648627/sheep-dog-n-wolf
 ---
-[![](https://64.media.tumblr.com/tumblr_la544c18r21qbfpni.jpg)](http://dreampast.tumblr.com/post/1297648627/sheep-dog-n-wolf)
+![Sheep, Dog 'n' Wolf](https://64.media.tumblr.com/tumblr_la544c18r21qbfpni.jpg)
 
 **In a sea of badly realised licenced games French company Infogrames made a daring move to buck the trend, creating this cartoon stealth 'em up set in the Looney Tunes world. The result is a fabulous game as imaginative as the source material it’s based on.**
 

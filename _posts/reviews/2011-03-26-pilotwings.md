@@ -13,7 +13,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/4111406373/pilotwings
 ---
-[![Pilotwings](https://64.media.tumblr.com/tumblr_la4kbnQL8m1qbfpni.png)](http://dreampast.tumblr.com/post/4111406373/pilotwings)
+![Pilotwings](https://64.media.tumblr.com/tumblr_la4kbnQL8m1qbfpni.png)
 
 **Take to the skies in one of the most relaxing video games of all time.**
 

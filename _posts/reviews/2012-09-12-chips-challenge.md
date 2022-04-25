@@ -10,7 +10,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/31394855632/chips-challenge
 ---
-[![Chip's Challenge](https://64.media.tumblr.com/tumblr_ma8ibkYAVK1qbfpni.png)](http://dreampast.tumblr.com/post/31394855632/chips-challenge)
+![Chip's Challenge](https://64.media.tumblr.com/tumblr_ma8ibkYAVK1qbfpni.png)
 
 **Sokoban for the 20th century.**
 

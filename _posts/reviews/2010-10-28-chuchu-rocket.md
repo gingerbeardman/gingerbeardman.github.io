@@ -13,7 +13,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1423631024/chuchu-rocket
 ---
-[![ChuChu Rocket!](https://64.media.tumblr.com/tumblr_lab0jaa6l61qbfpni.jpg)](http://dreampast.tumblr.com/post/1423631024/chuchu-rocket)
+![ChuChu Rocket!](https://64.media.tumblr.com/tumblr_lab0jaa6l61qbfpni.jpg)
 
 **The Dreamcast was the first truly online home video game console, and brought with it the first wave of fantastic online multi-player games that could be played on your TV. _ChuChu Rocket!_ was one of the best, an outstanding action puzzler with a glorious multi-player mode.**
 

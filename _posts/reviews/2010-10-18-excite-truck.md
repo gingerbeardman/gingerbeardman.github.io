@@ -9,7 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1349871356/excite-truck
 ---
-[![Excite Truck](https://64.media.tumblr.com/tumblr_lahvrnsZK41qbfpni.jpg)](http://dreampast.tumblr.com/post/1349871356/excite-truck)
+![Excite Truck](https://64.media.tumblr.com/tumblr_lahvrnsZK41qbfpni.jpg)
 
 **Creating a sequel to a game is a tricky thing. It’s often difficult to retain the essence of the original game, meaning a lot of sequels keep things safe and don’t stray too far from the concept along the way. This usually leads to an average game, which is why it was such a shock to find that this one goes up to 11.**
 

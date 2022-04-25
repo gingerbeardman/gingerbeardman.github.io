@@ -9,7 +9,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1405839780/speed-freaks
 ---
-[![Speed Freaks](https://64.media.tumblr.com/tumblr_la4jqeOxgi1qbfpni.png)](http://dreampast.tumblr.com/post/1405839780/speed-freaks)
+![Speed Freaks](https://64.media.tumblr.com/tumblr_la4jqeOxgi1qbfpni.png)
 
 **Nintendo seem reluctant to release more than one [Mario Kart](http://www.mobygames.com/game-group/mario-kart-series) per console, so fans of the game will often seek out a new challenge by playing one of its many clones. It’s often a futile exercise as it makes painfully clear how far ahead of the competition Nintendo are.**
 

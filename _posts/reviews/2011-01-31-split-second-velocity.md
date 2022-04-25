@@ -10,7 +10,7 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/3036476906/split-second-velocity
 ---
-[![Split/Second: Velocity](https://64.media.tumblr.com/tumblr_lfwnqqhjQ31qbfpni.jpg)](http://dreampast.tumblr.com/post/3036476906/split-second-velocity)
+![Split/Second: Velocity](https://64.media.tumblr.com/tumblr_lfwnqqhjQ31qbfpni.jpg)
 
 **It’s common knowledge that video game movie tie-ins generally result in disappointing games. So it’s interesting to see a game that takes so much inspiration from the big screen and manages to wrap it up in a great game. And all without a movie licence in sight.**
 
