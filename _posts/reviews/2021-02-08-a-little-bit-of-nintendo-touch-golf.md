@@ -16,19 +16,19 @@ tumblr_url: https://dreampast.tumblr.com/post/642594822932299776/less-is-more-a-
 
 **Less is more.**
 
-_A Little Bit of…_ was series of previously released retail DS games adapted to suit Nintendo’s _DSiWare_ download service. The idea for these “Chotto” games came from _Satoru Iwata_, who said “I thought it would be good if there were a Chotto game series that you could play with little by little and interact with little by little in your life.”
+_A Little Bit of…_ was series of previously released retail DS games adapted to suit Nintendo's _DSiWare_ download service. The idea for these “Chotto” games came from _Satoru Iwata_, who said “I thought it would be good if there were a Chotto game series that you could play with little by little and interact with little by little in your life.”
 
 The games were adapted by refining one or more elements of the core gameplay to suit the concept of playing a little bit at a time over a long period. These changes were either overlooked by the press, or described as a bad thing, but closer inspection shows that the changes were well considered and well executed. And in the case of this particular game by a largely different team than the original game.
 
 I played through the _DSiWare_ version of this golf game some 10 years after it was released as I was intrigued how different it might be to the original cartridge release.
 
-The answer was a lot. And it turns out this _DSiWare_ version is a much better game as a result. It features a proper interactive tutorial rather than the still screens of the original, as well as a refined user interface with simpler power and putting display, an updated and improved version of the game engine with a higher framerate due do the increased CPU speed of the _Nintendo DSi_, and a all new Challenge mode.
+The answer was a lot. And it turns out this _DSiWare_ version is a much better game as a result. It features a proper interactive tutorial rather than the still screens of the original, as well as a refined user interface with simpler power and putting display, an updated and improved version of the game engine with a higher frame-rate due do the increased CPU speed of the _Nintendo DSi_, and a all new Challenge mode.
 
-Challenge mode, which replaces Championship Tour mode, introduces a method of levelling up that is focused on improving your golf. This adds a lot to the game and provides a method of increasing your player stats and unlocking additional courses. It includes 100 challenges at each of several different difficulty levels, totalling over 300 different challenges. They include such variations as: nearest to the pin, chip-in, limited strokes, single putt, total distance, limited time, competition (vs CPU), and limited clubs.
+Challenge mode, which replaces Championship Tour mode, introduces a method of levelling up that is focused on improving your golf technique. This adds a lot to the game and provides a method of increasing your player stats and unlocking additional courses. It includes 100 challenges at each of several different difficulty levels, totalling over 300 different challenges. They include such variations as: nearest to the pin, chip-in, limited strokes, single putt, total distance, limited time, competition (vs CPU), and limited clubs.
 
-This little version is also missing a bunch of courses and their associated music, replays, special shot, Wi-Fi features, and a few other small things. But they’re not essential to the experience so they’re not missed.
+This little version is also missing a bunch of courses and their associated music, replays, special shot, Wi-Fi features, and a few other small things. But they're not essential to the experience so it's not a big deal.
 
-With this tweaked version _T&E SOFT_ took a look at the existing game with fresh eyes, removed the stuff that made it needlessly complicated, and added a new mode that reinforces the core gameplay. It’s a more focused and better game as a result.
+With this tweaked version _T&E SOFT_ took a look at the existing game with fresh eyes, removed the stuff that made it needlessly complicated, and added a new mode that reinforces the core gameplay. It's a more focused and better game as a result.
 
 ## Links
 
