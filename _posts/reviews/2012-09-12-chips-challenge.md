@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Review: Chip\'s Challenge'
+title: "Review: Chip's Challenge"
 date: '2012-09-12T12:27:00+01:00'
 tags:
 - '1989'

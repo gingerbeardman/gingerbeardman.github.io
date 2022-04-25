@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Review: Sheep, Dog \'n\' Wolf'
+title: "Review: Sheep, Dog 'n' Wolf"
 date: '2010-10-11T20:00:00+01:00'
 tags:
 - '2001'
