@@ -10,11 +10,14 @@ tags:
 tumblr_url: https://dreampast.tumblr.com/post/1200852380/vanishing-point
 ---
 [![Vanishing Point](https://64.media.tumblr.com/tumblr_l9fhhoKbTj1qbfpni.jpg)](http://dreampast.tumblr.com/post/1200852380/vanishing-point)
-<!-- more --> **Name:** Vanishing Point
-**Year:** 2001
-**Developer** : Clockwork Games
-**Publisher:** Acclaim
-**Platform:** Dreamcast
+
+| Name      | Vanishing Point |
+|:----------|:--------------------------------|
+| Year      | 2001 |
+| Developer | Clockwork Games |
+| Publisher | Acclaim |
+| Platforms | Dreamacast |
+{: .donotsort }
 
 **I’ve recently come back to this game in an attempt to complete it 100%, picking up my 10 year old save game. It’s a great game, though the sensitivity of the controls can be unforgiving at times. But it’s definitely worth persevering with. Think of it like a modern day [Stunt Car Racer](http://www.mobygames.com/game/stunt-car-racer) and you’ll be fine – laying off the accelerator is just as important as keeping the pedal to the metal.**
 
@@ -30,9 +33,10 @@ The thorn in the game’s side was it’s overly sensitive default controls, whi
 
 Update: I finally completed the game in May 2015. Woop!
 
-**Links:**
-[Watch the game on YouTube.com](http://www.youtube.com/results?search_query=vanishing+point+dreamcast&sm=3)
-[Find out more at mobygames.com](http://www.mobygames.com/game/dreamcast/vanishing-point)
-[View images of all the cars at IGCD.net](http://www.igcd.net/game.php?id=268739)
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=vanishing+point+dreamcast)
+## Links
+
+- [Watch the game on YouTube.com](http://www.youtube.com/results?search_query=vanishing+point+dreamcast&sm=3)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/dreamcast/vanishing-point)
+- [View images of all the cars at IGCD.net](http://www.igcd.net/game.php?id=268739)
+- [Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=vanishing+point+dreamcast)
 

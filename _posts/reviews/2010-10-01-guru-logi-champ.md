@@ -10,12 +10,15 @@ tags:
 - review
 tumblr_url: https://dreampast.tumblr.com/post/1242108492/guru-logi-champ
 ---
-[![Guru Logi Champ](https://64.media.tumblr.com/tumblr_l9rnm9prQN1qbfpni.png)](http://dreampast.tumblr.com/post/1242108492/guru-logi-champ)  
-<!-- more --> **Name:** Guru Logi Champ (ぐるロジチャンプ)  
-**Year:** 2001  
-**Developer:** Compile  
-**Publisher:** Compile  
-**Platform:** Game Boy Advance
+[![Guru Logi Champ](https://64.media.tumblr.com/tumblr_l9rnm9prQN1qbfpni.png)](http://dreampast.tumblr.com/post/1242108492/guru-logi-champ)
+
+| Name      | Guru Logi Champ (ぐるロジチャンプ)   |
+|:----------|:--------------------------------|
+| Year      | 2001 |
+| Developer | Compile |
+| Publisher | Compile |
+| Platforms | Game Boy Advance |
+{: .donotsort }
 
 **I’ve been playing this on-and-off for years and still haven’t finished all the puzzles. It’s one of those games that I love so much that I sort of don’t want to finish it. Possibly the greatest puzzler of all time – disregarding [Tetris](http://www.mobygames.com/game/tetris), of course.**
 
@@ -27,8 +30,8 @@ Game developer Compile went bust a short time after releasing the game, though s
 
 The game is quite expensive to buy these days if you can even find it outside of Japan. But worry not because as of 2nd December 2009, thanks to Nintendo’s DSiWare download service, Japanese DSi owners can play a modern reworking of the game under the name of [Spinning Logic](http://www.nintendo.co.jp/ds/dsiware/ktyj/index.html) (ぐるぐるロジック gurugururojikku) whilst in the USA as of October 18th 2010 it’s available as Snapdots.
 
-**Links:**  
-[Watch the game on YouTube.com](http://www.youtube.com/watch?v=dAbt1L3n1ow)  
-[Find out more at mobygames.com](http://www.mobygames.com/game/guru-logi-champ)  
-[Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=guru+logi+champ)
+## Links
 
+- [Watch the game on YouTube.com](http://www.youtube.com/watch?v=dAbt1L3n1ow)
+- [Find out more at mobygames.com](http://www.mobygames.com/game/guru-logi-champ)
+- [Search for the game on eBay.co.uk](http://video-games.shop.ebay.co.uk/i.html?_nkw=guru+logi+champ)
