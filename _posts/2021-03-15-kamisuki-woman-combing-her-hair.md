@@ -30,5 +30,3 @@ This piece will be for sale as a print very soon.
 ![PNG](/images/posts/1bit-kamisuki.png)
 
 A little more about the back story of this piece. I was inspired by [@SusanKare](https://twitter.com/SusanKare)'s interpretation of Goyo's "Woman Combing her Hair" drawn on the original Macintosh, featured as part of its launch, and later on the MacPaint packaging.
-
-![](https://pbs.twimg.com/media/Ewlm3cmXIAAPAVV.jpg)
