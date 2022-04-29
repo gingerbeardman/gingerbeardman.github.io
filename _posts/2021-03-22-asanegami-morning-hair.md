@@ -55,6 +55,6 @@ As always I used a mix of old and new technology to create this piece.
 Old: UltraPaint on Macintosh System 7.1
 New: Macintosh emulator on iPad Pro 12.9"
 
-My interpretation of Torii Kotondo's "Morning Hair" is now available to purchase as “1-bit Woodblock: Asanegami” [(foundation.app/gingerbeardman…)](https://foundation.app/gingerbeardman/1-bit-woodblock-asanegami-14297)
+My interpretation of Torii Kotondo's "Morning Hair" will be available to purchase as print “1-bit Woodblock: Asanegami” very soon.
 
 ![PNG](/images/posts/1bit-asanegami.png)

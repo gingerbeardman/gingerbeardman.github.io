@@ -25,7 +25,7 @@ My process involves both modern software (custom image processing tool & custom 
 
 ![](https://pbs.twimg.com/media/EwW7GeQWEAYXbGt.jpg)
 
-This piece is now for sale [(foundation.app/gingerbeardman…)](https://foundation.app/gingerbeardman/1-bit-woodblock-kamisuki-7668)
+This piece will be for sale as a print very soon.
 
 ![PNG](/images/posts/1bit-kamisuki.png)
 
