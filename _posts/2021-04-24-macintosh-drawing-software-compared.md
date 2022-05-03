@@ -57,3 +57,14 @@ One small disappointment: Macromedia Fireworks requires the PPC architecture so 
 {: #macintosh-drawing-software}
 
 Key: ● full support, ○ partial support
+
+### Related posts
+
+* [Turning an iPad Pro into the Ultimate Classic Macintosh](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh)
+* [How to install BasiliskII on your iPad](/2021/04/21/building-basiliskii-for-ios/)
+* [Exploring Custom Keyboards and Automation](/2021/04/19/automating-interactions-using-apple-events/)
+* [Optimising Macintosh app toolbars for touch](/2021/03/28/changing-the-size-of-toolbar-items-using-resedit/)
+* Macintosh drawing software compared
+* [Mixing External Tools across Deneba software](/2021/04/25/mixing-external-tools-across-deneba-software/)
+* [My System 7 software choices](/2021/04/30/my-system-7-software-choices/)
+* [About the interoperability of System 7 and iOS](/2021/05/03/interoperability-of-system-7-and-ios/)

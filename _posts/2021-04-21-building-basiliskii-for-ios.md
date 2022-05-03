@@ -44,7 +44,7 @@ I plan to add these changes into my own fork of the code. Soon, I promise!
 
 ### Possible build errors
 
-**Error mentioning `pointerInteraction`**  
+**Error mentioning `pointerInteraction`**
 This is because of a missing `#ifdef`, so add one around the if statement at [line 82 in B2ViewController.mm](zydeco/macemu@eb8d0a7/BasiliskII/src/iOS/BasiliskII/B2ViewController.mm#L82-L85):
 
     #ifdef __IPHONE_13_4
@@ -54,7 +54,7 @@ This is because of a missing `#ifdef`, so add one around the if statement at [li
         }
     #endif
 
-**Error mentioning `qemu`  
+**Error mentioning `qemu`
 **I've seen this error on macOS 11 Big Sur with Xcode 12. The crux is that the code as it stands will only build with Xcode 11 (the last version was 11.7) so be sure to use that.
 
 ### Adding chunky screen resolutions
@@ -117,3 +117,14 @@ This is supported the same way as regular touch so it acts as a mouse. Drawing w
 * Palm rejection is missing
 * Pressure sensitivity is missing
 * Multi touch seems to be missing
+
+### Related posts
+
+* [Turning an iPad Pro into the Ultimate Classic Macintosh](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh)
+* How to install BasiliskII on your iPad
+* [Exploring Custom Keyboards and Automation](/2021/04/19/automating-interactions-using-apple-events/)
+* [Optimising Macintosh app toolbars for touch](/2021/03/28/changing-the-size-of-toolbar-items-using-resedit/)
+* [Macintosh drawing software compared](/2021/04/24/macintosh-drawing-software-compared/)
+* [Mixing External Tools across Deneba software](/2021/04/25/mixing-external-tools-across-deneba-software/)
+* [My System 7 software choices](/2021/04/30/my-system-7-software-choices/)
+* [About the interoperability of System 7 and iOS](/2021/05/03/interoperability-of-system-7-and-ios/)

@@ -7,6 +7,7 @@ tags:
 - basiliskii
 - emulation
 - macintosh
+- 1bitwoodblocks
 nouns:
 - Documents
 - Books
@@ -103,8 +104,9 @@ Bluetooth keyboards just work. The new/recent mouse pointer support in iOS also 
 
 This setup gives me the best of both old and new worlds, and that's why I refer to it as the Ultimate Classic Macintosh.
 
-## Related posts
+### Related posts
 
+* Turning an iPad Pro into the Ultimate Classic Macintosh
 * [How to install BasiliskII on your iPad](/2021/04/21/building-basiliskii-for-ios/)
 * [Exploring Custom Keyboards and Automation](/2021/04/19/automating-interactions-using-apple-events/)
 * [Optimising Macintosh app toolbars for touch](/2021/03/28/changing-the-size-of-toolbar-items-using-resedit/)
@@ -113,11 +115,7 @@ This setup gives me the best of both old and new worlds, and that's why I refer 
 * [My System 7 software choices](/2021/04/30/my-system-7-software-choices/)
 * [About the interoperability of System 7 and iOS](/2021/05/03/interoperability-of-system-7-and-ios/)
 
-## Forthcoming posts
-
-* Apple Pencil
-
-## Elsewhere
+### Elsewhere
 
 * 2021-03-29 — [The Mac Observer](https://www.macobserver.com/cool-stuff-found/emulating-mac-plus-ios/)
 * 2021-04-18 — [Hacker News](https://news.ycombinator.com/item?id=26854990)

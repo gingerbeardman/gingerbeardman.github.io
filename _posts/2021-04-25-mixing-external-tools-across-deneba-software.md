@@ -179,3 +179,14 @@ Here's a download of my artWORKS Tools folder containing all the combined tools 
 ### Footnote
 
 A note about later versions of Canvas: version 3.5 provides roughly the same tools as version 3.0. The handful of unique tools in version 3.5 are not compatible with artWORKS. Version 5.0 features similar tools but they're no longer compatible with the earlier apps.
+
+### Related posts
+
+* [Turning an iPad Pro into the Ultimate Classic Macintosh](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh)
+* [How to install BasiliskII on your iPad](/2021/04/21/building-basiliskii-for-ios/)
+* [Exploring Custom Keyboards and Automation](/2021/04/19/automating-interactions-using-apple-events/)
+* [Optimising Macintosh app toolbars for touch](/2021/03/28/changing-the-size-of-toolbar-items-using-resedit/)
+* [Macintosh drawing software compared](/2021/04/24/macintosh-drawing-software-compared/)
+* Mixing External Tools across Deneba software
+* [My System 7 software choices](/2021/04/30/my-system-7-software-choices/)
+* [About the interoperability of System 7 and iOS](/2021/05/03/interoperability-of-system-7-and-ios/)

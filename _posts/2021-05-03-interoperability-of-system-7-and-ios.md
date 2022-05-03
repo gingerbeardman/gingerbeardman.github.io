@@ -140,3 +140,14 @@ The above disk images can be mounted using StuffIt, ShrinkWrap, DiskCopy 6. You 
 - **.toast** — proprietary CD-ROM disk image
 
 The above optical disk images should be mounted using the BasiliskII settings interface (shown at first launch, or whenever you shake your device). Disks mounted in this way will be available at every boot, and can only be removed by shutting down the system and restarting the emulator.
+
+### Related posts
+
+* [Turning an iPad Pro into the Ultimate Classic Macintosh](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh)
+* [How to install BasiliskII on your iPad](/2021/04/21/building-basiliskii-for-ios/)
+* [Exploring Custom Keyboards and Automation](/2021/04/19/automating-interactions-using-apple-events/)
+* [Optimising Macintosh app toolbars for touch](/2021/03/28/changing-the-size-of-toolbar-items-using-resedit/)
+* [Macintosh drawing software compared](/2021/04/24/macintosh-drawing-software-compared/)
+* [Mixing External Tools across Deneba software](/2021/04/25/mixing-external-tools-across-deneba-software/)
+* [My System 7 software choices](/2021/04/30/my-system-7-software-choices/)
+* About the interoperability of System 7 and iOS
