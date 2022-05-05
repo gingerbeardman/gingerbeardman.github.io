@@ -13,6 +13,16 @@ comments: https://twitter.com/gingerbeardman/status/1522181553073360896
 
 Often I want to restore the latest version of a file from Time Machine, but using the Time Machine interface to do so is awkward and slow. So I came up with my own solution that can be triggered from the Finder context menu of any file.
 
+![PNG](/images/posts/restore-time-machine-context-menu.png "Finder context menu")
+{:.tofigure}
+
+1. right-click on a file
+2. select "Restore from Time Machine"
+3. file is trashed (recoverable using Trash's Put Back feature)
+4. most recent backup of that file is restored from Time Machine
+
+This takes a seconds or two, depending on the size of the file in question. Most importantly this saves interrupting my workflow by having to opening the Time Machine interface and zooming through all those windows looking for the file.
+
 ## Requirements
 
 - [Context Menu](https://apps.apple.com/gb/app/context-menu/id1236813619?mt=12) (paid)
@@ -37,6 +47,6 @@ There are a couple of scripts because backups are stored differently on USB and 
 
 <script src="https://gist.github.com/gingerbeardman/ea0a213eb5e361ba9e7e8d004300c91b.js"></script>
 
-## Result
+## Other uses
 
-![PNG](/images/posts/restore-time-machine-context-menu.png)
+You could also install the script to enable it to be used from the command line.
