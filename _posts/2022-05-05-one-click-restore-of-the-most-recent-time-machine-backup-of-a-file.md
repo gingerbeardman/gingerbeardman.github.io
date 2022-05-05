@@ -27,6 +27,8 @@ These apps let you add items to Finder's right-click context menu, from where yo
 
 ## Context Menu
 
+Create a "New Action with Shell Script..." as follows:
+
 ![PNG](/images/posts/restore-time-machine-context-menu.png)
 
 ## Scripts
@@ -34,3 +36,7 @@ These apps let you add items to Finder's right-click context menu, from where yo
 There are a couple of scripts because backups are stored differently on USB and Network. Of course, you'll also need to change the path names to suit your setup.
 
 <script src="https://gist.github.com/gingerbeardman/ea0a213eb5e361ba9e7e8d004300c91b.js"></script>
+
+## Result
+
+![PNG](/images/posts/restore-time-machine-context-menu.png)
