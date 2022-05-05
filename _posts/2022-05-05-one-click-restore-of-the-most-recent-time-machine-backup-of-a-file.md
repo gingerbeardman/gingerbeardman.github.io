@@ -15,6 +15,8 @@ Often I want to restore the latest version of a file from Time Machine, but usin
 
 <img src="/images/posts/restore-time-machine-context-menu.png" width="245px" height="521px">
 
+## Usage
+
 1. right-click on a file
 2. select "Restore from Time Machine"
 3. file is trashed (recoverable using Trash's Put Back feature)
