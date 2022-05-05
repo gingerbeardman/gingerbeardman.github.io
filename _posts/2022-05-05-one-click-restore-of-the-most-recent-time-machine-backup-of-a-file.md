@@ -25,11 +25,11 @@ These apps let you add items to Finder's right-click context menu, from where yo
 
 - tmutil, built-in macOS utility for interacting with Time Machine
 
-## Context Menu
+## ContextMenu.app
 
 Create a "New Action with Shell Script..." as follows:
 
-![PNG](/images/posts/restore-time-machine-context-menu.png)
+![PNG](/images/posts/restore-time-machine-context-menu-setup.png)
 
 ## Scripts
 
