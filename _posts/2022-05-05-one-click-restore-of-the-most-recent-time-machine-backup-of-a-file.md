@@ -11,7 +11,7 @@ comments:
 
 ---
 
-Often I want to restore the latest version of a file from Time Machine, but using the Time Machine interface to do so is awkward and slow. So I came up with my own solution that can be trigger from the context menu of any file.
+Often I want to restore the latest version of a file from Time Machine, but using the Time Machine interface to do so is awkward and slow. So I came up with my own solution that can be triggered from the Finder context menu of any file.
 
 ## Requirements
 
