@@ -7,7 +7,7 @@ tags:
 nouns:
 - Time Machine
 - macOS
-comments: 
+comments: https://twitter.com/gingerbeardman/status/1522181553073360896
 
 ---
 
