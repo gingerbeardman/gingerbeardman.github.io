@@ -13,7 +13,7 @@ comments: https://twitter.com/gingerbeardman/status/1522181553073360896
 
 Often I want to restore the latest version of a file from Time Machine, but using the Time Machine interface to do so is awkward and slow. So I came up with my own solution that can be triggered from the Finder context menu of any file.
 
-<img src="/images/posts/restore-time-machine-context-menu.png" width="245px" height="521px">
+<center><img src="/images/posts/restore-time-machine-context-menu.png" width="245px" height="521px"></center>
 
 ## Usage
 
@@ -40,7 +40,7 @@ These apps let you add items to Finder's right-click context menu, from where yo
 
 Create a "New Action with Shell Script..." as follows:
 
-<img src="/images/posts/restore-time-machine-context-menu-setup.png" width="578px" height="485px">
+<center><img src="/images/posts/restore-time-machine-context-menu-setup.png" width="578px" height="485px"></center>
 
 ## Scripts
 
