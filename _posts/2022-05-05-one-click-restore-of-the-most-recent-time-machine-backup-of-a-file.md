@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Restoring the most recent copy of a file from Time Machine
+title: One-click restore of the most recent Time Machine backup of a file
 tags:
 - macos
 - timemachine
