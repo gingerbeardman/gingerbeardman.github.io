@@ -40,7 +40,8 @@ These apps let you add items to Finder's right-click context menu, from where yo
 
 Create a "New Action with Shell Script..." as follows:
 
-![PNG](/images/posts/restore-time-machine-context-menu-setup.png|width=578px)
+![PNG](/images/posts/restore-time-machine-context-menu-setup.png)
+{: width="578px" height="485px" }
 
 ## Scripts
 
