@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to display Full Referrer URL in Google Analytics 4 (GA4)?
+title: Displaying Full Referrer URL in Google Analytics 4 (GA4)
 tags:
 - google
 - analytics
