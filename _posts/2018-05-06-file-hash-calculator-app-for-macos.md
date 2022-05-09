@@ -1,6 +1,6 @@
 ---
 layout: post
-title: file-hash-calculator-app-for-macos
+title: File hash calculator app for macOS
 tags:
 - macos
 - hash
@@ -8,9 +8,9 @@ comments:
 
 ---
 
-I often have the need to calculate the hash of a file for verification purposes. I couldn't find a nice easy to use app for this so I put together my own app. 
+I often need to calculate the hash of a file for verification purposes, to confirm that a download has completed successfully or that an ISO I have dumped from a CD is a correct match with known good dumps.
 
-Download: [Hash.app.zip](https://github.com/sunjw/fhash/files/2302036/Hash.app.zip) (version 1.3).
+I couldn't find a nice easy to use app for this so I put together my own app. Download it here: [Hash.app.zip](https://github.com/sunjw/fhash/files/2302036/Hash.app.zip) (version 1.3).
 
 ![PNG](/images/posts/hash-app.png)
 
