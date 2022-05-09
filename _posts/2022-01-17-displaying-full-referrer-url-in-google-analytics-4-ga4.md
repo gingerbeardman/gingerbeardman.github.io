@@ -4,7 +4,7 @@ title: Displaying Full Referrer URL in Google Analytics 4 (GA4)
 tags:
 - google
 - analytics
-comments: https://stackoverflow.com/a/70742721/28290
+comments: https://twitter.com/gingerbeardman/status/1523605729357479937
 
 ---
 
@@ -30,3 +30,5 @@ This will give you a long table of full referrer URLs along with the number of u
 ![PNG](/images/posts/ga4-full-referrer-url.png)
 
 It remains to be seen if this can be done more easily or more comprehensively.
+
+> Originally posted [answering my own question at stackoverflow](https://stackoverflow.com/a/70742721/28290).
