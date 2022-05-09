@@ -4,7 +4,7 @@ title: File hash calculator app for macOS
 tags:
 - macos
 - hash
-comments: 
+comments: https://twitter.com/gingerbeardman/status/1523604785450328066
 
 ---
 
