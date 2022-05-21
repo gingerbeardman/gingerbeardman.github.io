@@ -50,7 +50,7 @@ Animation does not use the SDK. Instead I control the positions of screen elemen
 
 The seven segment font was generated using the [tophat](https://kaasiand.cool/tophat/) web app, which is really great. Fonts and Timers are the two main things I use from the SDK.
 
-Easy Mode slows down the game by 20% (40fps down from 50fps) which makes things a lot easier as you have 25% more time to react (25ms compared to 20ms) and also get an extra hint regarding the bar size. This mode also has an "easy" banner displayed on the screen to make sure people know which mode you're playing.
+Easy Mode slows down the game by 20% (40fps down from 50fps) which makes things a lot easier as you have 25% more time to react (25ms compared to 20ms) and also gives an additional hint regarding the bar size. This mode also has an "easy" banner displayed on the screen to make sure people know which mode you're playing.
 
 ## Download
 
