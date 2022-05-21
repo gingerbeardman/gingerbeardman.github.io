@@ -14,7 +14,7 @@ Ten years ago I made a web game called [Bender](https://twitter.com/gingerbeardm
 
 Since I started spending more time on itch.io managing my Playdate games, I’d been seeing a lot more of that old game in my list of projects.
 
-Fridays are the day I devote to making Playdate prototypes and I thought it would be fun to make a version of Bender for Playdate.
+Fridays are the day I spend making Playdate prototypes and I thought it would be fun to make a version of Bender for Playdate.
 
 I made it from memory, not looking at any of the old code, and it came together pretty quickly. So much so that I decided to see if I could push on through and release it the same day. The code is pretty sloppy but I figure it was worth it.
 
