@@ -36,4 +36,6 @@ The following morning I changed some things that I was unhappy with in the first
 - Largest bar size was never appearing
 - Angle check now uses integers
 
+### Download
+
 Bender for Playdate is [available now on itch.io as pay-what-you-want](https://gingerbeardman.itch.io/bender-for-playdate).
