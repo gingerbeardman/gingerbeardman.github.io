@@ -26,19 +26,19 @@ Here’s the result! Have fun.
 
 The following morning I changed some things that I was unhappy with in the first version, fixed a couple of small bugs, and added some new things.
 
-### Improvements
+**Improvements**
 
 - Replaced launch card
 - Using less fonts
 - Removed flashing text
 - Easy Mode!
 
-### Fixes
+**Fixes**
 
 - Largest bar size was never appearing
 - Angle check now uses integers
 
-## Look! No sprites!
+## Look ma, no sprites!
 
 The original Bender web game used CSS for all graphics and animation, and a little JavaScript to control the game flow. So, I had wondered how I would build Bender with the Playdate SDK.
 
