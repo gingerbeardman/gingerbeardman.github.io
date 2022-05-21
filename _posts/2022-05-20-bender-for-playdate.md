@@ -38,6 +38,20 @@ The following morning I changed some things that I was unhappy with in the first
 - Largest bar size was never appearing
 - Angle check now uses integers
 
-### Download
+## Look! No sprites!
+
+The original Bender web game used CSS for all graphics and animation, and a little JavaScript to control the game flow. So, I had wondered how I would build Bender with the Playdate SDK.
+
+Sprites are certainly one option but the rotation of the bar meant I would either have to pre-render many bar sprites or deal with slow real-time rotation, neither of which sounded too appealing. Then I had the idea about using thick lines!
+
+Each side of the bar is a thick line, with "butt" cap-style. To give the illusion of the bar bending I draw a circle at the origin or common point of both lines. A little bit of trigonometry was all that was needed to get the lines bending correctly.
+
+Animation does not use the SDK. Instead I control the positions of screen elements and move them based on some rules and algorithms.
+
+The seven segment font was generated using the [tophat](https://kaasiand.cool/tophat/) web app, which is really great. Fonts and Timers are the two main things I use from the SDK.
+
+Easy Mode slows down the game by 20% (40fps down from 50fps) which makes things a lot easier as you have 25% more time to react (25ms compared to 20ms) and also get an extra hint regarding the bar size. This mode also has an "easy" banner displayed on the screen to make sure people know which mode you're playing.
+
+## Download
 
 Bender for Playdate is [available now on itch.io as pay-what-you-want](https://gingerbeardman.itch.io/bender-for-playdate).
