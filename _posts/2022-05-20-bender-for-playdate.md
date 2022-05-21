@@ -3,6 +3,8 @@ layout: post
 title: Bender for Playdate
 tags:
 - playdate
+- agbic
+- itchio
 nouns:
 comments: https://twitter.com/gingerbeardman/status/1527995752617807877
 
