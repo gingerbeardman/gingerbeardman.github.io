@@ -20,7 +20,7 @@ I made it from memory, not looking at any of the old code, and it came together 
 
 Whilst this game was made in a day, the design took a lot longer.
 
-Here’s the result! Have fun.
+Here’s the result!
 
 ![GIF](/images/posts/bender-for-playdate.gif#playdate)
 
@@ -44,7 +44,7 @@ The original Bender web game used CSS for all graphics and animation, and a litt
 
 Sprites are certainly one option but the rotation of the bar meant I would either have to pre-render many bar sprites or deal with slow real-time rotation, neither of which sounded too appealing. Then I had the idea about using thick lines!
 
-Each side of the bar is a thick line, with "butt" cap-style. To give the illusion of the bar bending I draw a circle at the origin or common point of both lines. A little bit of trigonometry was all that was needed to get the lines bending correctly.
+Each side of the bar is a thick line, with "butt" cap-style. To give the illusion of the bar bending I draw a circle at the origin or common point of both lines. A little bit of trigonometry was all that was needed to get the lines bending correctly. The benefits to this approach are many, such as: no images, no sprites, always smooth edges, better performance. There is a limitation to a single colour or dither, but that could be worked around with some extra efforts and a bit more maths.
 
 Animation does not use the SDK. Instead I control the positions of screen elements and move them based on some rules and algorithms.
 
@@ -55,3 +55,5 @@ Easy Mode slows down the game by 20% (40fps down from 50fps) which makes things 
 ## Download
 
 Bender for Playdate is [available now on itch.io as pay-what-you-want](https://gingerbeardman.itch.io/bender-for-playdate).
+
+Have fun!
