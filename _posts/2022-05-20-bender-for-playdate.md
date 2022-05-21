@@ -10,7 +10,7 @@ comments: https://twitter.com/gingerbeardman/status/1527995752617807877
 
 ---
 
-10 years ago I made a web game called [Bender](https://twitter.com/gingerbeardman/status/227894472103563264) for the [AGBIC game jam](https://twitter.com/AGBICjam). It was powered by CSS transitions and a little bit of JavaScript. It was fun to make and devilishly addictive.
+Ten years ago I made a web game called [Bender](https://twitter.com/gingerbeardman/status/227894472103563264) for the [AGBIC game jam](https://twitter.com/AGBICjam). It was powered by CSS transitions and a little bit of JavaScript. It was fun to make and devilishly addictive.
 
 Since I started spending more time on itch.io managing my Playdate games, I’d been seeing a lot more of that old game in my list of projects.
 
