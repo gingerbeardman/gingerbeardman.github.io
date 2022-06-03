@@ -54,8 +54,8 @@ This is because of a missing `#ifdef`, so add one around the if statement at [li
         }
     #endif
 
-**Error mentioning `qemu`
-**I've seen this error on macOS 11 Big Sur with Xcode 12. The crux is that the code as it stands will only build with Xcode 11 (the last version was 11.7) so be sure to use that.
+**Error mentioning `qemu`**
+I've seen this error on macOS 11 Big Sur with Xcode 12. The crux is that the code as it stands will only build with Xcode 11 (the last version was 11.7) so be sure to use that.
 
 ### Adding chunky screen resolutions
 
