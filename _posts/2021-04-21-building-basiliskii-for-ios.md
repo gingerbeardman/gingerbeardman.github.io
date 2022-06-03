@@ -71,7 +71,7 @@ Enter those after [line 53 in file B2ScreenView.mm](https://github.com/zydeco/ma
 
 ### Disabling graphics smoothing
 
-My personal prefernce is to disable filtering/smoothing on all graphics scaling:
+My personal preference is to disable filtering/smoothing on all graphics scaling:
 
     NSString *filter = kCAFilterNearest;
     videoLayer.magnificationFilter = filter;
