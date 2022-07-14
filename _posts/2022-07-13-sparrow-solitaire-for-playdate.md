@@ -6,11 +6,12 @@ tags:
 - mahjong
 - solitaire
 nouns:
+- Sparrow Solitaire
 comments: https://twitter.com/gingerbeardman/status/1547342592198774787
 
 ---
 
-This post written by [@gingerbeardman](https://gingerbeardman.itch.io).
+This post is a history of Sparrow Solitaire, my latest game for Playdate. It started out as a prototype and was later taken on by Mac Vogelsang. We're working together to make the best ever mahjong solitaire game.
 
 ### 2021, January 10th
 I'm really into Hanafuda (Japanese flower cards) and found that the 1991 Macintosh game Shanghai featured tiles based on Hanafuda. I booted it up [at Internet Archive](https://archive.org/details/ShanghaiIIDragonsEye) and had a quick play.
