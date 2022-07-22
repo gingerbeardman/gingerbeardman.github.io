@@ -74,6 +74,8 @@ Out of this partnership not only comes a great game, but some new offshoot proje
 
 At this point Sparrow Solitaire is really Mac's game, albeit one that happens to have my graphics and some of my programming DNA in it, so it's fitting that it will live on his itch.io page.
 
+![GIF](/images/posts/sparrow-game.gif#playdate)
+
 ## Download
 
 Sparrow Solitaire for Playdate (Early Access) is [available now on itch.io](https://vogelscript.itch.io/sparrow-solitaire), where you can read about what to expect from the full game.
