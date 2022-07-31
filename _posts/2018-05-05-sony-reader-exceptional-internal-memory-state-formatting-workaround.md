@@ -36,4 +36,4 @@ At this point pressing `OK` will format the device. Yikes!
 
 ## Cause
 
-My theory is that PRS+ doesn't the device being "dirty" when it is unmounted or ejected improperly.
+My theory: PRS+ doesn't like the device being "dirty" when it is unmounted or ejected improperly.
