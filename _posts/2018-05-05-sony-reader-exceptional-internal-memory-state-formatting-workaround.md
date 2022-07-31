@@ -23,7 +23,14 @@ After the Reader powers up, or comes out of transfer mode, it does the busy spin
 
 At this point pressing `OK` will format the device. Yikes!
 
-## Workaround
+## Short Workaround
+
+1. **Do not press** `OK` on the format warning
+2. Press hardware `RESET` button with paperclip
+
+If this does not work, try the following:
+
+## Longer Workaround
 
 1. **Do not press** `OK` on the format warning
 2. Instead, plug device into your computer
