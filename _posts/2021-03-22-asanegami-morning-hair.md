@@ -9,7 +9,7 @@ tags:
 nouns: [UltraPaint, Pixaki]
 carousel: ''
 featured: true
-comments: https://twitter.com/gingerbeardman/status/1375462328406278152
+comments: https://twitter.com/gingerbeardman/status/1560315049604009984
 
 ---
 Second in my series [1-bit Woodblocks](/tag/1bitwoodblocks/).

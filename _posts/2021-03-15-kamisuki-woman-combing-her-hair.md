@@ -14,7 +14,7 @@ nouns:
 - MacPaint
 carousel: ''
 featured: false
-comments: https://twitter.com/gingerbeardman/status/1371255704292581377
+comments: https://twitter.com/gingerbeardman/status/1560315550504468481
 
 ---
 Woman Combing her Hair (Portrait of Kodaira Tomi) original by Hashiguchi Goyô, 1920. This work-in-progress by me, 2020–date. First in my [1-bit Woodblocks](/tag/1bitwoodblocks/) series.
