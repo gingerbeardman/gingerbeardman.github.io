@@ -106,7 +106,7 @@ Here's how to connect the most common systems. Let me know if you connect one th
 
 * Xbox One
 * Wii U
-* PS4
+* PS4/3
 * Mac
 * PC
 * Other systems using HDMI output
