@@ -50,14 +50,14 @@ Steps to play in Japanese, carry out twice to create one device each of Grey/Col
 
 ## Games
 1. Koi-Koi (1999, by Keisuke Mitani/Palm Boarderz) - my favourite
-    https://fudawiki.org/en/hanafuda/video-games/palm/koi-koi
-    ![PNG](/images/posts/palmos-hanafuda-1.png#pixel "Koi-Koi")
+   - [https://fudawiki.org/en/hanafuda/video-games/palm/koi-koi](https://fudawiki.org/en/hanafuda/video-games/palm/koi-koi)
+   - ![PNG](/images/posts/palmos-hanafuda-1.png#pixel "Koi-Koi")<br>
 2. Tenohira Hanafuda & Kai (2001, by Hiroki Takahashi) - tracks play history
-    https://fudawiki.org/en/hanafuda/video-games/palm/tenohira-hanafuda-kai
-    ![PNG](/images/posts/palmos-hanafuda-2.png#pixel "Tenohira Hanafuda Kai")
+   - [https://fudawiki.org/en/hanafuda/video-games/palm/tenohira-hanafuda-kai](https://fudawiki.org/en/hanafuda/video-games/palm/tenohira-hanafuda-kai)
+   - ![PNG](/images/posts/palmos-hanafuda-2.png#pixel "Tenohira Hanafuda Kai")<br>
 3. palm Hanafuda (2001, by Oruge/e-frontier) - has 5 game types including Mushi
-    https://fudawiki.org/en/hanafuda/video-games/palm/palm-hanafuda
-    ![PNG](/images/posts/palmos-hanafuda-3.png#pixel "palm Hanafuda")
+   - [https://fudawiki.org/en/hanafuda/video-games/palm/palm-hanafuda](https://fudawiki.org/en/hanafuda/video-games/palm/palm-hanafuda)
+   - ![PNG](/images/posts/palmos-hanafuda-3.png#pixel "palm Hanafuda")<br>
 4. Catch-a-Bird (2003, by Juergen Bermann ) - similar to Go-stop
-    https://fudawiki.org/en/hanafuda/video-games/palm/catch-a-bird 
-    ![PNG](/images/posts/palmos-hanafuda-4.png#pixel "Catch-a-Bird")
+   - [https://fudawiki.org/en/hanafuda/video-games/palm/catch-a-bird](https://fudawiki.org/en/hanafuda/video-games/palm/catch-a-bird) 
+   - ![PNG](/images/posts/palmos-hanafuda-4.png#pixel "Catch-a-Bird")<br>
