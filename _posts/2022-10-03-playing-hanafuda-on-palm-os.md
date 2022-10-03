@@ -61,8 +61,8 @@ Steps to play in Japanese, carry out twice to create one device each of Grey/Col
    - multiple opponents/difficulties
    - tracks play history and win ratios
    ![PNG](/images/posts/palmos-hanafuda-2.png#pixel "Tenohira Hanafuda Kai")<br>
-   - [https://fudawiki.org/en/hanafuda/video-games/palm/palm-hanafuda](https://fudawiki.org/en/hanafuda/video-games/palm/palm-hanafuda)
 3. *palm Hanafuda* (2001, by Oruge/e-frontier)
+   - [https://fudawiki.org/en/hanafuda/video-games/palm/palm-hanafuda](https://fudawiki.org/en/hanafuda/video-games/palm/palm-hanafuda)
    - has 5 game types, including Mushi
    - I could swear this displayed in English on my real Palm OS device
    ![PNG](/images/posts/palmos-hanafuda-3.png#pixel "palm Hanafuda")<br>
