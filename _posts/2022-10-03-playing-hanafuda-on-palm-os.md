@@ -34,7 +34,7 @@ We're going to create two Palm OS devices, both in Japanese, and install the gam
 1. Sony Clié N700C (Colour, Japanese)
 2. Palm V (Greyscale, Japanese)
 
-You can source alternative Palm OS system files from [PalmDB](https://palmdb.net/app/palm-roms-complete).
+You can source alternative Palm OS system files from [PalmDB](https://palmdb.net/app/palm-roms-complete). You might choose to add an English device to run other Palm OS games and apps.
 
 ## Support files
 
