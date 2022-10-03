@@ -16,7 +16,7 @@ comments: https://twitter.com/gingerbeardman/status/1576955213847490560
 
 ---
 
-I recently found out that it's possible to run Palm OS in a web browser, using https://cloudpilot-emu.github.io which is optimised for use on iPhone and Android, so you can use old Palm apps and run old games and apps on your smart phone!
+I recently found out that it's possible to run Palm OS in a web browser, using [https://cloudpilot-emu.github.io](https://cloudpilot-emu.github.io) which is optimised for use on iPhone and Android, so you can use old Palm apps and run old games and apps on your smart phone!
 
 ## Koi-Koi
 
