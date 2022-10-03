@@ -24,6 +24,8 @@ I play a lot of video game hanafuda and out of all platforms Palm OS has three o
 
 So it's great news that Palm  OS can now be played easily on modern devices.
 
+![Koi-Koi running on Sony Clié PEG-SL10](/images/posts/palmos-hanafuda-real.jpg "Koi-Koi running on Sony Clié PEG-SL10")
+
 ## Preparation
 
 We're going to create two Palm OS devices, both in Japanese, and install the games. You could create English devices, but there will be issues with some text displayed in the games as they expect Japanese text support.
