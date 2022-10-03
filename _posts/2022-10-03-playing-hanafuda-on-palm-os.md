@@ -12,7 +12,7 @@ nouns:
   - Galaxy Fame Lite
   - Palm V
 title: Playing Hanafuda on Palm OS
-comments: 
+comments: https://twitter.com/gingerbeardman/status/1576955213847490560
 
 ---
 
