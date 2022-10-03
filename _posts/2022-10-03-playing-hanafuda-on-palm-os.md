@@ -16,13 +16,13 @@ comments: https://twitter.com/gingerbeardman/status/1576955213847490560
 
 ---
 
-I recently found out that it's possible to play Palm OS in a web browser, using https://cloudpilot-emu.github.io which is optimised for use on iPhone and Android, so you can use old Palm apps and play old games on your smart phone!
+I recently found out that it's possible to run Palm OS in a web browser, using https://cloudpilot-emu.github.io which is optimised for use on iPhone and Android, so you can use old Palm apps and run old games and apps on your smart phone!
 
 ## Koi-Koi
 
 I play a lot of video game hanafuda and out of all platforms Palm OS has three of the most interesting games. To play these games I carry around either an old Palm OS device (Sony Clié PEG-SL10) or an Android phone (Galaxy Fame Lite S6790) that runs an old Palm OS emulator.
 
-So it's great news that Palm OS can now be played easily on modern devices.
+So it's great news that Palm OS Hanafuda games can now be played easily on modern devices.
 
 ![Keisuke Mitani's Koi-Koi running on Sony Clié PEG-SL10](/images/posts/palmos-hanafuda-real.jpg "Keisuke Mitani's Koi-Koi running on Sony Clié PEG-SL10")
 {:.tofigure}
