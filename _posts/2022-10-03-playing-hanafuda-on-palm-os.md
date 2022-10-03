@@ -28,7 +28,7 @@ So it's great news that Palm  OS can now be played easily on modern devices.
 
 We're going to create two Palm OS devices, both in Japanese, and install the games. You could create English devices, but there will be issues with some text displayed in the games as they expect Japanese text support.
 
-1. Sony Clie N700C (Colour, Japanese)
+1. Sony Clié N700C (Colour, Japanese)
 2. Palm V (Greyscale, Japanese)
 
 You can source alternative Palm OS system files from [PalmDB](https://palmdb.net/app/palm-roms-complete).
