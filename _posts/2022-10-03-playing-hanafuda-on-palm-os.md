@@ -22,7 +22,7 @@ I recently found out that it's possible to play Palm OS in a web browser, using 
 
 I play a lot of video game hanafuda and out of all platforms Palm OS has three of the most interesting games. To play these games I carry around either an old Palm OS device (Sony Clié PEG-SL10) or an Android phone (Galaxy Fame Lite S6790) that runs an old Palm OS emulator.
 
-So it's great news that Palm  OS can now be played easily on modern devices.
+So it's great news that Palm OS can now be played easily on modern devices.
 
 ![Keisuke Mitani's Koi-Koi running on Sony Clié PEG-SL10](/images/posts/palmos-hanafuda-real.jpg "Koi-Koi running on Sony Clié PEG-SL10")
 {:.tofigure}
