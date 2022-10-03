@@ -49,24 +49,24 @@ Steps to play in Japanese, carry out twice to create one device each of Grey/Col
 6. switch devices using the Sessions button in the website toolbar
 
 ## Games
-1. Koi-Koi (1999, by Keisuke Mitani/Palm Boarderz)
+1. *Koi-Koi* (1999, by Keisuke Mitani/Palm Boarderz)
    - [https://fudawiki.org/en/hanafuda/video-games/palm/koi-koi](https://fudawiki.org/en/hanafuda/video-games/palm/koi-koi)
    - my favourite
    - cards can be picked from the field as well as your hand
    - only works on old greyscale devices
    ![PNG](/images/posts/palmos-hanafuda-1.png#pixel "Koi-Koi")<br>
-2. Tenohira Hanafuda Kai (2001, by Hiroki Takahashi) 
+2. *Tenohira Hanafuda Kai* (2001, by Hiroki Takahashi) 
    - [https://fudawiki.org/en/hanafuda/video-games/palm/tenohira-hanafuda-kai](https://fudawiki.org/en/hanafuda/video-games/palm/tenohira-hanafuda-kai)
    - low and high resolution support
    - multiple opponents/difficulties
    - tracks play history and win ratios
    ![PNG](/images/posts/palmos-hanafuda-2.png#pixel "Tenohira Hanafuda Kai")<br>
    - [https://fudawiki.org/en/hanafuda/video-games/palm/palm-hanafuda](https://fudawiki.org/en/hanafuda/video-games/palm/palm-hanafuda)
-3. palm Hanafuda (2001, by Oruge/e-frontier)
+3. *palm Hanafuda* (2001, by Oruge/e-frontier)
    - has 5 game types, including Mushi
    - I could swear this displayed in English on my real Palm OS device
    ![PNG](/images/posts/palmos-hanafuda-3.png#pixel "palm Hanafuda")<br>
-4. Catch-a-Bird (2003, by Juergen Bermann )
+4. *Catch-A-Bird* (2003, by Juergen Bermann)
    - [https://fudawiki.org/en/hanafuda/video-games/palm/catch-a-bird](https://fudawiki.org/en/hanafuda/video-games/palm/catch-a-bird) 
    - similar to Go-stop
    - no idea how to get it to display in colour
