@@ -25,6 +25,7 @@ I play a lot of video game hanafuda and out of all platforms Palm OS has three o
 So it's great news that Palm  OS can now be played easily on modern devices.
 
 ![Koi-Koi running on Sony Clié PEG-SL10](/images/posts/palmos-hanafuda-real.jpg "Koi-Koi running on Sony Clié PEG-SL10")
+{:.tofigure}
 
 ## Preparation
 
