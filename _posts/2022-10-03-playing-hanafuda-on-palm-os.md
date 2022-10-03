@@ -29,7 +29,7 @@ So it's great news that Palm OS Hanafuda games can now be played easily on moder
 
 ## Preparation
 
-We're going to create two Palm OS devices, both in Japanese, and install the games. You could create English devices, but there will be issues with some text displayed in the games as they expect Japanese text support.
+We're going to use CloudPilot to create two Palm OS devices, both running in Japanese, and install the games we want to play. You could create English devices, but there will be issues with some text displayed in the games as they expect Japanese text support.
 
 1. Sony Clié N700C (Colour, Japanese)
 2. Palm V (Greyscale, Japanese)
