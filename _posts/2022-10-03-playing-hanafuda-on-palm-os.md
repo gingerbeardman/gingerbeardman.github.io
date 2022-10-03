@@ -11,11 +11,8 @@ nouns:
   - Sont Clié
   - Galaxy Fame Lite
   - Palm V
-title: Playing Hanafuda on Plam OS
-comments: ''
-featured: false
-carousel: ''
-published: false
+title: Playing Hanafuda on Palm OS
+comments: 
 
 ---
 
