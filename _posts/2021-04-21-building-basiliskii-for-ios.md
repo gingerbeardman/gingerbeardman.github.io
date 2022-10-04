@@ -34,13 +34,12 @@ October 2022: Updated for building with Xcode 14.0.1 on macOS 12.6 Monterey to i
 2. Clone [project source from GitHub](https://github.com/zydeco/macemu/tree/ios/BasiliskII/src/iOS)
 3. Switch to the `ios` branch.
 4. Open .xcodeproj file
-5. Optional: change iOS deployment target (defaults to iOS 8.0)
-6. Set `Product > Destination` to point to your device
-7. Run
+5. Set `Product > Destination` to point to your device
+6. Run
 
 ## Optional Changes
 
-I plan to add these changes into my own fork of the code. Soon, I promise!
+I plan to add these changes into my own fork of the code. Soon, maybe!
 
 ### Adding chunky screen resolutions
 
