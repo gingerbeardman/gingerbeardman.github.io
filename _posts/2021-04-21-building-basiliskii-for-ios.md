@@ -26,7 +26,7 @@ comments: https://twitter.com/gingerbeardman/status/1384827300697489408
 ---
 I've had numerous requests for a guide to building BasiliskII on iOS. Let me know of anything is unclear or would benefit from more details!
 
-Updated: October 2022, building with Xcode 14.0.1 on macOS 12.6 Monterey to iOS 16.0.2. Your experience may be different.
+October 2022: Updated for building with Xcode 14.0.1 on macOS 12.6 Monterey to iOS 16.0.2. YMMV.
 
 ## Building
 
