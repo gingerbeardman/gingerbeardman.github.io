@@ -26,7 +26,7 @@ comments: https://twitter.com/gingerbeardman/status/1384827300697489408
 ---
 I've had numerous requests for a guide to building BasiliskII on iOS. Let me know of anything is unclear or would benefit from more details!
 
-Note: I'm building with Xcode 11.3.1 on macOS 10.14.6 Mojave, so your experience may be different.
+Updated: October 2022, building with Xcode 14.0.1 on macOS 12.6 Monterey to iOS 16.0.2. Your experience may be different.
 
 ## Building
 
@@ -42,21 +42,6 @@ Note: I'm building with Xcode 11.3.1 on macOS 10.14.6 Mojave, so your experience
 
 I plan to add these changes into my own fork of the code. Soon, I promise!
 
-### Possible build errors
-
-**Error mentioning `pointerInteraction`**
-This is because of a missing `#ifdef`, so add one around the if statement at [line 82 in B2ViewController.mm](zydeco/macemu@eb8d0a7/BasiliskII/src/iOS/BasiliskII/B2ViewController.mm#L82-L85):
-
-    #ifdef __IPHONE_13_4
-        if (@available(iOS 13.4, *)) {
-            pointerInteraction = [[UIPointerInteraction alloc] initWithDelegate:self];
-            [pointingDeviceView addInteraction:pointerInteraction];
-        }
-    #endif
-
-**Error mentioning `qemu`**
-I've seen this error on macOS 11 Big Sur with Xcode 12. The crux is that the code as it stands will only build with Xcode 11 (the last version was 11.7) so be sure to use that.
-
 ### Adding chunky screen resolutions
 
 I added chunky "half resolution" screen modes to increase the size of user interface elements so that buttons, menu items and so on are all around the 44pt recommended in the Apple iOS HIG.
@@ -64,10 +49,10 @@ I added chunky "half resolution" screen modes to increase the size of user inter
 For iPad Pro 12.9" these changes were:
 
     [videoModes addObject:[NSValue valueWithCGSize:CGSizeMake(512, 496)]]; // portrait minus keyboard
-    [videoModes addObject:[NSValue valueWithCGSize:CGSizeMake(512, 672)]]; // portrait "full" scren
+    [videoModes addObject:[NSValue valueWithCGSize:CGSizeMake(512, 672)]]; // portrait "full" screen
     [videoModes addObject:[NSValue valueWithCGSize:CGSizeMake(683, 502)]]; // landscape "full" screen
 
-Enter those after [line 53 in file B2ScreenView.mm](https://github.com/zydeco/macemu/blob/eb8d0a71054d450c09ec0220abf4407971ce9df9/BasiliskII/src/iOS/BasiliskII/B2ScreenView.mm#L53)
+Enter those after [line 56 in file B2ScreenView.mm](https://github.com/zydeco/macemu/blob/74254b59f3829468ee2e2ac5b9eb3d81d281caa7/BasiliskII/src/iOS/BasiliskII/B2ScreenView.mm#L56)
 
 ### Disabling graphics smoothing
 
@@ -77,13 +62,13 @@ My personal preference is to disable filtering/smoothing on all graphics scaling
     videoLayer.magnificationFilter = filter;
     videoLayer.minificationFilter = filter;
 
-Make this change [around line 80 in file B2ScreenView.mm](https://github.com/zydeco/macemu/blob/eb8d0a71054d450c09ec0220abf4407971ce9df9/BasiliskII/src/iOS/BasiliskII/B2ScreenView.mm#L80)
+Make this change [around line 108 in file B2ScreenView.mm](https://github.com/zydeco/macemu/blob/74254b59f3829468ee2e2ac5b9eb3d81d281caa7/BasiliskII/src/iOS/BasiliskII/B2ScreenView.mm#L108)
 
 ### Custom Keyboard Layouts
 
 These are defined in JSON and compiled to a custom format:
 
-* [source file location on GitHub](zydeco/macemu@ios/BasiliskII/src/iOS/Keyboard%20Layouts)
+* [source file location on GitHub](https://github.com/zydeco/macemu/tree/ios/BasiliskII/src/iOS/BasiliskII/Keyboard%20Layouts)
 * several regional layouts are already provided
 * you don't have to make your own!
 
@@ -91,7 +76,7 @@ These are defined in JSON and compiled to a custom format:
 
 ### Enable Split View Support
 
-This be enabled by changing `BasiliskII-Info.plist`: `UIRequiresFullScreen` should be `false` in [BasiliskII-Info.plist](zydeco/macemu@eb8d0a7/BasiliskII/src/iOS/BasiliskII/BasiliskII-Info.plist#L103-L104) but be wary of the following problem:
+This can be enabled by changing `BasiliskII-Info.plist`: `UIRequiresFullScreen` should be `false` in [BasiliskII-Info.plist](https://github.com/zydeco/macemu/blob/ios/BasiliskII/src/iOS/BasiliskII/BasiliskII-Info.plist#L114) but be wary of the following problem:
 
 * the very top of the screen (where you'd expect the iOS status bar to be, and where part of the System 7 menu bar is) will become unresponsive to touch due to the Slide Over indicator
 
