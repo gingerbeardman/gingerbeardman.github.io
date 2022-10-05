@@ -24,7 +24,7 @@ Easily done by finding the dialog that contains these icons, and resizing the ca
 
 Several trips between ResEdit and Photoshop (version 1.0!) and I was done.
 
-{% include carousel.html height="100" unit="%" duration="7" %}
+![PNG](/images/posts/macintosh-toolbar-resedit-1.png#pixel "Standard toolbar size; before editing") ![PNG](/images/posts/macintosh-toolbar-resedit-2.png#pixel "Increase toolbar size; after editing")
 
 This is to make the tool buttons easier to tap with my thumb when running System 7 on iPad.
 
