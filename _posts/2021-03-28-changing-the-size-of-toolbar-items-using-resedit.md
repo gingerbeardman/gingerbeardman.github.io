@@ -24,7 +24,7 @@ Easily done by finding the dialog that contains these icons, and resizing the ca
 
 Several trips between ResEdit and Photoshop (version 1.0!) and I was done.
 
-![PNG](/images/posts/macintosh-toolbar-resedit-1.png "Showing toolbar item dimensions before and after editing")
+![PNG](/images/posts/macintosh-toolbar-resedit-1.png "Toolbar size before and after editing")
 {:.tofigure}
 
 This is to make the tool buttons easier to tap with my thumb when running System 7 on iPad.
