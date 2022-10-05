@@ -85,7 +85,7 @@ However, you can still use Slide Over to position Safari, Files, etc. along the 
 
 ## Notes
 
-There are about capabilities of the emulator integration. I'll go further into these, and more besides, in a future post.
+There are additional capabilities that come  the emulator integration. I go further into these, and more besides, in a additional posts listed at the bottom of the page.
 
 ### File Sharing
 

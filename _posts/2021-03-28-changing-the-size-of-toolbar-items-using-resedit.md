@@ -13,7 +13,7 @@ nouns:
 - Deneba
 - Photoshop
 - ResEdit
-carousel: ''
+carousel: macintosh-toolbar-resedit
 featured: false
 comments: https://twitter.com/gingerbeardman/status/1376195983676170249
 
@@ -24,7 +24,7 @@ Easily done by finding the dialog that contains these icons, and resizing the ca
 
 Several trips between ResEdit and Photoshop (version 1.0!) and I was done.
 
-![](https://pbs.twimg.com/media/Exk6ssWW8AI4RWU.png)
+{% include carousel.html height="82" unit="%" duration="7" %}
 
 This is to make the tool buttons easier to tap with my thumb when running System 7 on iPad.
 
@@ -32,4 +32,5 @@ I love this takable nature of early Macintosh systems. Palm OS is very similar i
 
 Why moan about an app not being to your liking when you can DIY!?
 
-![](https://pbs.twimg.com/media/Exk7A6PW8AMkIzW.png)
+![PNG](/images/posts/macintosh-toolbar-resedit-3.png#pixel "Editing the image of a toolbar item in ResEdit")
+{:.tofigure}
