@@ -67,4 +67,4 @@ I apply all changes and they are saved directly into the app data. Launching the
 
 ## Addendum
 
-I figured this out back in 2019 and edited the app on my Sony CLIÉ device. Recently I've been using [CloudPilot](https://cloudpilot-emu.github.io) to run Palm OS apps and games on my iPhone. So to play Tenohira Hanafuda Kai I had to either find the old modified game file, or do it all over again from scratch and document it.
+I figured this out back in 2019 and edited the app on my Sony CLIÉ device. Recently I've been using [CloudPilot](https://cloudpilot-emu.github.io) to run Palm OS apps and games on my iPhone. So to play Tenohira Hanafuda Kai I had to either find the old modified game file, or do it all over again from scratch. I chose to do it again to test my memory and so I could document the process.
