@@ -53,9 +53,6 @@ Interestingly the form is dual-purpose. It contains the continue/stop buttons (a
 
 We can easily change the order of the controls on the form by cutting and pasting, so we do that with the List and it now comes below the button in the order, will be drawn last on the screen and presumably the things drawn last are the first to capture interactions? Let's see.
 
-![GIF](/images/posts/hana-bird.gif#pixel "https://youtube.com/shorts/yRLfHoHkjTY")
-{:.tofigure}
-
 <iframe width="667" height="375" src="https://www.youtube.com/embed/yRLfHoHkjTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Result
