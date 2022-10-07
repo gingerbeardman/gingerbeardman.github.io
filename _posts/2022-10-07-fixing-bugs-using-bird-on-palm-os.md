@@ -3,6 +3,7 @@ layout: post
 tags:
 - palmos
 - hanafuda
+- hacking
 nouns:
   - Palm OS
   - Macintosh
