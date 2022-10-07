@@ -32,9 +32,9 @@ But, it has one serious problem: sometimes it will forfeit the current round whe
 
 ## Analysis
 
-After repeated play I figured out that the game would continue as intended only if you pressed the right half of the こいこい (koi-koi) button.
+After repeated play I figured out that the game would continue as intended only if I pressed the right half of the こいこい (koi-koi) button.
 
-But if you pressed the left half of the button it would not behave as expected and forfeit the round. More on that later. 
+But if I pressed the left half of the button it would not behave as expected and forfeit the round. More on that later. 
 
 ![PNG](/images/posts/hana-problem.png#pixel "The problem happens when we press the left side of the こいこい button")
 {:.tofigure}
@@ -58,7 +58,7 @@ We can easily change the order of the controls on the form by cutting and pastin
 
 ## Result
 
-We apply all changes and the data is saved. Launch the game again and play enough to trigger another continue/stop prompt. We tap the left half of the button and the game continues as expected. No forfeit! Our bug is solved.
+I apply all changes and they are saved directly into the app data. Launching the game again and playing enough to trigger another continue/end prompt, I tap the left half of the button and... the game continues as expected. There is no strange forfeit. The bug is solved!
 
 ![GIF](/images/posts/hana-fixed.gif#pixel "https://youtube.com/shorts/3faHHcuSQv4")
 {:.tofigure}
