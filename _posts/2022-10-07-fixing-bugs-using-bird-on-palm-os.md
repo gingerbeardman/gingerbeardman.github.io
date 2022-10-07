@@ -63,4 +63,6 @@ We apply all changes and the data is saved. Launch the game again and play enoug
 ![GIF](/images/posts/hana-fixed.gif#pixel "https://youtube.com/shorts/3faHHcuSQv4")
 {:.tofigure}
 
-Note: I figured this out back in 2019 and edited the app on my Sony CLIÉ device. Recently I've been using [CloudPilot](https://cloudpilot-emu.github.io) to run Palm OS apps and games on my iPhone. So to play Tenohira Hanafuda Kai I had to either find the old modified game file, or do it all over again from scratch and document it.
+## Addendum
+
+I figured this out back in 2019 and edited the app on my Sony CLIÉ device. Recently I've been using [CloudPilot](https://cloudpilot-emu.github.io) to run Palm OS apps and games on my iPhone. So to play Tenohira Hanafuda Kai I had to either find the old modified game file, or do it all over again from scratch and document it.
