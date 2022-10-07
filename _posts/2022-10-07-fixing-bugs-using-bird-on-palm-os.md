@@ -19,7 +19,7 @@ comments: https://twitter.com/gingerbeardman/status/1578440221871329280
 
 But, it has one serious problem: sometimes it will forfeit the current round when you choose to continue!
 
-![GIF](/images/posts/hana-buggy.gif#pixel "https://youtube.com/shorts/0fZefFpGd5Y")
+![GIF](/images/posts/hana-buggy.gif#pixel "[YouTube](https://youtube.com/shorts/0fZefFpGd5Y")
 {:.tofigure}
 
 ## Analysis
@@ -28,7 +28,7 @@ After repeated play I figured out that the game would continue as intended only 
 
 But if you pressed the left half of the button it would not behave as expected and forfeit the round. More on that later. 
 
-![PNG](/images/posts/hana-problem.png#pixel "")
+![PNG](/images/posts/hana-problem.png#pixel "The problem happens when we press the left side of the こいこい button")
 {:.tofigure}
 
 ## The Plan
