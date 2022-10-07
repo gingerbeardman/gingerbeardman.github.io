@@ -19,7 +19,7 @@ comments: https://twitter.com/gingerbeardman/status/1578440221871329280
 
 But, it has one serious problem: sometimes it will forfeit the current round when you choose to continue!
 
-![GIF](/images/posts/hana-buggy.gif#pixel "")
+![GIF](/images/posts/hana-buggy.gif#pixel "https://youtube.com/shorts/0fZefFpGd5Y")
 {:.tofigure}
 
 ## Analysis
@@ -45,12 +45,12 @@ Interestingly the form is dual-purpose. It contains the continue/stop buttons (a
 
 We can easily change the order of the controls on the form by cutting and pasting, so we do that with the List and it now comes below the button in the order, will be drawn last on the screen and presumably the things drawn last are the first to capture interactions? Let's see.
 
-![GIF](/images/posts/hana-bird.gif#pixel "")
+![GIF](/images/posts/hana-bird.gif#pixel "https://youtube.com/shorts/yRLfHoHkjTY")
 {:.tofigure}
 
 ## Result
 
 We apply all changes and the data is saved. Launch the game again and play enough to trigger another continue/stop prompt. We tap the left half of the button and the game continues as expected. No forfeit! Our bug is solved.
 
-![GIF](/images/posts/hana-fixed.gif#pixel "")
+![GIF](/images/posts/hana-fixed.gif#pixel "https://youtube.com/shorts/3faHHcuSQv4")
 {:.tofigure}
