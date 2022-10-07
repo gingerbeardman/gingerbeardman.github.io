@@ -11,7 +11,7 @@ comments: https://twitter.com/gingerbeardman/status/1578440221871329280
 
 ---
 
-![JPG](/images/posts/hana-pixels.jpg "")
+![JPG](/images/posts/hana-pixels.jpg "Tenohira Hanafuda on Palm OS")
 {:.tofigure}
 
 
