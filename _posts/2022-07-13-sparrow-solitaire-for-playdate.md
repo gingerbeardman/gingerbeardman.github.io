@@ -7,6 +7,7 @@ tags:
 - solitaire
 nouns:
 - Sparrow Solitaire
+featured: true
 comments: https://twitter.com/gingerbeardman/status/1547342592198774787
 
 ---
