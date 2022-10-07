@@ -16,6 +16,7 @@ nouns:
   - Quartus
   - Philippe Guillot
 title: Fixing bugs using Bird on Palm OS
+featured: true
 comments: https://twitter.com/gingerbeardman/status/1578440221871329280
 
 ---
