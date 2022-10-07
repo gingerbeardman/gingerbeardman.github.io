@@ -60,7 +60,7 @@ We can easily change the order of the controls on the form by cutting and pastin
 
 ## Result
 
-I apply all changes and they are saved directly into the app data. Launching the game again and playing enough to trigger another continue/end prompt, I tap the left half of the button and... the game continues as expected. There is no strange forfeit. The bug is solved!
+I apply all changes and they are saved directly into the app data. Launching the game again and playing enough to trigger another continue/stop prompt, I tap the left half of the button and... the game continues as expected. There is no strange forfeit. The bug is solved!
 
 ![GIF](/images/posts/hana-fixed.gif#pixel "https://youtube.com/shorts/3faHHcuSQv4")
 {:.tofigure}
