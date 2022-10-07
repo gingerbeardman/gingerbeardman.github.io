@@ -56,6 +56,8 @@ We can easily change the order of the controls on the form by cutting and pastin
 ![GIF](/images/posts/hana-bird.gif#pixel "https://youtube.com/shorts/yRLfHoHkjTY")
 {:.tofigure}
 
+<iframe width="667" height="375" src="https://www.youtube.com/embed/yRLfHoHkjTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Result
 
 I apply all changes and they are saved directly into the app data. Launching the game again and playing enough to trigger another continue/end prompt, I tap the left half of the button and... the game continues as expected. There is no strange forfeit. The bug is solved!
