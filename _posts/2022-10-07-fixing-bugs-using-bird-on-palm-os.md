@@ -53,18 +53,18 @@ So I launched Bird and loaded up the contents of Tenohira Hanafuda Kai, and went
 
 Interestingly the form is dual-purpose. It contains the continue/stop buttons (a List of two items) and also a single button (了解; confirm) used on a different prompt. It's overlaid on the continue button in a close enough position to be suspect. Perhaps it's moved slightly at run time?
 
-We can easily change the order of the controls on the form by cutting and pasting, so we do that with the List and it now comes below the button in the order, will be drawn last on the screen and presumably the things drawn last are the first to capture interactions? Let's see.
+We can easily change the order of the controls on the form by cutting and pasting, so we do that with the List and it now comes below the button in the order and will be drawn last on the screen. Presumably the things drawn last are the first to capture interactions? Let's see.
 
 ![GIF](/images/posts/hana-bird.gif#pixel "https://youtube.com/shorts/yRLfHoHkjTY")
 {:.tofigure}
 
 ## Result
 
-I apply all changes and they are saved directly into the app data. Launching the game again and playing enough to trigger another continue/end prompt, I tap the left half of the button and... the game continues as expected. There is no strange forfeit. The bug is solved!
+I apply all changes and they are saved directly into the app data. Launching the game again and playing enough to trigger another continue/stop prompt, I tap the left half of the button and... the game continues as expected. There is no strange forfeit. The problem has been solved!
 
 ![GIF](/images/posts/hana-fixed.gif#pixel "https://youtube.com/shorts/3faHHcuSQv4")
 {:.tofigure}
 
 ## Addendum
 
-I figured this out back in 2019 and edited the app on my Sony CLIÉ device. Recently I've been using [CloudPilot](https://cloudpilot-emu.github.io) to run Palm OS apps and games on my iPhone. So to play Tenohira Hanafuda Kai I had to either find the old modified game file, or do it all over again from scratch and document it.
+I figured this out back in 2019 and edited the app on my Sony CLIÉ device. Recently I've been using [CloudPilot](https://cloudpilot-emu.github.io) to run Palm OS apps and games on my iPhone. So to play Tenohira Hanafuda Kai I had to either find the old modified game file, or do it all over again from scratch. I chose to do it again to test my memory and so I could document the process.
