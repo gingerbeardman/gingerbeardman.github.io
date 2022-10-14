@@ -7,6 +7,7 @@ tags:
 - hanafuda
 nouns:
 - HyperCard
+- Hanafuda Stack
 - Hanafuda
 - Macintosh
 - MacPower Monthly
