@@ -38,6 +38,10 @@ You can play it in your web browser right now at: [https://archive.org/details/h
 
 Alternatively, you can [download it](https://macintoshgarden.org/games/hanafuda-stack) to play on your real Macintosh or in an emulator.
 
+## Version history
+
+This page refers to version 0.6. However, the DOS game HP-華時雨 (HP-Hana Shigure) from 1997 says that it reuses, with permission, the card images from version 0.8 of Hanafuda Stack.
+
 ## Hanafuda Resources
 
 If you're into Hanafuda, be sure to check out the [Hanafuda Discord](https://discord.io/hanafuda) and [Fuda Wiki](https://www.fudawiki.org/) where a fantastic group of people from around the world are building a comprehensive resource for these traditional Japanese flower cards. There are [rules for a multitude of different games](https://www.fudawiki.org/en/hanafuda/games) (not just Koi-Koi), a list of over 300 [Hanafuda video games](https://www.fudawiki.org/en/hanafuda/video-games) and so much more. Come on!
