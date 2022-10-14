@@ -12,6 +12,7 @@ nouns:
 - Macintosh
 - MacPower Monthly
 - Miyuki Oshige Award
+featured: true
 comments: https://twitter.com/gingerbeardman/status/1454604195860987905
 
 ---
