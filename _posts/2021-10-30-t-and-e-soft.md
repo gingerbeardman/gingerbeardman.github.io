@@ -10,7 +10,6 @@ nouns:
 - Pebble Beach no Hatou
 - Waialae no Kiseki
 - Devil's Course
-featured: true
 comments: https://twitter.com/gingerbeardman/status/1454477438424080397
 
 ---
