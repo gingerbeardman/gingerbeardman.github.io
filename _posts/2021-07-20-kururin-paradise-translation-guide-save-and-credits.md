@@ -3,6 +3,9 @@ layout: post
 title: 'Kururin Paradise: Translation Guide, Save & Credits'
 tags:
 - guide
+- translation
+- save
+- credits
 - gba
 nouns:
 - Kururin Paradise
