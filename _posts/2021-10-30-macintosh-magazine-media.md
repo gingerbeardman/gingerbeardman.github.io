@@ -6,6 +6,7 @@ layout: post
 - mmm
 nouns:
 - Macintosh
+featured: true
 comments: https://twitter.com/gingerbeardman/status/1454500776181702658
 
 ---
