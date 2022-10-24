@@ -107,4 +107,4 @@ All Rights, including the copyrights of Game, Scenario, Music and Program reserv
 
 ## Postscript
 
-Wii over VGA at 640x480 is totally amazing if you've not tried it. If you've always thought that the Wii's video output could never be great I implore you to try it! Check out how I do it:  [https://www.retrogameboards.com/t/using-hdmi-to-vga-adapters-on-modern-consoles/1826/14?u=matt](https://www.retrogameboards.com/t/using-hdmi-to-vga-adapters-on-modern-consoles/1826/14?u=matt)
+Wii over VGA at 640x480 is totally amazing if you've not tried it. If you've always thought that the Wii's video output could never be great I implore you to try it! Check out how I do it [over at Retro Game Boards](https://www.retrogameboards.com/t/using-hdmi-to-vga-adapters-on-modern-consoles/1826/14?u=matt).
