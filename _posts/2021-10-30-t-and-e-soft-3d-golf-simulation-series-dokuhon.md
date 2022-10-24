@@ -14,9 +14,6 @@ comments: https://twitter.com/gingerbeardman/status/1454477438424080397
 
 ---
 
-[![JPG](/images/posts/t-and-e-golf-dokuhon.jpg "T&E SOFT 3D Golf Simulation Series Dokuhon SFC")](https://archive.org/details/t-e-soft-3d-golf-simulation-series-dokuhon-sfc)
-{:.tofigure}
-
 This is a Special Appendix that came with the 1993-04-30 issue of Japanese magazine Theスーパーファミコン (The Super Famicom)
 
 This guide book shows tips for all 18 holes on each the four T&E SOFT golf games available on SNES:
@@ -27,3 +24,5 @@ This guide book shows tips for all 18 holes on each the four T&E SOFT golf games
 - Devil's Course
 
 These courses were also featured in games on other platforms so the guide has much broader usefulness.
+
+[![JPG](/images/posts/t-and-e-golf-dokuhon.jpg "T&E SOFT 3D Golf Simulation Series Dokuhon SFC")](https://archive.org/details/t-e-soft-3d-golf-simulation-series-dokuhon-sfc)
