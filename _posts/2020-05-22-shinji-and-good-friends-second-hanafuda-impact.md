@@ -2,15 +2,17 @@
 layout: post
 title: 'Shinji and Good Friends: Second Hanafuda Impact (1999)'
 tags:
-- 
+- hanafuda
+- hacking
 nouns:
-- 
+- Gainax
+- 'Shinji and Good Friends: Second Hanafuda Impact'
 carousel: shinji
 comments: https://twitter.com/gingerbeardman/status/1263885189211709447
 
 ---
 
-You can unlock wallpapers though beating each of the characters in the game. 
+Shinji and Good Friends: Second Hanafuda Impact is a hanafuda video game for Windows, released by Gainax in 1999.You can unlock wallpapers though beating each of the characters in the game. 
 
 Just for fun I reverse engineered and edited the save game to unlock all the wallpapers. The save game data is not very big so I decided on a brute force approach: I beat one character to get enough save data and then set about changing and reloading it to figure out the location of everything else.
 
