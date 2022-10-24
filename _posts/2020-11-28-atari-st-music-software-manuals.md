@@ -11,7 +11,7 @@ nouns:
 - Notator SL
 - Creator SL
 - Internet Archive
-comments: https://twitter.com/gingerbeardman/status/1332759398528200704
+comments: https://twitter.com/gingerbeardman/status/1329836344999342081
 
 ---
 
