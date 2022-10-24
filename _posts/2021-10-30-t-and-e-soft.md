@@ -14,7 +14,8 @@ comments: https://twitter.com/gingerbeardman/status/1454477438424080397
 
 ---
 
-[https://archive.org/details/t-e-soft-3d-golf-simulation-series-dokuhon-sfc](https://archive.org/details/t-e-soft-3d-golf-simulation-series-dokuhon-sfc)
+[![JPG](/images/posts/t-and-e-golf-dokuhon.jpg "T&E SOFT 3D Golf Simulation Series Dokuhon SFC")](https://archive.org/details/t-e-soft-3d-golf-simulation-series-dokuhon-sfc)
+{:.tofigure}
 
 This is a Special Appendix that came with the 1993-04-30 issue of Japanese magazine Theスーパーファミコン (The Super Famicom)
 
