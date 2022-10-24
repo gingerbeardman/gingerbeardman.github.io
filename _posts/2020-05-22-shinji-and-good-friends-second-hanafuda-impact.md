@@ -4,6 +4,7 @@ title: 'Shinji and Good Friends: Second Hanafuda Impact'
 tags:
 - hanafuda
 - hacking
+- save
 nouns:
 - Gainax
 - 'Shinji and Good Friends: Second Hanafuda Impact'
