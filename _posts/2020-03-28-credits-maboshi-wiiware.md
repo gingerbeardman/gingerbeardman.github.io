@@ -6,6 +6,10 @@ tags:
 - hacking
 nouns:
 - WiiWare
+- MaBoShi
+- Wii Shop Channel
+- Nintendo]
+- Mindware
 comments: https://twitter.com/gingerbeardman/status/1244004430720180228
 
 ---
