@@ -9,7 +9,6 @@ nouns:
 - EPOCH
 - jDownloader
 - DeepL
-comments: https://twitter.com/gingerbeardman/status/1454477438424080397
 
 ---
 
