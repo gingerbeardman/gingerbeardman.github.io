@@ -1,6 +1,6 @@
 ---
 layout: post
-  title: I'm preserving vintage Macintosh magazine media
+  title: "I'm preserving vintage Macintosh magazine media"
   tags:
 - macintosh
 - mmm
