@@ -22,7 +22,7 @@ Anyway, these wallpapers are probably new material for most Evangelion fans!
 
 Whilst doing this hacking, I found a debug mode (dialog/speech tester) which is now documented at [The Cutting Room Floor](https://tcrf.net/Shinji_and_Good_Friends:_Second_Hanafuda_Impact.
 
-{% include carousel.html height="82" unit="%" duration="7" %}
+{% include carousel.html height="75" unit="%" duration="7" %}
 
 ![PNG](/images/posts/shinji-new.png "New/empty save game file contents")
 {:.tofigure}
