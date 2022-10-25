@@ -10,7 +10,7 @@
 # Site settings
 title:       '⌘I'
 email:       ''
-description: 'Get Info'
+description: 'Get&nbsp;Info'
 author:      'Matt Sephton'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://blog.gingerbeardman.com' # The base hostname & protocol for your site
