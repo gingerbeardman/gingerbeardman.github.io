@@ -12,7 +12,7 @@ nouns:
 - X68000
 - SNES
 - 3DO
-comments: https://twitter.com/gingerbeardman/status/1225935867803512832
+comments: https://twitter.com/gingerbeardman/status/1223588853673549828
 
 ---
 
