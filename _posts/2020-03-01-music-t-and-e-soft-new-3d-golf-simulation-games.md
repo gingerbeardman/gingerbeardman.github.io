@@ -5,6 +5,7 @@ tags:
 - preservation
 - golf
 - music
+- patreon
 nouns:
 - T&E SOFT
 - New 3D Golf Simulation

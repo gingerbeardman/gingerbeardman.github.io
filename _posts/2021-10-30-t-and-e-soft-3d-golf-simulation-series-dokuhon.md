@@ -4,6 +4,7 @@ title: T&E SOFT 3D Golf Simulation Series Dokuhon (1993/04/30)
 tags:
 - golf
 - scans
+- patreon
 nouns:
 - T&E SOFT
 - Harukanaru Augusta

@@ -4,6 +4,7 @@ title: 'BOSS controller shell for Nintendo Wii'
 tags:
 - wii
 - controllers
+- patreon
 nouns:
 - Nintendo
 - Wii

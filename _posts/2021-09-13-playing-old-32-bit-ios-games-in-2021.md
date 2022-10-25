@@ -3,6 +3,7 @@ layout: post
 title: Playing old 32-bit iOS games in 2021
 tags:
 - ios
+- patreon
 nouns:
 - iPad mini
 - iPhone

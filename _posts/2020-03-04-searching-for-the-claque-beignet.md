@@ -6,6 +6,7 @@ tags:
 - flash
 - history
 - searching
+- patreon
 nouns:
 - The Claque Baignet
 - Raoul Sinier

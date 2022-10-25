@@ -7,6 +7,7 @@ tags:
 - interviews
 - nintendo
 - iwata
+- patreon
 nouns:
 - Iwata Asks
 carousel: ''

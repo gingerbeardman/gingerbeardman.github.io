@@ -3,6 +3,7 @@ layout: post
 title: Two Old Llamasoft iPhone & iPad games
 tags:
 - ios
+- patreon
 nouns:
 - iPad mini
 - iPhone

@@ -4,6 +4,7 @@ title: 'Japanese text support on English Palm OS devices'
 tags:
 - palm
 - japanese
+- patreon
 nouns:
 - Macintosh
 - Palm OS

@@ -4,6 +4,7 @@ title: 'Roly-Polys World Tour (Demo)'
 tags:
 - macintosh
 - mmm
+- patreon
 nouns:
 - Roly-Polys World Tour
 - ローリーポーリーズの世界旅行

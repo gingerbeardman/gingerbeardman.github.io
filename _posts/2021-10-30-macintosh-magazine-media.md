@@ -4,6 +4,7 @@ title: "I'm preserving vintage Macintosh magazine media"
 tags:
 - macintosh
 - mmm
+- patreon
 nouns:
 - Macintosh
 featured: true

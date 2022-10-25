@@ -3,6 +3,7 @@ layout: post
 title: 'Redumping Discs'
 tags:
 - preservation
+- patreon
 nouns:
 - Redump
 - Disc Preservation Project

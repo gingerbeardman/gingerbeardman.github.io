@@ -4,6 +4,7 @@ tags:
 - palmos
 - hanafuda
 - solitaire
+- patreon
 nouns:
   - Palm OS
   - iPhone

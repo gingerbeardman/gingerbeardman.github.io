@@ -5,6 +5,7 @@ tags:
 - preservation
 - 1bit
 - macintosh
+- patreon
 nouns:
 - Samurai Mech
 carousel: ''

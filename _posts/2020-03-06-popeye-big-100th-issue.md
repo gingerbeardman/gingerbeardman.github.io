@@ -5,6 +5,7 @@ tags:
 - scans
 - japanese
 - hanafuda
+- patreon
 nouns:
 - POPEYE
 - Magazine for City Boys

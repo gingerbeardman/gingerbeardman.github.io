@@ -7,6 +7,7 @@ tags:
 - save
 - credits
 - gba
+- patreon
 nouns:
 - Kururin Paradise
 - Kuru Kuru Kururin

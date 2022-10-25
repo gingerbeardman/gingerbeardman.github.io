@@ -5,6 +5,7 @@ tags:
 - piece
 - playdate
 - hardware
+- patreon
 nouns:
 - P/ECE
 - Aquaplus

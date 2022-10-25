@@ -5,6 +5,7 @@ tags:
 - scanning
 - preservation
 - book
+- patreon
 nouns:
 - BeOS
 carousel: ''

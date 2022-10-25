@@ -1,7 +1,12 @@
 ---
 layout: post
 title: 'Replacing bitmap graphics in a PlayStation game'
-tags: [hack, mod, playstation, hanafuda]
+tags:
+- hack
+- mod
+- playstation
+- hanafuda
+- patreon
 nouns: [Koikoi Komachi, Tim2View, PlayStation, Youkai Hana Asobi, Adobe Photoshop, Hanafuda, Koi-Koi]
 comments:
 

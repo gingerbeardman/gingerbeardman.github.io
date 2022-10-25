@@ -5,6 +5,7 @@ tags:
 - hanafuda
 - hacking
 - save
+- patreon
 nouns:
 - Gainax
 - 'Shinji and Good Friends: Second Hanafuda Impact'

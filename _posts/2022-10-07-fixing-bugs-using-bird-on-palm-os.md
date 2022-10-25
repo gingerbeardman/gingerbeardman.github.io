@@ -4,6 +4,7 @@ tags:
 - palmos
 - hanafuda
 - hacking
+- patreon
 nouns:
   - Palm OS
   - Macintosh

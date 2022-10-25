@@ -4,6 +4,7 @@ title: Tomoya Ikeda - Macintosh Artist
 tags:
 - macintosh
 - artist
+- patreon
 nouns:
 - After Dark
 - Macintosh

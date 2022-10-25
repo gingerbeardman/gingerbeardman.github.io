@@ -4,6 +4,7 @@ title: 'Mouse-controlled Super Mario Kart clone for classic Macintosh'
 tags:
 - macintosh
 - hypercard
+- patreon
 nouns:
 - HyperCard
 - Super Mario Kart

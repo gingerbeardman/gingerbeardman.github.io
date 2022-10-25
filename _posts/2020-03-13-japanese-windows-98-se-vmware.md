@@ -4,6 +4,7 @@ title: 'Japanese Windows 98 SE (VMWare)'
 tags:
 - windows
 - japanese
+- patreon
 nouns:
 - WiiWare
 comments: https://twitter.com/gingerbeardman/status/1244004430720180228

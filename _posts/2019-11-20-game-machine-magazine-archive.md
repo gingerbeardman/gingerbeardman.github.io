@@ -4,6 +4,7 @@ title: '"Game Machine" magazine archive'
 tags:
 - scans
 - japanese
+- patreon
 nouns:
 - Game Machine
 - ONION Software

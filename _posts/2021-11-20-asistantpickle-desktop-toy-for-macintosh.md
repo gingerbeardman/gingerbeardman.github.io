@@ -4,6 +4,7 @@ title: 'AsistantPickle desktop toy for Macintosh'
 tags:
 - macintosh
 - mmm
+- patreon
 nouns:
 - AsistantPickle
 - Thoru Yamamoto

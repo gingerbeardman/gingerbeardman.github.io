@@ -5,6 +5,7 @@ tags:
 - macintosh
 - hypercard
 - hanafuda
+- patreon
 nouns:
 - HyperCard
 - Hanafuda Stack

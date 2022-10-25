@@ -4,6 +4,7 @@ title: "PC Engine Fanatics, Console Ma'zine, Electric Brain & Games Amusement Pl
 tags:
 - scans
 - preservation
+- patreon
 nouns:
 - PC Engine Fanatics
 - Console Ma'zine

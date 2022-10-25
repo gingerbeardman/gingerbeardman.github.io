@@ -5,6 +5,7 @@ tags:
 - faqs
 - guides
 - translation
+- patreon
 nouns:
 - GameFAQs
 comments: https://twitter.com/gingerbeardman/status/1131305169340256257

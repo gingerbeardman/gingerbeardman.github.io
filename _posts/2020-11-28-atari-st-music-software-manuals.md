@@ -4,6 +4,7 @@ title: 'Atari ST: Music Software Manuals'
 tags:
 - scans
 - preservation
+- patreon
 nouns:
 - Atari ST
 - Cubeat

@@ -4,6 +4,7 @@ title: Working with classic Macintosh text encodings in the age of Unicode
 tags:
 - macintosh
 - marchintosh
+- patreon
 nouns:
 - DiskCatalogMaker
 - HFSExplorer

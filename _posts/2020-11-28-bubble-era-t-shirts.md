@@ -5,6 +5,7 @@ tags:
 - logos
 - japanese
 - tshirts
+- patreon
 nouns:
 - Bubble Era
 carousel: ''

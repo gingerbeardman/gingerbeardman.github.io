@@ -4,6 +4,7 @@ title: EPOCH Instruction Manuals
 tags:
 - scans
 - preservation
+- patreon
 nouns:
 - Internet Archive
 - EPOCH

@@ -4,6 +4,7 @@ title: 'Credits: MaBoShi (WiiWare)'
 tags:
 - credits
 - hacking
+- patreon
 nouns:
 - WiiWare
 - MaBoShi

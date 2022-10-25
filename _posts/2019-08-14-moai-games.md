@@ -5,6 +5,7 @@ tags:
 - videogames
 - moai
 - history
+- patreon
 nouns:
 - Moai
 carousel: ''
