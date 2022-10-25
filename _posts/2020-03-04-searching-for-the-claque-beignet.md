@@ -4,8 +4,11 @@ title: 'Searching for: The Claque Beignet'
 tags:
 - preservation
 - flash
+- history
+- searching
 nouns:
 - The Claque Baignet
+- Raoul Sinier
 comments: https://twitter.com/gingerbeardman/status/1235585813137756161
 
 ---
