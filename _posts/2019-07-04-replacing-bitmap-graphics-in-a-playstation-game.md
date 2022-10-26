@@ -8,7 +8,7 @@ tags:
 - hanafuda
 - patreon
 nouns: [Koikoi Komachi, Tim2View, PlayStation, Youkai Hana Asobi, Adobe Photoshop, Hanafuda, Koi-Koi]
-comments:
+comments: https://twitter.com/gingerbeardman/status/1146859337169739777
 
 ---
 > A version of this article was [originally posted on my Patreon](https://www.patreon.com/posts/28136581)
