@@ -19,6 +19,7 @@ nouns:
 - Columns
 - Borkov
 - Triangle Magic
+featured: true
 comments: https://twitter.com/gingerbeardman/status/1121001887183056897
 
 ---
