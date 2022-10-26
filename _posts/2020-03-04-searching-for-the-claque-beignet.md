@@ -10,7 +10,7 @@ tags:
 nouns:
 - The Claque Baignet
 - Raoul Sinier
-comments: https://twitter.com/gingerbeardman/status/1235585813137756161
+comments: https://twitter.com/gingerbeardman/status/1235179482413178880
 
 ---
 

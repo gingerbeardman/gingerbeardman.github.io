@@ -9,7 +9,7 @@ nouns:
 - Game Machine
 - ONION Software
 - Amusement Press Inc.
-comments: https://twitter.com/gingerbeardman/status/1235585813137756161
+comments: https://twitter.com/gingerbeardman/status/1197171402245386240
 
 ---
 

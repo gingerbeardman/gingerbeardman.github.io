@@ -7,7 +7,6 @@ tags:
 - patreon
 nouns:
 - WiiWare
-comments: https://twitter.com/gingerbeardman/status/1244004430720180228
 
 ---
 
