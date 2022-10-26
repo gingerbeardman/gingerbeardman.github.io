@@ -9,11 +9,17 @@ tags:
 nouns:
 - Smilebit
 - SEGA
+- Sega
+- COMPILE
 - PalmSource Japan Forum 2002
 - PalmSource Japan Forum
 - Palm OS
+- Sony CLIÉ
 - GC10
-comments: https://twitter.com/gingerbeardman/status/1131305169340256257
+- Columns
+- Borkov
+- Triangle Magic
+comments: https://twitter.com/gingerbeardman/status/1121001887183056897
 
 ---
 
