@@ -8,8 +8,8 @@ tags:
 - patreon
 nouns:
 - Moai
-carousel: ''
-featured: false
+featured: true
+comments: https://twitter.com/gimmemoai
 
 ---
 I created a website mashing up a bunch of things that I love:
