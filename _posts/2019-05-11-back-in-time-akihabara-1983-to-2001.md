@@ -32,7 +32,7 @@ Note: in the magazine the map is followed by 4 pages of listings that refer to t
 
 ### 1996
 
-Whilst searching my ever-growing archive of [Japanese Macintosh Media](https://www.gingerbeardman.com/mmm/) I found  an archived copy of the [Akiba organisation](https://www.akiba.or.jp) website on the Nikkei MAC CD Vol. 09, from 1997-02-15.
+Whilst searching my ever-growing archive of [Japanese Macintosh Media](https://www.gingerbeardman.com/mmm/) I found  an archived copy of the [Akiba organisation](https://www.akiba.or.jp) website on the Nikkei MAC CD Vol. 9, from 1997-02-15.
 
 「ボーナスは大切にネ！!　秋葉原を上手に歩こう」 ("Take care of your bonus! Walk well in Akihabara.") is a copy of the Akiba website dated June 1996, some four months before [the earliest version in the Wayback Machine](https://web.archive.org/web/19961029015522/http://www.akiba.or.jp/). A lot of the files that comprise the website are dated 1993, which I assume is when the site was first created. This sort of hand-built site really brings back some fond memories of the websites I built in the mid-90s: image maps, optimised GIFs, no content management system. Ah! The good old days.
 
