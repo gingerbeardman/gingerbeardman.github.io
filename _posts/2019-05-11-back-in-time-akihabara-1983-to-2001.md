@@ -86,7 +86,7 @@ For 10 years, an interactive online map was published by Impress Corporation und
 
 ### More?
 
-I'll be sure to add to this post if any other interesting vintage maps of Akihbara come to light. Especially for the period between 1983 and 1998.
+I'll be sure to add to this post if any other interesting vintage maps of Akihbara come to light. Especially for the period between 1983 and 1996.
 
 - [akibamapti.fp7.zip](https://www.patreon.com/file?h=26779221&i=3777215)
 - [akibaweb2kr1.zip](https://www.patreon.com/file?h=26779221&i=3777281)
