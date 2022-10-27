@@ -6,7 +6,9 @@ tags:
 - japan
 - patreon
 nouns:
-- GameFAQs
+- Nikkei MAC
+- Akihabara
+- Akiba
 comments: https://twitter.com/gingerbeardman/status/1127347071042953218
 
 ---
@@ -26,6 +28,14 @@ Note: in the magazine the map is followed by 4 pages of listings that refer to t
 *   [https://archive.org/details/POPCOM198305/page/n73](https://archive.org/details/POPCOM198305/page/n73)
 
 ![JPG](/images/posts/akihabara-1983.jpg)
+
+### 1993–6
+
+Whilst searching my ever-growing archive of [Japanese Macintosh Media](https://www.gingerbeardman.com/mmm/) I found  an archived copy of the [Akiba organisation](https://www.akiba.or.jp) website on the Nikkei MAC CD Vol. 09, 1997-02-15. Billed as 「ボーナスは大切にネ！!　秋葉原を上手に歩こう」 ("Take care of your bonus!　Walk well in Akihabara.") it's a copy of the website dated June 1996, some four months before [the oldest copy in the Wayback Machine](https://web.archive.org/web/19961029015522/http://www.akiba.or.jp/). A lot of the files that comprise the website are dated 1993, which I assume is when the site was first launched. This sort of hand-built site really brings back some fond memories of the websites I built in the mid-90s.
+
+The 250+ maps it contains are hyperlinked as expected given its website origin. I've had most luck viewing them in Netscape Navigator 3.01 (ja). The whole thing is quite comprehensive: maps are split into geographical zones and are presented down to a building floor level. There are also alternative lists by category and product type. A total of 221 stores, of which 68 are member stores and receive more in-depth coverage with their own page and period photos.
+
+![PNG](/images/posts/akihabara-1996.png)
 
 ### 1998
 
