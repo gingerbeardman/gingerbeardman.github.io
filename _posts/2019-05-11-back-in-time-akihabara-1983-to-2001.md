@@ -20,6 +20,13 @@ Recently, whilst browsing an old issue of [POPCOM](https://ja.wikipedia.org/wiki
 
 I shared the map on Twitter, where it was well received, so I decided to go into this a bit more deeply here. 
 
+### 1982
+
+This is the earliest map so far, discovered in a [scan of Technopolis magazine on the internet archive dated November 1982](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up?view=theater). Given its illustrated nature the map is somewhat stylised but the landmarks are easily recognised.
+
+![Akihabara, November 1982](/images/posts/akihabara-1982.jpg)
+
+
 ### 1983
 
 The version of the [POPCOM 1983-05](https://archive.org/details/POPCOM198305/page/n73) map shown below is a 12.5 megapixel high-resolution version that is much easier to read, made by stitching together the two highest resolution scans of these pages. Download _akiba-1983_ below.
@@ -28,7 +35,12 @@ Note: in the magazine the map is followed by 4 pages of listings that refer to t
 
 *   [https://archive.org/details/POPCOM198305/page/n73](https://archive.org/details/POPCOM198305/page/n73)
 
-![JPG](/images/posts/akihabara-1983.jpg)
+![Akihabara, May 1983](/images/posts/akihabara-1983.jpg)
+
+A slightly later hand-drawn map is featured in [LOGiN 1983 No. 11](https://archive.org/details/login-november-1983/page/n11/mode/2up?view=theater) in an Shibuya-focused edition of it's ShopNews column.
+
+![Akihabara, November 1983](/images/posts/akihabara-1983-november.jpg)
+
 
 ### 1996
 
