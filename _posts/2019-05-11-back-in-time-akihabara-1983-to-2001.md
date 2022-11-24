@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Back In Time: Akihabara (1983–2001)'
+title: 'Back In Time: Akihabara (1982–2001)'
 tags:
 - history
 - japan
