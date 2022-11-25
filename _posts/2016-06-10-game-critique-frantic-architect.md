@@ -5,6 +5,7 @@ tags:
 - videogames
 - critique
 - gamedev
+- medium
 nouns:
 comments: 
 
