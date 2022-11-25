@@ -10,9 +10,6 @@ comments:
 
 ---
 
-Game Critique: Hill Racer 2
-===========================
-
 _From time to time I’ll be posting critique of video games in this way. It’s meant as constrictive criticsm in the nicest possible way. It also goes to show the type of feedback I give to developers when asked to test or review their games._
 
 Recently I’ve been playing a fair bit of [Hill Racer 2](https://itunes.apple.com/gb/app/hill-racer-2-extreme-speed/id946433365?mt=8) on my Apple TV. It’s kind of like [Tiny Wings](https://itunes.apple.com/gb/app/tiny-wings/id417817520?mt=8), but with cars. Right up my street! Check it out:
