@@ -6,7 +6,7 @@
 <body class="{% if page.tags contains 'piece' %}piece {% elsif page.tags contains 'playdate' or page.tags contains 'dailydriver' %}playdate {% elsif page.tags contains 'macintosh' or page.tags contains 'system7' %}macintosh {% endif %}">
 
   <div class='js-off-canvas-container c-off-canvas-container'>
-    {% include_cached header.html sdescription=site.description sbaseurl=site.baseurl stitle=site.title shomepage=site.homepage sauthor=site.author %}
+    {% include_cached header.html sdescription=site.description sbaseurl=site.baseurl stitle=site.title htmltitle=site.htmltitle shomepage=site.homepage sauthor=site.author %}
 
     {{ content }}
 
