@@ -24,8 +24,8 @@ And here's the original version of "Ride on Time", released in Italy by the _rea
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R3aW9kkfvWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## The Original Sample
+The original Italian version of "Ride on Time" can be found today because the samples of the Salsoul Records classic, [Loleatta Holloway's "Love Sensation"](https://www.youtube.com/watch?v=ddsO36srle0), were eventually (finally!) cleared in 2018!
 
-This can be found today because the samples of the Salsoul Records classic, [Loleatta Holloway's "Love Sensation"](https://www.youtube.com/watch?v=ddsO36srle0), were eventually (finally!) cleared in 2018!
+## The Sample
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ddsO36srle0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
