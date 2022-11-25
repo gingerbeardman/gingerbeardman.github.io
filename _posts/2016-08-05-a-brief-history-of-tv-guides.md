@@ -7,7 +7,7 @@ tags:
 - ux
 - medium
 nouns:
-comments: https://twitter.com/gingerbeardman/status/755180722059636736
+comments: 
 
 ---
 
