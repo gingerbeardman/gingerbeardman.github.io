@@ -22,7 +22,8 @@ Merchant of Venus (1982)
 
 The oldest space trading game I know of, this took the form of a menu driven interface where you could buy your first ship and then transport and trade cargo at a number of different spaceports. Very much a resource management game, but with manual landings akin to [Lunar Lander (1979)](http://www.mobygames.com/game/arcade/lunar-lander__) that were drawn on screen using groups and combinations of letters from the character set. You can [play _Merchant of Venus_ online now](http://www.zx81stuff.org.uk/zx81/emulate.php?track=MerchantOfVenus.tzx.zip%400&title=Merchant+of+Venus) or [read more about it](http://www.mobygames.com/game/merchant-of-venus).
 
-![](https://miro.medium.com/max/1400/1*_LWM7U4tMEuqhXuj-cvJgw.png)
+![](https://miro.medium.com/max/1400/1*_LWM7U4tMEuqhXuj-cvJgw.png "Merchant of Venus: choosing your ship")
+{:.tofigure}
 
 
 Elite (1984)
@@ -34,7 +35,8 @@ But there was no landing on the surface of planets. Also, somewhat bizarrely, th
 
 [Read more about the game](http://www.mobygames.com/game/bbc-micro_/elite).
 
-![](https://miro.medium.com/max/1400/1*IZJDEtHnxtQkbdXPR2sQog.png)
+![](https://miro.medium.com/max/1400/1*IZJDEtHnxtQkbdXPR2sQog.png "Elite: attempting to dock")
+{:.tofigure}
 
 
 Explorer (1986)
@@ -44,9 +46,10 @@ We now come to a game that allows exploration on land, thanks to its scenario of
 
 The graphics were quite impressive for the time, though the fact you’re on one planet was a cunning way to get around the limitations of the procedural generation and the similarities between screens of the various land types. Still worth playing.
 
-![](https://miro.medium.com/max/1400/1*wrpLsl4j7qYehDweLuPrFQ.png)
-
 [Read more about the game](http://www.mobygames.com/game/zx-spectrum/explorer).
+
+![](https://miro.medium.com/max/1400/1*wrpLsl4j7qYehDweLuPrFQ.png "Explorer: a procedurally generated planet surface")
+{:.tofigure}
 
 
 Starflight (1986)
@@ -56,7 +59,8 @@ Whilst Explorer was being released in the UK, over in the USA a development stud
 
 It was released on a range of 8-bit and 16-bit home computers, and also the [Sega Genesis/Mega Drive](https://en.wikipedia.org/wiki/Sega_Genesis). Game designer [Greg Johnson](https://en.wikipedia.org/wiki/Greg_Johnson_(game_designer)) went on to co-create the cult [ToeJam & Earl](https://en.wikipedia.org/wiki/ToeJam_%26_Earl) series of games. But, for me, Starflight is his [magnum opus](https://en.wikipedia.org/wiki/Magnum_opus). It’s easy to [play the game (and its sequel) today on PC thanks to a re-release by GOG](https://www.gog.com/game/starflight_1_2)  or [read more about it](http://www.mobygames.com/game/dos/starflight).
 
-![](https://miro.medium.com/max/1400/1*vpjQoieWmqTkk0Oc_u_rgA.png)
+![](https://miro.medium.com/max/1400/1*vpjQoieWmqTkk0Oc_u_rgA.png "Starflight: docking in progress")
+{:.tofigure}
 
 
 Starglider 2 (1988)
@@ -66,7 +70,8 @@ Starglider 2 (1988)
 
 [Read more about the game](http://www.mobygames.com/game/atari-st/starglider-2).
 
-![](https://miro.medium.com/max/1400/1*HGOyD_2zW6YD-Ueh0vdjkg.png)
+![](https://miro.medium.com/max/1400/1*HGOyD_2zW6YD-Ueh0vdjkg.png "Starglider 2: rudely interrupted by some space pirates")
+{:.tofigure}
 
 
 Hunter (1991)
@@ -78,7 +83,8 @@ The game had three modes: _Hunter_ (a long story-based mission), _Missions_ (a s
 
 [Read more about the game](http://www.mobygames.com/game/hunter).
 
-![](https://miro.medium.com/max/1400/1*yipfL0Qm7KNYyMKNxgcUgw.png)
+![](https://miro.medium.com/max/1400/1*yipfL0Qm7KNYyMKNxgcUgw.png "Hunter: you have boarded a bicycle")
+{:.tofigure}
 
 
 No Man’s Sky (2016)

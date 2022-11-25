@@ -50,9 +50,8 @@ The download can be triggered in a few different ways:
 
 This version will hopefully last for a while, but I’ll be keeping my eye on it. [The source code is, of course, on GitHub](https://github.com/gingerbeardman/iStockLargeComp.safariextension).
 
-![](https://miro.medium.com/max/1400/1*LdtRYi2Bv7oBTKTpLtXC-w.jpeg)
-
-iStockLargeComp: notice the new green button
+![](https://miro.medium.com/max/1400/1*LdtRYi2Bv7oBTKTpLtXC-w.jpeg "iStockLargeComp: notice the new green button")
+{:.tofigure}
 
 Final thoughts
 --------------

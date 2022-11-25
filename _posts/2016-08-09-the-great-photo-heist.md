@@ -17,9 +17,9 @@ That may seem like an odd choice, until you realise that the reason for the adve
 
 Many iOS users own devices with limited storage space, either through lack of [housekeeping](https://support.apple.com/en-gb/HT204247) or the inherent limitations of the device they have chosen to buy. These users have a daily battle with alerts that tell them they are out of storage space and they no longer have room to store any photos.
 
-![](https://miro.medium.com/max/1000/1*5PdvNaYPq7IwMPcv0MOGVw.png)
+![](https://miro.medium.com/max/1000/1*5PdvNaYPq7IwMPcv0MOGVw.png "D’oh!")
+{:.tofigure}
 
-D’oh!
 
 Up in the Cloud
 ---------------

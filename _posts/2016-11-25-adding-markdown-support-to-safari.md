@@ -23,11 +23,7 @@ To install: double click the file after it has downloaded.
 Why?
 ----
 
-Recently my buddy and fellow Former Apple Technology Evangelist @
-
-[TDRBY](https://medium.com/u/35a6b2e3855b?source=post_page-----c19f3d74f728--------------------------------)
-
-asked if there was an extension available for rendering Markdown files in Safari. I had a quick look — there wasn’t — and that got me thinking.
+Recently my buddy and fellow Former Apple Technology Evangelist @[TDRBY](https://medium.com/u/35a6b2e3855b?source=post_page-----c19f3d74f728--------------------------------) asked if there was an extension available for rendering Markdown files in Safari. I had a quick look — there wasn’t — and that got me thinking.
 
 On macOS you can use Quick Look plugins to add support for new file types to Finder’s Quick Look preview popup. These plugins are great, I use a bunch of them, but they only apply in Finder and not in Safari. Maybe I could do something similar?
 

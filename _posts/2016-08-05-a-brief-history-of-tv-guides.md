@@ -26,9 +26,8 @@ All of these teletext services provided general information, such as news, weath
 
 All the teletext services I used provided a TV Guide. This was an EPG before the acronym had even been coined. Roughly equivalent to popular printed TV guides of the time they presented succinct information about the day’s programmes over several pages. Here’s a screenshot of a TV listing from BBC’s Ceefax:
 
-![](https://miro.medium.com/max/1008/1*WSph9kUyJtT2L_onAyGAXA.png)
-
-TV Guide: BBC Ceefax
+![](https://miro.medium.com/max/1008/1*WSph9kUyJtT2L_onAyGAXA.png "TV Guide: BBC Ceefax")
+{:.tofigure}
 
 Additionally, a Now & Next feature could be overlaid on top of the TV picture, occupying the bottom half of the screen, leaving the moving image visible in the top half. Close caption subtitles were done in the same way.
 
@@ -45,9 +44,8 @@ TVonics: the box that’s not a box
 
 The guys at TVonics were clever enough to notice that a recently built Sony fabrication plant in southern Wales could produce their HD-capable boxes on home soil, and had partnered with then-fledgling London design company [ustwo](www.ustwo.com) to create the user interface for their Freeview software. This was a master stroke and resulted in the most usable Freeview software I’d ever had the pleasure of using.
 
-![](https://miro.medium.com/max/1400/1*91Qy90glqxsJQoGFWC41CQ.jpeg)
-
-TV Guide: TVonics
+![](https://miro.medium.com/max/1400/1*91Qy90glqxsJQoGFWC41CQ.jpeg "TV Guide: TVonics")
+{:.tofigure}
 
 Even though this was only 5 years ago, it was still a time where the remote control was the long accepted method of input when watching TV. The user interface created by ustwo was simple but effective, form following function. The only real personalisation was the ability to change the colour scheme. The rest of the interface seemed very obvious, but therein lies great design: everything was where you expected it to be and every screen adhered to the same design principles. It had been thought about, and more importantly it had been executed well. Not just in terms of the design, but also in terms of the software that TVonics created. Every aspect of the Freeview HD spec was present, implemented to a higher standard than they had been described in the specifications. The interface was more performant than other boxes and the whole thing was a real joy to use. At this time TiVo may have had extra features, but TVonics version of Freeview was streets ahead in terms of user interface and experience.
 
@@ -63,9 +61,8 @@ Oranges and Apples
 
 So what’s next? Apple seems to think that the days of scheduled content are over. They probably have a point. The rise of on-demand services from Netflix, Hulu, Amazon, HBO, BBC — and almost every other TV programmer — means that it’s no longer as simple as putting all available channels on a timeline. Sky TV has an interface that has been struggling under the weight of this problem for decades, and their latest [Sky Q](http://www.sky.com/shop/tv/sky-q/overview/) product doesn’t do much to ease the problem, let alone solve it.
 
-![](https://miro.medium.com/max/1400/1*2eklqpXtNnroW_oQ9AhZIA.jpeg)
-
-TV Guide: Sky Q
+![](https://miro.medium.com/max/1400/1*2eklqpXtNnroW_oQ9AhZIA.jpeg "TV Guide: Sky Q")
+{:.tofigure}
 
 Wishing on a Star
 -----------------
@@ -93,6 +90,5 @@ The timing of these rumours doesn’t seem like a coincidence to me. I think it�
 
 Importantly, if a TV Guide feature is agreed soon it would allow just enough time for it to make the cut for inclusion into version [11](https://en.wikipedia.org/wiki/Up_to_eleven) of iOS and tvOS. And there’s nothing like a deadline to get things moving.
 
-![](https://miro.medium.com/max/1246/1*NMys6bsxcP3Eo-8vIFgndQ.jpeg)
-
-“These go to eleven.” —Nigel Tuffnell (This is Spinal Tap)
+![](https://miro.medium.com/max/1246/1*NMys6bsxcP3Eo-8vIFgndQ.jpeg "“These go to eleven.” —Nigel Tuffnell (This is Spinal Tap)")
+{:.tofigure}

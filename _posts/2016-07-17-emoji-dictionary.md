@@ -13,9 +13,8 @@ comments: https://twitter.com/gingerbeardman/status/755180722059636736
 
 One of my favourite features of Mac OS X is the ability to point the mouse cursor at a word and press _Command+Control+D_ to quickly see a popup definition courtesy of Dictionary.app:
 
-![](https://miro.medium.com/max/804/1*z1FhHq7vt1X2oNOsnsH9xg.png)
-
-(you can also get this popup through a Force Click, or three-finger click/tap)
+![](https://miro.medium.com/max/804/1*z1FhHq7vt1X2oNOsnsH9xg.png "(you can also get this popup through a Force Click, or three-finger click/tap)")
+{:.tofigure}
 
 It annoys me when I use this feature on an Emoji and it doesn’t work. 😠
 

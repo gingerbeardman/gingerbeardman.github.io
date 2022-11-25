@@ -45,13 +45,8 @@ That’s all well and good, but there’s only one way to really know if the ana
 
 [Play the game right now in your browser](http://www.gingerbeardman.com/boomdots/) or [watch a short video of it](https://vimeo.com/169931918).
 
-[
-
-![](https://miro.medium.com/max/750/1*AHPucF97JYxZj2uJC8FfNA.png)
-
-](http://www.gingerbeardman.com/boomdots/)
-
-Add the game to your iPhone home screen for the best experience.
+![](https://miro.medium.com/max/750/1*AHPucF97JYxZj2uJC8FfNA.png "Add the game to your iPhone home screen for the best experience.")
+{:.tofigure}
 
 I chose the [Phaser JavaScript framework](http://phaser.io) for this particular prototype. I’d been reading its documentation and it looked well suited to the task at hand. For example, it has the Easing functions that I wanted to use to get the dots moving smoothly. SpriteKit, to contrast, doesn’t have built-in Easing functions—though of course you could write your own or port some code across if you wanted to do this natively on iOS. I tend to experiment with a variety of frameworks and tools just to keep things interesting.
 
