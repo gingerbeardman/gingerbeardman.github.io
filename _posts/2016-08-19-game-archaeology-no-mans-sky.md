@@ -3,7 +3,7 @@ layout: post
 title: "Game Archaeology: No Man's Sky"
 tags:
 - videogames
-- critique
+- archaeology
 - gamedev
 - medium
 nouns:
