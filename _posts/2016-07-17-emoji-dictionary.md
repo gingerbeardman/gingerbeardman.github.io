@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Emoji Dictionary'
+title: 'Emoji Dictionary 🤓 📖'
 tags:
 - macos
 - emoji
