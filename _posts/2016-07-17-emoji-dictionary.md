@@ -25,7 +25,7 @@ During my job as a Technology Evangelist at Apple, I took great pride in learnin
 
 So I thought it would be fun to use the Dictionary Development Kit to create a simple dictionary of Emoji and their meanings. It was! You can grab the finished dictionary here: [https://github.com/gingerbeardman/Emojipedia](https://github.com/gingerbeardman/Emojipedia)
 
-![](https://miro.medium.com/max/1282/1*1zrc24g1nE6yyEVfjUHW5g.png "")
+![](https://miro.medium.com/max/1282/1*1zrc24g1nE6yyEVfjUHW5g.png " ")
 {:.tofigure}
 
 How it works
@@ -45,7 +45,7 @@ Emojipedia
 
 There’s only one place to go to find out information on any Emoji and that’s [Emojipedia](http://emojipedia.org), a fantastic resource created by Jeremy Burge. I put a link to Emojipedia in every definition, so you can easily click through to find out more and continue learning about Emoji. I plan to work even closer with Emojipedia to include even more information in the dictionary file.
 
-![](https://miro.medium.com/max/840/1*Pn7tHXghkM3yK1YPGJTBkQ.png "")
+![](https://miro.medium.com/max/840/1*Pn7tHXghkM3yK1YPGJTBkQ.png " ")
 {:.tofigure}
 
 For Hire
