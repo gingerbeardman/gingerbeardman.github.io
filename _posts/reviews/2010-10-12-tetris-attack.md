@@ -7,6 +7,7 @@ tags:
 - snes
 - videogame
 - review
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/1304819152/tetris-attack
 ---
 ![Tetris Attack](https://64.media.tumblr.com/tumblr_la832qEWKE1qbfpni.png)

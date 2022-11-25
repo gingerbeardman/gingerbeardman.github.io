@@ -7,6 +7,7 @@ tags:
 - dreamcast
 - videogame
 - review
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/1200852380/vanishing-point
 ---
 ![Vanishing Point](https://64.media.tumblr.com/tumblr_l9fhhoKbTj1qbfpni.jpg)

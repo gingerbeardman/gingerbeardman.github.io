@@ -7,6 +7,7 @@ tags:
 - wii
 - videogame
 - review
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/1349871356/excite-truck
 ---
 ![Excite Truck](https://64.media.tumblr.com/tumblr_lahvrnsZK41qbfpni.jpg)

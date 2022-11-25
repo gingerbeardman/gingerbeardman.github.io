@@ -8,6 +8,7 @@ tags:
 - atarist
 - videogame
 - review
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/1357929133/sensible-soccer
 ---
 ![Sensible Soccer](https://64.media.tumblr.com/tumblr_la4nmaT4lB1qbfpni.png)

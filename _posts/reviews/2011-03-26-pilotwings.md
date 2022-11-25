@@ -11,6 +11,7 @@ tags:
 - snes
 - videogame
 - review
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/4111406373/pilotwings
 ---
 ![Pilotwings](https://64.media.tumblr.com/tumblr_la4kbnQL8m1qbfpni.png)

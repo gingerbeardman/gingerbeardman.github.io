@@ -7,6 +7,7 @@ tags:
 - java
 - videogame
 - review
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/1254775129/vijay-singh-3d
 ---
 ![Vijay Singh 3D](https://64.media.tumblr.com/tumblr_l9tpw5Xh1V1qbfpni.jpg)

@@ -7,6 +7,7 @@ tags:
 - playstation
 - videogame
 - review
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/1454980505/bishi-bashi-special
 ---
 ![Bishi Bashi Special](https://64.media.tumblr.com/tumblr_lab17u3uMy1qbfpni.png)

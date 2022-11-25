@@ -7,6 +7,7 @@ tags:
 - playstation
 - videogame
 - review
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/1405839780/speed-freaks
 ---
 ![Speed Freaks](https://64.media.tumblr.com/tumblr_la4jqeOxgi1qbfpni.png)

@@ -7,6 +7,7 @@ tags:
 - ds
 - videogame
 - review
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/1430054555/ds-spirits-hanafuda
 ---
 ![DS Spirits Hanafuda](https://64.media.tumblr.com/tumblr_lb0pxhXMCu1qbfpni.png)

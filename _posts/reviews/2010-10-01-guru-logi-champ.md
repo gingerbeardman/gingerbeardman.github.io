@@ -8,6 +8,7 @@ tags:
 - gba
 - videogame
 - review
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/1242108492/guru-logi-champ
 ---
 ![Guru Logi Champ](https://64.media.tumblr.com/tumblr_l9rnm9prQN1qbfpni.png)

@@ -7,6 +7,7 @@ tags:
 - gamecube
 - videogame
 - review
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/1676267832/the-wind-waker
 ---
 ![The Wind Waker](https://64.media.tumblr.com/tumblr_lab1sxZXJa1qbfpni.jpg)

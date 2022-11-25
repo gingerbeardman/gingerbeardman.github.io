@@ -11,6 +11,7 @@ tags:
 - ios
 - videogame
 - review
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/1423631024/chuchu-rocket
 ---
 ![ChuChu Rocket!](https://64.media.tumblr.com/tumblr_lab0jaa6l61qbfpni.jpg)

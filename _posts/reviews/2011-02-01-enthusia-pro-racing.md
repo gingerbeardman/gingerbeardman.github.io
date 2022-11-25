@@ -7,6 +7,7 @@ tags:
 - ps2
 - videogame
 - review
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/3048957687/enthusia-pro-racing
 ---
 ![Enthusia Professional Racing](https://64.media.tumblr.com/tumblr_lfv72zwTxp1qbfpni.jpg)

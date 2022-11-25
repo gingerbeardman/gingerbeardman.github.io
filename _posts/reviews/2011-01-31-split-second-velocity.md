@@ -8,6 +8,7 @@ tags:
 - xbox360
 - videogame
 - review
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/3036476906/split-second-velocity
 ---
 ![Split/Second: Velocity](https://64.media.tumblr.com/tumblr_lfwnqqhjQ31qbfpni.jpg)

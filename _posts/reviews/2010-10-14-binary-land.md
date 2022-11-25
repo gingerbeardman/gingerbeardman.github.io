@@ -8,6 +8,7 @@ tags:
 - nes
 - videogame
 - review
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/1318897734/binary-land
 ---
 ![Binary Land](https://64.media.tumblr.com/tumblr_l9tivxpF6i1qbfpni.png)

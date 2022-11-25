@@ -7,6 +7,7 @@ tags:
 - xbox
 - videogame
 - review
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/1242631648/rallisport-challenge-2
 ---
 ![RalliSport Challenge 2](https://64.media.tumblr.com/tumblr_la0zwhKO3I1qbfpni.jpg)

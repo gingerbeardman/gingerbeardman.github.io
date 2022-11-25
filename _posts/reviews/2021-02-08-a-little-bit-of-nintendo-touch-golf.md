@@ -10,6 +10,7 @@ tags:
 - '2009'
 - tandesoft
 - golf
+- tumblr
 tumblr_url: https://dreampast.tumblr.com/post/642594822932299776/less-is-more-a-little-bit-of-was-series-of
 ---
 <img src="https://64.media.tumblr.com/546aa32a2609ee8acd21f7af1c614fc0/e67b3d718f0a17b4-6f/s2048x3072/20144b929630388d0f929e09819d0db65a3c614a.jpg" data-orig-height="408" data-orig-width="272" data-media-key="546aa32a2609ee8acd21f7af1c614fc0:e67b3d718f0a17b4-6f" alt="A Little Bit of... Nintendo Touch Golf">
