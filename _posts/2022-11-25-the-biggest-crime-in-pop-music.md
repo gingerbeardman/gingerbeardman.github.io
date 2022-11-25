@@ -5,7 +5,6 @@ tags:
 - music
 - sampling
 - copyright
-- medium
 nouns:
 - Salsoul Records
 - Deconstruction Records
