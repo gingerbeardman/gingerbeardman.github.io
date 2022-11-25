@@ -6,7 +6,7 @@ tags:
 - ios
 - appstore
 nouns:
-comments: https://twitter.com/gingerbeardman/status/882232491255500800
+comments: 
 
 ---
 
