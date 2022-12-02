@@ -77,6 +77,10 @@ At this point Sparrow Solitaire is really Mac's game, albeit one that happens to
 
 ![GIF](/images/posts/sparrow-game.gif#playdate)
 
+## Launch Animation
+
+![GIF](/images/posts/sparrow-launch.gif#playdate)
+
 ## Download
 
 Sparrow Solitaire for Playdate (Early Access) is [available now on itch.io](https://vogelscript.itch.io/sparrow-solitaire), where you can read about what to expect from the full game.
