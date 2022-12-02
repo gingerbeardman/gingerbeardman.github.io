@@ -58,6 +58,6 @@ Hi score and settings are saved and loaded at various points.
 
 ## Download
 
-Bender for Playdate is [available now on itch.io as pay-what-you-want](https://gingerbeardman.itch.io/bender-for-playdate).
+Bender for Playdate is [available now on itch.io](https://gingerbeardman.itch.io/bender-for-playdate).
 
 Have fun!
