@@ -32,8 +32,7 @@ The first game I played entirely through Dolphin emulator: glorious supersampled
 
 ![](https://pbs.twimg.com/media/Eqr0jjBXAAAJqen.jpg)
 
-## Runabout 3 (PS2) &   
-Runabout 3D (3DS)
+## Runabout 3 (PS2) & Runabout 3D (3DS)
 
 Reviewing these together because the 3DS game is effectively a remake of the PS2 one, with almost identical goals but with cleaner presentation and slightly less content. The PS2 game has slightly more humour and more collectables. Pick one.
 
