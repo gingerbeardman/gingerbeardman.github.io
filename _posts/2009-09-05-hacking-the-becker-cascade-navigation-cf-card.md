@@ -13,7 +13,7 @@ comments:
 
 ---
 
-I just had my tonsils out and whilst recovering at home I decided to try to figure out how I could use larger CF cards in my Becker Traffic Pro 7949 navigation headunit. It comes with a 2GB card which is barely big enough for the maps alone. Later map distributions increased the size of the card to 4GB as the map quality increased.
+I just had my tonsils removed and whilst recovering at home I decided to try to figure out how I could use larger CF cards in my Becker Traffic Pro 7949 navigation headunit. It comes with a 2GB card which is barely big enough for the maps alone. Later map distributions increased the size of the card to 4GB as the map quality increased.
 
 I bought a new CF card of the same type (SanDisk), opting for a SanDisk Ultra 8GB, and copied the files and volume name over. It didn't work.
 
