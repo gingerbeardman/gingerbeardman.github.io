@@ -14,7 +14,11 @@ comments:
 
 ---
 
-I just had my tonsils removed and whilst recovering at home I decided to try to figure out how I could use larger CF cards in my Becker Traffic Pro 7949 navigation headunit, a close relative to the Becker Cascade. It came with a 2GB card which is barely big enough for the maps, leaving not much room for MP3 files. Later map distributions increased the size of the card to 4GB as the map quality increased, but still not much room remaining for music.
+I just had my tonsils removed and whilst recovering at home I decided to try to figure out how I could use larger CF cards in my [Becker Traffic Pro 7949](https://ifdesign.com/en/winner-ranking/project/becker-traffic-pro-7949/2069) car audio and navigation system, a close relative to the Becker Cascade. 
+
+![PNG](/images/posts/becker-7949.png)
+
+The unit came with maps on a 2GB card which is barely big enough for the maps, leaving not much room for MP3 files. Later map distributions increased the size of the card to 4GB as the map quality increased, but still not much room remaining for music.
 
 ## Let's go bigger
 
