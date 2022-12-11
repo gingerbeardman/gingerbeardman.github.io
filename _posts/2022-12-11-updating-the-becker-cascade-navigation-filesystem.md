@@ -26,7 +26,7 @@ Even today the interface is rock solid and obvious, and the turn-by-turn directi
 
 The maps for this thing were long discontinued, but for a while users such as myself were able to use maps made for BMW's business fleet (with partial postcode search) and more recently Mercedes-Benz (with no postcode search). 
 
-It's also possible to add speed limit and camera data through injecting a new file into the split ISO filesystem. This relied on using Windows and some old apps.
+It's also possible to add speed limit and camera data through injecting a new .lwd file (thanks SCDB!) into the split ISO filesystem. This relied on using Windows and some old apps.
 
 Today I wrote a small shell script to do the same on macOS (and probably Linux, and maybe Windows).
 
