@@ -14,7 +14,7 @@ comments:
 
 ---
 
-I have a Becker Cascade/Traffic Pro navigation unit in my LHD Renault Twingo mk1. This unit was bundled with high end sports cars of German and Italian origin, but I added one to my lowly Twingo because it's a 1DIN headunit with great sound quality, with navigation and music support from CF card, giving spoken and on-screen turn by turn directions!
+I have a Becker Traffic Pro 7949 (a re-badged Becker Cascade with a green OLED screen) navigation unit in my LHD Renault Twingo mk1. This unit was bundled with high end sports cars of German and Italian origin, but I added one to my lowly Twingo because it's a 1DIN headunit with great sound quality, with navigation and music support from CF card, giving spoken and on-screen turn by turn directions!
 
 A while ago I hacked the CF card structure to allow use of larger capacity cards to more easily store maps and music side-by-side. Good times!
 
