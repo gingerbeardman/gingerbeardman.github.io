@@ -36,6 +36,4 @@ I even figured out the magic text for Ferrari branded units with the assistance 
 
 The version number would be increased in step with any updates to the system software.
 
-By partitioning a SanDisk card and giving it the same file contents, volume name, and this magic text made the card work. For a while I sold these modified cards on eBay for a nice little markup and it kept me in video games for a while. 
-
-Good times!
+By partitioning a SanDisk card and giving it the same file contents, volume name, and this magic text made the upgrade work. For a while I sold these modified cards on eBay for a nice little markup and it kept me in video games for a while. Good times!
