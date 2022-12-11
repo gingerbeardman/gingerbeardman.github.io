@@ -20,7 +20,7 @@ Even today the interface is rock solid and obvious, and the turn-by-turn directi
 
 ![PNG](/images/posts/becker-7949.png)
 
-[A while ago](/2009/09/05/hacking-the-becker-cascade-navigation-cf-card/) I hacked the CF card structure to allow use of larger capacity cards to more easily store maps and music side-by-side. Good times!
+[A while ago I hacked the CF card structure](/2009/09/05/hacking-the-becker-cascade-navigation-cf-card/) to allow use of larger capacity cards to more easily store maps and music side-by-side. Good times!
 
 ## Upgrading maps
 
