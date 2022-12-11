@@ -28,6 +28,6 @@ The maps for this thing were long discontinued, but for a while users such as my
 
 It's also possible to add speed limit and camera data through injecting a new .lwd file (thanks SCDB!) into the split ISO filesystem. This relied on using Windows and some old apps.
 
-Today I wrote a small shell script to do the same on macOS (and probably Linux, and maybe Windows).
+Today I wrote a small shell script to do the same on macOS (and probably Linux, maybe Windows).
 
 <script src="https://gist.github.com/gingerbeardman/f18de0abe61c8dd548b4901b606bf39b.js"></script>
