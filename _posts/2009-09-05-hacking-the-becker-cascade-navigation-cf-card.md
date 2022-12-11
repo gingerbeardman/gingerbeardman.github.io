@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hacking the Becker Cascade navigation filesystem'
+title: 'Hacking the Becker Cascade navigation CF card'
 tags:
 - becker
 - maps
