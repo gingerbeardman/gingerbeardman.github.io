@@ -159,3 +159,7 @@ Type Designer is released simultaneously in the US and Japan.
 
 ![PNG](/images/posts/tomoya-ikeda-profile.jpg "Tomoya Ikeda (1959-1998)")
 {:.tofigure}
+
+### Birthday blog post?
+
+- Check out my other [#birthday](/tag/birthday/) blog posts.
