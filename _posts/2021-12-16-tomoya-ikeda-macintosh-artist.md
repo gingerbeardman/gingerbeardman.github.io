@@ -5,6 +5,7 @@ tags:
 - macintosh
 - artist
 - patreon
+- birthday
 nouns:
 - After Dark
 - Macintosh
