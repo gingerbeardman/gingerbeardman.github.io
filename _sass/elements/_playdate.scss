@@ -1,3 +1,9 @@
+body {
+  .c-content {
+    overflow-x: unset;
+  }
+}
+
 body.playdate {
   background-color: $bg-color-playdate;
 
