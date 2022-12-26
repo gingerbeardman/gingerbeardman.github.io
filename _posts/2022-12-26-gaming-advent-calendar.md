@@ -12,7 +12,7 @@ style: |
     margin: 0 1rem 1rem 0;
   }
   
-  li {
+  ol li {
     margin-bottom: 1rem;
   }
 ---
