@@ -2,21 +2,11 @@
 layout: post
 title: "Gaming Advent Calendar"
 tags:
-- macintosh
-- amiga
-- computers
-- patreon
-- birthday
+- videogames
+- review
 nouns:
-- TV's TV
-- Amiga
-- Apple
-- Atari
-- Fuji TV
-- Toshio Iwai
-- 
 featured: true
-comments: 
+comments: https://twitter.com/gingerbeardman/status/1599524673414664192
 
 ---
 
