@@ -11,6 +11,8 @@ style: |
   img {
     margin: 0 1rem 1rem 0;
     max-width: 50%;
+    min-width: 50%;
+    width: 50%;
   }
   
   ol li {
