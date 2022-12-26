@@ -10,6 +10,7 @@ comments: https://twitter.com/gingerbeardman/status/1599524673414664192
 style: |
   img {
     margin: 0 1rem 1rem 0;
+    max-width: 50%;
   }
   
   ol li {
