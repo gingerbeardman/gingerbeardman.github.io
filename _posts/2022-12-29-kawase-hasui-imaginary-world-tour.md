@@ -23,7 +23,7 @@ style: |
   }
 ---
 
-My favourite artist is [Kawase Hasui](https://en.wikipedia.org/wiki/Hasui_Kawase) (1883–1957) who was a printmaker during Japan's [shin-hanga](https://en.wikipedia.org/wiki/Shin-hanga) ("new prints") movement of [woodblock printing](https://en.wikipedia.org/wiki/Woodblock_printing_in_Japan) in the early 20th century. I'm lucky enough to own a [book containing his complete collection of his prints](https://brill.com/display/title/13321?rskey=leTfwY&result=4), as well as many other books featuring his work. He is known as one of the most prolific printmakers Japan has ever seen, with [around 700 prints to his name](https://www.scholten-japanese-art.com/thumbs/2) and more still being discovered.
+My favourite artist is [Kawase Hasui](https://en.wikipedia.org/wiki/Hasui_Kawase) (1883–1957) who was a printmaker during Japan's [shin-hanga](https://en.wikipedia.org/wiki/Shin-hanga) ("new prints") movement of [woodblock printing](https://en.wikipedia.org/wiki/Woodblock_printing_in_Japan) in the early 20th century. I'm lucky enough to own a [book containing his complete collection of his prints](https://brill.com/display/title/13321?rskey=leTfwY&result=4), as well as many other books featuring his work. He is known as one of the most prolific printmakers Japan has ever seen, with around 700 prints to his name and more still being discovered.
 
 ## Woodblock
 
