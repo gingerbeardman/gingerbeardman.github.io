@@ -37,7 +37,9 @@ As far as I know the majority of *Hasui's* work are of Japanese locations, thoug
 
 ## The idea
 
-I thought it would be fun to produce images of locations from around the world in the style of *Hasui*: to see the world through his eyes even though he never visited these places. The stops on the Imaginary World Tour are mostly taken from one of my favourite video games, [Pang](https://www.gingerbeardman.com/archive/pang/places.htm), with a few extra locations added by me to round things out a little.
+I thought it would be fun to produce images of locations from around the world in the style of *Hasui*: to see the world through his eyes even though he never visited these places. A "what if" series of images. 
+
+The stops on the Imaginary World Tour are mostly taken from one of my favourite video games, [Pang](https://www.gingerbeardman.com/archive/pang/places.htm), with a few extra locations added by me to round things out a little.
 
 ## The process
 
