@@ -35,13 +35,13 @@ As far as I know the majority of *Hasui's* work are of Japanese locations, thoug
 
 ## The idea
 
-I thought it would be fun to produce images of locations from around the world in the style of *Hasui*: to see the world through his eyes even though he never visited these places. The stops on the Imaginary World Tour are mostly taken from one of my favourite video games, [Pang](https://www.gingerbeardman.com/archive/pang/places.htm), with a handful of extra locations added by me to round things out a little.
+I thought it would be fun to produce images of locations from around the world in the style of *Hasui*: to see the world through his eyes even though he never visited these places. The stops on the Imaginary World Tour are mostly taken from one of my favourite video games, [Pang](https://www.gingerbeardman.com/archive/pang/places.htm), with a few extra locations added by me to round things out a little.
 
 ## The process
 
 It's important to understand the process that has generated these images. [Midjourney](https://en.wikipedia.org/wiki/Midjourney) is a neural network - think of it as an artificial brain - that has been trained by being shown billions of images and associated descriptions. This [training set](https://www.laion.ai) comprises hundreds of terabytes of data collected from around the internet. After training the model retains only the understanding of what it has seen: none of the original images or descriptions are included. This is echoed by the size of the resulting model being only a handful of gigabytes, a tiny fraction of the size of the training data. 
 
-By prompting Midjourney with something like *"Chichen Itza, in the style of Kawase Hasui"* it will hallucinate an image from its understanding of those words. Just like you could draw a tree from memory, if asked. The important difference is that Midjourney, and similar, has almost unbelievable recall and painting skills. Such image generators are [new tools, as revolutionary as the camera](https://aestheticsforbirds.com/2022/11/02/ai-art-is-art/).
+By prompting Midjourney with something like *"Chichen Itza, in the style of Kawase Hasui"* it will hallucinate an image from its understanding of those words. Just like you could draw a tree from memory, if asked. The important difference is that Midjourney, and similar, has almost unbelievable recall and painting skills. Such image generators are new tools, [as revolutionary as the camera](https://aestheticsforbirds.com/2022/11/02/ai-art-is-art/).
 
 This type of simple prompting in the style of an artist is morally contentious. In this instance I'm going to say it's OK because I'm not trying to pass off the results as being "by" either *Hasui* or myself - they are just for fun.
 
