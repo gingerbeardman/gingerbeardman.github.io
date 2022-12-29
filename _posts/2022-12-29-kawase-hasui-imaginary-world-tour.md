@@ -33,6 +33,8 @@ One perhaps little-known fact about *Hasui* is that [he was really a watercolour
 
 As far as I know the majority of *Hasui's* work are of Japanese locations, though there are a handful of prints of locations in Korea. Some other shin-hanga artists produced prints of locations even further afield, most notably [Yoshida Hiroshi](https://en.wikipedia.org/wiki/Hiroshi_Yoshida) who [travelled through the United States](https://www.scholten-japanese-art.com/printsH/811) and later throughout [Europe](https://www.artelino.com/articles/hiroshi_yoshida_europe.asp), [Africa](https://www.scholten-japanese-art.com/printsH/1055), [India](https://mogulesque.com/art/hiroshi-yoshida-india-pakistan-prints/), [China](https://commons.wikimedia.org/wiki/File:Yoshida_Hiroshi_-_Sochu_China.jpg) as well as his native Japan. Indeed, these prints are a great source of comparison with those later on in this blog post.
 
+----
+
 ## The idea
 
 I thought it would be fun to produce images of locations from around the world in the style of *Hasui*: to see the world through his eyes even though he never visited these places. The stops on the Imaginary World Tour are mostly taken from one of my favourite video games, [Pang](https://www.gingerbeardman.com/archive/pang/places.htm), with a few extra locations added by me to round things out a little.
