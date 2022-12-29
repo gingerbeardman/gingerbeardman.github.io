@@ -10,7 +10,7 @@ featured: true
 comments: https://twitter.com/gingerbeardman/status/1607420684275257345
 style: |
   img {
-    margin: 0 1rem 1rem 0;
+    margin: 0 0 1rem 0;
     max-width: 50%;
     min-width: 50%;
     width: 50%;
@@ -20,9 +20,6 @@ style: |
     margin-bottom: 1rem;
   }
 ---
-
-<style>
-</style>
 
 At the start of December I decided to do a sort of "gaming advent calendar", a single-tweet review of a bunch of my favourite video games. I'm collecting them here for posterity. Hopefully you will find something of interest in the list.
 
