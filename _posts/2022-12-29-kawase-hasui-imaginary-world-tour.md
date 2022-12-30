@@ -12,7 +12,7 @@ nouns:
 - shin-hanga
 - Imaginary World Tour
 featured: true
-comments: https://twitter.com/gingerbeardman/status/1608527853447962630
+comments: https://twitter.com/gingerbeardman/status/1608808828380000259
 style: |
   img {
     margin: 0 0 1rem 0;
