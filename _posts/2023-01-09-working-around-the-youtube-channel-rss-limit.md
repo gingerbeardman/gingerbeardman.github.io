@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YouTube Channel RSS limits'
+title: 'Working around the YouTube Channel RSS limit'
 tags:
 - hack
 - youtube
