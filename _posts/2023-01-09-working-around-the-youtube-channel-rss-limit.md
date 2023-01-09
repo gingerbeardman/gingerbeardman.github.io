@@ -23,3 +23,7 @@ Thanks to this [helpful StackOverflow comment](https://stackoverflow.com/questio
 > https://scriptbarrel.com/xml.cgi?channel_id=UCv1DvRY5PyHHt3KN9ghunuw&name=%40sora_sakurai_en
 
 This will work for any other YouTube channel by simply substituting the relevant `channel_id` and `name` details.
+
+### If you need more than 50
+
+You can [use Authory](https://authory.com/blog/create-a-youtube-rss-feed-with-vastly-increased-limits/) (free 30 day trial) to create a feed that will return up to 1000 most recent videos.
