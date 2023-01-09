@@ -6,7 +6,7 @@ tags:
 - twitter
 - markdown
 nouns:
-comments: 
+comments: https://twitter.com/gingerbeardman/status/1612528932972019712
 
 ---
 
