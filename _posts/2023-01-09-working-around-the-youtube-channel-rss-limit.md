@@ -12,7 +12,7 @@ comments: https://twitter.com/gingerbeardman/status/1612493181941174272
 
 I've been falling behind watching Masahiro Sakurai's game development videos, so decided to subscribe to his YouTube channel using RSS. This is as simple as plugging the channel URL https://youtube.com/@sora_sakurai_en into your RSS feed reader.
 
-BUT only the most recent 15 videos will be listed!
+*BUT only the most recent 15 videos will be listed!*
 
 Google's YouTube API allows listing of the most recent 50 videos, but that's easier said than done as you'd have to get an API key, write some code to do this query, and host it somewhere online. Wouldn't it be great if somebody else has already done the hard work and is sharing their solution?
 
