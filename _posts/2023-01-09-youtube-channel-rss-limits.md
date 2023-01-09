@@ -14,7 +14,7 @@ I've been falling behind watching Masahiro Sakurai's game development videos, so
 
 BUT only the most recent 15 videos will be listed!
 
-Google's YouTube API allows listing of the most recent 50 videos, but that's easier said than done as you'd have to get an API key and write some code to do this query. Wouldn't it be great if somebody else has already done the hard work and is sharing their solution?
+Google's YouTube API allows listing of the most recent 50 videos, but that's easier said than done as you'd have to get an API key, write some code to do this query, and host it somewhere online. Wouldn't it be great if somebody else has already done the hard work and is sharing their solution?
 
 Well, we're in luck!
 
