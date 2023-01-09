@@ -7,6 +7,8 @@
 
 # bundle exec jekyll serve --livereload --drafts --profile
 
+# bundle exec jekyll serve --livereload
+
 # Site settings
 title:       '⌘I&nbsp;&nbsp;Get&nbsp;Info'
 htmltitle:   '⌘I&nbsp;&nbsp;<span>Get&nbsp;Info</span>'

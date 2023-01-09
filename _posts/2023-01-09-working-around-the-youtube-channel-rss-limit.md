@@ -19,4 +19,7 @@ Google's YouTube API allows listing of the most recent 50 videos, but that's eas
 Well, we're in luck!
 
 Thanks to this [helpful StackOverflow comment](https://stackoverflow.com/questions/56430703/how-to-use-youtube-data-api-v3-to-get-more-than-15-videos-in-an-rss-reader-ne#comment99478631_56430703), you can use the following URL to list the most recent 50 videos from Sakurai's channel:
-https://scriptbarrel.com/xml.cgi?channel_id=UCv1DvRY5PyHHt3KN9ghunuw&name=%40sora_sakurai_en (or any other channel by substituting the relevant details).
+
+> https://scriptbarrel.com/xml.cgi?channel_id=UCv1DvRY5PyHHt3KN9ghunuw&name=%40sora_sakurai_en
+
+This will work for any other YouTube channel by simply substituting the relevant `channel_id` and `name` details.
