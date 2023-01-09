@@ -30,4 +30,4 @@ You can [use Authory](https://authory.com/blog/create-a-youtube-rss-feed-with-va
 
 ## Important: getting back on track
 
-After you've retrieved the historic videos, you should edit the RSS feed link in your reader to change it back to the original YouTube channel link. This will let you keep the historic videos from the workaround source and retrieve any future videos from the standard YouTube feed, so you're not relying on a third-party service.
+After you've retrieved the historic videos, you should edit the RSS feed link in your reader to change it back to the original YouTube channel link. This will let you keep the historic videos from the workaround feed and retrieve any future videos from the standard YouTube feed, so you're not relying on a third-party service.
