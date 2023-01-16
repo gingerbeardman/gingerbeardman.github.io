@@ -5,6 +5,7 @@ tags:
 - videogames
 - review
 - gamingadventcalendar
+- thoruyamamoto
 nouns:
 featured: true
 comments: https://twitter.com/gingerbeardman/status/1607420684275257345
