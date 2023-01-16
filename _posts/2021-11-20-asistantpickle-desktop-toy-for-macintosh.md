@@ -5,6 +5,7 @@ tags:
 - macintosh
 - mmm
 - patreon
+- thoruyamamoto
 nouns:
 - AsistantPickle
 - Thoru Yamamoto
