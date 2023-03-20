@@ -22,7 +22,7 @@ I hung on to the old home-button form factor for as long as I could, using a 6s 
 So, why an Xs over a newer iPhone? Many reasons.
 
 ## Good
-- Extra RAM is the biggest benefit, especially when it comes to multitasking
+- Extra RAM is the biggest benefit, especially when it comes to multi-tasking
 - Home bar interactions are great, they make sense for this device
 - Safari address bar at the bottom also makes sense!
 - One of my favourite gestures is swiping up on the editable Safari address bar to get to tab view
