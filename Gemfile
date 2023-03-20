@@ -6,10 +6,10 @@ gem 'bundler'
 gem "jekyll", "~> 4.0"
 
 # required patched version of ffi
-gem "ffi", ">= 1.9.24"
+gem "ffi"
 
 # required patched version of kramdown
-gem "kramdown", ">= 2.3.0"
+gem "kramdown"
 
 group :jekyll_plugins do
   gem 'jekyll-include-cache'
@@ -21,4 +21,4 @@ group :jekyll_plugins do
   gem 'liquid-c'
 end
 
-gem "webrick", "~> 1.7"
+gem "webrick"
