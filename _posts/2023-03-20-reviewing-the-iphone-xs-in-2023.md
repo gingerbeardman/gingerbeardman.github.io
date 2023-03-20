@@ -11,7 +11,7 @@ nouns:
 - 6s
 - SE2020
 - SE2022
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1637966639390965763
 
 ---
 
