@@ -85,7 +85,7 @@ DEPENDENCIES
   jekyll-tagging
   kramdown (>= 2.3.0)
   liquid
-  liquid-c
+  liquid-c (~> 4.0)
   webrick (~> 1.7)
 
 BUNDLED WITH

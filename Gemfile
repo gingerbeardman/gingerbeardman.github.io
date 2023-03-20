@@ -18,7 +18,7 @@ group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-tagging'
   gem 'liquid'
-  gem 'liquid-c'
+  gem 'liquid-c', "~> 4.1.0"
 end
 
 gem "webrick", "~> 1.7"
