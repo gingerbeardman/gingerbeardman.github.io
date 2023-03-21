@@ -2,8 +2,8 @@
 layout: post
 title: 'What a FAQ up!'
 tags:
-- faqs
-- guides
+- faq
+- guide
 - translation
 - patreon
 nouns:
