@@ -17,7 +17,7 @@ Anyway, clever people have already documented [how to calculate the PIN code for
 
 But a PIN code made up of hex numbers is difficult to type by hand. It isn't a decimal number, or ASCII text, and it quite probably contains special characters that are not represented on a keyboard. All that to say: we can't enter it into the macOS Bluetooth pairing window.
 
-However, we can use the `blueutil` command-line tool to automate the following steps:
+However, we can use the [blueutil](https://github.com/toy/blueutil) command-line tool to automate the following steps:
 
 1. get the MAC address
 2. calculate the PIN code
