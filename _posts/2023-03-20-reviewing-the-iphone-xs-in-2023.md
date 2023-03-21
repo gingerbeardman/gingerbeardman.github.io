@@ -17,9 +17,12 @@ comments: https://twitter.com/gingerbeardman/status/1637966639390965763
 
 Yes, the iPhone Xs came out in 2018. I thought it would be interesting to review it in 2023. Plus, I only just bought one!
 
-I hung on to the old home-button form factor for as long as I could, using a 6s for the longest time, but two things made me move to an edge-to-edge phone. First, I was on an SE2020 which doesn't have enough RAM to run modern iOS well. The newer SE2022 has more RAM, but still suffers from the encroachment of user interface meant for edge-to-edge phones that do not work well on home-button devices: gestures, buttons, and weird spacings and misalignments: death by a thousand cuts.
+I hung on to the old home-button form factor for as long as I could, using a 6s for the longest time, but two things made me move to an edge-to-edge phone:
 
-So, why an Xs over a newer iPhone? Many reasons.
+1. I was on an SE2020 which doesn't have enough RAM to run modern iOS well. The newer SE2022 has more RAM, but still suffers from...
+2. the encroachment of user interface meant for edge-to-edge phones that do not work well on home-button devices: gestures, buttons, and weird spacings and misalignments: death by a thousand cuts.
+
+So, why an Xs over a *newer* iPhone? Many reasons.
 
 ## Good
 - Extra RAM is the biggest benefit, especially when it comes to multi-tasking
