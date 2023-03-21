@@ -19,10 +19,10 @@ But a PIN code made up of hex numbers is difficult to type by hand. It isn't a d
 
 However, we can use the `blueutil` command-line tool to automate the following steps:
 
-1. get the Bluetooth network MAC address
+1. get the MAC address
 2. calculate the PIN code
-3. pair the remote
-4. connect the remote
+3. pair
+4. connect
 
 All you have to do is hold down 1+2 on your Wii remote and wait a short while.
 
