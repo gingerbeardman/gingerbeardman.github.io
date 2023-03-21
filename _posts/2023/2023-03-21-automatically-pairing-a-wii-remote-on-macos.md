@@ -12,6 +12,7 @@ nouns:
 - Intel
 - Mac
 - Apple silicon
+- macOS
 comments: https://twitter.com/gingerbeardman/status/1637977948354408451
 
 ---
