@@ -46,3 +46,5 @@ So, why an Xs over a *newer* iPhone? Many reasons.
 ## Indifferent
 - Speed is slightly slower than SE2020, but the increased RAM and ui fit are a net gain
 - Very slippery, but I use a case that provides additional grip and protection as I am clumsy
+
+So, there we have it! I bought an old iPhone rather than a new one and I'm enjoying it.
