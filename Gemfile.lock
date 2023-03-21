@@ -82,7 +82,7 @@ PLATFORMS
 DEPENDENCIES
   bundler
   ffi
-  jekyll (~> 4.0)
+  jekyll
   jekyll-include-cache
   jekyll-paginate
   jekyll-seo-tag

@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem 'bundler'
 
 # require most recent version of Jekyll
-gem "jekyll", "~> 4.0"
+gem "jekyll"
 
 # required patched version of ffi
 gem "ffi"
