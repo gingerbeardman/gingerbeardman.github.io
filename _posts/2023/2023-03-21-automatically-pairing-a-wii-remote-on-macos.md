@@ -5,15 +5,20 @@ tags:
 - wii
 - guide
 nouns:
+- Wii remotes
+- Wii remote
 - Nintendo
 - Wii
+- Intel
+- Mac
+- Apple silicon
 comments: https://twitter.com/gingerbeardman/status/1637977948354408451
 
 ---
 
 Pairing a Nintendo Wii remote used to work just fine on macOS, but starting with Monterey Apple changed something and Wii remotes now require a PIN code. Maybe they took out the Wii remote special case when they rewrote IOBluetooth?
 
-Anyway, clever people have already documented [how to calculate the PIN code for any Wii remote](https://wiibrew.org/wiki/Wiimote#Bluetooth_Pairing). It's the Bluetooth network MAC address of the device *in reverse*.
+Anyway, clever people have already documented [how to calculate the PIN code for any Wii remote](https://wiibrew.org/wiki/Wiimote#Bluetooth_Pairing). It's the Bluetooth network [MAC address](https://en.wikipedia.org/wiki/MAC_address) of the device *in reverse*.
 
 But a PIN code made up of hex numbers is difficult to type by hand. It isn't a decimal number, or ASCII text, and it quite probably contains special characters that are not represented on a keyboard. All that to say: we can't enter it into the macOS Bluetooth pairing window.
 
