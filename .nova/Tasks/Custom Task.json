@@ -2,7 +2,7 @@
   "actions" : {
     "build" : {
       "enabled" : true,
-      "script" : "bundle exec jekyll serve --livereload --drafts --profile --incremental"
+      "script" : "bundle exec jekyll serve --livereload --drafts --profile"
     },
     "run" : {
       "script" : "bundle exec jekyll serve --livereload --drafts --profile"
