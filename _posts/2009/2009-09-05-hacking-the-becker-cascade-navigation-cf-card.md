@@ -5,7 +5,7 @@ tags:
 - becker
 - maps
 - speedcam
-- hacking
+- hack
 nouns:
 - Becker
 - Cascade

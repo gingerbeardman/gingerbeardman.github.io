@@ -3,7 +3,7 @@ layout: post
 tags:
 - palmos
 - hanafuda
-- hacking
+- hack
 - patreon
 nouns:
   - Palm OS

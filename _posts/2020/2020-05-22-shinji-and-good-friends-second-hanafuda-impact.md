@@ -3,7 +3,7 @@ layout: post
 title: 'Shinji and Good Friends: Second Hanafuda Impact'
 tags:
 - hanafuda
-- hacking
+- hack
 - save
 - patreon
 nouns:

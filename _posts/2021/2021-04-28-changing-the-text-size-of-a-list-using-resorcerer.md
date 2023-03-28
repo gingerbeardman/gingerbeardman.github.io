@@ -2,7 +2,7 @@
 layout: post
 tags:
 - system7
-- hacking
+- hack
 - macintosh
 - resorcerer
 nouns:

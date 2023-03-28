@@ -4,6 +4,8 @@ title: Working around a breaking change in WebKit CSS
 tags:
 - webkit
 - bug
+- css
+- hack
 nouns:
 - WebKit
 - Polyglot

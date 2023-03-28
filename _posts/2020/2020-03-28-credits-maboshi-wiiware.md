@@ -3,7 +3,7 @@ layout: post
 title: 'Credits: MaBoShi (WiiWare)'
 tags:
 - credits
-- hacking
+- hack
 - patreon
 nouns:
 - WiiWare
