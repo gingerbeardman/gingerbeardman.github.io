@@ -17,7 +17,10 @@ comments: https://twitter.com/gingerbeardman/status/1645420490524065792
 
 ---
 
-I've been obsessed with The Great Wave (or its more official title: Under the Wave, Off Kanagawa) since the mid-1990s. This Japanese woodblock print designed by [Katsushika Hokusai](https://en.wikipedia.org/wiki/Hokusai) is one of the world's most iconic works of art. You've probably seen it crop up in a whole host of scenarios.
+I've been obsessed with [The Great Wave](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa) (or its more literal title: Under the Wave, Off Kanagawa) since the mid-1990s. This Japanese woodblock print designed by [Katsushika Hokusai](https://en.wikipedia.org/wiki/Hokusai) is one of the world's most iconic works of art. You've probably seen it crop up in a whole host of scenarios.
+
+![JPG](/images/posts/great-wave-british-museum.jpg "One of three early impressions of The Great Wave in the collection of The British Museum")
+{:.tofigure}
 
 The interesting thing about woodblock prints is that the original piece of art was destroyed during the act of mass production. In the case of The Great Wave, there are around 100 known, publicly viewable, early impressions that were made around the time Hokusai was alive. And there are very many impressions made after his death, not to mention modern prints that are not made with woodblocks.
 
@@ -29,9 +32,11 @@ Missing a viewing made me think about all the impressions in galleries and museu
 
 Of course, there's no fun in keeping this to myself so I decided to put together a website containing the information:
 
-[https://greatwavetoday.com](https://greatwavetoday.com)
+**[https://greatwavetoday.com](https://greatwavetoday.com)**
 
 As well as checking the website you can also subscribe to its RSS feed, so you'll also receive those lovely surprise notifications!
+
+### Final thoughts
 
 Please do let me know if this website helps you see an early impression of Hokusai's Great Wave. 
 
