@@ -22,7 +22,7 @@ I've been obsessed with [The Great Wave](https://en.wikipedia.org/wiki/The_Great
 ![JPG](/images/posts/great-wave-british-museum.jpg "One of three early impressions of The Great Wave in the collection of The British Museum")
 {:.tofigure}
 
-The interesting thing about woodblock prints is that the original piece of art was destroyed during the act of mass production. In the case of The Great Wave, there are around 100 known, publicly viewable, early impressions that were made around the time Hokusai was alive. And there are very many impressions made after his death, not to mention modern prints that are not made using woodblocks.
+The interesting thing about woodblock prints is that the original piece of art was destroyed during the act of [mass production](https://www.youtube.com/watch?v=IBcB_dYtGUg). In the case of The Great Wave, there are around 100 known, publicly viewable, early impressions that were made around the time Hokusai was alive. And there are very many impressions made after his death, not to mention modern prints that are not made using woodblocks.
 
 The trick to seeing one of the early impressions is being in the right place at the right time, because they are sensitive to light and will fade with over-exposure. Most are stored away for several of years before making a brief appearance, before going back into storage.
 
