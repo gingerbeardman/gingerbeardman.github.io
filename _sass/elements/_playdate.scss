@@ -60,4 +60,9 @@ body.playdate {
   .tablesorter-default th, .tablesorter-default td {
     border-color: $color-darker;
   }
+  
+  hr {
+    background-color: $color-text;
+    border-top: 1px solid $color-text;
+  }
 }
