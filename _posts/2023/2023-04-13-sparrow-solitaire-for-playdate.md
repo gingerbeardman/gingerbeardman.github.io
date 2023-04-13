@@ -16,7 +16,6 @@ nouns:
 - Macintosh
 - iPad Pro
 - Enzan-Hoshigumi
-featured: true
 comments: https://twitter.com/gingerbeardman/status/1646609021502214151
 
 ---
