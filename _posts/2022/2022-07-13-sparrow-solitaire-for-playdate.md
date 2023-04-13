@@ -83,4 +83,4 @@ At this point Sparrow Solitaire is really Mac's game, albeit one that happens to
 
 ## Download
 
-Sparrow Solitaire for Playdate (Early Access) is [available now on itch.io](https://vogelscript.itch.io/sparrow-solitaire), where you can read about what to expect from the full game.
+Update, April 2023: the full version of Sparrow Solitaire for Playdate is [available now on itch.io](https://vogelscript.itch.io/sparrow-solitaire) and you can also [read about what to went into the full game](https://vogelscript.itch.io/sparrow-solitaire/devlog/515286/sparrow-solitaire-v10).
