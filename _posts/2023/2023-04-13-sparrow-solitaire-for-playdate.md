@@ -9,8 +9,10 @@ nouns:
 - Sparrow Solitaire
 - Mahjong Solitaire
 - Mah-Jongg
+- Shanghai II
 - Shanghai
 - PLATO
+- Apple Macintosh
 - Macintosh
 - Enzan-Hoshigumi
 featured: true
