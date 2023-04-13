@@ -101,7 +101,7 @@ One of my favourite "[Easter Eggs](https://en.wikipedia.org/wiki/Easter_egg_(med
 
 ![PNG](/images/posts/sparrow-release-enzan-hoshigumi.png#playdate)
 
-## Great Wave of Mahjong
+## The Great Wave of Mahjong
 
 Finally, to come full circle back to the image seen in the trailer at the top of the page: "The Great Wave of Mahjong". I came up with the concept for the image and commissioned the wonderful [Vxcl](https://www.instagram.com/vxclhd/) to create it, leaving them free to interpret the brief. They pretty much nailed it first time, and were were only a handful of small notes - in the form of [screen grabs with coloured highlighter markup](https://twitter.com/gingerbeardman/status/1646262994727321602?s=20) - to tweak the alignment of details of a few elements. This is the [second such render](/2021/08/23/daily-driver-teaser-artwork/) I've commissioned, a look inspired by 1980s Japanese PC/game mags.
 
