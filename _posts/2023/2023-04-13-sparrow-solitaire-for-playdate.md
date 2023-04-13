@@ -34,7 +34,7 @@ This type of game is commonly called Mahjong Solitaire, because it uses mahjong 
 
 Whilst reading about the history of mahjong, I discovered that in Chinese the game was originally called 麻雀 (pinyin: máquè) — meaning *sparrow*. This seemed like a nice alternative name for the game, allowing me to use alliteration, and avoiding the complexity that comes with the traditional mahjong tiles, and of course having cultural sensitivity top of mind.
 
-## Background of Mahjong Solitaire
+## A brief history of Mahjong Solitaire
 
 Mahjong Solitaire is widely considered a Western invention in much the same way as French-suited playing cards and their related Patience/Solitaire games. The computer game was originally [created by Brodie Lockard in 1981 on the PLATO system and named Mah-Jongg](https://forest-flower.com/university_old/note.php?timestamp=2019-09-09+03%3A41%3A00) after the game that uses the same tiles for play. Lockard [claimed that it was based on a centuries-old Chinese game called "the Turtle"](https://www.salon.com/2017/11/19/how-a-little-known-computer-network-system-changed-the-history-of-the-internet/) that he had been shown whilst in hospital after a serious accident that left him paralysed from the neck down.
 
