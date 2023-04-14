@@ -13,6 +13,7 @@ nouns:
 - Shanghai
 - PLATO
 - Apple Macintosh
+- Macintosh Classic
 - Macintosh
 - iPad Pro
 - Enzan-Hoshigumi
