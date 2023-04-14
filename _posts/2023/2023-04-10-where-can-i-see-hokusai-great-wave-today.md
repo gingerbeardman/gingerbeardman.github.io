@@ -24,7 +24,7 @@ I've been obsessed with [The Great Wave](https://en.wikipedia.org/wiki/The_Great
 
 The interesting thing about woodblock prints is that the original piece of art was destroyed during the act of [mass production](https://www.youtube.com/watch?v=IBcB_dYtGUg). In the case of The Great Wave, there are around 100 known, publicly viewable, early impressions that were made around the time Hokusai was alive. And there are very many impressions made after his death, not to mention modern prints that are not made using woodblocks.
 
-The trick to seeing one of the early impressions is being in the right place at the right time, because they are sensitive to light and will fade with over-exposure. Most are stored away for several of years before making a brief appearance, and then they go back into storage.
+The trick to seeing one of the early impressions is being in the right place at the right time, because they are sensitive to light and will fade with over-exposure. Most are stored away for several of years, make a brief appearance, and then go back into long-term storage.
 
 [These early impressions vary](https://www.youtube.com/watch?v=U_025NB8alw) in their details, colours and condition, so it's worthwhile seeing more than just one. I've been lucky enough with timing to get to see two different impressions: the first was at The British Museum back in the early 2000s, and the second at [Bristol Museum and Art Gallery](https://www.bristolmuseums.org.uk/bristol-museum-and-art-gallery/whats-on/hokusai-hiroshige-japanese-prints/) in 2018. But in 2021 I missed seeing a different impression at The British Museum, one of three in their collection.
 
