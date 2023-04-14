@@ -26,9 +26,9 @@ comments: https://twitter.com/gingerbeardman/status/1121001887183056897
 
 As part of my ongoing efforts to uncover lost gems from Japan, I recovered two exclusive games made by SEGA in their brief flirtation with Palm OS back in 2002. These games were presented by their Smilebit division at PalmSource Japan Forum 2002. This was around the time SEGA were abandoning consoles and Palm OS seems to have been part of an effort to figure out "what next?".
 
-My journey to these games started with the my purchase of a GC10 game controller adapter and playing its bundled games, one of which featured an old website URL. I then fell deep down the [archive.org](https://archive.org) rabbit hole and managed to find mention of the two games—one had screenshots but neither had downloads—on an old SEGA website. From here I managed to find the PRC files in a set of just over 100 on [chip.de](http://chip.de), a German computer magazine and software download website, the only place they still resided and where they had been long forgotten for decades. Finally, I used the Mu Palm emulator and my Sony CLIÉ SJ22 to try them out and take some screen grabs!
+My journey to these games started with the my purchase of a GC10 game controller adapter and playing its bundled games, one of which featured an old website URL. I then fell deep down the [archive.org](https://web.archive.org/web/20020408142525/http://pda.sega.co.jp/) rabbit hole and managed to find mention of the two games—one had screenshots but neither had downloads—on an old SEGA website. From here I managed to find the PRC files in a set of just over 100 on [chip.de](http://chip.de), a German computer magazine and software download website, the only place they still resided and where they had been long forgotten for decades. Finally, I used the Mu Palm emulator and my Sony CLIÉ SJ22 to try them out and take some screen grabs!
 
-### Triangle Magic
+### Triangle Magic トライアングル マジック
 
 Use the stylus to position triangles on a grid, the aim is to deflect a ball to the goal and collect coins on the way.
 
@@ -38,7 +38,7 @@ This one feels quite familiar today, I can remember several games with a similar
 
 ![PNG](/images/posts/sega-palm-triangle-magic-2.png)
 
-### Borkov
+### Borkov ボルコフ
 
 Use the hardware buttons, or stylus, to make an overweight red-haired man eat chunks of chocolate to match the goal shape.
 
