@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sparrow Solitaire for Playdate
+title: Sparrow Solitaire for Playdate (Early Access)
 tags:
 - playdate
 - mahjong
