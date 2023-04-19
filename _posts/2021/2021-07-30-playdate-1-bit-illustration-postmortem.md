@@ -2,6 +2,7 @@
 layout: post
 tags:
 - 1bit
+- deneba
 - playdate
 - macintosh
 nouns:
