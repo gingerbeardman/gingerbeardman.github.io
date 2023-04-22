@@ -34,7 +34,7 @@ I found a great [YouTube video that showed the process](https://www.youtube.com/
 
 ## The solution
 
-So I decided to try flashing the firmware with the most recent date (version 220906_D1_45_01). The flashing tool, MPTools, needs to have its interface unlocked using the password "asmedia" and then you should select the line in the window that corresponds to your drive. It shouldn't let you flash the wrong drive, but please be careful! 
+So I decided to try flashing the firmware with the most recent date (version [220906_D1_45_01](https://www.usbdev.ru/files/asmedia/asmt2235firmware/)). The flashing tool, MPTools, needs to have its interface unlocked using the password "asmedia" and then you should select the line in the window that corresponds to your drive. It shouldn't let you flash the wrong drive, but please be careful! 
 
 After displaying a green progress bar, the tool declared the process was a "PASS", and everything looked great. I unmounted the disk from Windows and it appeared in macOS — it had worked!
 
