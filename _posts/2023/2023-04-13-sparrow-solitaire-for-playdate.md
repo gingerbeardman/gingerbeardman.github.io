@@ -112,3 +112,7 @@ You can download a high resolution version of this image at [itch.io](https://vo
 
 ![JPG](/images/posts/great-wave-of-mahjong-by-vxcl.jpg "<em>&#x201C;The Great Wave of Mahjong&#x201D;</em>, by Vxcl")
 {:.tofigure}
+
+## Update!
+
+Less than two weeks after version 1.0 we released an update to address a few small issues and add a bunch more content! It features dynamic weather effects, three new tile sets and a bunch more cool stuff. You can [read about version 1.1 in this Twitter thread](https://twitter.com/gingerbeardman/status/1649809550239846405).
