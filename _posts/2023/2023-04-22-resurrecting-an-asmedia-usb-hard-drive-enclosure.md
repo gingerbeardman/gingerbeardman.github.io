@@ -40,4 +40,6 @@ After displaying a green progress bar, the tool declared the process was a "PASS
 
 ## Lights out
 
-The only change after all of this is that the drive enclosure no longer shows a light when powered on, which is a minor inconvenience in the grand scheme of things.
+The only change after all of this is that the drive enclosure no longer shows a LED when powered on, which is a minor inconvenience in the grand scheme of things. 
+
+The LED can be enabled by flashing a slightly less than newest firmware (version [200416_D143_00](https://www.usbdev.ru/files/asmedia/asmt2235firmware/)). At this point, given that it's proven these firmware updates do contain fixes, I think I'd rather be on the latest version.
