@@ -38,8 +38,10 @@ So I decided to try flashing the firmware with the most recent date (version [22
 
 After displaying a green progress bar, the tool declared the process was a "PASS", and everything looked great. I unmounted the disk from Windows and it appeared in macOS — it had worked!
 
-## Lights out
+## Lights out?
 
 The only change after all of this is that the drive enclosure no longer shows a LED when powered on, which is a minor inconvenience in the grand scheme of things. 
 
-The LED can be enabled by flashing a slightly less than newest firmware (version [200416_D143_00](https://www.usbdev.ru/files/asmedia/asmt2235firmware/)). At this point, given that it's proven these firmware updates do contain fixes, I think I'd rather be on the latest version.
+The LED can be enabled by flashing a slightly less than newest firmware (version [200416_D1_43_00](https://www.usbdev.ru/files/asmedia/asmt2235firmware/)). 
+
+At this point, given that it's proven these firmware updates do contain fixes, the choice is yours whether to have the light or not.
