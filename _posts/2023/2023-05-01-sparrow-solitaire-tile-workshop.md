@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sparrow Solitaire Tile Workhop
+title: Sparrow Solitaire Tile Workshop
 tags:
 - playdate
 - mahjong
