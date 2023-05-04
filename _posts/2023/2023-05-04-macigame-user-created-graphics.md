@@ -29,7 +29,7 @@ I recently collected over 250(!) sets of user created graphics for [MaciGame](ht
 
 The user-created graphic sets were all sourced from the amazing [Vector.co.jp](https://www.vector.co.jp/vpack/filearea/osx/game/puzzle/makigame/), extracted from all manner of esoteric vintage archives, organised and packaged as a single compressed disk image to make using them much quicker and easier. [Download it at Macintosh Garden](https://macintoshgarden.org/games/macigame).
 
-Tip: you can browse the folder as a GraphicConverter slideshow to more quickly and easily figure out which you'd like to use or install. The easiest way of using a graphics set is to double click it and it will open MaciGame with the new graphics loaded.
+> Tips: you can browse the folder as a GraphicConverter slideshow to more quickly and easily figure out which you'd like to use or install. The easiest way of using a graphics set is to double click it and it will open MaciGame with the new graphics loaded, though a few images may not have the correct `SaMe` creator code so may need to either have that reset, or be loaded manually using the game menu.
 
 Thanks to [Izumi Okano](https://twitter.com/haeckel) for letting me know about this archive of user created graphics, and also [my Patreon supporters](https://www.patreon.com/gingerbeardman) for allowing me to preserve this type of content.
 
