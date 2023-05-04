@@ -21,7 +21,7 @@ style: |
 
 ---
 
-I recently collected over 250(!) sets of user created graphics for [MaciGame](https://macintoshgarden.org/games/macigame) the classic Macintosh tile-matching puzzle game. 
+I recently collected over 250(!) sets of user created graphics for [MaciGame](https://macintoshgarden.org/games/macigame) the classic Macintosh tile-matching puzzle game by Takeshi "KEN" Takahashi.
 
 > まきがめ (MaciGame) was a wildly popular game worldwide in the mid-to-late 1990s, and there was even a play guide book published about it in its native Japan! The game is a variation of さめがめ ([SameGame](https://gamicus.fandom.com/wiki/SameGame)) by Eiji "Kyoto" Fukumoto, which is in turn a variation of the original game in the genre: [Chain Shot](https://www.asahi-net.or.jp/~ky6k-mrb/chainsht.htm) by Kuniaki "Morisuke" Moribe.
 > 
