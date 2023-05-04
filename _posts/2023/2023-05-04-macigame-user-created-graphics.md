@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MaciGame Extra Koma
+title: MaciGame user created graphics
 tags:
 - samegame
 - japanese
