@@ -45,7 +45,7 @@ As well as recovering the infamous _[Panty](http://hp.vector.co.jp/authors/VA001
 
 ![PNG](/images/posts/macigamekoma-07-eggs.png#compare) ![PNG](/images/posts/macigamekoma-08-faces.png#compare)<br>
 
-![PNG](/images/posts/macigamekoma-09-lines.png#compare) ![PNG](/images/posts/macigamekoma-10-roadworks.png#compare)<br>
+![PNG](/images/posts/macigamekoma-10-roadworks.png#compare) ![PNG](/images/posts/macigamekoma-09-lines.png#compare)<br>
 
 ![PNG](/images/posts/macigamekoma-11-xenomorph.png#compare) ![PNG](/images/posts/macigamekoma-12-zippo.png#compare)<br>
 
