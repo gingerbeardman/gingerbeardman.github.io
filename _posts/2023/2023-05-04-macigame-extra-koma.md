@@ -7,6 +7,7 @@ tags:
 - preservation
 - patreon
 nouns:
+- Macintosh Garden
 - Macintosh
 - MaciGame
 - SameGame
@@ -20,15 +21,13 @@ style: |
 
 ---
 
-I recently collected over 250(!) sets of user created graphics for the classic Macintosh puzzler MaciGame. 
+I recently collected over 250(!) sets of user created graphics for [MaciGame](https://macintoshgarden.org/games/macigame) the classic Macintosh tile-matching puzzle game. 
 
-> MaciGame was a wildly popular game in the mid 90s, there was even a play guide book published about it! It's a variation of SameGame which is in turn a variation of Chain Shot which the original game in the genre. 
+> MaciGame was a wildly popular game worldwide in the mid-to-late 1990s, and there was even a play guide book published about it in its native Japan! The game is a variation of [SameGame](https://gamicus.fandom.com/wiki/SameGame) which is in turn a variation of [Chain Shot](https://www.asahi-net.or.jp/~ky6k-mrb/chainsht.htm) which the original game in the genre. 
 > 
-> The goal of this type of game is to clear the board of blocks by clicking on groups of two or more, empty space is then removed vertical by the remaining blocks dropping down and horizontally by empty columns being replaced by their rightmost column, meaning over time blocks converge in the lower left.
+> The goal of this type of game is to clear the board of blocks by clicking on groups of two or more, empty space is then removed vertical by the remaining blocks dropping down and horizontally by empty columns being replaced by their rightmost column. This means that over time blocks converge in the lower left of the play area.
 
-The user-created graphic sets were all sourced from the amazing Vector.co.jp, extracted from all manner of esoteric vintage archives, organised and packaged as a single compressed disk image to make using them much quicker and easier.
-
-[https://macintoshgarden.org/games/macigame](https://macintoshgarden.org/games/macigame)
+The user-created graphic sets were all sourced from the amazing Vector.co.jp, extracted from all manner of esoteric vintage archives, organised and packaged as a single compressed disk image to make using them much quicker and easier. [Download it at Macintosh Garden](https://macintoshgarden.org/games/macigame).
 
 Tip: you can browse the folder as a GraphicConverter slideshow to more quickly and easily figure out which you'd like to use or install.
 
