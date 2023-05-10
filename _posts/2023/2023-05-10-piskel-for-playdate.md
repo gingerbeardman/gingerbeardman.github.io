@@ -29,6 +29,7 @@ This fork:
   - turns off animated preview by default
   - different window size and positioning
   - stops nagging if run in WebKit
+  - modern macOS icon
 - adds useful community improvements
   - Outliner tool
   - Dither modifier keys
