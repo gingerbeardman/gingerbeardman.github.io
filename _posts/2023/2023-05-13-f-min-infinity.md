@@ -19,7 +19,7 @@ comments: https://twitter.com/gingerbeardman/status/1656736368226074633
 
 This is version 2.1 of F-MIN INFINITY, a sprite-scaler 2D/3D racing game by mpulip for Windows 95. You could describe it as Power Drift meets F-Zero.
 
-The copy of its homepage in Wayback Machine was incomplete, so it took a long time to find a copy of the .lzh archive file. Eventually I managed to locate it in an archive of an obscure old version of a listing page on Vector.
+The copy of its homepage in Wayback Machine was incomplete, as were direct links from [an old feature on Vector](https://web.archive.org/web/20000829131347/https://www.vector.co.jp/magazine/softnews/000729/n000729com1.html), so it took a long time to find a copy of the .lzh archive file. Eventually I managed to locate it in an archive of an obscure old type of listing page on Vector.
 
 I can't say if it was worth it as without my usual VMs I've had limited success running it. For me, the road particles draw in the wrong place so it's too difficult to play. The screenshots below are collected from archives of Vector and the homepage.
 
