@@ -13,7 +13,7 @@ nouns:
 - Windows 95
 - Vector
 - mpulip
-comments: https://twitter.com/gingerbeardman/status/1656736368226074633
+comments: https://twitter.com/gingerbeardman/status/1657408088398241793
 
 ---
 
