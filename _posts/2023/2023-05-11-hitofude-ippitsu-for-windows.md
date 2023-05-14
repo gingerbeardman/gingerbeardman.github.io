@@ -6,6 +6,7 @@ tags:
 - japanese
 - preservation
 - patreon
+- windows
 nouns:
 - Windows 95
 - Windows 3.x

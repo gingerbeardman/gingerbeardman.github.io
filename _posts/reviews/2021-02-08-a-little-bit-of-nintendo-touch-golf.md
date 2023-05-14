@@ -33,7 +33,7 @@ With this tweaked version _T&E SOFT_ took a look at the existing game with fresh
 
 ## Links
 
-- [Watch _Nintendo Touch Golf_ on YouTube.com](https://href.li/?https://www.youtube.com/watch?v=Ch5Ui4RLFbk)
-- [Find out more at mobygames.com](https://href.li/?https://www.mobygames.com/game/true-swing-golf)
+- [Watch _Nintendo Touch Golf_ on YouTube.com](https://www.youtube.com/watch?v=Ch5Ui4RLFbk)
+- [Find out more at mobygames.com](https://www.mobygames.com/game/true-swing-golf)
 - [Read the Iwata Asks about the Chotto series](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.nintendo.co.uk%2FIwata-Asks%2FIwata-Asks-Nintendo-DSi%2FVolume-6-A-little-bit-of-brain-training%2F1-Chotto-%2F1-Chotto--1049361.html&t=ZTM3ZTJjM2IzZmI4MWRjMTBkMmQwZGM0ZGU4YzZiMWUyM2E5MzZiZSwzYzY0NDgzMzgzMTMyZDY0M2ZmM2I2MWM5NGZjZjU4YmQ3MjA0YmFj&ts=1613041554)
 - [Download the DSiWare game at archive.org](https://archive.org/download/no-intro-nintendo-nintendo-dsi-digital)
