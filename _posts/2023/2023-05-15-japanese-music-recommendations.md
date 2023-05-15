@@ -12,7 +12,7 @@ nouns:
 - Masakatsu Takagi
 - Marginalia
 - Sparrow Solitaire
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1658229178636947456
 
 ---
 
