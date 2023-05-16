@@ -16,7 +16,7 @@ comments: https://twitter.com/gingerbeardman/status/1658229178636947456
 
 ---
 
-For the past month or so Apple Music has been suggesting new music from Japanese in my weekly "New Music" playlist. I'm not quite sure what flipped the bit in their recommendation engine, but I'm happy it did. If I had to guess I'd say it was the music I was listening to whilst finishing off [*Sparrow Solitaire* for Playdate](/2023/04/13/sparrow-solitaire-for-playdate/) which has an excellent soundtrack by young Japanese musician [*Yuyake Monster*](https://yuyakemonster.bandcamp.com).
+For the past month or so Apple Music has been suggesting new music from Japan in my weekly "New Music" playlist. I'm not quite sure what flipped the bit in their recommendation engine, but I'm happy it did. If I had to guess I'd say it was the music I was listening to whilst finishing off [*Sparrow Solitaire* for Playdate](/2023/04/13/sparrow-solitaire-for-playdate/) which has an excellent soundtrack by young Japanese musician [*Yuyake Monster*](https://yuyakemonster.bandcamp.com).
 
 It's so great to receive tailored recommendations of music that I enjoy, and occasionally find so good it has me doing somersaults. I'm attempting to keep the most enjoyable from each week in playlists on my [Apple Music profile](https://music.apple.com/profile/mattsephton), so feel free to check them out. There are a lot of artists featured and I only have time to explore those that make the biggest impression.
 
