@@ -28,25 +28,25 @@ IntelligentPad was proposed in 1987 by Professor Yuzuru Tanaka 田中譲 of Know
 
 With it being a tool for [Rapid Application Development](https://en.wikipedia.org/wiki/Rapid_application_development) there are some similarities with Jean-Marie Hullot's [Interface Builder](https://en.wikipedia.org/wiki/Interface_Builder) (1986), Bill Atkinson's [HyperCard](https://en.wikipedia.org/wiki/HyperCard) (1987), Denison Bollay's [Action! (video)](https://vimeo.com/62618532) (1988), Fujitsu's [TownsGEAR](https://twitter.com/gingerbeardman/status/1574018275507412992) (1990), Microsoft's [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic_(classic)) (1991), Borland's [Delphi](https://en.wikipedia.org/wiki/History_of_Delphi_(software)) (1995), and also Apple Research Labs' [Squeak](https://web.archive.org/web/19970104030734/http://www.research.apple.com/research/proj/Learning_Concepts/squeak/intro.html) (1996, which also happened to be created using Smalltalk-80).
 
-IntelligentPad could be used to build a variety of software from a working calculators and digital clocks (as shown in the documentation/tutorials), through to fully blown applications to a [database of nuclear reactors](https://www.jcprg.org/ipad/). Examples quoted in early-1999 included a [Kyoto culture database "THE MIYAKO"][1] (pdf) and IntelligentPad's own "Piazza" project. But, both were still under development at that time.
+IntelligentPad could be used to build a variety of software from a working calculators and digital clocks (as shown in the documentation/tutorials), through to fully blown applications to a [database of nuclear reactors](https://www.jcprg.org/ipad/). Examples quoted in early-1999 included a [Kyoto culture database "THE MIYAKO"][1] (pdf, p.13) and IntelligentPad's own "Piazza" project. But, both were still under development at that time.
 
 ![PNG](/images/posts/intelligentpad-about.png#pixel "IntelligentPad for Macintosh (1994, Hitachi)")
 {:.tofigure}
 
 ### Desktop software
 
-Implementations of the IntelligentPad standard were available for multiple platforms, and all could mutually exchange pads. Hitachi were most active, creating versions for Mac (as both Shareware and limited demo), HP workstations and with Fujitsu a version for Windows. Fujitsu created a version for Solaris workstations. K-Plex released a commercial version under the name [PlexWare](http://www.kplex.com/products/plexware.html) ([Japanese](http://www.kplex.co.jp/products/plexware/PlexWare.html)).
+Implementations of the IntelligentPad standard were available for multiple platforms, and all could mutually exchange pads. Hitachi were most active, creating versions for Mac (as both Shareware and limited demo), HP workstations and a version for Windows with Fujitsu. To add to that Fujitsu created a version for Solaris workstations. Elsewhere K-Plex released a commercial version under the name [PlexWare](http://www.kplex.com/products/plexware.html) ([Japanese](http://www.kplex.co.jp/products/plexware/PlexWare.html)).
 
 From 1993 the standard was overseen by the IntelligentPad Consortium, a non-profit organisation aiming to promote and standardise IntelligentPad. The consortium is made up of 36 corporate members and individual members, including Fujitsu, Hitachi Software Engineering, Fuji Xerox, NTT, and NEC. The same year a live-demo was presented [in Kobe at the first TED conference held outside of North America](https://kobe-cc.jp/kcc/wp-content/uploads/2017/12/139.pdf) (pdf). The proliferation of the world wide web at this point meant the beginning of some adjustments to the concept.
 
-![PNG](/images/posts/intelligentpad-clock.png#pixel "Digital Clock Pad")
+![PNG](/images/posts/intelligentpad-clock.png#pixel "Sample: Digital Clock Pad")
 {:.tofigure}
 
 ### The "Piazza" project
 
 Given that the core concept meant Pads were freely redistributable components, a problem arose that software made using IntelligentPad was difficult to sell. The software was free, Pads were free, and there was no distribution or billing system available.
 
-So, the IntelligentPad Consortium proposed a virtual space for content distribution called Piazza, which was presented at [NicoGRAPH](https://art-science.org/nicograph/) conference of art and science in 1998. Users can place their own applications and image data in the Piazza space in the form of pads, and have other users use (exchange/sell) them. The proposal was complicated by Japan's copyright laws, which caused the need for a middle-man clearing house to be involved issuing copyright registrations and also distributors who would encrypt the content.  It makes the single point of contact of modern App Stores appear to be quite a luxury! 
+So, the IntelligentPad Consortium proposed a virtual space for content distribution called Piazza, which was presented at the [NicoGRAPH](https://art-science.org/nicograph/) conference of art and science in 1998. Users would gain the ability to place their own applications and image data in the Piazza space in the form of pads, and have other users download them. The proposal was complicated by Japan's copyright laws, which caused the need for a middle-man clearing house to be involved issuing copyright registrations, as well as distributors who would encrypt the content. It makes the single point of contact for modern App Stores appear to be the ultimate in luxury!
 
 In March 1999 this was all just an idea, with no working prototype available. Piazza version 1.0 was released in November 1999.
 
