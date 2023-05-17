@@ -83,7 +83,7 @@ By now you might think IntelligentPad is long forgotten, but I'm here to blow yo
 
 ### Further reading
 - [IntelligentPad Consortium home page](hhttp://pads.kplex.co.jp/index.html) (2005)
-- [Report on the 6th IntelligentPad workshop: marketplace for software and components](https://ascii.jp/elem/000/000/315/315443/)(1999)
+- [Report on the 6th IntelligentPad workshop: marketplace for software and components](https://ascii.jp/elem/000/000/315/315443/) (1999)
 - [K-Plex IntelligentPad Overview](http://www.kplex.com/products/intelligentpad.html)
 
 ### Related reading
