@@ -16,7 +16,7 @@ nouns:
 - Squeak
 - Hitachi
 - Piazza
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1658951794809077760
 
 ---
 
