@@ -16,6 +16,7 @@ nouns:
 - Squeak
 - Hitachi
 - Piazza
+- Infinite Mac
 comments: https://twitter.com/gingerbeardman/status/1658951794809077760
 
 ---
@@ -61,7 +62,7 @@ Further proposals included an "internet sandbox" that used the Piazza to connect
 
 My interest in IntelligentPad begun when I found Japanese version 2.0.1J in my archive of [Macintosh Magazine Media](/2021/10/30/macintosh-magazine-media/) on a Japanese MacUser magazine CD-ROM from 1996. With that knowledge I headed over to [DiscMaster](http://discmaster.textfiles.com) and found English version 2.0.1 on a 1996 CD-ROM sold by German Apple reseller GRAVIS that contained their catalogue, software and updates. One world!
 
-You can download those Macintosh files at [https://macintoshgarden.org/apps/intelligentpad](https://macintoshgarden.org/apps/intelligentpad) and try it in a classic Macintosh emulator. Infinite Mac web-based emulator [currently crashes](https://github.com/mihaip/infinite-mac/issues/184) when running it. Documentation is included and there are Tutorials to create a variety of things from a calculator, to a more advanced digital clock, and even a full software application in the form of an interactive map with database browser.
+You can download those Macintosh files at [https://macintoshgarden.org/apps/intelligentpad](https://macintoshgarden.org/apps/intelligentpad) and try it in a classic Macintosh emulator. The Infinite Mac web-based emulator [currently crashes](https://github.com/mihaip/infinite-mac/issues/184) when running it. Documentation is included and there are Tutorials to create a variety of things from a calculator, to a more advanced digital clock, and even a full software application in the form of an interactive map with database browser.
 
 For Windows, IntelligentPad version 4 released in 2000 still works on Windows 8 in XP Mode. There's also a Java version of IntelligentPad. Both can be [downloaded from the Consortium website](http://pads.kplex.co.jp/_taiken/dl2.html) though I am yet to try those specific versions myself.
 
