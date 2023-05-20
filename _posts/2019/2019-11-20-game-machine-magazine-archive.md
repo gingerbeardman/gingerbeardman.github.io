@@ -29,3 +29,5 @@ https://archive.org/details/game-machine-magazine-19821129p
 Thanks to the fine folks at ONION software / onitama and Amusement Press Inc. for making these available. The scans are well done with OCR selectable/searchable Japanese text. 
 
 I took some time to mirror the collection at the Internet Archive. Enjoy!
+
+Update, May 2023: A further 269 issues of Japanese arcade magazine GAME MACHINE spanning 1991/01 to 2002/06 have been uploaded to Internet Archive, which brings the current total to 612!
