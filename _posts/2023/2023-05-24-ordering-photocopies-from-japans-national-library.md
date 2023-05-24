@@ -9,7 +9,7 @@ tags:
 nouns:
 - National Diet Library
 - NDL
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1661358430546718720
 
 ---
 
