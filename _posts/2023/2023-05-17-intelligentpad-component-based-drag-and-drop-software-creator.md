@@ -17,6 +17,7 @@ nouns:
 - Hitachi
 - Piazza
 - Infinite Mac
+featured: true
 comments: https://twitter.com/gingerbeardman/status/1658951794809077760
 
 ---
