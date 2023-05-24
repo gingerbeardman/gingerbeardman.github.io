@@ -35,7 +35,7 @@ It turns out this process is pretty old-school, powered by a mix of website and 
 
 ## Costs
 
-My request was only 3 magazine pages which, when scanned two-at-a-time, fit on two A3 photocopies. 
+My request was only 3 magazine pages which, when scanned two-at-a-time, fit on two A3 sheets. 
 
 | Charge                   | Cost     |
 |--------------------------|----------|
