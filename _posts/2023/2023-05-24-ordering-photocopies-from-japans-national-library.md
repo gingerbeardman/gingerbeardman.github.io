@@ -46,7 +46,7 @@ My request was only 3 magazine pages which, when scanned two-at-a-time, fit on t
 | **Total**                | **¥836** |
 |--------------------------|----------|
 
-Note: they recommend online payment by card as it's free. If you really need to you can pay by bank transfer, but it costs an extra ¥4,000!
+Note: they recommend online payment by card as it's free. If you really need to you can pay by bank transfer, but it costs an extra ¥4,000! Yikes.
 
 ## Paying
 
