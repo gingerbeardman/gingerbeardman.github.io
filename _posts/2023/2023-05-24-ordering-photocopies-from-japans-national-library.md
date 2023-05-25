@@ -19,7 +19,7 @@ Recently I have been looking for a specific issue of an old 1985 Japanese PC mag
 
 Japan has very strict copyright laws which are obeyed by their citizens and that goes for the library and its employees. Even though the magazine in question had been scanned onto their system the scans can only be viewed in person at NDL. That's because even though the magazine is from 1985 it's still in copyright so it's a breach of that copyright to send the scans digitally: either over the internet to your web browser or by email. But they are totally fine making a photocopy and posting it to you. In this particular scenario, I'm totally fine with that! 
 
-> Note: the majority of this process happens *in Japanese* so make sure to use the built-in translation features of your operating system (iOS can translate any selected text), email service (Gmail will offer to translate foreign language emails), or web browser (Safari and Google Chrome can translate any web page). With that out of the way, let's go!
+> Note: the majority of this process happens *in Japanese* so make sure to use the built-in translation features of your operating system (*iOS* can translate any selected text), email service (*Gmail* will offer to translate foreign language emails), or web browser (*Safari* and *Chrome* can translate any web page). With that out of the way, let's go!
 
 ## Step-by-step
 
