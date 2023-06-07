@@ -20,7 +20,7 @@ nouns:
 - GTi Club+
 - GTi Club
 - Dark Souls
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1666517417218940934
 
 ---
 
