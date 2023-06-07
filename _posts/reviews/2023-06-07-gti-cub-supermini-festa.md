@@ -28,7 +28,7 @@ comments: https://twitter.com/gingerbeardman/status/1666517417218940934
 
 **The ultimate hot hatch.**
 
-Most people are familiar with the first game in the series due to its prevalence in arcades in the 1990s. The second game in the series is very hard to find in the wild, whilst the third is perhaps least known but at least a little easier to find and play today. 
+Most people are familiar with the first game in the GTi Club series due to its prevalence in arcades throughout the later half of the 1990s. The second game in the series is very hard to find in the wild, whilst the third is perhaps least known but a little easier to find and play today.
 
 The PlayStation 3 received a loose port of the first arcade game, as GTi Club+, though it takes a lot of liberties. You may not notice if you're going from 20-something year old memories of the original arcade game, but to me it feels more Western than Japanese and the classic GTi Club handling is largely missing. It's very much a "blue sky" reinterpretation of the original arcade game running in the Sumo Digital racing game engine. It's OK, but that's all.
 
