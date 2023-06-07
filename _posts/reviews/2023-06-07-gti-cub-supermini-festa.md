@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Review: GTi Club Supermini Festa!'
-date: '2023-06-01T23:16:18+00:00'
+date: '2023-06-07T16:46:18+00:00'
 tags:
 - nintendowii
 - sonypsp
