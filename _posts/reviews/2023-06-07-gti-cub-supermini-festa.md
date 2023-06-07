@@ -14,9 +14,12 @@ tags:
 - driving
 nouns:
 - Konami
+- Nintendo
 - Wii
+- Sony
 - PSP
 - PlayStation 3
+- Sumo Digital
 - GTi Club+
 - GTi Club
 - Dark Souls
@@ -35,7 +38,7 @@ The PlayStation 3 received a loose port of the first arcade game, as GTi Club+, 
 
 And that brings us to the home ports of _GTi Club: Supermini Festa!_ The third game in Konami's arcade series added extra locations, cars, and game modes to the original recipe whilst keeping the much loved controls including the handbrake. For this home port developer Genki built on the base of the arcade game and added even more, including online multi-player, game progression, and unlockable cars, modifications, liveries. And you can still play it online today with a modded Wii!
 
-Released amongst the aftermath of the Icelandic ash cloud and greeted with physical delays before its arrival in retail stores, and perhaps even onto digital store fronts. The game finally released in Spring 2010, a mere two years after its release in arcades. The choice of Wii and PSP is a curious one, explained in part by the Wii being a huge seller but the PSP is an odd choice. Maybe it was easy to target both these 480p platforms with one codebase? Due to the capabilities of the target home platforms the HD graphics of the arcade game are downscaled in resolution and complexity to 480p, and at least on Wii the frame rate is kept high at 60fps.
+Released amongst the aftermath of the Icelandic ash cloud and greeted with physical delays before its arrival in retail stores, and perhaps even onto digital store fronts. The game finally released in Spring 2010, a mere two years after its release in arcades. The choice of Nintendo Wii and Sony PSP is a curious one, explained in part by the Wii being a huge seller but the PSP remains an odd choice. Maybe it was easy to target both these 480p platforms with one codebase or maybe it made more sense from a Japanese perspective? Regardless, due to the capabilities of the target home platforms the HD graphics of the arcade game are downscaled in resolution and complexity to 480p and, at least on Wii, the frame rate is kept high at 60fps.
 
 Your first few games with _GTi Club: Supermini Festa!_ might have you feeling a little nonplussed, and that was my experience when I received it in the post in March 2010. I played it for a bit and put it to one side. It was over a decade later that I returned to play it again — with a more open mind — and it really sunk its teeth into me. The game starts off very easy, almost too easy, as you set about unlocking cars and game modes. You might think that there is no challenge, but before long you'll notice that difficulty begins to ramp up and you have to be a little more selective car choice and which cars and how you level-up your stats. By about half way through the game, and perhaps earlier if you're going for gold medals, you'll need to figure out that to remaining competitive means figuring out the correct car to use for each challenge and failure to do so will result in you hitting an impasse. It's a very Japanese level of difficulty, one could describe it as the Dark Souls of driving games. I've seen many people hit this wall and abandon the game just as it is about to show them what it really has up its sleeve. Nintendo do the same thing in many of their games, where you play through it once and only then are the most dedicated players greeted with the main event.
 
