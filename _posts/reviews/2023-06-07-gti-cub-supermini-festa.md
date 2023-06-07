@@ -20,6 +20,7 @@ nouns:
 - GTi Club+
 - GTi Club
 - Dark Souls
+- Genki
 comments: https://twitter.com/gingerbeardman/status/1666517417218940934
 
 ---
@@ -32,7 +33,7 @@ Most people are familiar with the first game in the GTi Club series due to its p
 
 The PlayStation 3 received a loose port of the first arcade game, as GTi Club+, though it takes a lot of liberties. You may not notice if you're going from 20-something year old memories of the original arcade game, but to me it feels more Western than Japanese and the classic GTi Club handling is largely missing. It's very much a "blue sky" reinterpretation of the original arcade game running in the Sumo Digital racing game engine. It's OK, but that's all.
 
-And that brings us to the home ports of _GTi Club: Supermini Festa!_ The third game in Konami's arcade series added extra locations, cars, and game modes to the original recipe whilst keeping the much loved controls including the handbrake. For this home port Developer Genki built on the base of the arcade game and added even more, including online multi-player, game progression, and unlockable cars, modifications, liveries. And you can still play it online today with a modded Wii!
+And that brings us to the home ports of _GTi Club: Supermini Festa!_ The third game in Konami's arcade series added extra locations, cars, and game modes to the original recipe whilst keeping the much loved controls including the handbrake. For this home port developer Genki built on the base of the arcade game and added even more, including online multi-player, game progression, and unlockable cars, modifications, liveries. And you can still play it online today with a modded Wii!
 
 Released amongst the aftermath of the Icelandic ash cloud and greeted with physical delays before its arrival in retail stores, and perhaps even onto digital store fronts. The game finally released in Spring 2010, a mere two years after its release in arcades. The choice of Wii and PSP is a curious one, explained in part by the Wii being a huge seller but the PSP is an odd choice. Maybe it was easy to target both these 480p platforms with one codebase? Due to the capabilities of the target home platforms the HD graphics of the arcade game are downscaled in resolution and complexity to 480p, and at least on Wii the frame rate is kept high at 60fps.
 
