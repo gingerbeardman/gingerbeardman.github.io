@@ -15,6 +15,8 @@ tags:
 nouns:
 - Konami
 - Nintendo
+- Wii Classic Controller Pro
+- Wii SNES Controller
 - Wii
 - Sony
 - PSP
@@ -24,8 +26,6 @@ nouns:
 - GTi Club
 - Dark Souls
 - Genki
-- Wii Classic Controller Pro
-- Wii SNES Controller
 comments: https://twitter.com/gingerbeardman/status/1666517417218940934
 
 ---
