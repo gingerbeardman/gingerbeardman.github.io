@@ -22,7 +22,7 @@ comments: https://twitter.com/gingerbeardman/status/1666465968766197760
 Some things you probably didn’t realise about the design of the original *[Sony PlayStation](https://en.wikipedia.org/wiki/PlayStation_(console))*:
 
 - it was inspired by Apple's *[Macintosh Plus](https://en.wikipedia.org/wiki/Macintosh_Plus)*
-- the colour is grey with a hint of violet to counteract ageing/yellowing
+- the colour is grey with a hint of violet to counteract plastic ageing/yellowing
 - *Sony* acquired the PlayStation name from Yamaha
 - it led to the *[VAIO](https://en.wikipedia.org/wiki/Vaio)* range of PCs
 
