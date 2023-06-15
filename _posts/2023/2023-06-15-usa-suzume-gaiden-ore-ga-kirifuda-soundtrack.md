@@ -29,8 +29,8 @@ I'm going to recommend using RetroArch to play this:
 3. [download PC-98 System files](https://github.com/Abdess/retroarch_system/tree/libretro/NEC%20-%20PC-98)
 4. start RetroArch
 5. system files will need to go into RetroArch System folder, check Settings > Directory > System/BIOS and move them there
-6. download PC-98 core: main menu > online updater > core downloader > NEC PC-98 (Neko project II Kai)
-7. start the game: main menu > load content > (choose game zip) > load > NEC PC-98
+6. download PC-98 core: Main Menu > Online Updater > Core Downloader > NEC PC-98 (Neko project II Kai)
+7. start the game: Main Menu > Load Content > (choose game zip) > Load > NEC PC-98
 
 You can play the game using mouse, though I used the right analog stick and a single button of a game controller...have fun!
 
