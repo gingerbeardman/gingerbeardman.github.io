@@ -17,9 +17,28 @@ comments: https://twitter.com/gingerbeardman/status/1669433473117966361
 
 I recently played through COMPILE’s うさ雀外伝 俺が切り札！ “Usa suzume gaiden ore ga kirifuda!” (a ninja-themed Hanafuda Koi-Koi game for PC-98 featured on Disc Station Vol. 10) and took the liberty of recording its great soundtrack as I went along.
 
+![PNG](/images/posts/kirifuda.png#pixel "うさ雀外伝 俺が切り札！ “Usa suzume gaiden ore ga kirifuda!”")
+
+## Soundtrack download
+
 [https://archive.org/details/usa-suzume-gaiden-ore-ga-kirifuda-pc-98-unofficial-soundtrack](https://archive.org/details/usa-suzume-gaiden-ore-ga-kirifuda-pc-98-unofficial-soundtrack)
 
-![PNG](/images/posts/kirifuda.png#pixel "うさ雀外伝 俺が切り札！ “Usa suzume gaiden ore ga kirifuda!”")
+Track listing:
+
+1. Logo (SFX) *00:02*
+2. Intro *03:00*
+3. Start (SFX) *00:06*
+4. World Ninja Atlas *03:06*
+5. Deal (SFX) *00:10*
+6. Normal Round *03:07*
+7. Final Round *03:05*
+8. Chime (SFX) *00:02*
+9. Scores (SFX) *00:06*
+10. Lose (SFX) *00:05*
+11. Win (SFX) *00:03*
+12. Ending *01:51*
+
+---- 
 
 ## How to play the game
 
