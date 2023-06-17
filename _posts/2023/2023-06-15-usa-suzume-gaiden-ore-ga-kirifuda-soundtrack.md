@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Usa suzume gaiden ore ga kirifuda! (Soundtrack)
+title: Usajong gaiden ore ga kirifuda! (Soundtrack)
 tags:
 - hanafuda
 - koikoi
