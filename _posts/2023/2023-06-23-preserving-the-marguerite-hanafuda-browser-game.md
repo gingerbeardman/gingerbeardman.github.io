@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marguerite Hanafuda
+title: Preserving the Marguerite Hanafuda browser game
 tags:
 - hanafuda
 - koikoi
