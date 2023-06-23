@@ -10,7 +10,7 @@ tags:
 nouns:
 - Marguerite
 - Wayback Machine
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1672264645199945730
 
 ---
 
@@ -39,18 +39,19 @@ The complete list of rules offered:
 
 The site went offline mid-2022, about a year ago at this point, and all was thought to be lost. We had tried the Wayback Machine but the archive seemed incomplete. 
 
-This week Marguerite was mentioned on the [Hanafuda Discord](https://discord.io/hanafuda), so I decided to try again. Taking a fresh look at the state of the site, it seemed to be stalling on load from some missing images.
+This week Marguerite was mentioned on the [Hanafuda Discord](https://discord.io/hanafuda), so I decided to try again. Taking a fresh look at the state of the site, it seemed to be stalling trying to load two images.
 
-A couple of small changes later — two hard-coded URLs in the JavaScript pointed to the dead website — I managed to get the desktop version of the Marguerite Hanafuda working locally! 
+A couple of small changes later (two hard-coded URLs in the JavaScript pointed to the dead website) I managed to get the desktop version of the Marguerite Hanafuda working locally!
 
 ## It's alive!
 
 So, I'm now hosting a mirror copy on my website: [https://marguerite.gingerbeardman.com](https://marguerite.gingerbeardman.com)
 
 Notes:
+- Sound requires Chrome
 - Safari/Chrome built-in translation works well for this web app
 - Some links out of the game will be broken
-- Sound requires Chrome
+- if Marguerite.jp comes back online I'll remove my mirror
 
 Read more about the game rules:
 - [Fuda Wiki](https://fudawiki.org/en/hanafuda/games) (English)
