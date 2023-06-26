@@ -39,7 +39,7 @@ I played Ball und Panzer Golf v0.94 on an X68000 emulator and was instantly hook
 
 I currently spend my time creating games for [Playdate](https://play.date), a handheld gaming system with a black and white screen and a unique crank control as a method of input. Whilst on a walk in the park I couldn't stop thinking of kata68k's game and how it might work on Playdate. When I got back to my computer I wrote a little bit of Lua code to draw an elliptical golf green on screen, then added a hole, a flag pole and a flag with a number on it. Then I added a loop to generate random positions and drew 18 holes, adjusted the size so they all fitted a bit better. It might just work.
 
-![PNG](/images/posts/ball-und-panzer-golf-01.png#playdate "The first 18 holes, eat your heart out Pebble Beach!")
+![PNG](/images/posts/ball-und-panzer-golf-01.png#playdate "The first 18 holes, eat your heart out <em>Pebble Beach no Hatou</em>!")
 {:.tofigure}
 
 After a quick dinner, it was time to draw the tank. I really didn't want to slow down my pace of progress so I decided to keep drawing the graphical elements in code using filled shapes rather then have to draw a tank in pixels. Another option would have been to use one of the cars from my game [Daily Driver](https://blog.gingerbeardman.com/2021/08/23/daily-driver-teaser-artwork/), but it was simply quicker and easier to draw an ellipse with a line to show the turret position.
