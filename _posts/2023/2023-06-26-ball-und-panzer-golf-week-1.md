@@ -66,7 +66,7 @@ At the end of the day you could drive the tank around the screen, fire the ball 
 | 18:00 | draw tank |
 | 18:20 | (ask permission from kata68k) |
 | 19:00 | background (interesting use of Perlin and random) |
-| 20:00 | add controls to tank (8pm) |
+| 20:00 | add controls to tank |
 | 20:10 | (send update to kata68k) |
 | 21:00 | limit tank to circular area (tricky but fun) |
 | 22:00 | ball moving |
