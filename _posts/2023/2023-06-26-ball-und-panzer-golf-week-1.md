@@ -25,7 +25,7 @@ I've been following the X68000 Z since it's announcement in the hope that it wil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zPrF9xcipPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Enter kata68k
+## Hello kata68k
 
 It was Ball und Panzer Golf an indie/doujin game by [@kata68k](https://twitter.com/kata68k) for the Sharp X68000 series of Japanese personal computers and the recent [*Zuiki X68000 Z*](https://www.zuiki.co.jp/products/x68000z/) mini system, a new emulator based reimagining of the original classic computer. The game name is a pun on the anime series [*Girls und Panzer*](https://en.wikipedia.org/wiki/Girls_und_Panzer) and its shortened version is BuPG which I assume is a pun on *PUBG*.
 
