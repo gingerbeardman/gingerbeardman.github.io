@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ball und Panzer Golf: week 1'
-date: '2023-06-26T23:04+01:00'
+date: '2023-06-26T22:11:00+00:00'
 tags:
 - x68000
 - playdate
@@ -93,9 +93,14 @@ For the rest of the week I polished and played, addressing areas that I thought 
 
 For the last couple of days of the week I kept release notes, as I felt the pace of progress slowing down towards the end of my self-imposed deadline of one week. I would categorise most changes as either quality of life improvements or minor bug fixes.
 
-I had not optimised any of the code and was targeting the default 30 frames per second. On the final evening I optimised all text drawing in my main update path, as I could see that was making up a huge portion of where my game was spending its time, with the CPU pegged at 100% and the framerate not able to hit the target 30fps. So the flags with numbers on were pre-rendered as images during initalisation, and the HUD is drawn only when its contents change, and the image is cached for use at other times. These two small and quick optimisations reduced the CPU usage by 20% and put me at a solid 30fps.
+I had not optimised any of the code and was targeting the default 30 frames per second. On the final evening I optimised all text drawing in my main update path, as I could see that was making up a huge portion of where my game was spending its time, with the CPU pegged at 100% and the frame rate not able to hit the target 30fps. So the flags with numbers on were pre-rendered as images during initialisation, and the HUD is drawn only when its contents change, and the image is cached for use at other times. These two small and quick optimisations reduced the CPU usage by 20% and put me at a solid 30fps.
 
 There are many more optimisations to be made but this is not the time to do them. There's to much still to do and I don't want to lose focus. But for example: I'm not currently using the Playdate SDK Sprite system and am instead doing things the traditional way of drawing everything every update, so I'm positive I can get some good gains by drawing to a few different sprite layers. There are also some functions I call regularly, such as one that counts remaining holes, that can be optimised or avoided by improving my game logic. I'm confident I can get the CPU time down a good bit more. There's no real need to do so, but I figure anything that will help reduce power usage or is good for the player is a honourable responsibility for a developer with a conscience to take on.
+
+All the graphics are still composed with filled ellipses, rectangles, lines and varying their dithering. I really leaned into this and over the course of the week fine tuned the tank from a three-wheeled blob to a high contrast, detailed, carefully animated sprite that most people might think has been rendered externally. Maybe in a forthcoming post I can put together an exploded diagram of how it's drawn?
+
+![GIF](/images/posts/ball-und-panzer-golf-05.gif#playdate "Ball und Panzer Golf for Playdate, at the end of the first week")
+{:.tofigure}
 
 ## What's next?
 
@@ -105,9 +110,10 @@ The only things I didn't manage to fit in in my week sprint were a couple of ani
 
 Also on the task list are a couple more sound effects, with the goal being one sound effect for each important event or action in the game. I feel that sounds cues are as important as visual cues and players could pick up on one or the other so there should ideally be parity.
 
-The big remaining task that will take a lot longer than a week is game structure and progression. I have ideas of how I can package the structure of the game now into a short experience with increasing difficulty level and an infinite replay-ability. But the bigger question is do I want it to be bigger than that? There are no shortage of ideas how how to mashup to concept of tanks and golf, only a shortage of time and budget to make it happen. I could even add a mini-golf type of experience where you're playing a round of single screen holes with additional hazards pulled from both the golf and tank world. 
+I can't keep up the insanely fast pace of development from this first week, not only because of the physical toll it would take but also because the quick wins of the prototype phase are now gone. To add the animations I previously mentioned, the first serious refactoring of part of the code will be needed. So there is no choice but for progress to be slower and more deliberate from this point.
+
+The big remaining task that will take a lot longer than a week is game structure and progression. I have ideas of how I can package the structure of the game now into a short experience with increasing difficulty level and an infinite replay-ability.
+
+But the bigger question is do I want it to be bigger than that? There are no shortage of ideas how how to mashup to concept of tanks and golf, only a shortage of time and budget to make it happen. I could even add a mini-golf type of experience where you're playing a round of single screen holes with additional hazards pulled from both the golf and tank world. 
 
 Let's see what happens.
-
-![GIF](/images/posts/ball-und-panzer-golf-05.gif#playdate "Ball und Panzer Golf for Playdate, at the end of the first week")
-{:.tofigure}
