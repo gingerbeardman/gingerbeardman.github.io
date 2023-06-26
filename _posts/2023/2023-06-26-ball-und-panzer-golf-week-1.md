@@ -74,7 +74,7 @@ At the end of the day you could drive the tank around the screen, fire the ball 
 | 22:30 | add game states |
 | 23:00 | add ball height capability |
 | 23:45 | (send update to kata68k) |
-| 00:26 | tweet about it |
+| 00:26 | [tweet about it](https://twitter.com/gingerbeardman/status/1670573820581650434) |
 
 ---- 
 
