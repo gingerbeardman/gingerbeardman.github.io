@@ -29,7 +29,7 @@ I've been following the X68000 Z since it's announcement in the hope that it wil
 
 It was Ball und Panzer Golf an indie/doujin game by [@kata68k](https://twitter.com/kata68k) for the Sharp X68000 series of Japanese personal computers and the recent [*Zuiki X68000 Z*](https://www.zuiki.co.jp/products/x68000z/) mini system, a new emulator based reimagining of the original classic computer. The game name is a pun on the anime series [*Girls und Panzer*](https://en.wikipedia.org/wiki/Girls_und_Panzer) and its shortened version is BuPG which I assume is a pun on *PUBG*.
 
-kata68k's game, as the name implies, is golf but with a tank. It was created in May 2023 and fine tuned for a few weeks, [released in time for "68 Day"](https://twitter.com/kata68k/status/1666099628947968006?s=20). It's a single player game where you use the tank to shoot holes-in-one on a golf course and try to destroy all flags. All this to say it plays like golf, kinda, but with a focus of high scores.
+kata68k's game, as the name implies, is golf but with a tank. It was created in May 2023 and fine tuned for a few weeks, [released in time for "68 Day"](https://twitter.com/kata68k/status/1666099628947968006?s=20). It's a single player game where you use the tank to shoot holes-in-one on a golf course and try to destroy all flags. All this to say it plays like golf, kinda, but with a focus on high scores.
 
 > Aside: my favourite source of X68000 content is the [*PipitanTV* YouTube channel](https://www.youtube.com/user/pipipicpsf), run by [@pipixvi](https://twitter.com/pipixvi), which has a [longer screen capture video](https://www.youtube.com/watch?v=FMrsHfuuTR8&t=22s) of Ball und Panzer Golf.
 
