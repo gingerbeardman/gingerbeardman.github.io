@@ -17,6 +17,7 @@ nouns:
 - Zuiki
 - X68000 Z
 - X68000
+featured: true
 comments: https://twitter.com/gingerbeardman/status/1670573806765719553
 
 ---
