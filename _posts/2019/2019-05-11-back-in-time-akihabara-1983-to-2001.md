@@ -11,6 +11,11 @@ nouns:
 - Akihabara
 - Akiba
 - Netscape Navigator
+- ASCII
+- Technopolis
+- I/O
+- Pio
+- POPCOM
 comments: https://twitter.com/gingerbeardman/status/1127347071042953218
 
 ---
@@ -20,6 +25,8 @@ I often browse old Japanese console and computer magazines. I'm mainly searching
 Recently, whilst browsing an old issue of [POPCOM](https://ja.wikipedia.org/wiki/ポプコム) over at the wonderful Internet Archive, I found a period map of the [Akihabara](https://en.wikipedia.org/wiki/Akihabara) 秋葉原 district — famous for its multitude of stores selling electronics, video games and other otaku goods. 
 
 I shared the map on Twitter, where it was well received, so I decided to go into this a bit more deeply here. 
+
+If you're into that sort of thing, there's [a blog post with history of the area](http://blog.livedoor.jp/mouseunit/archives/55039621.html) and its name change.
 
 
 ### 1982
@@ -53,7 +60,7 @@ This one [I found referenced on Twitter](https://twitter.com/yoshinokentarou/sta
 
 ## 1987
 
-[One from 1987 on Twitter](https://twitter.com/gantaro_junker/status/956173893730889735). This one I have tracked down as being from [ラジオ技術　1987年6月号 the June 1987 issue of Radio Technology](https://junkmouse.net/product/ラジオ技術%E3%80%801987年6月号/).
+[One from 1987 on Twitter](https://twitter.com/gantaro_junker/status/956173893730889735). This one I have tracked down as being from [ラジオ技術　1987年6月号](https://junkmouse.net/product/ラジオ技術%E3%80%801987年6月号/) the June 1987 issue of Radio Technology.
 
 ![Akihabara, June 1987](/images/posts/akihabara-1987.jpg)
 
@@ -68,7 +75,15 @@ This one from Google, but thankfully also present on Internet Archive. From I/O 
 ![Akihabara, July 1988](/images/posts/akihabara-1988.jpg)
 
 
-> There's a big gap here as the transition from print media to digital maps happened. I'd like to fill it as much as possible. [Get in touch](https://twitter.com/gingerbeardman) if you have a map of Akihabara from the missing years.
+> There's a big gap here as the transition from print media to digital maps happened. I'd like to fill it as much as possible. [Get in touch](https://twitter.com/gingerbeardman) if you have a map of Akihabara from the missing years. The Japanese あきはばら地図 means "Akihabara map".
+
+## 1995
+
+There are three really cool maps in ゲームウララ Vol.1より Game Urara Vol. 1 featuring PC, video game and food/ammenities.
+
+* [https://archive.org/details/gameurara-vol1-1995-600DPI/Game%20Urara%20-%20Vol.%201%20%28Searchable%29/page/n101/mode/2up](https://archive.org/details/gameurara-vol1-1995-600DPI/Game%20Urara%20-%20Vol.%201%20%28Searchable%29/page/n101/mode/2up)
+
+![Akihabara, 1995](/images/posts/akihabara-1995.jpg)
 
 
 ### 1996
