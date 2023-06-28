@@ -35,8 +35,7 @@ I shared the map on Twitter, where it was well received, so I decided to go into
 
 ## Browse by Year
 
-[1976](#1976) 
-[1982](#1982) 
+[1976](#1976)…[1982](#1982) 
 [1983](#1983) 
 [1984](#1984) 
 [1985](#1985) 
