@@ -29,7 +29,7 @@ I shared the map on Twitter, where it was well received, so I decided to go into
 
 [Get in touch](https://twitter.com/gingerbeardman) if you have a map of Akihabara from the missing years. The Japanese あきはばら地図 or 秋葉原マップ mean "Akihabara map".
 
-> If you're into that sort of thing, there's [a blog post with history of the area](http://blog.livedoor.jp/mouseunit/archives/55039621.html) and its name change.
+> **Further reading in Japanese:** there's a [great article at NIKKEI](https://www.nikkei.com/article/DGXMZO76881870Q4A910C1000000/) that's well worth a read. If you want something heavier, there's [a blog post with history of the area](http://blog.livedoor.jp/mouseunit/archives/55039621.html) and its name change. 
 
 ----
 
