@@ -182,7 +182,7 @@ Whilst searching my ever-growing archive of [Japanese Macintosh Media](https://w
 
 The 250+ maps it contains are hyperlinked in a multitude of ways and the website navigates quite well considering its age. I've had most luck browsing using Netscape Navigator 3.01 (ja). The whole thing is quite comprehensive: maps are split into geographical zones and are detailed to a building floor level. Alternative lists by category and product type are also included. There are a total of 221 stores, of which 68 are member stores and receive more in-depth coverage with their own page and photos.
 
-[![PNG](/images/posts/akihabara-1996.png)](akihabara-1996.png)
+[![PNG](/images/posts/akihabara-1996.png)](/images/posts/akihabara-1996.png)
 
 Another [one from 1996 via Google](http://misoji-no-wakaremiti.cocolog-nifty.com/blog/2012/08/201208171995-fe.html), which was featured in the 「ASCII-DATES 1996」 notebook.
 
