@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Back In Time: Akihabara (1982–2001)'
+last_modified_at: '2023-06-28T14:09+01:00'
 tags:
 - history
 - japan
@@ -36,10 +37,6 @@ Note: in the magazine the map is followed by 4 pages of listings that refer to t
 *   [https://archive.org/details/POPCOM198305/page/n73](https://archive.org/details/POPCOM198305/page/n73)
 
 ![Akihabara, May 1983](/images/posts/akihabara-1983.jpg)
-
-A slightly later hand-drawn map is featured in [LOGiN 1983 No. 11](https://archive.org/details/login-november-1983/page/n11/mode/2up?view=theater) in an Shibuya-focused edition of its ShopNews column.
-
-![Akihabara, November 1983](/images/posts/akihabara-1983-november.jpg)
 
 
 ### 1996
