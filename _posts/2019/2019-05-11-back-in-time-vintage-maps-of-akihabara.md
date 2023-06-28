@@ -227,15 +227,15 @@ Download _akibaweb2kr1_ below, or from the following [archive.org](https://archi
 
 The digital download versions of Kosapi's Akiba Map were updated until around 2001, when I guess easy access to the internet made offline maps like this somewhat less useful.
 
-But the FileMaker Pro database is interesting, as it can still be loaded and viewed on modern macOS. When I loaded it into FileMaker Pro 11 — a vintage Trial version from 2010 that _just about_ manages to run on macOS 10.13.6 — the database was converted to a more modern format that I've attached to this post (download _akibamapti.fp7_ below). You can click around hyperlinks to navigate and view business details in a very CD-ROM kind of way. 
+But the FileMaker Pro database is interesting, as it can still be loaded and viewed on modern macOS. Using a vintage Trial version of FileMaker Pro 11 from 2010 which _just about_ manages to run on macOS 10.13.6 — the database can be converted to a more modern format. You can click around hyperlinks to navigate and view business details in a very CD-ROM kind of way. 
 
-Anyway, I did a bunch of image grabbing and assembling to put together this large 27.8 megapixel version of the map (download _akiba-2001_ below):
+Anyway, I did a bunch of image grabbing and assembling to put together this large 27.8 megapixel version of the map (click the image below):
 
 [![PNG](/images/posts/akihabara-2001.png)](/images/posts/akihabara-2001.png)
 
 ----
 
-### 1999–2009
+### Aside: 1999–2009
 
 For 10 years, an interactive online map was published by Impress Corporation under the title of _AKIBA PC Hotline!_ It's similar to _Kosapi's Akiba Map_ and arguably better made.
 
