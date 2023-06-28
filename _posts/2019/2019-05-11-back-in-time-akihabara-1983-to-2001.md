@@ -25,7 +25,7 @@ I often browse old Japanese console and computer magazines. I'm mainly searching
 
 Recently, whilst browsing an old issue of [POPCOM](https://ja.wikipedia.org/wiki/ポプコム) over at the wonderful Internet Archive, I found a period map of the [Akihabara](https://en.wikipedia.org/wiki/Akihabara) 秋葉原 district — famous for its multitude of stores selling electronics, video games and other otaku goods. 
 
-I shared the map on Twitter, where it was well received, so I decided to go into this a bit more deeply here. 
+I shared the map on Twitter, where it was well received, so I decided to go into this a bit more deeply here. Every so often I add any maps I find and there are now over 20 covering almost every year throughout the 1980s and 1990s.
 
 [Get in touch](https://twitter.com/gingerbeardman) if you have a map of Akihabara from the missing years. The Japanese あきはばら地図 or 秋葉原マップ mean "Akihabara map".
 
