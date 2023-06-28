@@ -40,9 +40,28 @@ Note: in the magazine the map is followed by 4 pages of listings that refer to t
 ![Akihabara, May 1983](/images/posts/akihabara-1983.jpg)
 
 
+## 1985
+
+This one [I found referenced on Twitter](https://twitter.com/yoshinokentarou/status/1578567956249706496), a lovely map from the April 1985 issue of POPCOM (complete with cover artwork by Hiroshi Okamoto)
+
+* [https://archive.org/details/popcom-198504/page/122/mode/2up](https://archive.org/details/popcom-198504/page/122/mode/2up)
+
+![Akihabara, April 1985](/images/posts/akihabara-1985.jpg)
+
+
 ## 1987
 
 [One from 1987 on Twitter](https://twitter.com/gantaro_junker/status/956173893730889735). This one I have tracked down as being from [ラジオ技術　1987年6月号 the June 1987 issue of Radio Technology](https://junkmouse.net/product/ラジオ技術%E3%80%801987年6月号/).
+
+![Akihabara, June 1987](/images/posts/akihabara-1987.jpg)
+
+
+## 1988
+
+This one from Google, but thankfully also present on Internet Archive. From I/O アイ・オー 1988年07月号 the July 1988 issue of I/O magazine.
+
+* [https://dad-aslan.hatenablog.com/entry/2022/01/06/190000](https://dad-aslan.hatenablog.com/entry/2022/01/06/190000)
+* [https://archive.org/details/Io19887/page/n301/mode/1up](https://archive.org/details/Io19887/page/n301/mode/1up)
 
 
 ### 1996
