@@ -86,7 +86,7 @@ This is the earliest map that shows the transition to computers, discovered in a
 
 ### 1983
 
-A map was included with the January 1983 issue of Micom BASIC magazine. The below image is saved from a [Yahoo! Japana Auction listing](https://page.auctions.yahoo.co.jp/jp/auction/x1060034656).
+A map was included with the January 1983 issue of Micom BASIC magazine. The below image is saved from a [Yahoo! Japan Auction listing](https://page.auctions.yahoo.co.jp/jp/auction/x1060034656).
 
 [![Akihabara, January 1983](/images/posts/akihabara-1983-micom.jpg)](/images/posts/akihabara-1983-micom.jpg)
 
