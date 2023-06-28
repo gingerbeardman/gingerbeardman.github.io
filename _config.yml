@@ -43,6 +43,7 @@ sass:
 
 plugins:
   - jekyll-include-cache
+  - jekyll-redirect-from
   - jekyll-paginate
   - jekyll/tagging
 
