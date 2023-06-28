@@ -63,6 +63,8 @@ This one from Google, but thankfully also present on Internet Archive. From I/O 
 * [https://dad-aslan.hatenablog.com/entry/2022/01/06/190000](https://dad-aslan.hatenablog.com/entry/2022/01/06/190000)
 * [https://archive.org/details/Io19887/page/n301/mode/1up](https://archive.org/details/Io19887/page/n301/mode/1up)
 
+![Akihabara, July 1988](/images/posts/akihabara-1988.jpg)
+
 
 ### 1996
 
