@@ -17,7 +17,7 @@ comments: https://twitter.com/gingerbeardman/status/1127347071042953218
 
 I often browse old Japanese console and computer magazines. I'm mainly searching for old [Hanafuda Koi-Koi](https://en.wikipedia.org/wiki/Hanafuda) video games, but sometimes I stumble across something else that is interesting in a totally different way. 
 
-Recently, whilst browsing an old issue of [POPCOM](https://ja.wikipedia.org/wiki/ポプコム) over at the wonderful Internet Archive, I found a period map of the [Akihabara](https://en.wikipedia.org/wiki/Akihabara) district — famous for its multitude of stores selling electronics, video games and other otaku goods. 
+Recently, whilst browsing an old issue of [POPCOM](https://ja.wikipedia.org/wiki/ポプコム) over at the wonderful Internet Archive, I found a period map of the [Akihabara](https://en.wikipedia.org/wiki/Akihabara) 秋葉原 district — famous for its multitude of stores selling electronics, video games and other otaku goods. 
 
 I shared the map on Twitter, where it was well received, so I decided to go into this a bit more deeply here. 
 
