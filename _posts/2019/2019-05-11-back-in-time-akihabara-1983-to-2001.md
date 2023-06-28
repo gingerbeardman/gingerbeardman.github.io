@@ -27,6 +27,7 @@ This is the earliest map so far, discovered in a [scan of Technopolis magazine o
 
 ![Akihabara, November 1982](/images/posts/akihabara-1982.jpg)
 
+Another [one from 1982 on Twitter](https://twitter.com/gds2546/status/956432325155237888).
 
 ### 1983
 
@@ -37,6 +38,11 @@ Note: in the magazine the map is followed by 4 pages of listings that refer to t
 *   [https://archive.org/details/POPCOM198305/page/n73](https://archive.org/details/POPCOM198305/page/n73)
 
 ![Akihabara, May 1983](/images/posts/akihabara-1983.jpg)
+
+
+## 1987
+
+[One from 1987 on Twitter](https://twitter.com/gantaro_junker/status/956173893730889735). This one I have tracked down as being from [ラジオ技術　1987年6月号 the June 1987 issue of Radio Technology](https://junkmouse.net/product/ラジオ技術%E3%80%801987年6月号/).
 
 
 ### 1996
