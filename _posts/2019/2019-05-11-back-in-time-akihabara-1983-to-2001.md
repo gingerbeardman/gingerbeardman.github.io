@@ -21,6 +21,7 @@ Recently, whilst browsing an old issue of [POPCOM](https://ja.wikipedia.org/wiki
 
 I shared the map on Twitter, where it was well received, so I decided to go into this a bit more deeply here. 
 
+
 ### 1982
 
 This is the earliest map so far, discovered in a [scan of Technopolis magazine on the internet archive dated November 1982](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up?view=theater). Given its illustrated nature the map is somewhat stylised but the landmarks are easily recognised.
@@ -28,6 +29,7 @@ This is the earliest map so far, discovered in a [scan of Technopolis magazine o
 ![Akihabara, November 1982](/images/posts/akihabara-1982.jpg)
 
 Another [one from 1982 on Twitter](https://twitter.com/gds2546/status/956432325155237888).
+
 
 ### 1983
 
@@ -66,6 +68,9 @@ This one from Google, but thankfully also present on Internet Archive. From I/O 
 ![Akihabara, July 1988](/images/posts/akihabara-1988.jpg)
 
 
+> There's a big gap here as the transition from print media to digital maps happened. I'd like to fill it as much as possible. [Get in touch](https://twitter.com/gingerbeardman) if you have a map of Akihabara from the missing years.
+
+
 ### 1996
 
 Whilst searching my ever-growing archive of [Japanese Macintosh Media](https://www.gingerbeardman.com/mmm/) I found  an archived copy of the [Akiba organisation](https://www.akiba.or.jp) website on the Nikkei MAC CD Vol. 9, from 1997-02-15.
@@ -75,6 +80,11 @@ Whilst searching my ever-growing archive of [Japanese Macintosh Media](https://w
 The 250+ maps it contains are hyperlinked in a multitude of ways and the website navigates quite well considering its age. I've had most luck browsing using Netscape Navigator 3.01 (ja). The whole thing is quite comprehensive: maps are split into geographical zones and are detailed to a building floor level. Alternative lists by category and product type are also included. There are a total of 221 stores, of which 68 are member stores and receive more in-depth coverage with their own page and photos.
 
 ![PNG](/images/posts/akihabara-1996.png)
+
+Another [one from 1996 via Google](http://misoji-no-wakaremiti.cocolog-nifty.com/blog/2012/08/201208171995-fe.html), which was featured in the 「ASCII-DATES 1996」 notebook.
+
+![JPG](/images/posts/akihabara-1996-ascii-dates.jpg)
+
 
 ### 1998
 
@@ -92,6 +102,7 @@ I think of this map as the _DogCow Map_ due to the domain it was hosted on at th
 
 *   [https://web.archive.org/web/20041207024829/http://homepage1.nifty.com:80/akiba/index.html](https://web.archive.org/web/20041207024829/http://homepage1.nifty.com:80/akiba/index.html)
 
+
 ### 2000
 
 The HTML version was typical of websites at the time: way too many _HTML_ files and _images_ with _image-maps_ presented as a _frameset_ that makes specific pages pretty much impossible to bookmark. Ah, the heady days of Y2K web development! 
@@ -102,6 +113,7 @@ Download _akibaweb2kr1_ below, or from the following [archive.org](https://archi
 
 ![PNG](/images/posts/akihabara-2000.png)
 
+
 ### 2001
 
 The digital download versions of Kosapi's Akiba Map were updated until around 2001, when I guess easy access to the internet made offline maps like this somewhat less useful.
@@ -111,6 +123,7 @@ But the FileMaker Pro database is interesting, as it can still be loaded and vie
 Anyway, I did a bunch of image grabbing and assembling to put together this large 27.8 megapixel version of the map (download _akiba-2001_ below):
 
 ![PNG](/images/posts/akihabara-2001.png)
+
 
 ### 1999–2009
 
