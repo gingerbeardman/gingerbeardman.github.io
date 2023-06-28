@@ -49,6 +49,15 @@ Note: in the magazine the map is followed by 4 pages of listings that refer to t
 ![Akihabara, May 1983](/images/posts/akihabara-1983.jpg)
 
 
+## 1984
+
+This one from I/O 1984 May issue was found [through Google](https://web.archive.org/web/20100408004407/http://nhh.mo-blog.jp/ttt/2007/09/post_6a5d.html), and I was lucky enough to be able to find matching scans on from Internet Archive.
+
+- [https://archive.org/details/Io19845/page/n365/mode/2up](https://archive.org/details/Io19845/page/n365/mode/2up)
+
+![Akihabara, May 1984](/images/posts/akihabara-1984.jpg)
+
+
 ## 1985
 
 This one [I found referenced on Twitter](https://twitter.com/yoshinokentarou/status/1578567956249706496), a lovely map from the April 1985 issue of POPCOM (complete with cover artwork by Hiroshi Okamoto)
