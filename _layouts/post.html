@@ -22,7 +22,11 @@ layout: default
         </a>
 
         <time class='c-post__date' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>
-          {{ page.date | date: '%Y-%m-%d ' }}
+          {% if page.last_modified_at %}
+            {{ page.last_modified_at | date: '%Y-%m-%d' }} edited
+          {% else %}
+            {{ page.date | date: '%Y-%m-%d ' }}
+          {% endif %}
           &nbsp;•&nbsp; {% include_cached read-time.html pcontent=page.content %}
           {% if page.tags %}
           {% assign sorted_tags = page.tags | sort %}
@@ -80,6 +84,11 @@ layout: default
 
         {% if page.comments.size > 0 %}
         <div class='c-comments'>
+          {% if page.last_modified_at %}
+            --<br>
+            Originally published: {{ page.date | date: '%Y-%m-%d ' }}
+            <br>
+          {% endif %}
           --<br>
           Comments: <a href="{{ page.comments }}" target="comments">@{{ site.twitter.username }}</a>
         </div>
