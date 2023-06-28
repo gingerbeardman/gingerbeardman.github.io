@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PC Engine Fanatics, Console Ma'zine, Electric Brain & Games Amusement Pleasure"
+title: "PC Engine Fanatics, Console Ma'zine, Electric Brain & Games&nbsp;Amusement Pleasure"
 tags:
 - scans
 - preservation
