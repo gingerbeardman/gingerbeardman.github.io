@@ -73,7 +73,7 @@ Two maps can be seen in the combined book of issues from 1976 and 1977 that is a
 
 ## 1981
 
-A map was featured in だからいまマイコン　東大マイコンクラブ著　集英社 1981年 "So now Microcomputer" by the University of Tokyo Microcomputer Club, Shueisha, 1981. [Amazon Japan link](https://www.amazon.co.jp/だからいまマイコン-1981年/dp/B000J7SD6W). Thanks to a [generous Twitter user](https://twitter.com/skuma919/status/1674288156336885762) for posting this photo at my request.
+A map was featured in だからいまマイコン "So now Microcomputer" by the University of Tokyo Microcomputer Club, Shueisha, 1981. [Amazon Japan link](https://www.amazon.co.jp/だからいまマイコン-1981年/dp/B000J7SD6W). Thanks to a [generous Twitter user](https://twitter.com/skuma919/status/1674288156336885762) for posting this photo at my request.
 
 [![Akihabara, 1981](/images/posts/akihabara-1981.jpg)](/images/posts/akihabara-1981.jpg)
 
