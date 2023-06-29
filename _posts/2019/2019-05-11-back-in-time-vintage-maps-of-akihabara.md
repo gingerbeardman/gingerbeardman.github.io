@@ -81,7 +81,7 @@ A map was featured in だからいまマイコン "So now Microcomputer" by the 
 
 ### 1982
 
-> **Missing:** another [one from 1982 on Twitter](https://twitter.com/gds2546/status/956432325155237888), if I'm reading correctly it's from an issue of Micom.
+> **Missing:** another [one from 1982 on Twitter](https://twitter.com/gds2546/status/956432325155237888), if I'm reading correctly it's from the book こんにちわマイコンに載 "Konichiwa Microcomputer". [Amazon Japan link](https://www.amazon.co.jp/こんにちはマイコン―まんが版-1982年-ワンダーライフコミックス-すがや-みつる/dp/B000J7IP74).
 
 This map is from a [scan of Technopolis magazine on the Internet Archive, dated November 1982](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up?view=theater). Given its illustrated nature the map is somewhat stylised but the landmarks are easily recognised.
 
