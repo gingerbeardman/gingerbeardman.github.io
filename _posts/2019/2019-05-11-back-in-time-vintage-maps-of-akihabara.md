@@ -37,17 +37,18 @@ I shared the map on Twitter, where it was well received, so I decided to go into
 
 ## Browse by Year
 
-[1976](#1976)…[1982](#1982) 
+[1976](#1976)
+…
+[1981](#1981)
+[1982](#1982) 
 [1983](#1983) 
 [1984](#1984) 
 [1985](#1985) 
 [1987](#1987) 
-[1988](#1988) 
-1989 
-1990 
+[1988](#1988)
+…
 [1991](#1991)
-1992 
-1993 
+…
 [1994](#1994) 
 [1995](#1995) 
 [1996](#1996) 
@@ -72,7 +73,9 @@ Two maps can be seen in the combined book of issues from 1976 and 1977 that is a
 
 ## 1981
 
-> **Missing:** a map was featured in だからいまマイコン　東大マイコンクラブ著　集英社 1981年 "So now Microcomputer" by the University of Tokyo Microcomputer Club, Shueisha, 1981. [Amazon Japan link](https://www.amazon.co.jp/だからいまマイコン-1981年/dp/B000J7SD6W).
+A map was featured in だからいまマイコン　東大マイコンクラブ著　集英社 1981年 "So now Microcomputer" by the University of Tokyo Microcomputer Club, Shueisha, 1981. [Amazon Japan link](https://www.amazon.co.jp/だからいまマイコン-1981年/dp/B000J7SD6W). Thanks to a [generous Twitter user](https://twitter.com/skuma919/status/1674288156336885762) for posting this photo at my request.
+
+[![Akihabara, 1981](/images/posts/akihabara-1981.jpg)](/images/posts/akihabara-1981.jpg)
 
 ----
 
