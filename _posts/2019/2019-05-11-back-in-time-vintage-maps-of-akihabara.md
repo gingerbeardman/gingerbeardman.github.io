@@ -83,7 +83,7 @@ A map was featured in だからいまマイコン　東大マイコンクラブ�
 
 > **Missing:** another [one from 1982 on Twitter](https://twitter.com/gds2546/status/956432325155237888), if I'm reading correctly it's from an issue of Micom.
 
-This is the earliest map that shows the transition to computers, discovered in a [scan of Technopolis magazine on the internet archive dated November 1982](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up?view=theater). Given its illustrated nature the map is somewhat stylised but the landmarks are easily recognised.
+This map is from a [scan of Technopolis magazine on the Internet Archive, dated November 1982](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up?view=theater). Given its illustrated nature the map is somewhat stylised but the landmarks are easily recognised.
 
 [![Akihabara, November 1982](/images/posts/akihabara-1982.jpg)](/images/posts/akihabara-1982.jpg)
 
