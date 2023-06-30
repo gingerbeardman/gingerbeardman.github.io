@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Back In Time: Vintage Maps of Akihabara (1976–2001)'
-last_modified_at: '2023-06-30T12:50+01:00'
+last_modified_at: '2023-06-30T13:09+01:00'
 tags:
 - history
 - japan
@@ -64,10 +64,10 @@ The November 1976 issue of I/O magazine included a map of Akihabara which at thi
 
 Two maps can be seen in the combined book of issues from 1976 and 1977 that is available at Internet Archive. Hurrah!
 
-- [https://archive.org/details/Io197611-19772/page/n19/mode/1up](https://archive.org/details/Io197611-19772/page/n19/mode/1up)
-- [https://archive.org/details/Io197611-19772/page/n215/mode/1up](https://archive.org/details/Io197611-19772/page/n215/mode/1up)
+- [https://archive.org/details/Io197611-19772/page/n19/mode/2up](https://archive.org/details/Io197611-19772/page/n19/mode/2up)
+- [https://archive.org/details/Io197611-19772/page/n215/mode/2up](https://archive.org/details/Io197611-19772/page/n215/mode/2up)
 
-[![Akihabara, 1976](/images/posts/akihabara-1976-small.jpg)](/images/posts/akihabara-1976.jpg)
+[![Akihabara, 1976](/images/posts/akihabara-1976-small.jpg)](https://archive.org/details/Io197611-19772/page/n19/mode/2up?view=theater){:target="_blank"}
 
 ----
 
@@ -83,9 +83,11 @@ A map was featured in だからいまマイコン "So now Microcomputer" by the 
 
 > **Missing:** another [one from 1982 on Twitter](https://twitter.com/gds2546/status/956432325155237888), if I'm reading correctly it's from the book こんにちわマイコンに載 "Konichiwa Microcomputer". [Amazon Japan link](https://www.amazon.co.jp/こんにちはマイコン―まんが版-1982年-ワンダーライフコミックス-すがや-みつる/dp/B000J7IP74).
 
-This map is from a [scan of Technopolis magazine on the Internet Archive, dated November 1982](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up?view=theater). Given its illustrated nature the map is somewhat stylised but the landmarks are easily recognised.
+This map is from a [scan of Technopolis magazine on the Internet Archive, dated November 1982](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up). Given its illustrated nature the map is somewhat stylised but the landmarks are easily recognised.
 
-[![Akihabara, November 1982](/images/posts/akihabara-1982-small.jpg)](/images/posts/akihabara-1982.jpg)
+* [https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up)
+
+[![Akihabara, November 1982](/images/posts/akihabara-1982-small.jpg)](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up?view=theater){:target="_blank"}
 
 ----
 
@@ -95,13 +97,11 @@ A map was included with the January 1983 issue of Micom BASIC magazine. The belo
 
 [![Akihabara, January 1983](/images/posts/akihabara-1983-micom-small.jpg)](/images/posts/akihabara-1983-micom.jpg)
 
-The version of the [POPCOM 1983-05](https://archive.org/details/POPCOM198305/page/n73) map shown below is a 12.5 megapixel high-resolution version that is much easier to read, made by stitching together the two highest resolution scans of these pages. Download _akiba-1983_ below.
+The map below is from [POPCOM 1983-05](https://archive.org/details/POPCOM198305/page/n73) and is followed by 4 pages of listings that refer to the map using the A/J–1/10 key along its edge just in case you want to look some things up.
 
-Note: in the magazine the map is followed by 4 pages of listings that refer to the map using the A/J–1/10 key along its edge just in case you want to look some things up.
+* [https://archive.org/details/POPCOM198305/page/n73/mode/2up](https://archive.org/details/POPCOM198305/page/n73/mode/2up)
 
-* [https://archive.org/details/POPCOM198305/page/n73](https://archive.org/details/POPCOM198305/page/n73)
-
-[![Akihabara, May 1983](/images/posts/akihabara-1983-small.jpg)](/images/posts/akihabara-1983.jpg)
+[![Akihabara, May 1983](/images/posts/akihabara-1983-small.jpg)](https://archive.org/details/POPCOM198305/page/n73/mode/2up?view=theater){:target="_blank"}
 
 ----
 
@@ -112,7 +112,7 @@ This one from I/O 1984 May issue was found through [Google](http://hirax.net/dia
 - [https://web.archive.org/web/20100408004407/http://nhh.mo-blog.jp/ttt/2007/09/post_6a5d.html](https://web.archive.org/web/20100408004407/http://nhh.mo-blog.jp/ttt/2007/09/post_6a5d.html)
 - [https://archive.org/details/Io19845/page/n365/mode/2up](https://archive.org/details/Io19845/page/n365/mode/2up)
 
-[![Akihabara, May 1984](/images/posts/akihabara-1984-small.jpg)](/images/posts/akihabara-1984.jpg)
+[![Akihabara, May 1984](/images/posts/akihabara-1984-small.jpg)](https://archive.org/details/Io19845/page/n365/mode/2up?view=theater){:target="_blank"}
 
 ----
 
@@ -124,7 +124,7 @@ This one [I found referenced on Twitter](https://twitter.com/yoshinokentarou/sta
 
 * [https://archive.org/details/popcom-198504/page/122/mode/2up](https://archive.org/details/popcom-198504/page/122/mode/2up)
 
-[![Akihabara, April 1985](/images/posts/akihabara-1985-small.jpg)](/images/posts/akihabara-1985.jpg)
+[![Akihabara, April 1985](/images/posts/akihabara-1985-small.jpg)](https://archive.org/details/popcom-198504/page/122/mode/2up?view=theater){:target="_blank"}
 
 ----
 
@@ -145,9 +145,9 @@ This one [I found referenced on Twitter](https://twitter.com/yoshinokentarou/sta
 This one from Google, but thankfully also present on Internet Archive. From I/O アイ・オー 1988年07月号 the July 1988 issue of I/O magazine.
 
 * [https://dad-aslan.hatenablog.com/entry/2022/01/06/190000](https://dad-aslan.hatenablog.com/entry/2022/01/06/190000)
-* [https://archive.org/details/Io19887/page/n301/mode/1up](https://archive.org/details/Io19887/page/n301/mode/1up)
+* [https://archive.org/details/Io19887/page/n301/mode/2up](https://archive.org/details/Io19887/page/n301/mode/2up)
 
-[![Akihabara, July 1988](/images/posts/akihabara-1988-small.jpg)](/images/posts/akihabara-1988.jpg)
+[![Akihabara, July 1988](/images/posts/akihabara-1988-small.jpg)](https://archive.org/details/Io19887/page/n301/mode/2up?view=theater){:target="_blank"}
 
 ---- 
 
@@ -169,11 +169,11 @@ A partial map is featured in [this article by NIKKEI](https://www.nikkei.com/art
 
 ## 1995
 
-There are three really cool maps in ゲームウララ Vol.1より Game Urara Vol. 1 featuring PC, video game and food/ammenities.
+There are three really cool maps in ゲームウララ Vol.1より Game Urara Vol. 1 featuring PC, video game and food/amenities. One was [seen on Twitter](https://twitter.com/yoshinokentarou/status/1537452086979223552) and the other two were a happy discovery after finding the scans on Internet Archive.
 
 * [https://archive.org/details/gameurara-vol1-1995-600DPI/Game%20Urara%20-%20Vol.%201%20%28Searchable%29/page/n101/mode/2up](https://archive.org/details/gameurara-vol1-1995-600DPI/Game%20Urara%20-%20Vol.%201%20%28Searchable%29/page/n101/mode/2up)
 
-[![Akihabara, 1995](/images/posts/akihabara-1995-small.jpg)](/images/posts/akihabara-1995.jpg)
+[![Akihabara, 1995](/images/posts/akihabara-1995-small.jpg)](https://archive.org/details/gameurara-vol1-1995-600DPI/Game%20Urara%20-%20Vol.%201%20%28Searchable%29/page/n101/mode/2up?view=theater){:target="_blank"}
 
 ----
 
