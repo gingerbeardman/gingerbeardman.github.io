@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Back In Time: Vintage Maps of Akihabara (1976–2001)'
-last_modified_at: '2023-06-30T14:15+01:00'
+last_modified_at: '2023-06-30T22:00+01:00'
 tags:
 - history
 - japan
@@ -43,23 +43,23 @@ I shared the map on Twitter, where it was well received, so I decided to go into
 
 [1976](#1976)
 …
-[1981](#1981), 
-[1982](#1982), 
-[1983](#1983), 
-[1984](#1984), 
-[1985](#1985), 
-[1987](#1987), 
+[1981](#1981) 
+[1982](#1982) 
+[1983](#1983) 
+[1984](#1984) 
+[1985](#1985) 
+[1987](#1987) 
 [1988](#1988)
 …
 [1991](#1991)
 …
-[1994](#1994), 
-[1995](#1995), 
+[1994](#1994) 
+[1995](#1995) 
 [1996](#1996) 
-…
+[1997](#1997) 
 [1998](#1998) 
-…
-[2000](#2000), 
+[1999](#1999) 
+[2000](#2000) 
 [2001](#2001) 
 
 ----
@@ -199,6 +199,16 @@ Another [one from 1996 via Google](http://misoji-no-wakaremiti.cocolog-nifty.com
 
 ----
 
+### 1997
+
+From Google, I found a map featured in either PC自作派 PC DIY Vol.1 (1997) or Vol.8 (the end of 1998). [Amazon link Vol.1](https://www.amazon.co.jp/季刊PC自作派-1997-April-ビデオアクセラレータのトレンドと選択-Vol/dp/4944000553) and [Vol.8](https://www.amazon.co.jp/季刊PC自作派-第3巻第4号/dp/4944000782).
+
+* [https://setoalpha.hatenablog.com/entry/2019/08/12/024509](https://setoalpha.hatenablog.com/entry/2019/08/12/024509)
+
+[![JPG](/images/posts/akihabara-1997-small.jpg)](https://setoalpha.hatenablog.com/entry/2019/08/12/024509)
+
+----
+
 ### 1998
 
 This new discovery reminded me of another vintage map of Akihabara that I had seen recently, only this time it was digital and available for platforms that were popular at the time: Palm OS (as a native app), Macintosh and Windows (as a FileMaker Pro interactive database).
@@ -215,6 +225,17 @@ All versions of these interactive maps can be downloaded at the following links
 I think of this map as the _DogCow Map_ due to the domain it was hosted on at the time, but its official name is _Kosapi's Akiba Map_ 「こさぴーの秋葉マップ」named after the group of fans that created and curated it by documenting their trips to Akihabara.
 
 *   [https://web.archive.org/web/20041207024829/http://homepage1.nifty.com:80/akiba/index.html](https://web.archive.org/web/20041207024829/http://homepage1.nifty.com:80/akiba/index.html)
+
+----
+
+### 1999
+
+This one found on Twitter. A 1998/1999 issue of PC magazine DOS/V POWER REPORT featured a [detailed map](https://twitter.com/fattyfatty2001/status/1466207648869601281)) and [list of stores](https://twitter.com/fattyfatty2001/status/1466213841159680001). It would be really interesting to see if any of those stores still exist today.
+
+* [https://twitter.com/fattyfatty2001/status/1466207648869601281](https://twitter.com/fattyfatty2001/status/1466207648869601281)
+* [https://twitter.com/fattyfatty2001/status/1466213841159680001](https://twitter.com/fattyfatty2001/status/1466213841159680001)
+
+[![JPG](/images/posts/akihabara-1999-small.jpg)](https://twitter.com/fattyfatty2001/status/1466207648869601281/photo/1)
 
 ----
 
