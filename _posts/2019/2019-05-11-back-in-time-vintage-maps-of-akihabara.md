@@ -67,7 +67,7 @@ Two maps can be seen in the combined book of issues from 1976 and 1977 that is a
 - [https://archive.org/details/Io197611-19772/page/n19/mode/1up](https://archive.org/details/Io197611-19772/page/n19/mode/1up)
 - [https://archive.org/details/Io197611-19772/page/n215/mode/1up](https://archive.org/details/Io197611-19772/page/n215/mode/1up)
 
-[![Akihabara, 1976](/images/posts/akihabara-1976.jpg)](/images/posts/akihabara-1976.jpg)
+[![Akihabara, 1976](/images/posts/akihabara-1976-small.jpg)](/images/posts/akihabara-1976.jpg)
 
 ----
 
@@ -75,7 +75,7 @@ Two maps can be seen in the combined book of issues from 1976 and 1977 that is a
 
 A map was featured in だからいまマイコン "So now Microcomputer" by the University of Tokyo Microcomputer Club, Shueisha, 1981. [Amazon Japan link](https://www.amazon.co.jp/だからいまマイコン-1981年/dp/B000J7SD6W). Thanks to a [generous Twitter user](https://twitter.com/skuma919/status/1674288156336885762) for posting this photo at my request.
 
-[![Akihabara, 1981](/images/posts/akihabara-1981.jpg)](/images/posts/akihabara-1981.jpg)
+[![Akihabara, 1981](/images/posts/akihabara-1981-small.jpg)](/images/posts/akihabara-1981.jpg)
 
 ----
 
@@ -85,7 +85,7 @@ A map was featured in だからいまマイコン "So now Microcomputer" by the 
 
 This map is from a [scan of Technopolis magazine on the Internet Archive, dated November 1982](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up?view=theater). Given its illustrated nature the map is somewhat stylised but the landmarks are easily recognised.
 
-[![Akihabara, November 1982](/images/posts/akihabara-1982.jpg)](/images/posts/akihabara-1982.jpg)
+[![Akihabara, November 1982](/images/posts/akihabara-1982-small.jpg)](/images/posts/akihabara-1982.jpg)
 
 ----
 
@@ -93,7 +93,7 @@ This map is from a [scan of Technopolis magazine on the Internet Archive, dated 
 
 A map was included with the January 1983 issue of Micom BASIC magazine. The below image is saved from a [Yahoo! Japan Auction listing](https://page.auctions.yahoo.co.jp/jp/auction/x1060034656).
 
-[![Akihabara, January 1983](/images/posts/akihabara-1983-micom.jpg)](/images/posts/akihabara-1983-micom.jpg)
+[![Akihabara, January 1983](/images/posts/akihabara-1983-micom-small.jpg)](/images/posts/akihabara-1983-micom.jpg)
 
 The version of the [POPCOM 1983-05](https://archive.org/details/POPCOM198305/page/n73) map shown below is a 12.5 megapixel high-resolution version that is much easier to read, made by stitching together the two highest resolution scans of these pages. Download _akiba-1983_ below.
 
@@ -101,7 +101,7 @@ Note: in the magazine the map is followed by 4 pages of listings that refer to t
 
 * [https://archive.org/details/POPCOM198305/page/n73](https://archive.org/details/POPCOM198305/page/n73)
 
-[![Akihabara, May 1983](/images/posts/akihabara-1983.jpg)](/images/posts/akihabara-1983.jpg)
+[![Akihabara, May 1983](/images/posts/akihabara-1983-small.jpg)](/images/posts/akihabara-1983.jpg)
 
 ----
 
@@ -112,7 +112,7 @@ This one from I/O 1984 May issue was found through [Google](http://hirax.net/dia
 - [https://web.archive.org/web/20100408004407/http://nhh.mo-blog.jp/ttt/2007/09/post_6a5d.html](https://web.archive.org/web/20100408004407/http://nhh.mo-blog.jp/ttt/2007/09/post_6a5d.html)
 - [https://archive.org/details/Io19845/page/n365/mode/2up](https://archive.org/details/Io19845/page/n365/mode/2up)
 
-[![Akihabara, May 1984](/images/posts/akihabara-1984.jpg)](/images/posts/akihabara-1984.jpg)
+[![Akihabara, May 1984](/images/posts/akihabara-1984-small.jpg)](/images/posts/akihabara-1984.jpg)
 
 ----
 
@@ -124,17 +124,17 @@ This one [I found referenced on Twitter](https://twitter.com/yoshinokentarou/sta
 
 * [https://archive.org/details/popcom-198504/page/122/mode/2up](https://archive.org/details/popcom-198504/page/122/mode/2up)
 
-[![Akihabara, April 1985](/images/posts/akihabara-1985.jpg)](/images/posts/akihabara-1985.jpg)
+[![Akihabara, April 1985](/images/posts/akihabara-1985-small.jpg)](/images/posts/akihabara-1985.jpg)
 
 ----
 
 ## 1987
 
-> **Missing:** I found one mentioned in a 1987 issue of Be-VAP　ビ・バップ. [Auction archive is here](https://aucview.com/yahoo/k406890612/) and [incomplete image is here](/images/posts/akihabara-1987-be-vap.jpg).
+> **Missing:** I found one mentioned in a 1987 issue of Be-VAP　ビ・バップ. [Auction archive is here](https://aucview.com/yahoo/k406890612/) and [incomplete image is here](/images/posts/akihabara-1987-be-vap-small.jpg).
 
 [One from 1987 on Twitter](https://twitter.com/gantaro_junker/status/956173893730889735). This one I have tracked down as being from [ラジオ技術　1987年6月号](https://junkmouse.net/product/ラジオ技術%E3%80%801987年6月号/) the June 1987 issue of Radio Technology.
 
-[![Akihabara, June 1987](/images/posts/akihabara-1987.jpg)](/images/posts/akihabara-1987.jpg)
+[![Akihabara, June 1987](/images/posts/akihabara-1987-small.jpg)](/images/posts/akihabara-1987.jpg)
 
 ----
 
@@ -147,7 +147,7 @@ This one from Google, but thankfully also present on Internet Archive. From I/O 
 * [https://dad-aslan.hatenablog.com/entry/2022/01/06/190000](https://dad-aslan.hatenablog.com/entry/2022/01/06/190000)
 * [https://archive.org/details/Io19887/page/n301/mode/1up](https://archive.org/details/Io19887/page/n301/mode/1up)
 
-[![Akihabara, July 1988](/images/posts/akihabara-1988.jpg)](/images/posts/akihabara-1988.jpg)
+[![Akihabara, July 1988](/images/posts/akihabara-1988-small.jpg)](/images/posts/akihabara-1988.jpg)
 
 ---- 
 
@@ -157,7 +157,7 @@ Through Google I found a map featured in "AK gazette" from Winter 1991.
 
 - [http://asahirom.blog28.fc2.com/blog-entry-58.html](http://asahirom.blog28.fc2.com/blog-entry-58.html)
 
-[![Akihabara, Winter 1991](/images/posts/akihabara-1991.jpg)](/images/posts/akihabara-1991.jpg)
+[![Akihabara, Winter 1991](/images/posts/akihabara-1991-small.jpg)](/images/posts/akihabara-1991.jpg)
 
 ----
 
@@ -173,23 +173,23 @@ There are three really cool maps in ゲームウララ Vol.1より Game Urara Vo
 
 * [https://archive.org/details/gameurara-vol1-1995-600DPI/Game%20Urara%20-%20Vol.%201%20%28Searchable%29/page/n101/mode/2up](https://archive.org/details/gameurara-vol1-1995-600DPI/Game%20Urara%20-%20Vol.%201%20%28Searchable%29/page/n101/mode/2up)
 
-[![Akihabara, 1995](/images/posts/akihabara-1995.jpg)](/images/posts/akihabara-1995.jpg)
+[![Akihabara, 1995](/images/posts/akihabara-1995-small.jpg)](/images/posts/akihabara-1995.jpg)
 
 ----
 
 ### 1996
 
-Whilst searching my ever-growing archive of [Japanese Macintosh Media](https://www.gingerbeardman.com/mmm/) I found  an archived copy of the [Akiba organisation](https://www.akiba.or.jp) website on the Nikkei MAC CD Vol. 9, from 1997-02-15.
+Whilst searching my ever-growing archive of [Japanese Macintosh Media](https://www.gingerbeardman.com/mmm/) I found  an archived copy of the [Akiba organisation](https://www.akiba.or.jp) website on the [Nikkei MAC CD Vol. 9, from 1997-02-15](https://archive.org/details/nikkei-mac-cd-vol-09-1997-02-15).
 
 「ボーナスは大切にネ！!　秋葉原を上手に歩こう」 ("Take care of your bonus! Walk well in Akihabara.") is a copy of the Akiba website dated June 1996, some four months before [the earliest version in the Wayback Machine](https://web.archive.org/web/19961029015522/http://www.akiba.or.jp/). A lot of the files that comprise the website are dated 1993, which I assume is when the site was first created. This sort of hand-built site really brings back some fond memories of the websites I built in the mid-90s: image maps, optimised GIFs, no content management system. Ah! The good old days.
 
-The 250+ maps it contains are hyperlinked in a multitude of ways and the website navigates quite well considering its age. I've had most luck browsing using Netscape Navigator 3.01 (ja). The whole thing is quite comprehensive: maps are split into geographical zones and are detailed to a building floor level. Alternative lists by category and product type are also included. There are a total of 221 stores, of which 68 are member stores and receive more in-depth coverage with their own page and photos.
+The 250+ maps it contains are hyperlinked in a multitude of ways and the website navigates quite well considering its age. I've had most luck browsing using Netscape Navigator 3.01 (ja). The whole thing is quite comprehensive: maps are split into geographical zones and are detailed to a building floor level. Alternative lists by category and product type are also included. There are a total of 221 stores, of which 68 are member stores and receive more in-depth coverage with their own page and photos.Check out screenshots of the website [home page](/images/posts/akihabara-1996-home.png) and [main map page](/images/posts/akihabara-1996-map.png).
 
 [![PNG](/images/posts/akihabara-1996.png)](/images/posts/akihabara-1996.png)
 
 Another [one from 1996 via Google](http://misoji-no-wakaremiti.cocolog-nifty.com/blog/2012/08/201208171995-fe.html), which was featured in the 「ASCII-DATES 1996」 notebook.
 
-[![JPG](/images/posts/akihabara-1996-ascii-dates.jpg)](/images/posts/akihabara-1996-ascii-dates.jpg)
+[![JPG](/images/posts/akihabara-1996-ascii-dates-small.jpg)](/images/posts/akihabara-1996-ascii-dates.jpg)
 
 ----
 
