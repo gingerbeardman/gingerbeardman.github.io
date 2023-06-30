@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Back In Time: Vintage Maps of Akihabara (1976–2001)'
-last_modified_at: '2023-06-30T13:09+01:00'
+last_modified_at: '2023-06-30T13:15+01:00'
 tags:
 - history
 - japan
@@ -25,7 +25,7 @@ comments: https://twitter.com/gingerbeardman/status/1127347071042953218
 
 I often browse old Japanese console and computer magazines. I'm mainly searching for old [Hanafuda Koi-Koi](https://en.wikipedia.org/wiki/Hanafuda) video games, but sometimes I stumble across something else that is interesting in a totally different way. 
 
-Recently, whilst browsing an old issue of [POPCOM](https://ja.wikipedia.org/wiki/ポプコム) over at the wonderful Internet Archive, I found a period map of the [Akihabara](https://en.wikipedia.org/wiki/Akihabara) 秋葉原 district — famous for its multitude of stores selling electronics, video games and other otaku goods. 
+[In May 2019](https://twitter.com/gingerbeardman/status/1126978608562679808), whilst browsing an old issue of [POPCOM](https://ja.wikipedia.org/wiki/ポプコム) over at the wonderful Internet Archive, I found a period map of the [Akihabara](https://en.wikipedia.org/wiki/Akihabara) 秋葉原 district — famous for its multitude of stores selling electronics, video games and other otaku goods. 
 
 I shared the map on Twitter, where it was well received, so I decided to go into this a bit more deeply here. Every so often I add any maps I find and there are now over 20 covering almost every year throughout the 1980s and 1990s.
 
