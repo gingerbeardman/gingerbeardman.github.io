@@ -163,7 +163,7 @@ Through Google I found a map featured in "AK gazette" from Winter 1991.
 
 ## 1994
 
-A partial map is featured in [this article by NIKKEI](https://www.nikkei.com/article/DGXMZO76881870Q4A910C1000000/) which details the history of Akihabara and the phases of changes that happened throughout the 1980s and 1990s.
+A partial map is featured in [this article by NIKKEI](https://www.nikkei.com/article/DGXMZO76881870Q4A910C1000000/) which details the history of Akihabara and the phases of changes that happened throughout the 1980s and 1990s. *Essential reading!*
 
 ----
 
