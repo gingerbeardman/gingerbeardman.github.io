@@ -201,7 +201,7 @@ Another [one from 1996 via Google](http://misoji-no-wakaremiti.cocolog-nifty.com
 
 ### 1997
 
-From Google, I found a map featured in either PC自作派 PC DIY Vol.1 (1997) or Vol.8 (the end of 1998).
+From Google, I found a map featured in either PC自作派 "PC DIY" Vol.1 (1997) or Vol.8 (late-1998).
 
 * [https://setoalpha.hatenablog.com/entry/2019/08/12/024509](https://setoalpha.hatenablog.com/entry/2019/08/12/024509)
 
