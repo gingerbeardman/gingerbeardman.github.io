@@ -11,7 +11,7 @@ nouns:
 - Blue Byrd
 - VDL
 - eBay
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1674775232228524035
 
 ---
 
