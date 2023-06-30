@@ -33,6 +33,8 @@ I shared the map on Twitter, where it was well received, so I decided to go into
 
 > **Further reading in Japanese:** there's a [great article at NIKKEI](https://www.nikkei.com/article/DGXMZO76881870Q4A910C1000000/) that's well worth a read. If you want something heavier, there's [a blog post with history of the area](http://blog.livedoor.jp/mouseunit/archives/55039621.html) and its name change. 
 
+**Thanks** to [my Patreon](https://www.patreon.com/gingerbeardman) supporters for funding this research. New supporters are always appreciated!
+
 ----
 
 ## Browse by Year
