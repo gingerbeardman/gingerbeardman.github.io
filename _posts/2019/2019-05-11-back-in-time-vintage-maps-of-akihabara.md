@@ -215,8 +215,6 @@ This new discovery reminded me of another vintage map of Akihabara that I had se
 
 [![PNG](/images/posts/akihabara-1998.png)](/images/posts/akihabara-1998.png)
 
-I've attached two versions of the Palm OS app below, _akiba500_ (c.2000) and _akiba507_ (c.2001).
-
 All versions of these interactive maps can be downloaded at the following links:
 
 *   [https://web.archive.org/web/19981202125237/http://www.dogcow.com/akibamap/index.html](https://web.archive.org/web/19981202125237/http://www.dogcow.com/akibamap/index.html)
@@ -245,7 +243,7 @@ This one found on Twitter. A 1998/1999 issue of PC magazine DOS/V POWER REPORT f
 
 The HTML version was typical of websites at the time: way too many _HTML_ files and _images_ with _image-maps_ presented as a _frameset_ that makes specific pages pretty much impossible to bookmark. Ah, the heady days of Y2K web development! 
 
-Download _akibaweb2kr1_ below, or from the following [archive.org](https://archive.org) link.
+Download from the following [archive.org](https://archive.org) link.
 
 *   [http://web.archive.org/web/20050212144103/http://homepage1.nifty.com/akiba/akibaweb2kr1.zip](https://web.archive.org/web/20050212144103/http://homepage1.nifty.com/akiba/akibaweb2kr1.zip)
 
