@@ -230,7 +230,7 @@ I think of this map as the _DogCow Map_ due to the domain it was hosted on at th
 
 ### 1999
 
-This one found on Twitter. A 1998/1999 issue of PC magazine DOS/V POWER REPORT featured a [detailed map](https://twitter.com/fattyfatty2001/status/1466207648869601281)) and [list of stores](https://twitter.com/fattyfatty2001/status/1466213841159680001). It would be really interesting to see if any of those stores still exist today.
+This one found on Twitter. A 1998/1999 issue of PC magazine DOS/V POWER REPORT featured a [detailed map](https://twitter.com/fattyfatty2001/status/1466207648869601281/photo/1) and [list of stores](https://twitter.com/fattyfatty2001/status/1466213841159680001/photo/1). It would be really interesting to see if any of those stores still exist today.
 
 * [https://twitter.com/fattyfatty2001/status/1466207648869601281](https://twitter.com/fattyfatty2001/status/1466207648869601281)
 * [https://twitter.com/fattyfatty2001/status/1466213841159680001](https://twitter.com/fattyfatty2001/status/1466213841159680001)
