@@ -35,6 +35,8 @@ The battery cover compartments separate by pulling apart — carefully — perpe
 
 All in all replacing the batteries was pretty straight forward if you have the right tools, I recommend at least a magnifier or preferably microscope screen, and a good hot soldering iron. My friend [Dave](https://twitter.com/daver888) had all the gear which made the job easy. So, thanks to him!
 
+Initial usage with the new batteries is encouraging. In a week or two I'll edit this blog post with the sort of usage time I'm getting.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ktpNqWAlB0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Here's a little bit of video showing me unsoldering one of the original batteries. Everything is tiny!
