@@ -5,6 +5,7 @@ tags:
 - playdate
 - mahjong
 - solitaire
+- sparrowsolitaire
 nouns:
 - Sparrow Solitaire
 featured: true
