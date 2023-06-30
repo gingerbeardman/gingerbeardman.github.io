@@ -201,7 +201,7 @@ Another [one from 1996 via Google](http://misoji-no-wakaremiti.cocolog-nifty.com
 
 ### 1997
 
-From Google, I found a map featured in either PC自作派 PC DIY Vol.1 (1997) or Vol.8 (the end of 1998). [Amazon link Vol.1](https://www.amazon.co.jp/季刊PC自作派-1997-April-ビデオアクセラレータのトレンドと選択-Vol/dp/4944000553) and [Vol.8](https://www.amazon.co.jp/季刊PC自作派-第3巻第4号/dp/4944000782).
+From Google, I found a map featured in either PC自作派 PC DIY Vol.1 (1997) or Vol.8 (the end of 1998).
 
 * [https://setoalpha.hatenablog.com/entry/2019/08/12/024509](https://setoalpha.hatenablog.com/entry/2019/08/12/024509)
 
