@@ -15,11 +15,11 @@ comments: https://twitter.com/gingerbeardman/status/
 
 ---
 
-I've had a pair of Beyerdynamic Blue Byrd 1st generation bluetooth earbud headphones since June 2020. They are great Bluetooth headphones but were recalled just after I bought them. Somebody got too sweaty and managed to somehow burn themselves on the headphone wire. Given that no replacement was being offered I refused to send mine back in the recall. I don't exercise with mine so I figured I'd be safe enough and I have been. A short while after the recall official support for upgrading the headphone firmware was pulled from the app, but everything continues to work as well as I need it to.
+I've had a pair of Beyerdynamic Blue Byrd 1st generation bluetooth earbud headphones since June 2020. They are great Bluetooth headphones but were recalled just after I bought them. Somebody got too sweaty and managed to somehow burn themselves on the headphone wire. Given that no replacement was being offered I refused to send mine back in the recall. I don't exercise with mine so I figured I'd be safe enough and I have been.
 
 > Warning: I'd like to take the opportunity to mention how bad Beyerdynamic customer support is: absolutely atrocious. Everybody I dealt with over the phone were really aggressive.
 
-The headphones have a companion app that you can do a hearing test with, and you can supplement that one with a second test through the [Mimi hearing test app](https://mimi.io/mimi-hearing-test-app). The results can be used to personalised the sound that is produced, counteracting any hearing loss you have. For me, it seems to amplifies sound in the frequency range of my age-related hearing loss and tinnitus so that I can hear sounds I can't hear so clearly using normal headphones. It works well and the sound is really great.
+The headphones have a companion app that you can do a hearing test with, and you can supplement that one with a second test through the [Mimi hearing test app](https://mimi.io/mimi-hearing-test-app). The results can be used to personalised the sound that is produced, counteracting any hearing loss you have. For me, it seems to amplifies sound in the frequency range of my age-related hearing loss and tinnitus so that I can hear sounds I can't hear so clearly using normal headphones. It works well and the sound is really great. A short while after the recall official support for upgrading the firmware was pulled from the app, but everything else continues to work as well as I need it to.
 
 ## Problem
 
