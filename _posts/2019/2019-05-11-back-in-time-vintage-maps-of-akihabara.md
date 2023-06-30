@@ -136,7 +136,7 @@ This one [I found referenced on Twitter](https://twitter.com/yoshinokentarou/sta
 
 ## 1987
 
-> **Missing:** I found one mentioned in a 1987 issue of Be-VAP　ビ・バップ magazine. [Auction archive is here](https://aucview.com/yahoo/k406890612/) and [incomplete image is here](/images/posts/akihabara-1987-be-vap-small.jpg).
+> **Missing:** I found mention of maps in a 1987 issue of Be-VAP　ビ・バップ magazine, in fact there seem to be two. [Auction archive is here](https://aucview.com/yahoo/k406890612/) with [incomplete image one](/images/posts/akihabara-1987-be-vap-small.jpg) and [incomplete image two](/images/posts/akihabara-1987-be-vap-2-small.jpg).
 
 [One from 1987 on Twitter](https://twitter.com/gantaro_junker/status/956173893730889735). This one I have tracked down as being from [ラジオ技術　1987年6月号](https://junkmouse.net/product/ラジオ技術%E3%80%801987年6月号/) the June 1987 issue of Radio Technology.
 
