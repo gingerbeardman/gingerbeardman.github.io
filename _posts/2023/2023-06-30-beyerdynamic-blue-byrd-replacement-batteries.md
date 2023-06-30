@@ -25,7 +25,7 @@ The headphones have a companion app that you can do a hearing test with, and you
 
 After three years the expected battery life was down from around 6 hours to perhaps 2 or 3 hours at best. To give you an idea of what an inconvenience this is: I'd have to go into a movie with a full charge or they'd run out part way through. I looked around for a replacement set but they're hard to come by and I don't like the design of the 2nd generation model so I decided to see if I could change the batteries myself. I watched some YouTube videos and it seemed doable!
 
-I couldn't find any direct replacements, the *3.7V VDL 53mAh 410920 lithium-ion* seem unobtainable in 2023 and I needed two of them. I eventually settled on two *3.7V 80mAh 401119 lithium-polymer* batteries, of no particular brand, but from a reputable eBay seller. They are pretty much identical sizes and swap easily, though the new batteries have a higher power rating so I'm hoping to get longer usage between charges.
+I couldn't find any direct replacements, the *3.7V VDL 53mAh 410920 lithium-ion* seem unobtainable in 2023 and I needed two of them. I eventually settled on two *3.7V 80mAh 401119 lithium-polymer* batteries, of no particular brand, but from a reputable eBay seller. They are pretty much identical sizes — roughly 2cm x 1cm x 0.4cm — and are a straight swap. The new batteries have a higher power rating so I'm hoping to get longer usage between charges: we'll see.
 
 ## Let's do this!
 
