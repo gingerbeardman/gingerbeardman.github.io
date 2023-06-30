@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Back In Time: Vintage Maps of Akihabara (1976–2001)'
-last_modified_at: '2023-06-29T12:20+01:00'
+last_modified_at: '2023-06-30T12:24+01:00'
 tags:
 - history
 - japan
@@ -234,7 +234,7 @@ But the FileMaker Pro database is interesting, as it can still be loaded and vie
 
 Anyway, I did a bunch of image grabbing and assembling to put together this large 27.8 megapixel version of the map (click the image below):
 
-[![PNG](/images/posts/akihabara-2001.png)](/images/posts/akihabara-2001.png)
+[![PNG](/images/posts/akihabara-2001-small.png)](/images/posts/akihabara-2001.png)
 
 ----
 
