@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beyerdynamic Blue Byrd (1st generation) replacement batteries
+title: Beyerdynamic Blue Byrd (1st generation) battery replacement
 date: '2023-06-30T12:18+01:00'
 tags:
 - hack
