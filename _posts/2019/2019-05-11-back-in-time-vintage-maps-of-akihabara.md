@@ -73,7 +73,7 @@ Two maps can be seen in the combined book of issues from 1976 and 1977 that is a
 - [https://archive.org/details/Io197611-19772/page/n19/mode/2up](https://archive.org/details/Io197611-19772/page/n19/mode/2up)
 - [https://archive.org/details/Io197611-19772/page/n215/mode/2up](https://archive.org/details/Io197611-19772/page/n215/mode/2up)
 
-[![Akihabara, 1976](/images/posts/akihabara-1976.jpg)](https://archive.org/details/Io197611-19772/page/n19/mode/2up?view=theater){:target="_blank"}
+[![Akihabara, 1976](/images/posts/akihabara-1976.jpg){:width="740" height="1086"}](https://archive.org/details/Io197611-19772/page/n19/mode/2up?view=theater){:target="_blank"}
 
 ----
 
@@ -81,7 +81,7 @@ Two maps can be seen in the combined book of issues from 1976 and 1977 that is a
 
 A map was featured in だからいまマイコン "So now Microcomputer" by the University of Tokyo Microcomputer Club, Shueisha, 1981. [Amazon Japan link](https://www.amazon.co.jp/だからいまマイコン-1981年/dp/B000J7SD6W). Thanks to a [generous Twitter user](https://twitter.com/skuma919/status/1674288156336885762) for posting this photo at my request.
 
-[![Akihabara, 1981](/images/posts/akihabara-1981.jpg)](/images/posts/akihabara-1981.jpg)
+[![Akihabara, 1981](/images/posts/akihabara-1981.jpg){:width="740" height="555"}](/images/posts/akihabara-1981.jpg)
 
 ----
 
@@ -93,7 +93,7 @@ This map is from a [scan of Technopolis magazine on the Internet Archive, dated 
 
 * [https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up)
 
-[![Akihabara, November 1982](/images/posts/akihabara-1982.jpg)](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up?view=theater){:target="_blank"}
+[![Akihabara, November 1982](/images/posts/akihabara-1982.jpg){:width="740" height="490"}](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up?view=theater){:target="_blank"}
 
 ----
 
@@ -101,13 +101,13 @@ This map is from a [scan of Technopolis magazine on the Internet Archive, dated 
 
 A map was included with the January 1983 issue of Micom BASIC magazine. The below image is saved from a [Yahoo! Japan Auction listing](https://page.auctions.yahoo.co.jp/jp/auction/x1060034656).
 
-[![Akihabara, January 1983](/images/posts/akihabara-1983-micom.jpg)](/images/posts/akihabara-1983-micom.jpg)
+[![Akihabara, January 1983](/images/posts/akihabara-1983-micom.jpg){:width="740" height="526"}](/images/posts/akihabara-1983-micom.jpg)
 
 The map below is from [POPCOM 1983-05](https://archive.org/details/POPCOM198305/page/n73) and is followed by 4 pages of listings that refer to the map using the A/J–1/10 key along its edge just in case you want to look some things up.
 
 * [https://archive.org/details/POPCOM198305/page/n73/mode/2up](https://archive.org/details/POPCOM198305/page/n73/mode/2up)
 
-[![Akihabara, May 1983](/images/posts/akihabara-1983.jpg)](https://archive.org/details/POPCOM198305/page/n73/mode/2up?view=theater){:target="_blank"}
+[![Akihabara, May 1983](/images/posts/akihabara-1983.jpg){:width="740" height="548"}](https://archive.org/details/POPCOM198305/page/n73/mode/2up?view=theater){:target="_blank"}
 
 ----
 
@@ -118,7 +118,7 @@ This one from I/O 1984 May issue was found through [Google](http://hirax.net/dia
 - [https://web.archive.org/web/20100408004407/http://nhh.mo-blog.jp/ttt/2007/09/post_6a5d.html](https://web.archive.org/web/20100408004407/http://nhh.mo-blog.jp/ttt/2007/09/post_6a5d.html)
 - [https://archive.org/details/Io19845/page/n365/mode/2up](https://archive.org/details/Io19845/page/n365/mode/2up)
 
-[![Akihabara, May 1984](/images/posts/akihabara-1984.jpg)](https://archive.org/details/Io19845/page/n365/mode/2up?view=theater){:target="_blank"}
+[![Akihabara, May 1984](/images/posts/akihabara-1984.jpg){:width="740" height="480"}](https://archive.org/details/Io19845/page/n365/mode/2up?view=theater){:target="_blank"}
 
 ----
 
@@ -130,17 +130,17 @@ This one [I found referenced on Twitter](https://twitter.com/yoshinokentarou/sta
 
 * [https://archive.org/details/popcom-198504/page/122/mode/2up](https://archive.org/details/popcom-198504/page/122/mode/2up)
 
-[![Akihabara, April 1985](/images/posts/akihabara-1985.jpg)](https://archive.org/details/popcom-198504/page/122/mode/2up?view=theater){:target="_blank"}
+[![Akihabara, April 1985](/images/posts/akihabara-1985.jpg){:width="740" height="535"}](https://archive.org/details/popcom-198504/page/122/mode/2up?view=theater){:target="_blank"}
 
 ----
 
 ## 1987
 
-> **Missing:** I found mention of maps in a 1987 issue of Be-VAP　ビ・バップ magazine, in fact there seem to be two. [Auction archive is here](https://aucview.com/yahoo/k406890612/) with [incomplete image one](/images/posts/akihabara-1987-be-vap-small.jpg) and [incomplete image two](/images/posts/akihabara-1987-be-vap-2-small.jpg).
+> **Missing:** I found mention of maps in a 1987 issue of Be-VAP　ビ・バップ magazine, in fact there seem to be two. [Auction archive is here](https://aucview.com/yahoo/k406890612/) with [incomplete image one](/images/posts/akihabara-1987-be-vap.jpg) and [incomplete image two](/images/posts/akihabara-1987-be-vap-2.jpg).
 
 [One from 1987 on Twitter](https://twitter.com/gantaro_junker/status/956173893730889735). This one I have tracked down as being from [ラジオ技術　1987年6月号](https://junkmouse.net/product/ラジオ技術%E3%80%801987年6月号/) the June 1987 issue of Radio Technology.
 
-[![Akihabara, June 1987](/images/posts/akihabara-1987.jpg)](/images/posts/akihabara-1987.jpg)
+[![Akihabara, June 1987](/images/posts/akihabara-1987.jpg){:width="740" height="1155"}](/images/posts/akihabara-1987.jpg)
 
 ----
 
@@ -153,7 +153,7 @@ This one from Google, but thankfully also present on Internet Archive. From I/O 
 * [https://dad-aslan.hatenablog.com/entry/2022/01/06/190000](https://dad-aslan.hatenablog.com/entry/2022/01/06/190000)
 * [https://archive.org/details/Io19887/page/n301/mode/2up](https://archive.org/details/Io19887/page/n301/mode/2up)
 
-[![Akihabara, July 1988](/images/posts/akihabara-1988.jpg)](https://archive.org/details/Io19887/page/n301/mode/2up?view=theater){:target="_blank"}
+[![Akihabara, July 1988](/images/posts/akihabara-1988.jpg){:width="740" height="1081"}](https://archive.org/details/Io19887/page/n301/mode/2up?view=theater){:target="_blank"}
 
 ---- 
 
@@ -163,7 +163,7 @@ Through Google I found a map featured in "AK gazette" from Winter 1991.
 
 - [http://asahirom.blog28.fc2.com/blog-entry-58.html](http://asahirom.blog28.fc2.com/blog-entry-58.html)
 
-[![Akihabara, Winter 1991](/images/posts/akihabara-1991.jpg)](/images/posts/akihabara-1991.jpg)
+[![Akihabara, Winter 1991](/images/posts/akihabara-1991.jpg){:width="740" height="522"}](/images/posts/akihabara-1991.jpg)
 
 ----
 
@@ -179,7 +179,7 @@ There are three really cool maps in ゲームウララ Vol.1より Game Urara Vo
 
 * [https://archive.org/details/gameurara-vol1-1995-600DPI/Game%20Urara%20-%20Vol.%201/page/n101/mode/2up](https://archive.org/details/gameurara-vol1-1995-600DPI/Game%20Urara%20-%20Vol.%201/page/n101/mode/2up)
 
-[![Akihabara, 1995](/images/posts/akihabara-1995.jpg)](https://archive.org/details/gameurara-vol1-1995-600DPI/Game%20Urara%20-%20Vol.%201%20%28Searchable%29/page/n101/mode/2up?view=theater){:target="_blank"}
+[![Akihabara, 1995](/images/posts/akihabara-1995.jpg){:width="740" height="349"}](https://archive.org/details/gameurara-vol1-1995-600DPI/Game%20Urara%20-%20Vol.%201%20%28Searchable%29/page/n101/mode/2up?view=theater){:target="_blank"}
 
 ----
 
@@ -195,7 +195,7 @@ The 250+ maps it contains are hyperlinked in a multitude of ways and the website
 
 Another [one from 1996 via Google](http://misoji-no-wakaremiti.cocolog-nifty.com/blog/2012/08/201208171995-fe.html), which was featured in the 「ASCII-DATES 1996」 notebook.
 
-[![JPG](/images/posts/akihabara-1996-ascii-dates-small.jpg)](/images/posts/akihabara-1996-ascii-dates.jpg)
+[![JPG](/images/posts/akihabara-1996-ascii-dates.jpg){:width="740" height="705"}](/images/posts/akihabara-1996-ascii-dates.jpg)
 
 ----
 
@@ -205,7 +205,7 @@ From Google, I found a map featured in either PC自作派 "PC DIY" Vol.1 (1997) 
 
 * [https://setoalpha.hatenablog.com/entry/2019/08/12/024509](https://setoalpha.hatenablog.com/entry/2019/08/12/024509)
 
-[![JPG](/images/posts/akihabara-1997.jpg)](https://setoalpha.hatenablog.com/entry/2019/08/12/024509)
+[![JPG](/images/posts/akihabara-1997.jpg){:width="740" height="1082"}](https://setoalpha.hatenablog.com/entry/2019/08/12/024509)
 
 ----
 
@@ -233,7 +233,7 @@ This one found on Twitter. A 1998/1999 issue of PC magazine DOS/V POWER REPORT f
 * [https://twitter.com/fattyfatty2001/status/1466207648869601281](https://twitter.com/fattyfatty2001/status/1466207648869601281)
 * [https://twitter.com/fattyfatty2001/status/1466213841159680001](https://twitter.com/fattyfatty2001/status/1466213841159680001)
 
-[![JPG](/images/posts/akihabara-1999.jpg)](https://twitter.com/fattyfatty2001/status/1466207648869601281/photo/1)
+[![JPG](/images/posts/akihabara-1999.jpg){:width="740" height="554"}](https://twitter.com/fattyfatty2001/status/1466207648869601281/photo/1)
 
 ----
 
@@ -247,7 +247,7 @@ Download from the following [archive.org](https://archive.org) link.
 
 *   [http://web.archive.org/web/20050212144103/http://homepage1.nifty.com/akiba/akibaweb2kr1.zip](https://web.archive.org/web/20050212144103/http://homepage1.nifty.com/akiba/akibaweb2kr1.zip)
 
-[![PNG](/images/posts/akihabara-2000.png)](/images/posts/akihabara-2000.png)
+[![PNG](/images/posts/akihabara-2000.png){:width="740" height="414"}](/images/posts/akihabara-2000.png)
 
 ----
 
@@ -259,7 +259,7 @@ But the FileMaker Pro database is interesting, as it can still be loaded and vie
 
 Anyway, I did a bunch of image grabbing and assembling to put together this large 27.8 megapixel version of the map (click the image below):
 
-[![PNG](/images/posts/akihabara-2001-small.png)](/images/posts/akihabara-2001.png)
+[![PNG](/images/posts/akihabara-2001-small.png){:width="740" height="496"}](/images/posts/akihabara-2001.png)
 
 ----
 
