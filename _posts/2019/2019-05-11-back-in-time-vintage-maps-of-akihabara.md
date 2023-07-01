@@ -243,8 +243,6 @@ This one found on Twitter. A 1998/1999 issue of PC magazine DOS/V POWER REPORT f
 
 The HTML version was typical of websites at the time: way too many _HTML_ files and _images_ with _image-maps_ presented as a _frameset_ that makes specific pages pretty much impossible to bookmark. Ah, the heady days of Y2K web development! 
 
-Download from the following [archive.org](https://archive.org) link.
-
 *   [http://web.archive.org/web/20050212144103/http://homepage1.nifty.com/akiba/akibaweb2kr1.zip](https://web.archive.org/web/20050212144103/http://homepage1.nifty.com/akiba/akibaweb2kr1.zip)
 
 [![PNG](/images/posts/akihabara-2000.png){:width="740" height="414"}](/images/posts/akihabara-2000.png)
