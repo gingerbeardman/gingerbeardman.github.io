@@ -17,7 +17,6 @@ nouns:
 - Pio
 - POPCOM
 - AK gazette
-pinned: true
 featured: true
 redirect_from:
 - /2019/05/11/back-in-time-akihabara-1983-to-2001/
