@@ -6,6 +6,9 @@ tags:
 - polarium
 - japanese
 - game
+- progress
+- chart
+- nerd
 nouns:
 - Game Boy Advance
 - Polarium Advance
