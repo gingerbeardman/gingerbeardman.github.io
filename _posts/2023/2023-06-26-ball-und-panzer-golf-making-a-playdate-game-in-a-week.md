@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Ball und Panzer Golf: week 1'
+title: 'Ball und Panzer Golf: making a Playdate game in a week'
 date: '2023-06-26T22:11:00+00:00'
+last_modified_at: '2023-07-01T13:00+01:00'
 tags:
 - x68000
 - playdate
@@ -18,6 +19,8 @@ nouns:
 - X68000 Z
 - X68000
 featured: true
+redirect_from:
+- /2023/06/26/ball-und-panzer-golf-week-1/
 comments: https://twitter.com/gingerbeardman/status/1670573806765719553
 
 ---
