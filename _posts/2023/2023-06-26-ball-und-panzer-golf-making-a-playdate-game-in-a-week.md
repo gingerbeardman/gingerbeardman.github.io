@@ -127,3 +127,5 @@ The big remaining task that will take a lot longer than a week is game structure
 But the bigger question is do I want it to be bigger than that? There are no shortage of ideas how how to mashup to concept of tanks and golf, only a shortage of time and budget to make it happen. I could even add a mini-golf type of experience where you're playing a round of single screen holes with additional hazards pulled from both the golf and tank world. 
 
 Let's see what happens.
+
+> If you have a Playdate and would like to test this game I have a limited number of spots available. Get in touch on Twitter via the comments link below.
