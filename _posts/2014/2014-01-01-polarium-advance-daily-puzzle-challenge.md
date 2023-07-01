@@ -22,7 +22,7 @@ style: |
   }
 ---
 
-I started a new job at Apple in June 2013, and seeing as I'm living away from home a fair bit I had the hunger for a big puzzle game to get my teeth into. So I bought an extra copy of Polarium Advance. I'd played the game before but had never finished all of the puzzles.
+I started a new job at Apple in June 2013, and seeing as I was living away from home a fair bit I had a bit of time and the hunger for a big puzzle game to get my teeth into. So I bought an extra copy of Polarium Advance. I'd played the game before but had never finished all of the puzzles.
 
 It's a typically brilliant game by *[Mitchell Corporation](https://en.wikipedia.org/wiki/Mitchell_Corporation)* which was in development for Game Boy Advance when Nintendo saw it and requested [a version for their new handheld: the Nintendo DS](https://en.wikipedia.org/wiki/Polarium). After that version was released the team returned to [the GBA version](https://en.wikipedia.org/wiki/Polarium_Advance), which probably explains why it's a more fully featured and all round better game than the DS version. 
 
