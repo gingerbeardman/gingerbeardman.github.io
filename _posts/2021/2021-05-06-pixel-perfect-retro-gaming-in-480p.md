@@ -16,15 +16,15 @@ comments: https://twitter.com/gingerbeardman/status/1390306410617966592
 featured: true
 
 ---
-I recently saw a feature on [Racketboy](https://www.racketboy.com/retro/the-best-43-square-lcd-monitors-for-retro-gaming-classic-pc-use) about "The Best 4:3 LCD Monitors for Retro Gaming" which is an interesting list that misses the mark for one reason: it ignores scaling problems.
+I recently saw a feature on [Racketboy](https://www.racketboy.com/retro/the-best-43-square-lcd-monitors-for-retro-gaming-classic-pc-use) about "The Best 4:3 LCD Monitors for Retro Gaming" which is an interesting list that misses the mark for one reason: it ignores scaling.
 
-LCDs are best at their native resolution and all the listed monitors in that article are odd PC resolutions. If we think about retro gaming display outputs then we're squarely sub-480p. Anything higher will mean the image gets scaled and the results will be suboptimal.
+LCDs are best at their native resolution and all the listed monitors in that article are odd PC resolutions so most images will be scaled by uneven, non-integer amounts. If we think about retro gaming display outputs then we're squarely sub-480p. Anything higher will mean the image gets scaled and the results will be suboptimal.
 
 What we need is a display with a native resolution of 480p. Do such things exist? Why, yes, they do!
 
 ## LCD 480p EDTVs
 
-For a handful of years I've been using a 20" LCD 480p EDTV which offers great support for 240p and 480p with zero scaling. These types of TVs mean you get pixel-perfect (1:1 PAR) results for PC, Dreamcast, Xbox, Xbox 360, and as near as dammit for Wii/GC, PS3/2/1 and other consoles without native PC output. PAL resolution 576p games are a fly in the ointment and won't fit, so we won't be playing those here. For resolutions lower than 640x480 you get the output in the centre of the display, for example Mega Drive (Genesis) has a resolution of 320×224px that maps with scan lines to 640×448px with small black bars top and bottom. RetroArch users will be very familiar with this kind of pixel mapping technique. Seeing the 480p output of a Wii on this kind of display is a real shock and truly amazing.
+For a handful of years I've been using a 20" LCD 480p EDTV which offers great support for 240p and 480p with zero scaling. These types of TVs mean you get pixel-perfect (1:1 PAR) results for PC, Dreamcast, Xbox, Xbox 360, and as near as dammit for Wii/GC, PS3/2/1 and other consoles without native PC output. PAL resolution 576p games are a fly in the ointment and won't fit, so we won't be playing those here. For resolutions lower than 640x480 you still get integer scaling with the output in the centre of the display, for example Mega Drive (Genesis) has a resolution of 320×224px that maps with scan lines to 640×448px with small black bars top and bottom. RetroArch users will be very familiar with this kind of pixel mapping technique. Seeing the 480p output of a Wii on this kind of display is a real shock and truly amazing.
 
 I also use my modern emulation PC to output at 640×480p using a DisplayPort to VGA adapter. This gives me perfect video output from Windows, and from RetroArch for everything up to and including 480p, which covers what I consider the golden period of arcade and console gaming. On occasion I've run some PC software (Dolphin emulator, Richard Burns Rally) at much the higher UXGA resolution and used a scaler to supersample it back down to 640×480 which gives fantastic, smooth results for specific games where I feel that might be worth doing.
 
