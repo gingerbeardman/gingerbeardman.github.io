@@ -8,7 +8,9 @@ tags:
 - colour
 nouns:
 - Ball und Panzer Golf
+- Playdate Simulator
 - Playdate
+- Simulator
 featured: true
 comments: https://twitter.com/gingerbeardman/status/1677803170393649152
 
@@ -54,9 +56,9 @@ After debugging the positions of everything during my collision logic, it occurr
 
 I do this by using the debug draw in the opposite way than it's supposed to be used. Instead of drawing just the debug information, I set the hole screen to draw in colour. Then, in the same way as above, at various points in my code I punch out areas of the screen I do not want drawn in colour.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqv1kwfW5r8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqv1kwfW5r8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-One interesting thing about this is that I change the contrast (dither pattern opacity) of the golf greens when running in "colour mode" on the Simulator. I think that's the only change to the graphics I've done so far but there is opportunity for more.
+One interesting thing about this technique is that I made things look better by changing the contrast (dither pattern opacity) of the golf greens only when running in "colour mode" on the Simulator. I think that's the only change to the graphics I've done so far but there is opportunity for more.
 
 When I sent a build out to testers I put a cryptic note in the changelog "added: chartreuse tinted glasses mode" but only one tester figured out what it referred to. I had asked ChatGPT to suggest a colour that sounds like a shade of red, but is actually a shade of green: it suggested chartreuse (and I use the chartreuse hex colour for the debug layer).
 
