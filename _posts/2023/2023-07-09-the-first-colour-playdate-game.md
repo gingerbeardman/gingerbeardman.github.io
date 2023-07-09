@@ -60,7 +60,7 @@ I do this by using the debug draw in the opposite way than it's supposed to be u
 
 One interesting thing about this technique is that I made things look better by changing the contrast (dither pattern opacity) of the golf greens only when running in "colour mode" on the Simulator. I think that's the only change to the graphics I've done so far but there is opportunity for more.
 
-When I sent a build out to testers I put a cryptic note in the changelog "added: chartreuse tinted glasses mode" but only one tester figured out what it referred to. I had asked ChatGPT to suggest a colour that sounds like a shade of red, but is actually a shade of green: it suggested chartreuse (and I use the chartreuse hex colour for the debug layer).
+When I sent a build out to testers I put a cryptic note in the changelog "added: chartreuse tinted glasses mode" but only one tester figured out what it referred to. I had asked ChatGPT to suggest a colour that sounds like a shade of red, but is actually a shade of green: it suggested chartreuse (and so I use the "proper" chartreuse hex colour for the base colour of my green layer).
 
 ## Multi-colour?
 
