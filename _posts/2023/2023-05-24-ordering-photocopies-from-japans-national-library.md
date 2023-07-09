@@ -61,3 +61,6 @@ As I mentioned earlier you don't pay until you receive the material. Included al
 ## Conclusion
 
 All in all a very useful service, fairly painless process, and one that I will no doubt use again in future!
+
+![JPG](/images/posts/ascii-1985-11-chain-shot-intro.jpg "Introduction to Chain Shot (by 森辺訓章 Kuniaki "Morisuke" Moribe) for FM-8/7, PC-98/88")
+{:.tofigure}
