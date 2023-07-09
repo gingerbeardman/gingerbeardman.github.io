@@ -18,7 +18,9 @@ comments: https://twitter.com/gingerbeardman/status/1677803170393649152
 
 > This blog post assumes some familiarity with [Playdate](https://play.date) (a handheld game console with a cool crank control scheme), [Playdate SDK](https://dev.play.date) and the [Lua programming language](https://www.lua.org/manual/5.4/).
 
-During the development of my forthcoming Playdate game *[Ball und Panzer Golf](/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/)* (tentative title), I wanted to be able to draw to the debug layer from anywhere in my code. After filing a [feature request](https://devforum.play.date/t/additional-way-to-do-debug-draw-from-anywhere-in-code/11735) I thought about it some more and [came up with a workaround](): 
+During the development of my forthcoming Playdate game *[Ball und Panzer Golf](/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/)* (tentative title), I wanted to be able to draw to the debug layer from anywhere in my code. The SDK allows you to draw to the debug layer only from the `drawDebug` function.
+
+After filing a [feature request](https://devforum.play.date/t/additional-way-to-do-debug-draw-from-anywhere-in-code/11735) I thought about it some more and [came up with a workaround](): 
 
 **1. (on initialisation) create a full screen opaque image**
 
@@ -56,7 +58,9 @@ This means I can draw debug info about a thing from the same code and logic resp
 
 After debugging the positions of everything during my collision logic, it occurred to me that I could abuse this system to give the game a colour overlay. 
 
-I do this by using the debug draw in the opposite way than it's supposed to be used. Instead of drawing just the debug information, I set the hole screen to draw in colour. Then, in the same way as above, at various points in my code *I punch out areas of the screen I do not want drawn in colour*.
+I do this by using the debug draw in the opposite way to how it's supposed to be used. Instead of drawing just the debug information, I set the hole screen to draw in colour and then — in the same way as above — at various points in my code *I punch out areas of the screen I do not want drawn in colour*. 
+
+I'm not quite drawing everything twice, as the areas that are punched out are simple shapes approximating the elements in my game. Plus, this is made easier for me because everything in the game is already being drawn only with filled shapes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fqv1kwfW5r8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
