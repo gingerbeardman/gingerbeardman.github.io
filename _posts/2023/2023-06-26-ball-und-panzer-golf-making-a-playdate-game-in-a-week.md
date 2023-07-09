@@ -18,6 +18,7 @@ nouns:
 - Zuiki
 - X68000 Z
 - X68000
+- Playdate
 featured: true
 redirect_from:
 - /2023/06/26/ball-und-panzer-golf-week-1/
