@@ -16,7 +16,7 @@ comments: https://twitter.com/gingerbeardman/status/1677803170393649152
 
 ---
 
-> This blog post assumes some familiarity with [Playdate](https://play.date) (a handheld game console with a cool crank control scheme), [Playdate SDK](https://dev.play.date) and the [Lua programming language](https://www.lua.org/manual/5.4/).
+> This blog post assumes some familiarity with [Playdate](https://play.date) (a handheld game console with a cool crank control scheme), [Playdate SDK](https://play.date/dev/) and the [Lua programming language](https://www.lua.org/manual/5.4/).
 
 During the development of my forthcoming Playdate game *[Ball und Panzer Golf](/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/)* (tentative title), I wanted to be able to draw to the debug layer from anywhere in my code. The SDK allows you to draw to the debug layer only from the `drawDebug` function.
 
