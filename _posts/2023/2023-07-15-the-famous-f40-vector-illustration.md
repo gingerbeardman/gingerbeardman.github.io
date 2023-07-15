@@ -6,6 +6,7 @@ tags:
 - deneba
 - macintosh
 - illustration
+- patreon
 - preservation
 nouns:
 - Deneba Software
@@ -60,7 +61,7 @@ These days we would just call it a vector illustration, but at the time I guess 
 
 The F40 is a mind blowing piece of work and is reported to feature around 28,000 vector objects. It's a very good imitation of the [original illustration](https://www.drive.gr/galleries/ferrari-f40-david-kimble) by the legendary [David Kimble](https://memory-alpha.fandom.com/wiki/David_A._Kimble) on which it is based.
 
-I recorded a short video showing me zooming in and scrolling around. This is running in an emulator of a Macintosh with System 7.5 and 64MB RAM, though the illustration only requires 8MB RAM. Maybe this will transport you back through time to when you were young!?
+I recorded a short video showing me zooming, scrolling, and watching it redraw. Finally I ungroup everything a handful of times to count the total number of vector objects. This is running in an emulator of a Macintosh with System 7.5 and 64MB RAM, though the illustration only requires around 8MB RAM. Maybe this will transport you back through time to when you were young!?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5HMUp6vmc4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
