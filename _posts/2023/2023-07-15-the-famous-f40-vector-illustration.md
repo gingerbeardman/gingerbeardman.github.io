@@ -48,7 +48,7 @@ I was looking through some old Macintosh CD-ROMs, searching for my usual things 
 
 Intrigue got the better of me so I did a quick google and came up with [a post on the Canvas GFX website](https://www.canvasgfx.com/blog/driven-by-design-david-rumfelt-graphic-artist) (yes, the software still exists!) about David Rumfelt and his most famous work: a cutaway illustration of a Ferrari F40.
 
-> *Thanks to my [Patreon](https://www.patreon.com/gingerbeardman) supporters for their help and encouragement with this type of content.*
+> Thanks to my [Patreon](https://www.patreon.com/gingerbeardman) supporters for their help and encouragement with this type of content.
 
 Going back to the [files on the CD](https://archive.org/details/GRAVIS_CD_1_94), I found the artwork for The Famous F40! It was alongside another detailed cutaway piece called The Famous Harley. In the folder containing the artwork files there was an important looking Read Me document:
 
