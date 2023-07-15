@@ -8,7 +8,12 @@ img { border: none !important; }
 </head>
 <html>
 <body>
-<img src="https://cdn.gingerbeardman.com/images/posts/deneba-canvas-david-rumfelt-the-famous-f40-exported-megapixel.png" onload="doScroll();" alt="" title="" loading="lazy">
+<picture>
+ <source srcset="https://cdn.gingerbeardman.com/images/posts/deneba-canvas-david-rumfelt-the-famous-f40-exported-megapixel.avif" type="image/avif">
+ <source srcset="https://cdn.gingerbeardman.com/images/posts/deneba-canvas-david-rumfelt-the-famous-f40-exported-megapixel.webp" type="image/webp">
+ <img src="https://cdn.gingerbeardman.com/images/posts/deneba-canvas-david-rumfelt-the-famous-f40-exported-megapixel.png" onload="doScroll();" alt="" title="" loading="lazy">
+</picture>
+  
 <script>
 function ready(fn) {
 if (document.readyState != 'loading') {
