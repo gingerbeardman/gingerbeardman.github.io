@@ -58,7 +58,11 @@ Going back to the [files on the CD](https://archive.org/details/GRAVIS_CD_1_94),
 These days we would just call it a vector illustration, but at the time I guess there must have been some fun discussions as to both the legality of this piece of work—a copy of a piece of art originally created by somebody else—and also how it should be described to minimise [the outrage David describes](https://www.canvasgfx.com/blog/driven-by-design-david-rumfelt-graphic-artist) when he recalls creating the piece.
 
 <figure class="img-with-caption">
-<img srcset="https://cdn.gingerbeardman.com/images/posts/deneba-canvas-david-rumfelt-the-famous-f40-exported-retina.png 2x" src="https://cdn.gingerbeardman.com/images/posts/deneba-canvas-david-rumfelt-the-famous-f40-exported.png" loading="lazy">
+<picture>
+  <source srcset="https://cdn.gingerbeardman.com/images/posts/deneba-canvas-david-rumfelt-the-famous-f40-exported.avif 1x, https://cdn.gingerbeardman.com/images/posts/deneba-canvas-david-rumfelt-the-famous-f40-exported-retina.avif 2x" type="image/avif">
+  <source srcset="https://cdn.gingerbeardman.com/images/posts/deneba-canvas-david-rumfelt-the-famous-f40-exported.webp 1x, https://cdn.gingerbeardman.com/images/posts/deneba-canvas-david-rumfelt-the-famous-f40-exported-retina.webp 2x" type="image/webp">
+  <img src="https://cdn.gingerbeardman.com/images/posts/deneba-canvas-david-rumfelt-the-famous-f40-exported.png" srcset="https://cdn.gingerbeardman.com/images/posts/deneba-canvas-david-rumfelt-the-famous-f40-exported-retina.png 2x" onload="doScroll();" alt="" title="" loading="lazy">
+</picture>
 <figcaption class="caption">Original art by David Kimble. Electronically re-created in Canvas by Deneba Software artist Dave Rumfelt.</figcaption></figure>
 
 ## Time travel
