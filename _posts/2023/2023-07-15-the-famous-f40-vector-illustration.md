@@ -80,7 +80,7 @@ You can scroll around this image or right click and open it in a new tab to see 
 
 ## Notes
 
-Eagle-eyed viewers may notice that this version of the F40 differs slightly from [the one shown on the Canvas GFX web page](https://www.canvasgfx.com/blog/driven-by-design-david-rumfelt-graphic-artist). The Canvas file I have from 1994 is some missing elements, such as the metalwork between the petrol cap and petrol tank. It is also comprised of around 16000 vector objects, around two thirds of the reported number. Also of note is the image on the Canvas GFX website appears to be either squished horizontally or stretched vertically.
+Eagle-eyed viewers may notice that this version of the F40 differs slightly from [the one shown on the Canvas GFX web page](https://www.canvasgfx.com/blog/driven-by-design-david-rumfelt-graphic-artist). The Canvas file I have from 1994 is some missing elements, such as the metalwork between the petrol cap and petrol tank. It is also comprised of around 16,000 vector objects, around two thirds of the reported number. Also of note is the image on the Canvas GFX website appears to be either squished horizontally or stretched vertically.
 
 ## Further reading
 
