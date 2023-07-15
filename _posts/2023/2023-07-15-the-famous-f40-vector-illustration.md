@@ -62,9 +62,9 @@ The F40 is a mind blowing piece of work and is reported to feature around 28,000
 
 I recorded a short video showing me zooming in and scrolling around. This is running in an emulator of a Macintosh with System 7.5 and 64MB RAM, though the illustration only requires 8MB RAM. Maybe this will transport you back through time to when you were young!?
 
-Back in the late 1980s and early 1990s Canvas—and most other contemporary illustration software—did not draw lines smoothly using the process known as [anti-aliasing](https://en.wikipedia.org/wiki/Spatial_anti-aliasing). This was for a combination of performance reasons (you need the artwork to redraw quickly) and hardware limitations (computers didn't have GPU acceleration and displays often ran with limited colours). The resulting image has lines with aliasing—a distinct pixel stepping—and gradient fills that are not very smooth. Though I feel that a lot of the gradient fills in this piece are deliberately using banding for similar technical reasons.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5HMUp6vmc4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Back in the late 1980s and early 1990s Canvas—and most other contemporary illustration software—did not draw lines smoothly using the process known as [anti-aliasing](https://en.wikipedia.org/wiki/Spatial_anti-aliasing). This was for a combination of performance reasons (you need the artwork to redraw quickly) and hardware limitations (computers didn't have GPU acceleration and displays often ran with limited colours). The resulting image has lines with aliasing—a distinct pixel stepping—and gradient fills that are not very smooth. Though I feel that a lot of the gradient fills in this piece are deliberately using banding for similar technical reasons.
 
 After playing around in Canvas for a while, I decided to see if I could get a higher quality version of the file. Rather than struggle making 30-year-old software do something it would rather not, I exported the Canvas file as an EPS and moved to modern macOS. Imported it into modern Photoshop allowed me to export a higher quality, antialiased version of the illustration that you see at the top of this page. But why stop there?
 
