@@ -51,7 +51,7 @@ Going back to the [files on the CD](https://archive.org/details/GRAVIS_CD_1_94),
 
 > Effectively immediately, all uses of the F-40 and Harley image by Deneba or third-party vendors MUST include one of the following tag lines in the credits: **"Original art by David Kimble. Electronically re-created in Canvas by Deneba Software"** or **"Original art by David Kimble. Electronically re-created in Canvas by Deneba Software artist Dave Rumfelt."**
 
-These days we would just call it a vector illustration, but at the time I guess there must have been some fun discussions as to both the legality of this piece of work - a copy of a piece of art originally created by somebody else - and also how it should be described to minimise [the outrage David describes](https://www.canvasgfx.com/blog/driven-by-design-david-rumfelt-graphic-artist) when he recalls creating the piece.
+These days we would just call it a vector illustration, but at the time I guess there must have been some fun discussions as to both the legality of this piece of work—a copy of a piece of art originally created by somebody else—and also how it should be described to minimise [the outrage David describes](https://www.canvasgfx.com/blog/driven-by-design-david-rumfelt-graphic-artist) when he recalls creating the piece.
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/deneba-canvas-david-rumfelt-the-famous-f40-exported.png "Original art by David Kimble. Electronically re-created in Canvas by Deneba Software artist Dave Rumfelt.")
 {:.tofigure}
