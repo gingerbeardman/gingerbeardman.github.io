@@ -91,5 +91,5 @@ Eagle-eyed viewers may notice that this version of the F40 differs slightly from
 ## Downloads
 
 - [The Famous F40, PDF file](https://cdn.gingerbeardman.com/files/deneba-canvas-david-rumfelt-the-famous-f40.pdf) (2MB, direct download)
-- [The Famous F40, Canvas file](https://cdn.gingerbeardman.com/files/deneba-canvas-david-rumfelt-the-famous-f40.sit) (10MB, direct download)
+- [The Famous F40, Canvas file as SIT](https://cdn.gingerbeardman.com/files/deneba-canvas-david-rumfelt-the-famous-f40.sit) (10MB, direct download)
 - [The Famous F40, Canvas file on CD-ROM](https://archive.org/details/GRAVIS_CD_1_94) (400MB, link to download page)
