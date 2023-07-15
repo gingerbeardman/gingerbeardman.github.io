@@ -23,7 +23,7 @@ nouns:
 - EPS
 - Photoshop
 featured: true
-comments: https://twitter.com/gingerbeardman/status/1679944379010539523
+comments: https://twitter.com/gingerbeardman/status/1680271012414324737
 style: |
   figcaption {
     font-size: 0.9rem;
