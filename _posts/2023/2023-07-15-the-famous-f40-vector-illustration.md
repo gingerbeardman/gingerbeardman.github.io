@@ -22,6 +22,7 @@ nouns:
 - The Famous Harley
 - Read Me
 - EPS
+- PDF
 - Photoshop
 featured: true
 comments: https://twitter.com/gingerbeardman/status/1680271012414324737
@@ -85,3 +86,9 @@ Eagle-eyed viewers may notice that this version of the F40 differs slightly from
 
 - [Gallery: Ferrari F40 Prototype cutaway sketch by David Kimble](https://uk.motor1.com/news/462763/ferrari-f40-straight-piped-autobahn/)
 - [6 Ferrari F40 facts for car nerds only](https://motors.mega.mu/news/6-ferrari-f40-facts-car-nerds-only-20170303.html)
+
+## Downloads
+
+- [The Famous F40, PDF file](https://cdn.gingerbeardman.com/files/deneba-canvas-david-rumfelt-the-famous-f40.pdf) (2MB, direct download)
+- [The Famous F40, Canvas file](https://cdn.gingerbeardman.com/files/deneba-canvas-david-rumfelt-the-famous-f40.sit) (10MB, direct download)
+- [The Famous F40, Canvas file on CD-ROM](https://archive.org/details/GRAVIS_CD_1_94) (400MB, link to download page)
