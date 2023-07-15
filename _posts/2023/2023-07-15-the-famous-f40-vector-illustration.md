@@ -35,15 +35,19 @@ style: |
     width: 160%;
     display: block;
   }
+  
+  blockquote em {
+    font-style: normal;
+  }
 ---
 
-I was looking through some old Macintosh CD-ROMs, searching for my usual things that I do whenever I add new discs to my collection: hanafuda, specific artists, favourite software, plugins for said favourite software, and so on. Anyway, I stumbled across some old files from Deneba Canvas and noticed how they were all credited to the artist.
+I was looking through some old Macintosh CD-ROMs, searching for my usual things that I do whenever I add new discs to my collection: hanafuda, specific artists, favourite software, plugins for said favourite software, and so on. Whilst I was deep in the filesystem I stumbled across some old sample files from Deneba Canvas and noticed how they were all credited to the artist.
 
 ![Canvas Title was produced entirely in Canvas 2.1 by David Rumfelt, Deneba Software. © 1990 Deneba Systems, Inc.](/images/posts/deneba-canvas-david-rumfelt.png "Canvas Title was produced entirely in Canvas 2.1 by David Rumfelt, Deneba Software. © 1990 Deneba Systems, Inc.")
 
 Intrigue got the better of me so I did a quick google and came up with [a post on the Canvas GFX website](https://www.canvasgfx.com/blog/driven-by-design-david-rumfelt-graphic-artist) (yes, the software still exists!) about David Rumfelt and his most famous work: a cutaway illustration of a Ferrari F40.
 
-Going back to the [files on the CD](https://archive.org/details/GRAVIS_CD_1_94), I found the artwork for The Famous F40! It was alongside another detailed cutaway piece called The Famous Harley. In the folder containing the artwork files there was a Read Me document:
+Going back to the [files on the CD](https://archive.org/details/GRAVIS_CD_1_94), I found the artwork for The Famous F40! It was alongside another detailed cutaway piece called The Famous Harley. In the folder containing the artwork files there was an important looking Read Me document:
 
 > Effectively immediately, all uses of the F-40 and Harley image by Deneba or third-party vendors MUST include one of the following tag lines in the credits: **"Original art by David Kimble. Electronically re-created in Canvas by Deneba Software"** or **"Original art by David Kimble. Electronically re-created in Canvas by Deneba Software artist Dave Rumfelt."**
 
