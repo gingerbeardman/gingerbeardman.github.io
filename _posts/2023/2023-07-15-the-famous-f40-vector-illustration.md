@@ -75,7 +75,7 @@ I recorded a short video showing me zooming, scrolling, and watching it redraw. 
 
 Back in the late 1980s and early 1990s Canvas—and most other contemporary illustration software—did not draw lines smoothly using the process known as [anti-aliasing](https://en.wikipedia.org/wiki/Spatial_anti-aliasing). This was for a combination of performance reasons (you need the artwork to redraw quickly) and hardware limitations (computers didn't have GPU acceleration and displays often ran with limited colours). The resulting image has lines with aliasing—a distinct pixel stepping—and gradient fills that are not very smooth. Though I feel that a lot of the gradient fills in this piece are deliberately using banding for similar technical reasons.
 
-After playing around in Canvas for a while, I decided to see if I could get a higher quality version of the file. Rather than struggle making 30-year-old software do something it would rather not, I exported the Canvas file as an EPS and moved to modern macOS. Importing it into modern Photoshop allowed me to export a higher quality, smooth, anti-aliased version of the illustration that you see at the top of this page. But why stop there?
+After playing around in Canvas for a while, I decided to see if I could get a higher quality version of the file. Rather than struggle making 30-year-old software do something it would rather not, I exported the Canvas file as an EPS and moved to modern macOS. Importing it into modern [Acorn](https://flyingmeat.com/acorn/) allowed me to export a higher quality, smooth, anti-aliased version of the illustration that you see at the top of this page. But why stop there?
 
 ## Scrollable 20-megapixel version
 
