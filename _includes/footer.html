@@ -1,7 +1,23 @@
 <footer class='c-footer'>
   <div class='o-grid'>
     <div class='o-grid__col o-grid__col--full'>
-      
+      <hr>
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
+
+{% assign type = tag[0] | regex_replace: '[0-9]', '' %}
+{% unless type == '' %}
+
+{% assign quantity = (tag | last | size) %}
+{% if quantity > 2 %}
+ <span class="site-tag">
+    <a href="/tag/{{ tag | first | slugify }}/"
+        style="font-size: {{ tag | last | size  |  times: 3 | plus: 80  }}%">{{ tag[0] | replace:'-', ' ' }}</a>&nbsp;
+</span>
+
+{% endif %}
+{% endunless %}
+{% endfor %}
     </div>
   </div>
 </footer>
