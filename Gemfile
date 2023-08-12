@@ -12,6 +12,7 @@ gem "ffi"
 gem "kramdown"
 
 group :jekyll_plugins do
+  gem 'jekyll-regex-replace'
   gem 'jekyll-include-cache'
   gem 'jekyll-redirect-from'
   gem 'jekyll-loading-lazy'
