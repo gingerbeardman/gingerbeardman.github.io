@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Extracting sounds from Macromedia Director files
-
+last_modified_at: '2023-08-12T20:42+01:00'
 tags:
 - hack
 - macintosh
