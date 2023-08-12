@@ -8,12 +8,14 @@ tags:
 - audio
 - script
 nouns:
+- Apple Macintosh
 - Thoru Yamamoto
 - Macromedia Director 2004
 - Macromedia Director
 - Macromedia
 - Director
 - ProjectorRays
+- CastRipperTool
 - .dcr
 - .dir
 comments: https://twitter.com/gingerbeardman/status/1690449222712131584
