@@ -6,6 +6,7 @@ tags:
 - hack
 - macintosh
 - audio
+- sfx
 - script
 nouns:
 - Apple Macintosh
