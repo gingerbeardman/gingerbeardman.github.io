@@ -51,7 +51,7 @@ Running the classifier works at about real-time, a few seconds per sound, but I 
 find . -iname "*.wav" -exec parallel python3 classify.py {} ::: {} \+
 ```
 
-As I type my computer is making short order of the task, whilst remaining perfectly responsive, and a little warm. Final speed for me is one sound every ~0.85 seconds.
+As I type my computer is making short order of the task, whilst remaining perfectly responsive, if a little warm. Final speed for me is one sound every ~0.85 seconds.
 
 ## Python Script
 
