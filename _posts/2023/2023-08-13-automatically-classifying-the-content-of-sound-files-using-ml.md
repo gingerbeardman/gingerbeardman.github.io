@@ -27,7 +27,9 @@ I wondered if there was a way of using ML (Machine Learning) to automatically ca
 
 But the data set is only one half of the solution. You need to use the dataset to create a model and then run that model against your own data to get the required results. Thankfully, I found YAMNet:
 
-> YAMNet is a deep net that predicts 521 audio event classes from the AudioSet-YouTube corpus it was trained on. 
+> YAMNet is a deep net that predicts ~521 audio event classes from the AudioSet-YouTube corpus it was trained on. 
+
+I guess YAMNet is tracking behind AudioSet in terms of total categories, but it is good enough to me.
 
 ## Let's go
 
@@ -49,7 +51,7 @@ Running the classifier works at about real-time, a few seconds per sound, but I 
 find . -iname "*.wav" -exec parallel /opt/homebrew/bin/python3 classify.py {} ::: {} \+
 ```
 
-As I type my computer is making short order of the task, whilst remaining perfectly responsive, and a little warm.
+As I type my computer is making short order of the task, whilst remaining perfectly responsive, and a little warm. Final speed for me is one sound every ~0.85 seconds.
 
 ## Python Script
 
