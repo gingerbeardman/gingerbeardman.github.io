@@ -8,7 +8,7 @@
 {% assign type = tag[0] | regex_replace: '[0-9]|tumblr', '' %}
 {% unless type == '' %}
 {% assign quantity = (tag | last | size) %}
-{% if quantity > 2 %}
+{% if quantity >= 2 %}
  <span class="site-tag">
     <a href="/tag/{{ tag | first | slugify }}/"
         style="font-size: {{ tag | last | size  |  times: 1.5 | plus: 100  }}%">{{ tag[0] | replace:'-', ' ' }}</a>&nbsp;
