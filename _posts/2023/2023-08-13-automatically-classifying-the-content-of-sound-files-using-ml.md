@@ -33,7 +33,7 @@ I guess YAMNet is tracking behind AudioSet in terms of total categories, but it 
 
 ## Let's go
 
-I used the script described in [this tutorial](https://www.tensorflow.org/hub/tutorials/yamnet) as a starting point. I'm not a regular python user but using `pip` to [install tensorflow](https://www.tensorflow.org/install), any other missing imports, and after that it just worked.
+I used the script described in [this tutorial](https://www.tensorflow.org/hub/tutorials/yamnet) as a starting point. I'm not a regular python user but using `pip` to [install tensorflow](https://www.tensorflow.org/install), along with any other missing imports, and after that it ...just worked.
 
 ## Getting your files in order
 
