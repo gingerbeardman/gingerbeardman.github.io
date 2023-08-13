@@ -29,7 +29,7 @@ But the data set is only one half of the solution. You need to use the dataset t
 
 > YAMNet is a deep net that predicts ~521 audio event classes from the AudioSet-YouTube corpus it was trained on. 
 
-I guess YAMNet is tracking behind AudioSet in terms of total categories, but it is good enough to me.
+I guess YAMNet is tracking behind AudioSet in terms of total categories, but it is good enough for me.
 
 ## Let's go
 
