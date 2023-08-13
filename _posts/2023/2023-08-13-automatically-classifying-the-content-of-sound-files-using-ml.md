@@ -21,7 +21,7 @@ comments: https://twitter.com/gingerbeardman/status/1690731282420871169
 
 Following on from yesterday's [extraction of old sound effects](/2023/08/12/extracting-sounds-from-macromedia-director-files/), I quickly realised I needed an easier way to search them as they came out of Director as unlabelled, numbered files. I can use QuickLook or a media player to quickly audition them, but how could I easily find the sample that contains the sound of running water or a horse trotting?
 
-I wondered if there was a way of using ML (Machine Learning) to automatically categorise sounds. It seemed like something that should be possible, especially given the recent explosion in "AI" (ML) tools. I quickly found Google's AudioSet, which sounded like the perfect dataset:
+I wondered if there was a way of using Machine Learning (ML) to automatically categorise sounds. It seemed like something that should be possible, especially given the recent explosion in "AI" (really: ML) tools. I quickly found Google's AudioSet, which sounded like the perfect dataset:
 
 > AudioSet consists of an expanding ontology of 632 audio event classes and a collection of 2,084,320 human-labeled 10-second sound clips drawn from YouTube videos. The ontology is specified as a hierarchical graph of event categories, covering a wide range of human and animal sounds, musical instruments and genres, and common everyday environmental sounds.
 
