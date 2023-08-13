@@ -48,7 +48,7 @@ find . -iname "*.wav" -exec sox {} -c 1 -r 16000 -b 16 {}_16k.wav trim 0 00:03 \
 Running the classifier works at about real-time, a few seconds per sound, but I noticed that it was leaving a lot of my CPU unused. This struck me as a prime candidate for parallelisation, which is pretty easy on the command line. I used the `parallel` command to scale up the classification to use all 10-cores of the M1 Pro CPU in my 2021 MacBook Pro.
 
 ```sh
-find . -iname "*.wav" -exec parallel /opt/homebrew/bin/python3 classify.py {} ::: {} \+
+find . -iname "*.wav" -exec parallel python3 classify.py {} ::: {} \+
 ```
 
 As I type my computer is making short order of the task, whilst remaining perfectly responsive, and a little warm. Final speed for me is one sound every ~0.85 seconds.
