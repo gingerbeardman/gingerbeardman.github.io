@@ -17,52 +17,7 @@ The below text has been edited to reflect the changes I have made to the theme.
 
 ## Configurations
 
-Type theme comes with different customizations in the `_config.yml` file:
-
-```sh
-title:       ''
-email:       ''
-description: ''
-author:      ''
-baseurl:     '' # The subpath of your site, e.g. /blog
-url:         '' # The base hostname & protocol for your site
-homepage:    '' # A different site that is related to your blog
-twitter:     ''
-github:      ''
-instagram:   ''
-facebook:    ''
-
-markdown:  kramdown
-permalink: pretty
-paginate:  60
-
-sass:
-  style: compressed
-
-gems:
-  - jekyll-paginate
-  - jekyll/tagging
-
-include:
-  - _pages
-
-exclude:
-  - vendor
-  - Gemfile
-  - Gemfile.lock
-
-# Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
-
-# Pages path
-defaults:
-  - scope:
-      path: '_pages'
-    values:
-      permalink: /:basename:output_ext
-```
+Type theme comes with different customizations in the `_config.yml` file.
 
 ## Deployment
 
