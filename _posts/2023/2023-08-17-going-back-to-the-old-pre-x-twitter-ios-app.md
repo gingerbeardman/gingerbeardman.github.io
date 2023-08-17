@@ -91,7 +91,7 @@ Before we begin, remove the app you want to downgrade from your device by tappin
 
 You’re done!
 
-![PNG](/images/posts/twitter-old-payload.png "Locating the Twitter .ipa Payload")
+![PNG](https://cdn.gingerbeardman.com/images/posts/twitter-old-payload.png "Locating the Twitter .ipa Payload")
 {:.tofigure}
 
 ## Questions 
