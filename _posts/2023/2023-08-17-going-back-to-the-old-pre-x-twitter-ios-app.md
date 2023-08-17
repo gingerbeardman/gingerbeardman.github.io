@@ -18,6 +18,7 @@ nouns:
 - Apple
 - Configurator
 - App Store
+- Apps
 - iOS
 - macOS
 - Payload
