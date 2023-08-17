@@ -63,13 +63,13 @@ This is the trickiest part of the process as it requires installing some old sof
 3. Change the version of the app to be downloaded (I chose build 858339189 aka version 9.66)
 4. Download the old version
 
-The result of this process is a completely legitimate .ipa file, tied to your Apple ID in exactly the same way that apps are normally. As such, the resulting file can be installed on your device and once installed would be no different to an app you've downloaded directly from the App Store. This also means that if you share your .ipa with somebody else they would need to log in to your account using your Apple ID to do so, which is not so desirable. Best if they download their own app.
+The result of this process is a completely legitimate .ipa file, tied to your Apple ID in exactly the same way that apps normally are. As such, the resulting file can be installed on your device and once installed would be no different to an app you've downloaded directly from the App Store. This also means that if you share your .ipa with somebody else they would need to log in to your account using your Apple ID to do so, which is undesirable. Best if they download their own app! Send them this blog post.
 
 ## Avoiding updates
 
-If you install the .ipa file onto your phone using Finder, iTunes, Apple Configurator it will install just fine. But, because of the metadata that is included the .ipa, it will be checked for updates and automatically updated soon after installation.
+If you install the .ipa file onto your phone using Finder, iTunes, Apple Configurator it will install just fine. But, because of the metadata that is included the .ipa, it will be checked for updates and automatically updated soon after installation. We need to go deeper.
 
-However, there is a little-known way to install an old version of an app on an iOS device which will prevent it from being checked for updates. I discovered this method back in 2016 when I used it to downgrade the eBay and Gmail Inbox apps.
+There is a little-known method of installing apps on an iOS device which will prevent it from being checked for updates. I discovered this method back in 2016 when I used it to downgrade the eBay and Gmail Inbox apps.
 
 ## Installing the app
 
