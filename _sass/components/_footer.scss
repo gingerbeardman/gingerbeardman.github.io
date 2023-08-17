@@ -6,7 +6,12 @@
   padding: double($base-spacing-unit) 0;
   // background-color: $bg-color-gray;
   
+  .tag-cloud {
+    line-height: 1.3rem;
+  }
+
   @include mq($until: tablet) {
-    font-size: $font-size-small;
+    font-size: $font-size-medium;
+    line-height: 1.2rem;
   }
 }
