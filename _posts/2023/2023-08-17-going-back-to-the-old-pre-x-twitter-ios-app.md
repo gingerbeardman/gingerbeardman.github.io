@@ -96,7 +96,7 @@ You’re done!
 ## Questions 
 
 **Why does this work?**
-    Installing the payload directly means the App Store app has no record of the app being installed so it does not check for updates to it. You can confirm this by going to the .
+    Installing the payload directly means the App Store app has no record of the app being installed so it does not check for updates to it. You can confirm this by going to the App Store page for the app, where it will show that the app is yet to be downloaded.
 
 **Will it stop working at some point?**
     Eventually, yes. But let's enjoy it for as long as we can.
