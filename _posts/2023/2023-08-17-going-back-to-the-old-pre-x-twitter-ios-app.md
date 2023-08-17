@@ -75,9 +75,9 @@ There is a little-known method of installing apps on an iOS device which will pr
 
 Before we begin, remove the app you want to downgrade from your device by tapping and holding on it. Make sure to backup any data you need from it! You'll need to login once the old app is reinstalled.
 
-1. Copy your backup of .ipa somewhere where you can work on it.
-2. Open the .ipa with Archive Utility to decompress it.
-3. Expand the resulting folder until you get to the Payload.
+1. Copy your backup of .ipa somewhere where you can work on it
+2. Open the .ipa with Archive Utility to decompress it
+3. Expand the resulting folder until you go into the Payload folder
 4. You'll see Twitter.app (on macOS the icon has a "no entry sign" because it's an iOS app)
 5. Connect your device
 6. Open Apple Configurator
