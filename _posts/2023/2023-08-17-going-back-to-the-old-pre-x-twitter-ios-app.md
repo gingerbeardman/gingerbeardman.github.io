@@ -19,7 +19,9 @@ nouns:
 - Configurator
 - App Store
 - iOS
+- macOS
 - Payload
+- Archive Utility
 featured: true
 comments: https://twitter.com/gingerbeardman/status/1692245092768051421
 style: |
