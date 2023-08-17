@@ -96,7 +96,10 @@ You’re done!
 
 ## Questions 
 
-**Why does this work?**
+**Why does downloading this way work?**
+    iTunes used to be able to download apps this way, so we're just persuading it to download a particular version. The app is attached to your Apple ID and totally legitimate, no funny business.
+
+**Why does installing this way work?**
     Installing the payload directly means the App Store app has no record of the app being installed so it does not check for updates to it. You can confirm this by going to the App Store page for the app, where it will show that the app is yet to be downloaded.
 
 **Will the old app stop working at some point?**
