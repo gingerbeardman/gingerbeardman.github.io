@@ -20,7 +20,8 @@ nouns:
 - App Store
 - iOS
 - Payload
-comments: https://twitter.com/gingerbeardman/status/
+featured: true
+comments: https://twitter.com/gingerbeardman/status/1692245092768051421
 style: |
   figure, picture, img {
     margin: 0 auto;
@@ -55,14 +56,14 @@ Here's how you can downgrade to an older version of Twitter (pre-X changes) and 
 
 This is the trickiest part of the process as it requires installing some old software and following a guide. But don't worry — it's not that difficult! You'll need access to an old version of iTunes (so it's most easily done using Windows) and about 15 minutes to carry out the steps.
 
-The result of this process is a completely legitimate .ipa file, tied to your Apple ID in exactly the same way that apps are normally. As such, the resulting file can be installed on your device and once installed would be no different to an app you've downloaded directly from the App Store.
-
 [Follow this great step-by-step tutorial](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy). It might seem complicated but it is quite easy. A high level summary of what is involved in the guide is as follows:
 
 1. Install old iTunes & Charles Proxy
 2. Configure intercepting of the latest app download
 3. Change the version of the app to be downloaded (I chose build 858339189 aka version 9.66)
 4. Download the old version
+
+The result of this process is a completely legitimate .ipa file, tied to your Apple ID in exactly the same way that apps are normally. As such, the resulting file can be installed on your device and once installed would be no different to an app you've downloaded directly from the App Store. This also means that if you share your .ipa with somebody else they would need to log in to your account using your Apple ID to do so, which is not so desirable. Best if they download their own app.
 
 ## Avoiding updates
 
