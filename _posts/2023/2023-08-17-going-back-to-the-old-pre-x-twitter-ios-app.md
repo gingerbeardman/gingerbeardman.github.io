@@ -85,9 +85,8 @@ Before we begin, remove the app you want to downgrade from your device by tappin
 5. Connect your device
 6. Open Apple Configurator
 7. Double click on your device
-8. Choose Apps from the sidebar
-9. Drop the Twitter.app from the Payload folder onto the list of apps
-10. Wait for the app to install on your device
+8. Click Add > App > Choose from my Mac...
+9. Wait for the app to install on your device
 
 You’re done!
 
