@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Going back to the old (pre-X) Twitter iOS app
+date: '2023-08-17T19:39+01:00'
+last_modified_at: '2023-08-18T09:25+01:00'
 tags:
 - twitter
 - hack
@@ -76,7 +78,7 @@ There is a little-known method of installing apps on an iOS device which will pr
 
 ## Installing the app
 
-Before we begin, remove the app you want to downgrade from your device by tapping and holding on it. Make sure to backup any data you need from it! You'll need to login once the old app is reinstalled.
+Before we begin, you don't need to remove the Twitter app. But best to make sure to backup any data you need from it regardless! You may or may not need to login once the old version of the app is reinstalled.
 
 1. Copy your backup of .ipa somewhere where you can work on it
 2. Open the .ipa with Archive Utility to decompress it
