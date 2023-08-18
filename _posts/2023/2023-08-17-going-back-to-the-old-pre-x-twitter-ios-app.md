@@ -2,7 +2,7 @@
 layout: post
 title: Going back to the old (pre-X) Twitter iOS app
 date: '2023-08-17T19:39+01:00'
-last_modified_at: '2023-08-18T09:25+01:00'
+last_modified_at: '2023-08-18T18:14+01:00'
 tags:
 - twitter
 - hack
@@ -65,8 +65,12 @@ This is the trickiest part of the process as it requires installing some old sof
 
 1. Install old iTunes & Charles Proxy
 2. Configure intercepting of the latest app download
-3. Change the version of the app to be downloaded (I chose build 858339189 aka version 9.66)
+3. Change the version of the app to be downloaded
 4. Download the old version
+
+Notes:
+- id 858339189 (version 9.66) is the last release before the rebrand to X
+- id 840768123 (version 8.56) is the last release before Spaces was introduced
 
 The result of this process is a completely legitimate .ipa file, tied to your Apple ID in exactly the same way that apps normally are. As such, the resulting file can be installed on your device and once installed would be no different to an app you've downloaded directly from the App Store. This also means that if you share your .ipa with somebody else they would need to log in to your account using your Apple ID to do so, which is undesirable. Best if they download their own app! Send them this blog post.
 
