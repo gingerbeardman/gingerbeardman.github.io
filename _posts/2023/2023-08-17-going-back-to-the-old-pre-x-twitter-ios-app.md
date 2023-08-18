@@ -72,7 +72,7 @@ Notes:
 - id 858339189 (version 9.66) is the last release before the rebrand to X
 - id 840768123 (version 8.56) is the last release before Spaces was introduced
 
-The result of this process is a completely legitimate .ipa file, tied to your Apple ID in exactly the same way that apps normally are. As such, the resulting file can be installed on your device and once installed would be no different to an app you've downloaded directly from the App Store. This also means that if you share your .ipa with somebody else they would need to log in to your account using your Apple ID to do so, which is undesirable. Best if they download their own app! Send them this blog post.
+The result of this process is a completely legitimate .ipa file, tied to your Apple ID in exactly the same way that apps normally are. As such, the resulting file can be installed on your device and once installed would be no different to an app you've downloaded directly from the App Store. This also means that if you share your .ipa with somebody else they would need to log in to your account using your Apple ID to do so, which is undesirable. Best if they download their own! Send them this blog post.
 
 ## Avoiding updates
 
