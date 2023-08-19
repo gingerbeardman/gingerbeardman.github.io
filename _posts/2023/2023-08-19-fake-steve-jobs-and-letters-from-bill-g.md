@@ -56,7 +56,7 @@ Anyway... imagine my surprise when, earlier this year, I discovered that somebod
 
 The writer of the column was コモエスタ坂本 (Comoesta Sakamoto). Of course, his name is a pseudonym combining Spanish and Japanese. He was a philosophy graduate (Sophia University, 1988), performance artist, actor, [punk singer](https://www.youtube.com/watch?v=o9MmWLVBEzI) with 坂本プロジェクト (Sakamoto Project), sports commentator, journalist, and all-round troublemaker. Quite a busy man! There is next to no information on the internet about all of this: [a single blog post](https://cpplover.blogspot.com/2007/03/g.html), [some reminiscing on Twitter](https://twitter.com/search?q=ビルＧからの手紙&src=typed_query&f=live) and a short bio. So I've done my best to dive deep into the Wayback Machine to uncover what I can.
 
-The Letters from BILL G were eventually published in two books, with [Volume 1](https://www.amazon.co.jp/dp/4756118550/) appearing in August 1998 and [Volume 2](https://www.amazon.co.jp/dp/4756131514/) in July 1999. After the column had been running for around 6 months, ramping up to the publication of the first book, a [teaser/promo website](https://web.archive.org/web/20030811195205/http://wam.ascii.co.jp/regular/bill_g/) was introduced featuring a selection of letters. This is cool because internet was still pretty new at this point! Both the books and the website feature letters in their "original" [English](https://web.archive.org/web/20030813051438/http://wam.ascii.co.jp/regular/bill_g/eng/index.html) as well as in [Japanese](https://web.archive.org/web/20030802194529/http://wam.ascii.co.jp/regular/bill_g/index.html).
+The Letters from BILL G were eventually published in two books, with [Volume 1](https://www.amazon.co.jp/dp/4756118550/) appearing in August 1998 and [Volume 2](https://www.amazon.co.jp/dp/4756131514/) in July 1999. After the column had been running for around 6 months, ramping up to the publication of the first book, a [teaser/promo website](https://web.archive.org/web/20030811195205/http://wam.ascii.co.jp/regular/bill_g/) was introduced featuring a selection of letters. This is cool because internet was still pretty new at this point! Both the books and the website feature letters in their "original" [English](https://web.archive.org/web/20030813051438/http://wam.ascii.co.jp/regular/bill_g/eng/index.html) as well as in "translated" [Japanese](https://web.archive.org/web/20030802194529/http://wam.ascii.co.jp/regular/bill_g/index.html) (of course, this is the opposite of the real order of events).
 
 ## The Media King
 
@@ -70,7 +70,7 @@ Topics include: Pocket PCs, Y2K, Tamagotchi, IE in Windows antitrust suit, Clint
 
 I recommend browsing the teaser/promo website [in English](https://web.archive.org/web/20030813051438/http://wam.ascii.co.jp/regular/bill_g/eng/index.html) or [Japanese](https://web.archive.org/web/20030811195205/http://wam.ascii.co.jp/regular/bill_g/), but I'll a few of my favourite letters:
 
-- the true story of Windows GUI vs Mac GUI
+- the "true" story of Windows GUI vs Mac GUI
 - cloning himself into every PC "BILL G Inside"
 - Bing Crosby singing "White Christmas" at the Christmas Party ("he's dead? no problem we'll use a hologram")
 - comparing a short trip around Japan to "Gulliver's Travels"
