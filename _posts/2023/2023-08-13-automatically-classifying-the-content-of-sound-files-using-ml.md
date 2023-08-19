@@ -2,6 +2,7 @@
 layout: post
 title: Automatically classifying the content of sound files using ML
 date: '2023-08-13T18:01+01:00'
+last_modified_at: '2023-08-19T21:59+01:00'
 tags:
 - machinelearning
 - audio
@@ -29,7 +30,7 @@ But the data set is only one half of the solution. You need to use the dataset t
 
 > YAMNet is a deep net that predicts ~521 audio event classes from the AudioSet-YouTube corpus it was trained on. 
 
-I guess YAMNet is tracking behind AudioSet in terms of total categories, but it is good enough for me.
+I guess YAMNet is tracking behind AudioSet in terms of total categories, but it is good enough for me. Here is a [list of all the classes](https://github.com/tensorflow/models/blob/master/research/audioset/yamnet/yamnet_class_map.csv) of sounds it can recognise.
 
 ## Let's go
 
