@@ -6,6 +6,7 @@ tags:
 - mmm
 - patreon
 - thoruyamamoto
+- history
 nouns:
 - AsistantPickle
 - Thoru Yamamoto

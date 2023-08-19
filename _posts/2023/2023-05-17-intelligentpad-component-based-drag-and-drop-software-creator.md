@@ -7,6 +7,7 @@ tags:
 - software
 - preservation
 - patreon
+- history
 nouns:
 - IntelligentPad Consortium
 - IntelligentPad

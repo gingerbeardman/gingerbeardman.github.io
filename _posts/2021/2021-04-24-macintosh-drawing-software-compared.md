@@ -6,6 +6,7 @@ tags:
 - drawing
 - software
 - macintosh
+- history
 nouns:
 - System
 title: Macintosh drawing software compared

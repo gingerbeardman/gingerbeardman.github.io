@@ -5,6 +5,7 @@ tags:
 - music
 - sampling
 - copyright
+- history
 nouns:
 - Salsoul Records
 - Deconstruction Records

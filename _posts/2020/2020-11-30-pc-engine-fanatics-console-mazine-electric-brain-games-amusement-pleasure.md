@@ -5,6 +5,7 @@ tags:
 - scans
 - preservation
 - patreon
+- history
 nouns:
 - PC Engine Fanatics
 - Console Ma'zine

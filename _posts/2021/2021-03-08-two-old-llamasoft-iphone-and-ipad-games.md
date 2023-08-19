@@ -4,6 +4,8 @@ title: Two Old Llamasoft iPhone & iPad games
 tags:
 - ios
 - patreon
+- preservation
+- history
 nouns:
 - iPad mini
 - iPhone

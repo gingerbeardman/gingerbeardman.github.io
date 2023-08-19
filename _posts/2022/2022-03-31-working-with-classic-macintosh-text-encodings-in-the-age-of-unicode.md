@@ -5,6 +5,8 @@ tags:
 - macintosh
 - marchintosh
 - patreon
+- history
+- hack
 nouns:
 - DiskCatalogMaker
 - HFSExplorer

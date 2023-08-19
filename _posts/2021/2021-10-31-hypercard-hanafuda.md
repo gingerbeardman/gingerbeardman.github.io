@@ -6,6 +6,7 @@ tags:
 - hypercard
 - hanafuda
 - patreon
+- history
 nouns:
 - HyperCard
 - Hanafuda Stack

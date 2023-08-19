@@ -5,6 +5,7 @@ tags:
 - palm
 - japanese
 - patreon
+- history
 nouns:
 - Macintosh
 - Palm OS

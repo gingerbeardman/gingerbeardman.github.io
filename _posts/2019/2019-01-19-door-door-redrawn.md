@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Door Door Redrawn
+title: Door Door redrawn
 tags:
 - japanese
 - famicom

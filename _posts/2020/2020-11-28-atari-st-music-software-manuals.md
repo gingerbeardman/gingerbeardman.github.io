@@ -5,6 +5,7 @@ tags:
 - scans
 - preservation
 - patreon
+- history
 nouns:
 - Atari ST
 - Cubeat

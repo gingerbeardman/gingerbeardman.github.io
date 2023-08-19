@@ -5,6 +5,7 @@ tags:
 - macintosh
 - hypercard
 - patreon
+- history
 nouns:
 - HyperCard
 - Super Mario Kart

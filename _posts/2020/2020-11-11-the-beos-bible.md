@@ -6,6 +6,7 @@ tags:
 - preservation
 - book
 - patreon
+- history
 nouns:
 - BeOS
 carousel: ''

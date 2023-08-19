@@ -5,6 +5,7 @@ tags:
 - internetarchive
 - preservation
 - magazine
+- history
 nouns:
 - Dogtown
 - Internet Archive

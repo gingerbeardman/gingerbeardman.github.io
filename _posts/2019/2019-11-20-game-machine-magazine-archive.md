@@ -1,10 +1,11 @@
 ---
 layout: post
-title: '"Game Machine" magazine archive'
+title: '“Game Machine” magazine archive'
 tags:
 - scans
 - japanese
 - patreon
+- history
 nouns:
 - Game Machine
 - ONION Software

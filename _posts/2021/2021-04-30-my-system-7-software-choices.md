@@ -5,6 +5,7 @@ tags:
 - recommendations
 - system7
 - macintosh
+- history
 nouns:
 - System 7
 - macOS

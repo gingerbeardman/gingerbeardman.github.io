@@ -6,6 +6,7 @@ tags:
 - japanese
 - hanafuda
 - patreon
+- history
 nouns:
 - POPEYE
 - Magazine for City Boys

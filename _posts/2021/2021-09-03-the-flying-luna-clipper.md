@@ -5,6 +5,7 @@ tags:
 - msx
 - animation
 - movie
+- history
 nouns:
 - MSX2
 - MSX

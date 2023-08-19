@@ -5,6 +5,7 @@ tags:
 - macintosh
 - mmm
 - patreon
+- history
 nouns:
 - Roly-Polys World Tour
 - ローリーポーリーズの世界旅行
