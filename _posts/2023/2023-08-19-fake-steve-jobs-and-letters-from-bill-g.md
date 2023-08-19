@@ -66,7 +66,7 @@ I would say that BILL G doesn't call out specific people or turn to (tongue in c
 
 Of course, in the mid- to late-90s Windows reigned supreme so the butt of the jokes tend to rest on Microsofts dominance in the marketplace and what seemed to be its inevitable encroachment on every facet of computer use. In [letter 61, published in 1997](https://web.archive.org/web/20020902153215/http://weeklyascii.com/regular/bill_g/letter/mail/mail61-70/mail61.html), BILL G declares that he "invented the Internet". A decade later Fake Steve would declare "I invented the iPhone!"
 
-Topics include: Pocket PCs, Y2K, Tamagotchi, IE in Windows antitrust suit, Clinton/Lewinsky scandal, iMac introduction, Sports and so on. Many topics that were mentioned are still relevant today: Digital currency, Network OS, Pokemon, Global warming and more.
+Topics include: Pocket PCs, Y2K, Tamagotchi, IE in Windows antitrust suit, Clinton/Lewinsky scandal, iMac introduction, sports events such as The Masters, and so on. Many topics that were mentioned are still relevant today: Digital currency, Network OS, Pokemon, Global warming, and more.
 
 I recommend browsing the teaser/promo website [in English](https://web.archive.org/web/20030813051438/http://wam.ascii.co.jp/regular/bill_g/eng/index.html) or [Japanese](https://web.archive.org/web/20030811195205/http://wam.ascii.co.jp/regular/bill_g/), but I'll a few of my favourite letters:
 
