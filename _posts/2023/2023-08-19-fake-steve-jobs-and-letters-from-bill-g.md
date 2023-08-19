@@ -5,6 +5,7 @@ date: '2023-08-19T19:49+01:00'
 tags:
 - billg
 - billgates
+- fakesteve
 - stevejobs
 - comedy
 - japanese
@@ -25,7 +26,7 @@ nouns:
 - MaciGame
 - MSX Magazine Eternal Preservation Edition 2
 featured: true
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1692975554452918537
 style: |
   p img {
     width: 48%;
@@ -104,7 +105,7 @@ The BILL G column was remembered enough to make that it appeared in MSX Magazine
 
 ## SameGame
 
-It seems that at some point Comoesta Sakamoto was swept up in the SameGame craze that happened in Japan during the mid-1990s. He wrote a strategy guide about how to play it, and published it in two minor variations: one for MaciGame (Macintosh) and one for SameGame (Windows/DOS).
+It seems that at some point Comoesta Sakamoto was swept up in the SameGame craze that happened in Japan during the mid-1990s. He wrote a strategy guide about how to play it, and published it in two minor variations: まきがめ必勝ガイド ([MaciGame Victory Guide](http://webcatplus.nii.ac.jp/webcatplus/details/book/2452434.html), for Macintosh) and さめがめ必勝ガイド ([SameGame Victory Guide](http://webcatplus.nii.ac.jp/webcatplus/details/book/2455181.html), for Windows/DOS).
 
 > さめがめ ([SameGame](https://gamicus.fandom.com/wiki/SameGame)) by Eiji "Kyoto" Fukumoto, is a variation of the original game in the genre: [Chain Shot](https://www.asahi-net.or.jp/~ky6k-mrb/chainsht.htm) by Kuniaki "Morisuke" Moribe (1985, same year as Tetris which would remain behind the iron curtain until 1987). 
 > 
