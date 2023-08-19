@@ -8,6 +8,7 @@ tags:
 - illustration
 - patreon
 - preservation
+- history
 nouns:
 - Deneba Software
 - Deneba Systems

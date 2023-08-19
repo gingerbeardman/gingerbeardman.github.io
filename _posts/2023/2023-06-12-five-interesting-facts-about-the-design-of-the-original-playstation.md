@@ -6,6 +6,7 @@ tags:
 - software
 - preservation
 - patreon
+- history
 nouns:
 - PlayStation
 - Sony

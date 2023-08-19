@@ -6,6 +6,7 @@ tags:
 - japanese
 - preservation
 - patreon
+- history
 nouns:
 - Macintosh Garden
 - Macintosh

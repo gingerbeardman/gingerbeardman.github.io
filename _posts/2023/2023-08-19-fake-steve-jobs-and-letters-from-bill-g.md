@@ -11,6 +11,7 @@ tags:
 - japanese
 - preservation
 - patreon
+- history
 nouns:
 - Bill Gates
 - Steve Jobs

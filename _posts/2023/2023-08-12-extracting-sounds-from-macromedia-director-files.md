@@ -8,6 +8,7 @@ tags:
 - audio
 - sfx
 - script
+- history
 nouns:
 - Apple Macintosh
 - Thoru Yamamoto
