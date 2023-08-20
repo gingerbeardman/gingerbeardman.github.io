@@ -84,7 +84,7 @@ I recommend browsing the teaser/promo website [in English](https://web.archive.o
 
 ## End Users
 
-It feels to be that the BILL G column may have fallen out of Comoesta Sakamoto's digital magazine 末期ユーザー [*"End Users"*](https://web.archive.org/web/19990220082947/http://www.asahi-net.or.jp/%7ELZ3T-SKMT/enduser/makki.htm) (phrased to mean "terminally ill") that was similarly irreverent. 
+It feels to me that the BILL G column may have fallen out of Comoesta Sakamoto's digital magazine 末期ユーザー [*"End Users"*](https://web.archive.org/web/19990220082947/http://www.asahi-net.or.jp/%7ELZ3T-SKMT/enduser/makki.htm) (phrased to mean "terminally ill") that was similarly irreverent. 
 
 "End Users" was distributed Mac User's [MACBIN CD-ROMs](https://archive.org/search?query=MACBIN+CD-ROM) (supposedly issues 20 to 26, but I can only find it on two of these). On the same discs were some Macintosh apps created by Comoesta Sakamoto, a mix of joke apps (one resets your Mac!), surreal point and click explorations of sound and image, and a text-mode baseball game seemingly a version of an earlier game he'd made for Japanese NEC PCs. You can also find these on an archived version of his old website via [Wayback Machine](https://web.archive.org/web/19981206045204/http://www.asahi-net.or.jp:80/~LZ3T-SKMT/game/).
 
