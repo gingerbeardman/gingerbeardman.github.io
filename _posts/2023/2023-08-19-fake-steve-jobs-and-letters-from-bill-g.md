@@ -90,7 +90,7 @@ It feels to me that the BILL G column may have fallen out of Comoesta Sakamoto's
 
 ## Legacy
 
-BILL G is a product of its time, and neither it or Fake Steve have the impact today that they had when they were published. But they're both still pretty funny and seemingly fondly remembered around the world.
+BILL G is a product of its time, and neither it nor Fake Steve have the impact today that they had when they were published. But they're both still pretty funny and seemingly fondly remembered around the world.
 
 The BILL G column was remembered enough to make that it appeared in MSX Magazine 永久保存版 2 (MSX Magazine Eternal Preservation Edition 2), released in December 2003, and [available to read at Internet Archive](https://archive.org/details/MSXMAGAZINE2/page/n113/mode/2up).
 
