@@ -2,7 +2,7 @@
 layout: post
 title: Going back to the old (pre-X) Twitter iOS app
 date: '2023-08-17T19:39+01:00'
-last_modified_at: '2023-08-18T18:14+01:00'
+last_modified_at: '2023-08-21T14:38+01:00'
 tags:
 - twitter
 - hack
@@ -82,7 +82,7 @@ There is a little-known method of installing apps on an iOS device which will pr
 
 ## Installing the app
 
-Before we begin, you don't need to remove the Twitter app. But best to make sure to backup any data you need from it regardless! You may or may not need to login once the old version of the app is reinstalled.
+Before we begin, you don't need to remove the current app you're using. But best to make sure to backup any data you need from it regardless! You may, or may not, need to login once the old version of the app is reinstalled.
 
 1. Copy your backup of .ipa somewhere where you can work on it
 2. Open the .ipa with Archive Utility to decompress it
@@ -92,7 +92,8 @@ Before we begin, you don't need to remove the Twitter app. But best to make sure
 6. Open Apple Configurator
 7. Double click on your device
 8. Click Add > App > Choose from my Mac...
-9. Wait for the app to install on your device
+9. Confirm you want to overwrite the old app
+10. Wait for the app to install on your device
 
 You’re done!
 
@@ -108,6 +109,6 @@ You’re done!
     Installing the payload directly means the App Store app has no record of the app being installed so it does not check for updates to it. You can confirm this by going to the App Store page for the app, where it will show it is yet to be downloaded.
 
 **Will the old app stop working at some point?**
-    Eventually, yes. But let's enjoy it for as long as we can!
+    Eventually, yes. Already it's not possible to login using the old app installed fresh, and it's not possible to delete tweets in some old versions of the app. But let's enjoy the old experience for as long as we can!
 
 Long live the bird!
