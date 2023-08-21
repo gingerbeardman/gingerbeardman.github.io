@@ -2,7 +2,7 @@
 layout: post
 title: Going back to the old (pre-X) Twitter iOS app
 date: '2023-08-17T19:39+01:00'
-last_modified_at: '2023-08-21T14:38+01:00'
+last_modified_at: '2023-08-21T17:56+01:00'
 tags:
 - twitter
 - hack
@@ -69,8 +69,9 @@ This is the trickiest part of the process as it requires installing some old sof
 4. Download the old version
 
 Notes:
-- id 858339189 (version 9.66) is the last release before the rebrand to X
-- id 840768123 (version 8.56) is the last release before Spaces was introduced
+- id 858339189 (version 9.66) predates the rebrand to X
+- id 848443565 (version 9.7.2) predates Twitter Blue
+- id 840768123 (version 8.56) predates Twitter Spaces
 
 The result of this process is a completely legitimate .ipa file, tied to your Apple ID in exactly the same way that apps normally are. As such, the resulting file can be installed on your device and once installed would be no different to an app you've downloaded directly from the App Store. This also means that if you share your .ipa with somebody else they would need to log in to your account using your Apple ID to do so, which is undesirable. Best if they download their own! Send them this blog post.
 
@@ -109,6 +110,6 @@ You’re done!
     Installing the payload directly means the App Store app has no record of the app being installed so it does not check for updates to it. You can confirm this by going to the App Store page for the app, where it will show it is yet to be downloaded.
 
 **Will the old app stop working at some point?**
-    Eventually, yes. Already it's not possible to login using the old app installed fresh, and it's not possible to delete tweets in some old versions of the app. But let's enjoy the old experience for as long as we can!
+    Eventually, yes. Older versions lack support for modern Twitter features but that can be a desirable feature depending on your point of view. But let's enjoy the old experience for as long as we can.
 
 Long live the bird!
