@@ -63,7 +63,7 @@ TM: Yeah, a little bit.
 
 _BM: Don't you find that that distorts the vocal performance?_
 
-TM: No; I speeded that up a little bit, but what that does is it puts things up in a higher range and makes the drums a little brighter. It makes the voice a little higher, and if you roll off the bottom and put more highs on the voice, you can almost make like she's really screaming, like she's really into the record. I've done that with a lot of records, where it sounds like they're singing their ass off, but they're not, 'cause it's done technically. I did that on 'Leavin' The Good Life Behind', by Phyllis Hyman on Private Stock, (Unfortunately that one wasn't a hit) and on 'Just Can't Say Goodbye', by The Philly Devotions. I suppose my all-time favourite mix is 'I'll Be Holding On' by Al Downing. The radio stations here played the long B side on that; they never once played the short one. Stations started playing the long versions, like on 'Do It 'Til You're Satisfied', what they call the disco mix. I was thrilled when I heard that.
+TM: No; I speeded that up a little bit, but what that does is it puts things up in a higher range and makes the drums a little brighter. It makes the voice a little higher, and if you roll off the bottom and put more highs on the voice, you can almost make like she's really screaming, like she's really into the record. I've done that with a lot of records, where it sounds like they're singing their ass off, but they're not, 'cause it's done technically. I did that on 'Leavin' The Good Life Behind', by Phyllis Hyman on Private Stock, (unfortunately that one wasn't a hit) and on 'Just Can't Say Goodbye', by The Philly Devotions. I suppose my all-time favourite mix is 'I'll Be Holding On' by Al Downing. The radio stations here played the long B side on that; they never once played the short one. Stations started playing the long versions, like on 'Do It 'Til You're Satisfied', what they call the disco mix. I was thrilled when I heard that.
 
 _BM: The disco mix on 'I Don't Know If I Can Make It', by Dawson Smith, sounds toppier than the vocal A side, especially the guitar and percussion._
 
@@ -73,7 +73,7 @@ _BM: It's been said that disco mixing is a matter of emphasizing highs to compen
 
 TM: I think I was probably the one that brought back the bright sound on top. The only reason for that is, at that volume, I always like to keep a dry top. I like to keep the cymbals as dry as I can, because when you have a lot of echo on a record, and you play it at that volume, everything just jumps together, and it sounds all distorted. I notice with a dry sound on the cymbals, they cut through, and the cymbal tracks would sort of float across the speaker. And I notice that people react to highs like that.
 
-_BM: There was also a lot of top on the Banzaii record._
+_BM: There was also a lot of top on the Banzaï record._
 
 TM: Yeah, well I think that was the hottest record I've ever mixed. That was deliberately done that way. I had a tape of that, and 'Undecided Love' by The Chequers, at the same time. I got them from France, and I turned Scepter onto them so they could buy it. But I did say that if you buy them, buy them with the stipulation that we get the sixteen tracks so I can redo them. I feel 'Undecided Love' is gonna be a big hit now. And there's a break in that that never existed, and that's 5:35, including that. I always try to get records to hit 5:35, it just seems to be a magic number with me. 'I'll Be Holding On' was 5:35, and so was 'Free Man'.
 
