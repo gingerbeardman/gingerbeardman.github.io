@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tom Moulton, Father of the Disco Mix
+title: Tom Moulton, Father of the Disco Mix (1976)
 date: '2023-08-22T18:12+01:00'
 tags:
 - music
