@@ -12,11 +12,11 @@ nouns:
 - Tom Moulton
 - Black Music
 - Davitt Sigerson
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1694036785351766335
 
 ---
 
-> This is a reproduction of an article from the January 1976 "Disco" issue of Black Music magazine.
+> This interview is reproduced from the January 1976 "Disco" issue of Black Music magazine.
 
 **TOM MOULTON is the behind-the-scenes figure of disco music. His name has appeared on the credits of discs by Gloria Gaynor, B.T. Express, Bobby Moore, Al Downing, Peoples Choice, South Shore Commission and many others. Yet Moulton's vital contributions to the hits of a dozen soul acts is in a manner new to an industry increasingly immersed in the complexities of a technological age. For Tom Moulton, a white New York based engineer, is the father of the "disco mix".**
 
@@ -191,3 +191,5 @@ _BM: How do you see the future of disco?_
 TM: As long as people can go out and have a good time for five dollars, and feel uninhibited, because maybe it's dark, and let's say, escape, and just come out of your shell and dance, I think discos are gonna be around. Because it's really a cheap way of having a great time.
 
 © Davitt Sigerson, 1976
+
+<!-- thanks to Eleyeen Salah for helping me gain access to this article, so kind! -->
