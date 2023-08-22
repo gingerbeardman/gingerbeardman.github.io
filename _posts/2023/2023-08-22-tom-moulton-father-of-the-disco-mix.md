@@ -12,6 +12,7 @@ nouns:
 - Tom Moulton
 - Black Music
 - Davitt Sigerson
+featured: true
 comments: https://twitter.com/gingerbeardman/status/1694036785351766335
 
 ---
