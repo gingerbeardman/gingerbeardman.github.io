@@ -11,7 +11,6 @@ nouns:
 - Playdate Simulator
 - Playdate
 - Simulator
-featured: true
 comments: https://twitter.com/gingerbeardman/status/1677803170393649152
 
 ---
