@@ -6,6 +6,7 @@ tags:
 - maps
 - speedcam
 - hack
+- hardware
 nouns:
 - Becker
 - Cascade

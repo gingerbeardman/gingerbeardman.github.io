@@ -4,6 +4,7 @@ title: Reviewing the iPhone Xs in 2023
 tags:
 - iphone
 - review
+- hardware
 nouns:
 - Apple
 - iPhone

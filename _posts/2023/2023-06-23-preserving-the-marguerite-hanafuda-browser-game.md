@@ -7,6 +7,7 @@ tags:
 - japanese
 - preservation
 - patreon
+- hack
 nouns:
 - Marguerite
 - Wayback Machine

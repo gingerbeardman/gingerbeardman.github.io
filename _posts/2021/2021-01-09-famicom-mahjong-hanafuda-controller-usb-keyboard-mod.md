@@ -4,6 +4,7 @@ title: Famicom Mahjong/Hanafuda controller USB keyboard mod
 tags:
 - mod
 - electronics
+- hardware
 - famicom
 - mahjong
 - hanafuda

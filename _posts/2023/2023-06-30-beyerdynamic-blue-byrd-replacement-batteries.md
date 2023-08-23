@@ -6,6 +6,8 @@ tags:
 - hack
 - headphones
 - battery
+- hardware
+- electronics
 nouns:
 - Beyerdynamic
 - Blue Byrd

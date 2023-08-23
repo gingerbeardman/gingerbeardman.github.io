@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Macintosh Classic logic board recap'
-tags: [macintosh,mod,electronics]
+tags: [macintosh,mod,electronics,hardware,hack]
 nouns: [Macintosh, Classic, eBay]
 carousel: macintosh-classic-recap
 ---
