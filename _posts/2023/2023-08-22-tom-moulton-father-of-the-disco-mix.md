@@ -8,6 +8,7 @@ tags:
 - tommoulton
 - disco
 - remix
+- interview
 nouns:
 - Tom Moulton
 - Black Music
