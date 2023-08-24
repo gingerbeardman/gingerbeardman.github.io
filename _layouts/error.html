@@ -109,6 +109,7 @@ function customSearchConstructor() {
     // Send the request to the custom search API
     $.getJSON(API_URL, queryParams, function(response) {
       if (response.items && response.items.length) {
+        console.log("showing results");
         context.showDialog(response.items[0].link);
       }
     });
@@ -131,10 +132,16 @@ function customSearchConstructor() {
 $(document).ready(function() {
   var customSearch = new customSearchConstructor();
   var path = window.location.pathname;
-  var phrase = decodeURIComponent(path.replace(/\/+/g, ' ').trim());
+
+  var matches = path.match(/(\d{4}\/\d{2}\/\d{2})/);
+  var datestamp = matches[1];
+  console.log(path,datestamp);
+  
+  var phrase = decodeURIComponent(datestamp);
   customSearch.trySearch(phrase);
   $('dialog .nope').click(function() {
     customSearch.hideDialog();
   });
 });
+
 </script>
