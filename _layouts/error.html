@@ -1,0 +1,140 @@
+---
+layout: default
+---
+
+<div class='o-wrapper'>
+
+  <div class='o-grid'>
+    <div class='o-grid__col'>
+      <article class='c-post'>
+        <h1 class='c-post__title'>{{ page.title }}</h1>
+
+        <div class='c-content'>
+          {% include_cached page-image.html pimage=page.image ptitle=page.title sbaseurl=site.baseurl %}
+
+          {{ content }}
+        </div>
+      </article>
+    </div>
+  </div>
+
+<dialog>
+  <h2>
+    Hey, is this what you meant?
+    <span class="suggestion"></span>
+    <span class="nope">No thanks</span>
+  </h2>
+</dialog>
+
+</div>
+
+<style>
+dialog {
+  display: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  text-align: center;
+  color: #fff;
+  border: none;
+  background: none;
+}
+
+dialog[open] {
+  display: block;
+}
+
+dialog[open]:before {
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  content: ’;
+  background: rgba(0,0,0,.8);
+}
+
+dialog span {
+  display: block;
+}
+
+dialog span.suggestion {
+  font-size: 1.75em;
+  line-height: 2.5em;
+}
+
+dialog h2 {
+  line-height: 1.5em;
+  padding-top: 2em;
+}
+
+dialog a {
+  padding: .25em;
+  border-radius: .25em;
+  background: rgba(200,200,255,.9);
+}
+
+dialog .nope {
+  font-size: .75em;
+  cursor: pointer;
+  color: #aaa;
+}
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dialog-polyfill/0.5.6/dialog-polyfill.min.js" integrity="sha512-qUIG93zKzcLBVD5RGRbx2PBmbVRu+tJIl+EPLTus0z8I1AMru9sQYdlf6cBacSzYmZVncB9rcc8rYBnazqgrxA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script>
+function customSearchConstructor() {
+  // Some private variables for this object
+  var context = this; // Keeps the parent context available so that we can call local methods
+  var dialog = document.querySelector('dialog');
+  // Apply the polyfill
+  dialogPolyfill.registerDialog(dialog);
+  // Your keys
+  var engineID = 'blog-search-396922';
+  var apiKey = 'AIzaSyDY81m3RMEBiRwR2npL5w6PSc0o12DzrTM';
+  this.trySearch = function(phrase) {
+    var queryParams = {
+      cx: engineID,
+      key: apiKey,
+      num: 10,
+      q: phrase,
+      alt: 'JSON'
+    }
+    var API_URL = 'https://www.googleapis.com/customsearch/v1?';
+    // Send the request to the custom search API
+    $.getJSON(API_URL, queryParams, function(response) {
+      if (response.items && response.items.length) {
+        context.showDialog(response.items[0].link);
+      }
+    });
+  };
+  this.showDialog = function (url) {
+    var suggestedLink = $('<a></a>');
+    // Verify that the suggested URL is from this domain
+    var hostname = new RegExp(location.host);
+    if (hostname.test(url)) {
+      suggestedLink.attr('href', url);
+      suggestedLink.text(url);
+      $('dialog .suggestion').html(suggestedLink);
+      dialog.showModal();
+    }
+  };
+  this.hideDialog = function () {
+    dialog.close();
+  };
+}
+$(document).ready(function() {
+  var customSearch = new customSearchConstructor();
+  var path = window.location.pathname;
+  var phrase = decodeURIComponent(path.replace(/\/+/g, ' ').trim());
+  customSearch.trySearch(phrase);
+  $('dialog .nope').click(function() {
+    customSearch.hideDialog();
+  });
+});
+</script>
