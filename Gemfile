@@ -12,16 +12,16 @@ gem "ffi"
 gem "kramdown"
 
 group :jekyll_plugins do
-  gem 'jekyll-regex-replace'
   gem 'jekyll-include-cache'
-  gem 'jekyll-redirect-from'
   gem 'jekyll-loading-lazy'
+  gem 'jekyll-paginate'
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-regex-replace'
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
-  gem 'jekyll-paginate'
   gem 'jekyll-tagging'
-  gem 'liquid'
   gem 'liquid-c'
+  gem 'liquid'
 end
 
 gem "webrick"
