@@ -57,7 +57,7 @@ For me to stand a chance at this, I'd need to buy a device with a dock and the s
 
 ## CALEID GET!
 
-The screen is 320x240 monochrome (1-bit) which exhibits an odd quirk that active pixels cast a shadow because the LCD is clear and the silver backing is some distance away. This is long before the LCD would be fused to the backing. In fact, some units you see for sale have creases in the silver backing, I'm not sure what must have happened to those devices! Pixels are slightly wider than they are tall so the cards in the game display wider than in the image at the top of the page.
+The screen is 320x240 monochrome (1-bit) which exhibits an odd quirk that active pixels cast a shadow because the LCD is clear and the silver backing is some distance away. This is long before the LCD would be fused to the backing. In fact, some units you see for sale have creases in the silver backing, I'm not sure what must have happened to those devices!
 
 The system software is a charming custom OS, featuring a full mobile office suite, and 2MB of free space on the flash storage. Most importantly it allows user-created Add-ins to be loaded onto it, we would call them plugins or apps today. The device even has an expansion port for communications peripherals, enabling it to do email/fax using a cell phone or pay phone as data connection. A salaryman's dream in late-90s Japan!
 
@@ -126,7 +126,7 @@ The final, [highest supported baud rate is 38400](https://lucidar.me/en/serialib
 
 ## Game on!
 
-Here's my Casio CALEID XM-700 Mobile Navigator running 花合わせ (Hana-awase) a hanafuda game made by すーさん (Sū-san) in 1998.
+Here's my Casio CALEID XM-700 Mobile Navigator running 花合わせ (Hana-awase) a hanafuda game made by すーさん (Sū-san) in 1998. Pixels are slightly wider than they are tall so the cards in the game display wider than in the image at the top of the page.
 
 ...I wonder how many other people have played this game in the last 25 years?
 
