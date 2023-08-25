@@ -12,88 +12,31 @@ layout: default
         <div class='c-content'>
           {% include_cached page-image.html pimage=page.image ptitle=page.title sbaseurl=site.baseurl %}
 
+          <p>
           {{ content }}
+          </p>
+          
+          <div id='resultsheader'>
+          </div>
+
+          <ul id='results'>
+          </ul>
+
+          <div id='resultsfooter'>
+          </div>
+
         </div>
       </article>
     </div>
   </div>
-
-<dialog>
-  <h2>
-    Hey, is this what you meant?
-    <span class="suggestion"></span>
-    <span class="nope">No thanks</span>
-  </h2>
-</dialog>
-
 </div>
 
-<style>
-dialog {
-  display: none;
-  position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-  text-align: center;
-  color: #fff;
-  border: none;
-  background: none;
-}
-
-dialog[open] {
-  display: block;
-}
-
-dialog[open]:before {
-  position: fixed;
-  z-index: -1;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  content: ’;
-  background: rgba(0,0,0,.8);
-}
-
-dialog span {
-  display: block;
-}
-
-dialog span.suggestion {
-  font-size: 1.75em;
-  line-height: 2.5em;
-}
-
-dialog h2 {
-  line-height: 1.5em;
-  padding-top: 2em;
-}
-
-dialog a {
-  padding: .25em;
-  border-radius: .25em;
-  background: rgba(200,200,255,.9);
-}
-
-dialog .nope {
-  font-size: .75em;
-  cursor: pointer;
-  color: #aaa;
-}
-</style>
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/dialog-polyfill/0.5.6/dialog-polyfill.min.js" integrity="sha512-qUIG93zKzcLBVD5RGRbx2PBmbVRu+tJIl+EPLTus0z8I1AMru9sQYdlf6cBacSzYmZVncB9rcc8rYBnazqgrxA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 <script>
 function customSearchConstructor() {
   // Some private variables for this object
   var context = this; // Keeps the parent context available so that we can call local methods
-  var dialog = document.querySelector('dialog');
-  // Apply the polyfill
-  dialogPolyfill.registerDialog(dialog);
   // Your keys
   var engineID = 'e0c2606591be34b17';
   var apiKey = 'AIzaSyDY81m3RMEBiRwR2npL5w6PSc0o12DzrTM';
@@ -109,24 +52,39 @@ function customSearchConstructor() {
     // Send the request to the custom search API
     $.getJSON(API_URL, queryParams, function(response) {
       if (response.items && response.items.length) {
-        console.log("showing results");
-        context.showDialog(response.items[0].link);
+        var resultsheader = document.getElementById("resultsheader");
+        var results = document.getElementById("results");
+
+        if ( match.indexOf("\u0000") ) {
+          var p = document.createElement('p');
+          p.innerHTML = "<strong>The link contains a trailing null character, please report this to whichever app you are using.</strong>";
+          resultsheader.appendChild(p);
+        }
+
+        var p = document.createElement('p');
+        p.innerHTML = "Here are some possible matches:";
+        resultsheader.appendChild(p);
+        
+        for (r=0; r<response.items.length; r++) {
+          var match = response.items[r].link;
+          
+          if ( match != "https://blog.gingerbeardman.com/" && match.indexOf("/tag") == -1 ) {
+            var li = document.createElement('li');
+            var a = document.createElement('a');
+            var link = document.createTextNode(match);
+            a.appendChild(link);
+            a.title = match;
+            a.href = match;
+            li.appendChild(a);
+            results.appendChild(li);
+          }
+        }
+
+        var p = document.createElement('p');
+        p.innerHTML = "Or use the tag cloud below to find some interesting content.";
+        resultsfooter.appendChild(p);
       }
     });
-  };
-  this.showDialog = function (url) {
-    var suggestedLink = $('<a></a>');
-    // Verify that the suggested URL is from this domain
-    var hostname = new RegExp(location.host);
-    if (hostname.test(url)) {
-      suggestedLink.attr('href', url);
-      suggestedLink.text(url);
-      $('dialog .suggestion').html(suggestedLink);
-      dialog.showModal();
-    }
-  };
-  this.hideDialog = function () {
-    dialog.close();
   };
 }
 $(document).ready(function() {
@@ -135,13 +93,7 @@ $(document).ready(function() {
 
   var matches = path.match(/(\d{4}\/\d{2}\/\d{2})/);
   var datestamp = matches[1];
-  console.log(path,datestamp);
-  
   var phrase = decodeURIComponent(datestamp);
   customSearch.trySearch(phrase);
-  $('dialog .nope').click(function() {
-    customSearch.hideDialog();
-  });
 });
-
 </script>
