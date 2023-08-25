@@ -47,7 +47,7 @@ The game file came with a reference bitmap showing the hanafuda cards, this was 
 
 So, after making sure the related web pages were archived to the Wayback Machine, and the downloads backed up, I did a bunch of reading to try to figure out whether or not I would be able to play this game if I bought a device.
 
-It turns out the device arrived around the same time as USB 1.0. So perhaps its development, and most definitely its buyers, existed in a world that predates widespread support for USB. To that end, the device only has a serial connection. And not only that, the serial connection is on a dock that was not always sold with the device. Without the dock there is no way to transfer files to/from the device!
+It turns out the device arrived around the same time as USB 1.0. So perhaps its development, and most definitely its buyers, existed in a world that predated widespread support for USB. To that end, the device only has a serial connection. And not only that, the serial connection is on a dock that was not always sold with the device. Without the dock there is no way to transfer files to/from the device!
 
 For me to stand a chance at this, I'd need to buy a device with a dock and the software to put files onto the device. After some searching, waiting and more searching one came up for auction on Yahoo! Japan Auctions. I bought it.
 
