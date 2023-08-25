@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Casio CALEID XM-700 Mobile Navigator'
+title: 'Casio CALEID XM-700 Mobile Navigator (1997)'
 date: '2023-08-25T22:44+01:00'
 tags:
 - japanese
