@@ -47,7 +47,7 @@ function customSearchConstructor() {
     var queryParams = {
       cx: engineID,
       key: apiKey,
-      num: 5,
+      num: 10,
       q: phrase,
       alt: 'JSON'
     }
@@ -57,6 +57,7 @@ function customSearchConstructor() {
       if (response.items && response.items.length) {
         var resultsheader = document.getElementById("resultsheader");
         var results = document.getElementById("results");
+        var added = 0;
 
         var p = document.createElement('p');
         p.innerHTML = "Here are some possible matches:";
@@ -65,7 +66,7 @@ function customSearchConstructor() {
         for (r=0; r<response.items.length; r++) {
           var match = response.items[r].link;
           
-          if ( match != "https://blog.gingerbeardman.com/" && match.indexOf("/tag") == -1 ) {
+          if ( match != "https://blog.gingerbeardman.com/" && match.indexOf("/tag") == -1 && match.indexOf("/page") == -1 ) {
             var li = document.createElement('li');
             var a = document.createElement('a');
             var link = document.createTextNode(match);
@@ -74,11 +75,16 @@ function customSearchConstructor() {
             a.href = match;
             li.appendChild(a);
             results.appendChild(li);
+            added++;
           }
+        }
+        
+        if (added == 0) {
+          resultsheader.innerHTML = "";
         }
 
         var p = document.createElement('p');
-        p.innerHTML = "Or use the tag cloud below to find some interesting content.";
+        p.innerHTML = "You can use the tag cloud below to find some interesting content.";
         resultsfooter.appendChild(p);
       }
     });
