@@ -38,7 +38,7 @@ I like to think everybody collects something odd. Me? I collect hanafuda video g
 
 At some point last year (shortly before I began writing this blog post!) I found reference to a hanafuda video game created in 1998 for the Casio CALEID XM-700 Mobile Navigator [on a random old, Japanese website](http://webcache.googleusercontent.com/search?q=cache%3Ahp.vector.co.jp%2Fauthors%2FVA003746%2FCALEID3.HTM&ie=UTF-8&oe=UTF-8&hl=en-gb&client=safari). It turns out this device is a long-forgotten handheld computer that was released in 1997, only in Japan. The device is what you might refer to as a PIM or PDA, roughly equivalent to Apple Newton or Palm Pilot, particularly as it featured handwriting recognition. Not what we would consider powerful in this day and age, but good at running database lookups and any undemanding software written specifically for it. The CPU was Intel 8086 compatible, like [other period CASIO handheld personal computers](https://www.youtube.com/watch?v=q3qIS5XvzfQ), and [an SDK was available](https://www.sci.u-toyama.ac.jp/~iwao/caleid.html). Cost of the device was 47800JPY, which was around 240GBP or 400USD at the time.
 
-The game file came with a reference bitmap showing the hanafuda cards, this was just the type of guarantee and encouragement I needed to start hunting.
+The game file came with a reference bitmap showing hanafuda scoring, which was just the type of guarantee and encouragement I needed to start hunting.
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/caleid-hanafuda-cards.png#pixel "Scoring reference image, included inside HANA100.LZH")
 {:.tofigure}
