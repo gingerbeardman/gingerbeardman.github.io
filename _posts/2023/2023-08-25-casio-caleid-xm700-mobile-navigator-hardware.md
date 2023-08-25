@@ -111,14 +111,16 @@ The last little bits are worth bullet pointing, as they require some detailed op
 4. Press the スタート ("Start") button on the dock. Add-In will be forwarded to the CALEID.
 
 **Gotchas:**
-- Serial ports in VMs can be a hassle, try through both the host and guest
+- Serial ports in VMs can be a hassle, try both the host PC and guest VM ports
 - DATA IMPRESSION will let you know if it can't communicate over the selected serial port
 - Cursor needs to be in the Add-Ins folder for the Add-in menu items to be enabled
 - Syncing without an Add-in selected will result in a failure message
 - If you select an existing add-in rather than the Add-in folder, the existing add-in will be overwritten by the newly imported one(!)
-- If you start with the demo data you'll have a bunch of test items in the various apps, it will take a *really long time* to sync 25 years worth of recurring demo events(!)
+- If you start with the demo data you'll have a bunch of test items in the various apps, see note below
 
-Awkwardness: Add-ins have to be transferred one at a time, but a sync of a single Add-in goes fast enough after disabling syncing of all other types of data (notes, calendar, spreadsheets, etc). The first time I setup the device starting with the demo data it must have been syncing 20 years worth of recurring demonstration calendar events at one point. Each sync of a single add-in took multiple minutes. Maybe that's why they didn't want anybody running the sync software so long after the device had been released?
+Awkwardness: Add-ins have to be transferred one at a time, but a sync of a single Add-in goes fast enough after disabling syncing of all other types of data (notes, calendar, spreadsheets, etc). 
+
+Note: the first time I setup the device starting with the demo data it must have been syncing 25 years worth of recurring demonstration calendar events. Each sync of a single add-in took multiple minutes. Maybe that's why they didn't want anybody running the sync software so long after the device had been released?
 
 The final, [highest supported baud rate is 38400](https://lucidar.me/en/serialib/most-used-baud-rates-table/) (4800 bytes/sec theoretical speed, 3840 bytes/s actual speed, that's 3.75KB/sec). Game sizes range between 3KB and 32KB, averaging 12KB each. So the slowest part of the process is the GUI busy work to install the Add-ins in DATA IMPRESSION for CALEID, and then syncing them one by one.
 
