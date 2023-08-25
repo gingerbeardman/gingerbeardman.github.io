@@ -145,7 +145,7 @@ Here's my Casio CALEID XM-700 Mobile Navigator running 花合わせ (Hana-awase)
 
 ----
 
-## Catalog '97-12
+## CASIO Catalog '97-12
 
 ![WEBP](https://cdn.gingerbeardman.com/images/posts/caleid-catalog.webp "CALEID page from the CASIO Catalog, December 1997, with thanks to <a href='https://www.casio-calculator.com'>casio-calculator.com</a>")
 {:.tofigure}
