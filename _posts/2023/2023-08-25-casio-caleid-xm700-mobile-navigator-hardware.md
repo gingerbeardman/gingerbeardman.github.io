@@ -36,7 +36,7 @@ I like to think everybody collects something odd. Me? I collect hanafuda video g
 
 ## Down the rabbit hole
 
-At some point last year (shortly before I began writing this blog post!) I found reference to a hanafuda video game created in 1998 for the Casio CALEID XM-700 Mobile Navigator [on a random old, Japanese website](http://webcache.googleusercontent.com/search?q=cache%3Ahp.vector.co.jp%2Fauthors%2FVA003746%2FCALEID3.HTM&ie=UTF-8&oe=UTF-8&hl=en-gb&client=safari). It turns out this device is a long-forgotten handheld computer that was released in 1997, only in Japan. The device is what you might refer to as a PIM or PDA, roughly equivalent to Apple Newton or Palm Pilot. Not what we would consider powerful in this day and age, but good at running database lookups and any undemanding software written specifically for it. Cost of the device was 47800JPY, which was around 240GBP or 400USD at the time.
+At some point last year (shortly before I began writing this blog post!) I found reference to a hanafuda video game created in 1998 for the Casio CALEID XM-700 Mobile Navigator [on a random old, Japanese website](http://webcache.googleusercontent.com/search?q=cache%3Ahp.vector.co.jp%2Fauthors%2FVA003746%2FCALEID3.HTM&ie=UTF-8&oe=UTF-8&hl=en-gb&client=safari). It turns out this device is a long-forgotten handheld computer that was released in 1997, only in Japan. The device is what you might refer to as a PIM or PDA, roughly equivalent to Apple Newton or Palm Pilot, particularly as it featured handwriting recognition. Not what we would consider powerful in this day and age, but good at running database lookups and any undemanding software written specifically for it. Cost of the device was 47800JPY, which was around 240GBP or 400USD at the time.
 
 The game file came with a reference bitmap showing the hanafuda cards, this was just the type of guarantee and encouragement I needed to start hunting.
 
@@ -59,7 +59,7 @@ For me to stand a chance at this, I'd need to buy a device with a dock and the s
 
 The screen is 320x240 monochrome (1-bit) which exhibits an odd quirk that active pixels cast a shadow because the LCD is clear and the silver backing is some distance away. This is long before the LCD would be fused to the backing. In fact, some units you see for sale have creases in the silver backing, I'm not sure what must have happened to those devices!
 
-The system software is a charming custom OS, featuring a full mobile office suite, and 2MB of free space on the flash storage. Most importantly it allows user-created Add-ins to be loaded onto it, we would call them plugins or apps today. The device even has an expansion port for communications peripherals, enabling it to do email/fax using a cell phone or pay phone as data connection. A salaryman's dream in late-90s Japan!
+The system software is a charming custom OS, featuring a full mobile office suite, and 2MB of flash storage (1.49MB free for user data). Most importantly it allows user-created Add-ins to be loaded onto it, we would call them plugins or apps today. The device even has an expansion port for communications peripherals, enabling it to do email/fax using a cell phone or pay phone as data connection. A salaryman's dream in late-90s Japan!
 
 My goal: sideload the hanafuda game, along with anything else I can lay my hands on, using the proprietary dock, sync software and a Japanese install of Windows 98!
 
