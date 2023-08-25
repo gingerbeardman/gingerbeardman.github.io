@@ -139,8 +139,8 @@ Here's my Casio CALEID XM-700 Mobile Navigator running 花合わせ (Hana-awase)
 ----
 
 ## Extras
-- [caleid.addins.dim.zip](/files/caleid-addins.dim.zip) a profile for DATA IMPRESSION for CALEID that has all the Add-ins I've found installed and ready to sync
-- [caleid.portmon-serial-addin.txt](/files/caleid.portmon-serial-addin.txt)
+- [caleid.addins.dim.zip](https://cdn.gingerbeardman.com/files/caleid-addins.dim.zip) a profile for DATA IMPRESSION for CALEID that has all the Add-ins I've found installed and ready to sync
+- [caleid.portmon-serial-addin.txt](https://cdn.gingerbeardman.com/files/caleid.portmon-serial-addin.txt)
   a [portmon](https://learn.microsoft.com/en-us/sysinternals/downloads/portmon) serial log of the syncing of a single Add-in, the sample game that comes with DATA IMPRESSION for CALEID
 
 ----
