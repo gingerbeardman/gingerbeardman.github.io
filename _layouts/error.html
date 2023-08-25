@@ -25,6 +25,9 @@ layout: default
           <div id='resultsfooter'>
           </div>
 
+          <div id='bug'>
+          </div>
+
         </div>
       </article>
     </div>
@@ -44,7 +47,7 @@ function customSearchConstructor() {
     var queryParams = {
       cx: engineID,
       key: apiKey,
-      num: 3,
+      num: 5,
       q: phrase,
       alt: 'JSON'
     }
@@ -54,12 +57,6 @@ function customSearchConstructor() {
       if (response.items && response.items.length) {
         var resultsheader = document.getElementById("resultsheader");
         var results = document.getElementById("results");
-
-        if ( match.indexOf("\u0000") ) {
-          var p = document.createElement('p');
-          p.innerHTML = "<strong>The link contains a trailing null character, please report this to whichever app you are using.</strong>";
-          resultsheader.appendChild(p);
-        }
 
         var p = document.createElement('p');
         p.innerHTML = "Here are some possible matches:";
@@ -94,6 +91,15 @@ $(document).ready(function() {
   var matches = path.match(/(\d{4}\/\d{2}\/\d{2})/);
   var datestamp = matches[1];
   var phrase = decodeURIComponent(datestamp);
+
+  var resultsheader = document.getElementById("bug");
+  const currentUrl = window.location.href;
+  if ( currentUrl.indexOf("\u0000") || currentUrl.indexOf("/null") ) {
+    var p = document.createElement('p');
+    p.innerHTML = "<strong>Alert: the current URL contains a trailing null character, please report this bug to whichever app or browser you used to get to this page.</strong>";
+    resultsheader.appendChild(p);
+  }
+
   customSearch.trySearch(phrase);
 });
 </script>
