@@ -8,6 +8,7 @@ tags:
 - casio
 - pda
 - history
+- preservation
 nouns:
 - Casio CALEID XM-700 Mobile Navigator
 - DATA IMPRESSION for CALEID
@@ -27,7 +28,7 @@ nouns:
 - CALEID
 - Windows 98
 - Windows
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1695192750809919969
 
 ---
 
