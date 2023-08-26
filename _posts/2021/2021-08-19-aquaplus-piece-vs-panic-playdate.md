@@ -41,7 +41,7 @@ comments: https://twitter.com/gingerbeardman/status/1429479465781010432
 ---
 The P/ECE was a Japan-only handheld/mobile gaming console released in late-2001. It was created by Aquaplus, a company better known for visual novels, so it carries with it a certain oddball charm. After 20 years I find it heart-warming to see that the [official website](https://aquaplus.jp/piece/) is still online!
 
-![Aquaplus P/ECE](/images/posts/piece.jpg " Aquaplus P/ECE, launch edition")
+![Aquaplus P/ECE](https://cdn.gingerbeardman.com/images/posts/piece.jpg " Aquaplus P/ECE, launch edition")
 {:.tofigure}
 
 ## What is it?
@@ -73,7 +73,7 @@ Over its short term of popularity the P/ECE platform had a vibrant homebrew scen
 
 Anyway! During his indie days, Kuni developed for a [range of platforms](https://k-u.hatenadiary.org/entries/1970/01/01) and in a variety of languages and wrote several games for the P/ECE. Here are my favourites:
 
-![GIF](/images/posts/piece-spout.gif#piece)
+![GIF](https://cdn.gingerbeardman.com/images/posts/piece-spout.gif#piece)
 
 ### spout
 
@@ -85,7 +85,7 @@ edit: [kuni's game design notes](https://twitter.com/k_u/status/1429654871532212
 
 ***
 
-![GIF](/images/posts/piece-fencer.gif#piece)
+![GIF](https://cdn.gingerbeardman.com/images/posts/piece-fencer.gif#piece)
 
 ### fencer
 
@@ -97,7 +97,7 @@ edit: [kuni's game design notes](https://twitter.com/k_u/status/1429654873574830
 
 ***
 
-![GIF](/images/posts/piece-interground.gif#piece)
+![GIF](https://cdn.gingerbeardman.com/images/posts/piece-interground.gif#piece)
 
 ### interground
 
@@ -111,7 +111,7 @@ edit: [kuni's game design notes](https://twitter.com/k_u/status/1429654875755802
 
 Whilst digging into P/ECE forgotten history, I also found several old games by Kenta Cho (then: Saba, now: ABA Games) who even today continues to [crank out brilliant little games](http://www.asahi-net.or.jp/\~cs8k-cyu/browser.html) at an inspiring rate.
 
-![GIF](/images/posts/piece-barrage-reactor.gif#piece)
+![GIF](https://cdn.gingerbeardman.com/images/posts/piece-barrage-reactor.gif#piece)
 
 ### Barrage Reactor
 
@@ -119,7 +119,7 @@ A twin-stick shmup played with a d-pad and two buttons! The d-pad moves your shi
 
 ***
 
-![GIF](/images/posts/piece-speed-barricade.gif#piece)
+![GIF](https://cdn.gingerbeardman.com/images/posts/piece-speed-barricade.gif#piece)
 
 ### Speed Barricade
 
@@ -127,7 +127,7 @@ A 3D "Tron" light cycles game where the aim is to stay alive for as long as poss
 
 ***
 
-![GIF](/images/posts/piece-re.gif#piece)
+![GIF](https://cdn.gingerbeardman.com/images/posts/piece-re.gif#piece)
 
 ### Re: W32/Badtrance
 
@@ -145,7 +145,7 @@ Of course, 20 years is a long time in technology so the Playdate has many improv
 
 Oh, and both devices have names that make web searches a bit tricky. 😅
 
-![JPG](/images/posts/piece-vs-playdate.jpg)
+![JPG](https://cdn.gingerbeardman.com/images/posts/piece-vs-playdate.jpg)
 
 ## Specifications Comparison
 
