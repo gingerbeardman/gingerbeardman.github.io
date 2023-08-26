@@ -32,8 +32,8 @@ This is such an amazing treasure trove of files, containing many long lost files
 ## Notable finds so far
 
 *   [JapanEase](https://macintoshgarden.org/apps/japanease) rolling demos of two gorgeous language learning HyperCard decks from the early 1990s (one previously lost)
-*   [Hanafuda Stack](https://blog.gingerbeardman.com/2021/10/31/hypercard-hanafuda/) from 1992/3 (previously zero google search results)
-*   [Emora Kart](https://blog.gingerbeardman.com/2021/10/31/mouse-controlled-super-mario-kart-clone-for-classic-macintosh/) from 1994 (previously three google search results)
+*   [Hanafuda Stack](/2021/10/31/hypercard-hanafuda/) from 1992/3 (previously zero google search results)
+*   [Emora Kart](/2021/10/31/mouse-controlled-super-mario-kart-clone-for-classic-macintosh/) from 1994 (previously three google search results)
 *   [Unyo! 2](https://macintoshgarden.org/games/unyo-2) the infamous HyperCard stack version of the famous UNO card game, from 1995 (previously lost)
 *   _Tower Xmas Demo_, a demo version of Yoot Saito's _Tower ~Christmas Disc~_ add-on from December 1995 (previously lost)
 *   Fans of _Macromedia Shockwave_ and _Osamu Sato_ uncovered a 1997/8 [demo of Roly-Polys World Tour](https://www.youtube.com/watch?v=FlMzJs8Eb8Y) which is hugely exciting as the complete game remains lost to time

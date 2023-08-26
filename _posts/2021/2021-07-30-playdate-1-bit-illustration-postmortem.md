@@ -39,7 +39,7 @@ I've been revisiting the artwork of [Thoru Yamamoto](https://archive.org/search.
 
 **Toolbox**
 
-My tool of choice on System 7 is [Deneba artWORKS](https://blog.gingerbeardman.com/2021/04/25/mixing-external-tools-across-deneba-software/) because it supports multiple layers, a ton of external tools (plugins), and has a good workflow for vector and pixels. Plus, I use it on [iPad Pro with Apple Pencil](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/) which makes the whole experience an absolute pleasure.
+My tool of choice on System 7 is [Deneba artWORKS](/2021/04/25/mixing-external-tools-across-deneba-software/) because it supports multiple layers, a ton of external tools (plugins), and has a good workflow for vector and pixels. Plus, I use it on [iPad Pro with Apple Pencil](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/) which makes the whole experience an absolute pleasure.
 
 Some established Macintosh artists have questioned both my use of modern technology and my drawing techniques. Hopefully this post will give a little more insight into how I go about things.
 

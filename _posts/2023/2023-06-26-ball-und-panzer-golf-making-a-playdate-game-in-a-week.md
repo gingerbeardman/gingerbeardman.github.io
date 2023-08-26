@@ -49,14 +49,14 @@ I currently spend my time creating games for [Playdate](https://play.date), a ha
 ![PNG](/images/posts/ball-und-panzer-golf-01.png#playdate "The first 18 holes, eat your heart out <em>Pebble Beach no Hatou</em>!")
 {:.tofigure}
 
-After a quick dinner, it was time to draw the tank. I really didn't want to slow down my pace of progress so I decided to keep drawing the graphical elements in code using filled shapes rather then have to draw a tank in pixels. Another option would have been to use one of the cars from my game [Daily Driver](https://blog.gingerbeardman.com/2021/08/23/daily-driver-teaser-artwork/), but the path of least resistance was to draw a filled ellipse along with a line to show the turret position.
+After a quick dinner, it was time to draw the tank. I really didn't want to slow down my pace of progress so I decided to keep drawing the graphical elements in code using filled shapes rather then have to draw a tank in pixels. Another option would have been to use one of the cars from my game [Daily Driver](/2021/08/23/daily-driver-teaser-artwork/), but the path of least resistance was to draw a filled ellipse along with a line to show the turret position.
 
 ![PNG](/images/posts/ball-und-panzer-golf-02.png#playdate "Rudimentary tank and turret drawn using an filled ellipse and a thick line")
 {:.tofigure}
 
 ## Day 1
 
-That first day everything fell into place perfectly, with little friction and no refactoring. I started from a blank file and wrote just under 400 lines of code. The two most complicated elements were the randomised background and limiting the tank to its circular area, but I'd done similar things before so there was no problem solving involved, just pure implementation. In fact, a lot of this quick prototype made use of tricks and techniques I'd figured out over the past few years of Playdate development, in particular during the development of my game [Daily Driver](https://blog.gingerbeardman.com/tag/dailydriver/).
+That first day everything fell into place perfectly, with little friction and no refactoring. I started from a blank file and wrote just under 400 lines of code. The two most complicated elements were the randomised background and limiting the tank to its circular area, but I'd done similar things before so there was no problem solving involved, just pure implementation. In fact, a lot of this quick prototype made use of tricks and techniques I'd figured out over the past few years of Playdate development, in particular during the development of my game [Daily Driver](/tag/dailydriver/).
 
 At the end of the first day you could drive the tank around the screen, fire the ball at an angle selected using the crank or d-pad, and when you run out of balls it would trigger game over. What it didn't have is any logic that would collide the ball with the holes, point scoring, or any sort of win state. For some reason at this point I thought it would be cool to have a black tank with three wheels.
 

@@ -179,4 +179,4 @@ Oh, and both devices have names that make web searches a bit tricky. 😅
 | Launch price | $179 (¥19000) | ¥11000 ($100) |
 
 ## Related Posts
-* [Aquaplus P/ECE: Game Reviews Vol. 2](https://blog.gingerbeardman.com/2021/08/28/aquaplus-piece-game-reviews-vol-2/)
+* [Aquaplus P/ECE: Game Reviews Vol. 2](/2021/08/28/aquaplus-piece-game-reviews-vol-2/)

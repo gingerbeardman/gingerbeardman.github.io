@@ -78,7 +78,7 @@ The result of this process is a completely legitimate .ipa file, tied to your Ap
 
 If you install the .ipa file onto your phone using Finder, iTunes, Apple Configurator it will install just fine. But, because of the metadata that is included the .ipa, it will be checked for updates and automatically updated soon after installation. We need to go deeper.
 
-There is a little-known method of installing apps on an iOS device which will prevent it from being checked for updates. I discovered this method [back in 2016](https://blog.gingerbeardman.com/2016/07/19/how-to-prevent-an-individual-ios-app-from-updating-forever/) when I used it to downgrade the eBay and Gmail Inbox apps.
+There is a little-known method of installing apps on an iOS device which will prevent it from being checked for updates. I discovered this method [back in 2016](/2016/07/19/how-to-prevent-an-individual-ios-app-from-updating-forever/) when I used it to downgrade the eBay and Gmail Inbox apps.
 
 ## Installing the app
 

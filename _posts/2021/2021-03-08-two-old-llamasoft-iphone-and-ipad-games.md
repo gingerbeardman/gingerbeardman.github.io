@@ -26,4 +26,4 @@ I'm still hoping for an easy way to play these on modern devices, so let me know
 - [Minotron: 2112](https://archive.org/details/minotron-2112)  (iPhone & iPad)
 - [Gridrunner](https://archive.org/details/gridrunner-ios) (iPhone & iPad)
 
-Edit, 2021-09-13: I've added a cracked/decrypted version of Minotron that should be easier to install on a jailbroken device. There's an issue decrypting Gridrunner so I'll have to come back to that one at a later date, though you might be able to install it using AppSync Unified. See this blog post for more info: [https://blog.gingerbeardman.com/2021/09/13/playing-old-32-bit-ios-games-in-2021/](https://blog.gingerbeardman.com/2021/09/13/playing-old-32-bit-ios-games-in-2021/) 
+Edit, 2021-09-13: I've added a cracked/decrypted version of Minotron that should be easier to install on a jailbroken device. There's an issue decrypting Gridrunner so I'll have to come back to that one at a later date, though you might be able to install it using AppSync Unified. See this blog post for more info: [/2021/09/13/playing-old-32-bit-ios-games-in-2021/](/2021/09/13/playing-old-32-bit-ios-games-in-2021/) 

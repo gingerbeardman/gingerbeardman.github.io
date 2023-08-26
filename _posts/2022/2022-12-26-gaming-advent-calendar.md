@@ -118,7 +118,7 @@ One of my fondest memories: my dad playing hang gliding stage on repeat as a rel
 
 ## 13. **MaBoShi** (2008) 
 
-This inventive action game is 3-in-1: Circle, Square & Bar. Circle = physics, Square = turn-based, Bar = Reaction. Circle is quite possibly my favourite game of all time. You can play today using Wii & DS ROMs. See: [https://blog.gingerbeardman.com/2013/06/29/maboshi/)](https://blog.gingerbeardman.com/2013/06/29/maboshi/) [Video](https://www.youtube.com/watch?v=2BvygeP0O4g)
+This inventive action game is 3-in-1: Circle, Square & Bar. Circle = physics, Square = turn-based, Bar = Reaction. Circle is quite possibly my favourite game of all time. You can play today using Wii & DS ROMs. See: [https://blog.gingerbeardman.com/2013/06/29/maboshi/)](/2013/06/29/maboshi/) [Video](https://www.youtube.com/watch?v=2BvygeP0O4g)
 
 ![IMAGE](https://pbs.twimg.com/media/FkHJ_ljWIAMHB-g.png)![IMAGE](https://pbs.twimg.com/media/FkHKCuzXkAE3qZq.jpg)![IMAGE](https://pbs.twimg.com/media/FkHKJ-DXoAAIl8F.jpg)![IMAGE](https://pbs.twimg.com/media/FkHKL9BXEAIouFe.jpg)
 
