@@ -6,6 +6,7 @@ tags:
 - hack
 - save
 - patreon
+- reverseengineering
 nouns:
 - Gainax
 - 'Shinji and Good Friends: Second Hanafuda Impact'

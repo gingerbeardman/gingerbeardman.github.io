@@ -5,6 +5,7 @@ tags:
 - 480p
 - retrogaming
 - recommendations
+- tv
 nouns:
 - Philips
 - Sharp

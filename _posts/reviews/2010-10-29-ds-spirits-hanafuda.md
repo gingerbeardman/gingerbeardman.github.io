@@ -4,7 +4,7 @@ title: 'Review: DS Spirits Hanafuda'
 date: '2010-10-29T07:12:00+01:00'
 tags:
 - '2007'
-- ds
+- nintendods
 - videogame
 - review
 - tumblr

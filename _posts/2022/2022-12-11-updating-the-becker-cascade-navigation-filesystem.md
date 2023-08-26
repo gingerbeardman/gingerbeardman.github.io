@@ -4,7 +4,6 @@ title: 'Updating the Becker Cascade navigation filesystem'
 tags:
 - becker
 - maps
-- speedcam
 - hack
 - hardware
 nouns:

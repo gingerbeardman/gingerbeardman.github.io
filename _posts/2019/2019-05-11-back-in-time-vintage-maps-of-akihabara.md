@@ -4,8 +4,9 @@ title: 'Back In Time: Vintage Maps of Akihabara (1976–2001)'
 last_modified_at: '2023-07-01T17:13+01:00'
 tags:
 - history
-- japan
+- japanese
 - patreon
+- maps
 nouns:
 - Nikkei MAC
 - Akihabara

@@ -4,7 +4,6 @@ title: 'Hacking the Becker Cascade navigation CF card'
 tags:
 - becker
 - maps
-- speedcam
 - hack
 - hardware
 nouns:
