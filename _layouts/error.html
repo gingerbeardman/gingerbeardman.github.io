@@ -16,96 +16,12 @@ layout: default
           {{ content }}
           </p>
           
-          <div id='resultsheader'>
-          </div>
-
-          <ul id='results'>
-          </ul>
-
-          <div id='resultsfooter'>
-          </div>
-
-          <div id='bug'>
-          </div>
-
+          <span id="four-oh-four-suggestion"><span>
+          
         </div>
       </article>
     </div>
   </div>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<script>
-function customSearchConstructor() {
-  // Some private variables for this object
-  var context = this; // Keeps the parent context available so that we can call local methods
-  // Your keys
-  var engineID = 'e0c2606591be34b17';
-  var apiKey = 'AIzaSyDY81m3RMEBiRwR2npL5w6PSc0o12DzrTM';
-  this.trySearch = function(phrase) {
-    var queryParams = {
-      cx: engineID,
-      key: apiKey,
-      num: 10,
-      q: phrase,
-      alt: 'JSON'
-    }
-    var API_URL = 'https://www.googleapis.com/customsearch/v1?';
-    // Send the request to the custom search API
-    $.getJSON(API_URL, queryParams, function(response) {
-      if (response.items && response.items.length) {
-        var resultsheader = document.getElementById("resultsheader");
-        var results = document.getElementById("results");
-        var added = 0;
-
-        var p = document.createElement('p');
-        p.innerHTML = "Here are some possible matches:";
-        resultsheader.appendChild(p);
-        
-        for (r=0; r<response.items.length; r++) {
-          var match = response.items[r].link;
-          
-          if ( match != "https://blog.gingerbeardman.com/" && match.indexOf("/tag") == -1 && match.indexOf("/page") == -1 ) {
-            var li = document.createElement('li');
-            var a = document.createElement('a');
-            var link = document.createTextNode(match);
-            a.appendChild(link);
-            a.title = match;
-            a.href = match;
-            li.appendChild(a);
-            results.appendChild(li);
-            added++;
-          }
-        }
-        
-        if (added == 0) {
-          resultsheader.innerHTML = "";
-        }
-
-        var p = document.createElement('p');
-        p.innerHTML = "You can use the tag cloud below to find some interesting content.";
-        resultsfooter.appendChild(p);
-      }
-    });
-  };
-}
-$(document).ready(function() {
-  var customSearch = new customSearchConstructor();
-  var path = window.location.pathname;
-
-  var matches = path.match(/(\d{4}\/\d{2}\/\d{2})/);
-  var datestamp = matches[1];
-  var phrase = decodeURIComponent(datestamp);
-
-  var resultsheader = document.getElementById("bug");
-  const currentUrl = window.location.href;
-  if ( currentUrl.indexOf("\u0000") || currentUrl.indexOf("/null") ) {
-    var p = document.createElement('p');
-    p.innerHTML = "<strong>Alert: the current URL contains a trailing null character, please report this bug to whichever app or browser you used to get to this page.</strong>";
-    resultsheader.appendChild(p);
-  }
-
-  customSearch.trySearch(phrase);
-});
-</script>
+<script src="/js/404.js"></script>
