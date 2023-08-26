@@ -32,7 +32,7 @@ comments: https://twitter.com/gingerbeardman/status/1695192750809919969
 
 ---
 
-I like to think everybody collects something odd. Me? I collect hanafuda video games: digital implementations of traditional physical Japanese card games. Mostly that means physical copies of games for consoles and computers both new and old, for handhelds like Game Boy Advance, WonderSwan and Palm devices, and sometimes for platforms nobody has ever heard of. 
+I like to think everybody collects something odd. Me? I collect hanafuda video games: digital implementations of traditional physical Japanese card games. Mostly that means physical copies of games for consoles and computers both new and old, for handhelds like Game Boy Advance, WonderSwan, digital versions for computers, handhelds and smart phones, and sometimes versions for platforms nobody has ever heard of. 
 
 ## Down the rabbit hole
 
