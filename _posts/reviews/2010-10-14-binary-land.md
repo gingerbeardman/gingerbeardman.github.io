@@ -6,6 +6,7 @@ tags:
 - '1985'
 - msx
 - nes
+- famicom
 - videogame
 - review
 - tumblr
