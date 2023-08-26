@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reviewing the iPhone Xs in 2023
+last_modified_at: '2023-08-26T21:33+01:00'
 tags:
 - iphone
 - review
@@ -40,12 +41,12 @@ So, why an Xs over a *newer* iPhone? Many reasons.
 - Top corners accessibility is a pain, though reachability helps
 - Entering passwords is slower due to Face ID being slower than fingerprint
 - Having to enter my passcode more frequently due to Face ID fails
-- Speakers are nowhere near as good as on the SE2020
 - OLED ghosting at low brightness
 - 3D Touch interactions other than long press have been removed
+- ~~Speakers are nowhere near as good as on the SE2020~~<br>&nbsp;&nbsp;&nbsp;*This issue was fixed for free at the same time as an official battery replacement*
 
 ## Indifferent
-- Speed is slightly slower than SE2020, but the increased RAM and ui fit are a net gain
+- Speed is slightly slower than SE2020, but the increased RAM and user interface fit are a net gain
 - Very slippery, but I use a case that provides additional grip and protection as I am clumsy
 
 So, there we have it! I bought an old iPhone rather than a new one and I'm enjoying it.
