@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WWDC Keynote on Nintendo Wii
+title: WWDC 2008 Keynote on Nintendo Wii
 tags:
 - wwdc
 - wii
