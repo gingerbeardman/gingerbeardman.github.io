@@ -33,7 +33,7 @@ With it being a tool for [Rapid Application Development](https://en.wikipedia.or
 
 IntelligentPad could be used to build a variety of software from a working calculators and digital clocks (as shown in the documentation/tutorials), through to fully blown applications to a [database of nuclear reactors](https://www.jcprg.org/ipad/). Examples quoted in early-1999 included a [Kyoto culture database "THE MIYAKO"][1] (pdf, p.13) and IntelligentPad's own "Piazza" project. But, both were still under development at that time.
 
-![PNG](/images/posts/intelligentpad-about.png#pixel "IntelligentPad for Macintosh (1994, Hitachi)")
+![PNG](https://cdn.gingerbeardman.com/images/posts/intelligentpad-about.png#pixel "IntelligentPad for Macintosh (1994, Hitachi)")
 {:.tofigure}
 
 ### Desktop software
@@ -42,7 +42,7 @@ Implementations of the IntelligentPad standard were available for multiple platf
 
 From 1993 the standard was overseen by the IntelligentPad Consortium, a non-profit organisation aiming to promote and standardise IntelligentPad. The consortium is made up of 36 corporate members and individual members, including Fujitsu, Hitachi Software Engineering, Fuji Xerox, NTT, and NEC. The same year a live-demo was presented [in Kobe at the first TED conference held outside of North America](https://kobe-cc.jp/kcc/wp-content/uploads/2017/12/139.pdf) (pdf). The proliferation of the world wide web at this point meant the beginning of some adjustments to the concept.
 
-![PNG](/images/posts/intelligentpad-clock.png#pixel "Sample: Digital Clock Pad")
+![PNG](https://cdn.gingerbeardman.com/images/posts/intelligentpad-clock.png#pixel "Sample: Digital Clock Pad")
 {:.tofigure}
 
 ### The "Piazza" project
@@ -53,7 +53,7 @@ So, the IntelligentPad Consortium proposed a virtual space for content distribut
 
 In March 1999 this was all just an idea, with no working prototype available. Piazza version 1.0 was released in November 1999.
 
-![PNG](/images/posts/intelligentpad-piazza.png#pixel "IntelligentPad Piazza")
+![PNG](https://cdn.gingerbeardman.com/images/posts/intelligentpad-piazza.png#pixel "IntelligentPad Piazza")
 {:.tofigure}
 
 ### Reinventing the internet

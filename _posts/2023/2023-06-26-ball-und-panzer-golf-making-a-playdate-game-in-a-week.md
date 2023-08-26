@@ -46,12 +46,12 @@ Anyway, I had great fun figuring out the different types of shots and opportunit
 
 I currently spend my time creating games for [Playdate](https://play.date), a handheld gaming system with a black and white screen and a unique crank control that can be used as a method of input. Whilst on a walk in the park I couldn't stop thinking of kata68k's game and how it might work on Playdate. When I got back to my computer I wrote a little bit of Lua code to draw an elliptical golf green on screen, then added a hole, a flag pole, and a flag with a number on it. Then I added a loop to generate random positions and drew 18 holes, adjusting the size so they all fitted a bit better. It might just work.
 
-![PNG](/images/posts/ball-und-panzer-golf-01.png#playdate "The first 18 holes, eat your heart out <em>Pebble Beach no Hatou</em>!")
+![PNG](https://cdn.gingerbeardman.com/images/posts/ball-und-panzer-golf-01.png#playdate "The first 18 holes, eat your heart out <em>Pebble Beach no Hatou</em>!")
 {:.tofigure}
 
 After a quick dinner, it was time to draw the tank. I really didn't want to slow down my pace of progress so I decided to keep drawing the graphical elements in code using filled shapes rather then have to draw a tank in pixels. Another option would have been to use one of the cars from my game [Daily Driver](/2021/08/23/daily-driver-teaser-artwork/), but the path of least resistance was to draw a filled ellipse along with a line to show the turret position.
 
-![PNG](/images/posts/ball-und-panzer-golf-02.png#playdate "Rudimentary tank and turret drawn using an filled ellipse and a thick line")
+![PNG](https://cdn.gingerbeardman.com/images/posts/ball-und-panzer-golf-02.png#playdate "Rudimentary tank and turret drawn using an filled ellipse and a thick line")
 {:.tofigure}
 
 ## Day 1
@@ -60,7 +60,7 @@ That first day everything fell into place perfectly, with little friction and no
 
 At the end of the first day you could drive the tank around the screen, fire the ball at an angle selected using the crank or d-pad, and when you run out of balls it would trigger game over. What it didn't have is any logic that would collide the ball with the holes, point scoring, or any sort of win state. For some reason at this point I thought it would be cool to have a black tank with three wheels.
 
-![GIF](/images/posts/ball-und-panzer-golf-03.gif#playdate "The state of the game the end of the first day")
+![GIF](https://cdn.gingerbeardman.com/images/posts/ball-und-panzer-golf-03.gif#playdate "The state of the game the end of the first day")
 {:.tofigure}
 
 ## Day 1: Timeline
@@ -89,7 +89,7 @@ At the end of the first day you could drive the tank around the screen, fire the
 
 The following day I added a first draft of collisions and scoring. There was slower progress, but it was still very steady with no problems encountered. I was keenly aware that the collision and scoring were very naïve and that I would have to refine and improve them going forward. But, regardless, at the end of the second day it was possible to play a complete round of tank golf!
 
-![GIF](/images/posts/ball-und-panzer-golf-04.gif#playdate "How the game was shaping up at the end of the second day")
+![GIF](https://cdn.gingerbeardman.com/images/posts/ball-und-panzer-golf-04.gif#playdate "How the game was shaping up at the end of the second day")
 {:.tofigure}
 
 The next two days consisted of fine tuning, polishing, play testing, bug fixing, adding sound effects, and so on. I even managed to record a GIF where I got all 18 flags ...my first speed run!? I also received some great early encouragement and feedback from Playdate Squad community members: Donald [@Guv_Bubbs](https://twitter.com/Guv_Bubbs), Steve [@ScenicSoftware](https://twitter.com/ScenicSoftware), Atsu [@SquidGodDev](https://twitter.com/SquidGodDev), Neven [@neven](https://twitter.com/mrgan) and of course [@kata68k](https://twitter.com/kata68k) himself! The game was shaping up nicely and coming together very quickly.
@@ -110,7 +110,7 @@ There are many more optimisations to be made but this is not the time to do them
 
 All the graphics are still composed with filled ellipses, rectangles and lines, varying their dithering patterns to provide different textures. I really leaned into this and over the course of the week fine tuned the tank from a three-wheeled blob to a high contrast, detailed, carefully animated sprite that you might think has been rendered externally. Maybe in a forthcoming post I can put together an exploded diagram of how it's drawn?
 
-![GIF](/images/posts/ball-und-panzer-golf-05.gif#playdate "Ball und Panzer Golf for Playdate, at the end of the first week")
+![GIF](https://cdn.gingerbeardman.com/images/posts/ball-und-panzer-golf-05.gif#playdate "Ball und Panzer Golf for Playdate, at the end of the first week")
 {:.tofigure}
 
 ## What's next?

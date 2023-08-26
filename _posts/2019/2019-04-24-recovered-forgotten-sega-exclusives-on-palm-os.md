@@ -34,9 +34,9 @@ Use the stylus to position triangles on a grid, the aim is to deflect a ball to 
 
 This one feels quite familiar today, I can remember several games with a similar concept. Edit: Sega's 1990 arcade game [Borench](https://www.mobygames.com/game/arcade/borench) features a very similar concept.
 
-![PNG](/images/posts/sega-palm-triangle-magic-1.png)
+![PNG](https://cdn.gingerbeardman.com/images/posts/sega-palm-triangle-magic-1.png)
 
-![PNG](/images/posts/sega-palm-triangle-magic-2.png)
+![PNG](https://cdn.gingerbeardman.com/images/posts/sega-palm-triangle-magic-2.png)
 
 ### Borkov ボルコフ
 
@@ -44,15 +44,15 @@ Use the hardware buttons, or stylus, to make an overweight red-haired man eat ch
 
 It's reminiscent of COMPILE's 2001 GBA game [Guru Logi Champ](https://www.mobygames.com/game/guru-logi-champ), in that you rotate the play field and shoot/suck blocks from the middle. Pretty cool.
 
-![PNG](/images/posts/sega-palm-borkov-1.png)
+![PNG](https://cdn.gingerbeardman.com/images/posts/sega-palm-borkov-1.png)
 
-![PNG](/images/posts/sega-palm-borkov-2.png)
+![PNG](https://cdn.gingerbeardman.com/images/posts/sega-palm-borkov-2.png)
 
 **Columns for CLIÉ**
 
 The only commercial result from this particular period at SEGA was a version of Columns bundled only with a game controller accessory for Sony's CLIÉ range of Palm OS "personal entertainment organisers".
 
-![PNG](/images/posts/sega-palm-clie.png)
+![PNG](https://cdn.gingerbeardman.com/images/posts/sega-palm-clie.png)
 
 ### Download
 

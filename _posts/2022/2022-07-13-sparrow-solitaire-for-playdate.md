@@ -24,15 +24,15 @@ For the next week or so I went down the Shanghai rabbit hole. Its history is [qu
 
 This is the date on the first screenshot I captured of my prototype mahjong solitaire game for Playdate.
 
-![PNG](/images/posts/sparrow-early-1.png#playdate)
+![PNG](https://cdn.gingerbeardman.com/images/posts/sparrow-early-1.png#playdate)
 
 I tested different size tiles until I found the sweet spot that could fit a whole layout on the Playdate's 400x240 screen.
 
-![PNG](/images/posts/sparrow-early-2.png#playdate)
+![PNG](https://cdn.gingerbeardman.com/images/posts/sparrow-early-2.png#playdate)
 
 The following day I drew a set of tiles and it started to look like a real game! I called it *Sparrow Solitaire* because the sound of mahjong tiles rubbing together is said to sound like sparrows chirping. In fact, the original Chinese name for mahjong reused the word for sparrow. So this thing had a name at least!
 
-![GIF](/images/posts/sparrow-my-tiles.gif#playdate)
+![GIF](https://cdn.gingerbeardman.com/images/posts/sparrow-my-tiles.gif#playdate)
 
 I spent the next month or so, on-and-off, programming object-oriented Lua to manage the game state, tiles, layout, dealing, sound effects and I drew a handful more tile sets. 
 
@@ -76,11 +76,11 @@ Out of this partnership not only comes a great game, but some new offshoot proje
 
 At this point Sparrow Solitaire is really Mac's game, albeit one that happens to have my graphics and some of my programming DNA in it, so it's fitting that it will live on his itch.io page.
 
-![GIF](/images/posts/sparrow-game.gif#playdate)
+![GIF](https://cdn.gingerbeardman.com/images/posts/sparrow-game.gif#playdate)
 
 ## Launch Animation
 
-![GIF](/images/posts/sparrow-launch.gif#playdate)
+![GIF](https://cdn.gingerbeardman.com/images/posts/sparrow-launch.gif#playdate)
 
 ## Download
 
