@@ -12,6 +12,20 @@
 {% endif %}
 
 <div class='o-grid__col o-grid__col--2-4-s'>
+  <script>
+    function gotoPage() {
+      max=`{{ paginator.total_pages }}`;
+      n=prompt('Go to page number (1–'+max+')');
+      if (!isNaN(n)) {
+        if (n == 1) {
+          window.location.href = '/';
+        } else if ( n <= max ) {
+          window.location.href='/page/'+n+'/';
+        }
+      }
+    }
+  </script>
+  <a href="#" onclick="gotoPage()">
   <span class='c-pagination c-pagination__page'>
     <span class='c-pagination__text c-pagination__label'>
       Page
@@ -19,9 +33,7 @@
     <span class='c-pagination__text'>
       {{ paginator.page }}
       of
-      {{ paginator.total_pages }}
-    </span>
-  </span>
+      {{ paginator.total_pages }}</span></span></a>
 </div>
 
 {% if paginator.next_page %}
