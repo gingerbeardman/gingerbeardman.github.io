@@ -83,7 +83,7 @@ I used a USB to Serial cable to take care of the connection to the dock and it j
 
 ## Syncing
 
-Syncing is done using a custom version of Data Impression 2, renamed Data Impression for CALEID. It has arcane, overly complicated user interface along with a multitude of period and cultural quirks.
+Syncing is done using a custom version of Data Impression 2, renamed Data Impression for CALEID. It has an arcane, overly complicated user interface along with a multitude of period and cultural quirks.
 
 After some time spent browsing and translating the menus I found the section of the interface listing Add-ins and imported a bunch that I downloaded earlier. There's some awkwardness to this process which I'll describe later.
 
@@ -108,7 +108,7 @@ The last little bits are worth bullet pointing, as they require some detailed op
    2. Select メモ帳 ("Notepad") -> アドインデータの読み込み ("Read Add-in Data") from the menu bar (alt+M, R)
    3. Choose an add-in file (*.adi)
    4. Repeat steps 1-3 for multiple add-ins
-4. Press the スタート ("Start") button on the dock. Add-In will be forwarded to the CALEID.
+4. Press the スタート ("Start") button on the dock. Add-In will be sent to the CALEID.
 
 **Gotchas:**
 - Serial ports in VMs can be a hassle, try both the host PC and guest VM ports
