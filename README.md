@@ -136,5 +136,6 @@ You can find the current favicon (favicon.ico) inside the theme root directory, 
 - `read-time.html` to display reading time of non-html content
 - `tag-cloud.html` to display a tag cloud with proportional sizing of tags (count per tags is present, but disabled by default)
 - `analytics.html` to include Google Analytics. Requires `google_analytics` to be defined in `_config.yml` and `JEKYLL_ENV=production`
+- error 404 page suggestions and search page both powered by plain JS and the sitemap file
 
 EOF

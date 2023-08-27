@@ -24,16 +24,18 @@ if (null != e) {
                 const s = MSn(t, partial);
                 if (s != -1) {
                   link = new URL(e[r])
-                  results = `<li><a href="${link.href}">${link.pathname}</a></li>` + results
+                  if ( link.pathname != "/" && link.pathname.indexOf(".html") == -1 ) {
+                    results = `<li><a href="${link.href}">${link.pathname}</a></li>` + results
+                  }
                 }
               }
             }
             return e[i]
           })(query, i));
         if ( results != "" ) {
-          e.innerHTML = `<p>Matches, most recent first:</p><ul>${results}</ul>`
+          e.innerHTML = `<p>Results (most recent first):</p><ul>${results}</ul>`
         } else {
-          e.innerHTML = "<p>Whaa! No matches.</p>"
+          e.innerHTML = "<p>Zero, zilch, zip, nada, nothing.</p>"
         }
       } else
         e.innerHTML = 'Try the index <a href="/">/</a>'

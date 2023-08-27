@@ -1,8 +1,15 @@
       <li class='c-nav__item c-nav__by' role='presentation'>
         by <a href="https://www.gingerbeardman.com" class="c-nav__by">Matt Sephton</a>
       </li>
+      <li class='c-nav__item' role='presentation'>
+        {% unless page.name == 'search.md' %}
+        <form action="/search/" autocomplete="off">
+          <input type="search" name="q" id="query" placeholder="Search...">
+        </form><br>
+        {% endunless %}
+      </li>
 {% for page in site.pages %}
-  {% unless page.name == '404.md' %}
+  {% unless page.name == '404.md' or page.name == 'search.md' %}
     {% if page.title %}
       <li class='c-nav__item' role='presentation'>
         <a class='c-nav__link' href='{{ page.url | prepend: site.baseurl }}'>{{ page.title }}</a>

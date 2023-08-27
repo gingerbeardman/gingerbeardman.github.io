@@ -13,6 +13,15 @@ layout: default
           {% include_cached page-image.html pimage=page.image ptitle=page.title sbaseurl=site.baseurl %}
 
           {{ content }}
+
+          {% if page.name == 'tags.md' %}
+          <article class="c-post">
+            <div class="c-content larger">
+              {% include_cached tag-cloud.html pname=page.name %}
+            </div>
+          </article>
+          {% endif %}
+
         </div>
       </article>
     </div>
