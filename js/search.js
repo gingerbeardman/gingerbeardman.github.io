@@ -34,6 +34,7 @@ if (null != e) {
           })(query, i));
         if ( results != "" ) {
           e.innerHTML = `<p>Results (most recent first):</p><ul>${results}</ul>`
+          $('#query').focus();
         } else {
           e.innerHTML = "<p>Zero, zilch, zip, nada, nothing.</p>"
         }
