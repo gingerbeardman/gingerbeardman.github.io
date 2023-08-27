@@ -4,7 +4,21 @@
 
 .c-nav {
   &__item {
-    font-size: $font-size-medium;
+    font-size: $font-size-large;
+    line-height: 1.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  &__by {
+    font-size: $font-size-large;
+    color: $color-gray;
+    padding-bottom: 1.5rem;
+  }
+
+  &__social {
+    font-size: $font-size-large;
+    color: $color-gray;
+    padding-top: 1.0rem;
   }
 
   &__link {

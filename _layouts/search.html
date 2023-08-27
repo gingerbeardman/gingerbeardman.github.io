@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class='o-wrapper'>
+
+  <div class='o-grid'>
+    <div class='o-grid__col'>
+      <article class='c-post'>
+        <div class='c-content'>
+          {% include_cached page-image.html pimage=page.image ptitle=page.title sbaseurl=site.baseurl %}
+
+          <p>
+          {{ content }}
+          </p>
+          
+          <form action="/search/" autocomplete="off">
+            <input type="search" name="q" id="query" placeholder="Search...">
+          </form>
+          
+          <br>
+          <span id="search-results"><span>
+          
+        </div>
+      </article>
+    </div>
+  </div>
+</div>
+
+<script src="/js/search.js"></script>

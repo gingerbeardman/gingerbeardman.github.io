@@ -5,16 +5,30 @@
       <div class='c-header__inner'>
 
         <div class='o-grid'>
-          <div class='o-grid__col o-grid__col--1-4-s'>
+          <div class='o-grid__col o-grid__col--3-4-s'>
             <div class='c-logo u-text-left'>
-              <a class='c-logo__link' href='{{ include.sbaseurl }}/' title='{{ include.sdescription }}'>
-                {{ include.htmltitle }}
-              </a>
+              <a class='c-logo__link' href='{{ site.baseurl }}/' title="Get Info is a blog by Matt Sephton">{{ site.title }}</a>
             </div>
           </div>
-          <div class='o-grid__col o-grid__col--3-4-s'>
-            <div class='c-byline u-text-right'>
-              <div class='c-byline__desc'>by&nbsp;<a href="{{ include.shomepage }}" class='c-byline__desc'>{{ include.sauthor }}</a></div>
+
+          <div class='o-grid__col o-grid__col--1-4-s'>
+            <!-- <div class="c-byline__desc">
+              by&nbsp;<a href="{{ include.shomepage }}" class='c-byline__desc'>{{ include.sauthor }}</a>
+            </div> -->
+            <label class='js-off-canvas-toggle c-off-canvas-toggle' aria-label='Toggle navigation'>
+              <span class='c-off-canvas-toggle__icon'></span>
+            </label>
+          </div>
+
+          <div class='o-grid__col o-grid__col--1-4-s'>
+            <div class='c-off-canvas-content'>
+              <label class='js-off-canvas-toggle c-off-canvas-toggle c-off-canvas-toggle--close'>
+                <span class='c-off-canvas-toggle__icon'></span>
+              </label>
+
+              <ul class='c-nav o-plain-list '>
+                {% include navigation.html %}
+              </ul>
             </div>
           </div>
         </div>

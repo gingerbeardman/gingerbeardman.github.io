@@ -1,0 +1,14 @@
+/*------------------------------------*\
+  Elements > Search Field
+\*------------------------------------*/
+
+input[type=search] {
+  width: 100%;
+  padding: 0.5rem;
+  color: $color-black;
+  border: 1px solid $color-gray;
+  font-size: $font-size-large;
+}
+
+input[type=search]:focus {
+}

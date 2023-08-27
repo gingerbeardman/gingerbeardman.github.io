@@ -22,14 +22,21 @@
       text-decoration: none;
     }
   }
+  
+  @include mq(mobile, tablet) {
+    font-size: $font-size-medium;
+  }
 }
 
 .c-byline {
-  font-size: $font-size-large;
   float: right;
 
   &__desc {
-    // float: right;
     color: silver;
+    font-size: $font-size-large;
+  }
+  
+  @include mq(mobile, tablet) {
+    font-size: $font-size-medium;
   }
 }
