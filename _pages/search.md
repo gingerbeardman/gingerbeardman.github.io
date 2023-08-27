@@ -4,4 +4,4 @@ title: Search
 icon: ei-search
 ---
 
-Search is limited to matching words in post titles.
+This searches words in post titles only.

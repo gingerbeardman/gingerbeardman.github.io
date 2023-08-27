@@ -9,13 +9,15 @@ layout: default
       <article class='c-post'>
         <div class='c-content'>
           {% include_cached page-image.html pimage=page.image ptitle=page.title sbaseurl=site.baseurl %}
-
+          
+          <h1 class='c-post__title'>{{ page.title }}</h1>
+          
           <p>
           {{ content }}
           </p>
           
           <form action="/search/" autocomplete="off">
-            <input type="search" name="q" id="query" placeholder="Search...">
+            <input type="search" name="q" id="query" placeholder="type something here">
           </form>
           
           <br>

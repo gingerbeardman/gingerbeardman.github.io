@@ -7,7 +7,7 @@ $off-canvas-width: 300px;
 .c-off-canvas-toggle {
   float: right;
   position: relative;
-  top: half($base-spacing-unit);
+  top: quarter($base-spacing-unit);
   z-index: 10;
   height: 19px;
   width: 25px;
@@ -77,7 +77,7 @@ body {
   right: 0;
   width: $off-canvas-width;
   height: 100%;
-  padding: ($base-spacing-unit + half($base-spacing-unit)) double($base-spacing-unit);
+  padding: ($base-spacing-unit + quarter($base-spacing-unit)) ($base-spacing-unit + quarter($base-spacing-unit)) ($base-spacing-unit + quarter($base-spacing-unit)) ($base-spacing-unit + half($base-spacing-unit));
   background-color: $bg-color-white;
   transform: translate3d($off-canvas-width, 0, 0);
 }
