@@ -28,6 +28,8 @@
   }
 
   em {
+    display: block;
+    clear: both;
     font-style: normal;
     font-weight: bold;
     text-transform: none;
@@ -37,22 +39,6 @@
     position: relative;
     font-size: $font-size-small;
     letter-spacing: 2px;
-
-    &--prev {
-      left: - $base-spacing-unit;
-
-      @include mq(mobile, tablet) {
-        display: none;
-      }
-    }
-
-    &--next {
-      right: - $base-spacing-unit;
-
-      @include mq(mobile, tablet) {
-        display: none;
-      }
-    }
   }
 
   &__icon {
@@ -65,5 +51,14 @@
     &--next {
       right: - half($base-spacing-unit);
     }
+  }
+}
+
+.prevnext {
+  width: 50%;
+  
+  @include mq(mobile, tablet) {
+    clear: both;
+    width: 75%;
   }
 }
