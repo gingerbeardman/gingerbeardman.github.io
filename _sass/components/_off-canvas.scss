@@ -86,10 +86,17 @@ body {
   transform: translate3d(0, 0, 0);
   transition: transform $global-transition cubic-bezier(.16, .68, .43, .99);
 
+  &:after {
+    display: none;
+    background-color: rgba(0, 0, 0, 0);
+    transition: all $global-transition cubic-bezier(.16, .68, .43, .99);
+  }
+
   &.is-active {
     transform: translate3d(- $off-canvas-width, 0, 0);
 
     &:after {
+      display: block;
       position: fixed;
       top: 0;
       right: 0;
