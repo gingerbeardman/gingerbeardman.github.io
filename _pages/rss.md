@@ -5,6 +5,6 @@ permalink: /feed.html
 ---
 
 <br>
-This site has a feed available at [/feed.xml](/feed.xml)
+You can [subscribe to the blog's feed](/feed.xml) to be notified of new posts.
 
-Your reader should auto-discover the feed if you give it [a link to this blog](https://blog.gingerbeardman.com).
+Most feed readers should auto-discover it if you use [a link to this blog](https://blog.gingerbeardman.com).
