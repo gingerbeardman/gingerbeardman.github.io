@@ -28,14 +28,16 @@ $(document).ready(function() {
       menuVisible = false;
     }
   });
-
-  // body click to hide menu
-  $('.js-off-canvas-container').click(function(e) {
-    console.log("HIDE");
-    if (menuVisible == true) {
-      $('.js-off-canvas-toggle').removeClass('is-active');
-      $('.js-off-canvas-container').removeClass('is-active');
-      menuVisible = false;
+  
+  // body click to hide menu, excluding sidebar
+  let containingElement = document.querySelector('#sidebar');
+  $('header,.o-wrapper').click(function(e) {
+    if ( !containingElement.contains( e.target ) ) {
+      if (menuVisible == true) {
+        $('.js-off-canvas-toggle').removeClass('is-active');
+        $('.js-off-canvas-container').removeClass('is-active');
+        menuVisible = false;
+      }
     }
   });
 
