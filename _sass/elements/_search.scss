@@ -2,14 +2,9 @@
   Elements > Search Field
 \*------------------------------------*/
 
-input[type=search] {
+input[type="search"] {
   width: 100%;
-  padding: 0.5rem;
-  color: $color-black;
-  border: 1px solid $color-gray;
-  border-radius: 0;
-  font-size: $font-size-large;
 }
 
-input[type=search]:focus {
+input[type="search"]::-webkit-search-cancel-button {
 }
