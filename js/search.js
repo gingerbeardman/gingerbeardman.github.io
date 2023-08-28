@@ -31,7 +31,7 @@ if (null != e) {
               }
             }
             return e[i]
-          })(query, i));
+          })(query.toLowerCase(), i));
         if ( results != "" ) {
           e.innerHTML = `<p>Results (most recent first):</p><ul>${results}</ul>`
           $('#query').focus();
