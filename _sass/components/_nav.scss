@@ -3,15 +3,24 @@
 \*------------------------------------*/
 
 .c-nav {
+  *::selection {
+    color: $color-link-hover;
+  }
+  
   &__item {
     font-size: $font-size-large;
     line-height: 1.5rem;
     padding-bottom: 0.5rem;
+
+    a:hover {
+      color: $color-link-hover !important;
+      text-decoration: underline;
+    }
   }
 
   &__by {
     font-size: $font-size-large;
-    color: $color-gray;
+    color: $color-gray !important;
     padding-bottom: 1.5rem;
   }
 
