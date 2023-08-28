@@ -14,15 +14,28 @@ $(document).ready(function() {
   // Off Canvas menu
   // =================
 
+  let menuVisible = false;
   $('.js-off-canvas-toggle').click(function(e) {
     e.preventDefault();
     $('.js-off-canvas-toggle').toggleClass('is-active');
     $('.js-off-canvas-container').toggleClass('is-active');
-    if (!$('.js-off-canvas-toggle').hasClass('is-active')) {
+    if ($('.js-off-canvas-container').hasClass('is-active')) {
       $('#query').focus();
+      setTimeout(function(b){
+          menuVisible = b;
+      },400,true);
+    } else {
+      menuVisible = false;
     }
-    if ($('.js-off-canvas-toggle').hasClass('is-active')) {
-      $('#query').focus();
+  });
+
+  // body click to hide menu
+  $('.js-off-canvas-container').click(function(e) {
+    console.log("HIDE");
+    if (menuVisible == true) {
+      $('.js-off-canvas-toggle').removeClass('is-active');
+      $('.js-off-canvas-container').removeClass('is-active');
+      menuVisible = false;
     }
   });
 
