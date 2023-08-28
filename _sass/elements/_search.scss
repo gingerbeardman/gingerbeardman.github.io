@@ -2,9 +2,16 @@
   Elements > Search Field
 \*------------------------------------*/
 
-input[type="search"] {
-  width: 100%;
-}
+form {
+  
+  input[type="search"] {
+    -webkit-appearance: none;
+    padding: 0.25rem 0.5rem;
+    width: 100%;
+  }
 
-input[type="search"]::-webkit-search-cancel-button {
+  label {
+    display: none;
+  }  
+
 }
