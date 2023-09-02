@@ -32,6 +32,6 @@ However, we can use the [blueutil](https://github.com/toy/blueutil) command-line
 
 All you have to do is hold down 1+2 on your Wii remote and wait a short while.
 
-If you're using an Intel Mac you might have luck with the script below, but if you're on Apple silicon you'll be sadly out of luck and unable to pair your Wii remote.
+**If you're using an Intel Mac you might have luck with the script below, but if you're on Apple silicon you'll be sadly out of luck and unable to pair your Wii remote.**
 
 <script src="https://gist.github.com/gingerbeardman/05030c73714b3aa3202aeee7f21c3b1e.js"></script>
