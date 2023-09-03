@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Automatically pairing a Wii remote on macOS
+last_modified_at: '2023-09-03T22:47+01:00'
 tags:
 - wii
 - guide
@@ -17,7 +18,9 @@ comments: https://twitter.com/gingerbeardman/status/1637977948354408451
 
 ---
 
-Pairing a Nintendo Wii remote used to work just fine on macOS, but starting with Monterey Apple changed something and Wii remotes now require a PIN code. Maybe they took out the Wii remote special case when they rewrote IOBluetooth?
+> If you're using the Dolphin emulator, by far the easiest method of syncing a Wii remote with it is to use a cheap Bluetooth adapter and the "Passthrough a Bluetooth adapter" controller option. Hassle free!
+
+Pairing a Nintendo Wii remote used to work just fine on macOS, but starting with Monterey Apple changed something and Wii remotes now require a PIN code. Maybe they took out the Wii remote special case when they rewrote IOBluetooth? *The method below only works for Intel Macs.*
 
 Anyway, some very clever people have already documented [how to calculate the PIN code for any Wii remote](https://wiibrew.org/wiki/Wiimote#Bluetooth_Pairing). It's the Bluetooth network [MAC address](https://en.wikipedia.org/wiki/MAC_address) of the device *in reverse*.
 
