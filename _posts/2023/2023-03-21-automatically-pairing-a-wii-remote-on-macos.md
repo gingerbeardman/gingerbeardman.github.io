@@ -11,14 +11,19 @@ nouns:
 - Nintendo
 - Wii
 - Intel
-- Mac
 - Apple silicon
 - macOS
 comments: https://twitter.com/gingerbeardman/status/1637977948354408451
 
 ---
 
-> If you're using the Dolphin emulator, by far the easiest method of syncing a Wii remote with it is to use a cheap Bluetooth adapter and the "Passthrough a Bluetooth adapter" controller option. Hassle free!
+## Universal
+
+If you're using the Dolphin emulator, by far the easiest method of syncing a Wii remote with it is to use a cheap Bluetooth adapter and Dolphin's "Passthrough a Bluetooth adapter" controller option. 
+
+If you want to use the Wii remote outside of Dolphin, the easiest way is to use a [MAYFLASH MAGIC-NS Bluetooth adapter](https://amzn.to/44CpM1x) (any version will work for Wii remotes).
+
+## Intel-only
 
 Pairing a Nintendo Wii remote used to work just fine on macOS, but starting with Monterey Apple changed something and Wii remotes now require a PIN code. Maybe they took out the Wii remote special case when they rewrote IOBluetooth? *The method below only works for Intel Macs.*
 
