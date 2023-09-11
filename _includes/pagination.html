@@ -17,7 +17,7 @@
       max=`{{ paginator.total_pages }}`;
       n=prompt('Go to page number (1–'+max+')');
       if (!isNaN(n)) {
-        if (n == 1 or n == "") {
+        if (n == 1 || n == "") {
           window.location.href = '/';
         } else if ( n <= max ) {
           window.location.href='/page/'+n+'/';

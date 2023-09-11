@@ -11,7 +11,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
-    google-protobuf (3.24.2-arm64-darwin)
+    google-protobuf (3.24.3-arm64-darwin)
     http_parser.rb (0.8.0)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
@@ -48,8 +48,6 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-tagging (1.1.0)
       nuggets
-    jekyll-tsc (0.0.4)
-      jekyll (>= 3.8, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -98,7 +96,6 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-tagging
-  jekyll-tsc
   kramdown
   liquid
   liquid-c
