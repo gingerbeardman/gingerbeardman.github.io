@@ -1,6 +1,7 @@
 ---
 layout: post
 title: F-MIN INFINITY an obscure Japanese sprite-scaler racing game
+last_modified_at: '2023-09-16T14:04+01:00'
 tags:
 - japanese
 - preservation
@@ -21,12 +22,7 @@ This is version 2.1 of F-MIN INFINITY, a sprite-scaler 2D/3D racing game by mpul
 
 The copy of its homepage in Wayback Machine was incomplete, as were direct links from [an old feature on Vector](https://web.archive.org/web/20000829131347/https://www.vector.co.jp/magazine/softnews/000729/n000729com1.html), so it took a long time to find a copy of the .lzh archive file. Eventually I managed to locate it in an archive of an obscure old type of listing page on Vector.
 
-Update: in order to get it to display correctly, activate the following Compatibility settings on the main EXE: 
-
-- Compatibility mode: Windows XP SP3
-- Reduced Colour mode: 8-bit (256) colour
-- Run in 640x480 screen resolution
-- Disable full-screen optimisations
+To run the game correctly it's best to use [DxWnd](https://sourceforge.net/projects/dxwnd/), which will allow you to play the game on modern Windows with zero configuration, or even through Crossover/Wine and not use Windows at all.
 
 The game includes help files as HTML, the ability create your own tracks, and source code. Let me know if you have more luck running it than I did!
 
