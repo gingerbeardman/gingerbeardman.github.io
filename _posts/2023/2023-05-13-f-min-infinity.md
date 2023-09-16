@@ -6,6 +6,8 @@ tags:
 - japanese
 - preservation
 - patreon
+- windows
+- game
 nouns:
 - F-MIN INFINITY
 - Power Drift

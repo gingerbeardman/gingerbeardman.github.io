@@ -7,6 +7,7 @@ tags:
 - preservation
 - patreon
 - windows
+- game
 nouns:
 - Windows 95
 - Windows 3.x
