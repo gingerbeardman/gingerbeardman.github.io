@@ -11,7 +11,7 @@ comments:
 
 ---
 
-> This article was originally posted on [pico8 BBS in 2016](https://www.lexaloffle.com/bbs/?tid=3614), and slightly modified on [Playdate devforum in 2020](https://devforum.play.date/t/post-processing-animated-gifs/1074).
+> This article was originally posted on [pico8 BBS in 2016](https://www.lexaloffle.com/bbs/?tid=3614), and on [Playdate devforum in 2020](https://devforum.play.date/t/post-processing-animated-gifs/1074).
 
 I was interested to see how easy/difficult it is to edit the animated GIF recordings. My goal was to trim some frames from the beginning and end to make a more succinct video.
 
