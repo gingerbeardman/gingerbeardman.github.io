@@ -7,7 +7,7 @@ tags:
 - shell
 - script
 nouns:
-comments: 
+comments: https://twitter.com/gingerbeardman/status/1705946395021017135
 
 ---
 
