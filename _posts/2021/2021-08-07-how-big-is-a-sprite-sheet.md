@@ -6,6 +6,7 @@ tags:
 - playdate
 - graphics
 - cars
+- rendering
 nouns:
 - Playdate
 - Daily Driver
