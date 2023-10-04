@@ -6,6 +6,7 @@ tags:
 - playdate
 - graphics
 - cars
+- openscad
 nouns:
 - OpenSCAD
 - Daily Driver
