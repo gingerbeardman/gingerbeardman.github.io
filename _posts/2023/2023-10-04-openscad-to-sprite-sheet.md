@@ -21,3 +21,6 @@ I just released the "OpenSCAD to Spritesheet" workflow I created for [Daily Driv
 
 It's a Frankenstein mish-mash of a Makefile and several shell scripts that evolved over many months/years. Initial rendering is done using OpenSCAD, and post-processing is done using ImageMagick. Model poses and rendering variations are controlled by variables in either the shell script or passed through to the model. The whole process is optimised to do as much in parallel as I could figure. More info at the link above! 🚗💨
 
+![PNG](https://cdn.gingerbeardman.com/images/posts/openscad-spritesheet-model-car.png)
+
+[![PNG](https://cdn.gingerbeardman.com/images/posts/openscad-spritesheet-car-table-38-38.png)](https://cdn.gingerbeardman.com/images/posts/openscad-spritesheet-car-table-38-38.png)
