@@ -32,6 +32,8 @@ After exporting all frames there is some `image magick` work to process the file
 3. process channels to recolour and dither as required
 4. recombine processed channels into new sprite sheet image
 
+You can read about that in a [previous blog post](https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/).
+
 ## Benchmarks
 
 A full build of 36 cars is as follows:
@@ -44,8 +46,6 @@ A full build of 36 cars is as follows:
   - approx 16 seconds per car
 
 That's parallel 3D rendering, PNG writing & compositing & processing, and copying of ~140K files (which takes up ~0.5GB of disk space).
-
-----
 
 ## Example Model
 
