@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Accessing Yahoo! Japan from Europe
-last_modified_at: '2023-10-10T21:06+01:00'
+last_modified_at: '2023-10-10T21:13+01:00'
 tags:
 - yahoo-japan
 - internet
@@ -63,9 +63,9 @@ You can use a stand-alone VPN that is installed at a system level. This will aff
 
 The above solutions are all you need, but if you're looking for more solutions then read on.
 
-## 3. PAC (Proxy Auto-Config)
+## 3. Proxy
 
-You don't really want to route all of your traffic through a proxy, especially if it's a free proxy that you shouldn't trust. It's recommended to enable the proxy only for *.yahoo.co.jp URLs, which is possible using a [PAC](https://en.wikipedia.org/wiki/Proxy_auto-config) file, an example of which is below.
+You don't really want to route all of your traffic through a proxy, especially if it's a free proxy that you shouldn't trust. It's recommended to enable the proxy only for *.yahoo.co.jp URLs, which is possible using a [Proxy Auto-Config](https://en.wikipedia.org/wiki/Proxy_auto-config) (PAC file), an example of which is below.
 
 <script src="https://gist.github.com/gingerbeardman/d02b61f86eadd29a86b3ae42082eee7f.js"></script>
 
@@ -77,7 +77,14 @@ There are many free proxies listed at [freeproxy.world](https://www.freeproxy.wo
 
 It's possible to host your own! You could do this on your home network using a Synology NAS, Raspberry Pi or some other computer. Or you can do it on a wider scale by hosting your proxy in the cloud. This is an advanced level solution, but is currently my preferred method. I have a proxy installed on a cloud compute instance located outside of the EEA. More specifically, I am using an install of `tinyproxy` on an *Oracle Cloud Instance* located on a server in Switzerland. I then combine this with the PAC method on the network connection each of my devices.
 
-## Redirection
+### Server-level access
+
+I run a server that does automated searches of Yahoo! Japan Auctions, giving me a sort of "Saved Search" mechanism for my own hobbies and interests. I now route all accesses to Yahoo! Japan websites through my Swiss proxy by specifying its proxy URL in my server configuration.
+
+
+----
+
+## 4. Redirection
 
 My main browser on macOS is Safari and regardless of the previous workarounds I still visit Yahoo! Japan Auctions pages during general browsing and image searching. This results in the dreaded error page.
 
@@ -95,11 +102,3 @@ I do the following:
 This means I can keep browsing uninterrupted, though of course you can no longer see the original pages as intended.
 
 Here is [my archive of CSS and JS for modifying other sites](https://github.com/gingerbeardman/dot-css-js/) in a similar way.
-
-## Server-level access
-
-I run a server that does automated searches of Yahoo! Japan Auctions, giving me a sort of "Saved Search" mechanism for my own hobbies and interests. I now route all accesses to Yahoo! Japan websites through a proxy by specifying the proxy URL in my server configuration.
-
-## To be continued...
-
-I'll add to this page as I come up with more workarounds.
