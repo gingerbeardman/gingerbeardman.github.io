@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Accessing Yahoo! Japan from Europe
+last_modified_at: '2023-10-10T21:06+01:00'
 tags:
 - yahoo-japan
 - internet
@@ -38,7 +39,9 @@ For more information about the difference between a proxy and VPN [read this pag
 
 Now that we know what tools we're going to use, let's talk about specific uses.
 
-## Browsers
+----
+
+## 1. Browsers
 
 Certain browsers offer built in proxy/VPN, at zero cost. These will allow you to access Yahoo! Japan pretty much as you did before. But read the notes below!
 
@@ -50,7 +53,17 @@ Notes:
 - only use proxy to access selected websites, not all sites
 - avoid proxy/VPN apps with free trials and expensive monthly subscriptions thereafter
 
-## PAC (Proxy Auto-Config)
+----
+
+## 2. Standalone VPNs
+
+You can use a stand-alone VPN that is installed at a system level. This will affect all apps running on your system. Such VPNs are provided by the likes of PIA, ExpressVPN, SurfShark, NordVPN. Whilst I'll refrain from recommending any one in particular, I will say that if you hunt around you can almost always find special offer pricing.
+
+----
+
+The above solutions are all you need, but if you're looking for more solutions then read on.
+
+## 3. PAC (Proxy Auto-Config)
 
 You don't really want to route all of your traffic through a proxy, especially if it's a free proxy that you shouldn't trust. It's recommended to enable the proxy only for *.yahoo.co.jp URLs, which is possible using a [PAC](https://en.wikipedia.org/wiki/Proxy_auto-config) file, an example of which is below.
 
