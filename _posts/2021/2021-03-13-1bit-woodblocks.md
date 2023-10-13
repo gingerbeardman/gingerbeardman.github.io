@@ -6,6 +6,7 @@ tags:
 - macintosh
 - 1bitwoodblocks
 - marchintosh
+- pixelart
 nouns:
 - 1-bit Woodblocks
 carousel: ''

@@ -6,6 +6,7 @@ tags:
 - 1bit
 - japanese
 - 1bitwoodblocks
+- pixelart
 nouns: [UltraPaint, Pixaki]
 carousel: ''
 featured: true

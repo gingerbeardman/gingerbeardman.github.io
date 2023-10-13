@@ -6,6 +6,7 @@ tags:
 - midjourney
 - art
 - openstudios
+- pixelart
 nouns:
 - Open Studios
 - Christmas

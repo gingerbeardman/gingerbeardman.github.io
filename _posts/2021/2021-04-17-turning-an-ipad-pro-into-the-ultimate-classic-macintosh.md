@@ -8,6 +8,7 @@ tags:
 - emulation
 - macintosh
 - 1bitwoodblocks
+- pixelart
 nouns:
 - Documents
 - Books
