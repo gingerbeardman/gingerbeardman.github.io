@@ -13,13 +13,16 @@ nouns:
 - Kenichi Shinohara
 - MacPaint
 - Susan Kare
+- Z's STAFF
+- FUNNY
+- CANDY2
 comments: https://twitter.com/gingerbeardman/status/1709587637210665082
 
 ---
 
 From LOGiN Magazine (1987, No 5) comes the story of 篠原賢 Kenichi Shinohara — a "cheerful uncle" from Hyogo Prefecture — who at the age of 60 years old began using an NEC PC-98 to draw pixel art reproductions of Ukiyo-e. He also printed them and made folding screens and kites! Just "for something to do". I like his style! What a guy.
 
-His process involved pasting copies of artwork from books and magazines to his monitor screen and then tracing them using the mouse. After that he would clean up, colour, and after 4 to 5 days print it out to check, with each piece taking 1 to 2 weeks. This is the same process I did for my [1-bit woodblock series](/tag/1bitwoodblocks/), and similar to what [Susan Kare did for her famous MacPaint artwork](https://www.folklore.org/StoryView.py?project=Macintosh&story=MacPaint_Gallery.txt).
+His process involved pasting copies of artwork from books and magazines to his monitor screen and then tracing them using the mouse. After that he would clean up, colour, and after 4 to 5 days print it out to check, with each piece taking 1 to 2 weeks. We can see he used pixel art software such as Z's STAFF, FUNNY and CANDY2. This is the same process I did for my [1-bit woodblock series](/tag/1bitwoodblocks/), and similar to what [Susan Kare did for her famous MacPaint artwork](https://www.folklore.org/StoryView.py?project=Macintosh&story=MacPaint_Gallery.txt).
 
 Given that this feature was published in 1987, when Kenichi was 64, that would make him 100 this year. Happy Birthday for your centenary, Kenichi, wherever you are! 🎂
 
