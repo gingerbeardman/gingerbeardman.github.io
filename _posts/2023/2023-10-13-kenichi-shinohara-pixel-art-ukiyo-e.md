@@ -13,7 +13,7 @@ nouns:
 - Kenichi Shinohara
 - MacPaint
 - Susan Kare
-- Z's STAFF
+- Z’s STAFF
 - FUNNY
 - CANDY2
 comments: https://twitter.com/gingerbeardman/status/1709587637210665082
@@ -22,15 +22,18 @@ comments: https://twitter.com/gingerbeardman/status/1709587637210665082
 
 From LOGiN Magazine (1987, No 5) comes the story of 篠原賢 Kenichi Shinohara — a "cheerful uncle" from Hyogo Prefecture — who at the age of 60 years old began using an NEC PC-98 to draw pixel art reproductions of Ukiyo-e. He also printed them and made folding screens and kites! Just "for something to do". I like his style! What a guy.
 
-His process involved pasting copies of artwork from books and magazines to his monitor screen and then tracing them using the mouse. After that he would clean up, colour, and after 4 to 5 days print it out to check, with each piece taking 1 to 2 weeks. We can see he used pixel art software such as Z's STAFF, FUNNY and CANDY2. This is the same process I did for my [1-bit woodblock series](/tag/1bitwoodblocks/), and similar to what [Susan Kare did for her famous MacPaint artwork](https://www.folklore.org/StoryView.py?project=Macintosh&story=MacPaint_Gallery.txt).
+His process involved pasting copies of artwork from books and magazines to his monitor screen and then tracing them using the mouse. After that he would clean up, colour, and after 4 to 5 days print it out to check, with each piece taking 1 to 2 weeks. We can see he used pixel art software such as Z's STAFF, FUNNY and CANDY2.
+
+> This is pretty much the same process I used to create for my [1-bit woodblock series](/tag/1bitwoodblocks/), though with a more modern set of tools, and similar to what [Susan Kare did for her famous MacPaint artwork](https://www.folklore.org/StoryView.py?project=Macintosh&story=MacPaint_Gallery.txt).
+
+## Happy Birthday
 
 Given that this feature was published in 1987, when Kenichi was 64, that would make him 100 this year. Happy Birthday for your centenary, Kenichi, wherever you are! 🎂
 
-## Learn how to use graphics tools from a jolly old man
-
 [https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n169/mode/2up](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n169/mode/2up)
 
-> 陽気なおごさんに教わるグラフィックツールのひミーふな使い方
+> 陽気なおごさんに教わるグラフィックツールのひミーふな使い方  
+> Learn how to use graphics tools from a jolly old man
 
 Click the images below to see a zoomable, browsable version of the magazine.
 
