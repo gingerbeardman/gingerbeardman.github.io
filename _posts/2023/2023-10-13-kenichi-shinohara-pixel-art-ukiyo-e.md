@@ -26,9 +26,11 @@ His process involved pasting copies of artwork from books and magazines to his m
 
 > This is pretty much the same process I used to create for my [1-bit woodblock series](/tag/1bitwoodblocks/), though with a more modern set of tools, and similar to what [Susan Kare did for her famous MacPaint artwork](https://www.folklore.org/StoryView.py?project=Macintosh&story=MacPaint_Gallery.txt).
 
-## Happy Birthday
+## 100
 
 Given that this feature was published in 1987, when Kenichi was 64, that would make him 100 this year. Happy Birthday for your centenary, Kenichi, wherever you are! 🎂
+
+## LOGiN 1987 No 5
 
 [https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n169/mode/2up](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n169/mode/2up)
 
