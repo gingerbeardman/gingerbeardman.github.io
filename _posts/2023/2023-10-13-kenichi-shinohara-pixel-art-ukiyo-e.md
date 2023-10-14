@@ -25,7 +25,7 @@ From LOGiN Magazine (1987, No 5) comes the story of 篠原賢一 Kenichi Shinoha
 
 His process involved pasting copies of artwork from books and magazines to his monitor screen and then tracing them using the mouse. After that he would clean up, colour, and after 4 to 5 days print it out to check, with each piece taking 1 to 2 weeks. We can see he used pixel art software such as Z's STAFF, FUNNY and CANDY2.
 
-> This is pretty much the same process I used to create my [1-bit woodblock series](/tag/1bitwoodblocks/), though with a more modern set of tools, and similar to what [Susan Kare did to create her famous MacPaint artwork](https://www.folklore.org/StoryView.py?project=Macintosh&story=MacPaint_Gallery.txt).
+> This is pretty much the same process I used to create my [1-bit woodblock series](/tag/1bitwoodblocks/), though with a more modern set of tools, and similar to what [Susan Kare did for her famous MacPaint artwork](https://www.folklore.org/StoryView.py?project=Macintosh&story=MacPaint_Gallery.txt).
 
 ## Happy 100th
 
