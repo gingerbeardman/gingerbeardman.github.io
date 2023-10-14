@@ -41,7 +41,7 @@ Given that this feature was published in 1987, when Kenichi was 64, that would m
 
 We can read that he used pixel art software such as Z's STAFF, FUNNY and CANDY2. The kite goes further and advertises that its image was drawn using Z's STAFF with Pluskit LEVEL 1, an NEC PC-9801E and printed on an NEC MultiImpact NM-9900 dot matrix printer. 
 
-Handily, many of these tools are [referenced in a repeated feature about ASCII C.G. Tools Festival]([info](https://archive.org/details/login-march-1986/LOGiN%20-%20March%201986/page/n103/mode/1up)) which ran from the middle of November 1985 to the end of February 1986. That feature was essentially an advertisement for Zeit software company and was sponsored by them. 
+Handily, many of these tools are [referenced in a repeated feature about *ASCII C.G. Tools Festival*]([info](https://archive.org/details/login-march-1986/LOGiN%20-%20March%201986/page/n103/mode/1up)) which ran from the middle of November 1985 to the end of February 1986. That feature was essentially an advertisement for Zeit software company and was sponsored by them. 
 
 We can see that Funny was a pixel art package, CANDY2 was a technical drawing app, Z's STAFF was a pixel art app (*Zeit*'s most famous, in fact), Pluskit LEVEL 1 was an "image reader" software add-on. Interestingly, [*Pluskit LEVEL 2*](https://archive.org/details/logi-n-october-1986-raw-scans/LOGiN%20-%20October%201986/page/n458/mode/1up) involved an interface board to allow for direct camera input.
 
