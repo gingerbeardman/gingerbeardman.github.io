@@ -2,6 +2,7 @@
 layout: post
 title: "Kenichi Shinohara's pixel art Ukiyo-e"
 date: '2023-10-13T11:43+01:00'
+last_modified_at: '2023-10-14T19:53+01:00'
 tags:
 - graphics
 - pixelart
@@ -20,7 +21,7 @@ comments: https://twitter.com/gingerbeardman/status/1709587637210665082
 
 ---
 
-From LOGiN Magazine (1987, No 5) comes the story of 篠原賢 Kenichi Shinohara — a "cheerful uncle" from Hyogo Prefecture — who at the age of 60 years old began using an NEC PC-98 to draw pixel art reproductions of Ukiyo-e. He also printed them and made folding screens and kites! Just "for something to do". I like his style! What a guy.
+From LOGiN Magazine (1987, No 5) comes the story of 篠原賢一 Kenichi Shinohara, a "cheerful uncle" from Hyogo Prefecture, who at the age of 60 years old began using an NEC PC-98 to draw pixel art reproductions of Ukiyo-e. He also printed them and made folding screens and kites! Just "for something to do". I like his style! What a guy.
 
 His process involved pasting copies of artwork from books and magazines to his monitor screen and then tracing them using the mouse. After that he would clean up, colour, and after 4 to 5 days print it out to check, with each piece taking 1 to 2 weeks. We can see he used pixel art software such as Z's STAFF, FUNNY and CANDY2.
 
