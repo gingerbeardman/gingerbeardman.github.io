@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tomoya Ikeda - Macintosh Artist
+last_modified_at: '2023-10-17T21:38+01:00'
 tags:
 - macintosh
 - artist
@@ -130,7 +131,7 @@ From 1988 Ikeda-san became fascinated with mandala — the circular figures repr
 : While studying at the University, he became interested in computer graphics, and upon graduating he began creating his own works.
 
 1984
-: Won the Grand Prix at the 2nd ASCII Software Contest for ["Coron"](https://ameblo.jp/koorogiyousyoku/entry-11983851960.html).
+: Won the Grand Prix at the 2nd ASCII Software Contest for ["Coron"](https://archive.org/details/logi-n-january-1985/LOGiN%20-%20January%201985/page/n99/mode/2up) ([link](https://ameblo.jp/koorogiyousyoku/entry-11983851960.html)).
 : Designed the arcade game ["Dai-Kaiju no Gyakusou"](https://en.wikipedia.org/wiki/Daikaijū_no_Gyakushū) for Enzan-Hoshigumi which was released by Taito.
 
 1985
