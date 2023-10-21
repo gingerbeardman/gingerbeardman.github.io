@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kenichi Shinohara's Pixel Art Ukiyo-e"
+title: "Kenichi Shinohara's Pixel Art Ukiyo-e (1987)"
 date: '2023-10-13T11:43+01:00'
 last_modified_at: '2023-10-14T20:50+01:00'
 tags:
