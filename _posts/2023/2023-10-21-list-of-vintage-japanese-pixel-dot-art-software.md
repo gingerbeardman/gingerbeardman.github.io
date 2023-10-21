@@ -92,7 +92,7 @@ A long term goal would be to try each of these out and document them more fully,
 |X1       |turbo Z's STAFF              |                |1985 |Zeit               |
 |X68000   |Aya                          |彩               |1998 |TANE/KOJI          |
 |X68000   |EX-WIN (EX-System)           |                |1996 |Oh! X              |
-|X68000   |Easypaint SX-68K             |                |     |Sharp              |
+|X68000   |Easypaint SX-68K             |                |1991 |First Class Technology |
 |X68000   |G68KversionII-PRO            |                |1989 |OH! Bussiness      |
 |X68000   |G・TOOL                       |G・ツール           |1990 |Zainsoft  |
 |X68000   |Matier                       |マチエール           |1992 |Meteor Art Tech    |
