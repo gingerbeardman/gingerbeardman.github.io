@@ -23,6 +23,8 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 
 My mains sources of information are the treasure trove of scanned magazines on Internet Archive, YouTube, Yahoo! Japan Auctions, and Google search. I've been keeping this list for a while, and the release of [*16bit Sensation: Another Layer*](https://myanimelist.net/anime/54041/16bit_Sensation__Another_Layer) and its inclusion of [*Multi Paint System*](https://www.youtube.com/watch?v=nIdFor2WOnw) made me realise I should make the list public.
 
+Regarding the empty cells: software missing a Japanese name was mostly referred to only by an English title. The rest of the missing information is TBC.
+
 A long term goal would be to try each of these out and document them more fully, but that might never happen if it's left to me, so feel free to get involved!
 
 [![Funny (pixel art software) & CANDY (technical drawing software)](https://cdn.gingerbeardman.com/images/posts/list-of-vintage-japanese-pixel-dot-art-software.jpg)](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n169/mode/2up)
