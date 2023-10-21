@@ -26,7 +26,7 @@ My mains sources of information are the treasure trove of scanned magazines on I
 
 Regarding the empty cells: software missing a Japanese name was mostly referred to only by an English title. The rest of the missing information is TBC.
 
-A long term goal would be to try each of these out and document them more fully, but that might never happen if it's left to me, so feel free to get involved!
+A long term goal would be to try each of these out and document them more fully, but that might never happen if it's left to just me...so feel free to get involved!
 
 [![Funny (pixel art software) & CANDY (technical drawing software)](https://cdn.gingerbeardman.com/images/posts/list-of-vintage-japanese-pixel-dot-art-software.jpg)](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n169/mode/2up)
 
