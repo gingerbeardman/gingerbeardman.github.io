@@ -42,6 +42,7 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 |FM-7/8     |Super Graphic Editor         |スーパーグラフィック エディター|1983 |T&E SOFT               |
 |FM-R50/60  |Z's STAFF Kid FP             |                |1988 |Zeit                   |
 |FM-R60/70  |Z's STAFF Kid FP             |                |1990 |Zeit                   |
+|FM-Towns   |Towns PAINT          |                |1991 |Fujitsu                   |
 |FM-Towns   |Z's STAFF PRO-TOWNS          |                |1991 |Zeit                   |
 |MSX        |(Graphic Editor) Sha Ga Raku |写・画・楽           |1988 |Victor                 |
 |MSX        |CHEESE                       |                |1984 |NEOS                   |
