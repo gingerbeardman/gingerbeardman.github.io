@@ -81,7 +81,6 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 |PC-88      |Z's STAFF Kid VA             |                |1987 |Zeit                   |
 |PC-88, X1  |Ink Pot                      |                |1985 |Zeit                   |
 |PC-98      |Actor98                      |アクター98          |1990 |Soft Studio Panther    |
-|PC-98      |Art/V                        |                |     |SystemSoft             |
 |PC-98      |ArtCore                      |                |1992 |SystemSoft             |
 |PC-98      |Art Frontier                 |アートフロンティア       |1991 |Bijutech      |
 |PC-98      |CANDY                        |                |1984 |ASCII                  |
