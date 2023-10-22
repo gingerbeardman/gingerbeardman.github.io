@@ -2,7 +2,7 @@
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
 date: '2023-10-21T16:56+01:00'
-last_modified_at: '2023-10-22T20:03+01:00'
+last_modified_at: '2023-10-22T20:46+01:00'
 tags:
 - graphics
 - pixelart
@@ -68,10 +68,13 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 |PC-6001    |Picture Editor               |ピクチャーエディタ       |1983 |ASCII                  |
 |PC-88      |ART MASTER 88                |                |1985 |SystemSoft             |
 |PC-88      |da Vinci ~Super Graphic Tool~|ダヴィンチ           |1985 |POPCOM                 |
+|PC-88      |Emi                          |絵美              |1990 |MIINA                  |
+|PC-88      |HR-PAINT3                    |                |1990|                       |
 |PC-88      |LALF                         |                |1989 |Technopolis            |
-|PC-88      |Magic Paint 88 v2.0          |マジックペイント88      |     |Atsushi Oshima         |
-|PC-88      |Magic Paint 88 v3.0          |マジックペイント88      |     |Atsushi Oshima         |
-|PC-88      |Magic Paint VA               |マジックペイントVA      |     |Atsushi Oshima         |
+|PC-88      |LUNA                         |                |1991 |MEW                    |
+|PC-88      |Magic Paint 88 v2.0          |マジックペイント88      |1988 |Atsushi Oshima         |
+|PC-88      |Magic Paint 88 v3.0          |マジックペイント88      |1988 |Atsushi Oshima         |
+|PC-88      |Magic Paint VA               |マジックペイントVA      |1988 |Atsushi Oshima         |
 |PC-88      |nedi3.bin                    |                |1987 |TA(O)                  |
 |PC-88      |Yukara art                   |ユーカラart         |1987 |Tokai Create           |
 |PC-88      |Z's STAFF Kid88              |                |1987 |Zeit                   |
