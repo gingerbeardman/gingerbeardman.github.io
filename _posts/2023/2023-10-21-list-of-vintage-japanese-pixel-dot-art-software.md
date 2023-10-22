@@ -15,22 +15,25 @@ nouns:
 - Internet Archive
 - Yahoo! Japan Auctions
 - YouTube
+- Twitter
 - Google
 comments: https://twitter.com/gingerbeardman/status/1714384114684416041
 
 ---
 
-The table below is a snapshot of [selected columns of a Google Sheet](https://docs.google.com/spreadsheets/d/17RhWfM2wXW4A-MkQdC6W-w00zHM2tbLfpzuSTD8woMs/edit#gid=0) that I'm updating over time. So be sure to check, bookmark or subscribe to that one for the very latest information.
+For a while now I've been collecting references to old Japanese pixel/dot art software. My main sources of information are the treasure trove of scanned magazines on Internet Archive, Twitter archives, YouTube videos, Yahoo! Japan Auctions listings, and Google search. I've been keeping this list for a while, and the release of [*16bit Sensation: Another Layer*](https://myanimelist.net/anime/54041/16bit_Sensation__Another_Layer) and its inclusion of [*Multi Paint System*](https://www.youtube.com/watch?v=nIdFor2WOnw) made me realise I should make the list public.
 
-My mains sources of information are the treasure trove of scanned magazines on Internet Archive, Twitter, YouTube, Yahoo! Japan Auctions, and Google search. I've been keeping this list for a while, and the release of [*16bit Sensation: Another Layer*](https://myanimelist.net/anime/54041/16bit_Sensation__Another_Layer) and its inclusion of [*Multi Paint System*](https://www.youtube.com/watch?v=nIdFor2WOnw) made me realise I should make the list public.
-
-Regarding the empty cells: software missing a Japanese name was mostly referred to only by an English title. The rest of the missing information is TBC.
-
-A long term goal would be to try each of these out and document them more fully, but that might never happen if it's left to just me...so feel free to get involved!
+A long term goal would be to find files for each of these so they can be used and document more fully. But that might never happen if it's left to just me...so feel free to get involved!
 
 [![Funny (pixel art software) & CANDY (technical drawing software)](https://cdn.gingerbeardman.com/images/posts/list-of-vintage-japanese-pixel-dot-art-software.jpg)](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n169/mode/2up)
 
-> ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
+## Selected columns from the big list
+
+The table below is a snapshot of [selected columns of a Google Sheet](https://docs.google.com/spreadsheets/d/17RhWfM2wXW4A-MkQdC6W-w00zHM2tbLfpzuSTD8woMs/edit#gid=0) that I'm updating over time. So be sure to check, bookmark or subscribe to that one for the very latest information.
+
+> Regarding the empty cells: software missing a Japanese name was mostly referred to only by an English title. The rest of the missing information is TBC.
+
+ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
 |Platform   |English                      |Japanese        |Year |Developer              |
 |-----------|-----------------------------|----------------|-----|-----------------------|
