@@ -29,7 +29,7 @@ A long term goal would be to find files for each of these so they can be used an
 
 ## Selected columns from the big list
 
-The table below is a snapshot of [selected columns of a Google Sheet](https://docs.google.com/spreadsheets/d/17RhWfM2wXW4A-MkQdC6W-w00zHM2tbLfpzuSTD8woMs/edit#gid=0) that I'm updating over time. So be sure to check, bookmark or subscribe to that one for the very latest information.
+The table below is a snapshot of [selected columns of a Google Sheet](https://docs.google.com/spreadsheets/d/17RhWfM2wXW4A-MkQdC6W-w00zHM2tbLfpzuSTD8woMs/edit#gid=0) that I'm updating over time. So be sure to check, bookmark or subscribe to that link for the very latest information.
 
 > Regarding the empty cells: software missing a Japanese name was mostly referred to only by an English title. The rest of the missing information is TBC.
 
