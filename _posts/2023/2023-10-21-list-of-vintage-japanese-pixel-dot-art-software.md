@@ -2,7 +2,7 @@
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
 date: '2023-10-21T16:56+01:00'
-last_modified_at: '2023-10-22T20:46+01:00'
+last_modified_at: '2023-10-22T21:07+01:00'
 tags:
 - graphics
 - pixelart
@@ -31,7 +31,7 @@ A long term goal would be to find files for each of these so they can be used an
 
 The table below is a snapshot of [selected columns of a Google Sheet](https://docs.google.com/spreadsheets/d/17RhWfM2wXW4A-MkQdC6W-w00zHM2tbLfpzuSTD8woMs/edit#gid=0) that I'm updating over time. The full spreadsheet contains links to downloads, videos, web pages, magazine mentions, and many other references. So be sure to check, bookmark or subscribe to that link for the very latest information.
 
-Regarding the empty cells: software missing a Japanese name was mostly referred to only by an English title. The rest of the missing information is TBC.
+ Regarding the empty cells: software missing a Japanese name was mostly referred to only by an English title. The rest of the missing information is TBC.
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
