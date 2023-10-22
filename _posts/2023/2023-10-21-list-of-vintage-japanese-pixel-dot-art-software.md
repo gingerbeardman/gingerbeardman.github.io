@@ -105,7 +105,7 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 |PC-98      |Z's STAFF Kid98 v3.0         |                |1990 |Zeit                   |
 |PS-55      |Z's STAFF TRAD               |                |1989 |Zeit                   |
 |SMC        |Graphic Editor               |グラフィックエディター     |1984 |Sony                   |
-|Windows    |Daisy Art                    |デイジーアート         |     |Ichikawa Soft Labratory|
+|Windows 3.1|Daisy Art                    |デイジーアート         |1995 |Ichikawa Soft Labratory|
 |Windows 3.1|SUPER KiD                    |                |1994 |Zeit                   |
 |Windows 3.1|SUPER KiD v2.0               |                |1995 |Zeit                   |
 |Windows 95 |SUPER KiD 95                 |                |1996 |Zeit                   |
