@@ -118,8 +118,8 @@ Total entries: 173
 |PC-88      |Magic Paint 98               |マジックペイント98      |1990|                       |
 |PC-98      |Maguro/Tuna Paint System     |鮪ペイントシステム       |1991 |Woody_RINN             |
 |PC-98      |Marupa                       |まるぱ             |1993 |Ichikawa Soft Labratory|
-|PC-98      |Mapping Paint                |写像ペイント          |1990 |CAST/キャスト              |
-|PC-98      |MEDI-98 / nedi3              |                |1990 |NOZUMU/ちゃい             |
+|PC-98      |Mapping Paint                |写像ペイント          |1990 |CAST / キャスト              |
+|PC-98      |MEDI-98 / nedi3              |                |1990 |NOZUMU / ちゃい             |
 |PC-98      |Monopen                      |ものぺん            |1995 |OEAO                   |
 |PC-98      |Multi Paint System / MPS     |マルチペイントシステム     |1992 |C-Lab                  |
 |PC-98      |Paint System Tool / PST      |似非キース           |1992|hironon                |
