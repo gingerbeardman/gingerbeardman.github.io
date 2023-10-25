@@ -52,3 +52,8 @@ table.donotsort td {
 table.donotsort img {
   margin: 0 auto;
 }
+
+div.table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+}
