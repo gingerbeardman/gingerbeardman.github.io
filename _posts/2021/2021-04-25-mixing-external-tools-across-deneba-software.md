@@ -57,6 +57,7 @@ The table below shows tools present in each of the apps, each with their own sym
 
 # External Tools
 
+<div class="table-wrapper" markdown="block">
 | Software Name          |UltraPaint|Canvas 3.0|artWORKS|artWORKS+|Canvas 3.0+|
 |------------------------|:--------:|:--------:|:------:|:-------:|:--------:|
 |&nbsp;Tool Loader       |          |          | ■      | ■       | ■        |
@@ -190,3 +191,5 @@ A note about later versions of Canvas: version 3.5 provides roughly the same too
 * Mixing External Tools across Deneba software
 * [My System 7 software choices](/2021/04/30/my-system-7-software-choices/)
 * [About the interoperability of System 7 and iOS](/2021/05/03/interoperability-of-system-7-and-ios/)
+
+</div>
