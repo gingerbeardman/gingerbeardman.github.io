@@ -23,7 +23,7 @@ comments: https://twitter.com/gingerbeardman/status/1714384114684416041
 
 For a while now I've been collecting references to old Japanese pixel/dot art software. My main sources of information are the treasure trove of scanned magazines on Internet Archive, Twitter archives, YouTube videos, Yahoo! Japan Auctions listings, and Google search. I've been keeping this list for a while, and the release of [*16bit Sensation: Another Layer*](https://myanimelist.net/anime/54041/16bit_Sensation__Another_Layer) and its inclusion of [*Multi Paint System*](https://www.youtube.com/watch?v=nIdFor2WOnw) made me realise I should make the list public.
 
-A long term goal would be to find files for each of these so they can be used and document more fully. But that might never happen if it's left to just me...so feel free to get involved!
+A long term goal would be to find files for each of these so they can be actively used and documented more fully. But that might never happen if it's left to just me...so feel free to get involved!
 
 [![Funny (pixel art software) & CANDY (technical drawing software)](https://cdn.gingerbeardman.com/images/posts/list-of-vintage-japanese-pixel-dot-art-software.jpg)](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n169/mode/2up)
 
