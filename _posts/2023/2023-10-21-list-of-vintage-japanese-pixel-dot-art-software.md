@@ -2,7 +2,7 @@
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
 date: '2023-10-21T16:56+01:00'
-last_modified_at: '2023-10-25T22:12+01:00'
+last_modified_at: '2023-11-01T20:33+00:00'
 tags:
 - graphics
 - pixelart
@@ -35,7 +35,7 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
-Total entries: 173
+Total entries: 174
 
 <div class="table-wrapper" markdown="block">
 |Platform   |English                      |Japanese        |Year |Developer              |
@@ -47,10 +47,10 @@ Total entries: 173
 |FM-R60/70  |Z's STAFF Kid FP             |                |1990 |Zeit                   |
 |FM-Towns   |ARTemis                      |                |1993 |Ryosuke Matsuuchi      |
 |FM-Towns   |DRAW BOARD2                  |                |1993 |Souji Yamakawa         |
-|FM-Towns   |G-Pen32K                     |                |1995 |おこめ / rice             |
+|FM-Towns   |G-Pen32K                     |                |1995 |rice             |
 |FM-Towns   |Meta Paint 2                 |メタペイント2         |1992 |Oizumi Shigeru         |
 |FM-Towns   |New Transfer                 |ニュートランスファー      |1992 |Hiroshi Toda           |
-|FM-Towns   |Otome / Towns Paint System   |乙女座             |1993 |矢原 / Yabara            |
+|FM-Towns   |Otome / Towns Paint System   |乙女座             |1993 |Yabara            |
 |FM-Towns   |Towns PAINT                  |                |1989 |Fujitsu                |
 |FM-Towns   |TownsFullcolor               |                |1993 |Fujitsu                |
 |FM-Towns   |Z's STAFF PRO-TOWNS          |                |1991 |Zeit                   |
@@ -81,6 +81,7 @@ Total entries: 173
 |MZ-2500    |G-EDIT                       |グラフィックエディタ      |1987 |Data West    |
 |MZ-2500    |ILLUST BOX                   |                |1987 |Rhodes                 |
 |MZ-2500    |Palette                      |ぱれっと            |1987 |Dynaware      |
+|MZ-2500    |Quick MZ Paint               |                |1987 |Minoru Morinaka  |
 |MZ-2500    |Super Paint                  |                |1987 |S.B.C Software         |
 |OS/2       |QueenCy                      |                |2000 |masami                 |
 |PC-100     |Airbrush                     |エアーブラシ          |1984 |ASCII                  |
@@ -89,7 +90,9 @@ Total entries: 173
 |PC-88      |da Vinci ~Super Graphic Tool~|ダヴィンチ           |1985 |POPCOM                 |
 |PC-88      |Emi                          |絵美              |1990 |MIINA                  |
 |PC-88      |HR-PAINT3                    |                |1990|                       |
-|PC-88      |LALF                         |                |1989 |Technopolis            |
+|PC-88, X1  |Ink Pot                      |                |1985 |H.Komatsu              |
+|PC-88      |Ink Pot M                    |                |1987 |H.Komatsu              |
+|PC-88      |LALF ~Hyper Graphic Tool~    |                |1989 |Technopolis            |
 |PC-88      |LUNA                         |                |1991 |MEW                    |
 |PC-88      |Magic Paint 88 v2.0          |マジックペイント88      |1988 |Atsushi Oshima         |
 |PC-88      |Magic Paint 88 v3.0          |マジックペイント88      |1988 |Atsushi Oshima         |
@@ -98,12 +101,10 @@ Total entries: 173
 |PC-88      |Yukara art                   |ユーカラart         |1987 |Tokai Create           |
 |PC-88      |Z's STAFF Kid88              |                |1987 |Zeit                   |
 |PC-88      |Z's STAFF Kid VA             |                |1987 |Zeit                   |
-|PC-88, X1  |Ink Pot                      |                |1985 |Zeit                   |
 |PC-98      |6 Coloured Pencils           |6色鉛筆            |1993 |tsutosan               |
 |PC-98      |Actor98                      |アクター98          |1990 |Soft Studio Panther    |
 |PC-98      |Akane                        |あかね             |1992 |Miruhi Takahara        |
-|PC-98      |Art/V                        |                |     |SystemSoft             |
-|PC-98      |ArtCore                      |                |1992 |SystemSoft             |
+|PC-98      |ArtCore (Art/V?)             |                |1992 |SystemSoft             |
 |PC-98      |Art Frontier                 |アートフロンティア       |1991 |Bijutech      |
 |PC-98      |CANDY                        |                |1984 |ASCII                  |
 |PC-98      |CANDY2                       |                |1985|ASCII                  |
@@ -118,8 +119,8 @@ Total entries: 173
 |PC-88      |Magic Paint 98               |マジックペイント98      |1990|                       |
 |PC-98      |Maguro/Tuna Paint System     |鮪ペイントシステム       |1991 |Woody_RINN             |
 |PC-98      |Marupa                       |まるぱ             |1993 |Ichikawa Soft Labratory|
-|PC-98      |Mapping Paint                |写像ペイント          |1990 |CAST / キャスト              |
-|PC-98      |MEDI-98 / nedi3              |                |1990 |NOZUMU / ちゃい             |
+|PC-98      |Mapping Paint                |写像ペイント          |1990 |CAST            |
+|PC-98      |MEDI-98 / nedi3              |                |1990 |NOZUMU           |
 |PC-98      |Monopen                      |ものぺん            |1995 |OEAO                   |
 |PC-98      |Multi Paint System / MPS     |マルチペイントシステム     |1992 |C-Lab                  |
 |PC-98      |Paint System Tool / PST      |似非キース           |1992|hironon                |
@@ -155,7 +156,7 @@ Total entries: 173
 |Windows 9x |AZPainter2                   |                |2009 |Azel                   |
 |Windows 9x |D-Pixed                      |                |2000 |Jun Doi                |
 |Windows 9x |DoggyPaint                   |                |2000 |HKR.Jon                |
-|Windows 9x |Dot Art Kakiko               |ドット絵カキコ         |2000 |ＹＵＵＫＩ                  |
+|Windows 9x |Dot Art Kakiko               |ドット絵カキコ         |2000 |YUUKI                  |
 |Windows 9x |Dot Art Vacation             |ドット絵バケーション      |2002 |Arue                   |
 |Windows 9x |DotPainterALFAR              |                |2003 |Herohero               |
 |Windows 9x |eco paint                    |エコペイント          |2006 |tyty                   |
@@ -163,9 +164,9 @@ Total entries: 173
 |Windows 9x |Gpen96                       |                |1999 |Hiroshi Igami          |
 |Windows 9x |Graphics Gale                |                |2004 |HUMANBALANCE           |
 |Windows 9x |Hyper KiD                    |                |2000 |Fanfare                |
-|Windows 9x |Janus                        |                |2007 |りげる                    |
+|Windows 9x |Janus                        |                |2007 |Rigeru                    |
 |Windows 9x |Kakukakuoji                  |かくかくおうじ         |2000 |1BITMANIA              |
-|Windows 9x |LitePaint                    |                |2000 |りげる                    |
+|Windows 9x |LitePaint                    |                |2000 |Rigeru                    |
 |Windows 9x |Matilda                      |                |2001 |ViikiSoft              |
 |Windows 9x |mdiapp                       |                |2007 |nattou                 |
 |Windows 9x |Neko no Mori Graphic Editor  |猫の森グラフィックエディタ   |2009 |Neko no Mori Soft      |
