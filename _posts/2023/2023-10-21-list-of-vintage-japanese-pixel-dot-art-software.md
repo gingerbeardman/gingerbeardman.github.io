@@ -35,7 +35,7 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
-Total entries: 200
+Total entries: 199
 
 <div class="table-wrapper" markdown="block">
 |Platform |English|Japanese|Year |Developer|
@@ -236,7 +236,6 @@ Total entries: 200
 |X-Windows|XShodou||1998 |Hiroaki Sakai|
 |X-Windows|xpx||1994 |yav|
 |Dedicated|Aniputer |アニピュータ|1982 |JVC|
-|Dedicated|Graphic Paint Box||1981 |Quantel|
 |Dedicated|Hyper Paint 2||1991 |Shima Seiki|
 |Dedicated|Personal LINKS: PFB-2||1991 |LINKS Corporation|
 |Dedicated|SGX-Hyper Paint||1988 |Shima Seiki|
