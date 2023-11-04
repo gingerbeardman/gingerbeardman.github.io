@@ -17,6 +17,7 @@ nouns:
 - YouTube
 - Twitter
 - Google
+featured: true
 comments: https://twitter.com/gingerbeardman/status/1714384114684416041
 
 ---
