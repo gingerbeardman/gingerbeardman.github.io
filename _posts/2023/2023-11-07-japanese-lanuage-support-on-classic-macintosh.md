@@ -8,7 +8,7 @@ tags:
 - macos
 - system7
 nouns:
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1721896016637825223
 
 ---
 
@@ -30,7 +30,9 @@ Later you could get official Japanese installers for System 7. I've found that i
 
 For later versions of the system you can install Language Kits provided by Apple. For System 7 and 8 the Language Kits had to be bought. For OS 9 they came for free. 
 
-The process requires some additional steps after installing, setting your system to a specific font and registering specific apps to display in Japanese (if they don't automatically). Further [details here](http://www.kenkyuu.net/computer-01.html).
+## Example: Mac OS 9
+
+After installation the process requires some additional steps: set your system to a specific font, and register specific apps to display in Japanese (if they don't automatically).
 
 1. Install "Language Kits"
 Result: 
@@ -44,3 +46,5 @@ Result:
 3. Use "Language Register" to set Japanese on a per-app basis
 Result:
 - You'll be able to see Japanese in the app menus and windows
+
+Further details at [Japanese-ization of OS (Mac OS 9 edition)](http://www.kenkyuu.net/computer-01.html).
