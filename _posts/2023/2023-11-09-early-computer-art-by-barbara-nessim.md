@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early computer art by Barbara Nessim (1984)"
-last_modified_at: '2023-11-09T20:10+00:00'
+last_modified_at: '2023-11-09T21:26+00:00'
 date: '2023-11-09T01:25+00:00'
 tags:
 - graphics
@@ -27,7 +27,7 @@ Whilst searching for something else entirely I stumbled across these images and 
 
 [![PNG](https://cdn.gingerbeardman.com/images/posts/barbara-nissim-byte-1984-09-image-thumbnails.png)](#scans)
 
-They were drawn during a residency at Time Life in NYC, simply because that was the easiest way Barbara could gain access to a colour computer with these capabilities: a Norpak IPS-2 Videotex (NAPLPS/Telidon) system, running on a PDP-11/03. This offered 6 drawing modes (arc, rectangle, circle, line, dot and polygon) and 12 colours plus black and white. That equates to a computer system roughly equivalent to an Apple II running a rudimentary graphics application, in fact you could get an add-on card for the Apple II to give it full [Norpak Telidon capabilities](https://wiki.preterhuman.net/Norpak_Telidon_Graphics_System). The main benefit of the Norpak IPS-2 computer system was that it had pen/stylus input. Interestingly whilst using this software mistakes could not be corrected, which I guess means there was no "undo" or "delete".
+They were drawn during a residency at Time Life in NYC, simply because that was the easiest way Barbara could gain access to a colour computer with these capabilities: a Norpak IPS-2 Videotex (NAPLPS/Telidon) system, running on a PDP-11/03. This offered 6 drawing modes (arc, rectangle, circle, line, dot and polygon) and 12 colours, of which half where shades of grey, plus black and white. That equates to a computer system roughly equivalent to an Apple II running a rudimentary graphics application, in fact you could get an add-on card for the Apple II to give it full [Norpak Telidon capabilities](https://wiki.preterhuman.net/Norpak_Telidon_Graphics_System). The main benefit of the Norpak IPS-2 computer system was that it had pen/stylus input. Interestingly whilst using this software mistakes could not be corrected, which I guess means there was no "undo" or "delete".
 
 My first thought was "such cool pixel art!" but a little bit more reading shows that they are actually vector illustrations. [NAPLPS](https://en.wikipedia.org/wiki/NAPLPS) is an early graphics format which could [represent both text and vector graphics](https://archive.org/details/telidonbook0000unse/page/116/mode/2up) with all coordinates and other properties - such as size, fill pattern, density - encoded as ASCII for easy transmission. It was [designed to display information on TVs](https://www.friendsofcrc.ca/Projects/Telidon/Telidon.html), and also used for display on terminals, in BBS software, and on the [Prodigy online service](https://en.wikipedia.org/wiki/Prodigy_(online_service)). Readers from around the world might be more familiar with Teletext, which is a close relative of Videotex.
 
@@ -53,11 +53,13 @@ Before and after the 80s Barbara carved out a hugely successful career for herse
 - [BYTE magazine, Vol. 08, No. 07 - Videotex (July 1983)](https://drive.google.com/file/d/12QcmZ0Z0srtZBkNTvh5p36En71lSUOXi/view) 49 pages on Videotex and NAPLPS graphics. Excerpted PDF provided by the [Telidon Art Project](https://sites.google.com/view/telidonartproject/). Full magazine available at [archive.org](https://archive.org/details/byte-magazine-1983-07-rescan/page/n85/mode/2up).
 - Video: [Face To Face (1984)](https://www.youtube.com/watch?v=vAKWR2b6yB8) a video made to document her work on the last night of her residency at Time Life, featuring the images loading and displaying in real-time. Very cool!
 - [Innovators of American Illustration (1986)](https://archive.org/details/innovatorsofamer0000unse_v4p1/page/122/mode/2up) an interview by *Steven Heller*.
+- [PC Computing Magazine (1988)](https://archive.org/details/PC_Computing_1988_10/page/n101/mode/2up) "The Art of Barbara Nessim" by *Carol Olsen Day*.
 - [The Education of an Illustrator (2000)](https://archive.org/details/isbn_9781581150759/page/8/mode/2up) an essay by *Barbara Nessim* on her thinking and process as an illustrator.
 - [Digital Creativity: Techniques for Digital Media and the Internet (2001)](https://archive.org/details/digitalcreativit0000wand/page/76/mode/2up) a short interview by *Bruce Wands* with details about her process.
 - [BCS: An artful life (2014)](https://www.bcs.org/articles-opinion-and-research/an-artful-life/) profile by *Catherine Mason*, with details about the system and how images were output.
 - [Communication Arts: Barbara Nessim (2014)](https://www.commarts.com/columns/barbara-nessim) interview by *Anne Telford* where Barbara speaks about archiving and keeping her work fresh.
 - [BGC Craft, Art & Design Oral History Project (2014)](https://bgccraftartdesign.org/items/show/29) **Essential reading.** A great, long interview by *Emily Banas*. Barbara talks about her use of the IPS-2, Apple Macintosh, and Commodore Amiga.
+- Video/Presentation: [Barbara Nessim: From There to Here (2014)](https://youtu.be/--BAMGqbb8c?t=1115) **Essential viewing.** Barbara talks about her work as a pioneer in using computer technology to make art. Featuring work done on a Japanese NEC PC-100 and Commodore Amiga.
 - Video: [The Lost Art of Canada's Doomed Pre-Internet Web (2015)](https://www.youtube.com/watch?v=vjMUe7hkwRs) *Motherboard* video about the Telidon/NAPLPS system, including footage of some cool art created using it.
 - Video: [SVA Career Development presents: Gloria Steinem and Barbara Nessim: In Conversation (2018)](https://www.youtube.com/watch?v=skHHummCJY4) an evening of conversation featuring Gloria Steinem and Barbara Nessim as they discuss their lives as pioneering young women starting their careers in New York City.
 - Audio: [The Illustration Department: Barbara Nessim (2021)](https://illustrationdept.com/podcast/barbara-nessim-talks-to-giuseppe-castellano) talks to *Giuseppe Castellano* about the early days of her illustrious career.
