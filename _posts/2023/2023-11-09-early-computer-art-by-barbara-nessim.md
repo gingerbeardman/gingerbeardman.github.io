@@ -32,14 +32,14 @@ Doing pure illustration using a system meant for creating pages of information i
 
 [Barbara Nessim](http://www.barbaranessim.com) is a name I was already familiar with, as I'd seen her mentioned and [interviewed](https://archive.org/details/verbum502unse/page/8/mode/1up) in [Verbum magazine](/2019/07/10/verbum-journal-of-personal-computer-aesthetics/), [COMPUTE magazine](https://archive.org/details/compute-magazine), in various books about illustration, and regarding her groundbreaking interactive art exhibition/installation [Random Access Memories](https://digitalartarchive.siggraph.org/artwork/random-access-memories-400/) (1992) - which addressed world issues such as migration and population growth and allowed visitors to operate a Macintosh containing the work, selecting images and printing their own customised booklet of her work with their choice of national flag on the cover. [Source 1](https://archive.org/details/computersinartde0000kerl/page/12/mode/1up) [and 2](https://archive.org/details/cyberartsexplori0000unse/page/n207/mode/1up)
 
-![WEBP](https://cdn.gingerbeardman.com/images/posts/barbara-nissim-portrait.webp "Barbara Nessim at the <em>School of Visual Arts</em>, 1986. Photographed by Seiji Kakizaki. <a href=https://www.printmag.com/culturally-related-design/gloria-steinem-barbara-nessim-writers-artists-role-models/>Source</a>")
-{:.tofigure}
-
 Whilst I had seen other early computer work by Barbara - [portraits](https://collections.vam.ac.uk/item/O1257731/ode-to-the-statue-of-photograph-barbara-nessim/), [nudes](https://collections.vam.ac.uk/item/O1257732/reclining-nude-photograph-barbara-nessim/), [abstract](http://www.barbaranessim.com/1980s-computer-works/cikairn7mb0di14fz72fvzubvplcu4) (all of which are worth checking out!) - I had never seen work quite like these images from BYTE. 
 
 The chunky scan-line gaps in between the rows of pixels are the result of these images being photographs of the monitor on which they were displayed. Screenshots had existed since the 1960s but in the 1980s getting such an image of a mainframe was still not easy or universal. Instead images were saved by pointing a camera at the screen, capturing the image on 35mm slide film, and printing them by [cibachrome process](https://www.npg.org.uk/collections/explore/glossary-of-art-terms/cibachrome-print). Which is really saying something! Of course, I think the photos are much better than screenshots because of the scan-lines, the phosphor glow, the bleeding of colours, and the general analog feel to the whole thing.
 
 Before and after the 80s Barbara carved out a hugely successful career for herself, encompassing many different forms of [art, teaching and activism](https://www.printmag.com/culturally-related-design/gloria-steinem-barbara-nessim-writers-artists-role-models/).
+
+![WEBP](https://cdn.gingerbeardman.com/images/posts/barbara-nissim-portrait.webp "Barbara Nessim at the <em>School of Visual Arts</em>, 1986. Photographed by Seiji Kakizaki. <a href=https://www.printmag.com/culturally-related-design/gloria-steinem-barbara-nessim-writers-artists-role-models/>Source</a>")
+{:.tofigure}
 
 ## Further reading (chronological)
 
