@@ -13,6 +13,9 @@ nouns:
 - BYTE
 - Norpak
 - videotex
+- Videotex
+- Telidon
+- Teletext
 comments: https://twitter.com/gingerbeardman/status/1721899788831195635
 
 ---
@@ -34,7 +37,7 @@ Doing pure illustration using a system meant for creating pages of information i
 
 Whilst I had seen other early computer work by Barbara - [portraits](https://collections.vam.ac.uk/item/O1257731/ode-to-the-statue-of-photograph-barbara-nessim/), [nudes](https://collections.vam.ac.uk/item/O1257732/reclining-nude-photograph-barbara-nessim/), [abstract](http://www.barbaranessim.com/1980s-computer-works/cikairn7mb0di14fz72fvzubvplcu4) (all of which are worth checking out!) - I had never seen work quite like these images from BYTE. 
 
-The chunky scan-line gaps in between the rows of pixels are the result of these images being photographs of the monitor on which they were displayed. Screenshots had existed since the 1960s but in the 1980s getting such an image of a mainframe was still not easy or universal. Instead images were saved by pointing a camera at the screen, capturing the image on 35mm slide film, and printing them by [cibachrome process](https://www.npg.org.uk/collections/explore/glossary-of-art-terms/cibachrome-print). Which is really saying something! Of course, I think the photos are much better than screenshots because of the scan-lines, the phosphor glow, the bleeding of colours, and the general analog feel to the whole thing.
+The chunky scan-line gaps in between the rows of pixels are the result of these images being photographs of the monitor on which they were displayed. Screenshots had existed since the 1960s but in the 1980s getting such an image off a mainframe was not yet easy or universal. Instead images were saved by pointing a camera at the screen, capturing the image on 35mm slide film, and printing them by [cibachrome process](https://www.npg.org.uk/collections/explore/glossary-of-art-terms/cibachrome-print). Which is really saying something! Of course, I think the photos are much better than screenshots because of the scan-lines, the phosphor glow, the bleeding of colours, and the general analog feel to the whole thing.
 
 Before and after the 80s Barbara carved out a hugely successful career for herself, encompassing many different forms of [art, teaching and activism](https://www.printmag.com/culturally-related-design/gloria-steinem-barbara-nessim-writers-artists-role-models/).
 
