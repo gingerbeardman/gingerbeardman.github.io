@@ -49,7 +49,7 @@ Before and after the 80s Barbara carved out a hugely successful career for herse
 - [Innovators of American Illustration (1986)](https://archive.org/details/innovatorsofamer0000unse_v4p1/page/122/mode/2up) *Barbara Nessim* interviewed by *Steven Heller*.
 - [The Education of an Illustrator (2000)](https://archive.org/details/isbn_9781581150759/page/8/mode/2up) an essay by *Barbara Nessim* on her thinking and process as an illustrator.
 - [Digital Creativity: Techniques for Digital Media and the Internet (2001)](https://archive.org/details/digitalcreativit0000wand/page/76/mode/2up) a short interview by *Bruce Wands* with details about her process.
-- [An artful life](https://www.bcs.org/articles-opinion-and-research/an-artful-life/) profile of Barbara Nissim by *Catherine Mason*, with details about the system and how images were output.
+- [An artful life (2014)](https://www.bcs.org/articles-opinion-and-research/an-artful-life/) profile of Barbara Nissim by *Catherine Mason*, with details about the system and how images were output.
 - [Barbara Nessim (2014)](https://www.commarts.com/columns/barbara-nessim) *Anne Telford* speaks to illustrator Barbara Nessim about archiving and keeping her work fresh.
 - [The Lost Art of Canada's Doomed Pre-Internet Web (2015)](https://www.youtube.com/watch?v=vjMUe7hkwRs) *Motherboard* video about the Telidon/NAPLPS system, including footage of a ton of cool art created using it.
 - [Barbara Nessim (2021)](https://dinaburgarts.com/barbara-nessim) Profile of Barbara Nessim by *Jessica Eisenthal* of DinaburgArts.
