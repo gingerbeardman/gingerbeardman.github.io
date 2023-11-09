@@ -54,7 +54,7 @@ Before and after the 80s Barbara carved out a hugely successful career for herse
 - [Digital Creativity: Techniques for Digital Media and the Internet (2001)](https://archive.org/details/digitalcreativit0000wand/page/76/mode/2up) a short interview by *Bruce Wands* with details about her process.
 - [BCS: An artful life (2014)](https://www.bcs.org/articles-opinion-and-research/an-artful-life/) profile by *Catherine Mason*, with details about the system and how images were output.
 - [Communication Arts: Barbara Nessim (2014)](https://www.commarts.com/columns/barbara-nessim) interview by *Anne Telford* where Barbara speaks about archiving and keeping her work fresh.
-- [BGC Craft, Art & Design Oral History Project (2014)](https://bgccraftartdesign.org/items/show/29) a great, long interview by *Emily Banas*. Barbara talks about her use of the IPS-2, Apple Macintosh, and Commodore Amiga.
+- [BGC Craft, Art & Design Oral History Project (2014)](https://bgccraftartdesign.org/items/show/29) **Essential reading.** A great, long interview by *Emily Banas*. Barbara talks about her use of the IPS-2, Apple Macintosh, and Commodore Amiga.
 - [The Lost Art of Canada's Doomed Pre-Internet Web (2015)](https://www.youtube.com/watch?v=vjMUe7hkwRs) *Motherboard* video about the Telidon/NAPLPS system, including footage of some cool art created using it.
 - [DinaburgArts: Barbara Nessim (2021)](https://dinaburgarts.com/barbara-nessim) profile by *Jessica Eisenthal*.
 
