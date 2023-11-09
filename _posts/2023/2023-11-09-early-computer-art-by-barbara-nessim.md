@@ -17,6 +17,8 @@ nouns:
 - Videotex
 - Telidon
 - Teletext
+- NAPLPS
+- Time Life
 comments: https://twitter.com/gingerbeardman/status/1721899788831195635
 
 ---
