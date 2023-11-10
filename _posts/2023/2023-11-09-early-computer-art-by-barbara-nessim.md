@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early computer art by Barbara Nessim (1984)"
-last_modified_at: '2023-11-09T22:13+00:00'
+last_modified_at: '2023-11-10T11:16+00:00'
 date: '2023-11-09T01:25+00:00'
 tags:
 - graphics
@@ -64,7 +64,7 @@ Before and after the 80s Barbara carved out a hugely successful career for herse
 - Video: [SVA Career Development presents: Gloria Steinem and Barbara Nessim: In Conversation (2018)](https://www.youtube.com/watch?v=skHHummCJY4) an evening of conversation featuring Gloria Steinem and Barbara Nessim as they discuss their lives as pioneering young women starting their careers in New York City.
 - Audio: [The Illustration Department: Barbara Nessim (2021)](https://illustrationdept.com/podcast/barbara-nessim-talks-to-giuseppe-castellano) talks to *Giuseppe Castellano* about the early days of her illustrious career.
 - [DinaburgArts: Barbara Nessim (2021)](https://dinaburgarts.com/barbara-nessim) profile by *Jessica Eisenthal*.
-- Audio: [Sighs & Whispers: Episode 21 (2021)](https://www.sighswhispers.com/episodes/episode-21-barbara-nessim)  listening.** An interview by *Laura McLaws Helms*. Includes Barbara describing how she operated the IPS-2 using a combination of keyboard commands and pen input.
+- Audio: [Sighs & Whispers: Episode 21 (2021)](https://www.sighswhispers.com/episodes/episode-21-barbara-nessim) **Essential listening.** An interview by *Laura McLaws Helms*. Includes Barbara describing how she operated the IPS-2 using a combination of keyboard commands and pen input.
 
 ----
 
