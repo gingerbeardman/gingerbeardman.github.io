@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early computer art by Barbara Nessim (1984)"
-last_modified_at: '2023-11-10T11:16+00:00'
+last_modified_at: '2023-11-10T12:10+00:00'
 date: '2023-11-09T01:25+00:00'
 tags:
 - graphics
@@ -57,6 +57,7 @@ Before and after the 80s Barbara carved out a hugely successful career for herse
 - [PC Computing Magazine (1988)](https://archive.org/details/PC_Computing_1988_10/page/n101/mode/2up) "The Art of Barbara Nessim" by *Carol Olsen Day* showing the work Barbara did on the NEC PC-100 whilst in Japan, on her Commodore Amiga, and on her Macintosh Plus.
 - [The Education of an Illustrator (2000)](https://archive.org/details/isbn_9781581150759/page/8/mode/2up) an essay by *Barbara Nessim* on her thinking and process as an illustrator.
 - [Digital Creativity: Techniques for Digital Media and the Internet (2001)](https://archive.org/details/digitalcreativit0000wand/page/76/mode/2up) a short interview by *Bruce Wands* with details about her process.
+- [3×3: The Magazine of Contemporary Illustration, Vol. 1, No. 3 (2004)] (http://www.artnet.com/usernet/awc/awc_historyview_details.asp?aid=424871289&awc_id=39038&info_type_id=7) Interview by *Charles Hively*, formerly of Graphis magazine. Touches on the timeless quality of Barbara's human figures and has a succinct description of her digital work along with the challenges of showing it.
 - [Communication Arts: Barbara Nessim (2014)](https://www.commarts.com/columns/barbara-nessim) interview by *Anne Telford* where Barbara speaks about archiving and keeping her work fresh.
 - [BGC Craft, Art & Design Oral History Project (2014)](https://bgccraftartdesign.org/items/show/29) **Essential reading.** A great, long interview by *Emily Banas*. Barbara talks about her use of the IPS-2, Apple Macintosh, and Commodore Amiga.
 - Video/Presentation: [Barbara Nessim: From There to Here (2014)](https://youtu.be/--BAMGqbb8c?t=1115) **Essential viewing.** Barbara talks about her work as a pioneer in using computer technology to make art. Featuring work done on a Japanese NEC PC-100 and Commodore Amiga. Also includes "Face to Face" and aQ&A afterwards with info about the IPS-2 work.
