@@ -57,7 +57,6 @@ Before and after the 80s Barbara carved out a hugely successful career for herse
 - [PC Computing Magazine (1988)](https://archive.org/details/PC_Computing_1988_10/page/n101/mode/2up) "The Art of Barbara Nessim" by *Carol Olsen Day* showing the work Barbara did on the NEC PC-100 whilst in Japan, on her Commodore Amiga, and on her Macintosh Plus.
 - [The Education of an Illustrator (2000)](https://archive.org/details/isbn_9781581150759/page/8/mode/2up) an essay by *Barbara Nessim* on her thinking and process as an illustrator.
 - [Digital Creativity: Techniques for Digital Media and the Internet (2001)](https://archive.org/details/digitalcreativit0000wand/page/76/mode/2up) a short interview by *Bruce Wands* with details about her process.
-- [BCS: An artful life (2014)](https://www.bcs.org/articles-opinion-and-research/an-artful-life/) profile by *Catherine Mason*, with details about the system and how images were output.
 - [Communication Arts: Barbara Nessim (2014)](https://www.commarts.com/columns/barbara-nessim) interview by *Anne Telford* where Barbara speaks about archiving and keeping her work fresh.
 - [BGC Craft, Art & Design Oral History Project (2014)](https://bgccraftartdesign.org/items/show/29) **Essential reading.** A great, long interview by *Emily Banas*. Barbara talks about her use of the IPS-2, Apple Macintosh, and Commodore Amiga.
 - Video/Presentation: [Barbara Nessim: From There to Here (2014)](https://youtu.be/--BAMGqbb8c?t=1115) **Essential viewing.** Barbara talks about her work as a pioneer in using computer technology to make art. Featuring work done on a Japanese NEC PC-100 and Commodore Amiga. Also includes "Face to Face" and aQ&A afterwards with info about the IPS-2 work.
@@ -65,6 +64,7 @@ Before and after the 80s Barbara carved out a hugely successful career for herse
 - Video: [SVA Career Development presents: Gloria Steinem and Barbara Nessim: In Conversation (2018)](https://www.youtube.com/watch?v=skHHummCJY4) an evening of conversation featuring Gloria Steinem and Barbara Nessim as they discuss their lives as pioneering young women starting their careers in New York City.
 - Audio: [The Illustration Department: Barbara Nessim (2021)](https://illustrationdept.com/podcast/barbara-nessim-talks-to-giuseppe-castellano) talks to *Giuseppe Castellano* about the early days of her illustrious career.
 - [DinaburgArts: Barbara Nessim (2021)](https://dinaburgarts.com/barbara-nessim) profile by *Jessica Eisenthal*.
+- Audio: [Sighs & Whispers: Episode 21 (2021)](https://www.sighswhispers.com/episodes/episode-21-barbara-nessim)  listening.** An interview by *Laura McLaws Helms*. Includes Barbara describing how she operated the IPS-2 using a combination of keyboard commands and pen input.
 
 ----
 
