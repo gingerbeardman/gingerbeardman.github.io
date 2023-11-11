@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early computer art by Barbara Nessim (1984)"
-last_modified_at: '2023-11-09T22:13+00:00'
+last_modified_at: '2023-11-11T17:48+00:00'
 date: '2023-11-09T01:25+00:00'
 tags:
 - graphics
@@ -42,7 +42,7 @@ Whilst I had seen other early computer work by Barbara - [portraits](https://col
 
 The chunky scan-line gaps in between the rows of pixels are the result of these images being photographs of the monitor on which they were displayed. Screenshots had existed since the 1960s but in the 1980s getting such an image off a mainframe was not yet easy or universal. Instead images were saved by pointing a camera at the screen, in this case a Video Image Recorder, capturing the image on 35mm slide film, and printing them by [cibachrome process](https://www.npg.org.uk/collections/explore/glossary-of-art-terms/cibachrome-print). Which is really saying something! Of course, I think the photos are much better than screenshots because of the scan-lines, the phosphor glow, the bleeding of colours, and the general analog feel to the whole thing.
 
-Before and after the 80s Barbara carved out a hugely successful career for herself, encompassing many different forms of [art, teaching and activism](https://www.printmag.com/culturally-related-design/gloria-steinem-barbara-nessim-writers-artists-role-models/).
+Barbara was one of few people to embrace computers for art in the early-1980s, when the rest of the art world considered them at best a "fad" and at worst a threat to their existence. Before and after the 1980s Barbara carved out a hugely successful career for herself, encompassing many different forms of [art, teaching and activism](https://www.printmag.com/culturally-related-design/gloria-steinem-barbara-nessim-writers-artists-role-models/). [She continues to create art](http://www.barbaranessim.com).
 
 ![WEBP](https://cdn.gingerbeardman.com/images/posts/barbara-nissim-portrait.webp "Barbara Nessim at the <em>School of Visual Arts</em>, 1986. Photographed by Seiji Kakizaki. <a href=https://www.printmag.com/culturally-related-design/gloria-steinem-barbara-nessim-writers-artists-role-models/>Source</a>")
 {:.tofigure}
@@ -51,10 +51,10 @@ Before and after the 80s Barbara carved out a hugely successful career for herse
 
 - [U&lc (Upper & Lower Case) Magazine, Vol. 10, No. 4 (1983)](https://archive.org/details/ulc-magazine/Volume%2010-4/page/36/mode/2up) **Essential reading.** "From pencils to pixels: artist Barbara Nessim explores the new tool" by *Marion Muller*. Published at a time when there was great unease about the arrival of computers in the world of graphics. This is a fantastic piece that goes into how the works were created, even down to which tools or shapes were used to draw particular aspects of a drawing and how they were layered, and mostly shows Barbara's love for the arc tool! It also describes the IPS-2 computer system. and look at that page layout!
 - [BYTE magazine, Vol. 08, No. 07 - Videotex (July 1983)](https://drive.google.com/file/d/12QcmZ0Z0srtZBkNTvh5p36En71lSUOXi/view) 49 pages on Videotex and NAPLPS graphics. Excerpted PDF provided by the [Telidon Art Project](https://sites.google.com/view/telidonartproject/). Full magazine available at [archive.org](https://archive.org/details/byte-magazine-1983-07-rescan/page/n85/mode/2up).
-- [Graphis 232 (1984)](https://store.graphis.com/products/issue-232-digital-version) "Computer Images" a small introduction to a selection of computer art created by other artists. Notable for her description of how a Video Image Recorder works.
+- [Graphis 232 (1984)](https://store.graphis.com/products/issue-232-digital-version) "Computer Images" Barbara writes a small introduction to a selection of computer art created by other artists. Notable for her description of how a Video Image Recorder works.
 - Video: [Face To Face (1984)](https://www.youtube.com/watch?v=vAKWR2b6yB8) a video made to document her work on the last night of her residency at Time Life, featuring the images loading and displaying in real-time. Very cool!
 - [Innovators of American Illustration (1986)](https://archive.org/details/innovatorsofamer0000unse_v4p1/page/122/mode/2up) an interview by *Steven Heller*.
-- [PC Computing Magazine (1988)](https://archive.org/details/PC_Computing_1988_10/page/n101/mode/2up) "The Art of Barbara Nessim" by *Carol Olsen Day* showing the work Barbara did on the NEC PC-100 whilst in Japan, on her Commodore Amiga, and on her Macintosh Plus.
+- [PC Computing Magazine (1988)](https://archive.org/details/PC_Computing_1988_10/page/n101/mode/2up) "The Art of Barbara Nessim" by *Carol Olsen Day* showing the work Barbara did on the NEC PC-100 whilst in Japan, on her Commodore Amiga, and on her Macintosh Plus, plus mention of her Polaroid Palette video image recorder.
 - [The Education of an Illustrator (2000)](https://archive.org/details/isbn_9781581150759/page/8/mode/2up) an essay by *Barbara Nessim* on her thinking and process as an illustrator.
 - [Digital Creativity: Techniques for Digital Media and the Internet (2001)](https://archive.org/details/digitalcreativit0000wand/page/76/mode/2up) a short interview by *Bruce Wands* with details about her process.
 - [BCS: An artful life (2014)](https://www.bcs.org/articles-opinion-and-research/an-artful-life/) profile by *Catherine Mason*, with details about the system and how images were output.
