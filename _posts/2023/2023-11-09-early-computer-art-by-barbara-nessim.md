@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early computer art by Barbara Nessim (1984)"
-last_modified_at: '2023-11-11T17:48+00:00'
+last_modified_at: '2023-11-12T18:03+00:00'
 date: '2023-11-09T01:25+00:00'
 tags:
 - graphics
@@ -12,6 +12,7 @@ tags:
 - videotex
 nouns:
 - BYTE
+- Norpak IPS-2
 - Norpak
 - videotex
 - Videotex
@@ -27,7 +28,7 @@ Whilst searching for something else entirely I stumbled across these images and 
 
 [![PNG](https://cdn.gingerbeardman.com/images/posts/barbara-nissim-byte-1984-09-image-thumbnails.png)](#scans)
 
-They were drawn during a residency at Time Life in NYC, simply because that was the easiest way Barbara could gain access to a colour computer with these capabilities: a Norpak IPS-2 Videotex (NAPLPS/Telidon) system, running on a PDP-11/03. This offered 6 drawing modes (arc, rectangle, circle, line, dot and polygon) and 12 colours, of which half where shades of grey, plus black and white. And at a resolution of 256x200. That equates to a computer system roughly equivalent to an Apple II running a rudimentary graphics application, in fact you could get an add-on card for the Apple II to give it full [Norpak Telidon capabilities](https://wiki.preterhuman.net/Norpak_Telidon_Graphics_System). The main benefit of the Norpak IPS-2 computer system was that it had pen/stylus input. Interestingly whilst using this software mistakes could not be corrected, which I guess means there was no "undo" or "delete".
+They were drawn during a residency at Time Life in NYC, simply because that was the easiest way Barbara could gain access to a colour computer with suitable capabilities: a Norpak IPS-2 Videotex (NAPLPS/Telidon) system. This offered 6 drawing modes (arc, rectangle, circle, line, dot and polygon) and 12 colours, of which half where shades of grey, plus black and white. And at a resolution of 256x200. That equates to a computer system roughly equivalent to an Apple II running a rudimentary graphics application, in fact you could get an add-on card for the Apple II to give it full [Norpak Telidon capabilities](https://wiki.preterhuman.net/Norpak_Telidon_Graphics_System). The main benefit of the Norpak IPS-2 computer system was that it had pen/stylus input. Interestingly whilst using this software mistakes could not be corrected, which I guess means there was no "undo" or "delete". The system comprised two monitors, one showed the artwork and the other showed the software status menu system. The software was controlled by keyboard and the points were entered using the pen input.
 
 My first thought was "such cool pixel art!" but a little bit more reading shows that they are actually vector illustrations. [NAPLPS](https://en.wikipedia.org/wiki/NAPLPS) is an early graphics format which could [represent both text and vector graphics](https://archive.org/details/telidonbook0000unse/page/116/mode/2up) with all coordinates and other properties - such as size, fill pattern, density - encoded as ASCII for easy transmission. It was [designed to display information on TVs](https://www.friendsofcrc.ca/Projects/Telidon/Telidon.html), and also used for display on terminals, in BBS software, and on the [Prodigy online service](https://en.wikipedia.org/wiki/Prodigy_(online_service)). Readers from around the world might be more familiar with Teletext, which is a close relative of Videotex.
 
