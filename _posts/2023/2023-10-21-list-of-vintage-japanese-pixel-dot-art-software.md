@@ -2,7 +2,7 @@
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
 date: '2023-10-21T16:56+01:00'
-last_modified_at: '2023-11-04T01:39+00:00'
+last_modified_at: '2023-11-12T18:49+00:00'
 tags:
 - graphics
 - pixelart
@@ -26,7 +26,7 @@ For a while now I've been collecting references to old Japanese pixel/dot art so
 
 A long term goal would be to find files for each of these so they can be actively used and documented more fully. But that might never happen if it's left to just me...so feel free to get involved!
 
-[![Funny (pixel art software) & CANDY (technical drawing software)](https://cdn.gingerbeardman.com/images/posts/list-of-vintage-japanese-pixel-dot-art-software.jpg)](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n169/mode/2up)
+[![Funny (pixel art software) & CANDY (technical drawing software)](https://cdn.gingerbeardman.com/images/posts/list-of-vintage-japanese-pixel-dot-art-software.jpg)](https://archive.org/details/login-march-1985/LOGiN%20-%20March%201985/page/n75/mode/2up)
 
 ## Selected columns from the big list
 
