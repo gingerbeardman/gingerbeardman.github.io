@@ -25,7 +25,7 @@ The most amazing thing about YOYOZO, for me, is that launch version weighs in at
 
 ## Buy my game
 
-If you own a Playdate you can buy YOYOZO now at [https://play.date/games/yoyozo/].
+If you own a Playdate you can buy YOYOZO now at [https://play.date/games/yoyozo/](https://play.date/games/yoyozo/).
 
 If you don't own a Playdate, well, [what are you waiting for](https://play.date)?
 
