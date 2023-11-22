@@ -38,7 +38,7 @@ The drive to produce a small game started after I sent the first playable versio
 
 Even so, I wondered how easy it would be to build the game out with an eye on keeping file size "low". I thought back to the days of my youth where whole games would fit on a single floppy disk, with room to spare. If they could do it, shouldn't I give it a try?
 
-It's worth noting that even with this mindset, I didn't make a huge sustained effort to meet the goal. On the contrary, it was just something I simply kept in mind as development proceeded. For that reason, I'm sure are more ways the game could be made even smaller than it is, with the exact same code and content. For example, I never tried finding the most optimal format for things like music and particle data which are two of the larger embedded data.
+It's worth noting that even with this mindset, I didn't make a huge sustained effort to meet the goal. On the contrary, it was just something I simply kept in mind as development proceeded. For that reason, I'm sure there are more ways the game could be made even smaller than it is, with the exact same code and content. For example, I never tried finding the most optimal format for things like music and particle data which are two of the larger embedded data.
 
 Finally, it's worth noting that this is not a challenge, or me throwing down the gauntlet in any way. It's easy enough to make a smaller game, be it similar or entirely different, you'd just have to make more or different choices along the way. This was just me doing something nerdy as an additional limitation on top of the already enjoyable limitations of developing for Playdate.
 
