@@ -50,9 +50,9 @@ Finally, it's worth noting that this is not a challenge, or me throwing down the
 
 2. A second reason is that whilst I use the base Playdate Lua SDK, *I don't use any of the additional "CoreLibs"*. The only additional graphics functions I use are for drawing outlined or filled circles, so I use two of my own wrapper functions that are similar to those from CoreLibs/graphics but mine smaller and more specific. For timers, I use a simple frame/tick system, an approach which has pros and cons, but it's good enough for me.
 
-3. A third reason is that I made the tough decision to reduce system assets which means *there is no animated launcher card*. This was a tough one, but it added so much to the file size I decided against it.
+3. A third reason is that I made the tough decision to reduce system assets, which means *there is no animated launcher card*. This was a tough one, but it added so much to the file size I decided against it.
 
-4. Finally, I noticed is that *including data inside your game code* often trumps how well you can compress it and store it externally. For example I tried compressing the music data and storing it in an external file, but the game final file size was larger than if I embedded the data in my Lua code. Plus, it's faster as it doesn't need to load an additional external file.
+4. Finally, I noticed that *including data inside your game code* often trumps how well you can compress it and store it externally. For example I tried compressing the music data and storing it in an external file, but the game final file size was larger than if I embedded the data in my Lua code. Plus, it's faster as it doesn't need to load an additional external file.
 
 ---
 
