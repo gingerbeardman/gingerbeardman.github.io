@@ -23,7 +23,7 @@ It's called YOYOZO and in it you control a space yo-yo and have to collect stars
 
 The most amazing thing about YOYOZO, for me, is that launch version weighs in at a file size of only 39KB. I still find it hard to believe this as the game contains so much!
 
-## Buy me
+## Buy my game
 
 If you own a Playdate you can buy YOYOZO now at [https://play.date/games/yoyozo/].
 
