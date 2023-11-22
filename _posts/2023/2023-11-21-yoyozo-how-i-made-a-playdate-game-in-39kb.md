@@ -5,7 +5,7 @@ date: '2023-11-21T23:59+00:00'
 tags:
 - graphics
 - playdate
-- challenge
+- optimisation
 - gamedev
 - filesize
 nouns:
@@ -22,7 +22,7 @@ A game I made for the Playdate handheld was released today! [Go buy it](https://
 
 It's called YOYOZO and in it you control a space yo-yo and have to collect stars in a sort of cosmic ballet. Well, at first it might feel a little like being on a fairground ride, but eventually you'll become good enough for it to feel like ballet.
 
-The most amazing thing about this game, for me, is that launch version weighs in at a file size of *only 39KB*. I still find it hard to believe this as the game contains so much! In this blog post I'll detail how I achieved this.
+The most amazing thing about this game, for me, is that launch version weighs in at a file size of *only 39KB*. I still find it hard to believe as the game contains so much! In this blog post I'll go into the details.
 
 ## Playdate?
 
@@ -36,11 +36,11 @@ If you own a Playdate you can buy the game now at [https://play.date/games/yoyoz
 
 The drive to produce a small game started after I sent the first playable version to testers from the Playdate Squad Discord Server. Steve at [*Scenic Route Software*](http://scenicroutesoftware.com), purveyor of quality video games, commented how tiny the game was. At that point it was 18KB, but had no music or sound effects or polish. There was a long way to go. 
 
-Even so, I wondered how easy it would be to build the game out with an eye on keeping file size "low". I thought back to the days of my youth where whole games would fit on a single floppy disk, with room to spare. If they could do it, shouldn't I give it a try?
+Even so, I wondered how doable it would be to build the game out with an eye on keeping file size "low". I thought back to the days of my youth where whole games would fit on a single floppy disk, with room to spare. If they could do it, shouldn't I give it a try?
 
-It's worth noting that even with this mindset, I didn't make a huge sustained effort to meet the goal. On the contrary, it was just something I simply kept in mind as development proceeded. For that reason, I'm sure there are more ways the game could be made even smaller than it is, with the exact same code and content. For example, I never tried finding the most optimal format for things like music and particle data which are two of the larger sets of embedded data.
+It's worth noting that even with this mindset, I didn't make a huge sustained effort to meet the goal. On the contrary, it was just something I simply kept in mind as development proceeded. For that reason, I'm sure there are more ways the game could be made even smaller than it is, with the exact same code and content. For example, I never tried finding the most optimal format for things like music and particle data which are the two largest sets of embedded data.
 
-Finally, it's worth noting that this is not a challenge, or me throwing down the gauntlet in any way. It's easy enough to make a smaller game, be it similar or entirely different, you'd just have to make more or different choices along the way. This was just me doing something nerdy as an additional limitation on top of the already enjoyable limitations of developing for Playdate.
+Finally, it's worth noting that this is not a challenge, or me throwing down the gauntlet in any way. It's easy enough to make a smaller game, be it similar or entirely different, you'd just have to make different choices along the way. This was just me doing something nerdy as an additional limitation on top of the already enjoyable limitations of developing for Playdate.
 
 ----
 
@@ -48,7 +48,7 @@ Finally, it's worth noting that this is not a challenge, or me throwing down the
 
 1. The main reason for the small file size is the fact that *the game does not use any digital sound files, and very few bitmap images* (the launch card and animation have to be bitmaps, and in-game only the logo and fonts are bitmaps). Game graphics are all drawn using only shapes (lines, rects, circles) and fills (black, white, and dither patterns).
 
-2. A second reason is that whilst I use the base Playdate Lua SDK, *I don't use any of the additional "CoreLibs"*. The only additional graphics functions I use are for drawing outlined or filled circles, so I use two of my own wrapper functions that are similar to those from CoreLibs/graphics but mine smaller and more specific. For timers, I use a simple frame/tick system, an approach which has pros and cons, but it's good enough for me.
+2. A second reason is that whilst I use the base Playdate Lua SDK, *I don't use any of the additional "CoreLibs"*. The only extra graphics functions I needed were for drawing outlined or filled circles, so I use two of my own wrapper functions that are similar to those from CoreLibs/graphics but mine are smaller and more specific. For timers, I use a simple frame/tick system, an approach which has pros and cons, but it's good enough for me.
 
 3. A third reason is that I made the tough decision to reduce system assets, which means *there is no animated launcher card*. This was a tough one, but it added so much to the file size I decided against it.
 
