@@ -23,11 +23,11 @@ It's called YOYOZO and in it you control a space yo-yo and have to collect stars
 
 The most amazing thing about this game, for me, is that launch version weighs in at a file size of *only 39KB*. I still find it hard to believe this as the game contains so much! In this blog post I'll detail how I achieved this.
 
-## Buy my game
+## Playdate?
 
-If you own a Playdate you can buy the game now at [https://play.date/games/yoyozo/](https://play.date/games/yoyozo/).
+Playdate is a handheld gaming system with a unique crank input method. I don't use the cranl in this game, but I have done in the past and will do in the future. 
 
-If you don't own a Playdate, well, [what are you waiting for](https://play.date)?
+If you own a Playdate you can buy the game now at [https://play.date/games/yoyozo/](https://play.date/games/yoyozo/). If you don't own a Playdate, well, [what are you waiting for](https://play.date)?
 
 ![YOYOZO](https://cdn.gingerbeardman.com/images/posts/yoyozo-teaser.gif#playdate)
 
