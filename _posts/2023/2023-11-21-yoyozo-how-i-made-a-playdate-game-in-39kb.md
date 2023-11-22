@@ -5,7 +5,7 @@ date: '2023-11-21T23:59+00:00'
 tags:
 - graphics
 - playdate
-- challenge
+- optimisation
 - gamedev
 - filesize
 nouns:
