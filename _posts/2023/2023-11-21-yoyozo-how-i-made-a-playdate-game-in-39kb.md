@@ -29,7 +29,7 @@ If you own a Playdate you can buy YOYOZO now at [https://play.date/games/yoyozo/
 
 If you don't own a Playdate, well, [what are you waiting for](https://play.date)?
 
-![YOYOZO](/images/posts/yoyozo-teaser.gif#playdate)
+![YOYOZO](https://cdn.gingerbeardman.com/images/posts/yoyozo-teaser.gif#playdate)
 
 ## But...*why?*
 
@@ -59,7 +59,7 @@ Finally, it's worth noting that this is not a challenge, or me throwing down the
 
 I thought it would be cool to outline the main features and how each contributes to the total file size. Not that the sizes are how much of the compiled binary. A blank project with an empty update function results in a binary of only 147 bytes.
 
-![CHART](/images/posts/yoyozo-chart.png)
+![CHART](https://cdn.gingerbeardman.com/images/posts/yoyozo-chart.png)
 
 |Content|KB|%|
 |-------------|--|--|
@@ -90,7 +90,7 @@ I thought it would be cool to outline the main features and how each contributes
 
 I thought it would be fun to write a manual in the old-school style. I love reading those sorts of manuals, where the developer gives you a little glimpse behind the curtain so you get an understanding of how the game works, with some small hints and tips littered throughout for the most inquisitive players. You can [download the manual from the game page](https://play.date/games/yoyozo/).
 
-![YOYOZO Manual](/images/posts/yoyozo-manual.png)
+![YOYOZO Manual](https://cdn.gingerbeardman.com/images/posts/yoyozo-manual.png)
 
 ----
 
