@@ -22,7 +22,7 @@ A game I made for the Playdate handheld was released today! [Go buy it](https://
 
 It's called YOYOZO and in it you control a space yo-yo and have to collect stars in a sort of cosmic ballet. Well, at first it might feel a little like being on a fairground ride, but eventually you'll become good enough for it to feel like ballet.
 
-The most amazing thing about this game, for me, is that launch version weighs in at a file size of *only 39KB*. I still find it hard to believe this as the game contains so much! In this blog post I'll detail how I achieved this.
+The most amazing thing about this game, for me, is that launch version weighs in at a file size of *only 39KB*. I still find it hard to believe as the game contains so much! In this blog post I'll go into the details.
 
 ## Playdate?
 
