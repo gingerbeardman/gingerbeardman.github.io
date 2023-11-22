@@ -89,7 +89,7 @@ I thought it would be cool to outline the main features and how each contributes
 
 ## Manual/Guide
 
-I thought it would be fun to write a manual/player's guide in the old-school style. I love reading those sorts of manuals, where the developer gives you a little glimpse behind the curtain so you get an understanding of how the game works, with some small hints and tips littered throughout for the most inquisitive players. You can [download the manual from the game page](https://play.date/games/yoyozo/).
+I thought it would be fun to write a manual/player's guide in the old-school style. I love reading those sorts of manuals, where the developer gives you a little glimpse behind the curtain so you get an understanding of how the game works, with some small hints and tips littered throughout—for the most inquisitive players! If that sounds like your thing, you can [download the manual from the game page](https://play.date/games/yoyozo/).
 
 [![YOYOZO Manual](https://cdn.gingerbeardman.com/images/posts/yoyozo-manual.png)](https://play.date/games/yoyozo/)
 
