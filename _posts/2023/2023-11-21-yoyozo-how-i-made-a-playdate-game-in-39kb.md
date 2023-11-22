@@ -12,6 +12,7 @@ nouns:
 - Playdate Squad Discord Server
 - Playdate Squad Testers
 - Playdate
+- Catalog
 - YOYOZO
 - CANO-Lab
 comments: https://twitter.com/gingerbeardman/status/1727030817116053611
@@ -82,7 +83,7 @@ I thought it would be cool to outline the main features and how each contributes
 ## Abandoned and removed features
 
 - I tried a bunch of stuff during development. Such as asteroid fields or meteor showers that introduced obstacles that needed to be avoided, and black holes that would magnetically attract the ball. But I felt they detracted from the pureness of the concept, so I didn't go any further with them.
-- The positions of stars are randomly generated, but I have implemented a fixed "daily" layout in the game, which is really fun. It's a different experience to be able to play the same layout over and over, improving your execution of the same moves and eking out higher and higher scores. I'll reintroduce that option when Playdate allows score boards that reset daily.
+- The positions of stars are randomly generated, but I have implemented a fixed "daily" layout in the game, which is really fun. It's a different experience to be able to play the same layout over and over, improving your execution of the same moves and eking out higher and higher scores. I'll reintroduce that option when Playdate Catalog allows score boards that reset daily.
 
 ----
 
