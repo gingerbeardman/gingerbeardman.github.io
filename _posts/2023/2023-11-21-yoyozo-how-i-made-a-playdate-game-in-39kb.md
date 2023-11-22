@@ -57,7 +57,7 @@ Finally, it's worth noting that this is not a challenge, or me throwing down the
 
 ## Breakdown
 
-I thought it would be cool to outline the main features and how each contributes to the total file size. Not that the sizes are how much of the compiled binary. A blank project with an empty update function results in a binary of only 147 bytes.
+I thought it would be cool to outline the main features and how each contributes to the total file size. Note that the sizes are expressed as quantities of the compiled binary, rather than uncompiled source code. It's also worth noting thay a blank project with an empty update function results in a binary of only 147 bytes.
 
 ![CHART](https://cdn.gingerbeardman.com/images/posts/yoyozo-chart.png)
 
