@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YOYOZO (or, how I made a Playdate game in 39KB)"
+title: "YOYOZO (or, how I made a Playdate game in 39KiB)"
 last_modified_at: '2023-11-22T20:59+00:00'
 date: '2023-11-21T23:59+00:00'
 tags:
@@ -23,7 +23,7 @@ A game I made for the Playdate handheld was released today! [Go buy it](https://
 
 It's called YOYOZO and in it you control a space yo-yo and have to collect stars in a sort of cosmic ballet. Well, at first it might feel a little like being on a fairground ride, but eventually you'll become good enough for it to feel like ballet.
 
-The most amazing thing about this game, for me, is that launch version weighs in at a file size of *only 39KB*. I still find it hard to believe as the game contains so much! In this blog post I'll go into the details.
+The most amazing thing about this game, for me, is that launch version weighs in at a file size of *only 39KiB*. I still find it hard to believe as the game contains so much! In this blog post I'll go into the details.
 
 ## Playdate?
 
@@ -35,7 +35,7 @@ If you own a Playdate you can buy the game now at [https://play.date/games/yoyoz
 
 ## But...*why?*
 
-The drive to produce a small game started after I sent the first playable version to testers from the Playdate Squad Discord Server. Steve at [*Scenic Route Software*](http://scenicroutesoftware.com), purveyor of quality video games, commented how tiny the game was. At that point it was 18KB, but had no music or sound effects or polish. There was a long way to go. 
+The drive to produce a small game started after I sent the first playable version to testers from the Playdate Squad Discord Server. Steve at [*Scenic Route Software*](http://scenicroutesoftware.com), purveyor of quality video games, commented how tiny the game was. At that point it was 18KiB, but had no music or sound effects or polish. There was a long way to go. 
 
 Even so, I wondered how doable it would be to build the game out with an eye on keeping file size "low". I thought back to the days of my youth where whole games would fit on a single floppy disk, with room to spare. If they could do it, shouldn't I give it a try?
 
@@ -63,19 +63,19 @@ I thought it would be cool to outline the main features and how each contributes
 
 ![CHART](https://cdn.gingerbeardman.com/images/posts/yoyozo-chart.png)
 
-|Content|KB|%|
+|Content|KiB|%|
 |-------------|--|--|
-|Main code| 19KB | 49%|
-|Two music tracks | 5.5KB| 14%|
-|Three bitmap fonts | 2.5KB| 6%|
-|Synthesized sound effects| 2.5KB| 6%|
-|Custom particle system | 2.0KB| 5%|
-|Animated system icon | 2.0KB| 5%|
-|Animated system card | 2.0KB| 5%|
-|Pulp music engine (modified) | 1.5KB| 4%|
-|Online scoring system| 0.5KB| 1.25%|
-|How to play instructions | 0.4KB| 1%|
-|Custom soundtrack capability | 0.1KB| 0.25%|
+|Main code| 19 | 49|
+|Two music tracks | 5.5| 14|
+|Three bitmap fonts | 2.5| 6%|
+|Synthesized sound effects| 2.5| 6|
+|Custom particle system | 2.0| 5|
+|Animated system icon | 2.0| 5|
+|Animated system card | 2.0| 5|
+|Pulp music engine (modified) | 1.5| 4|
+|Online scoring system| 0.5| 1.25|
+|How to play instructions | 0.4| 1|
+|Custom soundtrack capability | 0.1| 0.25|
 
 "Main code" contains: physics simulation, game structure and state management, multi-layered scoring and bonus system, score/stat tracking, loading and saving stats and settings, path recording and playback, animated introduction, plus the following *dynamic* systems: scrolling starfield, screen shake, music system, sound effects system.
 

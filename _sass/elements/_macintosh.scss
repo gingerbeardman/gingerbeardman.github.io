@@ -1,22 +1,39 @@
 body.macintosh {
   background-color: $bg-color-macintosh;
 
+  .c-content {
+    overflow-x: unset;
+  }
+
+  *::selection {
+    background: $bg-color-macintosh-selected;
+  }
+
+  a,
+  .tag-filter span,
+  .c-post-card__date,
+  .c-post-card__title,
+  .c-post-card .c-post-card__title,
+  .c-post-card .c-post-card__date,
   .c-post__date,
   .c-tags a {
     color: $color-text;
   }
 
   a:hover,
+  .c-post-card:hover,
+  .c-post-card__title:hover,
+  .c-post-card:hover .c-post-card__title,
   .c-tags a:hover {
-    // color: $color-white;
+    color: $color-darker;
     background-color: transparent;
-    transition: none;
   }
 
+  figcaption,
   .c-logo__link span,
   .c-byline__desc,
   .c-byline__desc a {
-    // color: $color-white;
+    color: $color-text;
   }
 
   code,
@@ -24,16 +41,22 @@ body.macintosh {
     background-color: transparent;
   }
 
+  .c-post-card,
   .c-header__inner {
-    border-color: $color-gray;
+    border-color: $color-text;
   }
 
   blockquote {
-    color: $color-dark !important;
-    border-left: 2px solid $color-dark;
+    color: $color-darker;
+    border-color: $color-darker;
   }
 
-  .highlighter-rouge .highlight {
-    background-color: $bg-color-mac-code;
+  .tablesorter-default th, .tablesorter-default td {
+    border-color: $color-darker;
+  }
+
+  hr {
+    background-color: $color-darker;
+    border-top: 1px solid $color-darker;
   }
 }

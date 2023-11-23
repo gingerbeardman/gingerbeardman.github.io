@@ -6,7 +6,7 @@ body.piece {
   }
 
   *::selection {
-    background: $color-white;
+    background: $bg-color-piece-selected;
   }
 
   a,
