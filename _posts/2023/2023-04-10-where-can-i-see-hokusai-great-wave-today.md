@@ -5,6 +5,9 @@ tags:
 - art
 - hokusai
 - japanese
+- museum
+- gallery
+- automation
 nouns:
 - Katsushika Hokusai
 - Hokusai
