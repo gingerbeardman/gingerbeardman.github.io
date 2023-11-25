@@ -26,7 +26,6 @@ nouns:
 - SameGame
 - MaciGame
 - MSX Magazine Eternal Preservation Edition 2
-featured: true
 comments: https://twitter.com/gingerbeardman/status/1692975554452918537
 style: |
   p img {
