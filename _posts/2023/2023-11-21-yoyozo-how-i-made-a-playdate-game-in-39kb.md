@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "YOYOZO (or, how I made a Playdate game in 39KiB)"
-last_modified_at: '2023-11-23T22:44+00:00'
+last_modified_at: '2023-11-25T02:38+00:00'
 date: '2023-11-21T23:59+00:00'
 tags:
 - graphics
@@ -41,7 +41,9 @@ Even so, I wondered how doable it would be to build the game out with an eye on 
 
 It's worth noting that even with this mindset, I didn't make a huge sustained effort to meet the goal. On the contrary, it was just something I simply kept in mind as development proceeded. For that reason, I'm sure there are more ways the game could be made even smaller than it is, with the exact same code and content. For example, I never tried finding the most optimal format for things like music and particle data which are the two largest sets of embedded data.
 
-Finally, it's worth noting that this is not a challenge, or me throwing down the gauntlet in any way. It's easy enough to make a smaller game, be it similar or entirely different, you'd just have to make different choices along the way. This was just me doing something nerdy as an additional limitation on top of the already enjoyable limitations of developing for Playdate.
+Finally, this is not a challenge, or me throwing down the gauntlet in any way. It's easy enough to make a smaller game, be it similar or entirely different, you'd just have to make different choices along the way. This was just me doing something nerdy as an additional limitation on top of the already enjoyable limitations of developing for Playdate.
+
+That said, I think every game developer could sharpen their tools by spending time making something for a platform with more limitations than their usual one.
 
 ----
 
@@ -67,7 +69,7 @@ I thought it would be cool to outline the main features and how each contributes
 |-------------|--|--|
 |Main code| 19 | 49|
 |Two music tracks | 5.5| 14|
-|Three bitmap fonts | 2.5| 6%|
+|Three bitmap fonts | 2.5| 6|
 |Synthesized sound effects| 2.5| 6|
 |Custom particle system | 2.0| 5|
 |Animated system icon | 2.0| 5|
