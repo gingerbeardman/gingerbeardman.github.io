@@ -63,7 +63,7 @@ I thought it would be cool to outline the main features and how each contributes
 
 ![CHART](https://cdn.gingerbeardman.com/images/posts/yoyozo-chart.png)
 
-|Content|KiB|%|
+|Content|Kilobytes|%|
 |-------------|--|--|
 |Main code| 19 | 49|
 |Two music tracks | 5.5| 14|
