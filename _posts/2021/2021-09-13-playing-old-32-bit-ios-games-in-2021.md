@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Playing old 32-bit iOS games in 2021
+last_modified_at: '2023-11-25T13:27+00:00'
+date: '2021-09-13T23:59+00:00'
 tags:
 - ios
 - patreon
