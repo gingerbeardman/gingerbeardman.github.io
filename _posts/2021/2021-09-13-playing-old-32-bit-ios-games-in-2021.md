@@ -34,7 +34,7 @@ Anyway, I took one or both of those things as a sign to download and backup a co
 
 1. Bought a used [device that supports iOS 10](https://en.wikipedia.org/wiki/IOS_10#Supported_devices) (or earlier, if you prefer)
 2. Downgraded my device to iOS 10.3.3 using [leetdown](https://github.com/rA9stuff/LeetDown)
-3. Installed my two .ipa files using [Apple Configurator 2](https://support.apple.com/en-gb/apple-configurator)
+3. Installed [my two .ipa files](/2021/03/08/two-old-llamasoft-iphone-and-ipad-games/) using [Apple Configurator 2](https://support.apple.com/en-gb/apple-configurator)
 4. Confirmed that the games work by playing a little of each
 
 ## Jailbreaking the device
@@ -53,9 +53,12 @@ Anyway, I took one or both of those things as a sign to download and backup a co
 
 ## Video
 
-I could capture the attract loop using QuickTime Player but for some reason it the recording crashed whenever a sound was played.
+I could capture the attract loop using QuickTime Player but for some reason the recording crashed whenever a sound was played. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RZSjR4dIykU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+And [here's an Instagram video of me playing the main game](https://www.instagram.com/p/CTwautQAXUp/), albeit quite badly is I'm only using one hand!
 
 ## Gridrunner
 
-For some reason Clutch and other decrypting apps don't work with Gridrunner, but maybe that could be installed with [AppSync Unified](https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified)? One for another day.
+For some reason Clutch and other decrypting apps don't work with Gridrunner. Since then, [somebody was kind enough to create a cracked version and upload it to Internet Archive](https://archive.org/details/gridrunner-ios). 
