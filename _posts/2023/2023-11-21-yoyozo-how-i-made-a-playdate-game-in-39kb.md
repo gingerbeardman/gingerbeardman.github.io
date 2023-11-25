@@ -69,7 +69,7 @@ I thought it would be cool to outline the main features and how each contributes
 |-------------|--|--|
 |Main code| 19 | 49|
 |Two music tracks | 5.5| 14|
-|Three bitmap fonts | 2.5| 6%|
+|Three bitmap fonts | 2.5| 6|
 |Synthesized sound effects| 2.5| 6|
 |Custom particle system | 2.0| 5|
 |Animated system icon | 2.0| 5|
