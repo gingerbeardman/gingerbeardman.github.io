@@ -99,4 +99,8 @@ Common game variables I use are: game tick (my alternative to timer), x-coordina
 
 There are [one or more libraries](https://github.com/PossiblyAxolotl/pdParticles) available that can be used to manage particles in a performant way on Playdate. Though I tend to code my own system that is bespoke to the game I'm working on at the time (I start each game from a blank file and use minimal libraries, force of habit). But the important thing for such limited platforms, especially when using Lua, is to use a pool of particles so that you're not constantly creating and destroying particles which would wreak havoc on performance and in particular cause overuse of Lua'a garbage collector.
 
-That's about all I wanted to go into, so thanks for reading!
+----
+
+### Further reading
+
+* [YOYOZO (or, how I made a Playdate game in 39KiB)](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)

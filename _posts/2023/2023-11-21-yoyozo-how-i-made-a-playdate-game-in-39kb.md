@@ -107,6 +107,10 @@ Thanks to CANO-Lab and Playdate Squad Testers.
 
 ----
 
+### Further reading
+
+* [Easter egg emoji: converting pixels into particles](/2023/11/26/easter-egg-emoji-converting-pixels-into-particles/)
+
 ### Elsewhere
 
 * 2023-11-24 — [Hacker Newsletter](http://eepurl.com/iEHB8M)
