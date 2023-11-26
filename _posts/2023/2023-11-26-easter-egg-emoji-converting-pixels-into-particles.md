@@ -7,7 +7,7 @@ tags:
 - playdate
 - optimisation
 - gamedev
-- filesize
+- particles
 nouns:
 - katamono
 - Playdate
