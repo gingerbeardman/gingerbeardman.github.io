@@ -34,8 +34,7 @@ I started off by coding the patterns by hand, as a test, but my calculations wer
 
 Instead of plotting values by hand in code I figured that it would make more sense if I could draw the patterns and then somehow convert them into coordinates. I use [Piskel](/2023/2023-05-10-piskel-for-playdate/) as my Playdate-centric graphics editor. It's a really useful tool. So I drew a few emoji style patterns, keeping in mind that they would be converted into a cluster of points and exploded from an origin. This took a bit of experimentation but I ended up with a sort of already exploded look.
 
-<!-- https://cdn.gingerbeardman.com -->
-![EMOJI](/images/posts/yoyozo-emoji.png#pixel)
+![EMOJI](https://cdn.gingerbeardman.com/images/posts/yoyozo-emoji.png#pixel)
 {:class="screen"}
 
 To get the pixel data out of Piskel in text form I make use of its "export as a C file" feature. This results in code definitions similar to the below. (I use a script that does some simple regex search/replace to reformat these definitions to be a little more succinct and readable in my Lua code.)
@@ -76,7 +75,7 @@ The way I do this is to read the point data in from a grid of pixels, offsetting
 
 > Below is a work-in-progress GIF captured on 14 September 2023, shortly after getting the feature working. This animation also shows an early version of the HUD and debug values for ball size and something else I can't quite remember.
 
-![EMOJI](/images/posts/yoyozo-emoji.gif#playdate)
+![EMOJI](https://cdn.gingerbeardman.com/images/posts/yoyozo-emoji.gif#playdate)
 
 The finishing touches (not shown in the above animation) were to add some small amount of *pseudo-randomisation* to the initial rotation of the emoji, the initial "colour" of each particle, and changing the coordinates of each point slightly so they appear more organic and move at slightly different speeds. I eventually settled on over a dozen such pixel patterns in the game (how many have you spotted?). Once your score is higher than 50M points every explosion is an emoji! You can [read about that in the game manual](https://play.date/games/yoyozo/#gameListingMoreInfo).
 
