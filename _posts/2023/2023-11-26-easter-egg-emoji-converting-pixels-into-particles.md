@@ -32,7 +32,7 @@ I started off by coding the patterns by hand, as a test, but my calculations wer
 
 ## Pixels as code
 
-Instead of plotting values by hand in code I figured that it would make more sense if I could draw the patterns and then somehow convert them into coordinates. I use [Piskel](/2023/2023-05-10-piskel-for-playdate/) as my Playdate-centric graphics editor. It's a really useful tool. So I drew a few emoji style patterns, keeping in mind that they would be converted into a cluster of points and exploded from an origin. This took a bit of experimentation but I ended up with a sort of already exploded look.
+Instead of plotting values by hand in code I figured that it would make more sense if I could draw the patterns and then somehow convert them into coordinates. I use [Piskel](/2023/05/10/piskel-for-playdate/) as my Playdate-centric graphics editor. It's a really useful tool. So I drew a few emoji style patterns, keeping in mind that they would be converted into a cluster of points and exploded from an origin. This took a bit of experimentation but I ended up with a sort of already exploded look.
 
 ![EMOJI](https://cdn.gingerbeardman.com/images/posts/yoyozo-emoji.png#pixel)
 {:class="screen"}
