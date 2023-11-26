@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "YOYOZO (or, how I made a Playdate game in 39KiB)"
-last_modified_at: '2023-11-25T02:38+00:00'
+last_modified_at: '2023-11-26T17:57+00:00'
 date: '2023-11-21T23:59+00:00'
 tags:
 - graphics
@@ -93,9 +93,9 @@ I thought it would be cool to outline the main features and how each contributes
 
 ## Manual/Guide
 
-I thought it would be fun to write a manual/player's guide in the old-school style. I love reading those sorts of manuals, where the developer gives you a little glimpse behind the curtain so you get an understanding of how the game works, with some small hints and tips littered throughout—for the most inquisitive players! If that sounds like your thing, [download the manual from the game page](https://play.date/games/yoyozo/).
+I thought it would be fun to write a manual/player's guide in the old-school style. I love reading those sorts of manuals, where the developer gives you a little glimpse behind the curtain so you get an understanding of how the game works, with some small hints and tips littered throughout—for the most inquisitive players! If that sounds like your thing, [download the manual from the game page](https://play.date/games/yoyozo/#gameListingMoreInfo).
 
-[![YOYOZO Manual](https://cdn.gingerbeardman.com/images/posts/yoyozo-manual.png)](https://play.date/games/yoyozo/)
+[![YOYOZO Manual](https://cdn.gingerbeardman.com/images/posts/yoyozo-manual.png)](https://play.date/games/yoyozo/#gameListingMoreInfo)
 
 ----
 
@@ -109,6 +109,7 @@ Thanks to CANO-Lab and Playdate Squad Testers.
 
 ### Elsewhere
 
+* 2023-11-24 — [Hacker Newsletter](http://eepurl.com/iEHB8M)
 * 2023-11-22 — [Hacker News](https://news.ycombinator.com/item?id=38372936)
 * 2023-11-22 — [Tildes](https://tildes.net/~games/1cbz/yoyozo_or_how_i_made_a_playdate_game_in_39kb)
 * 2023-11-23 — [Time Extension](https://www.timeextension.com/news/2023/11/yoyozo-is-a-new-playdate-game-inspired-by-the-japanese-cult-classic-pendulumania)
