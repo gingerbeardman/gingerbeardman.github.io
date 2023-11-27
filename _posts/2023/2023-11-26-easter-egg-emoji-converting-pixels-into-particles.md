@@ -13,6 +13,7 @@ nouns:
 - Playdate
 - Catalog
 - YOYOZO
+- Pac-Man
 - Flicky
 - SEGA
 comments: https://twitter.com/gingerbeardman/status/1728879639987364015
