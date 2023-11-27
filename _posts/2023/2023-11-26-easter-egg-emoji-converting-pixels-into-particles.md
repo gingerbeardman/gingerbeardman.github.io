@@ -69,7 +69,7 @@ static const uint32_t emoji-table-11-11_data[3][121] = {
 
 ## Pixels as points
 
-With this data in hand, my plan was to convert them into points expressed in an angle and distance from an origin. This way of expressing points the [polar coordinate system](https://en.wikipedia.org/wiki/Polar_coordinate_system) so there was no need to invent anything, I just needed to code a function that would take a grid of pixels expressed as *(x, y)* and convert them to a series of distances and angles expressed as *(r, θ)*.
+With this data in hand, my plan was to convert them into points expressed as an angle and distance from an origin. This way of expressing points the [polar coordinate system](https://en.wikipedia.org/wiki/Polar_coordinate_system) so there was no need to invent anything, I just needed to code a function that would take a grid of pixels expressed as *(x, y)* and convert them to a series of distances and angles expressed as *(r, θ)*.
 
 The way I do this is to read the point data in from a grid of pixels, offsetting that data by half the width and height of the *odd-sized* grid so that the centre of the grid *(0, 0)* is the middle of the centre pixel. And finally I convert those adjusted *(x, y)* values to polar *(r, θ)* coordinates. This worked really well!
 
