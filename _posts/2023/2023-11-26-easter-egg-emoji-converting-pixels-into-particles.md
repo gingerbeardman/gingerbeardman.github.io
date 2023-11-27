@@ -73,7 +73,7 @@ With this data in hand, my plan was to convert them into points expressed in an 
 
 The way I do this is to read the point data in from a grid of pixels, offsetting that data by half the width and height of the *odd-sized* grid so that the centre of the grid *(0, 0)* is the middle of the centre pixel. And finally I convert those adjusted *(x, y)* values to polar *(r, θ)* coordinates. This worked really well!
 
-> Below is a work-in-progress GIF captured on 14 September 2023, shortly after getting the feature working. This animation also shows an early version of the HUD and debug values for ball size and something else I can't quite remember.
+> Below is a work-in-progress GIF captured on 14 September 2023, shortly after getting the feature working. This animation also shows an early version of the HUD and debug values for ball size and the length of the beam.
 
 ![EMOJI](https://cdn.gingerbeardman.com/images/posts/yoyozo-emoji.gif#playdate)
 
