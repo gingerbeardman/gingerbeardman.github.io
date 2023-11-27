@@ -110,6 +110,7 @@ Thanks to CANO-Lab and Playdate Squad Testers.
 ### Further reading
 
 * [Easter egg emoji: converting pixels into particles](/2023/11/26/easter-egg-emoji-converting-pixels-into-particles/)
+* [YOYOZO manual/player's guide](https://play.date/games/yoyozo/#gameListingMoreInfo)
 
 ### Elsewhere
 

@@ -104,3 +104,4 @@ There are [one or more libraries](https://github.com/PossiblyAxolotl/pdParticles
 ### Further reading
 
 * [YOYOZO (or, how I made a Playdate game in 39KiB)](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
+* [YOYOZO manual/player's guide](https://play.date/games/yoyozo/#gameListingMoreInfo)
