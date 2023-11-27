@@ -114,6 +114,6 @@ Thanks to CANO-Lab and Playdate Squad Testers.
 ### Elsewhere
 
 * 2023-11-24 — [Hacker Newsletter](http://eepurl.com/iEHB8M)
+* 2023-11-23 — [Time Extension](https://www.timeextension.com/news/2023/11/yoyozo-is-a-new-playdate-game-inspired-by-the-japanese-cult-classic-pendulumania)
 * 2023-11-22 — [Hacker News](https://news.ycombinator.com/item?id=38372936)
 * 2023-11-22 — [Tildes](https://tildes.net/~games/1cbz/yoyozo_or_how_i_made_a_playdate_game_in_39kb)
-* 2023-11-23 — [Time Extension](https://www.timeextension.com/news/2023/11/yoyozo-is-a-new-playdate-game-inspired-by-the-japanese-cult-classic-pendulumania)
