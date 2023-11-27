@@ -15,7 +15,7 @@ nouns:
 - YOYOZO
 - Flicky
 - SEGA
-comments: https://twitter.com/gingerbeardman/status/1727030817116053611
+comments: https://twitter.com/gingerbeardman/status/1728879639987364015
 style: |
   p.screen img {
     width: 100%;
