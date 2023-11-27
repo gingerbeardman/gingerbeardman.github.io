@@ -78,7 +78,7 @@ The way I do this is to read the point data in from a grid of pixels, offsetting
 
 ![EMOJI](https://cdn.gingerbeardman.com/images/posts/yoyozo-emoji.gif#playdate)
 
-The finishing touches (not shown in the above animation) were to add some small amount of *pseudo-randomisation* to the initial rotation of the emoji, the initial "colour" of each particle, and changing the coordinates of each point slightly so they appear more organic and move at slightly different speeds. I eventually settled on over a dozen such pixel patterns in the game (how many have you spotted?). Once your score is higher than 50M points every explosion is an emoji! You can [read about that in the game manual](https://play.date/games/yoyozo/#gameListingMoreInfo).
+The finishing touches (not shown in the above animation) were to add some small amount of *pseudo-randomisation* to the initial rotation of the emoji, the initial "colour" of each particle, and changing the coordinates of each point slightly so they appear more organic and move at slightly different speeds. I eventually settled on over a dozen such pixel patterns in the game (how many have you spotted?). Once your score is higher than 50M points every explosion is an emoji! [Check out the game manual](https://play.date/games/yoyozo/#gameListingMoreInfo).
 
 ----
 
