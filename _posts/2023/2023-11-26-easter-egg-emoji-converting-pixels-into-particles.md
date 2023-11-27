@@ -5,7 +5,7 @@ date: '2023-11-26T20:41+00:00'
 tags:
 - graphics
 - playdate
-- optimisation
+- easteregg
 - gamedev
 - particles
 nouns:
