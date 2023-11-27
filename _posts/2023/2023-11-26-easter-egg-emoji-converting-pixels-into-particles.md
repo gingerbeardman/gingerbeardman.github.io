@@ -92,7 +92,7 @@ If you're wondering how you can get pseudo-random values, the main method I use 
 
 So, taking a cue from that wonderful Flicky logic, I use modulus—which returns the remainder of a division—as my main mechanism of generating pseudo-random values. It ensures a value in the range *[0,n-1]*. They key thing to note is that if you base it on values in your game system that are constantly changing you can get seemingly random values that have the benefit of being deterministic if the player is skilled enough at repeating their inputs. The deterministic thing is how pretty much all the old school arcade games operated from Pac-Man to Flicky and more.
 
-Common game variables I use are: game tick (my alternative to timer), x-coordinate, y-coordinate, speed, angle, or combinations of more than one of these. I used this approach in YOYOZO for the starfield particles, and in [Sparrow Solitaire](/2023/04/13/sparrow-solitaire-for-playdate/) for the pseudo-random falling particles that make up the [dynamic weather effects](https://www.reddit.com/r/PlaydateConsole/comments/12vcrm6/dynamic_weather_effects_and_more_in_the_sparrow/).
+Common game variables I use are: game tick (my alternative to timer), x-coordinate, y-coordinate, speed, angle, or combinations of more than one of these. I also used this approach in YOYOZO for the starfield particles, and in [Sparrow Solitaire](/2023/04/13/sparrow-solitaire-for-playdate/) for the pseudo-random falling particles that make up the [dynamic weather effects](https://www.reddit.com/r/PlaydateConsole/comments/12vcrm6/dynamic_weather_effects_and_more_in_the_sparrow/).
 
 ----
 
