@@ -22,7 +22,7 @@ style: |
   }
 ---
 
-I'm [fascinated with Moai](/2019/08/14/moai-games/) so I always try to squeeze an appearance into my games. Moai in video games is a meme, or [easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)), going all the way back to 1983. But my game YOYOZO ([out now for the Playdate handheld](https://play.date/games/yoyozo/)) is about capturing stars in space with a yoyo, so how could I get a Moai in it?
+I'm [fascinated with Moai](/2019/08/14/moai-games/) so I always try to squeeze an appearance into my games. Moai in video games is a meme, or [easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)), going all the way back to 1983. But my game YOYOZO ([out now for the Playdate handheld](https://play.date/games/yoyozo/)) is about capturing stars in space using a yoyo, so how could I get a Moai in it?
 
 The source of my inspiration was a trip to Japan back in 2004 (my only one, so far). Visiting in August meant that one of the things we did was go to an [annual hanabi fireworks festival](https://www.japan-guide.com/e/e2267.html), where I saw [katamono](https://blog.gaijinpot.com/four-types-of-japanese-fireworks/) for the first time. These are fireworks that explode in the shapes of drawings, like a smiley face or a magic 8-ball. I was amazed and the experience has stuck with me for over 20 years. Maybe I could add Moai into YOYOZO by making the explosions appear like the katamono?
 
