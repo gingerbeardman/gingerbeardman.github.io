@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "YOYOZO (or, how I made a Playdate game in 39KiB)"
-last_modified_at: '2023-11-26T17:57+00:00'
+last_modified_at: '2023-11-30T23:02+00:00'
 date: '2023-11-21T23:59+00:00'
 tags:
 - graphics
@@ -62,7 +62,7 @@ That said, I think every game developer could sharpen their tools by spending ti
 
 ## Breakdown
 
-I thought it would be cool to outline the main features and how each contributes to the total file size. Note that the sizes are expressed as quantities of the compiled binary, rather than uncompiled source code. It's also worth noting that a blank project with an empty update function results in a compiled binary of only 147 bytes.
+I thought it would be cool to outline the main features and how each contributes to the total file size. Note that the sizes are expressed as quantities of the compiled binary, rather than uncompiled source code. It's also worth noting that a blank project with an empty update function results in a compiled binary of only 147 bytes. Playdate compiles to Lua bytecode.
 
 ![CHART](https://cdn.gingerbeardman.com/images/posts/yoyozo-chart.png)
 
@@ -114,6 +114,7 @@ Thanks to CANO-Lab and Playdate Squad Testers.
 
 ### Elsewhere
 
+* 2023-11-30 - [Ars Technica](https://arstechnica.com/gaming/2023/11/my-long-quest-to-revive-a-90s-windows-gaming-cult-classic/)
 * 2023-11-24 — [Hacker Newsletter](http://eepurl.com/iEHB8M)
 * 2023-11-23 — [Time Extension](https://www.timeextension.com/news/2023/11/yoyozo-is-a-new-playdate-game-inspired-by-the-japanese-cult-classic-pendulumania)
 * 2023-11-22 — [Hacker News](https://news.ycombinator.com/item?id=38372936)
