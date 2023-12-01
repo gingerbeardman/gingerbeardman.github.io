@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function() {
 						$('#query').focus();
 						document.title = 'Searching "'+ query +'" ⌘I  Get Info';
 					} else {
-						e.innerHTML = "<p>Zero, zilch, zip, nada, nothing.</p>"
+						e.innerHTML = "<p>Zero, zilch, zip, nada, nothing.</p><p><a href=\"https://www.google.co.uk/search?q="+ encodeURIComponent(query + " site:blog.gingerbeardman.com") +"\" target=\"_blank\">Search the blog with the same query using Google</a>.</p>"
 					}
 				} else
 					e.innerHTML = 'Try the index <a href="/">/</a>'
