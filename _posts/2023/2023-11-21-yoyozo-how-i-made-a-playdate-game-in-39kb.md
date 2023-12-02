@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "YOYOZO (or, how I made a Playdate game in 39KiB)"
-last_modified_at: '2023-11-30T23:02+00:00'
+last_modified_at: '2023-12-02T14:23+00:00'
 date: '2023-11-21T23:59+00:00'
 tags:
 - graphics
@@ -44,7 +44,7 @@ It's worth noting that even with this mindset, I didn't make a huge sustained ef
 
 Finally, this is not a challenge, or me throwing down the gauntlet in any way. It's easy enough to make a smaller game, be it similar or entirely different, you'd just have to make different choices along the way. This was just me doing something nerdy as an additional limitation on top of the already enjoyable limitations of developing for Playdate.
 
-That said, I think every game developer could sharpen their tools by spending time making something for a platform with more limitations than their usual one.
+That said, I think every game developer should regularly make a point of writing code for an underpowered device as part of their own personal development—there are so many lessons to learn.
 
 ----
 
