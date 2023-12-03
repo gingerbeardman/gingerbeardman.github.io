@@ -76,3 +76,9 @@ This approach could be taken further if the Playdate SDK allowed multiple colour
 Back in October 2021 I bought transparency film in a range of colours to make a physical screen overlay, inspired by early arcade games like Space Invaders and the Vectrex gaming system, which worked but is obviously more hassle as the transparency picks up lint and gets dirty really quickly. This split of blue/green was for sky/grass in a 3D golf game.
 
 ![JPG](https://cdn.gingerbeardman.com/images/posts/playdate-physical-overlays.jpg)
+
+----
+
+### Further reading
+
+* [Ball und Panzer Golf: making a Playdate game in a week](/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/)

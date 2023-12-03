@@ -130,3 +130,9 @@ But the bigger question is do I want it to be bigger than that? There are no sho
 Let's see what happens.
 
 > If you have a Playdate and would like to test this game I have a limited number of spots available. Get in touch on Twitter via the comments link below.
+
+----
+
+### Further reading
+
+* [The first colour Playdate game?](/2023/07/09/the-first-colour-playdate-game/)
