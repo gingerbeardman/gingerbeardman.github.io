@@ -32,7 +32,7 @@ The main way I make the music into more than a static track is to apply a dynami
 
 ## Dynamic BPM
 
-I use this method in [*YOYOZO*](https://play.date/games/yoyozo/) because it uses "chip tune" music data representing songs composed by my friend Jamie Hamshere using [Playdate Pulp](https://play.date/pulp/). A playback engine for this data, written by Pulp creator Shaun Inman, works beautifully when integrated into games written using Lua and the Playdate SDK. I added hook to allow me to set the BPM at any point to any value. The end result is that the BPM of the music scales from 130 to 135 as your score increases. As you improve at the game you'll notice the music speed up ever so slightly along with an increase in tension and anxiety.
+I use this method in [*YOYOZO*](https://play.date/games/yoyozo/) because it uses "chip tune" music data representing songs composed by my friend Jamie Hamshere using [*Playdate Pulp*](https://play.date/pulp/). A playback engine for this data, written by Pulp creator Shaun Inman, works beautifully when integrated into games written using Lua and the [*Playdate SDK*](https://play.date/dev/). I added hook to allow me to set the BPM at any point to any value. The end result is that the BPM of the music scales from 130 to 135 as your score increases. As you improve at the game you'll notice the music speed up ever so slightly along with an increase in tension and anxiety.
 
 <iframe width="100%" height="140" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1685873466&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
