@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dynamic music and sound techniques for video games"
+last_modified_at: '2023-12-09T22:15+00:00'
 date: '2023-12-09T01:22+00:00'
 tags:
 - audio
@@ -24,7 +25,7 @@ comments: https://twitter.com/gingerbeardman/status/1733297871170961808
 
 ---
 
-The only aspect of game development I've not attempted myself is the music. I mostly use royalty free music of Japanese origin (just because I dig their vibe, man) or in rare cases I pay friends (like the amazing Jamie Hamshere) to write music specifically for a game. Maybe one day that will change, but until then I'm enjoying gaining more understanding and control of the music in my games. Whilst I develop games for [Playdate](https://play.date) these techniques are general enough to apply anywhere.
+The only aspect of game development I've not attempted myself is the music. I mostly use royalty free music of Japanese origin (just because I dig their vibe, man) as in the case of [Sparrow Solitaire](https://soundcloud.com/mac-vogelsang/sets/sparrow-solitaire) or [Fore! Track](https://twitter.com/gingerbeardman/status/1732555533863751691) or in rare cases I pay friends (like the amazing Jamie Hamshere) to write music specifically for a game as in the case of [YOYOZO](https://soundcloud.com/gingerbeardman/sets/yoyozo-soundtrack). Maybe one day that will change, but until then I'm enjoying gaining more understanding and control of the music in my games. Whilst I develop games for [Playdate](https://play.date) these techniques are general enough to apply anywhere.
 
 The main way I make the music into more than a static track is to apply a dynamic, reactive, or adaptive effect in one way or another. In this blog post I'll go into how I've achieved this. Please note this is by no means an exhaustive list, rather it's just the ones I have personally used.
 
