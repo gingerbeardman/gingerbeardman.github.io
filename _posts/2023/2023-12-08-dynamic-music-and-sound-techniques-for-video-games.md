@@ -24,7 +24,7 @@ comments: https://twitter.com/gingerbeardman/status/
 
 ---
 
-The only aspect of game development I've not attempted myself is the music. I mostly use royalty free music of Japanese origin (just because I dig their vibe, man) or in rare cases I pay friends (like the amazing Jamie Hamshere) to write music specifically for a game. Maybe one day that will change, but until then I'm making baby by having more understanding and control of the music in my games.
+The only aspect of game development I've not attempted myself is the music. I mostly use royalty free music of Japanese origin (just because I dig their vibe, man) or in rare cases I pay friends (like the amazing Jamie Hamshere) to write music specifically for a game. Maybe one day that will change, but until then I'm enjoying gaining more understanding and control of the music in my games.
 
 The main way I make the music into more than a static track is to make it dynamic in one way or another. In this blog post I'll go into how I've achieved this. Please note this is by no means an exhaustive list, rather it's just the ones I have personally used.
 
