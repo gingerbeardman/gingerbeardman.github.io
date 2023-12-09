@@ -94,7 +94,7 @@ For an example, in my game [ICARUS](https://gingerbeardman.itch.io/icarus) I'm u
 |**15**|**12.399**|**70.449**|**58.050**|**90.78%**|
 
 
-My goal was to find three loops of increasing length and with a high percentage loop quality. After some experimentation and listening, I decided on loops 0, 9, and 15 (table only shows the top 15 loops from this track, even though their percentage loop match are not 100% they still sound like good loops, so selecting these loops was a case of finding three of suitable length and content. PyMusicLooper will let you audition the loops directly, so there's no need to use audio editor.
+My goal was to find three loops of increasing length and with a high percentage loop quality. After some experimentation and listening, I decided on loops 0, 9, and 15 (table only shows the top 15 loops from this track, even though their percentage loop match are not 100% they still sound like good loops, so selecting these loops was a case of finding three of suitable length and content. PyMusicLooper will let you audition the loops directly, so there's no need to use an audio editor.
 
 Using the Playdate SDK I can do `setRange()` on the audio track to change the playback range and the music will loop between those new points when the playhead reaches the end of the range. For this reason, this method does not provide immediate results so is better used to signify a large change in progress as the delay until the change is noticed will be an unknown amount of time.
 
