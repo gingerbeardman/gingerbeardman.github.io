@@ -8,6 +8,7 @@ tags:
 - easteregg
 - gamedev
 - particles
+- yoyozo
 nouns:
 - katamono
 - Playdate

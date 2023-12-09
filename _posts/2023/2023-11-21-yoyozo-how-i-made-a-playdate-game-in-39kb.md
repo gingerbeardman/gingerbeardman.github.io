@@ -9,6 +9,7 @@ tags:
 - optimisation
 - gamedev
 - filesize
+- yoyozo
 nouns:
 - Playdate Squad Discord Server
 - Playdate Squad Testers

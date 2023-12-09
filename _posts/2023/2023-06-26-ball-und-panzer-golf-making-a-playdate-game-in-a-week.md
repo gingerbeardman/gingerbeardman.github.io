@@ -8,6 +8,7 @@ tags:
 - playdate
 - japanese
 - videogame
+- foretrack
 nouns:
 - Ball und Panzer Golf
 - Girls und Panzer
