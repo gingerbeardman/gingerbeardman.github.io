@@ -46,7 +46,7 @@ Another technique I use in [*YOYOZO*](https://play.date/games/yoyozo/), again ma
 
 <iframe width="100%" height="140" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1685873439&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-For sound effects, I vary the playback sample rate to change the pitch of sound effects. This prevents the same sound effect becoming monotonous. Two examples might be Lara Croft in the first Tomb Raider game, [groaning the same way every time she climbs up a platform](https://youtu.be/Roi2UelYGsU?si=_17TmHon5JenRxCM&t=1079) compared with [the rich variety of sounds of Mario's foot steps on different surfaces](https://www.youtube.com/watch?v=JGQeQmUuMas).
+For sound effects, I vary the playback sample rate to change the pitch of sound effects. This prevents the same sound effect becoming monotonous. Two examples might be *Lara Croft* in the first *Tomb Raider* game, [groaning the same way every time she climbs up a platform](https://youtu.be/Roi2UelYGsU?si=_17TmHon5JenRxCM&t=1079) compared with [the rich variety of sounds when *Mario* walks on different surfaces](https://www.youtube.com/watch?v=JGQeQmUuMas).
 
 ----
 
