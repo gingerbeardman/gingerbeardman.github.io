@@ -20,7 +20,7 @@ nouns:
 - YOYOZO
 - Fore! Track
 - ICARUS
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1733297871170961808
 
 ---
 
