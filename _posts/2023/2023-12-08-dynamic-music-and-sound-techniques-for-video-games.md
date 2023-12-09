@@ -36,7 +36,7 @@ I use this method in [*YOYOZO*](https://play.date/games/yoyozo/) because it uses
 
 <iframe width="100%" height="140" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1685873466&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-Of course, it's possible to do this in a pre-recorded song stored as a digital music file, but it's much more difficult for that to respond to the what the player does in the game. An example that takes an interesting approach to this is the track ["Sunny Day" from the game Vib Ribbon](https://www.youtube.com/watch?v=1_iZh_2li4M), whose tempo increases over the duration of the song.
+Of course, it's possible to do this in a pre-recorded song stored as a digital music file, but it's much more difficult for that to respond to the what the player does in the game. An example that takes an interesting approach to this is the track ["Sunny Day" from the game Vib Ribbon](https://www.youtube.com/watch?v=1_iZh_2li4M), and indeed the rest of its soundtrack, where tempo changes over the duration of each song.
 
 ----
 
