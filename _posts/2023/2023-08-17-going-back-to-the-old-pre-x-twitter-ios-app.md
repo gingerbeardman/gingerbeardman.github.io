@@ -2,7 +2,7 @@
 layout: post
 title: Going back to the old (pre-X) Twitter iOS app
 date: '2023-08-17T19:39+01:00'
-last_modified_at: '2023-12-10T14:13+00:00'
+last_modified_at: '2023-12-10T15:39+00:00'
 tags:
 - twitter
 - hack
@@ -89,7 +89,7 @@ Before we begin, you don't need to remove the current app you're using. But best
 3. Expand the resulting folder until you go into the Payload folder
 4. You'll see Twitter.app (on macOS the icon has a "no entry sign" because it's an iOS app)
 5. Connect your device
-6. Open Apple Configurator
+6. Open Apple Configurator (you might need to [use an old version](https://archive.org/details/apple-configurator))
 7. Double click on your device (missing this will mean you can't do step 8)
 8. Click Add > App > Choose from my Mac...
 9. Confirm you want to overwrite the old app
@@ -101,6 +101,9 @@ You’re done!
 {:.tofigure}
 
 ## Questions 
+
+**Why can't I add the app to my phone?**
+    Either you missed step 7, or you need to [use an older version of Apple Configurator](https://archive.org/details/apple-configurator).
 
 **Why does downloading this way work?**
     iTunes used to be able to download apps this way, so we're just persuading it to download a particular version. The app is attached to your Apple ID and totally legitimate, no funny business.
