@@ -2,7 +2,7 @@
 layout: post
 title: Going back to the old (pre-X) Twitter iOS app
 date: '2023-08-17T19:39+01:00'
-last_modified_at: '2023-08-21T17:56+01:00'
+last_modified_at: '2023-12-10T14:13+00:00'
 tags:
 - twitter
 - hack
@@ -90,7 +90,7 @@ Before we begin, you don't need to remove the current app you're using. But best
 4. You'll see Twitter.app (on macOS the icon has a "no entry sign" because it's an iOS app)
 5. Connect your device
 6. Open Apple Configurator
-7. Double click on your device
+7. Double click on your device (missing this will mean you can't do step 8)
 8. Click Add > App > Choose from my Mac...
 9. Confirm you want to overwrite the old app
 10. Wait for the app to install on your device
