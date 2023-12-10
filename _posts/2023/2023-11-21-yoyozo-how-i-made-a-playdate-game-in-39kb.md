@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "YOYOZO (or, how I made a Playdate game in 39KiB)"
-last_modified_at: '2023-12-02T14:23+00:00'
+last_modified_at: '2023-12-10T00:31+00:00'
 date: '2023-11-21T23:59+00:00'
 tags:
 - graphics
@@ -111,7 +111,8 @@ Thanks to CANO-Lab and Playdate Squad Testers.
 ### Further reading
 
 * [Easter egg emoji: converting pixels into particles](/2023/11/26/easter-egg-emoji-converting-pixels-into-particles/)
-* [YOYOZO manual/player's guide](https://play.date/games/yoyozo/#gameListingMoreInfo)
+* [Dynamic music and sound techniques for video games](/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
+* [*YOYOZO* manual/player's guide](https://play.date/games/yoyozo/#gameListingMoreInfo)
 
 ### Elsewhere
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Easter egg emoji: converting pixels into particles"
+last_modified_at: '2023-12-10T00:31+00:00'
 date: '2023-11-26T20:41+00:00'
 tags:
 - graphics
@@ -105,5 +106,6 @@ There are [one or more libraries](https://github.com/PossiblyAxolotl/pdParticles
 
 ### Further reading
 
-* [YOYOZO (or, how I made a Playdate game in 39KiB)](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
-* [YOYOZO manual/player's guide](https://play.date/games/yoyozo/#gameListingMoreInfo)
+* [*YOYOZO* (or, how I made a Playdate game in 39KiB)](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
+* [Dynamic music and sound techniques for video games](/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
+* [*YOYOZO* manual/player's guide](https://play.date/games/yoyozo/#gameListingMoreInfo)
