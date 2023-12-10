@@ -53,7 +53,7 @@ For sound effects, I vary the playback sample rate to change the pitch of sound 
 
 ## Blending/Fading/Balance
 
-Another idea I had was to fade or blend two tracks as the player makes progress in the game. But how to find two tracks that can be cross-faded in a way that always makes sense? Of course you have them composed, but what about in music that already exists? If only there was an easy way to find such tracks!
+Another idea I had was to fade or blend two tracks as the player makes progress in the game. But how to find two tracks that can be cross-faded in a way that always makes sense? Of course you can have them composed, but what about in music that already exists? If only there was an easy way to find such tracks!
 
 There is: stereo pairs! You'd be surprised at how different the left and right channels can sound whilst obviously being the same tune. Of course this means that are output audio will be mono but for me on Playdate that's just fine. I use this method in [*Fore! Track*](https://play.date/games/fore-track/).
 
