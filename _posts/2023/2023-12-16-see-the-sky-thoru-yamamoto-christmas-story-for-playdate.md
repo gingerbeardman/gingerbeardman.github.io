@@ -75,6 +75,8 @@ I added chapter navigation which unlocks as you go through the story, in a simil
 
 I also added a progress bar, shown when you bring up the menu. It's a vertical bar drawn in the centre of the screen between the menu and fade game image. The bar itself is shaded at 50%, and onto it I draw markers for each chapter position. The current position is shown by drawing a solid white bar from the bottom of the screen to the current position. This means that the bar "fills" with white from the bottom as you progress through the story.
 
+![Progress bar](https://cdn.gingerbeardman.com/images/posts/thoru-yamamoto-see-the-sky-playdate.png#playdate)
+
 ## Experiments with sound
 
 The 1996 CD-ROM release of *See the sky* has ambient music, but Thoru and myself couldn't figure out the rights to this so we could not use it. I had done the work, just in case, so I'll mention it here.
