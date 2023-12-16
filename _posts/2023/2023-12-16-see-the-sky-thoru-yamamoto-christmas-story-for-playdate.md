@@ -7,7 +7,6 @@ tags:
 - macintosh
 - playdate
 - port
-- sounds
 nouns:
 - Playdate SDK
 - Playdate

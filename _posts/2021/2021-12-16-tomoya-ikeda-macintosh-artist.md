@@ -7,6 +7,7 @@ tags:
 - artist
 - patreon
 - history
+- birthday
 nouns:
 - After Dark
 - Macintosh
