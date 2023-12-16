@@ -112,7 +112,7 @@ You can download *See the sky* for Playdate from my page on itch.io, and it is a
 - ~ 30 minute experience
 - Quick navigation menu unlocked as you go
 - Position is remembered between launches
-- Settings for sfx/music and crossfade speed
+- Settings for sound and crossfade speed
 
 ## Credits
 
