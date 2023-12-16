@@ -61,6 +61,8 @@ To achieve the crossfade on Playdate I do the following:
 3. Behind the fade image/sprite I load in the requested next/previous image
 4. Finally I use `playdate.graphics.image:fadedImage(alpha, Bayer8x8)` to fade out the overlay, which happens over several frames and results in the image becoming more and more transparent, eventually disappearing completely
 
+So the crossfade is simply one image fading away and the image behind it slowly being revealed. Magic.
+
 I also added the ability to have slower or faster crossfades depending on your preference. I do this by adjusting the refresh/frame rate of the game itself, rather than skipping any of the fade.
 
 The only other feature I needed to add was a flashing capability. This happens at a handful of places in the story to various degrees, mostly there are a few flashes in places but in one places there are 10 flashes. Given that people with photosensitive epilepsy won't want to see the scree flash I honour the Playdate "reduce flashing" system setting. If the user has that toggled on the story will only flash once at each instance. The speed of the flashing is quite slow, and not tied to the speed of the crossfade.
