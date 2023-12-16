@@ -95,7 +95,7 @@ The 500 screen image table occupies 10.5MB RAM, so about two thirds of the avail
 > 
 > I've often wondered how the dimensions of a sprite sheet grid affect the file size when saved as a compressed format such as PNG. The extreme examples in this case would be having a tall grid of 1×504 or a wide grid of 504×1, and in between we have some exact multiples. I generated one sprite sheet for each grid size and here found that for this set of images a grid of 42×12 resulted in the smallest image file size a saving of a further 4% or so. The savings are similar when converted to the Playdate pdt image format.
 
-And that's it. The final size of this new version is smaller than the original, mostly due to the image optimisation. I could make it even smaller by exporting all the final crops of the screen images, create a new image table of those and then displaying those with zero offset. But I decided to not go there.
+And that's it. The final size of this new version is smaller than the original, mostly due to the image optimisation. I could make it even smaller by exporting all the final crops of the screen images, create a new image table of those, displaying them with zero offset. But I decided to not go there!
 
 ## The result
 
