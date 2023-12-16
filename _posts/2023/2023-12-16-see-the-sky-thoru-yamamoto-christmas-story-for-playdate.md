@@ -69,7 +69,7 @@ Page turn sounds are recordings of the sounds defined in the original HyperCard 
 
 ## Chapters
 
-I added chapter navigation which unlocks as you go through the story, in a similar way to the 1996 CD-ROM release of *See the sky*. This means you can revisit any previous chapter, and once you've reached the end of the story you'll have access to all chapters. If you want to reset that progress, for example to let somebody else enjoy the story from the beginnign with no fear of them skipping ahead, you can delete the "game data" through Playdate Settings. Chapter title cards are only shown when using the chapter navigation, and not whilst going through the story, I do this by injecting temporary images into the crossfade system.
+I added chapter navigation which unlocks as you go through the story, in a similar way to the 1996 CD-ROM release of *See the sky*. This means you can revisit any previous chapter, and once you've reached the end of the story you'll have access to all chapters. If you want to reset that progress, for example to let somebody else enjoy the story from the beginning and remove any temptation for them to skip ahead, you can delete the "game data" through Playdate Settings. Chapter title cards are only shown when using the chapter navigation, and not whilst going through the story, I do this by injecting temporary images into the crossfade system.
 
 ## Progress
 
