@@ -89,7 +89,7 @@ After we realised we would not be able to use the original ambient music, I look
 
 The final app binary is tiny but the images are adding up to about 3MB. That's fine, but I wondered how I might be able to optimise them. I used imagemagick's montage command to stitch the images together into a grid. In Playdate land we call this an image table, but you might refer to it as a sprite sheet. This reduced the size of 500 separate card images from 3MB to a single image 2MB. A nice saving! 
 
-The 500 screen image table occupies 10.5MB RAM, so about two thirds of the available RAM on Playdate. One downside of bundling 500 screens as single file are a short delay on loading for users, a short delay on building for me as a developer, and the need to regenerate the single image if any of them are changed. 
+The 500 screen image table occupies 10.5MB RAM, so about two thirds of the available RAM on Playdate. One downside of bundling 500 screens as single file are a short delay on loading for users, a short delay on building for me as a developer, and the need to regenerate the single image if any of the images it contains are changed.
 
 > At this point, I could have stopped. I should have stopped. But, of course, I didn't.
 > 
