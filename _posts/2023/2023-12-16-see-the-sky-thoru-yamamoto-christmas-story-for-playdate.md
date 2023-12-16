@@ -38,7 +38,7 @@ I've created a new version of *See the sky* for [Playdate](https://play.date). T
 
 I used [HyperCardPreview](https://github.com/PierreLorenzi/HyperCardPreview) to export the assets from the original [HyperCard](https://en.wikipedia.org/wiki/HyperCard) stack. I did this back in October 2022, and had to use an old MacBook Pro running Mojave to do it. Just today, whilst writing this blog post, I figured out that HyperCardPreview will refuse to open stacks if the app Stacksmith is also present on your Mac!? As soon as I deleted Stacksmith, HyperCardPreview opened the files just fine. It seems to be some sort of issue with them competing for control of the `com.apple.hypercard.stack` uti. Anyway, *See the sky* consists of just over 500 full screen card images. For other stacks, you might get a combination of background images and card images that would need re-compositing - it really depends on the stack.
 
-Thoru tells me that when he first started out with HyperCard he wasn't aware of the benefits of using a common background card and different foreground cards, which is why *See the sky* consists of only foreground cards. For this reason it was very difficult for him to upload the files, which were rather large for the time. Later productions would make more effective use of background cards to keep the file size as small as possible.
+Thoru told me that when he first started out with HyperCard he wasn't aware of the benefits of using a common background card and different foreground cards, which is why *See the sky* consists of only foreground cards. For this reason it was very difficult for him to upload the files, which were rather large for the time. Later productions would make more effective use of background cards to keep the file size as small as possible.
 
 ## Implementing a viewer
 
@@ -77,7 +77,7 @@ I also added a progress bar, shown when you bring up the menu. It's a vertical b
 
 ## Experiments with sound
 
-The 1996 CD-ROM release of *See the sky* has ambient music, but Thoru and myself couldn't figure out the rights to this so we could not use it. I had done the work, just in case so I'll continue to detail it here.
+The 1996 CD-ROM release of *See the sky* has ambient music, but Thoru and myself couldn't figure out the rights to this so we could not use it. I had done the work, just in case so I'll mention it here.
 
 I [extracted the audio from the Director files using a technique I've previously blogged about](/2023/08/12/extracting-sounds-from-macromedia-director-files/). I then converted the audio files to 44.1KHz 16-bit WAV files, and used [Ocen Audio](https://www.ocenaudio.com/en/startpage) to remove the base noise from those files. Basically, you select a part of the audio that contains only noise and it removes this from the entire audio file. Doing this without first upsampling the audio meant it did not work as well or at all. After the de-noising, I converted to ADPCM using adpcm-xq which gave files half the original size at much higher quality. 
 
