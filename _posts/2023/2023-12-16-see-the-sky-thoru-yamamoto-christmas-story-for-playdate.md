@@ -65,7 +65,7 @@ So the crossfade is simply one image fading away and the image behind it slowly 
 
 I also added the ability to have slower or faster crossfades depending on your preference. I do this by adjusting the refresh/frame rate of the game itself, rather than skipping any of the fade.
 
-The only other feature I needed to add was a flashing capability. This happens at a handful of places in the story to various degrees, mostly there are a few flashes in places but in one places there are 10 flashes. Given that people with photosensitive epilepsy won't want to see the scree flash I honour the Playdate "reduce flashing" system setting. If the user has that toggled on the story will only flash once at each instance. The speed of the flashing is quite slow, and not tied to the speed of the crossfade.
+The only other feature I needed to add was a flashing capability. This happens at a handful of places in the story to various degrees, mostly there are a few flashes in places but in one places there are 10 flashes. Given that people with photosensitive epilepsy won't want to see the screen flash I honour the Playdate "reduce flashing" system setting. If the user has that toggled on the story will only flash once at each instance. The speed of the flashing is quite slow, and not tied to the speed of the crossfade.
 
 Page turn sounds are recordings of the sounds defined in the original HyperCard stack, another essential part of the experience. Thoru describes these sounds as "pipo papo" and that's how I label it in the settings. I also provide the option to use a more realistic page turn sound, or switch off page turn sounds entirely.
 
