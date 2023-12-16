@@ -87,7 +87,7 @@ I [extracted the audio from the Director files using a technique I've previously
 
 ## Experiments with music
 
-After we realised we would not be able to use the original ambient music, I looked at using completely different music, turning to the catalogue of watson @ MusMus. I found a piece of music for each chapter of the story and extracted loops using PyMusicLooper. I then tweaked the loops by adjusting their start point by moving a section of audio from one end to the other so the loop began with the part of the audio I thought sounded best. I use [TwistedWave](https://twistedwave.com) for most sound editing like this. Thoru really liked the music itself but was of the opinion that no music would be more honest to the original release. I can't argue with that reasoning. Feel free to play your own choice of music whilst experiencing the story.
+After we realised we would not be able to use the ambient music, I looked at using completely different music, turning to the catalogue of watson @ MusMus. I found a piece of music for each chapter of the story and extracted loops using PyMusicLooper. I then tweaked the loops by adjusting their start point by moving a section of audio from one end to the other so the loop began with the part of the audio I thought sounded best. I use [TwistedWave](https://twistedwave.com) for most sound editing like this. Thoru really liked the music itself but was of the opinion that no music would be more honest to the original release. I can't argue with that reasoning. Feel free to play your own choice of music whilst experiencing the story.
 
 ## Optimising for size
 
