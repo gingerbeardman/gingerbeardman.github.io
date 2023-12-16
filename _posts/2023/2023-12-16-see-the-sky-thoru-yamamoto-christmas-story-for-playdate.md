@@ -7,6 +7,8 @@ tags:
 - macintosh
 - playdate
 - port
+- japanese
+- birthday
 nouns:
 - Playdate SDK
 - Playdate
@@ -118,3 +120,7 @@ You can download *See the sky* for Playdate from my page on itch.io, and it is a
 
 * [Thoru Yamamoto @ Lost Media Wiki](https://lostmediawiki.com/Thoru_Yamamoto_works_(partially_found_interactive_media;_1990s)) read more about his work
 * [Thoru Yamamoto HyperCard Stacks Collection @ archive.org](https://archive.org/details/thoru-yamamoto-hypercard-stacks) view the original *See the sky* & more
+
+### Birthday blog post?
+
+- Check out my other [#birthday](/tag/birthday/) blog posts.
