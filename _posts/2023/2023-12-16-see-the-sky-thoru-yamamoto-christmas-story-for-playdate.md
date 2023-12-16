@@ -117,5 +117,5 @@ You can download *See the sky* for Playdate from my page on itch.io, and it is a
 
 ### Further reading
 
-* [Thoru Yamamoto @ Lost Media Wiki](https://lostmediawiki.com/Thoru_Yamamoto_works_(partially_found_interactive_media;_1990s)) you can read more about his work
-* [Thoru Yamamoto HyperCard Stacks Collection @ Internet Archive](https://archive.org/details/thoru-yamamoto-hypercard-stacks) you can view Macintosh *See the sky* and more
+* [Thoru Yamamoto @ Lost Media Wiki](https://lostmediawiki.com/Thoru_Yamamoto_works_(partially_found_interactive_media;_1990s)) read more about his work
+* [Thoru Yamamoto HyperCard Stacks Collection @ Internet Archive](https://archive.org/details/thoru-yamamoto-hypercard-stacks) view the original *See the sky* and more
