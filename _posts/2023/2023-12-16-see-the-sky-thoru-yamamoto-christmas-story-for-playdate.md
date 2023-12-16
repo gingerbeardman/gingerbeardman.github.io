@@ -59,7 +59,7 @@ To achieve the crossfade on Playdate I do the following:
 1. Before the transition I capture the current screen using `playdate.graphics.getWorkingImage()`
 2. Next I make this image into an overlay, in my case I'm assigning it to a "fade" sprite
 3. Behind the fade image/sprite I load in the requested next/previous image
-4. Finally I use `playdate.graphics.image:fadedImage(alpha, Bayer8x8)` to fade out the overlay, which results in the image becoming more and more transparent, eventually disappearing completely
+4. Finally I use `playdate.graphics.image:fadedImage(alpha, Bayer8x8)` to fade out the overlay, which happens over several frames and results in the image becoming more and more transparent, eventually disappearing completely
 
 I also added the ability to have slower or faster crossfades depending on your preference. I do this by adjusting the refresh/frame rate of the game itself, rather than skipping any of the fade.
 
