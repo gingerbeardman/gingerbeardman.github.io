@@ -83,7 +83,7 @@ I also added a progress bar, shown when you bring up the menu. It's a vertical b
 
 The 1996 CD-ROM release of *See the sky* has ambient music, but Thoru and myself couldn't figure out the rights to this so it could not be used. I had done the work, just in case, so I'll mention it here.
 
-I [extracted the audio from the Director files using a technique I've previously blogged about](/2023/08/12/extracting-sounds-from-macromedia-director-files/). I then converted the audio files to 44.1KHz 16-bit WAV files, and used [Ocen Audio](https://www.ocenaudio.com/en/startpage) to remove the base noise from those files. Basically, you select a part of the audio that contains only noise and it removes this from the entire audio file. Doing this without first upsampling the audio meant it did not work as well or at all. After the de-noising, I converted to ADPCM using adpcm-xq which gave files half the original size at much higher quality. 
+I [extracted the audio from the Director files using a technique I've previously blogged about](/2023/08/12/extracting-sounds-from-macromedia-director-files/). I then converted the audio files to 44.1KHz 16-bit WAV files, and used [Ocen Audio](https://www.ocenaudio.com/en/startpage) to remove the base noise from those files. Basically, you select a part of the audio that contains only noise and it removes this from the entire audio file. Doing this without first upsampling the audio meant it did not work as well or at all. After the de-noising, I converted to ADPCM using adpcm-xq which gave files half the original size at higher quality and with lower noise levels. 
 
 ## Experiments with music
 
