@@ -26,7 +26,7 @@ comments: https://twitter.com/gingerbeardman/status/1735813826589704428
 
 *Thoru Yamamoto* (Japanese: 山本徹 or とーるやまもと), born 1955, is a Japanese multimedia artist. Over the years he has released work in many formats including, but not limited to: magazine illustrations, HyperCard decks, interactive CD-ROMs, printed books, websites, digital stickers, and videos. He is perhaps best known for his story books distributed as HyperCard stacks and his unique 1-bit art taking advantage of the limitation imposed by early Apple Macintosh computers.
 
-*See the sky* is one such story book, a Christmas present released in 1992 as a series of HyperCard stacks. In 1996 it was re-released in a remastered form: as an interactive CD-ROM, produced using Macromedia Director, which added ambient music and navigation to the original images. Also released in 1996 was a printed book of the story, presented as 3 images per page. Finally, in 1999 a CD-R of the combined HyperCard stacks was released.
+*See the sky* is one such story book, a Christmas present released in October 1992 as a series of HyperCard stacks. In 1996 it was re-released in a remastered form: as an interactive CD-ROM, produced using Macromedia Director, which added ambient music and navigation to the original images. Also released in 1996 was [a printed book of the story, presented as 3 images per page](https://twitter.com/gingerbeardman/status/1582466068517310465). Finally, in 1999 a CD-R of the combined HyperCard stacks was released.
 
 ## A new edition for 2023
 
