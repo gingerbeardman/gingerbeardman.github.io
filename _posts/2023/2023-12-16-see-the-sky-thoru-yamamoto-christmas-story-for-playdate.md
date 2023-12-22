@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "See the sky: Thoru Yamamoto's Christmas story, for Playdate"
+last_modified_at: '2023-12-21T19:17+00:00'
 date: '2023-12-16T00:00+00:00'
 tags:
 - hypercard
@@ -26,7 +27,7 @@ comments: https://twitter.com/gingerbeardman/status/1735813826589704428
 
 *Thoru Yamamoto* (Japanese: 山本徹 or とーるやまもと), born 1955, is a Japanese multimedia artist. Over the years he has released work in many formats including, but not limited to: magazine illustrations, HyperCard decks, interactive CD-ROMs, printed books, websites, digital stickers, and videos. He is perhaps best known for his story books distributed as HyperCard stacks and his unique 1-bit art taking advantage of the limitation imposed by early Apple Macintosh computers.
 
-*See the sky* is one such story book, a Christmas present released in 1992 as a series of HyperCard stacks. In 1996 it was re-released in a remastered form: as an interactive CD-ROM, produced using Macromedia Director, which added ambient music and navigation to the original images. Also released in 1996 was a printed book of the story, presented as 3 images per page. Finally, in 1999 a CD-R of the combined HyperCard stacks was released.
+*See the sky* is one such story book, a Christmas present released in October 1992 as a series of HyperCard stacks. In 1996 it was re-released in a remastered form: as an interactive CD-ROM, produced using Macromedia Director, which added ambient music and navigation to the original images. Also released in 1996 was [a printed book of the story, presented as 3 images per page](https://twitter.com/gingerbeardman/status/1582466068517310465). Finally, in 1999 a CD-R of the combined HyperCard stacks was released.
 
 ## A new edition for 2023
 
@@ -58,40 +59,42 @@ To achieve the crossfade on Playdate I do the following:
 
 1. Before the transition I capture the current screen using `playdate.graphics.getWorkingImage()`
 2. Next I make this image into an overlay, in my case I'm assigning it to a "fade" sprite
-3. Behind the fade image/sprite I load in the request next/previous image
-4. Finally I use `playdate.graphics.image:fadedImage(alpha, Bayer8x8)` to fade out the overlay, which results in the image becoming more and more transparent, eventually disappearing completely
+3. Behind the fade image/sprite I load in the requested next/previous image
+4. Finally I use `playdate.graphics.image:fadedImage(alpha, Bayer8x8)` to fade out the overlay, which happens over several frames and results in the image becoming more and more transparent, eventually disappearing completely
+
+So the crossfade is simply one image fading away and the image behind it slowly being revealed. Magic.
 
 I also added the ability to have slower or faster crossfades depending on your preference. I do this by adjusting the refresh/frame rate of the game itself, rather than skipping any of the fade.
 
-The only other feature I needed to add was a flashing capability. This happens at a handful of places in the story to various degrees, mostly there are a few flashes in places but in one places there are 10 flashes. Given that people with photosensitive epilepsy won't want to see the scree flash I honour the Playdate "reduce flashing" system setting. If the user has that toggled on the story will only flash once at each instance. The speed of the flashing is quite slow, and not tied to the speed of the crossfade.
+The only other feature I needed to add was a flashing capability. This happens at a handful of places in the story to various degrees, mostly there are a few flashes in places but in one places there are 10 flashes. Given that people with photosensitive epilepsy won't want to see the screen flash I honour the Playdate "reduce flashing" system setting. If the user has that toggled on the story will only flash once at each instance. The speed of the flashing is quite slow, and not tied to the speed of the crossfade.
 
 Page turn sounds are recordings of the sounds defined in the original HyperCard stack, another essential part of the experience. Thoru describes these sounds as "pipo papo" and that's how I label it in the settings. I also provide the option to use a more realistic page turn sound, or switch off page turn sounds entirely.
 
 ## Chapters
 
-I added chapter navigation which unlocks as you go through the story, in a similar way to the 1996 CD-ROM release of *See the sky*. This means you can revisit any previous chapter, and once you've reached the end of the story you'll have access to all chapters. If you want to reset that progress, for example to let somebody else enjoy the story from the beginnign with no fear of them skipping ahead, you can delete the "game data" through Playdate Settings. Chapter title cards are only shown when using the chapter navigation, and not whilst going through the story, I do this by injecting temporary images into the crossfade system.
+I added chapter navigation which unlocks as you go through the story, in a similar way to the 1996 CD-ROM release of *See the sky*. This means you can revisit any previous chapter, and once you've reached the end of the story you'll have access to all chapters. If you want to reset that progress, for example to let somebody else enjoy the story from the beginning and remove any temptation for them to skip ahead, you can delete the "game data" through Playdate Settings. Chapter title cards are only shown when using the chapter navigation, and not whilst going through the story, I do this by injecting temporary images into the crossfade system.
 
 ## Progress
 
-I also added a progress bar, shown when you bring up the menu. It's a vertical bar drawn in the centre of the screen between the menu and fade game image. The bar itself is shaded at 50%, and onto it I draw markers for each chapter position. The current position is shown by drawing a solid white bar from the bottom of the screen to the current position. This means that the bar "fills" with white from the bottom as you progress through the story.
+I also added a progress bar, shown when you bring up the menu. It's a vertical bar drawn in the centre of the screen between the menu and faded game image. The bar itself is dithered at 50%, and onto it I draw white markers for each chapter position. The current position is shown by drawing a solid white bar from the bottom of the screen to the current position. This means that the bar "fills" with white from the bottom as you progress through the story.
 
 ![Progress bar](https://cdn.gingerbeardman.com/images/posts/thoru-yamamoto-see-the-sky-playdate.png#playdate)
 
 ## Experiments with sound
 
-The 1996 CD-ROM release of *See the sky* has ambient music, but Thoru and myself couldn't figure out the rights to this so we could not use it. I had done the work, just in case, so I'll mention it here.
+The 1996 CD-ROM release of *See the sky* has ambient music, but Thoru and myself couldn't figure out the rights to this so it could not be used. I had done the work, just in case, so I'll mention it here.
 
-I [extracted the audio from the Director files using a technique I've previously blogged about](/2023/08/12/extracting-sounds-from-macromedia-director-files/). I then converted the audio files to 44.1KHz 16-bit WAV files, and used [Ocen Audio](https://www.ocenaudio.com/en/startpage) to remove the base noise from those files. Basically, you select a part of the audio that contains only noise and it removes this from the entire audio file. Doing this without first upsampling the audio meant it did not work as well or at all. After the de-noising, I converted to ADPCM using adpcm-xq which gave files half the original size at much higher quality. 
+I [extracted the audio from the Director files using a technique I've previously blogged about](/2023/08/12/extracting-sounds-from-macromedia-director-files/). I then converted the audio files to 44.1KHz 16-bit WAV files, and used [Ocen Audio](https://www.ocenaudio.com/en/startpage) to remove the base noise from those files. Basically, you select a part of the audio that contains only noise and it removes this from the entire audio file. Doing this without first upsampling the audio meant it did not work as well or at all. After the de-noising, I converted to ADPCM using adpcm-xq which gave files half the original size at higher quality and with lower noise levels. 
 
 ## Experiments with music
 
-After we realised we would not be able to use the original ambient music, I looked at using completely different music, turning to the catalogue of watson @ MusMus. I found a piece of music for each chapter of the story and extracted loops using PyMusicLooper. I then tweaked the loops by adjusting their start point by moving a section of audio from one end to the other so the loop began with the part of the audio I thought sounded best. I use [TwistedWave](https://twistedwave.com) for most sound editing like this. Thoru really liked the music itself but was of the opinion that no music would be more honest to the original release. I can't argue with that reasoning. Feel free to play your own choice of music whilst experiencing the story.
+After we realised we would not be able to use the ambient music, I looked at using completely different music, turning to the catalogue of watson @ MusMus. I found a piece of music for each chapter of the story and extracted loops using PyMusicLooper. I then tweaked the loops by adjusting their start point by moving a section of audio from one end to the other so the loop began with the part of the audio I thought sounded best. I use [TwistedWave](https://twistedwave.com) for most sound editing like this. Thoru really liked the music itself but was of the opinion that no music would be more honest to the original release. I can't argue with that reasoning. Feel free to play your own choice of music whilst experiencing the story.
 
 ## Optimising for size
 
 The final app binary is tiny but the images are adding up to about 3MB. That's fine, but I wondered how I might be able to optimise them. I used imagemagick's montage command to stitch the images together into a grid. In Playdate land we call this an image table, but you might refer to it as a sprite sheet. This reduced the size of 500 separate card images from 3MB to a single image of just 2MB. A nice saving! 
 
-The 500 screen image table occupies 10.5MB RAM, so about two thirds of the available RAM on Playdate. One downside of bundling 500 screens as single file are a short delay on loading for users, a short delay on building for me as a developer, and the need to regenerate the single image if any of the images it contains are changed.
+The 500 screen image table occupies 10.5MB RAM, so about two thirds of the available RAM on Playdate. Side-effects of bundling 500 screens as single file are a short delay on loading for users, a short delay on building for me as a developer, and the need to regenerate the single image if any of the images it contains are changed.
 
 > At this point, I could have stopped. I should have stopped. But, of course, I didn't.
 > 
@@ -110,7 +113,7 @@ You can download *See the sky* for Playdate from my page on itch.io, and it is a
 - ~ 30 minute experience
 - Quick navigation menu unlocked as you go
 - Position is remembered between launches
-- Settings for sfx/music and crossfade speed
+- Settings for sound and crossfade speed
 
 ## Credits
 
