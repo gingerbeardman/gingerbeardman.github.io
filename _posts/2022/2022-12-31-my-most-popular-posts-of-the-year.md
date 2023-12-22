@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My most popular posts in 2022 and other lists'
+title: 'My most popular posts from 2022 and other lists'
 tags:
 - recap
 - summary
@@ -10,13 +10,12 @@ tags:
 - best
 nouns:
 - Google Analytics
-comments: https://twitter.com/gingerbeardman/status/
 
 ---
 
 2022 was a mixed year for me.
 
-I secured my own studio and I was hugely productive doing some of my best ever work. Unfortunately, I also suffered several traumatic events and the after effects would knock out the final quarter of the year and more. Life-changing, and not in a good way.
+I secured my own studio and continued to be hugely productive, creating some of my best ever work. Unfortunately, I experienced multiple traumatic events, and their lingering effects knocked out the last third of the year and beyond. Life-changing, and not in a good way.
 
 ## How many posts?
 - [19 posts](/search/?q=2022) (down from 55 in 2021)
@@ -29,8 +28,8 @@ According to Google Analytics, my 5 most popular posts in 2022 were (most popula
 - [Accessing Yahoo! Japan from Europe](/2022/04/07/accessing-yahoo-japan-from-europe/) (7 Apr)
 - [Bender for Playdate](/2022/05/20/bender-for-playdate/) (20 May)
 
-## Favourite posts
-My personal faves from the year (most recent first):
+## Best of the rest
+My personal favourites from the year (most recent first):
 - [Gaming Advent Calendar](/2022/12/26/gaming-advent-calendar/) the one where I mention games I've played
 - [Fixing bugs using Bird on Palm OS](/2022/10/07/fixing-bugs-using-bird-on-palm-os/) the one where I nerd out
 - [Sparrow Solitaire for Playdate (Early Access)](/2022/07/13/sparrow-solitaire-for-playdate/) the one where I launch a game too early
