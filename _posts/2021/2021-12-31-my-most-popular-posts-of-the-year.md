@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My most popular posts from 2021 and other lists'
+title: 'My most popular posts of 2021'
 tags:
 - recap
 - summary
