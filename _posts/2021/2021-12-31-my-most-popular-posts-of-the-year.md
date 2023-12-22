@@ -15,7 +15,7 @@ nouns:
 
 2021 was the year I got serious about blogging.
 
-Thanks to [Louie Mantia](http://lmnt.me) for the encouragement to do so! I set up this current incarnation of my blog on a software stack I love to hate (ruby & jekyll), but I probably won't change things until it breaks beyond repair. Anyway, I (re)launched the blog filled with my collected writings spanning the past ~20 years.
+Thanks to [Louie Mantia](http://lmnt.me) for the encouragement to do so! I set up this current incarnation of my blog on a software stack I dislike (ruby & jekyll), but I probably won't change things until it breaks beyond repair. Anyway, I (re)launched the blog filled with my collected writings spanning the past ~20 years.
 
 ## How many posts?
 - [55 blog posts](/search/?q=2021) (up from 42 in 2020)
@@ -29,7 +29,7 @@ According to Google Analytics, my 5 most popular posts in 2021 were (most popula
 - [Pixel-Perfect retro gaming on LCD 480p EDTVs](/2021/05/06/pixel-perfect-retro-gaming-in-480p/) (6 May) <!-- 1K -->
 
 ## Looking back
-My personal faves from the the previous year, 2021 (most recent first):
+My personal faves from the year 2021 (most recent first):
 - [Band-kun バンドくん (1990, KOEI)](/2020/12/16/band-kun/) the one where I discovered a cool old game
 - [Electric Brain, et al.](/2020/11/30/pc-engine-fanatics-console-mazine-electric-brain-games-amusement-pleasure/) the one where I scanned a load of magazines/fanzines
 - [The BeOS Bible](/2020/11/11/the-beos-bible/) the one where I scanned an absolutely massive book
