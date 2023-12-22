@@ -11,6 +11,7 @@ nouns:
 - Gainax
 - 'Shinji and Good Friends: Second Hanafuda Impact'
 carousel: shinji
+featured: true
 comments: https://twitter.com/gingerbeardman/status/1263885189211709447
 
 ---

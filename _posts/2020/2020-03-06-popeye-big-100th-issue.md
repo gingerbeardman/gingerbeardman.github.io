@@ -10,6 +10,7 @@ tags:
 nouns:
 - POPEYE
 - Magazine for City Boys
+featured: true
 comments: https://twitter.com/gingerbeardman/status/1235585813137756161
 
 ---
