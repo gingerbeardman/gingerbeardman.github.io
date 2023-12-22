@@ -18,8 +18,8 @@ document.addEventListener("DOMContentLoaded", function() {
 							let n = 1 / 0,
 								i = 0;
 							for (let r = 0; r < e.length; r++) {
-								const partial = e[r]
-								if ( e[r].indexOf('page') == -1 && e[r].indexOf('tag') == -1 ) {
+								const partial = e[r];
+								if ( e[r].indexOf('page/') == -1 && e[r].indexOf('tag/') == -1 ) {
 									const s = MSn(t, partial);
 									if (s != -1) {
 										link = new URL(e[r])
