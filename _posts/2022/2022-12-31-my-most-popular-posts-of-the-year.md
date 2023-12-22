@@ -43,4 +43,4 @@ According to Google Analytics, my 5 most popular posts from previous years (most
 - [Playing old 32-bit iOS games in 2021](/2021/09/14/playing-old-32-bit-ios-games-in-2021/) (14 Sep 2021)
 
 ## Previous years
-- [2021](/2021/12/31/my-most-popular-posts-of-the-year/)
+- [My most popular posts of 2021](/2021/12/31/my-most-popular-posts-of-the-year/)
