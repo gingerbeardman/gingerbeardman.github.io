@@ -38,7 +38,7 @@ But none of these seem quite right for me. I have so many controllers and device
 
 I'm encouraged to find that there are lots of options! I'm a macOS user and I also dabble with Windows on occasion, but I have no idea how this can be done well on Linux.
 
-![8Bitdo Micro](https://cdn.gingerbeardman.com/images/posts/8bitdo-micro-shortcuts.jpg "<em>8Bitdo Micro</em> is marketed as being a multi-tasking controller")
+![8Bitdo Micro](https://cdn.gingerbeardman.com/images/posts/8bitdo-micro-shortcuts.jpg "<em>8Bitdo Micro</em> is marketed as a multi-tasking controller")
 {:.tofigure}
 
 ## Controllers
