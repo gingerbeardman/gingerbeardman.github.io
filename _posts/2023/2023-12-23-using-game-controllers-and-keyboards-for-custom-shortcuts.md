@@ -29,7 +29,7 @@ nouns:
 - Figma
 - Work Louder
 - Bluetooth
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1738702658066661605
 
 ---
 
@@ -60,6 +60,8 @@ The general concept is to use an app that will take an input from your device of
 This means you can set different shortcuts for each app you use, and they will change as you move between apps. Obviously its best if this happens automatically, to remove any friction in the process. 
 
 I might have a button set to "zoom in" and "zoom out" that will trigger slightly different shortcuts in my text editor than in my image editor, or I might have a button set to "primary tool" and it will trigger a tool in a different way depending on the design app I am currently using. 
+
+My personal favourite is [JoyMapperSilicon](https://github.com/qibinc/JoyMapperSilicon), but we are really spoiled for choice.
 
 ## Apps
 
