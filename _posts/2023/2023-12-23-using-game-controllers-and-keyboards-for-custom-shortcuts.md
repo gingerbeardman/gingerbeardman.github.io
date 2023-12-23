@@ -33,7 +33,7 @@ comments: https://twitter.com/gingerbeardman/status/1738702658066661605
 
 ---
 
-Recently I've been following a trend in [macro-pads](https://www.thetechedvocate.org/what-is-a-macro-pad-and-what-do-you-use-it-for/), specialised/bespoke keyboards that provide an easy way to trigger keyboard shortcuts. A host of small companies have flooded the market with modified Bluetooth numeric pads that have key caps and marketing targeting Procreate, and Figma have teamed up with Work Louder to create a branded keypad with additional jog and rotary dials.
+Recently I've been following a trend in [macro-pads](https://www.thetechedvocate.org/what-is-a-macro-pad-and-what-do-you-use-it-for/), specialised/bespoke keyboards that provide an easy way to trigger keyboard shortcuts. A host of small companies have flooded the market with modified Bluetooth numeric pads that target Procreate, and Figma have teamed up with Work Louder to create a branded keypad with additional jog and rotary dials.
 
 But none of these seem quite right for me. I have so many controllers and devices already it felt better to make use of what I have to hand.
 
