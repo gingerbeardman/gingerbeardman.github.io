@@ -21,7 +21,6 @@ nouns:
 - Xbox
 - 8Bitdo
 - Micro
-- Zero
 - macOS
 - Windows
 - Linux
@@ -48,7 +47,7 @@ An obvious choice for a device with multiple buttons is a game controller. In mo
 
 You can even use a Wii remote using an adapter like the [*Mayflash MAGIC-NS Lite*](https://www.mayflash.com/product/magic_ns_lite.html). Or you might use more esoteric controllers with an adapter from Robert Dale Smith's [Controller Adapter](https://controlleradapter.com) store. In fact, I use one of his adapters to get an old [*Sony Jog Controller*](https://x.com/gingerbeardman/status/1629936413801062403?s=20) to act like a GameCube controller, which I then map to keyboard shortcuts using the methods below. The sky's the limit!
 
-*8Bitdo* also have their [*Micro* controller](https://www.8bitdo.com/micro/) which offers more buttons and slightly better one-handed ergonomics than a Switch JoyCon. Before that they had Zero controller which is similar but with less buttons. This controller is really interesting as it can pose as a Switch Pro Controller, generic controller, or keyboard. This gives us even more options. 8Bitdo are aware of this market and have created this device to fit, including a bespoke mobile app, and they even go so far as to [call out this use case in their marketing material](https://www.8bitdo.com/micro/#content-1-9).
+*8Bitdo* also have their [*Micro* controller](https://www.8bitdo.com/micro/) which offers more buttons and slightly better one-handed ergonomics than a Switch JoyCon. This controller is really interesting as it can pose as a Switch Pro Controller, generic controller, or keyboard. This gives us even more options. 8Bitdo are aware of this market and have created this device to fit, including a bespoke mobile app, and they even go so far as to [call out this use case in their marketing material](https://www.8bitdo.com/micro/#content-1-9).
 
 ## Keyboards
 
