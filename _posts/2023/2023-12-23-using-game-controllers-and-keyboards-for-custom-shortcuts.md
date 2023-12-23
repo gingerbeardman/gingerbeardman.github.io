@@ -64,11 +64,11 @@ This means you can set different shortcuts for each app you use, and they will c
 
 I might have a button set to "zoom in" and "zoom out" that will trigger slightly different shortcuts in my text editor than in my image editor, or I might have a button set to "primary tool" and it will trigger a tool in a different way depending on the design app I am currently using. 
 
-My personal favourite is [JoyMapperSilicon](https://github.com/qibinc/JoyMapperSilicon), but we are really spoiled for choice.
+My personal favourite app is [JoyMapperSilicon](https://github.com/qibinc/JoyMapperSilicon), but we really are spoiled for choice.
 
 ## Apps
 
-You can sort the table by name, cost, platform, how the per-app function works, relative ease-of-use, and whether it works with keyboards or controllers (joysticks) or both.
+You can sort the table by headings: name, cost, platform, how the per-app function works, relative ease-of-use, and whether it works with keyboard (key) or controller (joy) or both.
 
 <div class="table-wrapper" markdown="block">
 |Name|Cost|Platform|Per&#8209;app?|Easy?|Type|
