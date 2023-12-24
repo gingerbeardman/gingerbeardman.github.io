@@ -55,7 +55,7 @@ These could be cheap bluetooth numeric pads or other small keyboards. I've perso
 
 ## Remapping
 
-The 8Bitdo controller has a specific app for iOS/Android that can change its keyboard mappings. That's cool for those mobile devices, and the iOS version will even run on an M1 Mac. But we can achieve more versatile solution by doing are remapping in software on the computer.
+The 8Bitdo controller has a specific app for iOS/Android that can change its keyboard mappings. That's cool for those mobile devices, and the iOS version will even run on an M1 Mac. But we can achieve a more versatile solution by doing the remapping in software on the computer.
 
 The general concept is to use an app that will take an input from your device of choice and map it to a keyboard shortcut or some other action that you specify. There are many apps that do this, so I've limited my list below to those that offer one important feature: *per-app mapping*.
 
