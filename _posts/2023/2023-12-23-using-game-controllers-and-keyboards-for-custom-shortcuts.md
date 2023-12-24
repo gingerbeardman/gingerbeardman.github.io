@@ -59,9 +59,9 @@ The 8Bitdo controller has a specific app for iOS/Android that can change its key
 
 The general concept is to use an app that will take an input from your device of choice and map it to a keyboard shortcut or some other action that you specify. There are many apps that do this, so I've limited my list below to those that offer one important feature: *per-app mapping*.
 
-This means you can set different shortcuts for each app you use, and they will change as you move between apps. Obviously its best if this happens automatically, to remove any friction in the process. 
+This means you can set different shortcuts for each app you use, and they will change as you move between apps. Of course, it is best if this happens automatically to prevent any friction in the process. 
 
-I might have a button set to "zoom in" and "zoom out" that will trigger slightly different shortcuts in my text editor than in my image editor, or I might have a button set to "primary tool" and it will trigger a tool in a different way depending on the design app I am currently using. 
+I might have a button set to "zoom in" or "zoom out" that will trigger slightly different shortcuts in my text editor than in my image editor, or I might have a button set to "primary tool" and it will trigger a tool in a different way depending on the design app I am currently using. 
 
 My personal favourite app is [JoyMapperSilicon](https://github.com/qibinc/JoyMapperSilicon), but we really are spoiled for choice.
 
