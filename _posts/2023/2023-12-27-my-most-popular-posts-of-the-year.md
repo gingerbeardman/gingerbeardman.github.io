@@ -38,7 +38,7 @@ According to Google Analytics, my 10 most popular posts in 2023 were (most popul
 ## Best of the rest
 My personal favourites from the year (most recent first):
 - [List of vintage Japanese pixel/dot art software](/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/) the one where I list 200 old apps
-- [Tom Moulton, Father of the Disco Mix (1976)](/2023/08/22/tom-moulton-father-of-the-disco-mix/) the one a student accessed for me
+- [Tom Moulton, Father of the Disco Mix (1976)](/2023/08/22/tom-moulton-father-of-the-disco-mix/) the one a student copy-pasted for me
 - [Fake Steve Jobs & Letters from BILL G](/2023/08/19/fake-steve-jobs-and-letters-from-bill-g/) the one that nobody read
 - [Review: GTi Club Supermini Festa!](/2023/06/07/gti-cub-supermini-festa/) the one about an amazing *Wii* game
 - [Where can I see Hokusai's Great Wave today?](/2023/04/10/where-can-i-see-hokusai-great-wave-today/) the one about *The Great Wave*
