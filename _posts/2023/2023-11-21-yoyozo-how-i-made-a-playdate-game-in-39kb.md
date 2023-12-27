@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "YOYOZO (or, how I made a Playdate game in 39KiB)"
-last_modified_at: '2023-12-27T20:29+00:00'
+last_modified_at: '2023-12-27T21:31+00:00'
 date: '2023-11-21T23:59+00:00'
 tags:
 - graphics
@@ -101,6 +101,32 @@ I thought it would be fun to write a manual/player's guide in the old-school sty
 
 ----
 
+## Timeline
+
+I worked on YOYOZO from September 5th to 27th (23 days) and submitted it to Catalog on 21st. The final week of the stretch was polishing. After the game was approved I did added online score boards one evening just prior to launch. It was in review/queue longer than it was in development, by far!
+
+- 2023-09-05 — [initial prototype](https://twitter.com/gingerbeardman/status/1699108587732119834)
+- 2023-09-07 — [playable prototype](https://twitter.com/gingerbeardman/status/1699784106505290093) (3 days)
+- 2023-09-07 — [quick progress](https://twitter.com/gingerbeardman/status/1699890693366517890) (3 days)
+- 2023-09-09 — [came up with the name](https://twitter.com/gingerbeardman/status/1700612152707461396) (5 days)
+- 2023-09-14 — [polishing and balancing](https://twitter.com/gingerbeardman/status/1702103698749505670) (10 days)
+- 2023-09-20 — [revelatory physics tweak](https://twitter.com/gingerbeardman/status/1704608465522487681) (16 days)
+- 2023-09-21 — [addicted to my own game](https://twitter.com/gingerbeardman/status/1704991183573831711) (17 days)
+- 2023-09-21 — submitted to Catalog (17 days)
+- 2023-09-23 — [game over replay](https://twitter.com/gingerbeardman/status/1705676134245875750) (19 days)
+- 2023-09-26 — [game over stats screen](https://twitter.com/gingerbeardman/status/1706772586510643560) (22 days)
+- 2023-09-27 — final version (23 days)
+
+...and then some waiting until:
+
+- 2023-10-10 — approved for Catalog (36 days)
+- 2023-11-19 — added online scoreboards (76 days)
+- 2023-11-21 — [released on Catalog](https://twitter.com/gingerbeardman/status/1727030817116053611) (78 days)
+
+...so that is 78 days (11 weeks) from initial prototype to being live on the Catalog store!
+
+----
+
 ## Credits
 
 YOYOZO is a game by Matt Sephton, with music by Jamie Hamshere.
@@ -117,8 +143,8 @@ Thanks to CANO-Lab and Playdate Squad Testers.
 
 ### Elsewhere
 
-* 2023-12-27 - [YOYOZO wins GOTY accolade](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7)
-* 2023-11-30 - [Ars Technica](https://arstechnica.com/gaming/2023/11/my-long-quest-to-revive-a-90s-windows-gaming-cult-classic/)
+* 2023-12-27 — [YOYOZO wins GOTY accolade!](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7)
+* 2023-11-30 — [Ars Technica](https://arstechnica.com/gaming/2023/11/my-long-quest-to-revive-a-90s-windows-gaming-cult-classic/)
 * 2023-11-24 — [Hacker Newsletter](http://eepurl.com/iEHB8M)
 * 2023-11-23 — [Time Extension](https://www.timeextension.com/news/2023/11/yoyozo-is-a-new-playdate-game-inspired-by-the-japanese-cult-classic-pendulumania)
 * 2023-11-22 — [Hacker News](https://news.ycombinator.com/item?id=38372936)
