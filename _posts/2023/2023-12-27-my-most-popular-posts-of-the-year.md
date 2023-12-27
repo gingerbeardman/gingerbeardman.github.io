@@ -11,6 +11,7 @@ tags:
 - best
 nouns:
 - Google Analytics
+recap: true
 
 ---
 
