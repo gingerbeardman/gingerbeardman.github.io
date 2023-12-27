@@ -22,6 +22,8 @@ pinned: true
 comments: https://twitter.com/gingerbeardman/status/1727030817116053611
 ---
 
+> 2023-12-27 — [Ars Technica: YOYOZO wins GOTY accolade!](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7) almost unbelievable to be listed alongside such games as: Chants of Sennaar, Cocoon, Dave the Diver, Humanity, The Legend of Zelda: Tears of the Kingdom, Pikmin 4, Puzzmo, Super Mario Bros. Wonder, Venba and Viewfinder.
+
 A game I made for the Playdate handheld was released today! [Go buy it](https://play.date/games/yoyozo/) and then come back to read this blog post.
 
 It's called YOYOZO and in it you control a space yo-yo and have to collect stars in a sort of cosmic ballet. Well, at first it might feel a little like being on a fairground ride, but eventually you'll become good enough for it to feel like ballet.
