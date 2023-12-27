@@ -18,6 +18,7 @@ nouns:
 - YOYOZO
 - CANO-Lab
 featured: true
+pinned: true
 comments: https://twitter.com/gingerbeardman/status/1727030817116053611
 ---
 
