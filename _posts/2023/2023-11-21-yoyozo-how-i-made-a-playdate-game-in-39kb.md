@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "YOYOZO (or, how I made a Playdate game in 39KiB)"
-last_modified_at: '2023-12-27T21:31+00:00'
+last_modified_at: '2023-12-27T21:39+00:00'
 date: '2023-11-21T23:59+00:00'
 tags:
 - graphics
@@ -103,7 +103,7 @@ I thought it would be fun to write a manual/player's guide in the old-school sty
 
 ## Timeline
 
-I worked on YOYOZO from September 5th to 27th, submitting it to Catalog part way on 21st and polishing it for the final week. After the game was approved I did added online score boards one evening just prior to launch. It was in review/queue longer than it was in development, by far!
+I worked on YOYOZO from September 5th to 27th, submitting it to Catalog on 21st and polishing it for the final week after that. After the game was approved I did added online score boards one evening just prior to launch. It was in review/queue longer than it was in development, by far!
 
 - 2023-09-05 — [initial prototype](https://twitter.com/gingerbeardman/status/1699108587732119834)
 - 2023-09-07 — [playable prototype](https://twitter.com/gingerbeardman/status/1699784106505290093) (3 days)
