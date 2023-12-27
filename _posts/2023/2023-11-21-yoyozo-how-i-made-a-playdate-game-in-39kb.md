@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "YOYOZO (or, how I made a Playdate game in 39KiB)"
-last_modified_at: '2023-12-10T00:31+00:00'
+last_modified_at: '2023-12-27T20:29+00:00'
 date: '2023-11-21T23:59+00:00'
 tags:
 - graphics
@@ -116,6 +116,7 @@ Thanks to CANO-Lab and Playdate Squad Testers.
 
 ### Elsewhere
 
+* 2023-12-27 - [YOYOZO wins GOTY accolade](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7)
 * 2023-11-30 - [Ars Technica](https://arstechnica.com/gaming/2023/11/my-long-quest-to-revive-a-90s-windows-gaming-cult-classic/)
 * 2023-11-24 — [Hacker Newsletter](http://eepurl.com/iEHB8M)
 * 2023-11-23 — [Time Extension](https://www.timeextension.com/news/2023/11/yoyozo-is-a-new-playdate-game-inspired-by-the-japanese-cult-classic-pendulumania)
