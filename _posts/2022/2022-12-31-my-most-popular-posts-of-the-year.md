@@ -18,7 +18,7 @@ nouns:
 I secured my own studio and continued to be hugely productive, creating some of my best ever work. Unfortunately, I experienced multiple traumatic events, and their lingering effects knocked out the last third of the year and beyond. Life-changing, and not in a good way.
 
 ## How many posts?
-- [19 posts](/search/?q=2022) (down from 55 in 2021)
+- [18 posts](/search/?q=2022) (down from 55 in 2021)
 
 ## Most popular posts
 According to Google Analytics, my 5 most popular posts in 2022 were (most popular first):

@@ -19,7 +19,7 @@ nouns:
 I've spent most of the year trying to comprehend 2022's traumatic events, the lingering impact of which continues to affect me daily. Positive outcomes are that it gave me a little more time to write, and I developed some small games that might not have existed otherwise. And one of those, [YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/), has [received a Game Of The Year accolade](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7)!
 
 ## How many posts?
-- [40 posts](/search/?q=2023) (up from 19 in 2022)
+- [40 posts](/search/?q=2023) (up from 18 in 2022)
 
 ## Most popular posts
 According to Google Analytics, my 10 most popular posts in 2023 were (most popular first):
