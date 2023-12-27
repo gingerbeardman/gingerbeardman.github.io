@@ -8,7 +8,7 @@ layout: default
       {% for post in site.posts %}
         {% if post.pinned %}
           {% include_cached post-card.html pdate=post.date pfeatured=post.featured
-   ppinned=post.pinned ptags=post.tags ptitle=post.title purl=post.url sbaseurl=site.baseurl %}
+   ppinned=post.pinned precap=post.recap ptags=post.tags ptitle=post.title purl=post.url sbaseurl=site.baseurl %}
         {% endif %}
       {% endfor %}
     {% endif %}
@@ -16,7 +16,7 @@ layout: default
     {% for post in paginator.posts %}
       {% unless post.pinned %}
         {% include_cached post-card.html pdate=post.date pfeatured=post.featured
- ppinned=post.pinned ptags=post.tags ptitle=post.title purl=post.url sbaseurl=site.baseurl %}
+ ppinned=post.pinned precap=post.recap ptags=post.tags ptitle=post.title purl=post.url sbaseurl=site.baseurl %}
       {% endunless %}
     {% endfor %}
   </div>
