@@ -103,7 +103,7 @@ I thought it would be fun to write a manual/player's guide in the old-school sty
 
 ## Timeline
 
-I worked on YOYOZO from September 5th to 27th (23 days) and submitted it to Catalog on 21st. The final week of the stretch was polishing. After the game was approved I did added online score boards one evening just prior to launch. It was in review/queue longer than it was in development, by far!
+I worked on YOYOZO from September 5th to 27th, submitting it to Catalog part way on 21st and polishing it for the final week. After the game was approved I did added online score boards one evening just prior to launch. It was in review/queue longer than it was in development, by far!
 
 - 2023-09-05 — [initial prototype](https://twitter.com/gingerbeardman/status/1699108587732119834)
 - 2023-09-07 — [playable prototype](https://twitter.com/gingerbeardman/status/1699784106505290093) (3 days)
@@ -114,6 +114,7 @@ I worked on YOYOZO from September 5th to 27th (23 days) and submitted it to Cata
 - 2023-09-21 — [addicted to my own game](https://twitter.com/gingerbeardman/status/1704991183573831711) (17 days)
 - 2023-09-21 — submitted to Catalog (17 days)
 - 2023-09-23 — [game over replay](https://twitter.com/gingerbeardman/status/1705676134245875750) (19 days)
+- 2023-09-26 — [layout design using spreadsheet](https://twitter.com/gingerbeardman/status/1706765228879253972) (22 days)
 - 2023-09-26 — [game over stats screen](https://twitter.com/gingerbeardman/status/1706772586510643560) (22 days)
 - 2023-09-27 — final version (23 days)
 
