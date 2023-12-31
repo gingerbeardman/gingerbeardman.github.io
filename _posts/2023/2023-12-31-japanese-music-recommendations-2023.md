@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Japanese music recommendations from 2023'
+title: 'Japanese music recommendations (2023)'
 date: '2023-12-31T22:37+00:00'
 tags:
 - recap
@@ -9,7 +9,10 @@ tags:
 - best
 nouns:
 - Apple Music
+- Spotify
+- YouTube
 recap: true
+comments: https://twitter.com/gingerbeardman/status/
 
 ---
 
