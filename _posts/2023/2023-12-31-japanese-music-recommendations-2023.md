@@ -12,13 +12,13 @@ nouns:
 - Spotify
 - YouTube
 recap: true
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1741591553234092149
 
 ---
 
-In April 2023, after I'd been listening to a bit of Japanese music during the last stretch of making the game [Sparrow Solitaire for Playdate](http://localhost:4000/2023/04/13/sparrow-solitaire-for-playdate/), Apple Music started recommending me Japanese music in the weekly #NewMusicMix.
+In April 2023, after I'd been listening to a bit of Japanese music during the last stretch of making the game [Sparrow Solitaire for Playdate](http://localhost:4000/2023/04/13/sparrow-solitaire-for-playdate/), Apple Music started recommending me Japanese music in the weekly [#NewMusicMix](https://twitter.com/search?q=from%3Agingerbeardman%20%23NewMusicMix&src=typed_query&f=live) playlists. Every week I post my favourite track to social media, keeping the best of each week as curated playlists.
 
-Every week I post one track to social media, keeping the best of each week as a playlist. So I thought it would be nice to make a playlist of the best from the year to date, the below compilation consists of the tracks I've listened to the most with a couple of other favourites thrown in to help with the running order. Totalling 18 tracks and duration 1h18m46s.
+So I thought it would be nice to make a summary playlist of the best from the year to date. It consists of the tracks I've listened to the most, with a couple of other favourites thrown in to help perfect the running order: 18 tracks with a duration of 1h18m46s.
 
 <div class="table-wrapper" markdown="block">
 |Track|Artist|Release|Duration|
@@ -53,4 +53,4 @@ Every week I post one track to social media, keeping the best of each week as a 
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:740px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/gb/playlist/japanese-best-of-2023/pl.u-xRlpNFEJKr3"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2ZnWDhLMF12oH06JkX0pbR?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe><br>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2ZnWDhLMF12oH06JkX0pbR?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
