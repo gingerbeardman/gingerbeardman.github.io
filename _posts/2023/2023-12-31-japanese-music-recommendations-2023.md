@@ -18,7 +18,7 @@ comments: https://twitter.com/gingerbeardman/status/1741591553234092149
 
 In April 2023, after I'd been listening to a bit of Japanese music during the last stretch of making the game [Sparrow Solitaire for Playdate](http://localhost:4000/2023/04/13/sparrow-solitaire-for-playdate/), Apple Music started recommending me Japanese music in the weekly [#NewMusicMix](https://twitter.com/search?q=from%3Agingerbeardman%20%23NewMusicMix&src=typed_query&f=live) playlists. Every week I post my favourite track to social media, keeping the best of each week as curated playlists.
 
-So I thought it would be nice to make a summary playlist of the best from the year to date. It consists of the tracks I've listened to the most, with a couple of other favourites thrown in to help perfect the running order: 18 tracks with a duration of 1h18m46s.
+So I thought it would be nice to make a summary playlist of the best of the best! It consists of the tracks I've listened to the most, with a couple of other favourites thrown in to help perfect the running order: 18 tracks with a duration of 1h18m46s.
 
 <div class="table-wrapper" markdown="block">
 |Track|Artist|Release|Duration|
