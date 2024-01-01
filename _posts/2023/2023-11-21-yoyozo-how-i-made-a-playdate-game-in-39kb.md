@@ -26,7 +26,7 @@ comments: https://twitter.com/gingerbeardman/status/1727030817116053611
 
 A game I made for the Playdate handheld was released today! [Go buy it](https://play.date/games/yoyozo/) and then come back to read this blog post.
 
-It's called YOYOZO and in it you control a space yo-yo and have to collect stars in a sort of cosmic ballet. Well, at first it might feel a little like being on a fairground ride, but eventually you'll become good enough for it to feel like ballet.
+It's called YOYOZO and in it you control a space yo-yo and have to collect stars in a sort of cosmic ballet. Well, at first it might feel a little like being on a fairground ride, but eventually you'll become good enough for it to feel like ballet. The concept is based on my memory of a game called [Pendulumania](https://archive.org/details/Pendulumania-v1.3) that I played 20 years ago.
 
 The most amazing thing about this game, for me, is that launch version weighs in at a file size of *only 39KiB*. I'm using the KiB unit of measurement which equates to 1024 bytes. I still find it hard to believe as the game contains so much! In this blog post I'll go into some of the nerdy details.
 
