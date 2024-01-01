@@ -21,7 +21,7 @@ In April 2023, after I'd been listening to a bit of Japanese music during the la
 So I thought it would be nice to make a summary playlist of the best of the best! It consists of the tracks I've listened to the most, with a couple of other favourites thrown in to help perfect the running order: 18 tracks with a duration of 1h18m46s.
 
 <div class="table-wrapper" markdown="block">
-|Track|Artist|Release|Duration|
+|Song|Artist|Release|Time|
 |--------|---------|----------|--|
 |[Closer](https://youtu.be/5TyjQmYmPyk)|ROTH BART BARON|8 |3:37|
 |[All Sunlight Must Fade](https://youtu.be/c-wwTa9oyXA)|Half Mile Beach Club |Glare - EP|5:33|
