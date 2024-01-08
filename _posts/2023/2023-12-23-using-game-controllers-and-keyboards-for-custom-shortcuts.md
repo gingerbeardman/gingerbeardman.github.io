@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Using game controllers and keyboards for custom shortcuts'
+last_modified_at: '2024-01-08T08:58+00:00'
 date: '2023-12-23T23:06+00:00'
 tags:
 - hack
@@ -28,6 +29,7 @@ nouns:
 - Figma
 - Work Louder
 - Bluetooth
+- Air Mouse
 comments: https://twitter.com/gingerbeardman/status/1738702658066661605
 
 ---
@@ -65,9 +67,13 @@ I might have a button set to "zoom in" or "zoom out" that will trigger slightly 
 
 My personal favourite app is [JoyMapperSilicon](https://github.com/qibinc/JoyMapperSilicon), but we really are spoiled for choice.
 
+## Mouse
+
+It's also possible to use the analog sticks and gyro of a Switch JoyCon as a mouse using QJoyControl. Analog is straightforward and as you'd expect. But using gyro basically gives you an Air Mouse which is pretty amazing.
+
 ## Apps
 
-You can sort the table by headings: name, cost, platform, how the per-app function works, relative ease-of-use, and whether it works with keyboard (key) or controller (joy) or both.
+You can sort the table by headings: name, cost, platform, how the per-app function works, relative ease-of-use, and whether it works with devices keyboard (key) or controller (joy) or both.
 
 <div class="table-wrapper" markdown="block">
 |Name|Cost|Platform|Per&#8209;app?|Easy?|Type|
@@ -81,6 +87,7 @@ You can sort the table by headings: name, cost, platform, how the per-app functi
 |[JoyToKey](https://joytokey.net/en/)|$7|Windows|Auto|No|Joy|
 |[Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy)|Free|macOS|Auto|No|Key|
 |[Keyboard Maestro](https://www.keyboardmaestro.com)|$36|macOS|Auto|No|Both|
+|[QJoyControl](https://github.com/erikmwerner/QJoyControl)|Free|macOS|No|Yes|Joy|
 |[USB Overdrive](https://www.usboverdrive.com)|$20|macOS|Auto|Yes|Both|
 
 </div>
