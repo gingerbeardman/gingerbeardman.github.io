@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "See the sky: Thoru Yamamoto's Christmas story, for Playdate"
-last_modified_at: '2023-12-21T19:17+00:00'
+last_modified_at: '2024-01-11T15:47+00:00'
 date: '2023-12-16T00:00+00:00'
 tags:
 - hypercard
@@ -98,7 +98,7 @@ The 500 screen image table occupies 10.5MB RAM, so about two thirds of the avail
 
 > At this point, I could have stopped. I should have stopped. But, of course, I didn't.
 > 
-> I've often wondered how the dimensions of a sprite sheet grid affect the file size when saved as a compressed format such as PNG. The extreme examples in this case would be having a tall grid of 1×504 or a wide grid of 504×1, and in between we have some exact multiples. I generated one sprite sheet for each grid size and here found that for this set of images a grid of 42×12 resulted in the smallest image file size a saving of a further 4% or so. The savings are similar when converted to the Playdate pdt image format.
+> I've often wondered how the dimensions of a sprite sheet grid affect the file size when saved as a compressed format such as PNG. The extreme examples in this case would be having a tall grid of 1×504 or a wide grid of 504×1, and in between we have some exact multiples. I generated one sprite sheet for each grid size and here found that for this set of images a grid of 42×12 resulted in the smallest image file size a saving of a further 4% or so. The savings are similar when converted to the Playdate pdt image format. Note that this sort of optimisation only works for solid images, not for images with any alpha/transparency.
 
 And that's it. The final size of this new version is smaller than the original, mostly due to the image optimisation. I could make it even smaller by exporting all the final crops of the screen images, create a new image table of those, displaying them with zero offset. But I decided to not go there!
 
