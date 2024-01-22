@@ -34,7 +34,7 @@ comments: https://twitter.com/gingerbeardman/status/1748799583491076191
 
 ---
 
-At my core I'm a software guy. I don't really get attached to hardware: in my mind exists only as a conduit to software. I use emulation whenever I can to benefit from the increased convenience and reliability. But when I can't I buy old devices, and with old devices come old problems.
+At my core I'm a software guy. I don't really get attached to hardware: in my mind it exists only as a conduit to software. I use emulation whenever I can to benefit from the increased convenience and reliability. But when I can't I buy old devices, and with old devices come old problems.
 
 I'm fascinated by [old digital art software](/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/), from my beginnings on Atari ST, though classic Macintosh and vintage Japanese PCs, to handhelds like Palm devices or, in this case, a PocketPC running Windows CE. As with all software, many great ideas have been abandoned in the name of "progress".
 
