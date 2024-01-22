@@ -30,7 +30,7 @@ nouns:
 - NewtPaint
 - TealPaint
 carousel: jinzo-paint
-comments: https://twitter.com/gingerbeardman/status/1749538521386266939
+comments: https://twitter.com/gingerbeardman/status/1748799583491076191
 
 ---
 
