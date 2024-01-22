@@ -5,7 +5,8 @@
       "script" : "bundle exec jekyll serve --livereload --drafts --profile"
     },
     "run" : {
-      "script" : "bundle exec jekyll serve --livereload --drafts --profile"
+      "enabled" : true,
+      "script" : "bundle exec jekyll serve --incremental --livereload --drafts --profile"
     }
   },
   "openLogOnRun" : "start"

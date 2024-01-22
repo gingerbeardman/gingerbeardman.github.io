@@ -5,6 +5,7 @@ tags:
 - hanafuda
 - solitaire
 - patreon
+- software
 nouns:
   - Palm OS
   - iPhone

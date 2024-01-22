@@ -5,6 +5,7 @@ tags:
 - hanafuda
 - hack
 - patreon
+- software
 nouns:
   - Palm OS
   - Macintosh
