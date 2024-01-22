@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'JINZO Paint: vintage mobile drawing app'
+last_modified_at: '2024-01-22T23:49+00:00'
 date: '2024-01-22T20:53+00:00'
 tags:
 - graphics
