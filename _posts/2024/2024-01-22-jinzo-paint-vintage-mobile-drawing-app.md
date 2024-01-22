@@ -25,8 +25,9 @@ nouns:
 - Atari ST
 - Macintosh
 - Palm
+- Ghidra
 carousel: jinzo-paint
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1749538521386266939
 
 ---
 
@@ -40,7 +41,7 @@ Japanese art software is notable in a number of ways because their drawing tools
 
 MPS introduced [the ability to lock colours and prevent them from being drawn over](https://twitter.com/_blubot_/status/1727397680895476153). You might think of it as a mask featuring every instance of that particular colour. You could also replace colours in a similar way. This was done through an intuitive mechanism of a toolbar button or key press to lock one or more specific colours on the palette, which is quite different to the selection or mask approaches required in Photoshop.
 
-Regardless of whether or not the method of handling colours in MPS is novel or unique, it was adopted as a standard by most Japanese art software for many years. JINZO Paint (JZP), a digital art app for PocketPC (Windows CE) created by , was one such app that adopted the MPS way of doing things and I've been using it a bunch recently. (Jinzo is the Japanese word for kidney.)
+Regardless of whether or not the method of handling colours in MPS is novel or unique, it was adopted as a standard by most Japanese art software for many years. JINZO Paint (JZP), a digital art app for PocketPC (Windows CE) created by , was one such app that adopted the MPS way of doing things and I've been using it a bunch recently. It offers first class support for drawing in dither patterns, and you can load in custom patterns. (Jinzo is the Japanese word for kidney.)
 
 If you're interested in reading about the interface and functions of JINZO Paint [I've mirrored the manuals for two early versions on my website](https://www.gingerbeardman.com/jzpaint/) as the original location is no longer available. A later version supports full 24-bit colour, but removes some useful functions. Regardless, all versions use a similar interface so they're easy to use once you're familiar with the general operation. One thing I would say is that the toolbars can be opened and selected with a single tap-drag-release, which a huge win for usability that reminds me of the original Apple Macintosh, and Palm OS.
 
@@ -69,7 +70,7 @@ Anyway, I noticed whilst using JZP that the file selector would often fail open 
 
 The binaries for my device are ARM so there's good support for debugging that type of code. I fired up Ghidra and started poking around in the earliest, smallest version of JZP. I quickly found the section of code that defined the parameters, helped by the placement of the setup of the strings used in the file selector. [A quick tutorial later](https://www.coalfire.com/the-coalfire-blog/reverse-engineering-and-patching-with-ghidra) and I knew how to use Ghidra to find references to data, patch instructions, and save a new binary. The workaround was to set the parameter to NULL, which works nicely but removes the ability for the app to remember the most recently used directory.
 
-But given that the source was available for the earlier versions, more complete changes could be implemented, rather than simply nulling out the parameter. Additional changes were needed to make sure the program would cope with saving and loading from the root directory of the device. And finally in the 16-colour version saving the bitmap image took a very long time, so it has been optimised.
+However the source is available for the two earlier versions, which I prefer using, so more complete changes could be implemented. Rather than simply nulling out the parameter we could set it to the correct value: the root directory. Additional changes were needed to make sure the program would cope with saving and loading from the root directory of the device. And finally in the 16-colour version saving the bitmap image took a very long time, so it has been optimised.
 
 Many thanks to [@watamario15](https://twitter.com/watamario15) for his invaluable help with debugging and source code wrangling. And to [Brain Wiki](https://brain.fandom.com/ja/wiki/) for being such a valuable resource for crazy old software nerds like me!
 
