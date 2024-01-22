@@ -81,6 +81,7 @@ Many thanks to [@watamario15](https://twitter.com/watamario15) for his invaluabl
 
 - [JINZO Paint page on Brain Wiki](https://brain.fandom.com/ja/wiki/JINZO_Paint)
 - [JINZO Paint thread on Brain Hackers Discord Server](https://discord.com/channels/759813579120836608/1198349406878060646)
+- [JINZO Paint documentation mirror](https://www.gingerbeardman.com/jzpaint/)
 - [Playback of Woody_RINN drawing in Multi Paint System](https://www.youtube.com/watch?v=nIdFor2WOnw) watch the dithering by blending at [07:14](https://www.youtube.com/watch?v=nIdFor2WOnw&t=434)
 
 - [Fixing bugs using Bird on Palm OS](/2022/10/07/fixing-bugs-using-bird-on-palm-os/) an earlier example of this kind of old software hackery
