@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JINZO Paint: vintage mobile drawing app'
-last_modified_at: '2024-01-22T23:49+00:00'
+last_modified_at: '2024-01-23T11:37+00:00'
 date: '2024-01-22T20:53+00:00'
 tags:
 - graphics
@@ -83,5 +83,6 @@ Many thanks to [@watamario15](https://twitter.com/watamario15) for his invaluabl
 - [JINZO Paint page on Brain Wiki](https://brain.fandom.com/ja/wiki/JINZO_Paint)
 - [JINZO Paint thread on Brain Hackers Discord Server](https://discord.com/channels/759813579120836608/1198349406878060646)
 - [JINZO Paint documentation mirror](https://www.gingerbeardman.com/jzpaint/)
-- [JINZO Paint tutorials](http://www.tomozon.sakura.ne.jp/wince/JINZO_COLLECTION/DATA_BOOK/JZP_DATA/tel/howtojzp/howtojzp.htm)
+- [JINZO Paint tutorial (4-colours)](http://www.tomozon.sakura.ne.jp/wince/JINZO_COLLECTION/DATA_BOOK/JZP_DATA/tel/howtojzp/howtojzp.htm)
+- [JINZO Paint tutorial (16-colours)](http://www.tomozon.sakura.ne.jp/wince/JINZO_COLLECTION/DATA_BOOK/JZP_DATA/emugaro/cgmake.htm)
 - [Playback of Woody_RINN drawing in Multi Paint System](https://www.youtube.com/watch?v=nIdFor2WOnw) watch the dithering by blending at [07:14](https://www.youtube.com/watch?v=nIdFor2WOnw&t=434)
