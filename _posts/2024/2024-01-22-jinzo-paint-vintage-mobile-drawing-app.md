@@ -35,9 +35,9 @@ comments: https://twitter.com/gingerbeardman/status/1748799583491076191
 
 ---
 
-At my core I'm a software guy. I don't really get attached to hardware: in my mind it exists only as a conduit to software. I use emulation whenever I can to benefit from the increased convenience and reliability. But when I can't I buy old devices, and with old devices come old problems.
+At my core I'm a software guy. I don't really get attached to hardware: in my mind it exists only as a conduit to software. I use emulation whenever I can to benefit from the increased convenience and reliability. But when I can't... I buy old devices, and with old devices come old problems.
 
-I'm fascinated by [old digital art software](/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/), from my beginnings on Atari ST, though classic Macintosh and vintage Japanese PCs, to handhelds like Palm devices or, in this case, a PocketPC running Windows CE. As with all software, many great ideas have been abandoned in the name of "progress".
+I'm fascinated by [vintage digital art software](/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/), from my beginnings on Atari ST, though classic Macintosh and vintage Japanese PCs, to handhelds like Palm devices or, in this case, a PocketPC running Windows CE. As with all software, many great ideas have been abandoned in the name of "progress".
 
 ## Zen and the Art of Software Design
 
@@ -74,7 +74,7 @@ Anyway, I noticed whilst using JZP that the file selector would often fail to op
 
 The binaries for my device are ARM so there's good support for debugging that type of code. I fired up Ghidra and started poking around in the earliest, smallest version of JZP. I quickly found the section of code that defined the parameters, helped by the placement of the setup of the strings used in the file selector. [A quick tutorial later](https://www.coalfire.com/the-coalfire-blog/reverse-engineering-and-patching-with-ghidra) and I knew how to use Ghidra to find references to data, patch instructions, and save a new binary. The workaround was to set the parameter to NULL, which works nicely but removes the ability for the app to remember the most recently used directory.
 
-However the source is available for the two earlier versions, which I prefer using, so more complete changes could be implemented. Rather than simply nulling out the parameter we could set it to the correct initial value: the root directory. Additional changes were needed to make sure the program would cope with saving and loading from the root directory of the device directly. And finally, just for good measure, the 16-colour version's extremely slow bitmap saving it has been optimised!
+However the source is available for the two earlier versions, which I prefer using, so more complete changes could be implemented. Rather than simply nulling out the parameter we could set it to the correct initial value: the root directory. Additional changes were needed to make sure the program would cope with saving and loading from the root directory of the device directly. And finally, just for good measure, the 16-colour version's extremely slow bitmap saving has been optimised!
 
 Many thanks to [@watamario15](https://twitter.com/watamario15) for his invaluable help with debugging and his generous source code wrangling. And to [Brain Wiki](https://brain.fandom.com/ja/wiki/) for being such a valuable resource for crazy old software nerds like me!
 
