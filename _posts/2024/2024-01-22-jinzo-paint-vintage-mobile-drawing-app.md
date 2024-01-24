@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JINZO Paint: vintage mobile drawing app'
-last_modified_at: '2024-01-23T11:37+00:00'
+last_modified_at: '2024-01-24T23:41+00:00'
 date: '2024-01-22T20:53+00:00'
 tags:
 - graphics
@@ -13,6 +13,7 @@ tags:
 - software
 - hack
 nouns:
+- JINZO Paint 16
 - JINZO Paint
 - Windows CE
 - PocketPC
@@ -61,7 +62,7 @@ If you're interested in reading about the interface and functions of JINZO Paint
 
 My Windows CE device is a bit odd because it's a Brain. These are a range of electronic dictionaries made by Sharp and sold only in Japan. With a bit of gentle coaxing it can be used as a little computer running Windows CE. My particular model is the PW-SH1 which is a 3rd generation device with a high resolution screen whose hinge can rotate 360° so it's back-to-back against the keyboard, effectively becoming a tablet computer. Some years ago it was figured out that you could sideload apps and even force these devices to open the Windows CE desktop and do all manner of crazy things. Japanese hackers and modders seem to love using these devices to run emulators for old computers like Sharp MZ-series and NEC PC-series. If you want to know more check out the [Brain Wiki](https://brain.fandom.com/ja/wiki/Brain_Wiki) and if you want to pick up a device [here's a list of them all](https://brain.fandom.com/ja/wiki/Brain機種別解説) (browser translation required for those links).
 
-![JPG](/images/posts/jinzo-paint.jpg "JINZO Paint, 4-colour version")
+![JPG](https://cdn.gingerbeardman.com/images/posts/jinzo-paint.jpg "JINZO Paint, 4-colour version")
 {:.tofigure}
 
 ----
@@ -77,6 +78,13 @@ The binaries for my device are ARM so there's good support for debugging that ty
 However the source is available for the two earlier versions, which I prefer using, so more complete changes could be implemented. Rather than simply nulling out the parameter we could set it to the correct initial value: the root directory. Additional changes were needed to make sure the program would cope with saving and loading from the root directory of the device directly. And finally, just for good measure, the 16-colour version's extremely slow bitmap saving has been optimised!
 
 Many thanks to [@watamario15](https://twitter.com/watamario15) for his invaluable help with debugging and his generous source code wrangling. And to [Brain Wiki](https://brain.fandom.com/ja/wiki/) for being such a valuable resource for crazy old software nerds like me!
+
+## Keyboard controls
+
+I've also added keyboard control to JINZO Paint 16, with standard Photoshop keys to switch tools, plus keys for undo, set zoom, quick zoom (hold space bar), and more. Patch will come when I settle on a good set of keys and development slows down.
+
+![JPG](https://cdn.gingerbeardman.com/images/posts/jinzo-paint-dev.png "JINZO Paint 16, source code modifications")
+{:.tofigure}
 
 ## Further reading
 
