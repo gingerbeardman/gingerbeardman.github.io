@@ -51,3 +51,4 @@ An alternative way of doing this is to use [BetterDisplay](https://github.com/wa
 **Cons**
 - screenshots are @2x, which might be unexpected or undesirable (personally, I don't mind this)
 - websites that do not provide retina-ready images may appear slightly blurry
+- (in other words: the same things as a real retina display)
