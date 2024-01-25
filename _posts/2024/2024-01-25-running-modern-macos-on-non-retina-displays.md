@@ -10,13 +10,15 @@ tags:
 - displays
 nouns:
 - macOS
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1750556915371798610
 
 ---
 
 It's 2024 and for some years now Apple have stopped supporting non-retina displays. From their perspective it makes sense given that all of their devices run retina displays, but from the user's perspective it's annoying given that so many of us are still using non-retina displays as either an external main display or as a secondary display. Not all of us are capable or comfortable buying multi-thousand dollar 5K displays.
 
-> My personal situation is that I run a portrait display so that I can display a long page of code. Hey, if portrait was good enough for the [Xerox Alto](https://en.wikipedia.org/wiki/Xerox_Alto) and is good enough for the [iPhone](https://en.wikipedia.org/wiki/IPhone) then it's good enough for me. If I need to arrange windows in the top/bottom halves of the display. I've been using this setup for a handful of years now, with my current setup consisting of a 1920×1200 display rotated 90-degrees giving me a desktop of 1200×1920. You might be thinking, "why not use a rotated 1080p display?" and the answer to that question is that a lot of software won't display correctly or even fit on a desktop of width 1080px, but is fine at 1200px.
+> My personal situation is that I run a portrait display so that I can display a long page of code. Hey, if portrait was good enough for the [Xerox Alto](https://en.wikipedia.org/wiki/Xerox_Alto) and is good enough for the [iPhone](https://en.wikipedia.org/wiki/IPhone) then it's good enough for me. I have shortcut keys to arrange windows into halves, thirds or quarters and I'm super productive with it. I've been using this setup for a handful of years now, with my current setup consisting of a 1920×1200 display rotated 90-degrees giving me a desktop of 1200×1920.
+> 
+> You might be thinking, "why not use a rotated 1080p display?" and the answer to that question is that a lot of software won't display correctly or even fit on a desktop of width 1080px, but is fine at 1200px. You might also be thinking "why not buy a 4K display?" and that's because none of them are wide enough in portrait. Finally, if you're asking "why not buy a 5K display?" then, yes, that's a very good point. But until I do that, there's a problem waiting to be solved.
 
 ----
 
