@@ -28,7 +28,7 @@ There are a number of issues running modern macOS on non-retina displays that Ap
 
 **Text cursor**
 
-Since macOS 14, Sonoma, there's a new redesign text cursor. It changes colour and flashes in a different way than the normal cursor, but more importantly it is 50% wider (1.5x) on non-retina displays! On retina displays the cursor is equivalent to 2px wide and on non-retina displays it is equivalent to 3px side. You might think that a single pixel might not make much of a difference, but when there's only 2px between characters it means the neighbouring text is obscured. So it's difficult, perhaps even impossible, to tell whether a c character to the left of the cursor is a c, d, o, q, etc. In some situations, depending on your choice of font or text size the new wider cursor will completely obscure the letters i, I, l, 1 that are next to the cursor.
+Since macOS 14, Sonoma, there's a new redesign text cursor. It changes colour and flashes in a different way than the normal cursor, but more importantly it is 50% wider (1.5x) on non-retina displays! On retina displays the cursor is equivalent to 2px wide and on non-retina displays it is equivalent to 3px side. You might think that a single pixel might not make much of a difference, but when there's only 2px between characters it means [the neighbouring text is obscured](https://forums.macrumors.com/attachments/cursor-non-retina-png.2338640/). So it's difficult, perhaps even impossible, to tell whether a c character to the left of the cursor is a c, d, o, q, etc. In some situations, depending on your choice of font or text size the new wider cursor will completely obscure the letters i, I, l, 1 that are next to the cursor. Reported to Apple as FB13536508.
 
 **Abandoned icons**
 
