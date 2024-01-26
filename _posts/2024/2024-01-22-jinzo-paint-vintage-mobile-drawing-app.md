@@ -86,6 +86,7 @@ I've also added keyboard control to JINZO Paint 16, with standard Photoshop keys
 ![JPG](https://cdn.gingerbeardman.com/images/posts/jinzo-paint-dev.png "JINZO Paint 16, source code modifications")
 {:.tofigure}
 
+
 ## Further reading
 
 - [JINZO Paint page on Brain Wiki](https://brain.fandom.com/ja/wiki/JINZO_Paint)
