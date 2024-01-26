@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JINZO Paint: vintage mobile drawing app'
-last_modified_at: '2024-01-24T23:41+00:00'
+last_modified_at: '2024-01-26T18:54+00:00'
 date: '2024-01-22T20:53+00:00'
 tags:
 - graphics
@@ -81,7 +81,7 @@ Many thanks to [@watamario15](https://twitter.com/watamario15) for his invaluabl
 
 ## Keyboard controls
 
-I've also added keyboard control to JINZO Paint 16, with standard Photoshop keys to switch tools, plus keys for undo, set zoom, quick zoom (hold space bar), and more. Patch will come when I settle on a good set of keys and development slows down.
+I've also added keyboard control to JINZO Paint 16, with standard Photoshop keys to switch tools, plus keys for undo, set zoom, quick zoom (hold space bar), and more. If I get permission from the original author I'll release a patch.
 
 ![JPG](https://cdn.gingerbeardman.com/images/posts/jinzo-paint-dev.png "JINZO Paint 16, source code modifications")
 {:.tofigure}
