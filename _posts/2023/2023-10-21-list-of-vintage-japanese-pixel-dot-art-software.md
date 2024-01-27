@@ -30,7 +30,7 @@ A long term goal would be to find files for each of these so they can be activel
 
 ## Selected columns from the big list
 
-The table below is a snapshot of [selected columns of a Google Sheet](https://docs.google.com/spreadsheets/d/17RhWfM2wXW4A-MkQdC6W-w00zHM2tbLfpzuSTD8woMs/edit#gid=0) that I'm updating over time. The full spreadsheet contains links to downloads, videos, web pages, magazine mentions, and many other references. So be sure to check, bookmark or subscribe to that link for the very latest information. Since January 2024 I've been adding non-Japanese software that was popular in Japan.
+The table below is a snapshot of [selected columns of a Google Sheet](https://docs.google.com/spreadsheets/d/17RhWfM2wXW4A-MkQdC6W-w00zHM2tbLfpzuSTD8woMs/edit#gid=0) that I'm updating over time. The full spreadsheet contains links to downloads, videos, web pages, magazine mentions, and many other references. So be sure to check, bookmark or subscribe to that link for the very latest information. Since January 2024 I've been adding some non-Japanese software that were popular in Japan.
 
  Regarding the empty cells: software missing a Japanese name was mostly referred to only by an English title. The rest of the missing information is TBC.
 
