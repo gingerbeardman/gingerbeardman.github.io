@@ -2,7 +2,7 @@
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
 date: '2023-10-21T16:56+01:00'
-last_modified_at: '2024-01-27T16:12+00:00'
+last_modified_at: '2024-01-27T18:18+00:00'
 tags:
 - graphics
 - pixelart
@@ -36,7 +36,7 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
-Total entries: 221
+Total entries: 225
 
 <div class="table-wrapper" markdown="block">
 |Platform|English|Japanese|Year|Developer|
@@ -67,7 +67,7 @@ Total entries: 221
 |Mac OS X|DotEditerSE||2016|tokyoconsaruai|
 |Mac OS X|DotShot X||2007|Studio Shin|
 |Mac OS X|FireAlpaca ||2011|FireAlpaca|
-|Mac OS X|PikoPixel ||2013|Twilight Edge Software|
+|Mac OS X|PikoPixel||2013|Twilight Edge Software|
 |Mac OS X|PoCo ||2005|KAENRYUU Koutoku|
 |MPC-X |MPC-X Lightpen Graphics||1984|Sanyo|
 |MSX |(Graphic Editor) Sha Ga Raku |写・画・楽 |1988|Victor|
@@ -96,6 +96,9 @@ Total entries: 221
 |Newton|HexPaint ||1997|HexDump|
 |Newton|NewtPaint||1995|Glen Raphael|
 |OS/2|QueenCy||2000|masami|
+|Palm|MoePaint ||2004|Hayashino|
+|Palm|PixMarker||2001|wernyv|
+|Palm|Sphere the PAINTER ||2001|Katsunori Sakuragi|
 |Palm|yapp ||2000|Ines|
 |PC-100|Airbrush |エアーブラシ|1984|ASCII|
 |PC-6001 |Picture Editor |ピクチャーエディタ |1983|ASCII|
@@ -258,6 +261,7 @@ Total entries: 221
 |Zaurus|PrismPocket||2002|Soga Juroh|
 |Zaurus|Zausuke|ざうすけ|2000|Soga Juroh|
 |Zaurus Linux|CloverPaint||2005|Soga Juroh|
+|Zaurus Linux|PetitPeinture||2004|Sakira|
 |Dedicated |Aniputer |アニピュータ|1982|JVC|
 |Dedicated |Hyper Paint 2||1991|Shima Seiki|
 |Dedicated |Personal LINKS: PFB-2||1991|LINKS Corporation|
