@@ -2,7 +2,7 @@
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
 date: '2023-10-21T16:56+01:00'
-last_modified_at: '2024-01-27T01:38+00:00'
+last_modified_at: '2024-01-27T16:12+00:00'
 tags:
 - graphics
 - pixelart
@@ -30,13 +30,13 @@ A long term goal would be to find files for each of these so they can be activel
 
 ## Selected columns from the big list
 
-The table below is a snapshot of [selected columns of a Google Sheet](https://docs.google.com/spreadsheets/d/17RhWfM2wXW4A-MkQdC6W-w00zHM2tbLfpzuSTD8woMs/edit#gid=0) that I'm updating over time. The full spreadsheet contains links to downloads, videos, web pages, magazine mentions, and many other references. So be sure to check, bookmark or subscribe to that link for the very latest information.
+The table below is a snapshot of [selected columns of a Google Sheet](https://docs.google.com/spreadsheets/d/17RhWfM2wXW4A-MkQdC6W-w00zHM2tbLfpzuSTD8woMs/edit#gid=0) that I'm updating over time. The full spreadsheet contains links to downloads, videos, web pages, magazine mentions, and many other references. So be sure to check, bookmark or subscribe to that link for the very latest information. Since January 2024 I've been adding non-Japanese software that was popular in Japan.
 
  Regarding the empty cells: software missing a Japanese name was mostly referred to only by an English title. The rest of the missing information is TBC.
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
-Total entries: 220
+Total entries: 221
 
 <div class="table-wrapper" markdown="block">
 |Platform|English|Japanese|Year|Developer|
@@ -67,6 +67,7 @@ Total entries: 220
 |Mac OS X|DotEditerSE||2016|tokyoconsaruai|
 |Mac OS X|DotShot X||2007|Studio Shin|
 |Mac OS X|FireAlpaca ||2011|FireAlpaca|
+|Mac OS X|PikoPixel ||2013|Twilight Edge Software|
 |Mac OS X|PoCo ||2005|KAENRYUU Koutoku|
 |MPC-X |MPC-X Lightpen Graphics||1984|Sanyo|
 |MSX |(Graphic Editor) Sha Ga Raku |写・画・楽 |1988|Victor|
