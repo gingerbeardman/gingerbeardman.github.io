@@ -2,7 +2,7 @@
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
 date: '2023-10-21T16:56+01:00'
-last_modified_at: '2024-01-27T18:18+00:00'
+last_modified_at: '2024-01-27T20:56+00:00'
 tags:
 - graphics
 - pixelart
@@ -36,7 +36,7 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
-Total entries: 225
+Total entries: 226
 
 <div class="table-wrapper" markdown="block">
 |Platform|English|Japanese|Year|Developer|
@@ -97,6 +97,7 @@ Total entries: 225
 |Newton|NewtPaint||1995|Glen Raphael|
 |OS/2|QueenCy||2000|masami|
 |Palm|MoePaint ||2004|Hayashino|
+|Palm|PenPenCol ||2001|Shigeyuki Seko|
 |Palm|PixMarker||2001|wernyv|
 |Palm|Sphere the PAINTER ||2001|Katsunori Sakuragi|
 |Palm|yapp ||2000|Ines|
