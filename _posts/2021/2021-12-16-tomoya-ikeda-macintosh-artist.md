@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tomoya Ikeda - Macintosh Artist
-last_modified_at: '2023-10-17T21:38+01:00'
+last_modified_at: '2024-02-01T22:55+00:00'
 tags:
 - macintosh
 - artist
@@ -87,6 +87,9 @@ The 1988 MacWorld EXPO held in San Francisco was attended by over 45,000 people 
 The Boston MacWorld EXPO event later that year also had an Enzan-Hoshigumi stand, accompanied by a 7x12 feet multi-panel Japanese folding screen comprised of a sheet-by-sheet assembly of thermal prints from an enlarged Tomoya Ikeda PixelPaint illustration. The screen was later [shown at the "imagine" event](https://archive.org/details/verbum203unse/page/2/mode/2up) organised at Boston Computer Museum by Verbum Magazine.
 
 ![JPG](https://cdn.gingerbeardman.com/images/posts/tomoya-ikeda-folding-screen.jpg " ")
+{:.tofigure}
+
+![JPG](https://cdn.gingerbeardman.com/images/posts/tomoya-ikeda-folding-screen-colour.jpg "Colour crop from Enzan-Hoshigumi profile in the 1989 No. 13 issue of MAC+ CYBER magazine")
 {:.tofigure}
 
 ## Selected Works
