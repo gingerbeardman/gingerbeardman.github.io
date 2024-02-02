@@ -45,10 +45,10 @@ An alternative way of doing this is to use [BetterDisplay](https://github.com/wa
 > If you want to do it by hand you can open up the `com.apple.windowserver.displays...plist` at `~/Library/Preferences/ByHost/`, in something like PlistEdit Pro, and search for "Scale" to change each instance of a value 1 into 2. Thanks to [Vladimir Kochkovski](https://www.getvladimir.com) for sharing this solution!
 
 **Pros**
-- improves cursor width issue (it's less wide and neighbouring text is not obscured quite as much)
+- improves cursor width issue (it's less wide so neighbouring text is not obscured quite as much)
 - fixes many other user interface elements that are bad on non-retina displays
 
 **Cons**
-- screenshots are @2x, which might be unexpected or undesirable (personally, I don't mind this)
+- screenshots are @2x, which might be unexpected or undesirable
 - websites that do not provide retina-ready images may appear slightly blurry
 - (in other words: the same things as a real retina display)
