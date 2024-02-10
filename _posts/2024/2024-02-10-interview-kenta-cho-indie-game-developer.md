@@ -7,8 +7,7 @@ tags:
 - qanda
 - profile
 - gamedev
-- dev2dev
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1756438410938454240
 style: |
   img.profile {
     float: right;
