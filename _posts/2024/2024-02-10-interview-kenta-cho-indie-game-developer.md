@@ -95,7 +95,7 @@ It was [*Namco*](https://en.wikipedia.org/wiki/Namco)'s arcade games. In the 198
 
 ----
 
-## I see a nice balance of gameplay systems and skill in all of those games. That makes think about the types of games you create. Now, if you could have developed any existing game, which one would you choose, and why?
+## I see a nice balance of gameplay systems and skill in all of those games. That brings to mind the types of games you create. Now, if you could have developed any existing game, which one would you choose, and why?
 
 That's [*Herzog*](https://en.wikipedia.org/wiki/Herzog_(video_game)). It's a real-time strategy game released by *Technosoft* for personal computers. Overseas, the sequel [*Herzog Zwei*](https://en.wikipedia.org/wiki/Herzog_Zwei), which was released for the [*Sega Mega Drive*](https://en.wikipedia.org/wiki/Sega_Mega_Drive), is more famous, and the original *Herzog* might not be as well-known. It's an action game where you control a robot that can move both in the air and on the ground. The battlefield is a vertically long strip, with enemy and ally bases located at each end. Players could produce units like infantry, tanks, and anti-aircraft guns at these bases and dispatch them towards the opponent's base. At that time, it was quite rare to have a game where you could produce allies other than the player and fight together. I was very impressed by this game, where you could fight as part of an army against enemy forces.
 
