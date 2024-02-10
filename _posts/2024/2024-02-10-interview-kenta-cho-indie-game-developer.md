@@ -66,7 +66,7 @@ I tried submitting some games I made to "*Mycom BASIC Magazine*", but it was tou
 - [METEORITE: source code](https://archive.org/details/micomBASIC-1989-09/page/139/mode/1up) in the 1989-09 issue of Mycom BASIC Magazine
 - [METEORITE: tape file](/files/meteorite-by-kenta-cho-from-mycom-basic-magazine-1989-09.p6t) for use with an PC-6001 emulator
 
-> *Thanks to Dustin Hubbard (Hubz)* at [Gaming Alexandria](https://www.gamingalexandria.com) for transforming the magazine source code listing into a tape image. This was done using specialist Japanese software [ProgamListOCR](https://github.com/eighttails/ProgramListOCR) and [DumpListEditor](https://bugfire2009.ojaru.jp/input.html) that are tailor made for getting old source code off the page and into the computer, so thanks also to the authors of those applications. Video game preservation is a worldwide effort.
+> *Thanks to Dustin Hubbard (Hubz)* at [Gaming Alexandria](https://www.gamingalexandria.com) for transforming the magazine source code listing into a tape image. This was done using specialist Japanese software [ProgamListOCR](https://github.com/eighttails/ProgramListOCR) and [DumpListEditor](https://bugfire2009.ojaru.jp/input.html) that are tailor-made for getting old source code off the page and into the computer, so thanks also to the authors of those applications. Video game preservation is a worldwide effort.
 
 ![METEORITE source code in 1989-09 issue of Mycom BASIC Magazine](https://cdn.gingerbeardman.com/images/posts/dev2dev-kenta-cho-meteorite.jpg "METEORITE source code in 1989-09 issue of Mycom BASIC Magazine")
 {:.tofigure}
