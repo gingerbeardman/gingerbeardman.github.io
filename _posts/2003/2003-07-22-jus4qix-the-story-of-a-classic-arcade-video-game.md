@@ -4,6 +4,7 @@ title: 'JUS4QIX: the story of a classic arcade video game'
 tags:
 - videogames
 - history
+- interview
 nouns:
 - Taito America
 - Taito
