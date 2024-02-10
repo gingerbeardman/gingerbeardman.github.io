@@ -20,8 +20,6 @@ nouns:
 - Files
 - Safari
 - Slide Over
-- iOS
-- macOS
 carousel: ''
 featured: false
 comments: https://twitter.com/gingerbeardman/status/1384827300697489408
