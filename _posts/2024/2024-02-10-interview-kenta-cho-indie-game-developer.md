@@ -175,7 +175,7 @@ When I released [*Paku Paku*](https://abagames.github.io/crisp-game-lib-11-games
 
 - [Play Paku Paku in your browser](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku) "...just one more go..."
 
-## For me, Paku Paku seems to be the distillation of everything Kenta Cho from his early days with single-line displays of pocket computers, through Namco's arcade titles like Pac-Man, to his love for modern programming languages and the web browser as a platform.
+## Paku Paku could be considered the essence of Kenta Cho: from the single-line display pocket computers, through Namco's arcade titles like Pac-Man, to his love for modern programming languages and the web browser as a platform.
 
 ## Many thanks to Kenta Cho for this interview. Now go play some of his games!
 
