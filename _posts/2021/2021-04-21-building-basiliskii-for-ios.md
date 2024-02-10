@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Building BasiliskII for iOS
+last_modified_at: '2024-02-10T00:55+00:00'
 tags:
 - basiliskii
 - emulation
@@ -19,6 +20,8 @@ nouns:
 - Files
 - Safari
 - Slide Over
+- iOS
+- macOS
 carousel: ''
 featured: false
 comments: https://twitter.com/gingerbeardman/status/1384827300697489408
@@ -26,20 +29,22 @@ comments: https://twitter.com/gingerbeardman/status/1384827300697489408
 ---
 I've had numerous requests for a guide to building BasiliskII on iOS. Let me know of anything is unclear or would benefit from more details!
 
-October 2022: Updated for building with Xcode 14.0.1 on macOS 12.6 Monterey to iOS 15.7. YMMV.
+February 2024: Updated for building with Xcode 15.2 on macOS 14.3 to iOS 17.3. YMMV.
 
 ## Building
 
 1. Install [Xcode from Mac App Store](https://apps.apple.com/gb/app/xcode/id497799835?mt=12)
 2. Clone [project source from GitHub](https://github.com/zydeco/macemu/tree/ios/BasiliskII/src/iOS)
-3. Switch to the `ios` branch.
+3. Switch to the `ios` branch
 4. Open .xcodeproj file
 5. Set `Product > Destination` to point to your device
 6. Run
 
+----
+
 ## Optional Changes
 
-I plan to add these changes into my own fork of the code. Soon, maybe!
+These are changes I made that give a better experience on my specific iPad.
 
 ### Adding chunky screen resolutions
 
@@ -47,11 +52,11 @@ I added chunky "half resolution" screen modes to increase the size of user inter
 
 For iPad Pro 12.9" these changes were:
 
-    [videoModes addObject:[NSValue valueWithCGSize:CGSizeMake(512, 496)]]; // portrait minus keyboard
-    [videoModes addObject:[NSValue valueWithCGSize:CGSizeMake(512, 672)]]; // portrait "full" screen
-    [videoModes addObject:[NSValue valueWithCGSize:CGSizeMake(683, 502)]]; // landscape "full" screen
+    [self addVideoMode:CGSizeMake(512, 496) to:videoModes]; // portrait minus keyboard
+    [self addVideoMode:CGSizeMake(512, 672) to:videoModes]; // portrait "full" screen
+    [self addVideoMode:CGSizeMake(683, 502) to:videoModes]; // landscape "full" screen
 
-Enter those after [line 56 in file B2ScreenView.mm](https://github.com/zydeco/macemu/blob/74254b59f3829468ee2e2ac5b9eb3d81d281caa7/BasiliskII/src/iOS/BasiliskII/B2ScreenView.mm#L56)
+Enter those after [line 61 in file B2ScreenView.mm](https://github.com/zydeco/macemu/blob/9b90ebad780f35afb9f0001109bdca9c7e1cb478/BasiliskII/src/iOS/BasiliskII/B2ScreenView.mm#L56-L61)
 
 ### Disabling graphics smoothing
 
@@ -61,7 +66,7 @@ My personal preference is to disable filtering/smoothing on all graphics scaling
     videoLayer.magnificationFilter = filter;
     videoLayer.minificationFilter = filter;
 
-Make this change [around line 108 in file B2ScreenView.mm](https://github.com/zydeco/macemu/blob/74254b59f3829468ee2e2ac5b9eb3d81d281caa7/BasiliskII/src/iOS/BasiliskII/B2ScreenView.mm#L108)
+Make this change at [line 108 in file B2ScreenView.mm](https://github.com/zydeco/macemu/blob/9b90ebad780f35afb9f0001109bdca9c7e1cb478/BasiliskII/src/iOS/BasiliskII/B2ScreenView.mm#L108)
 
 ### Custom Keyboard Layouts
 
@@ -71,7 +76,7 @@ These are defined in JSON and compiled to a custom format:
 * several regional layouts are already provided
 * you don't have to make your own!
 
-[Here's one that I made](https://github.com/gingerbeardman/artworks-keyboard), based on the British layout, for use with Deneba artWORKS/UltraPaint.
+[Here's one that I made](https://github.com/gingerbeardman/artworks-keyboard), based on the British layout, for use with Deneba artWORKS/UltraPaint. To install it you should copy the file `artWORKS.nfkeyboardlayout` to BasiliskII's *Keyboard Layout* folder using the Files app on your iPad.
 
 ### Enable Split View Support
 
@@ -83,9 +88,17 @@ This would need to be managed/avoided by the screen layout of BasiliskII, but wh
 
 However, you can still use Slide Over to position Safari, Files, etc. along the edge of your screen.
 
+----
+
 ## Notes
 
-There are additional capabilities that come  the emulator integration. I go further into these, and more besides, in a additional posts listed at the bottom of the page.
+There are additional capabilities that come with the emulator integration. I go further into these, and more besides, in a additional posts listed at the bottom of the page.
+
+### Gestures
+
+- Swipe up/down with two fingers to show/hide the on-screen keyboard
+- Spread 4 or 5 fingers to show the *BasiliskII Settings* pop-up
+- Tap outside of the *BasiliskII Settings* pop-up to hide it
 
 ### File Sharing
 
@@ -93,6 +106,7 @@ A drive appears on the desktop that is mapped to the iOS file sharing folder of 
 
 * You can use Files to transfer files into or out of the emulated machine
 * Share Sheet also works for getting files into the emulated machine
+* You can organise the files into folders using the Files app
 
 ### Apple Pencil
 
