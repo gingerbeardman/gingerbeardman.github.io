@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building BasiliskII for iOS
-last_modified_at: '2024-02-10T00:55+00:00'
+last_modified_at: '2024-02-10T16:51+00:00'
 tags:
 - basiliskii
 - emulation
@@ -97,6 +97,12 @@ There are additional capabilities that come with the emulator integration. I go 
 - Swipe up/down with two fingers to show/hide the on-screen keyboard
 - Spread 4 or 5 fingers to show the *BasiliskII Settings* pop-up
 - Tap outside of the *BasiliskII Settings* pop-up to hide it
+
+### Custom screen size
+
+- Pinch with 2 fingers to dynamically resize screen
+- Separate tracking for horizontal and vertical resizing
+- Double-tap for full size screen
 
 ### File Sharing
 
