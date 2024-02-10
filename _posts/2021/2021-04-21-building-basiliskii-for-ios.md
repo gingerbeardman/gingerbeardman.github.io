@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building BasiliskII for iOS
-last_modified_at: '2024-02-10T16:51+00:00'
+last_modified_at: '2024-02-10T22:23+00:00'
 tags:
 - basiliskii
 - emulation
@@ -92,11 +92,15 @@ However, you can still use Slide Over to position Safari, Files, etc. along the 
 
 There are additional capabilities that come with the emulator integration. I go further into these, and more besides, in a additional posts listed at the bottom of the page.
 
-### Gestures
+### Keyboard
 
 - Swipe up/down with two fingers to show/hide the on-screen keyboard
+
+### Settings
+
 - Spread 4 or 5 fingers to show the *BasiliskII Settings* pop-up
 - Tap outside of the *BasiliskII Settings* pop-up to hide it
+- Settings can also be invoked through the app menu, long press the app icon
 
 ### Custom screen size
 
