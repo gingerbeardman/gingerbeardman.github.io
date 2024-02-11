@@ -114,6 +114,7 @@ With *BulletML*, I developed *Noiz2sa*, aiming to achieve the fun of bullet hell
 Also, during this period, I entered various game contests with my games. Games for the [*WonderSwan*](https://en.wikipedia.org/wiki/WonderSwan) on [*WonderWitch*](https://ja.wikipedia.org/wiki/ワンダーウィッチ), games for *Xbox 360* on [*XNA*](https://en.wikipedia.org/wiki/Microsoft_XNA), and games for contests on [*P/ECE*](/2021/08/19/aquaplus-piece-vs-panic-playdate/). Fortunately, some games won awards. I had opportunities to present my games to judges, which was enjoyable. Playing my games on these consumer devices was a fresh experience for an amateur developer. Also, optimizing for each device's characteristics provided many interesting development experiences.
 
 - [Kenta Cho's Windows games](https://www.asahi-net.or.jp/~cs8k-cyu/windows.html)
+- [Kenta Chu's miscellaneous games](https://www.asahi-net.or.jp/~cs8k-cyu/misc.html)
 
 ----
 
