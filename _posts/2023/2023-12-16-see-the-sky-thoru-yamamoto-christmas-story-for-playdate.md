@@ -21,6 +21,7 @@ nouns:
 - Thoru Yamamoto
 - Thoru
 - Matt Sephton
+featured: true
 comments: https://twitter.com/gingerbeardman/status/1735813826589704428
 
 ---
