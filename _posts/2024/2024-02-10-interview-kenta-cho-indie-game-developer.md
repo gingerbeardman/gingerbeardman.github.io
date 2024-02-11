@@ -2,6 +2,7 @@
 layout: post
 title: 'Interview: Kenta Cho (Japanese indie game developer)'
 date: '2024-02-10T21:46+00:00'
+last_modified_at: '2024-02-11T15:08+00:00'
 tags:
 - interview
 - qanda
@@ -97,7 +98,7 @@ It was [*Namco*](https://en.wikipedia.org/wiki/Namco)'s arcade games. In the 198
 
 ## I see a nice balance of gameplay systems and skill in all of those games. That brings to mind the types of games you create. Now, if you could have developed any existing game, which one would you choose, and why?
 
-That's [*Herzog*](https://en.wikipedia.org/wiki/Herzog_(video_game)). It's a real-time strategy game released by *Technosoft* for personal computers. Overseas, the sequel [*Herzog Zwei*](https://en.wikipedia.org/wiki/Herzog_Zwei), which was released for the [*Sega Mega Drive*](https://en.wikipedia.org/wiki/Sega_Mega_Drive), is more famous, and the original *Herzog* might not be as well-known. It's an action game where you control a robot that can move both in the air and on the ground. The battlefield is a vertically long strip, with enemy and ally bases located at each end. Players could produce units like infantry, tanks, and anti-aircraft guns at these bases and dispatch them towards the opponent's base. At that time, it was quite rare to have a game where you could produce allies other than the player and fight together. I was very impressed by this game, where you could fight as part of an army against enemy forces.
+That's [*Herzog*](https://en.wikipedia.org/wiki/Herzog_(video_game)). It's a real-time strategy game released by [*Technosoft*](https://en.wikipedia.org/wiki/Technosoft) for personal computers. Overseas, the sequel [*Herzog Zwei*](https://en.wikipedia.org/wiki/Herzog_Zwei), which was released for the [*Sega Mega Drive*](https://en.wikipedia.org/wiki/Sega_Mega_Drive), is more famous, and the original *Herzog* might not be as well-known. It's an action game where you control a robot that can move both in the air and on the ground. The battlefield is a vertically long strip, with enemy and ally bases located at each end. Players could produce units like infantry, tanks, and anti-aircraft guns at these bases and dispatch them towards the opponent's base. At that time, it was quite rare to have a game where you could produce allies other than the player and fight together. I was very impressed by this game, where you could fight as part of an army against enemy forces.
 
 Later, I even created a game similar to *Herzog* for the [*PC-9801*](https://en.wikipedia.org/wiki/PC-98). I made the screen 3D and added an arrangement where you could freely board any friendly unit on the battlefield, intending to make the game even more enjoyable.
 
