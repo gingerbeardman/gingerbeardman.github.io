@@ -105,7 +105,7 @@ Later, I even created a game similar to *Herzog* for the [*PC-9801*](https://en.
 
 ----
 
-## In the early 2000s many Western gamers developed a real interest in Japanese indie games, particularly shoot-'em-ups (shmups). You gained recognition for multiple shmups, and you were even interviewed by MTV! Can you share any experiences from that period?
+## In the early 2000s many Western gamers developed a real interest in Japanese indie games, particularly shoot-'em-ups (shmups). You gained recognition for multiple shmups, and you were even interviewed by *MTV*! Can you share any experiences from that period?
 
 At that time, I often played bullet hell shooters released by *CAVE* at game arcades, especially loving [*Progear no Arashi*](https://en.wikipedia.org/wiki/Progear_no_Arashi). *Progear*'s bullet patterns were very complex compared to earlier *CAVE* games, like fan-shaped bullets shot in nine directions, slowly decelerating, and then five straight bullets targeting the player. I wanted to replicate such complex bullet movements in a simple way and developed the *BulletML* language.
 
@@ -144,7 +144,7 @@ I also create games driven by specific technologies. I've incorporated procedura
 
 ----
 
-## I'm also interested in this aspect of game development, it's a deep well with a lot of opportunity. I can see its influence in many of the games you've created using your Crisp Game Lib. What was the thinking behind your framework?
+## I'm also interested in this aspect of game development, it's a deep well with a lot of opportunity. I can see its influence in many of the games you've created using your *Crisp Game Lib*. What was the thinking behind your framework?
 
 The goal of [*Crisp Game Lib*](https://github.com/abagames/crisp-game-lib) is to enable the creation of innovative games within a three-hour timeframe. For this, I made it easy to implement collision detection, which is typically challenging. I particularly focused on making collision detection easy for geometric shapes like lines and arcs, allowing the inclusion of geometric shapes as terrain, obstacles, players, and enemies. This makes it easier to create games different from traditional sprite-based 2D games.
 
@@ -169,13 +169,13 @@ As mentioned in the previous answer, rewarding risky actions is closely related 
 
 ----
 
-## In January 2024, your game Paku Paku went viral after being featured on Hacker News. It was picked up by various bloggers and news outlets, and was even ported by fans to multiple systems. Were you surprised by this turn of events, and why do you think the game garnered such attention?
+## In January 2024, your game *Paku Paku* went viral after being featured on *Hacker News*. It was picked up by various bloggers and news outlets, and was even ported by fans to multiple systems. Were you surprised by this turn of events, and why do you think the game garnered such attention?
 
 When I released [*Paku Paku*](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku) a year ago, it was fairly well-received among Japanese players, but I was surprised that it gained attention from international players a year later. Many articles described *Paku Paku* as a '*1D Pac-Man*', which likely sparked curiosity about how a 1D version of *Pac-Man* could be realized. *Paku Paku* was an example of the demakes and minimalization I often do when making small games. Successfully balancing it as a good game within the strong constraint of 1D might be why it became popular. My experiences with games I made and played during the pocket computer era were very helpful in developing a 1D game.
 
 - [Play Paku Paku in your browser](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku) "...just one more go..."
 
-## Paku Paku could be considered the essence of Kenta Cho: from the single-line display pocket computers, through Namco's arcade titles like Pac-Man, to his love for modern programming languages and the web browser as a platform.
+## *Paku Paku* could be considered the essence of Kenta Cho: from the single-line display pocket computers, through Namco's arcade titles like *Pac-Man*, to his love for modern programming languages and the web browser as a platform.
 
 ## Many thanks to Kenta Cho for this interview. Now go play some of his games!
 
