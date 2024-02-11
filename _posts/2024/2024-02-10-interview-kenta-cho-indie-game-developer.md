@@ -8,6 +8,7 @@ tags:
 - qanda
 - profile
 - gamedev
+featured: true
 comments: https://twitter.com/gingerbeardman/status/1756438410938454240
 style: |
   img.profile {
