@@ -10,6 +10,7 @@ tags:
 - pixelart
 - vectorart
 - videotex
+- barbaranessim
 nouns:
 - BYTE
 - Norpak IPS-2
