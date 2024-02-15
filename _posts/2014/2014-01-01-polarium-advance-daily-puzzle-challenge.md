@@ -37,8 +37,8 @@ Anyway, it was a [bit of a squeeze](https://twitter.com/gingerbeardman/status/41
 
 > You can [download CSV data](/files/Polarium-Advance.csv) of my progress.
 
-![PNG](/images/posts/polarium-advance-progress-chart.png)
+![PNG](https://cdn.gingerbeardman.com/images/posts/polarium-advance-progress-chart.png)
 
-![PNG](/images/posts/polarium-advance-screen-almost.jpg){:class="screen"}
+![PNG](https://cdn.gingerbeardman.com/images/posts/polarium-advance-screen-almost.jpg){:class="screen"}
 
-![PNG](/images/posts/polarium-advance-screen-done.jpg){:class="screen"}
+![PNG](https://cdn.gingerbeardman.com/images/posts/polarium-advance-screen-done.jpg){:class="screen"}

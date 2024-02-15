@@ -59,10 +59,10 @@ High-resolution scans are available to my patrons.
 
 Hope you enjoy it.
 
-![1 of 4](/images/posts/macintosh-story-1.jpg)
+![1 of 4](https://cdn.gingerbeardman.com/images/posts/macintosh-story-1.jpg)
 
-![2 of 4](/images/posts/macintosh-story-2.jpg)
+![2 of 4](https://cdn.gingerbeardman.com/images/posts/macintosh-story-2.jpg)
 
-![3 of 4](/images/posts/macintosh-story-3.jpg)
+![3 of 4](https://cdn.gingerbeardman.com/images/posts/macintosh-story-3.jpg)
 
-![4 of 4](/images/posts/macintosh-story-4.jpg)
+![4 of 4](https://cdn.gingerbeardman.com/images/posts/macintosh-story-4.jpg)

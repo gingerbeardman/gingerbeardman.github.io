@@ -24,7 +24,7 @@ The archive as it stands (October 2022):
 *   total media: 378
 *   total files: 841,491
 
-![PNG](/images/posts/mmm-scatter.png "Distribution of discs by month")
+![PNG](https://cdn.gingerbeardman.com/images/posts/mmm-scatter.png "Distribution of discs by month")
 {:.tofigure}
 
 This is such an amazing treasure trove of files, containing many long lost files of both English and Japanese origin. The scatter chart shows the range of date coverage of the collection, and full file listings are searchable at [https://www.gingerbeardman.com/mmm/](https://www.gingerbeardman.com/mmm/)

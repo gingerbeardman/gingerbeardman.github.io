@@ -43,7 +43,7 @@ My tool of choice on System 7 is [Deneba artWORKS](/2021/04/25/mixing-external-t
 
 Some established Macintosh artists have questioned both my use of modern technology and my drawing techniques. Hopefully this post will give a little more insight into how I go about things.
 
-![Using Deneba artWORKS on iPad Pro](/images/posts/playdate-during.jpg "Deneba artWORKS in Macintosh System 7 running on iPad Pro")
+![Using Deneba artWORKS on iPad Pro](https://cdn.gingerbeardman.com/images/posts/playdate-during.jpg "Deneba artWORKS in Macintosh System 7 running on iPad Pro")
 {:.tofigure}
 
 ### Playdate
@@ -64,7 +64,7 @@ I first picked the dither pattern for the main "yellow" body and then picked the
 
 I used the Paintbrush and Pencil tools to add in some details like the dots on the buttons and my hand-drawn version of the Playdate logo. The shadow was drawn freehand using the Paintbrush tool with a larger circular brush size. The background pattern is a simple sparse dither pattern applied using the Paint Can tool.
 
-![Just the Playdate](/images/posts/playdate-before@2x.png "Just the Playdate looking a little bemused")
+![Just the Playdate](https://cdn.gingerbeardman.com/images/posts/playdate-before@2x.png "Just the Playdate looking a little bemused")
 {:.tofigure}
 
 ## Party Up!
@@ -113,7 +113,7 @@ Finally, I copied the file to BasiliskII emulator File Sharing drive at which po
 
 Job done.
 
-![Celebrate good times!](/images/posts/playdate-after@2x.png "🥳 Playdate with Party Horn and Party Hat")
+![Celebrate good times!](https://cdn.gingerbeardman.com/images/posts/playdate-after@2x.png "🥳 Playdate with Party Horn and Party Hat")
 {:.tofigure}
 
 ## Keyboard craving

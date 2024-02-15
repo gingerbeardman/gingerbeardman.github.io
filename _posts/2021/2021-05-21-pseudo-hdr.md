@@ -29,8 +29,8 @@ Of course this means an additional render stage is added to my workflow, but tha
 
 Afterwards it struck me that this process is similar to HDR photography where multiple photographs are combined to increase the dynamic range in the final image. So, just for kicks, I'm referring to this technique as HDR 1-bit rendering.
 
-![GIF](/images/posts/daily-driver-prerendered-sprites-old.gif "Old rendering workflow: note the disappearing headlights")
+![GIF](https://cdn.gingerbeardman.com/images/posts/daily-driver-prerendered-sprites-old.gif "Old rendering workflow: note the disappearing headlights")
 {:.tofigure}
 
-![GIF](/images/posts/daily-driver-prerendered-sprites-new.gif "New rendering workflow: headlights are present and correct")
+![GIF](https://cdn.gingerbeardman.com/images/posts/daily-driver-prerendered-sprites-new.gif "New rendering workflow: headlights are present and correct")
 {:.tofigure}

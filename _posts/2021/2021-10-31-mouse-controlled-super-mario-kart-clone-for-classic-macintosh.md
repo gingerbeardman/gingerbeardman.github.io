@@ -31,7 +31,7 @@ There were [only](https://www.vector.co.jp/soft/mac/edu/se067380.html) [two](htt
 
 My copy of the game, version 1.0, came on [CD-ROM MacLife No. 161](http://redump.org/disc/74826/). This disc was included with the January 2002 issue of the Japanese magazine MacLife. This specific issue was released 9 months after the launch of OS X, so it's interesting to see the magazine staff providing content - a folder labelled "Vintage" — for users of the older Mac OS, whether that was using the Classic environment of OS X or on legacy hardware.
 
-![GIF](/images/posts/emora-kart.gif#pixel "えもらのカート (Emora Kart)")
+![GIF](https://cdn.gingerbeardman.com/images/posts/emora-kart.gif#pixel "えもらのカート (Emora Kart)")
 {:.tofigure}
 
 ## HyperKart?
@@ -73,5 +73,5 @@ Alternatively, you can [download it](https://macintoshgarden.org/games/emora-kar
 
 A sequel of sorts was made a couple of years later, in 1996. えもらのバギー (Emora Buggy) which shifted the camera to behind the player and featured simultaneous 2-player operation. Controls are now via keyboard, the window is much smaller, and the courses are shorter. The vibe is a mix of Out Run and Micro Machines and quite different to the first game.
 
-![GIF](/images/posts/emora-buggy.gif#pixel "えもらのバギー (Emora Buggy)")
+![GIF](https://cdn.gingerbeardman.com/images/posts/emora-buggy.gif#pixel "えもらのバギー (Emora Buggy)")
 {:.tofigure}

@@ -27,7 +27,7 @@ It's called 花札スタック (Hanafuda Stack) and was created by Kenji Chihara
 
 I couldn't find a single thing about this game online. My first Googlewhack!
 
-![GIF](/images/posts/hypercard-hanafuda-stack.gif#pixel "花札スタック (Hanafuda Stack)")
+![GIF](https://cdn.gingerbeardman.com/images/posts/hypercard-hanafuda-stack.gif#pixel "花札スタック (Hanafuda Stack)")
 {:.tofigure}
 
 According to menu system on the disc it came on, this game was the Winner of the Miyuki Oshige Award, the judges' prize in the "1st HyperCard Stack Contest" which was sponsored by Japanese Macintosh magazine MacPower Monthly.

@@ -17,7 +17,7 @@ comments: https://twitter.com/gingerbeardman/status/1669433473117966361
 
 I recently played through COMPILE’s うさ雀外伝 俺が切り札！ “Usajong gaiden ore ga kirifuda!” (a ninja-themed Hanafuda Koi-Koi game for PC-98 featured on Disc Station Vol. 10) and took the liberty of recording its great soundtrack as I went along.
 
-![PNG](/images/posts/kirifuda.png#pixel "うさ雀外伝 俺が切り札！ “Usa suzume gaiden ore ga kirifuda!”")
+![PNG](https://cdn.gingerbeardman.com/images/posts/kirifuda.png#pixel "うさ雀外伝 俺が切り札！ “Usa suzume gaiden ore ga kirifuda!”")
 
 ## Soundtrack download
 

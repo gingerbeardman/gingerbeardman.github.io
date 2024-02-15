@@ -17,7 +17,7 @@ After successfully splitting out dark and light elements of the sprites and rend
 
 This came together very quickly but it resulted in my Makefile, yet again, becoming too complicated. So I decided to rethink my approach.
 
-![GIF](/images/posts/daily-driver-rgb-1bit.gif "Dither layer: specifying areas that should have a dither pattern applied, here the rear grille")
+![GIF](https://cdn.gingerbeardman.com/images/posts/daily-driver-rgb-1bit.gif "Dither layer: specifying areas that should have a dither pattern applied, here the rear grille")
 {:.tofigure}
 
 If only there was a way to encode information about three different colours in a single bitmap image. Hang on a minute, there already is: RGB!
@@ -44,25 +44,25 @@ The resulting workflow takes half as long to execute as my previous workflow, wi
 
 Here are some example hi-res images showing the journey from initial render to final composite:
 
-![PNG](/images/posts/daily-driver-rgb-1bit-1-render.png "Render, 8-bit colour")
+![PNG](https://cdn.gingerbeardman.com/images/posts/daily-driver-rgb-1bit-1-render.png "Render, 8-bit colour")
 {:.tofigure}
 
-![PNG](/images/posts/daily-driver-rgb-1bit-2-red.png "Red channel, inverted, 1-bit colour")
+![PNG](https://cdn.gingerbeardman.com/images/posts/daily-driver-rgb-1bit-2-red.png "Red channel, inverted, 1-bit colour")
 {:.tofigure}
 
-![PNG](/images/posts/daily-driver-rgb-1bit-3-green.png "Green channel, 1-bit colour")
+![PNG](https://cdn.gingerbeardman.com/images/posts/daily-driver-rgb-1bit-3-green.png "Green channel, 1-bit colour")
 {:.tofigure}
 
-![PNG](/images/posts/daily-driver-rgb-1bit-4-blue.png "Blue channel, 1-bit colour")
+![PNG](https://cdn.gingerbeardman.com/images/posts/daily-driver-rgb-1bit-4-blue.png "Blue channel, 1-bit colour")
 {:.tofigure}
 
-![PNG](/images/posts/daily-driver-rgb-1bit-5-alpha.png "Alpha channel, 1-bit colour")
+![PNG](https://cdn.gingerbeardman.com/images/posts/daily-driver-rgb-1bit-5-alpha.png "Alpha channel, 1-bit colour")
 {:.tofigure}
 
-![PNG](/images/posts/daily-driver-rgb-1bit-6-dither.png "Green channel with Dither pattern applied")
+![PNG](https://cdn.gingerbeardman.com/images/posts/daily-driver-rgb-1bit-6-dither.png "Green channel with Dither pattern applied")
 {:.tofigure}
 
-![PNG](/images/posts/daily-driver-rgb-1bit-7-composite.png "Final composite, 1-bit colour")
+![PNG](https://cdn.gingerbeardman.com/images/posts/daily-driver-rgb-1bit-7-composite.png "Final composite, 1-bit colour")
 {:.tofigure}
 
 ## Elsewhere

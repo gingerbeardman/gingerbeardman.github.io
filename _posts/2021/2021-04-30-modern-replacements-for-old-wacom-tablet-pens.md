@@ -30,7 +30,7 @@ So after buying a Wacom ArtPad II, which came with an original pen, out of curio
 
 I hope his is useful to somebody who has an old Wacom tablet but is missing a pen.
 
-![JPG](/images/posts/wacom-replacements.jpg "A selection of pens compatible with my Wacom ArtPad II")
+![JPG](https://cdn.gingerbeardman.com/images/posts/wacom-replacements.jpg "A selection of pens compatible with my Wacom ArtPad II")
 {:.tofigure}
 
 From top to bottom:

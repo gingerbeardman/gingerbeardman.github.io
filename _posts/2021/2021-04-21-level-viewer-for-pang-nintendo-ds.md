@@ -38,7 +38,7 @@ The levels are stored in the standard format for Nintendo DS tile-based levels, 
 
 It was interesting to find one of the levels shown on the back of the box, seen in the top right of the image below, which is not featured in the main game. My theory is that this level was created to make the game seem more appealing to anybody looking at these supposedly in-game screenshots.
 
-![JPG](/images/posts/pang-ds-box.jpg)
+![JPG](https://cdn.gingerbeardman.com/images/posts/pang-ds-box.jpg)
 
 ### Performance
 
@@ -50,4 +50,4 @@ I never did figure out where the definitions for the various balls and other obj
 
 ## You need to play this game!
 
-![JPG](/images/posts/pang-ds.jpg)
+![JPG](https://cdn.gingerbeardman.com/images/posts/pang-ds.jpg)

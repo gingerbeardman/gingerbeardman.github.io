@@ -12,7 +12,7 @@ They are first seen in UltraPaint and later in Canvas 3.0, artWORKS and Canvas 3
 
 Amongst the Deneba material on an AppleLink archive disk from Spring 1993 there are a bunch of "non-shipping" tools labelled for use with Canvas 3.0. Interestingly, they are listed individually and also as a combined set. If we extract the combined set of tools there's a single additional tool that is somewhat out of place: the Waco Tool (for Wacom pressure sensitive pen) which is marked with UltraPaint's type and creator information.
 
-![PNG](/images/posts/deneba-external-tools-0.png#pixel "Spot the odd one out")
+![PNG](https://cdn.gingerbeardman.com/images/posts/deneba-external-tools-0.png#pixel "Spot the odd one out")
 {:.tofigure}
 
 I can confirm this that this tool - which I don't believe was ever included with UltraPaint - allows my Wacom ArtPad II to work. Bonus! But why was this tool meant for UltraPaint included in a download for Canvas. Could it work in Canvas?
@@ -21,7 +21,7 @@ I put the additional files in the Canvas Tools folder and started the app with t
 
 Boom! There it was.
 
-![PNG](/images/posts/deneba-external-tools-1.png#pixel "A wild Waco Tool appears in the Tool Picker")
+![PNG](https://cdn.gingerbeardman.com/images/posts/deneba-external-tools-1.png#pixel "A wild Waco Tool appears in the Tool Picker")
 {:.tofigure}
 
 ## Experimentation
@@ -30,7 +30,7 @@ I tried copying some tools from Canvas to UltraPaint and artWORKS. They didn't w
 
 So I copied a tool from Canvas over to artWORKS, being careful to pick one that already exists so it was as much like for like as it could be. It didn't show up. Then I changed the type/creator codes and... it did show up! And not only that, but the tool worked in the app!
 
-![PNG](/images/posts/deneba-external-tools-2.png#pixel "External Tool type/creator codes")
+![PNG](https://cdn.gingerbeardman.com/images/posts/deneba-external-tools-2.png#pixel "External Tool type/creator codes")
 {:.tofigure}
 
 I was surprised, and also impressed. Deneba did a really great job with the architecture and API of these apps for things to remain this compatible over the course of several years. All three apps share code and resources. If you take a look at both UltraPaint and artWORKS in ResEdit you'll see that they share a lot of DNA, artWORKS is basically an enhanced version of UltraPaint. I'd bet all three apps were built from the same code base.

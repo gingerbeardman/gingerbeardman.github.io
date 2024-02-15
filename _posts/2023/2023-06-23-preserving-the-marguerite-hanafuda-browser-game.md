@@ -34,7 +34,7 @@ The complete list of rules offered:
 - Sudaoshi
 - Roppyakken (aka "600")
 
-![PNG](/images/posts/marguerite-hanafuda.png "Marguerite Hanafuda")
+![PNG](https://cdn.gingerbeardman.com/images/posts/marguerite-hanafuda.png "Marguerite Hanafuda")
 
 ## Gone but not forgotten
 

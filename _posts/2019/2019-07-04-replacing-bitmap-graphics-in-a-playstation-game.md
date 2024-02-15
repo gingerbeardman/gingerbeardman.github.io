@@ -17,7 +17,7 @@ I found an old Hanafuda Koi-Koi game that I can no longer easily play due to… 
 
 I really like the cards images that it has, and was able to extract them using [File Juicer](https://echoone.com/filejuicer/) which is a kind of Swiss Army Knife for easily extracting files that might be embedded in an app, archive or disk image.
 
-![PNG](/images/posts/hanafuda-card-transplant-1.png#pixel "The original cards as a sprite sheet extract from Koikoi Komachi")
+![PNG](https://cdn.gingerbeardman.com/images/posts/hanafuda-card-transplant-1.png#pixel "The original cards as a sprite sheet extract from Koikoi Komachi")
 {:.tofigure}
 
 But just looking at the cards is not enough. I really needed to play a video game with them, you know? So I thought it would be cool to transplant them into the PlayStation game Youkai Hana Asobi.
@@ -54,7 +54,7 @@ There are many ways to get images out of a PS1 game, but I settled on [Tim2View]
 
 **Gotcha:** be sure to respect whatever colour is marked as transparent when making your image edits. In my case this was the colour black (0,0,0) so I had to make sure to use an almost-black colour in my new graphics to avoid unwanted transparent pixels. You can quickly check the state of your image by toggling the background transparency type at the bottom of the window. If it's wrong just tweak and re-import.
 
-![PNG](/images/posts/hanafuda-card-transplant-2.png#pixel "A composite image showing the various graphics that were replaced or edited")
+![PNG](https://cdn.gingerbeardman.com/images/posts/hanafuda-card-transplant-2.png#pixel "A composite image showing the various graphics that were replaced or edited")
 {:.tofigure}
 
 ## That was fun!
@@ -65,5 +65,5 @@ The finished patch is available at: [http://www.romhacking.net/hacks/4593/](http
 
 ## Screenshot
 
-![PNG](/images/posts/hanafuda-card-transplant-3.png#pixel "The final graphics being used whilst playing a game of Koi-Koi")
+![PNG](https://cdn.gingerbeardman.com/images/posts/hanafuda-card-transplant-3.png#pixel "The final graphics being used whilst playing a game of Koi-Koi")
 {:.tofigure}

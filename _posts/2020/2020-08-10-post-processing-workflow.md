@@ -5,7 +5,7 @@ tags: [dailydriver, playdate, graphics, software, openscad]
 nouns: [OpenSCAD]
 ---
 
-![GIF](/images/posts/daily-driver-post-processing.gif#playdate)
+![GIF](https://cdn.gingerbeardman.com/images/posts/daily-driver-post-processing.gif#playdate)
 
 My post-processing to 1-bit is fairly simple. I use a bespoke tool that allows me to have "live" (realtime) manual control over a bunch of image filters so I can see the results immediately.
 
@@ -21,7 +21,7 @@ I also have the wheels as a separate finished image so I don’t have to worry i
 
 Final result, unedited:
 
-![PNG](/images/posts/daily-driver-post-processing.png)
+![PNG](https://cdn.gingerbeardman.com/images/posts/daily-driver-post-processing.png)
 
 I would later touch up the sprite by hand to reinforce any details I think have been lost. I use Piskel for edited sprites because it has really nice sprite sheet support, drag and drop loading, and quick and versatile exporting.
 

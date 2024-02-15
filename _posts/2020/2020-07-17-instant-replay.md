@@ -4,7 +4,7 @@ title: 'Daily Driver: Instant Replay'
 tags: [dailydriver, playdate, gamedev]
 ---
 
-![GIF](/images/posts/daily-driver-instant-replay.gif#playdate)
+![GIF](https://cdn.gingerbeardman.com/images/posts/daily-driver-instant-replay.gif#playdate)
 
 I guess this looks like a looped GIF, but it’s not!
 

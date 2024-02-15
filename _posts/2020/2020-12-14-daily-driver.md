@@ -17,7 +17,7 @@ The end result is that the game is now running... better than ever. Even after t
 
 Secondly, an important issue that remains unresolved is exactly how — and when — Daily Driver will be released. I'm hopeful that will be as part of a Playdate Season, where games are delivered to the device on a schedule and you don't know what game you'll be playing until you see the light flash and you pick up and wake up your device. That's the magic I want my players to have a piece of. That might turn out to be later rather than sooner, so we'll have to be patient.
 
-![PNG](/images/posts/daily-driver-katakana.png#playdate)
+![PNG](https://cdn.gingerbeardman.com/images/posts/daily-driver-katakana.png#playdate)
 
 Anyway, other news: I've been trying to decide how to render the name of the game in Japanese. The English title uses _**Futura Bold Oblique**_ which is a style that does not translate directly into non-Roman typefaces. I had found some bold Japanese fonts, with a little bit of character, but they seemed too cute and not geometric enough. After much investigation and many mockups I opted to draw the necessary katakana characters by hand, on a grid, and it's turned out rather well. I'd love to expand this into a full typeface, but that's a project for another time.
 

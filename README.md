@@ -73,10 +73,10 @@ You can set the `title`, and the following optional fields `tags`, `nouns`, post
 ## Images
 
 - I provide specific styling for images taken from the Playdate console. They're shown with a bezel at chunky pixel @2x size and can be inserted as follows, noting the trailing hash
-  `![GIF](/images/posts/daily-driver-animation.gif#playdate)`
+  `![GIF](https://cdn.gingerbeardman.com/images/posts/daily-driver-animation.gif#playdate)`
 
 - Static images can be inserted normally and are displayed without any styling
-  `![JPG](/images/posts/daily-driver-still.png)`
+  `![JPG](https://cdn.gingerbeardman.com/images/posts/daily-driver-still.png)`
 
 - Carousels are inserted as below, but will only display if there is a `carousel-id` in the post front matter
   `{% include carousel.html height="82" unit="%" duration="7" %}`

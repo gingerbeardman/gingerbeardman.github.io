@@ -57,7 +57,7 @@ Once I got hold of a Playdate (eternal thanks, [Louie](http://lmnt.me)!) I start
 
 I struck upon a novel way to generate patterns of dots. Instead of using organised Beyer dither patterns, I used error diffusion dithering and fed it a solid colour. When a shade of grey is run through Burkes dithering algorithm it produces organic-looking patterns of dots that are ever so pleasing to the eye. Interestingly, other dithering algorithms don't exhibit the same result. This image became a catalyst and the core of Sparrow Solitaire.
 
-![PNG](/images/posts/sparrow-release-dots.png "A shade of grey fed into the <em>Burkes</em> dithering algorithm")
+![PNG](https://cdn.gingerbeardman.com/images/posts/sparrow-release-dots.png "A shade of grey fed into the <em>Burkes</em> dithering algorithm")
 {:.tofigure}
 
 After this I drew the traditional Chinese mahjong tile set, and figured out a tile size that would allow the standard Mahjong Solitaire layouts to fit fully on screen. Unlike the PLATO and Macintosh games, which used border thickness to denote the height of a tile in the layout, I offset the tiles in a sort of isometric view and added a repeating shadow dither pattern. After this I drew regional variations for Japan, Europe and America. I drew tile sets inspired by the original late-90s Japanese Emoji set, others based on Egyptian and Toki Pona heiroglyphs, and an alphanumeric tile set I thought might be easiest for newcomers. I even recorded sounds of my own mahjong tiles.
@@ -82,18 +82,18 @@ Comparing Playdate to the best handhelds from the 90s it became obvious that we 
 
 Meanwhile, with the prompting and encouragement of Mac, I researched classic Chinese and Japanese painting techniques and drew some Eurasian tree sparrows and cherry blossom in the classic ink and watercolour style. 
 
-![PNG](/images/posts/sparrow-release-strokes.png "Vector drawings of tree sparrow and blossom, using only strokes")
+![PNG](https://cdn.gingerbeardman.com/images/posts/sparrow-release-strokes.png "Vector drawings of tree sparrow and blossom, using only strokes")
 {:.tofigure}
 
 These illustrations were used to create the game's launch animation. I started to create the animation the traditional way, but quickly changed tact and created it programatically instead.
 
-![GIF](/images/posts/sparrow-release-launch.gif#playdate)
+![GIF](https://cdn.gingerbeardman.com/images/posts/sparrow-release-launch.gif#playdate)
 
 ## Content matters
 
 For the full version of the game I created additional backgrounds, cursors, grids, animations, tools to aid development and more besides. I created several fonts, all carefully kerned and tweaked to look their best on the Playdate. I'd [created a popular font in my teens](/2020/10/03/found-whilst-backing-up-an-old-pc/) and it was fun to get back to that. More backgrounds, more tile sets including my favourite "zen". Even now, when I see this tile set in the game, I often shake my head in disbelief. How was I capable of drawing these symbols so well at such a small size? My [Susan Kare](https://www.youtube.com/watch?v=y4-2iTJW-2Y) moment, if you will. If ever there was a lesson that you should believe in your own abilities, this was it for me.
 
-![PNG](/images/posts/sparrow-release-zen.png#playdate)
+![PNG](https://cdn.gingerbeardman.com/images/posts/sparrow-release-zen.png#playdate)
 
 ## Hidden in plain sight
 
@@ -103,7 +103,7 @@ But what about if you look a little deeper? You will find brush/fill patterns fr
 
 One of my favourite "[Easter Eggs](https://en.wikipedia.org/wiki/Easter_egg_(media))" in Sparrow Solitaire is some clip art from the [Scroll collections](https://macintoshgarden.org/author/enzan-hoshigumi-co), published in 1986/87 by Japanese Macintosh specialists Enzan-Hoshigumi. Specifically I have used a border for the manual/credits overlay, and several sections of artwork for our patterned backgrounds. These sections of artwork were not bundled as brushes/fills, but are nevertheless easy to cut out and use as a repeating fill in an image editor. They are based on repeating elements that are much larger than the 16x16 pixel patterns of MacPaint, so they allow for patterns that are not as garish and easier on the eyes. Plus, I love the fact that in 2023 Enzan-Hoshigumi finally have their first video game credit, almost [40 years after working on their first video game](/2021/12/16/tomoya-ikeda-macintosh-artist/).
 
-![PNG](/images/posts/sparrow-release-enzan-hoshigumi.png#playdate)
+![PNG](https://cdn.gingerbeardman.com/images/posts/sparrow-release-enzan-hoshigumi.png#playdate)
 
 ## The Great Wave of Mahjong
 
@@ -111,7 +111,7 @@ Finally, to come full circle back to the image seen in the trailer at the top of
 
 You can download a high resolution version of this image at [itch.io](https://vogelscript.itch.io/sparrow-solitaire) to use as PC/phone wallpaper.
 
-![JPG](/images/posts/great-wave-of-mahjong-by-vxcl.jpg "<em>&#x201C;The Great Wave of Mahjong&#x201D;</em>, by Vxcl")
+![JPG](https://cdn.gingerbeardman.com/images/posts/great-wave-of-mahjong-by-vxcl.jpg "<em>&#x201C;The Great Wave of Mahjong&#x201D;</em>, by Vxcl")
 {:.tofigure}
 
 ## Update!

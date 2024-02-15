@@ -30,7 +30,7 @@ comments: https://twitter.com/gingerbeardman/status/1666517417218940934
 
 ---
 
-![JPG](/images/posts/gti-club-supermini-festa-wii.jpg)
+![JPG](https://cdn.gingerbeardman.com/images/posts/gti-club-supermini-festa-wii.jpg)
 
 **The ultimate hot hatch.**
 

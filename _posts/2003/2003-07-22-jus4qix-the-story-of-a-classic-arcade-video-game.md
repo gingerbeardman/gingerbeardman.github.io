@@ -30,4 +30,4 @@ In all the time since the game was made in 1981, he said to me that I was the fi
 
 After finding out this information I added it in various places, such as in the MAME notes for the game. This interview is the original source of "JUS4QIX" and the other facts about QIX.
 
-![JUS4QIX](/images/posts/jus4qix.jpg)
+![JUS4QIX](https://cdn.gingerbeardman.com/images/posts/jus4qix.jpg)

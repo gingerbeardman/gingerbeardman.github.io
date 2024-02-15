@@ -46,7 +46,7 @@ style: |
 
 I was looking through some old Macintosh CD-ROMs, searching for my usual things that I do whenever I add new discs to my collection: hanafuda, specific artists, favourite software, plugins for said favourite software, and so on. Whilst I was deep in the filesystem I stumbled across some old sample files from Deneba Canvas and noticed how they were all credited to the artist.
 
-![Canvas Title was produced entirely in Canvas 2.1 by David Rumfelt, Deneba Software. © 1990 Deneba Systems, Inc.](/images/posts/deneba-canvas-david-rumfelt.png "Canvas Title was produced entirely in Canvas 2.1 by David Rumfelt, Deneba Software. © 1990 Deneba Systems, Inc.")
+![Canvas Title was produced entirely in Canvas 2.1 by David Rumfelt, Deneba Software. © 1990 Deneba Systems, Inc.](https://cdn.gingerbeardman.com/images/posts/deneba-canvas-david-rumfelt.png "Canvas Title was produced entirely in Canvas 2.1 by David Rumfelt, Deneba Software. © 1990 Deneba Systems, Inc.")
 
 Intrigue got the better of me so I did a quick google and came up with [a post on the Canvas GFX website](https://www.canvasgfx.com/blog/driven-by-design-david-rumfelt-graphic-artist) (yes, the software still exists!) about David Rumfelt and his most famous work: a cutaway illustration of a Ferrari F40.
 

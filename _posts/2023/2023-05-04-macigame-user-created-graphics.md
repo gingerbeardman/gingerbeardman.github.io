@@ -42,16 +42,16 @@ Tile sets with 16 cells allow tiles that change their appearance based on matchi
 
 A small selection of my favourites are below:
 
-![PNG](/images/posts/macigamekoma-01-usa-chan.png#compare) ![PNG](/images/posts/macigamekoma-02-panty-cat.png#compare)<br>
+![PNG](https://cdn.gingerbeardman.com/images/posts/macigamekoma-01-usa-chan.png#compare) ![PNG](https://cdn.gingerbeardman.com/images/posts/macigamekoma-02-panty-cat.png#compare)<br>
 
-![PNG](/images/posts/macigamekoma-03-monkey.png#compare) ![PNG](/images/posts/macigamekoma-04-spheres.png#compare)<br>
+![PNG](https://cdn.gingerbeardman.com/images/posts/macigamekoma-03-monkey.png#compare) ![PNG](https://cdn.gingerbeardman.com/images/posts/macigamekoma-04-spheres.png#compare)<br>
 
-![PNG](/images/posts/macigamekoma-05-autumn.png#compare) ![PNG](/images/posts/macigamekoma-06-cookies.png#compare)<br>
+![PNG](https://cdn.gingerbeardman.com/images/posts/macigamekoma-05-autumn.png#compare) ![PNG](https://cdn.gingerbeardman.com/images/posts/macigamekoma-06-cookies.png#compare)<br>
 
-![PNG](/images/posts/macigamekoma-07-eggs.png#compare) ![PNG](/images/posts/macigamekoma-08-faces.png#compare)<br>
+![PNG](https://cdn.gingerbeardman.com/images/posts/macigamekoma-07-eggs.png#compare) ![PNG](https://cdn.gingerbeardman.com/images/posts/macigamekoma-08-faces.png#compare)<br>
 
-![PNG](/images/posts/macigamekoma-10-roadworks.png#compare) ![PNG](/images/posts/macigamekoma-09-lines.png#compare)<br>
+![PNG](https://cdn.gingerbeardman.com/images/posts/macigamekoma-10-roadworks.png#compare) ![PNG](https://cdn.gingerbeardman.com/images/posts/macigamekoma-09-lines.png#compare)<br>
 
-![PNG](/images/posts/macigamekoma-11-xenomorph.png#compare) ![PNG](/images/posts/macigamekoma-12-zippo.png#compare)<br>
+![PNG](https://cdn.gingerbeardman.com/images/posts/macigamekoma-11-xenomorph.png#compare) ![PNG](https://cdn.gingerbeardman.com/images/posts/macigamekoma-12-zippo.png#compare)<br>
 
 <br clear="both">

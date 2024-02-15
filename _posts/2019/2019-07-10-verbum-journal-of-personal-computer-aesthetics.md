@@ -19,5 +19,5 @@ Verbum "The Journal of Personal Computer-Aesthetics" (1986–1991) was an early 
 * Table of contents for all issues: [https://en.wikipedia.org/wiki/Verbum_(magazine)](https://en.wikipedia.org/wiki/Verbum_(magazine))
 * Podcast interview with its creator Michael Gosney: [http://www.drfutureshow.com/drfutureblog/interview-media-pioneer-michael-gosney-on-the-renaissance-of.html](http://www.drfutureshow.com/drfutureblog/interview-media-pioneer-michael-gosney-on-the-renaissance-of.html)
 
-![Verbum issue 5.2 front cover](/images/posts/verbum-the-journal-of-personal-computer-aesthetics.jpg "Verbum issue 5.2 front cover")
+![Verbum issue 5.2 front cover](https://cdn.gingerbeardman.com/images/posts/verbum-the-journal-of-personal-computer-aesthetics.jpg "Verbum issue 5.2 front cover")
 {:.tofigure}
