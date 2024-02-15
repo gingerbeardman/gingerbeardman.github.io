@@ -11,7 +11,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.16.3)
     forwardable-extended (2.6.0)
-    google-protobuf (3.25.2-arm64-darwin)
+    google-protobuf (3.25.3-arm64-darwin)
     http_parser.rb (0.8.0)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
@@ -61,7 +61,7 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    nokogiri (1.16.0-arm64-darwin)
+    nokogiri (1.16.2-arm64-darwin)
       racc (~> 1.4)
     nuggets (1.6.1)
     pathutil (0.16.2)
@@ -83,6 +83,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+  arm64-darwin-23
 
 DEPENDENCIES
   bundler
@@ -102,4 +103,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.4.18
+   2.5.6
