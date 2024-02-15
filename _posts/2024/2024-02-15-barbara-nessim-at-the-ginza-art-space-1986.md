@@ -65,5 +65,5 @@ Below are three examples of the work Barbara produced at The Ginza Art Space: th
 
 My ongoing [research into early Japanese pixel art software](/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/) shows that Barbara most likely used ASCII's エアーブラシ "Airbrush" painting software on the NEC PC-100, as it is the only graphics software for that platform I've been able to find [advertised for sale](https://archive.org/details/login-april-1984/LOGiN%20-%20April%201984/page/n242/mode/2up) or [featured in period literature](https://archive.org/details/login-june-1984/LOGiN%20-%20June%201984/page/n113/mode/2up).
 
-![JPG](https://cdn.gingerbeardman.com/images/posts/barbara-nessim-ginza-1986-04.jpg "LOGiN magazine, June 1984, page 117: Tachibana Hajime's CHG article mentions Airbrush")
+![JPG](https://cdn.gingerbeardman.com/images/posts/barbara-nessim-ginza-1986-04.jpg "LOGiN magazine, June 1984, page 117: Tachibana Hajime's CG article mentions Airbrush")
 {:.tofigure}
