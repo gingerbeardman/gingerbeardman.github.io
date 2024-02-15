@@ -49,7 +49,7 @@ As well as Barbara's residency there was an accompanying exhibition "The Work of
 
 ## Made in Japan
 
-During her time at The Ginza Art Space, Barbara used an NEC PC-100 to draw new work and printed them on one of the earliest wide-format colour inkjet printers, the [*Fujix JetGraphy 3000*](https://www.jstage.jst.go.jp/article/isjepj/24/4/24_278/_pdf/-char/ja) (I'd love to be able to read [this paper at ResearchGate](https://www.researchgate.net/publication/294487702)). Given the use of early technology and non-archival inks, the prints are prone to fading and are now very fragile.
+During her time at The Ginza Art Space, Barbara used an NEC PC-100 to draw new work and printed them on one of the earliest wide-format colour inkjet printers, the [*Fujix JetGraphy 3000*](https://www.jstage.jst.go.jp/article/isjepj/24/4/24_278/_pdf/-char/ja) (I'd love to be able to read [this article at ResearchGate](https://www.researchgate.net/publication/294487702)). Given the use of early technology and non-archival inks, the prints are prone to fading and are now very fragile.
 
 The choice of PC-100 computer is interesting because its display could be rotated between portrait and landscape. In portrait orientation it had a resolution of 512×720, which is seven times more pixels than the Telidon system and twice as tall as the Macintosh Plus. The PC-100 displayed bitmap graphics so it was more similar to the Macintosh than the vector graphics of the Telidon system.
 
