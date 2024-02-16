@@ -50,8 +50,12 @@ Regardless of whether or not the method of handling colours in MPS is novel or u
 
 If you're interested in reading about the interface and functions of JINZO Paint [I've mirrored the manuals for two early versions on my website](https://www.gingerbeardman.com/jzpaint/) as the original location is no longer available. A later version supports full 24-bit colour, but removes some useful functions. Regardless, all versions use a similar interface so they're easy to use once you're familiar with the general operation. One thing I would say is that the toolbars can be opened and selected with a single tap-drag-release action, which a huge win for usability and one that reminds me of the original Apple Macintosh and Palm OS. If you're lucky your operating system today will support such fluidity.
 
+<div style="width:480px;margin:0 auto;">
+
 {% include carousel.html height="640" unit="px" duration="10" %}
 
+</div>
+ 
 ----
 
 ## For my next trick I will run it on a Dictionary
