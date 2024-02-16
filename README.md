@@ -66,7 +66,7 @@ You can set the `title`, and the following optional fields `tags`, `nouns`, post
 
 - I prefer to encourage comments in a related twitter thread, so each post has an optional comments URL that can be defined.
 
-- Carousel is taken from https://jekyllcodex.org/without-plugin/slider/ so please see that page for documentation. The only change I have made is allowing the id of the carousel to be specified in the post front matter, so that multple carousels can be defined in `carousel.yml`.
+- Carousel is taken from https://jekyllcodex.org/without-plugin/slider/ so please see that page for documentation. The only change I have made is allowing the id of the carousel to be specified in the post front matter, so that multiple carousels can be defined in `carousel.yml`.
 
 - Excerpt display is currently disabled on postcards, but an excerpt_separator can be defined.
 
