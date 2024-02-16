@@ -35,11 +35,7 @@ The postcard artwork is not digital and is dated 6-86. The details on the rear a
 
 As well as Barbara's residency there was an accompanying exhibition *"The Work of Barbara Nessim"*.
 
-<div style="width:100%;margin:0 auto;">
-
 {% include carousel.html height="140" unit="%" duration="10" %}
-
-</div>
 
 ----
 
