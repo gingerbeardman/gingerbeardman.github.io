@@ -29,7 +29,7 @@ comments: https://twitter.com/gingerbeardman/status/1758166959336677741
 
 ---
 
-At the end of 2023 I bought a one-in-a-million find from Japan: it's a postcard from [Barbara Nessim](/2023/11/09/early-computer-art-by-barbara-nessim/)'s residency at The Ginza Art Space, September 26 thru October 19 1986. This residency came on the back of [her breakthrough early computer art](/2023/11/09/early-computer-art-by-barbara-nessim/) that was done on a Telidon system, a type of Teletext graphics system that displayed rudimentary vector graphics.
+At the end of 2023 I bought a one-in-a-million find from Japan: it's a postcard from [Barbara Nessim](/2023/11/09/early-computer-art-by-barbara-nessim/)'s residency at [*The Ginza Art Space*](https://gallery.shiseido.com/en/access/), September 26 thru October 19 1986. This residency came on the back of [her breakthrough early computer art](/2023/11/09/early-computer-art-by-barbara-nessim/) that was done on a Telidon system, a type of Teletext graphics system that displayed rudimentary vector graphics.
 
 The postcard artwork is not digital and is dated 6-86. The details on the rear are set in the Chicago typeface designed by Susan Kare for the Apple Macintosh just a couple of years prior.
 
