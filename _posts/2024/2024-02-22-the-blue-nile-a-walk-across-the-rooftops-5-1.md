@@ -16,7 +16,7 @@ nouns:
 - AC3
 - VLC
 - Apple Music
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1760790600360599824
 style: |
   img {
     margin-top: 2rem !important;
