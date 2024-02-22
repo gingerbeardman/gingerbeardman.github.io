@@ -10,8 +10,8 @@
 # bundle exec jekyll serve --livereload
 
 # Site settings
-title:       '⌘I&nbsp;&nbsp;Get&nbsp;Info'
-htmltitle:   '⌘I&nbsp;&nbsp;<span>Get&nbsp;Info</span>'
+title:       'Get Info'
+htmltitle:   '<span>Get Info</span>'
 email:       ''
 description: 'Blog of independent video game developer and digital media artist Matt Sephton. Featuring vintage Macintosh, game development, digital artwork, Japanese esoterica, video game reviews, hacks and tips, and much more.'
 author:      'Matt Sephton'
