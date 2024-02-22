@@ -42,7 +42,7 @@ A user called `XTC343` uploaded some files to a USENET newsgroup: a fan made mul
 > This is an upmix from stereo to 5.1  
 > Done in Plogue.
 
-I was so excited to listen to one of my favourite albums in a new way. I burned the DTS format 5.1 .wav and .cue pair to a CD and played it in a Sony Blu-Ray player. It was awesome! The album sounded more like a live session, with instruments and noises positioned all around the listening area.
+I was so excited to listen to one of my favourite albums in a new way. I burned the DTS format 5.1 .wav and .cue pair to a CD and played it in a Sony Blu-Ray player. It was awesome! The album sounded more like a live session, with instruments and noises positioned all around.
 
 ## 2023
 
