@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Blue Nile \"A Walk Across The Rooftops\" (5.1)"
+title: "The Blue Nile “A Walk Across The Rooftops” (5.1)"
 date: '2024-02-22T22:00+00:00'
 tags:
 - music
@@ -61,7 +61,7 @@ Immediately it was easy to confirm playback using the original DTS format .wav a
 1. [XLD](https://sourceforge.net/projects/xld/) and the .cue sheet to split the single DTS format .wav into multiple files
 2. [FFMPEG](https://ffmpeg.org) to convert the DTS format .wav files into AC3 format .m4v files
 
-Using a video container for audio content is a trick normally reserved for podcasts, but here it enables us to get multi-channel content into Apple Music (historically iTunes).
+Using a video container for audio content is a trick normally reserved for podcasts, so they can have chapter markers, but here it enables us to get multi-channel content into Apple Music (historically iTunes).
 
 ----
 
