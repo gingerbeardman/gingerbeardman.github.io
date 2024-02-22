@@ -16,6 +16,7 @@ nouns:
 - AC3
 - VLC
 - Apple Music
+- Music
 - iTunes
 comments: https://twitter.com/gingerbeardman/status/1760790600360599824
 style: |
@@ -57,12 +58,12 @@ It's now February 2024 and I realise that I have a whole bunch of devices capabl
 
 ## Wrangling
 
-Immediately it was easy to confirm playback using the original DTS format .wav and VLC app on macOS. But how to get the audio into Apple Music so I can listen on my device of choice?
+Immediately it was easy to confirm playback using the original DTS format .wav and VLC app on macOS. But how to get the audio into the Music app so I can listen on my device of choice?
 
 1. [XLD](https://sourceforge.net/projects/xld/) and the .cue sheet to split the single DTS format .wav into multiple files
 2. [FFMPEG](https://ffmpeg.org) to convert the DTS format .wav files into AC3 format .m4v files
 
-Using a video container for audio content is a trick normally reserved for podcasts, so they can have chapter markers, but here it enables us to get multi-channel content into Apple Music (aka iTunes).
+Using a video container for audio content is a trick normally reserved for podcasts, so they can have chapter markers, but here it enables us to get multi-channel content into Music app (aka iTunes).
 
 ----
 
@@ -72,7 +73,7 @@ You'll need some multi-channel capable listening equipment.
 
 For the DTS .wav you can either burn it to a CD and play it in a suitable CD/DVD/Blu-Ray/etc player, or play the file directly using software (VLC).
 
-For the Apple .m4v files you can drop them onto the Apple Music app and sync them across your devices.
+For the Apple .m4v files you can drop them onto the Music app and sync them across your devices.
 
 *I'm sorry but I cannot help you with any of this.*
 
