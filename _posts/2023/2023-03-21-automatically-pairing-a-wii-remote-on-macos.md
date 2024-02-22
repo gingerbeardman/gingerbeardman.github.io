@@ -22,7 +22,7 @@ comments: https://twitter.com/gingerbeardman/status/1637977948354408451
 If you're using the Dolphin emulator, by far the easiest method of syncing a Wii remote with it is to use a cheap Bluetooth adapter and Dolphin's "Passthrough a Bluetooth adapter" controller option. 
 
 If you want to use the Wii remote outside of Dolphin, you have a couple of options:
-- software: [WiimotePair](https://github.com/dolphin-emu/WiimotePair) will pair a Wii remote at a system level
+- software: [WiimotePair](https://github.com/dolphin-emu/WiimotePair) will pair a Wii remote at system level, only needed once per remote
 - hardware: [MAYFLASH MAGIC-NS Bluetooth adapter](https://amzn.to/44CpM1x) (any version will work for Wii remotes)
 
 The following section remains only for historical sake:
