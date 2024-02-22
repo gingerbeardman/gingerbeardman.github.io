@@ -27,7 +27,7 @@
         <div class="carousel__track">
           <ul>
             {% for item in site.data.carousel[page.carousel] %}
-            <li class="carousel__slide" style="background-image: url('{{ item.image }}');"></li>
+            <li class="carousel__slide" style="background-image: url('{{ item.image }}');"><img class="carousel__staticimage" src="{{ item.image | prepend: include.sbaseurl }}"></li>
             {% endfor %}
           </ul>
         </div>
@@ -49,6 +49,7 @@
   position: absolute;
   padding: 0;
 }
+.carousel__staticimage,
 .carousel__controls,
 .carousel__activator {
   display: none;
