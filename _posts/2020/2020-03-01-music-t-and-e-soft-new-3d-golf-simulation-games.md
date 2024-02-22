@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Music: T&E SOFT "New 3D Golf Simulation" games'
+title: 'Music: T&E SOFT “New 3D Golf Simulation” games'
 tags:
 - preservation
 - golf
