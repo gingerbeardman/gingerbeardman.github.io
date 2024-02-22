@@ -19,6 +19,7 @@ nouns:
 comments: https://twitter.com/gingerbeardman/status/
 style: |
   img {
+    margin-top: 2rem !important;
     border: 1px solid #EEEEEE;
     box-shadow: 0 0 50px #DADADA;
   }
