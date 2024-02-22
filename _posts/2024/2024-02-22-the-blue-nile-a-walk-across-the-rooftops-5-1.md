@@ -37,7 +37,7 @@ In early 1984 Scottish band The Blue Nile released their debut album [*"A Walk A
 
 ## 2010
 
-A user called `XTC343` uploaded some files to a USENET newsgroup: a fan made multi-channel "upmix" of The Blue Nile's *"A Walk Across The Rooftops"* album from 1984. The .nfo file said only:
+A user called `XTC343` uploaded some files to a USENET newsgroup: a fan made multi-channel "upmix" of The Blue Nile's *"A Walk Across The Rooftops"* album. The .nfo file said only:
 
 > This is an upmix from stereo to 5.1  
 > Done in Plogue.
