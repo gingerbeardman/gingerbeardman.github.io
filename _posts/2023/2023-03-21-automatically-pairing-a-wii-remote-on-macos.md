@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automatically pairing a Wii remote on macOS
-last_modified_at: '2023-09-03T22:47+01:00'
+last_modified_at: '2024-02-22T14:22+00:00'
 tags:
 - wii
 - guide
@@ -21,7 +21,11 @@ comments: https://twitter.com/gingerbeardman/status/1637977948354408451
 
 If you're using the Dolphin emulator, by far the easiest method of syncing a Wii remote with it is to use a cheap Bluetooth adapter and Dolphin's "Passthrough a Bluetooth adapter" controller option. 
 
-If you want to use the Wii remote outside of Dolphin, the easiest way is to use a [MAYFLASH MAGIC-NS Bluetooth adapter](https://amzn.to/44CpM1x) (any version will work for Wii remotes).
+If you want to use the Wii remote outside of Dolphin, you have a couple of options:
+- use [WiimotePair](https://github.com/dolphin-emu/WiimotePair) by the Dolphin team which will pair it at a system level
+- use a [MAYFLASH MAGIC-NS Bluetooth adapter](https://amzn.to/44CpM1x) (any version will work for Wii remotes)
+
+The following section remains only for historical sake:
 
 ## Intel-only
 
