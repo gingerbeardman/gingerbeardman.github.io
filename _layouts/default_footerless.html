@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+{% include_cached head.html ptag=page.tag pname=page.name ptitle=page.title stitle=site.title sdescription=site.description pexcerpt=page.excerpt purl=page.url surl=site.url sbaseurl=site.baseurl sanalytics=site.google_analytics %}
+
+<body class="{% if page.tags contains 'piece' %}piece {% elsif page.tags contains 'playdate' or page.tags contains 'dailydriver' %}playdate  {% elsif page.tags contains 'windows' %}windows {% elsif page.tags contains 'macintosh' or page.tags contains 'system7' %}macintosh {% endif %}">
+
+  <div class='js-off-canvas-container c-off-canvas-container'>
+    {% include_cached header.html sdescription=site.description sbaseurl=site.baseurl stitle=site.title htmltitle=site.htmltitle shomepage=site.homepage sauthor=site.author pname=page.name %}
+
+    {{ content }}
+  </div>
+
+  <script src="{{ '/js/jquery-3.7.0.min.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/js/jquery.fitvids.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/js/jquery.tablesorter.min.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/js/app.js' | prepend: site.baseurl }}"></script>
+
+{% if page.style %}
+  <style type="text/css">
+    {{ page.style }}
+  </style>
+{% endif %}
+</body>
+
+</html>

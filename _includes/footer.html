@@ -1,12 +1,10 @@
 <footer class='c-footer'>
   <div class='o-grid'>
     <div class='o-grid__col o-grid__col--full'>
-      {% unless page.name == 'tags.md' %}
-        <hr>
-        <div class='tag-cloud'><strong>tag cloud: </strong>
-        {% include_cached tag-cloud.html pname=page.name %}
-        </div>
-      {% endunless %}
+      <hr>
+      <div class='tag-cloud'><strong>tag cloud: </strong>
+      {% include_cached tag-cloud.html %}
+      </div>
     </div>
   </div>
 </footer>

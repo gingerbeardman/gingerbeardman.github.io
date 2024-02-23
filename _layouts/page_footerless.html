@@ -1,0 +1,30 @@
+---
+layout: default_footerless
+---
+
+<div class='o-wrapper'>
+
+  <div class='o-grid'>
+    <div class='o-grid__col'>
+      <article class='c-post'>
+        <h1 class='c-post__title'>{{ page.title }}</h1>
+
+        <div class='c-content'>
+          {% include_cached page-image.html pimage=page.image ptitle=page.title sbaseurl=site.baseurl %}
+
+          {{ content }}
+
+          {% if page.name == 'tags.md' %}
+          <article class="c-post">
+            <div class="c-content larger">
+              {% include_cached tag-cloud.html pname=page.name %}
+            </div>
+          </article>
+          {% endif %}
+
+        </div>
+      </article>
+    </div>
+  </div>
+
+</div>
