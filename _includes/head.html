@@ -13,12 +13,8 @@
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <link rel="manifest" href="/site.webmanifest">
 
-  <style>
-    {% capture inlineCSS %}
-      {% include_cached app.scss %}
-    {% endcapture %}
-
-    {{ inlineCSS | scssify }}
+  <style type="text/css">
+    {{ site.data.styles }}
   </style>
 
   {% if jekyll.environment == 'production' and include.sanalytics %}
