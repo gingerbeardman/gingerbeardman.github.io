@@ -73,7 +73,7 @@ You'll need some multi-channel capable listening equipment.
 
 For the DTS .wav you can either burn it to a CD and play it in a suitable CD/DVD/Blu-Ray/etc player, or play the file directly using software (VLC).
 
-For the Apple .m4v files you can drop them onto the Music app and sync them across your devices.
+For the Apple .m4v files you can drop them onto the Music app or copy across your devices.
 
 *I'm sorry but I cannot help you with any of this.*
 
