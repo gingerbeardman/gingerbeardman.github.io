@@ -9,15 +9,12 @@
         </form><br>
         {% endunless %}
       </li>
-{% for page in site.pages %}
-  {% unless page.name == '404.md' or page.name == 'search.md' %}
-    {% if page.title %}
       <li class='c-nav__item' role='presentation'>
-        <a class='c-nav__link' href='{{ page.url | prepend: site.baseurl }}'>{{ page.title }}</a>
+        <a class='c-nav__link' href='/feed'>RSS</a>
       </li>
-    {% endif %}
-  {% endunless %}
-{% endfor %}
+      <li class='c-nav__item' role='presentation'>
+        <a class='c-nav__link' href='/tags'>Tags</a>
+      </li>
       <li class='c-nav__item' role='presentation'>
         <a class='c-nav__link' href='https://twitter.com/{{ site.twitter.username }}' target='_blank'>Twitter</a>
       </li>
