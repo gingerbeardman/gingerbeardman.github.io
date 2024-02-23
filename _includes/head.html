@@ -3,7 +3,7 @@
   <meta http-equiv='X-UA-Compatible' content='IE=edge'>
   <meta name='viewport' content='width=device-width, initial-scale=1'>
 
-  <title>{% if include.ptag %}#{{ include.ptag | append: " " }}{% endif %}{% if include.ptitle %}{{ include.ptitle | append: " " }}{{ include.stitle }}{% else %}{{ include.stitle }}{% endif %}</title>
+  <title>{% if include.ptag %}#{{ include.ptag | append: " " }}{% endif %}{% if include.ptitle %}{{ include.ptitle | append: " " }}{{ include.sextitle | prepend: " " }}{% else %}{{ include.sextitle | prepend: " " }}{% endif %}</title>
   <meta name='description' content="{% if include.pexcerpt %}{{ include.pexcerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ include.sdescription }}{% endif %}">
   <link rel='canonical' href="{{ include.purl | replace:'index.html','' | prepend: include.sbaseurl | prepend: include.surl }}">
   <link rel='alternate' type='application/rss+xml' title='{{ include.stitle }}' href="{{ '/feed.xml' | prepend: include.sbaseurl | prepend: include.surl }}">

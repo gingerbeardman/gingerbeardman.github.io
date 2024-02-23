@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang='en'>
 
-{% include_cached head.html ptag=page.tag pname=page.name ptitle=page.title stitle=site.title sdescription=site.description pexcerpt=page.excerpt purl=page.url surl=site.url sbaseurl=site.baseurl sanalytics=site.google_analytics %}
+{% include_cached head.html ptag=page.tag pname=page.name ptitle=page.title stitle=site.title sextitle=site.extitle sdescription=site.description pexcerpt=page.excerpt purl=page.url surl=site.url sbaseurl=site.baseurl sanalytics=site.google_analytics %}
 
 <body class="{% if page.tags contains 'piece' %}piece {% elsif page.tags contains 'playdate' or page.tags contains 'dailydriver' %}playdate  {% elsif page.tags contains 'windows' %}windows {% elsif page.tags contains 'macintosh' or page.tags contains 'system7' %}macintosh {% endif %}">
 
   <div class='js-off-canvas-container c-off-canvas-container'>
-    {% include_cached header.html sdescription=site.description sbaseurl=site.baseurl stitle=site.title htmltitle=site.htmltitle shomepage=site.homepage sauthor=site.author pname=page.name %}
+    {% include_cached header.html sdescription=site.description sbaseurl=site.baseurl sextitle=site.extitle shomepage=site.homepage sauthor=site.author pname=page.name %}
 
     {{ content }}
     
