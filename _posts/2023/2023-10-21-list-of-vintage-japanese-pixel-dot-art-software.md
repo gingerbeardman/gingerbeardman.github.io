@@ -2,7 +2,7 @@
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
 date: '2023-10-21T16:56+01:00'
-last_modified_at: '2024-02-25T15:19+00:00'
+last_modified_at: '2024-02-25T15:34+00:00'
 tags:
 - graphics
 - pixelart
@@ -36,7 +36,7 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
-Total entries: 231
+Total entries: 232
 
 <div class="table-wrapper" markdown="block">
 |Platform|English|Japanese|Year|Developer|
@@ -228,6 +228,7 @@ Total entries: 231
 |Windows 9x|Ultra KiD|ウルトラキッド |1997|Fanfare|
 |Windows 9x|Ultra KiD v2.0 |ウルトラキッド |1998|Fanfare|
 |Windows 9x|Yumeiro no Enogu |ゆめいろのえのぐ|2008|Kengo Watanabe|
+|Windows CE|EDGE Pocket 2 ||2009|TAKABO SOFT|
 |Windows CE|JINZO Paint 16 ||1999|Tomohiro Ueno|
 |Windows CE|JINZO Paint 4||1999|Tomohiro Ueno|
 |Windows CE|JINZO Paint full-colour||1999|Tomohiro Ueno|
