@@ -2,7 +2,7 @@
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
 date: '2023-10-21T16:56+01:00'
-last_modified_at: '2024-01-31T22:38+00:00'
+last_modified_at: '2024-02-25T15:19+00:00'
 tags:
 - graphics
 - pixelart
