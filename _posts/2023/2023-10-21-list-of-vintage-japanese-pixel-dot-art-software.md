@@ -2,7 +2,7 @@
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
 date: '2023-10-21T16:56+01:00'
-last_modified_at: '2024-02-25T15:34+00:00'
+last_modified_at: '2024-02-25T21:43+00:00'
 tags:
 - graphics
 - pixelart
@@ -36,7 +36,7 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
-Total entries: 232
+Total entries: 234
 
 <div class="table-wrapper" markdown="block">
 |Platform|English|Japanese|Year|Developer|
@@ -50,6 +50,8 @@ Total entries: 232
 |FM-Towns|ARTemis||1993|Ryosuke Matsuuchi|
 |FM-Towns|DRAW BOARD2||1993|Souji Yamakawa|
 |FM-Towns|G-Pen32K ||1995|rice|
+|FM-Towns|many COLORS ||1993|Amorphous|
+|FM-Towns|many COLORS II ||1995|Amorphous|
 |FM-Towns|Meta Paint 2 |メタペイント2 |1992|Oizumi Shigeru|
 |FM-Towns|New Transfer |ニュートランスファー|1992|Hiroshi Toda|
 |FM-Towns|Oops, anime-kun|おっとアニメ君 |1989|Nihon Mi-Com Hanbai|
