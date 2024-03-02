@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dynamic music and sound techniques for video games"
-last_modified_at: '2023-12-10T00:31+00:00'
+last_modified_at: '2024-03-02T18:09+00:00'
 date: '2023-12-09T01:22+00:00'
 tags:
 - audio
@@ -20,7 +20,7 @@ nouns:
 - Lua
 - YOYOZO
 - Fore! Track
-- ICARUS
+- Super ICARUS
 comments: https://twitter.com/gingerbeardman/status/1733297871170961808
 
 ---
@@ -73,7 +73,7 @@ Digital audio is a different beast. I always try to find a time that fits the ga
 
 You can use [PyMusicLooper](https://github.com/arkrow/PyMusicLooper) to analyse a digital audio track and spit out information about ranges that loop nicely, along with a percentage indicating how good it considers the loop. In other words you can identify and extract a loop from digital audio files that sound like they could loop. Of course, can't identify loops in tracks that aren't repetitive or consistent in their structure.  You might get PyMusicLooper to split the file into into three sections (intro, loop, outro) or just export the loop information as a text file to use in your game. Which I choose depends on how much of the file I want to use. 
 
-For an example, in my game [ICARUS](https://gingerbeardman.itch.io/icarus) I'm using a file that gives the vibe I wanted in the game and sounded like it contained some loops even though it was not provided as a looping song. PyMusicLooper reported that it contains a dozen or so possible loops of varying quality. 
+For an example, in my game [Super ICARUS](https://play.date/games/icarus) I'm using a file that gives the vibe I wanted in the game and sounded like it contained some loops even though it was not provided as a looping song. PyMusicLooper reported that it contains tens of possible loops of varying quality. 
 
 |loop|start |end |duration|match|
 |--|--|--|----|--|
@@ -98,9 +98,15 @@ My goal was to find three loops of increasing length and with a high percentage 
 
 Using the Playdate SDK I can do `setRange()` on the audio track to change the playback range and the music will loop between those new points when the playhead reaches the end of the range. For this reason, this method does not provide immediate results so is better used to signify a large change in progress as the delay until the change is noticed will be an unknown amount of time. But when the change does kick in it's a really nice surprise!
 
-The final result sees the game start by playing loop 1 (synth and drums) and then as the player gets makes some good progress I switch to loop 2 (synth, drums, guitar licks), and finally as they pass a certain threshold I switch to loop 3 (synth, drums, guitar licks into guitar solo). This provides music that sounds very dynamic with little effort. You could even drop back to the shorter loops if the player lost a life, missed a target, and so on. Again, there's no real way of me demoing this as it's something that will become apparent through play, and the final result is just more of the song!
+The final result sees the game start by playing loop 1 (synth and drums) and then as the player gets makes some good progress I switch to loop 2 (synth, drums, guitar licks), and finally as they pass a certain threshold I switch to loop 3 (synth, drums, guitar licks into guitar solo). This provides music that sounds very dynamic with little effort. You could even drop back to the shorter loops if the player lost a life, missed a target, and so on. Again, there's no real way of me demoing this as it's something that will become apparent through play, and the final result is just one long dynamic song!
 
-For sound effects I use the same approach as above. As an example, in [*Fore! Track*](https://play.date/games/fore-track/) there is a clapping sound effect after the player gets the ball in a hole. This is a long sound effect but I play three increasingly long sections of it as the player's chain increases (number of successive holes-in-one). It starts off as a short clap, increases to a longer more enthusiastic clap, and finally it starts with a whoop and continues to enthusiastic clap. I have a separate sound effect for the end game cheer that plays over the top of the full clap, resulting in a raucous end of game celebration.
+For sound effects I use the same approach as above. As an example, in [*Fore! Track*](https://play.date/games/fore-track/) there is a clapping sound effect after the player gets the ball in a hole. This is a long sound effect but I play three increasingly long sections of it as the player's chain increases (number of successive holes-in-one). It starts off as a short clap, increases to a longer more enthusiastic clap, and finally it begins with a whoop and continues to enthusiastic clap. I have a separate sound effect for the end game cheer that plays over the top of the full clap, resulting in a raucous end of game celebration.
+
+----
+
+## Quantised Sounds
+
+In [Super ICARUS](https://play.date/games/icarus) created certain game event sounds from small sections of the music track. I then adjust playback rate/speed/pitch. The result is that the sounds appear to be quantised or matched to the music. I'm not sure how to describe this phenomenon accurately in musical/technical terms.
 
 ----
 
