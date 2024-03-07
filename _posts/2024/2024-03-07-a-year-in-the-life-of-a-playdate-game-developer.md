@@ -29,7 +29,7 @@ So I thought it would be interesting to look back and take stock of the last yea
 
 After Sparrow Solitaire it took me a few months to figure out the right sort of size and scope that would allow me to make a game every month or two, whilst minimising the risk if not enough people bought them. By September I was well and truly in the zone and [created YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/) which went on to receive a commendation by Ars Technica as one of the ["Best Games of 2023"](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7).
 
-Somebody asked me if this is my full-time job? My answer is that, yes, this is my only job and I do it as often as I'm able. It's certainly more complicated, due to various life stuff, but that's the gist of things. Over the last twelve months, I would say I've been productive for around two-thirds of the time.
+Somebody asked me if this is my full-time job? My answer is that, yes, this is my only job and I do it as often as I'm able. It's certainly more complicated, due to various life stuff, but that's the gist of things. Over the last twelve months, I would say I've been productive for around half my time.
 
 Recently I saw somebody say ["Be careful with scope and look what you can do in a year!"](https://twitter.com/indieretropod/status/1764443576597946593), about the wonderful [Johan Peitz](https://twitter.com/johanpeitz), and I think that addage can also be applied to my output this year.
 
