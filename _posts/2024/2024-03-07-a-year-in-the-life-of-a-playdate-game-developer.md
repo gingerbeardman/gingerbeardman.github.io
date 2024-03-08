@@ -23,7 +23,7 @@ pinned: false
 comments: https://twitter.com/gingerbeardman/status/1765806423156359463
 ---
 
-This week sees the first Anniversary Sale of [Catalog, the official store for Playdate games](https://play.date/games/tags/on-sale). This means it's also the anniversary of [the launch of Sparrow Solitaire](/2023/04/13/sparrow-solitaire-for-playdate/), which was the first Playdate work I did in 2023 after taking an enforced break.
+This week sees the first Anniversary Sale of [Catalog, the official store for Playdate games](https://play.date/games/tags/on-sale). This means it's also the anniversary of [Sparrow Solitaire](/2023/04/13/sparrow-solitaire-for-playdate/), which was the first Playdate work I did in 2023 after taking an enforced break.
 
 So I thought it would be interesting to look back and take stock of the last year of me making stuff for Playdate. What did I finish? What did I abandon? What is still to come?
 
