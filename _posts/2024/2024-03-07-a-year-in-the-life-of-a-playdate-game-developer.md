@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A year in the life of a Playdate game developer"
-last_modified_at: '2024-03-08T15:53+00:00'
+last_modified_at: '2024-03-08T20:56+00:00'
 date: '2024-03-07T19:44+00:00'
 tags:
 - playdate
@@ -30,7 +30,7 @@ This week sees the [first Anniversary Sale of Catalog, the official store for Pl
 
 So I thought it would be interesting to look back and take stock of the last year of me making stuff for Playdate. What did I finish? What did I abandon? What is still to come?
 
-After Sparrow Solitaire (a huge game that took around a year of development time split between myself and Mac Vogelsang), it took me a few months to figure out the right sort of size and scope that would allow me to make a game every month or two, whilst minimising the risk of not selling enough. By September I was well and truly *in the zone* and [created YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/) which went on to receive a commendation from Ars Technica as one of the ["Best Games of 2023"](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7).
+After Sparrow Solitaire (a huge game that took around a year of development time split between myself and Mac Vogelsang), it took me a few months to figure out the right sort of size and scope that would allow me to make a game every month or two, whilst minimising the risk of not selling enough. By September I was well and truly *in the zone* and [created YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/) which went on to receive a commendation from Ars Technica as one of the ["Best Games of 2023"](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7). And at the [2023 Playdate Community Awards](https://play.date/games/community-awards-2023/), presented on 8th March 2024, Sparrow Solitaire won *Best Puzzle Game* and YOYOZO won *Best Arcade Game*.
 
 Somebody asked me if this is my full-time job? My answer is: yes, this is my only job and I do it as often as I'm able. It's certainly more complicated, due to various life stuff, but that's the gist of things. Over the last twelve months, I would say I've been productive for around half my time.  
 
