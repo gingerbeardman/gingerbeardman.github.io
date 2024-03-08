@@ -29,13 +29,15 @@ So I thought it would be interesting to look back and take stock of the last yea
 
 After Sparrow Solitaire (a huge game that took around a year of development time split between myself and Mac Vogelsang), it took me a few months to figure out the right sort of size and scope that would allow me to make a game every month or two, whilst minimising the risk of not selling enough. By September I was well and truly *in the zone* and [created YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/) which went on to receive a commendation from Ars Technica as one of the ["Best Games of 2023"](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7).
 
-Somebody asked me if this is my full-time job? My answer is: yes, this is my only job and I do it as often as I'm able. It's certainly more complicated, due to various life stuff, but that's the gist of things. Over the last twelve months, I would say I've been productive for around half my time.
+Somebody asked me if this is my full-time job? My answer is: yes, this is my only job and I do it as often as I'm able. It's certainly more complicated, due to various life stuff, but that's the gist of things. Over the last twelve months, I would say I've been productive for around half my time.  
 
 Recently I saw somebody say ["Be careful with scope and look what you can do in a year!"](https://twitter.com/indieretropod/status/1764443576597946593), about the wonderful [Johan Peitz](https://twitter.com/johanpeitz), and I think that addage can also be applied to my output this year.
 
 Summary: 22 projects, 10 of which were released, and 5 are still to come. I'm pretty happy with that!
 
 [Don't forget to check out my games in the Catalog Sale!](https://play.date/games/yoyozo/)
+
+> I also managed to squeeze in a couple of non-Playdate projects: [Portrait Curling](https://gingerbeardman.itch.io/portrait-curling) and [modifications to JINZO Paint](https://blog.gingerbeardman.com/2024/01/22/jinzo-paint-vintage-mobile-drawing-app/) and my blogging.
 
 <div class="table-wrapper" markdown="block">
 |Month|Project|Genre |Status|Location|With|
