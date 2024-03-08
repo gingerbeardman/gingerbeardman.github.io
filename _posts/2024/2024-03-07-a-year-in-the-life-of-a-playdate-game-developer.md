@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A year in the life of a Playdate game developer"
+last_modified_at: '2024-03-08T15:53+00:00'
 date: '2024-03-07T19:44+00:00'
 tags:
 - playdate
@@ -13,6 +14,8 @@ nouns:
 - Playdate Squad Testers
 - Playdate
 - Catalog
+- Anniversary Sale
+- Sale
 - Sparrow Solitaire
 - YOYOZO
 - Fore! Track
@@ -23,7 +26,7 @@ pinned: false
 comments: https://twitter.com/gingerbeardman/status/1765829493187297513
 ---
 
-This week sees the [first Anniversary Sale of Catalog, the official store for Playdate games](https://play.date/games/tags/on-sale). This means it's also the anniversary of [Sparrow Solitaire](/2023/04/13/sparrow-solitaire-for-playdate/), which was the first Playdate work I did in 2023 after taking an enforced break.
+This week sees the [first Anniversary Sale of Catalog, the official store for Playdate games](https://play.date/games/tags/on-sale). This means it's almost the anniversary of [the release Sparrow Solitaire](/2023/04/13/sparrow-solitaire-for-playdate/), which was the first Playdate work I did in 2023 after taking an enforced break.
 
 So I thought it would be interesting to look back and take stock of the last year of me making stuff for Playdate. What did I finish? What did I abandon? What is still to come?
 
@@ -33,11 +36,11 @@ Somebody asked me if this is my full-time job? My answer is: yes, this is my onl
 
 Recently I saw somebody say ["Be careful with scope and look what you can do in a year!"](https://twitter.com/indieretropod/status/1764443576597946593), about the wonderful [Johan Peitz](https://twitter.com/johanpeitz), and I think that addage can also be applied to my output this year.
 
-Summary: 22 projects, 10 of which were released, and 5 are still to come. I'm pretty happy with that!
+**Summary:** 22 projects, 10 of which were released, and 5 are still to come. I'm pretty happy with that!
 
-[Don't forget to check out my games in the Catalog Sale!](https://play.date/games/yoyozo/)
+I also managed to squeeze in a couple of non-Playdate projects: my first real Love2D game [Portrait Curling](https://gingerbeardman.itch.io/portrait-curling), modifications to vintage pixel art app [JINZO Paint](https://blog.gingerbeardman.com/2024/01/22/jinzo-paint-vintage-mobile-drawing-app/), and I'm still [blogging](/).
 
-> I also managed to squeeze in a couple of non-Playdate projects: [Portrait Curling](https://gingerbeardman.itch.io/portrait-curling) and [modifications to JINZO Paint](https://blog.gingerbeardman.com/2024/01/22/jinzo-paint-vintage-mobile-drawing-app/) and my blogging.
+Don't forget to [check out my Playdate games in the Catalog Sale!](https://play.date/games/yoyozo/)
 
 <div class="table-wrapper" markdown="block">
 |Month|Project|Genre |Status|Location|With|
