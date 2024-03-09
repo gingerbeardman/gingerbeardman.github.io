@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A year in the life of a Playdate game developer"
-last_modified_at: '2024-03-08T20:56+00:00'
+last_modified_at: '2024-03-09T15:40+00:00'
 date: '2024-03-07T19:44+00:00'
 tags:
 - playdate
@@ -40,7 +40,7 @@ Recently I saw somebody say ["Be careful with scope and look what you can do in 
 
 I also managed to squeeze in a couple of non-Playdate projects: my first real Love2D game [Portrait Curling](https://gingerbeardman.itch.io/portrait-curling), modifications to vintage pixel art app [JINZO Paint](https://blog.gingerbeardman.com/2024/01/22/jinzo-paint-vintage-mobile-drawing-app/), and I'm still [blogging](/).
 
-Don't forget to [check out my Playdate games in the Catalog Sale!](https://play.date/games/yoyozo/)
+Don't forget to [check out my Playdate games in the Catalog Sale!](https://play.date/games/yoyozo/) And my [other Playdate blog posts](https://blog.gingerbeardman.com/tag/playdate/).
 
 <div class="table-wrapper" markdown="block">
 |Month|Project|Genre |Status|Location|With|
