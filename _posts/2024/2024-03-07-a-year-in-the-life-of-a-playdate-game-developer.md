@@ -43,7 +43,7 @@ I also managed to squeeze in a couple of non-Playdate projects: my first real Lo
 Don't forget to [check out my Playdate games in the Catalog Sale!](https://play.date/games/yoyozo/) And my [other Playdate blog posts](/tag/playdate/).
 
 <div class="table-wrapper" markdown="block">
-|Month|Project|Genre |Status|Store|Blog|With|
+|Month|Project|Genre |Status|Store|Blog|Made With|
 |---|-------|----|----|----|----|----|
 |2023-03|Sparrow Solitaire|Puzzle|[Released](https://play.date/games/sparrow-solitaire/)|[Catalog](https://play.date/games/sparrow-solitaire/)|[Read](/2023/04/13/sparrow-solitaire-for-playdate/)|[vogelscript](https://twitter.com/Vogelscript)|
 |2023-04|Shark Turtle |Puzzle|Unreleased||||
