@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A year in the life of a Playdate game developer"
-last_modified_at: '2024-03-09T15:40+00:00'
+last_modified_at: '2024-03-11T16:03+00:00'
 date: '2024-03-07T19:44+00:00'
 tags:
 - playdate
@@ -38,34 +38,34 @@ Recently I saw somebody say ["Be careful with scope and look what you can do in 
 
 **Summary:** 22 projects, 10 of which were released, and 5 are still to come. I'm pretty happy with that!
 
-I also managed to squeeze in a couple of non-Playdate projects: my first real Love2D game [Portrait Curling](https://gingerbeardman.itch.io/portrait-curling), modifications to vintage pixel art app [JINZO Paint](https://blog.gingerbeardman.com/2024/01/22/jinzo-paint-vintage-mobile-drawing-app/), and I'm still [blogging](/).
+I also managed to squeeze in a couple of non-Playdate projects: my first real Love2D game [Portrait Curling](https://gingerbeardman.itch.io/portrait-curling), modifications to vintage pixel art app [JINZO Paint](/2024/01/22/jinzo-paint-vintage-mobile-drawing-app/), and I'm still [blogging](/).
 
-Don't forget to [check out my Playdate games in the Catalog Sale!](https://play.date/games/yoyozo/) And my [other Playdate blog posts](https://blog.gingerbeardman.com/tag/playdate/).
+Don't forget to [check out my Playdate games in the Catalog Sale!](https://play.date/games/yoyozo/) And my [other Playdate blog posts](/tag/playdate/).
 
 <div class="table-wrapper" markdown="block">
-|Month|Project|Genre |Status|Location|With|
-|---|-------|----|----|----|----|
-|2023-03|Sparrow Solitaire|Puzzle|[Released](https://play.date/games/sparrow-solitaire/)|[Catalog](https://play.date/games/sparrow-solitaire/) |[vogelscript](https://twitter.com/Vogelscript)|
-|2023-04|Shark Turtle |Puzzle|Unreleased|||
-|2023-05|Radical|Adventure |Abandoned |||
-|2023-05|Carton |Puzzle|On hold |||
-|2023-06|Heno Heno|Puzzle|On hold |||
-|2023-06|Fore! Track|Sports|[Released](https://play.date/games/fore-track/)|[Catalog](https://play.date/games/fore-track/) ||
-|2023-07|Mandala|Toy |[Released](https://github.com/gingerbeardman/mandala)|GitHub||
-|2023-08|Strategies |App |[Released](https://gingerbeardman.itch.io/strategies)|Itch||
-|2023-08|DateDiff |App |[Released](https://gingerbeardman.itch.io/datediff)|Itch||
-|2023-08|Fortress |Puzzle|Abandoned |||
-|2023-08|Mole Hole|Adventure |*Imminent*|Itch|[thoruman](https://twitter.com/thoruman)|
-|2023-09|Rink |Sports|Tutorial|||
-|2023-09|Kye|Puzzle|[Released](https://mouflon-cloud.itch.io/kye)|Itch|[mouflon cloud](https://twitter.com/MouflonCloud)|
-|2023-09|YOYOZO |Action|[Released](https://play.date/games/yoyozo/)|[Catalog](https://play.date/games/yoyozo/) ||
-|2023-10|Pararena |Sports|Abandoned |||
-|2023-10|Soccer |Sports|Prototype |||
-|2023-10|Super ICARUS |Action|[Released](https://play.date/games/icarus/)|[Catalog](https://play.date/games/icarus/) ||
-|2023-11|Boing|Action|Prototype |||
-|2023-11|Cranxious|Action|Prototype |||
-|2023-12|See The Sky|Storybook |[Released](https://gingerbeardman.itch.io/see-the-sky)|Itch|[thoruman](https://twitter.com/thoruman)|
-|2024-01|Rocket Man |Simulation|On hold |||
-|2024-02|Eggdog |Action|Prototype |||
+|Month|Project|Genre |Status|Store|Blog|With|
+|---|-------|----|----|----|----|----|
+|2023-03|Sparrow Solitaire|Puzzle|[Released](https://play.date/games/sparrow-solitaire/)|[Catalog](https://play.date/games/sparrow-solitaire/)|[Read](/2023/04/13/sparrow-solitaire-for-playdate/)|[vogelscript](https://twitter.com/Vogelscript)|
+|2023-04|Shark Turtle |Puzzle|Unreleased||||
+|2023-05|Radical|Adventure |Abandoned ||||
+|2023-05|Carton |Puzzle|On hold ||||
+|2023-06|Heno Heno|Puzzle|On hold ||||
+|2023-06|Fore! Track|Sports|[Released](https://play.date/games/fore-track/)|[Catalog](https://play.date/games/fore-track/)|[Read](/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/) ||
+|2023-07|Mandala|Toy |[Released](https://github.com/gingerbeardman/mandala)|GitHub|||
+|2023-08|Strategies |App |[Released](https://gingerbeardman.itch.io/strategies)|Itch|||
+|2023-08|DateDiff |App |[Released](https://gingerbeardman.itch.io/datediff)|Itch|||
+|2023-08|Fortress |Puzzle|Abandoned ||||
+|2023-08|Mole Hole|Adventure |*Imminent*|Itch||[thoruman](https://twitter.com/thoruman)|
+|2023-09|Rink |Sports|Tutorial||||
+|2023-09|Kye|Puzzle|[Released](https://mouflon-cloud.itch.io/kye)|Itch||[mouflon cloud](https://twitter.com/MouflonCloud)|
+|2023-09|YOYOZO |Action|[Released](https://play.date/games/yoyozo/)|[Catalog](https://play.date/games/yoyozo/)|[Read](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/) ||
+|2023-10|Pararena |Sports|Abandoned ||||
+|2023-10|Soccer |Sports|Prototype ||||
+|2023-10|Super ICARUS |Action|[Released](https://play.date/games/icarus/)|[Catalog](https://play.date/games/icarus/) |||
+|2023-11|Boing|Action|Prototype ||||
+|2023-11|Cranxious|Action|Prototype ||||
+|2023-12|See The Sky|Storybook |[Released](https://gingerbeardman.itch.io/see-the-sky)|Itch|[Read](/2023/12/16/see-the-sky-thoru-yamamoto-christmas-story-for-playdate/)|[thoruman](https://twitter.com/thoruman)|
+|2024-01|Rocket Man |Simulation|On hold ||||
+|2024-02|Eggdog |Action|Prototype ||||
 
 </div>
