@@ -38,7 +38,7 @@ Recently I saw somebody say ["Be careful with scope and look what you can do in 
 
 **Summary:** 22 projects, 10 of which were released, and 5 are still to come. I'm pretty happy with that!
 
-I also managed to squeeze in a couple of non-Playdate projects: my first real Love2D game [Portrait Curling](https://gingerbeardman.itch.io/portrait-curling), modifications to vintage pixel art app [JINZO Paint](/2024/01/22/jinzo-paint-vintage-mobile-drawing-app/), and I'm still [blogging](/).
+I also managed to squeeze in a couple of non-Playdate projects: my first real Love2D game [Portrait Curling](https://gingerbeardman.itch.io/portrait-curling), modifications to vintage pixel art app [JINZO Paint](/2024/01/22/jinzo-paint-vintage-mobile-drawing-app/), and I'm always [blogging](/).
 
 Don't forget to [check out my Playdate games in the Catalog Sale!](https://play.date/games/yoyozo/) And my [other Playdate blog posts](/tag/playdate/).
 
