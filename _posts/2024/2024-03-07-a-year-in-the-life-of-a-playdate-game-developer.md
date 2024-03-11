@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A year in the life of a Playdate game developer"
-last_modified_at: '2024-03-11T16:03+00:00'
+last_modified_at: '2024-03-11T17:18+00:00'
 date: '2024-03-07T19:44+00:00'
 tags:
 - playdate
@@ -55,7 +55,7 @@ Don't forget to [check out my Playdate games in the Catalog Sale!](https://play.
 |2023-08|Strategies |App |[Released](https://gingerbeardman.itch.io/strategies)|Itch|||
 |2023-08|DateDiff |App |[Released](https://gingerbeardman.itch.io/datediff)|Itch|||
 |2023-08|Fortress |Puzzle|Abandoned ||||
-|2023-08|Mole Hole|Adventure |*Imminent*|Itch||[thoruman](https://twitter.com/thoruman)|
+|2023-08|Mole Hole|Adventure |Unreleased|||[thoruman](https://twitter.com/thoruman)|
 |2023-09|Rink |Sports|Tutorial||||
 |2023-09|Kye|Puzzle|[Released](https://mouflon-cloud.itch.io/kye)|Itch||[mouflon cloud](https://twitter.com/MouflonCloud)|
 |2023-09|YOYOZO |Action|[Released](https://play.date/games/yoyozo/)|[Catalog](https://play.date/games/yoyozo/)|[Read](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/) ||
