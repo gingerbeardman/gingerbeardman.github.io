@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "YOYOZO (or, how I made a Playdate game in 39KiB)"
-last_modified_at: '2023-12-27T23:12+00:00'
+last_modified_at: '2024-03-12T14:44+00:00'
 date: '2023-11-21T23:59+00:00'
 tags:
 - graphics
@@ -97,7 +97,7 @@ I thought it would be cool to outline the main features and how each contributes
 
 ## Manual/Guide
 
-I thought it would be fun to write a manual/player's guide in the old-school style. I love reading those sorts of manuals, where the developer gives you a little glimpse behind the curtain so you get an understanding of how the game works, with some small hints and tips littered throughout—for the most inquisitive players! If that sounds like your thing, [download the manual from the game page](https://play.date/games/yoyozo/#gameListingMoreInfo).
+I really loved the manuals that came with games in the 8-bit and 16-bit era. So I thought it would be fun to write a manual/player's guide in the old-school style. I love reading those sorts of manuals, where the developer gives you a little glimpse behind the curtain so you get an understanding of how the game works, with some small hints and tips littered throughout—for the most inquisitive players! If that sounds like your thing, [download the manual from the game page](https://play.date/games/yoyozo/#gameListingMoreInfo).
 
 [![YOYOZO Manual](https://cdn.gingerbeardman.com/images/posts/yoyozo-manual.png)](https://play.date/games/yoyozo/#gameListingMoreInfo)
 
@@ -106,6 +106,8 @@ I thought it would be fun to write a manual/player's guide in the old-school sty
 ## Timeline
 
 I worked on YOYOZO from September 5th to 27th, submitting it to Catalog on 21st and polishing it for the final week after that. After the game was approved I added online score boards one evening just prior to launch. It was in review and waiting for release longer than it was in development!
+
+The purpose of this section is not to say that developing a game quickly is better than developing one slowly, or vice versa, but rather to show the importance of scoping a game well and then sticking to the plan.
 
 - 2023-09-05 — [initial prototype](https://twitter.com/gingerbeardman/status/1699108587732119834)
 - 2023-09-07 — [playable prototype](https://twitter.com/gingerbeardman/status/1699784106505290093) (3 days)
