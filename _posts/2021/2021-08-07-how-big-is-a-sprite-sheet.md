@@ -77,7 +77,7 @@ The increase from 32-steps to 360-steps is echoed by an increase of around a fac
 
 In the above table we can see that related stats increase pretty much linearly, with a slight downward trend for file sizes and a slight upward trend for everything else.
 
-The increased smoothness is great, and very easy to notice. The benefits of the increased smoothness becomes more less noticeable with each increase in step count. However, it's important to remember there are other implications:
+The increased smoothness is great, and very easy to notice. The benefits of the increased smoothness becomes less noticeable with each increase in step count. However, it's important to remember there are other implications:
 
 - Rendering time
 - File size
@@ -94,7 +94,7 @@ Playdate's compiled image format is very similar in file size to an optimised PN
 As we can see by the table below, memory usage is quite optimised on Playdate. The system is clever enough to trim transparent areas from cells of sprite sheets and store the offset of the image instead of the complete raw bitmap data. For this example sprite memory usage is roughly `(W×H÷8)*1.16` rather than the expected `(W×H÷8)*2.0`. The car sprite is my largest occupier of memory. Only one is loaded at a time and even at 360-steps it fits comfortably in the Playdate's 16MB RAM. All numbers of steps are on the table.
 
 ### Performance in-game
-I'm targeting a refresh rate of 60fps on the device, so it's important for me to check that any changes to rendering don't have an adverse effect on performance. At 32-steps the car sprite was changed roughly every second update, with 64-steps and higher the car sprite will be changed every update. Looking at performance in broad terms, there does seem to be a small hit when using the large numbers of steps. It doesn't prevent me hittong 60fps, but it does leave me less time to do other things I have planned.
+I'm targeting a refresh rate of 60fps on the device, so it's important for me to check that any changes to rendering don't have an adverse effect on performance. At 32-steps the car sprite was changed roughly every second update, with 64-steps and higher the car sprite will be changed every update. Looking at performance in broad terms, there does seem to be a small hit when using the large numbers of steps. It doesn't prevent me hitting 60fps, but it does leave me less time to do other things I have planned.
 
 ## Final choice?
 If you've read this far you're probably wanting to know my choice. How many steps did I choose? Well, the jury is out. This is the sort of thing I'll have to live with for a while before I settle on a choice.
