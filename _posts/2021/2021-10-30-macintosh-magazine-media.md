@@ -43,7 +43,7 @@ This is such an amazing treasure trove of files, containing many long lost files
 *   _Tower Xmas Demo_, a demo version of Yoot Saito's _Tower ~Christmas Disc~_ add-on from December 1995 (previously lost)
 *   Fans of _Macromedia Shockwave_ and _Osamu Sato_ uncovered a 1997/8 [demo of Roly-Polys World Tour](https://www.youtube.com/watch?v=FlMzJs8Eb8Y) which is hugely exciting as the complete game remained lost to time (it has since been found, May 2023)
 *   [Pickle's Pocket](https://macintoshgarden.org/apps/pickles-pocket) from 1998 is the first desktop toy and suite of tiny apps by Thoru Yamamoto (previously lost with zero screen grabs online)
-*   [MacCalligraphy Sansui Demo](https://macintoshgarden.org/apps/maccalligraphy-sansui), version of Japanese calligraphy tool from 1999 (previously lost) I also uncovered a promotional leaflet and demo guide from Wayback Machine
+*   [MacCalligraphy Sansui Demo](https://macintoshgarden.org/apps/maccalligraphy-sansui), version of Enzan-Hoshigumi's Japanese calligraphy tool from 1999 (previously lost) I also uncovered a promotional leaflet and demo guide from Wayback Machine
 *   [AsistantPickle](https://macintoshgarden.org/apps/asistantpickle) from 2000 is a more advanced desktop toy and suite of tiny apps by Thoru Yamamoto (previously lost with zero screen grabs online)
 
 My [Patreon](https://www.patreon.com/gingerbeardman) enables me to buy more discs to build out the database, finding more lost gems and sharing them once again with the world. I add missing discs to _Internet Archive_ and the _redump_ project and upload individual games to various Classic Macintosh archives.
