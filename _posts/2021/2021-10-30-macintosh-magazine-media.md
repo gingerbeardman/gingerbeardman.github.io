@@ -1,11 +1,16 @@
 ---
 layout: post
 title: "I'm preserving vintage Macintosh magazine media"
+last_modified_at: '2024-03-24T20:49+00:00'
+date: '2021-10-30T12:34+00:00'
 tags:
 - macintosh
 - mmm
 - patreon
 - thoruyamamoto
+- osamusato
+- hanafuda
+- hypercard
 - history
 nouns:
 - Macintosh
@@ -18,11 +23,11 @@ For a while now I've been collecting CD-ROMs and Floppy Disks that came with Jap
 
 These magazines were released before widespread adoption of the internet, when it was tricky to discover new software and even more difficult to obtain it. Buying a magazine with a disc containing hundreds or sometimes thousands of files was an easy way of getting the latest software. Of course, more than twenty years have now passed and software that was once common has all but disappeared. These magazine discs provide time capsules inside which live many long forgotten secrets.
 
-The archive as it stands (October 2022):
+The archive as it stands (as of March 2024):
 
 *   date range: 1991–2002
-*   total media: 378
-*   total files: 841,491
+*   total media: 425 discs
+*   total files: 929,255
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/mmm-scatter.png "Distribution of discs by month")
 {:.tofigure}
