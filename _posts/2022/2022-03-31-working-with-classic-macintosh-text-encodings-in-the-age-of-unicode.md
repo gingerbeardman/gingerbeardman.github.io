@@ -20,7 +20,7 @@ nouns:
 comments: https://twitter.com/gingerbeardman/status/1509533825520443393
 
 ---
-One of my "lockdown projects" is a collection of media from vintage Japanese Apple Macintosh magazines. These are mostly CD-ROMs but there are some floppy disks too. I started the project in July 2021 and have so far collected an archive of over 250 items spanning just over a decade, uncovering many long lost classic pieces of software in the process. I call the project [Macintosh Magazine Media](https://www.patreon.com/posts/58097660) and contributions are always welcome.
+One of my "lockdown projects" is a collection of media from vintage Japanese Apple Macintosh magazines. These are mostly CD-ROMs but there are some floppy disks too. I started the project in July 2021 and have so far collected an archive of over 250 items spanning just over a decade, uncovering many long lost classic pieces of software in the process. I call the project [Macintosh Magazine Media](/2021/10/30/macintosh-magazine-media/) and contributions are always welcome.
 
 ## The Relentless March of Progress
 

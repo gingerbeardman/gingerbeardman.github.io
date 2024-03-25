@@ -51,3 +51,7 @@ The archive as it stands (updated March 2024):
 My [Patreon](https://www.patreon.com/gingerbeardman) enables me to buy more discs to build out the database, finding more lost gems and sharing them once again with the world. I add missing discs to _Internet Archive_ and the _redump_ project and upload individual games to various Classic Macintosh archives.
 
 Thanks for being on this journey with me!
+
+### Further reading
+
+* [Working with classic Macintosh text encodings in the age of Unicode](/2022/03/31/working-with-classic-macintosh-text-encodings-in-the-age-of-unicode/)
