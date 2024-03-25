@@ -31,7 +31,7 @@ The archive as it stands (updated March 2024):
 
 *   date range: 1991–2002
 *   total media: 425 discs
-*   total files: 929,255
+*   total files: 929,288
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/mmm-scatter.png "Distribution of discs by month")
 {:.tofigure}
