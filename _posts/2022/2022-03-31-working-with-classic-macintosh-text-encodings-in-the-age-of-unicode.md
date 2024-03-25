@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Working with classic Macintosh text encodings in the age of Unicode
+last_modified_at: '2024-03-25T14:05+00:00'
+date: '2022-03-31T12:34+00:00'
 tags:
 - macintosh
 - marchintosh
