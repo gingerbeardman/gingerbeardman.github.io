@@ -148,6 +148,7 @@ Thanks to CANO-Lab and Playdate Squad Testers.
 
 ### Elsewhere
 
+* 2024-03-08 — [Playdate Community Awards 2023: Best Arcade Game](https://play.date/games/community-awards-2023/)
 * 2023-12-27 — [Ars Technica: YOYOZO wins GOTY accolade!](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7)
 * 2023-11-30 — [Ars Technica](https://arstechnica.com/gaming/2023/11/my-long-quest-to-revive-a-90s-windows-gaming-cult-classic/)
 * 2023-11-24 — [Hacker Newsletter](http://eepurl.com/iEHB8M)
