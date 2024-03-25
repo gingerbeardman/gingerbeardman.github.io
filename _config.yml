@@ -28,6 +28,10 @@ twitter:
   username: gingerbeardman
   card: summary
 
+donate:
+  paypalme: https://paypal.me/mattsephton
+  stripe: https://donate.stripe.com/cN24hg7yTbqF6Aw288
+
 social:
   name: Matt Sephton
   links:
