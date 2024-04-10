@@ -15,7 +15,7 @@ nouns:
 - Status Badge URL
 featured: false
 pinned: false
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1778139331804160262
 ---
 
 I use some software called [*Huginn*](https://github.com/huginn/huginn) to do various automated web searching and scraping. One use case is [checking the status of all the institutions where the Great Wave is currently on view](/2023/04/10/where-can-i-see-hokusai-great-wave-today/), or not. I also have it do automatic auction searches for various items I'm looking for, that would otherwise take up a bunch of my time. And much more.
