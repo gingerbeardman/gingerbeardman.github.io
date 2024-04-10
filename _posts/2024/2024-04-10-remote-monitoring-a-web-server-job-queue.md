@@ -26,7 +26,7 @@ Huginn is installed on one of my web servers and does its thing on hourly, every
 
 ## Help from the community
 
-Another Huginn user [mentioned](https://github.com/huginn/huginn/issues/3368#issuecomment-2045510388) that I could send a regular request to [healthchecks.io](https://www.healthchecks.io), which would raise a notification if the requests stopped coming in (a method known as [the Dead man's switch](https://en.wikipedia.org/wiki/Dead_man%27s_switch)) which is exactly what would happen when the job queue is jammed. This was a good idea! Whilst I could be notfications by email or various push notification services, I'd prefer to get my notifications the same way as my server notifications - through [uptimerobot.com](https://www.uptimerobot.com) - so I added that to the process.
+Another Huginn user [mentioned](https://github.com/huginn/huginn/issues/3368#issuecomment-2045510388) that I could send a regular request to [healthchecks.io](https://www.healthchecks.io), which would raise a notification if the requests stopped coming in (a method known as [the Dead man's switch](https://en.wikipedia.org/wiki/Dead_man%27s_switch)) which is exactly what would happen when the job queue is jammed. This was a good idea! Whilst I could be notfications by email or various push notification services, I'd prefer to get my notifications the same way as my server notifications - through [uptimerobot.com](https://www.uptimerobot.com) - so I added that to the process, with the help of [Pēteris Caune](https://toot.lv/@cuu508/112246652626290022) the creator of healthchecks.io.
 
 Here is my final recipe:
 
