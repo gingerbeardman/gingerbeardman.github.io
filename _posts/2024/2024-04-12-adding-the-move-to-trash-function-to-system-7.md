@@ -18,7 +18,7 @@ nouns:
 featured: false
 pinned: false
 carousel: 'move-to-trash'
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1778909753231671576
 ---
 
 First, a little bit of Macintosh History. You probably know that on modern macOS you can select a file in Finder, on your Desktop, or in an app, and send it to the Trash by choosing the Move to Trash menu item, or by pressing Cmd+Backspace/Delete. This keyboard shortcut was added in System 7.5.3 where it was largely unadvertised and somewhat of a secret feature, but quickly became indispensable for those who knew of it. Of course, these days it is proudly displayed in macOS Finder menu.
