@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adding the “Move to Trash” function to System 7"
+title: "Adding the “Move to Trash” function to System 7.1"
 date: '2024-04-12T23:08+01:00'
 tags:
 - hack
