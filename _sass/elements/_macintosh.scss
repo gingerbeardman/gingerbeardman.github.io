@@ -29,11 +29,15 @@ body.macintosh {
     background-color: transparent;
   }
 
+  figcaption {
+    font-style: italic;
+  }
+
   figcaption,
   .c-logo__link span,
   .c-byline__desc,
   .c-byline__desc a {
-    color: $color-text;
+    color: $color-gray;
   }
 
   code,
