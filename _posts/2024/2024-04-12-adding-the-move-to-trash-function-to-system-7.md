@@ -38,6 +38,8 @@ So, James mentioned [FinderHack](https://macintoshgarden.org/apps/finderhack) wh
 ![PNG](https://cdn.gingerbeardman.com/images/posts/move-to-trash-1.png "This macro, bound to Cmd+Backspace/Delete, types Cmd+T to effectively map one hotkey to another")
 {:.tofigure}
 
+----
+
 So we already have a good solution but resources often scarce on classic Macintosh, so I wondered if I might be able to cut out the middleman and change the keyboard shortcut by modifying FinderHack directly. James had noticed that ResEdit would not allow you to type the Backspace character. I confirmed the same was true in Resorcerer. So, what to do?
 
 ## HexEdit
