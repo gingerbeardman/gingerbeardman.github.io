@@ -33,7 +33,7 @@ The first workaround was to script a [KeyQuencer](https://macintoshgarden.org/ap
 
 ## FinderHack
 
-So, James mentioned [FinderHack](https://macintoshgarden.org/apps/finderhack) which is a system Extension that gave earlier versions of System 7 a similar set of Finder features to those introduced in 7.5.3. But, crucially, it mapped the Move to Trash hotkey to Cmd+T, which is different enough to become annoying as you can no longer rely on muscle memory. I resorted to KeyQuencer once again and created a short Macro which would type the Cmd+T key combination and I assigned it to Cmd+Backspace/Delete. It worked!
+So, James mentioned [FinderHack](https://macintoshgarden.org/apps/finderhack) which is a system Extension that gave earlier versions of System 7 a similar set of Finder features to those introduced in 7.5.3. But, crucially, it mapped the Move to Trash hotkey to Cmd+T, which is different enough to become annoying as you can no longer rely on muscle memory. The challenge: how can we map this to the modern Cmd+Backspace/Delete shortcut? So, I turned to KeyQuencer once again and created a short macro which would type the Cmd+T key combination and I assigned it to Cmd+Backspace/Delete. It worked!
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/move-to-trash-1.png "This macro, bound to Cmd+Backspace/Delete, types Cmd+T to effectively map one hotkey to another")
 {:.tofigure}
