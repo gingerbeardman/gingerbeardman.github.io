@@ -40,7 +40,7 @@ So, James mentioned [FinderHack](https://macintoshgarden.org/apps/finderhack) wh
 
 ----
 
-So we already have a good solution but resources often scarce on classic Macintosh, so I wondered if I might be able to cut out the middleman and change the keyboard shortcut by modifying FinderHack directly. James had noticed that ResEdit would not allow you to type the Backspace character. I confirmed the same was true in Resorcerer. So, what to do?
+So we already have a good solution but resources are often scarce on classic Macintosh, so I wondered if I might be able to cut out the middleman and change the keyboard shortcut by modifying FinderHack directly. James had noticed that ResEdit would not allow you to type the Backspace character. I confirmed the same was true in Resorcerer. So, what to do?
 
 ## HexEdit
 
