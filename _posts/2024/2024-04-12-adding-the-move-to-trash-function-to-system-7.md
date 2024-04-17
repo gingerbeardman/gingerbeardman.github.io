@@ -12,6 +12,11 @@ nouns:
 - Resorcerer
 - ResEdit
 - QuicKeys
+- KeyQuencer Engine
+- KeyQuencer Extensions
+- KeyQuencer Extension
+- KeyQuencer Macros
+- KeyQuencer Macro
 - KeyQuencer
 - Alessandro Levi Montalcini
 - Move to Trash
@@ -103,7 +108,10 @@ Once all that is set up you can add an run KeyQuencer Macros, and it comes with 
 
 Finally a screenshot to clarify: 
 
-- highlighted window top right is the KeyQuencer install folder
-- bottom left window cluster is System folder (showing Finder 7.1.3), Extensions folder (showing KeyQuencer Engine & Finder Scripting Extension), and KeyQuencer Extensions folder (showing File KeyQuencer Extension)
+- top right highlighted window is the KeyQuencer install folder
+- bottom left window cluster shows:
+  1. System folder (showing Finder 7.1.3)
+  2. Extensions folder (showing KeyQuencer Engine & Finder Scripting Extension)
+  3. KeyQuencer Extensions folder (showing File KeyQuencer Extension)
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/move-to-trash-5.png "All the components installed correctly")
