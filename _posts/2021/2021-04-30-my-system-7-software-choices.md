@@ -30,9 +30,9 @@ Below are my personal choices that improve my time spent using System 7.
 * [Desktop Makeover](https://macintoshgarden.org/apps/aladdin-desktop-tools) - provides custom Finder features such as menu shortcuts, enhanced diskette icons, allows you to hide Balloon Help
 * [DragAnyWindow](https://macintoshgarden.org/apps/draganywindow "https://macintoshgarden.org/apps/draganywindow") - adds solid dragging of any window, apps can be excluded
 * [Hidden Finder Features](https://macintoshgarden.org/apps/hidden-finder-features) - enables hidden Finder keyboard shortcuts to create aliases by dragging, reveal alias original, and move file to Trash
-* [KeyQuencer](https://macintoshgarden.org/apps/keyquencer) - macro and automation utility
+* [KeyQuencer](https://macintoshgarden.org/apps/keyquencer) - macro and automation utility, the ultimate tool for power-users
 * [PopupFolder](https://macintoshgarden.org/apps/popup-folder-201) - allows access to folder contents from hierarchical pop-up menu without having to drill down into folders
-* [QuicKeys](https://macintoshgarden.org/apps/quickeys-353) - macro and automation utility, used only for composing Apple Event calls
+* [QuicKeys](https://macintoshgarden.org/apps/quickeys-353) - macro and automation utility, I use it only for composing Apple Event calls
 * [Smart Scroll](https://macintoshgarden.org/apps/smart-scroll) - live scrolling and proportionally sized scrollbar thumb
 * [SmartLaunch](https://macintoshgarden.org/apps/smartlaunch-308) - application launcher, I launch this using Cmd+Return KeyQuencer macro
 * [Snitch](https://macintoshgarden.org/apps/snitch) - Get Info extender, can do batch type/creator changes by summoning whilst holding Shift
@@ -85,6 +85,7 @@ Take your pick of the best:
 * [System 7.5.3 plus updates](https://macintoshgarden.org/apps/macintosh-os-755) - Apple released this version for free!
 * [Japanese Language Kit](https://macintoshgarden.org/apps/japanese-language-kit-v12) - adds support for Japanese, I use this on a duplicate System folder
 * [System Picker](https://macintoshgarden.org/apps/system-picker) - choose which system folder to boot from
+* [AppleScript 1.1](https://macintoshgarden.org/apps/applescript-11) - to enable Finder Scripting on *System 7.1*
 
 ### Related posts
 
