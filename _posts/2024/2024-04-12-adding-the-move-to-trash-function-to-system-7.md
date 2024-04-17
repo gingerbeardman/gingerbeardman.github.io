@@ -59,7 +59,7 @@ The final modified file is up over at Macintosh Garden: [https://macintoshgarden
 
 ## Removing the confirmation
 
-I asked about removing the confirmation alert that appears after pressing the hotkey, and on [68KMLA.org](https://68kmla.org/bb/index.php?threads%2Fskipping-a-confirmation-alert-and-doing-the-ok-code-path.47220%2F) user cheesestraws came up with a solution that involved NOPing out the Alert syscall setup, invokation, and return, and making the comparison that usually checks the alert button always default to the OK. I was so close to figuring out this solution myself, but I lacked a key bit of knowledge for how to figure out the hex code for a totally new instruction. Well, now I know how to do that!
+I asked about removing the confirmation alert that appears after pressing the hotkey, and on [68KMLA.org](https://68kmla.org/bb/index.php?threads%2Fskipping-a-confirmation-alert-and-doing-the-ok-code-path.47220%2F) user *cheesestraws* (thanks!) came up with a solution that involved NOPing out the Alert syscall setup, invokation, and return, and making the comparison that usually checks the alert button always default to the OK. I was so close to figuring out this solution myself, but I lacked a key bit of knowledge for how to figure out the hex code for a totally new instruction. Well, now I know how to do that! [Here's all the details of how to change the machine code](https://68kmla.org/bb/index.php?threads/skipping-a-confirmation-alert-and-doing-the-ok-code-path.47220/post-529695).
 
 Once this was done it became obvious how much of a hack FinderHack really is. After deleting the file the icon for the now missing file persists in Finder for up to a few seconds on my emulated Mac, and up to 20 seconds on period hardware! This is unacceptable, so I had to go deeper.
 
@@ -82,15 +82,17 @@ I went back to old faithful, KeyQuencer, to see if there was a way I could force
 
 Well! It turns out KeyQuencer could have solved our problem from day one! Lesson learned: RTFM.
 
-So, how do we go about setting up KeyQuencer to enable this feature? Well, before we get to that let's talk about how KeyQuencer does its thing.
+So, how do we go about setting up KeyQuencer to enable this feature? Well, before we get to that let's talk about how KeyQuencer does its thing. It consists of three main parts:
 
 1. *KeyQuencer Engine*
-2. *KeyQuencer Extensions* (one or more)
-3. *KeyQuencer Macro*
+2. one or more *KeyQuencer Extensions*
+3. one or more *KeyQuencer Macros*
 
-The beating heart of KeyQuencer is the *KeyQuencer Engine* extension in the usual System Extensions folder, along with a folder in System called *KeyQuencer Extensions* that contains KeyQuencer's own type of extensions.
+The beating heart of KeyQuencer is the *KeyQuencer Engine* system extension that lives in the usual System/Extensions folder, along with a folder in System called *KeyQuencer Extensions* that contains KeyQuencer's own type of extensions. Still with me?
 
 Inside the *KeyQuencer Extensions* folder you put any KeyQuencer Extension files that you want to use, by copying them from the KeyQuencer installation folder. This was a method to keep memory usage low by only loading the functions you're using rather than the whole suite. So if you're using a function from the File category, you copy the File KeyQuencer Extension.
+
+Once all that is set up you can add an run KeyQuencer Macros, and it comes with lots of samples.
 
 **Installation: step by step**
 
