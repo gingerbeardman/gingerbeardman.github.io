@@ -6,6 +6,7 @@ tags:
 - system7
 - macintosh
 - history
+- keyquencer
 nouns:
 - System 7
 - macOS

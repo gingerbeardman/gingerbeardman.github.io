@@ -6,6 +6,7 @@ tags:
 - system7
 - emulation
 - macintosh
+- keyquencer
 nouns:
 - EightyRez
 - HyperCard

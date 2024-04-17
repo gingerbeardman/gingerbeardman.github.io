@@ -2,10 +2,12 @@
 layout: post
 title: "Adding the “Move to Trash” function to System 7.1"
 date: '2024-04-12T23:08+01:00'
+last_modified_at: '2024-04-17T21:34+01:00'
 tags:
 - hack
 - system7
 - macintosh
+- keyquencer
 nouns:
 - Resorcerer
 - ResEdit
@@ -55,6 +57,51 @@ The final modified file is up over at Macintosh Garden: [https://macintoshgarden
 ![PNG](https://cdn.gingerbeardman.com/images/posts/move-to-trash-4.png "Notice that System 7 has no glyph for the Backspace key")
 {:.tofigure}
 
-## ps:
+## Removing the confirmation
 
-If anybody knows how to disable the "preparing to delete..." confirmation alert box that FinderHack shows after you press the hotkey I'd love to know how. No doubt it would be a more involved hack as the app will move a file to the Trash only if "OK" is pressed, and not when "Cancel" is pressed. Please let me know if you know!
+I asked about removing the confirmation alert that appears after pressing the hotkey, and on [68KMLA.org](https://68kmla.org/bb/index.php?threads%2Fskipping-a-confirmation-alert-and-doing-the-ok-code-path.47220%2F) user cheesestraws came up with a solution that involved NOPing out the Alert syscall setup, invokation, and return, and making the comparison that usually checks the alert button always default to the OK. I was so close to figuring out this solution myself, but I lacked a key bit of knowledge for how to figure out the hex code for a totally new instruction. Well, now I know how to do that!
+
+Once this was done it became obvious how much of a hack FinderHack really is. After deleting the file the icon for the now missing file persists in Finder for up to a few seconds on my emulated Mac, and up to 20 seconds on period hardware! This is unacceptable, so I had to go deeper.
+
+----
+
+## KeyQuencer, Redux
+
+I went back to old faithful, KeyQuencer, to see if there was a way I could force Finder to refresh the icon a bit more quickly. Whilst I was reading the docs I saw the following: 
+
+    What Is KeyQuencer?
+    
+    KeyQuencer is a utility that lets you create shortcuts, called macros, that
+    perform a series of tasks with a single keystroke. A macro is a set of
+    instructions that KeyQuencer uses to perform a task on a computer, for
+    example you can use KeyQuencer macros to:
+    
+       * Apply shortcuts directly to the current Finder selection, like moving
+         items to the Trash.
+
+
+Well! It turns out KeyQuencer could have solved our problem from day one! Lesson learned: RTFM.
+
+So, how do we go about setting up KeyQuencer to enable this feature? Well, before we get to that let's talk about how KeyQuencer does its thing.
+
+1. *KeyQuencer Engine*
+2. *KeyQuencer Extensions* (one or more)
+3. *KeyQuencer Macro*
+
+The beating heart of KeyQuencer is the *KeyQuencer Engine* extension in the usual System Extensions folder, along with a folder in System called *KeyQuencer Extensions* that contains KeyQuencer's own type of extensions.
+
+Inside the *KeyQuencer Extensions* folder you put any KeyQuencer Extension files that you want to use, by copying them from the KeyQuencer installation folder. This was a method to keep memory usage low by only loading the functions you're using rather than the whole suite. So if you're using a function from the File category, you copy the File KeyQuencer Extension.
+
+**Installation: step by step**
+
+1. install [KeyQuencer](https://macintoshgarden.org/apps/keyquencer) (Lite or Full, needs to include the below files)
+2. copy "File" KeyQuencer Extension from `KeyQuencer/Extensions/Archive and Files` install folder to System / KeyQuencer Extensions
+3. use KeyQuencer Editor or KeyQuencer Panel to install the Macro (its in the `KeyQuencer/Sample Macros/Command Samples` folder)
+4. install [AppleScript 1.1](https://macintoshgarden.org/apps/applescript-11) (specifically Finder Scripting Software, which installes Scriptable Finder 7.1.3 and Finder Scripting Extension)
+
+Finally a screenshot to clarify: 
+
+- highlighted window top right is the KeyQuencer install folder
+- bottom left window cluster is System folder (showing Finder 7.1.3), Extensions folder (showing KeyQuencer Engine & Finder Scripting Extension), and KeyQuencer Extensions folder (showing File KeyQuencer Extension)
+
+![PNG](https://cdn.gingerbeardman.com/images/posts/move-to-trash-5.png "All the components installed correctly")

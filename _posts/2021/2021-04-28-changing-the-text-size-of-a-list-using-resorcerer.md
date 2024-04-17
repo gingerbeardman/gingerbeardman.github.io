@@ -5,6 +5,7 @@ tags:
 - hack
 - macintosh
 - resorcerer
+- keyquencer
 nouns:
 - Resorcerer
 - Super
