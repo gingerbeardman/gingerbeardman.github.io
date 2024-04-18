@@ -3,8 +3,8 @@ layout: post
 title: 'Review: GTi Club Supermini Festa!'
 date: '2023-06-07T12:00:00+00:00'
 tags:
-- nintendowii
-- sonypsp
+- wii
+- psp
 - genki
 - konami
 - videogame
