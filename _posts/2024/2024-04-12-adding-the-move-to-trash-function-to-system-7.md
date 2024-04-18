@@ -115,7 +115,7 @@ Once all that is set up you can add an run KeyQuencer Macros, and it comes with 
     1. Give the macro a name (Move to Trash)
     1. Give the macro a hotkey (Cmd+Backspace/Delete)
     1. Enter the macro script: `File move selected to trash enforce`  
-      (you could also build the sctipt keyword-by-keyword using the bottom half of the dialog)
+      (you could also build the script keyword-by-keyword using the bottom half of the dialog)
     1. Click OK, and you're done
 
 ----
