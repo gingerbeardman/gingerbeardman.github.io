@@ -21,7 +21,7 @@ nouns:
 - Fore! Track
 - Super ICARUS
 - Ars Technica
-featured: false
+featured: true
 pinned: false
 comments: https://twitter.com/gingerbeardman/status/1765829493187297513
 ---

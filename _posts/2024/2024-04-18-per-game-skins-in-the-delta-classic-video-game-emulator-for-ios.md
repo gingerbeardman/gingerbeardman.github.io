@@ -12,7 +12,7 @@ nouns:
 - Delta
 - DraStic
 - DeSmuME
-featured: false
+featured: true
 pinned: false
 comments: https://twitter.com/gingerbeardman/status/
 style: |
