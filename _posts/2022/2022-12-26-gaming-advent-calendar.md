@@ -6,6 +6,7 @@ tags:
 - review
 - gamingadventcalendar
 - thoruyamamoto
+- maboshi
 nouns:
 featured: true
 comments: https://twitter.com/gingerbeardman/status/1607420684275257345

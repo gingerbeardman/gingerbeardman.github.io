@@ -5,6 +5,7 @@ tags:
 - credits
 - hack
 - patreon
+- maboshi
 nouns:
 - WiiWare
 - MaBoShi
