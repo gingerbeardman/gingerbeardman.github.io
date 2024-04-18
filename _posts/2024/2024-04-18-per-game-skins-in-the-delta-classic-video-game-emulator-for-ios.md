@@ -36,12 +36,15 @@ Immediately I noticed that the Nintendo DS emulation quality is high: MaBoShi's 
 
 ## When good isn't good enough
 
-But, we can see some odd things about MaBoShi and there are some other things we can't see:
+But, we can see some odd things about MaBoShi:
 - it is played with the DS rotated on its side
-- it doesn't use the touch screen
-- only uses the D-pad during play (and Start button to pause)
+- the second screen goes mostly unused
 
-Usually, when I play this game I activate single screen mode in the emulator and forgo seeing the high score, which is no big deal as the game ends at 1 million and that's my goal. 
+And there are some other things we can't see:
+- it doesn't use the touch screen
+- only the D-pad is used during play (and Start button to pause)
+
+Usually, when I play this game in an emulator I activate single screen mode in the emulator and forgo seeing the high score, which is no big deal as the game ends at 1 million and that's always my goal. 
 
 So I looked into the [Delta docs](https://faq.deltaemulator.com/using-delta/controller-skins) and [skin docs](https://noah978.gitbook.io/delta-docs/skins) and the options to show a single screen or rotate it are controlled by the presentation skin (visual theme) you are using. 
 
