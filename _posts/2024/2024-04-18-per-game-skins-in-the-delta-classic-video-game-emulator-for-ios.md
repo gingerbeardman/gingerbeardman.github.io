@@ -81,13 +81,16 @@ Installation and download instructions are at the bottom of the page, but here's
 To install the skin you need to do a little bit of busy work, but boy is it worth it:
 
 1. Install [Delta]() and get it running DS games ([check this video](https://www.youtube.com/watch?v=lV_QfVvXA-o))
-1. Create a folder on your iPhone so that you can find it again using the Files.app interface (I create a folder called Delta in my iCloud Drive just for the following files)
-    1. Download the [MaBoShi .nds game file](https://archive.org/download/maboshi-nintendo-ds/MaBoShi.nds)
-    1. Download the [cover art](https://archive.org/download/maboshi-nintendo-ds/MaBoShi.jpg)
-    1. Download the [skin](https://cdn.gingerbeardman.com/files/NDS_MaBoShi.deltaskin)
-1. Add the game file in Delta
+1. Create a folder called Delta in your iCloud Drive so you can easily store/retrieve some downloads
+1. Download the following files:
+    - [the MaBoShi .nds.zip game file](https://archive.org/download/maboshi-nintendo-ds/MaBoShi.nds.zip)
+    - [the cover art .jpg](https://archive.org/download/maboshi-nintendo-ds/MaBoShi.jpg)
+    - [the .deltaskin](https://cdn.gingerbeardman.com/files/NDS_MaBoShi.deltaskin)
+1. Open the .nds.zip game file in Delta
 1. Tap and hold the game icon to show a menu
+1. Choose "Change Artwork"
+1. Select the .jpg you downloaded earlier
 1. Choose "Change Controller Skin"
-1. Add the skin using the + button and set it as the Portrait skin for the game
+1. Select the skin using the + button and set it as the Portrait skin for the game
 
 Check out the [Wikipedia page for MaBoShi](https://en.wikipedia.org/wiki/MaBoShi:_The_Three_Shape_Arcade) to learn more about the game and how to play it.
