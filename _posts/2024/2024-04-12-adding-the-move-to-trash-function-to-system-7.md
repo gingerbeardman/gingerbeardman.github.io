@@ -12,11 +12,13 @@ nouns:
 - Resorcerer
 - ResEdit
 - QuicKeys
+- KeyQuencer Editor
 - KeyQuencer Engine
 - KeyQuencer Extensions
 - KeyQuencer Extension
 - KeyQuencer Macros
 - KeyQuencer Macro
+- KeyQuencer Panel
 - KeyQuencer
 - Alessandro Levi Montalcini
 - Move to Trash
@@ -102,16 +104,27 @@ Once all that is set up you can add an run KeyQuencer Macros, and it comes with 
 **Installation: step by step**
 
 1. install [KeyQuencer](https://macintoshgarden.org/apps/keyquencer) (Full version 2.5.6 includes all the required files)
-2. copy "File" KeyQuencer Extension from `KeyQuencer/Extensions/Archive and Files` install folder to System / KeyQuencer Extensions
-3. use KeyQuencer Editor or KeyQuencer Panel to install the Macro (its in the `KeyQuencer/Sample Macros/Command Samples` folder)
-4. install [AppleScript 1.1](https://macintoshgarden.org/apps/applescript-11) (specifically Finder Scripting Software, which installes Scriptable Finder 7.1.3 and Finder Scripting Extension)
+    1. *KeyQuencer Engine* in `System/Extensions`
+    1. *KeyQuencer Panel* in `System/Control Panels`
+    1. *KeyQuencer Extensions* folder in `System`
+1. copy "File" KeyQuencer Extension from `KeyQuencer/Extensions/Archive and Files` install folder to `System/KeyQuencer Extensions`
+1. install [AppleScript 1.1](https://macintoshgarden.org/apps/applescript-11) (specifically Finder Scripting Software, which installes Scriptable Finder 7.1.3 and Finder Scripting Extension)
+1. use *KeyQuencer Editor* app or *KeyQuencer Panel* control panel to install the Macro (its in `KeyQuencer/Sample Macros/Command Samples`), or you can create the Macro by hand:
+    1. Open *KeyQuencer Panel* control panel
+    1. Inside the panel choose File > New Macro
+    1. Give the macro a name
+    1. Give the macro a hotkey (Cmd+Backspace/Delete)
+    1. Enter the macro script: `File move selected to trash enforce`
+    1. Click OK, and you're done
+
+----
 
 Finally a screenshot to clarify: 
 
 - top right highlighted window is the KeyQuencer install folder
 - bottom left window cluster shows:
   1. System folder (showing Finder 7.1.3)
-  2. Extensions folder (showing KeyQuencer Engine & Finder Scripting Extension)
-  3. KeyQuencer Extensions folder (showing File KeyQuencer Extension)
+  2. Extensions folder (showing *KeyQuencer Engine* & Finder Scripting Extension)
+  3. *KeyQuencer Extensions* folder (showing File KeyQuencer Extension)
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/move-to-trash-5.png "All the components installed correctly")
