@@ -86,9 +86,9 @@ To install the skin you need to do a little bit of busy work, but boy is it wort
 1. Install [Delta]() and get it running DS games ([check this video](https://www.youtube.com/watch?v=lV_QfVvXA-o))
 1. Create a folder called Delta in your iCloud Drive so you can easily store/retrieve some downloads
 1. Download the following files:
-    - [the MaBoShi .nds.zip game file](https://archive.org/download/maboshi-nintendo-ds/MaBoShi.nds.zip)
-    - [the cover art .jpg](https://archive.org/download/maboshi-nintendo-ds/MaBoShi.jpg)
-    - [the .deltaskin](https://cdn.gingerbeardman.com/files/NDS_MaBoShi.deltaskin)
+    - [MaBoShi.nds.zip game file](https://archive.org/download/maboshi-nintendo-ds/MaBoShi.nds.zip)
+    - [MaBoShi.jpg](https://archive.org/download/maboshi-nintendo-ds/MaBoShi.jpg)
+    - [MaBoShi.deltaskin](https://cdn.gingerbeardman.com/files/NDS_MaBoShi.deltaskin)
 1. Open the .nds.zip game file in Delta
 1. Tap and hold the game icon to show a menu
 1. Choose "Change Artwork"
