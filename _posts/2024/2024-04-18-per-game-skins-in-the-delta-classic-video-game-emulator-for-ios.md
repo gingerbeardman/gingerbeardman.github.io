@@ -66,7 +66,8 @@ I achieved this goal as follows:
 3. overlap the screens so that only the score from the secondary screen is visible
 4. rotate the d-pad direction controls
 5. made the touch/game screen a big button
-6. create a nice PDF to show the buttons visually
+6. make empty space equivalent to nearest button
+7. create a nice PDF to show the buttons visually
 
 If you're interested in the JSON associated with this skin, [here it is on GitHub](https://gist.github.com/gingerbeardman/00a75a0675da8a98faa0812383eb822e).
 
@@ -74,7 +75,7 @@ If you're interested in the JSON associated with this skin, [here it is on GitHu
 
 ## Maximum joy
 
-Installation and download instructions are at the bottom of the page, but here's what it looks like:
+Installation and download instructions are at the bottom of the page, but here's the final skin:
 
 ![PNG](/images/posts/delta-maboshi-deltaskin.png)
 {:class="deltaskin"}
