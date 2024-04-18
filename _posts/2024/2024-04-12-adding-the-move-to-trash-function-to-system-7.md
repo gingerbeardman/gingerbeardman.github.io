@@ -2,7 +2,7 @@
 layout: post
 title: "Adding the “Move to Trash” function to System 7.1"
 date: '2024-04-12T23:08+01:00'
-last_modified_at: '2024-04-17T21:34+01:00'
+last_modified_at: '2024-04-18T12:36+01:00'
 tags:
 - hack
 - system7
@@ -101,7 +101,7 @@ Once all that is set up you can add an run KeyQuencer Macros, and it comes with 
 
 **Installation: step by step**
 
-1. install [KeyQuencer](https://macintoshgarden.org/apps/keyquencer) (Lite or Full, needs to include the below files)
+1. install [KeyQuencer](https://macintoshgarden.org/apps/keyquencer) (Full version 2.5.6 includes all the required files)
 2. copy "File" KeyQuencer Extension from `KeyQuencer/Extensions/Archive and Files` install folder to System / KeyQuencer Extensions
 3. use KeyQuencer Editor or KeyQuencer Panel to install the Macro (its in the `KeyQuencer/Sample Macros/Command Samples` folder)
 4. install [AppleScript 1.1](https://macintoshgarden.org/apps/applescript-11) (specifically Finder Scripting Software, which installes Scriptable Finder 7.1.3 and Finder Scripting Extension)
