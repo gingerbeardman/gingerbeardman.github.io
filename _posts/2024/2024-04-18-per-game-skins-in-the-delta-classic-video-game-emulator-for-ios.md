@@ -23,11 +23,11 @@ style: |
 
 ---
 
-Apple recently changed the App Store rules to allow emulators, which means we're now seeing emulators for classic video game consoles available for download! This is great news for a retro game nut like myself. [Delta](https://apps.apple.com/gb/app/delta-game-emulator/id1048524688) is one such emulator that currently focuses on Nintendo games: NES, Game Boy, Game Boy Color, SNES, N64 and DS.
+Apple recently changed the App Store rules to allow emulators, which means we're now seeing emulators for classic video game consoles available for download! This is great news for a retro gamer like myself. [Delta](https://apps.apple.com/gb/app/delta-game-emulator/id1048524688) is one such emulator that currently focuses on Nintendo platforms: NES, Game Boy, Game Boy Color, SNES, N64 and DS.
 
 I thought it would be fun to play my favourite Nintendo DS game: [MaBoShi](/2013/06/29/maboshi/). This is an odd choice of game for a few reasons, but it really tests what Delta and the melonDS emulation core can do.
 
-Immediately I noticed that the Nintendo DS emulation quality is high: MaBoShi's mosaic transitions are shown, whereas in other emulators such as DraStic or DeSmuME they are not. So, we're already off to a good start!
+Immediately I noticed that the Nintendo DS emulation quality is high: MaBoShi's mosaic transitions are shown, whereas in other emulators such as DraStic or DeSmuME they are not. That's a good start!
 
 ![PNG](/images/posts/delta-maboshi-default.png "Delta's default Nintendo DS skin—pretty nice!")
 {:.tofigure}
