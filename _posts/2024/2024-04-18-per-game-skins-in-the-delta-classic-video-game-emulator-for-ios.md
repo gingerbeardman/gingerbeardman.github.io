@@ -64,7 +64,8 @@ I achived this goal as follows:
 2. rotate each of the screens
 3. overlap the screens so that only the score from the secondary screen is visible
 4. rotate the d-pad direction controls
-5. create a nice PDF to show the buttons visually
+5. made the touch/game screen a big button
+6. create a nice PDF to show the buttons visually
 
 If you're interested in the JSON associated with this skin, [here it is on GitHub](https://gist.github.com/gingerbeardman/00a75a0675da8a98faa0812383eb822e).
 
