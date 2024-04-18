@@ -96,4 +96,4 @@ To install the skin you need to do a little bit of busy work, but boy is it wort
 1. Choose "Change Controller Skin"
 1. Select the skin using the + button and set it as the Portrait skin for the game
 
-Check out the [Wikipedia page for MaBoShi](https://en.wikipedia.org/wiki/MaBoShi:_The_Three_Shape_Arcade) to learn more about the game and how to play it.
+Check out the [Wikipedia page for MaBoShi](https://en.wikipedia.org/wiki/MaBoShi:_The_Three_Shape_Arcade) to learn more about the game and how to play it. It's essentially a one button game so isn't affected by the lack of physical buttons.
