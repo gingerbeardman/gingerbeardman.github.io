@@ -14,7 +14,7 @@ nouns:
 - DeSmuME
 featured: true
 pinned: false
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1781049846310346871
 style: |
   p.deltaskin img {
     margin: 0 auto;
