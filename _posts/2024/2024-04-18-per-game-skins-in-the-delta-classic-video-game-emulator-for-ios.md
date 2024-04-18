@@ -47,9 +47,9 @@ And there are some other things we can't see:
 
 Usually, when I play this game in an emulator I activate single screen mode and forgo seeing the high score, which is no big deal as the game ends at 1 million and that's always my goal. 
 
-So I looked into the [Delta docs](https://faq.deltaemulator.com/using-delta/controller-skins) and [skin docs](https://noah978.gitbook.io/delta-docs/skins) and the options to show a single screen or rotate it are controlled by the presentation skin (visual theme) you are using. 
+So I looked into the [Delta docs](https://faq.deltaemulator.com/using-delta/controller-skins) and [skin docs](https://noah978.gitbook.io/delta-docs/skins) and find that the options to show a single screen, or rotate it, are controlled by the skin (visual theme) you are using. 
 
-Reading into the things exposed in the skins it seemed very comprehensive, so I began to hatch a plan... *maybe I can create a custom skin just for MaBoShi*? 
+Reading further into skins the capabilities seemed quite comprehensive, so I began to hatch a plan... *maybe I can create a custom skin just for MaBoShi*? 
 
 ----
 
@@ -60,7 +60,7 @@ Here's the feature list I came up with:
 2. show only the score from the secondary screen
 3. remove all controls other than the d-pad, start and delta button
 
-I achived this goal as follows:
+I achieved this goal as follows:
 1. define two seperate screens to split the DS image
 2. rotate each of the screens
 3. overlap the screens so that only the score from the secondary screen is visible
