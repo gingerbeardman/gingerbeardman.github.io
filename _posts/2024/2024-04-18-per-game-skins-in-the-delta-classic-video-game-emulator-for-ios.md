@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Per-game skins in the Delta classic video game emulator for iOS"
-date: '2024-04-18T18:16+01:00'
+date: '2024-04-18T20:55+01:00'
 tags:
 - hack
 - emulation
