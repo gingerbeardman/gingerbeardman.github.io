@@ -103,10 +103,10 @@ Once all that is set up you can add an run KeyQuencer Macros, and it comes with 
 
 **Installation: step by step**
 
-1. install [KeyQuencer](https://macintoshgarden.org/apps/keyquencer) (Full version 2.5.6 includes all the required files)
-    1. *KeyQuencer Engine* in `System/Extensions`
-    1. *KeyQuencer Panel* in `System/Control Panels`
-    1. *KeyQuencer Extensions* folder in `System`
+1. install [KeyQuencer](https://macintoshgarden.org/apps/keyquencer) (Full version 2.5.6 includes all the required files):
+    1. *KeyQuencer Engine* goes in `System/Extensions`
+    1. *KeyQuencer Panel* goes in `System/Control Panels`
+    1. *KeyQuencer Extensions* folder goes in `System`
 1. copy "File" KeyQuencer Extension from `KeyQuencer/Extensions/Archive and Files` install folder to `System/KeyQuencer Extensions`
 1. install [AppleScript 1.1](https://macintoshgarden.org/apps/applescript-11) (specifically Finder Scripting Software, which installes Scriptable Finder 7.1.3 and Finder Scripting Extension)
 1. use *KeyQuencer Editor* app or *KeyQuencer Panel* control panel to install the Macro (its in `KeyQuencer/Sample Macros/Command Samples`), or you can create the Macro by hand:
