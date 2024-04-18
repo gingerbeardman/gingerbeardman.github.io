@@ -112,7 +112,7 @@ Once all that is set up you can add an run KeyQuencer Macros, and it comes with 
 1. use *KeyQuencer Editor* app or *KeyQuencer Panel* control panel to install the Macro (its in `KeyQuencer/Sample Macros/Command Samples`), or you can create the Macro by hand:
     1. Open *KeyQuencer Panel* control panel
     1. Inside the panel choose File > New Macro
-    1. Give the macro a name
+    1. Give the macro a name (Move to Trash)
     1. Give the macro a hotkey (Cmd+Backspace/Delete)
     1. Enter the macro script: `File move selected to trash enforce`
     1. Click OK, and you're done
