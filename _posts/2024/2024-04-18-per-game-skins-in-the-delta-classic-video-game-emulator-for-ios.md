@@ -45,11 +45,11 @@ And there are some other things we can't see:
 - it doesn't use the touch screen
 - only the D-pad is used during play (and Start button to pause)
 
-Usually, when I play this game in an emulator I activate single screen mode in the emulator and forgo seeing the high score, which is no big deal as the game ends at 1 million and that's always my goal. 
+Usually, when I play this game in an emulator I activate single screen mode and forgo seeing the high score, which is no big deal as the game ends at 1 million and that's always my goal. 
 
-So I looked into the [Delta docs](https://faq.deltaemulator.com/using-delta/controller-skins) and [skin docs](https://noah978.gitbook.io/delta-docs/skins) and the options to show a single screen or rotate it are controlled by the presentation skin (visual theme) you are using. 
+So I looked into the [Delta docs](https://faq.deltaemulator.com/using-delta/controller-skins) and [skin docs](https://noah978.gitbook.io/delta-docs/skins) and find that the options to show a single screen, or rotate it, are controlled by the skin (visual theme) you are using. 
 
-Reading into the things exposed in the skins it seemed very comprehensive, so I began to hatch a plan... *maybe I can create a custom skin just for MaBoShi*? 
+Reading further into skins the capabilities seemed quite comprehensive, so I began to hatch a plan... *maybe I can create a custom skin just for MaBoShi*? 
 
 ----
 
@@ -60,13 +60,14 @@ Here's the feature list I came up with:
 2. show only the score from the secondary screen
 3. remove all controls other than the d-pad, start and delta button
 
-I achived this goal as follows:
+I achieved this goal as follows:
 1. define two seperate screens to split the DS image
 2. rotate each of the screens
 3. overlap the screens so that only the score from the secondary screen is visible
 4. rotate the d-pad direction controls
 5. made the touch/game screen a big button
-6. create a nice PDF to show the buttons visually
+6. make empty space equivalent to nearest button
+7. create a nice PDF to show the buttons visually
 
 If you're interested in the JSON associated with this skin, [here it is on GitHub](https://gist.github.com/gingerbeardman/00a75a0675da8a98faa0812383eb822e).
 
@@ -74,7 +75,7 @@ If you're interested in the JSON associated with this skin, [here it is on GitHu
 
 ## Maximum joy
 
-Installation and download instructions are at the bottom of the page, but here's what it looks like:
+Installation and download instructions are at the bottom of the page, but here's the final skin:
 
 ![PNG](/images/posts/delta-maboshi-deltaskin.png)
 {:class="deltaskin"}
