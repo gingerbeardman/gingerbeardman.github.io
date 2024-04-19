@@ -2,7 +2,7 @@
 layout: post
 title: "Per-game skins in the Delta classic video game emulator for iOS"
 date: '2024-04-18T20:55+01:00'
-last_modified_at: '2024-04-18T23:34+01:00'
+last_modified_at: '2024-04-19T17:46+01:00'
 tags:
 - hack
 - emulation
@@ -98,4 +98,4 @@ To install the skin you need to do a little bit of busy work, but boy is it wort
 1. Choose "Change Controller Skin"
 1. Select the skin using the + button and set it as the Portrait skin for the game
 
-Check out the [Wikipedia page for MaBoShi](https://en.wikipedia.org/wiki/MaBoShi:_The_Three_Shape_Arcade) to learn more about the game and how to play it. It's essentially a one button game so isn't affected by the lack of physical buttons.
+Check out [my MaBoShi Guide at GameFAQs](https://gamefaqs.gamespot.com/wii/946472-maboshis-arcade/faqs) to learn more about the game and how to play it. It's essentially a one button game so isn't affected by the lack of physical buttons.
