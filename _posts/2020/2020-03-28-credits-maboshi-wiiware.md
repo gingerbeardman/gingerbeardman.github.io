@@ -100,7 +100,7 @@ All Rights, including the copyrights of Game, Scenario, Music and Program reserv
 
 ## Addendum
 
-During a chat with Kuniake Watanabe by Twitter DMs, he outlined the responsibilities of the team:
+During a chat with Kuniaki Watanabe by Twitter DMs, he outlined the responsibilities of the team:
 
 Programming
 * Kotori Yoshimura (Wii system, Bar game)
