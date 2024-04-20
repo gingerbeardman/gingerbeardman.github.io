@@ -100,6 +100,6 @@ To install the skin you need to do a little bit of busy work, but boy is it wort
 1. Choose "Change Artwork"
 1. Select the .jpg you downloaded earlier
 1. Choose "Change Controller Skin"
-1. Select the skin using the + button and set it as the Portrait skin for the game
+1. Select the skin using the + button and set it as both Portrait and Landscape skin for the game
 
 Check out [my MaBoShi Guide at GameFAQs](https://gamefaqs.gamespot.com/wii/946472-maboshis-arcade/faqs) to learn more about the game and how to play it. It's essentially a one button game so isn't affected by the lack of physical buttons.
