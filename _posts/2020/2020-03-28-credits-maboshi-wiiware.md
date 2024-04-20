@@ -27,26 +27,21 @@ Anyway, I still play this game regularly (still not managed 1Million on Wii but 
 ## Staff Credits
 
 Producers
-
 *   Mikito Ichikawa
 *   Satoshi Kira
 
 Director
-
 *   Mikito Ichikawa
 
 System Design
-
 *   Mikito Ichikawa
 
 Game Design
-
 *   Kuniaki Watanabe
 *   Mikito Ichikawa
 *   Jun Shimizu
 
 Programming
-
 *   Kotori Yoshimura
 *   Tadashi Itō
 *   Kuniaki Watanabe
@@ -54,22 +49,18 @@ Programming
 *   Mikito Ichikawa
 
 Design
-
 *   Reiko Sato
 *   Hiroki Takahashi
 
 Artwork
-
 *   Toki Kando
 *   Takanao Kondo
 
 Sound
-
 *   Daisuke Shiiba
 *   Johan Krafft
 
 European Localisation
-
 *   Edoardo Dodd
 *   Miguel Ángel García Segovia
 *   Carsten Harmans
@@ -78,11 +69,9 @@ European Localisation
 *   Sonya Mazet
 
 NOE Localisation Management
-
 *   William Romick
 
 Debug
-
 *   DIGITAL Hearts CO. LTD
 *   Super Mario Club
 *   Shigeo Kimura
@@ -90,12 +79,10 @@ Debug
 *   NOE Testing Team
 
 Project Management
-
 *   Hiroshi Sato
 *   Toshiharu Izuno
 
 Special Thanks
-
 *   Koji Sato
 *   Toru Inage
 *   Kenta Tanaka
@@ -103,11 +90,9 @@ Special Thanks
 *   Rumiko Hoshino
 
 Executive Producer
-
 *   Satoru Iwata
 
 All Rights, including the copyrights of Game, Scenario, Music and Program reserved by
-
 *   Nintendo
 *   Mindware
 
@@ -117,21 +102,21 @@ All Rights, including the copyrights of Game, Scenario, Music and Program reserv
 
 During a chat with Kuniake Watanabe by Twiter DMs, he outlined the responsibilities of the team:
 
-Programming:
-- Kotori Yoshimura (Wii systemi, Bar game)
-- Mikito Ichikawa (NDS system)
-- Tadashi Ito (Square game)
-- Jun Shimizu (procedual level generator for Bar game)
-- uniaki Watanabe (Circle game)
+Programming
+* Kotori Yoshimura (Wii systemi, Bar game)
+* Mikito Ichikawa (NDS system)
+* Tadashi Ito (Square game)
+* Jun Shimizu (procedual level generator for Bar game)
+* uniaki Watanabe (Circle game)
 
-Game Design:
-- Kuniaki Watanabe (original works of games)
-- Mikito Ichikawa (reconstruct for Wii)
+Game Design
+* Kuniaki Watanabe (original works of games)
+* Mikito Ichikawa (reconstruct for Wii)
 
-Level Design:
-- Mikito Ichikawa (Bar game)
-- Kuniaki Watanabe (Circle game)
-- Jun Shimizu (procedual level generator for Bar game)
+Level Design
+* Mikito Ichikawa (Bar game)
+* Kuniaki Watanabe (Circle game)
+* Jun Shimizu (procedual level generator for Bar game)
 
-Graphic Design:
-- Reiko Sato
+Graphic Design
+* Reiko Sato
