@@ -45,6 +45,10 @@ body.macintosh {
     background-color: transparent;
   }
 
+  li .highlighter-rouge {
+    background-color: rgba(0,0,0,0.075);
+  }
+
   .c-post-card,
   .c-header__inner {
     border-color: $color-text;
