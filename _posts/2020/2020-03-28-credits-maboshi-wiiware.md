@@ -107,7 +107,7 @@ Programming
 * Mikito Ichikawa (NDS system)
 * Tadashi Ito (Square game)
 * Jun Shimizu (procedual level generator for Bar game)
-* uniaki Watanabe (Circle game)
+* Kuniaki Watanabe (Circle game)
 
 Game Design
 * Kuniaki Watanabe (original game prototypes)
