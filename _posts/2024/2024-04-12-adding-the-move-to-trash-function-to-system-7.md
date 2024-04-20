@@ -2,7 +2,7 @@
 layout: post
 title: "Adding the “Move to Trash” function to System 7.1"
 date: '2024-04-12T23:08+01:00'
-last_modified_at: '2024-04-20T01:03+01:00'
+last_modified_at: '2024-04-20T08:03+01:00'
 tags:
 - hack
 - system7
@@ -51,7 +51,9 @@ The first workaround was to script a [KeyQuencer](https://macintoshgarden.org/ap
 
 ## FinderHack
 
-So, James mentioned [FinderHack](https://macintoshgarden.org/apps/finderhack) which is a system Extension that gave earlier versions of System 7 a similar set of Finder features to those introduced in 7.5.3. But, crucially, it mapped the Move to Trash hotkey to Cmd+T, which is different enough to become annoying as you can no longer rely on muscle memory. The challenge: how can we map this to the modern Cmd+Backspace/Delete shortcut? So, I turned to KeyQuencer once again and created a short macro which would type the Cmd+T key combination and I assigned it to Cmd+Backspace/Delete. It worked!
+So, James mentioned [FinderHack](https://macintoshgarden.org/apps/finderhack) which is a system Extension that gave earlier versions of System 7 a similar set of Finder features to those introduced in 7.5.3. But, crucially, it mapped the Move to Trash hotkey to Cmd+T, which is different enough to become annoying as you can no longer rely on muscle memory. The challenge: how can we map this to the modern Cmd+Backspace/Delete shortcut? 
+
+So, I turned to KeyQuencer once again and created a short macro which would type the Cmd+T key combination and I assigned it to Cmd+Backspace/Delete. It worked! Pressing my hotkey typed the FinderHack hotkey.
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/move-to-trash-1.png "This macro, bound to Cmd+Backspace/Delete, types Cmd+T to effectively map one hotkey to another")
 {:.tofigure}
@@ -73,7 +75,7 @@ The final modified file is up over at Macintosh Garden: [https://macintoshgarden
 
 I asked about removing the confirmation alert that appears after pressing the hotkey, and on [68KMLA.org](https://68kmla.org/bb/index.php?threads%2Fskipping-a-confirmation-alert-and-doing-the-ok-code-path.47220%2F) user *cheesestraws* (thanks!) came up with a solution that involved NOPing out the Alert syscall setup, invokation, and return, and making the comparison that usually checks the alert button always default to the OK. I was so close to figuring out this solution myself, but I lacked a key bit of knowledge for how to figure out the hex code for a totally new instruction. Well, now I know how to do that! [Here's all the details of how to change the machine code](https://68kmla.org/bb/index.php?threads/skipping-a-confirmation-alert-and-doing-the-ok-code-path.47220/post-529695).
 
-Once this was done it became obvious how much of a hack FinderHack really is. After deleting the file the icon for the now missing file persists in Finder for up to a few seconds on my emulated Mac, and up to 20 seconds on period hardware! This is unacceptable, so I had to go deeper.
+Once this was done it became obvious how much of a hack FinderHack really is. After deleting the file the icon of the now missing file persists in Finder for up to a few seconds on my emulated Mac, and up to 20 seconds on period hardware! This is unacceptable, so I had to go deeper.
 
 ----
 
@@ -103,9 +105,9 @@ So, how do we go about setting up KeyQuencer to enable this feature? Well, befor
 
 The beating heart of KeyQuencer is the *KeyQuencer Engine* system extension that lives in the usual System/Extensions folder, along with a folder in System called *KeyQuencer Extensions* that contains KeyQuencer's own type of extensions. Still with me?
 
-Inside the *KeyQuencer Extensions* folder you put any KeyQuencer Extension files that you want to use, by copying them from the KeyQuencer installation folder. This was a method to keep memory usage low by only loading the functions you're using rather than the whole suite. So if you're using a function from the File category, you copy the "File" KeyQuencer Extension.
+Inside the *KeyQuencer Extensions* folder you put any KeyQuencer Extension files that you want to use, by copying them from the KeyQuencer installation folder. This was a method to keep memory usage low by only loading the functions you're using rather than the whole suite. So if you're using a function from the File category, you copy the "File" KeyQuencer Extension in there.
 
-Once all that is set up you can create/add KeyQuencer Macros, using either KeyQuencer Panel or Editor. There are lots of sample macros and many were made and shared by the community.
+Once all that is set up you can create/add KeyQuencer Macros, using either KeyQuencer Panel or Editor. There are lots of sample macros to get started, and many were made and shared by the community. Eventually you can construct your own macro, which is what I'll do. 
 
 **Step by step: words**
 
@@ -115,7 +117,7 @@ Once all that is set up you can create/add KeyQuencer Macros, using either KeyQu
     - `KeyQuencer Extensions/Archive and Files/File` goes in `System/KeyQuencer Extensions` (create the destination folder)
 1. Install [AppleScript 1.1](https://macintoshgarden.org/apps/applescript-11) *Finder Scripting Software* (this is the updated *Scriptable Finder 7.1.3* and *Finder Scripting Extension*)
 1. Restart the Macintosh when prompted
-1. Create the Macro (you could also copy and paste it from an macro sample file):
+1. Create the Macro (you could also copy and paste it from a sample macro file):
     - Open *KeyQuencer Panel* control panel
     - Inside the panel choose File > New Macro
     - Give the macro a name: "Move to Trash"
