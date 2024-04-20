@@ -18,7 +18,7 @@ comments: https://twitter.com/gingerbeardman/status/1244004430720180228
 
 One of the best (according to [MetaCritic](https://www.metacritic.com/game/wii/maboshis-arcade), and [IMHO](https://dreampast.tumblr.com/post/1342575347/maboshi)) Wii games is a WiiWare game called MaBoShi that is now mostly lost to time in that Nintendo have closed the Wii Shop Channel. Of course, there are other more nefarious means to procure the game, but I'm not going to go into those here.
 
-Anyway, I still play this game regularly (still not managed 1Million on Wii but have on the DS download version) and recently unlocked the Staff Credits (Staff Roll). My [submission to MobyGames](https://www.mobygames.com/game/wii/maboshis-arcade/credits) has just been approved, but I thought I'd mirror/announce them here.
+Anyway, I still play this game regularly (still not managed 1Million on Wii but have on the DS download version) and recently unlocked the Staff Credits (Staff Roll).
 
 <iframe width="540" height="540" src="https://www.youtube.com/embed/3z5Hlj2nof4?si=5eJTCJV_pi3oGop5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
