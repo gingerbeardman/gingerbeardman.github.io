@@ -103,14 +103,14 @@ All Rights, including the copyrights of Game, Scenario, Music and Program reserv
 During a chat with Kuniake Watanabe by Twiter DMs, he outlined the responsibilities of the team:
 
 Programming
-* Kotori Yoshimura (Wii systemi, Bar game)
+* Kotori Yoshimura (Wii system, Bar game)
 * Mikito Ichikawa (NDS system)
 * Tadashi Ito (Square game)
 * Jun Shimizu (procedual level generator for Bar game)
 * uniaki Watanabe (Circle game)
 
 Game Design
-* Kuniaki Watanabe (original works of games)
+* Kuniaki Watanabe (original game prototypes)
 * Mikito Ichikawa (reconstruct for Wii)
 
 Level Design
