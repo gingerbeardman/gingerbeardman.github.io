@@ -30,21 +30,22 @@ carousel: 'move-to-trash'
 comments: https://twitter.com/gingerbeardman/status/1778909753231671576
 ---
 
-First, a little bit of Macintosh History. You probably know that on modern macOS you can select a file in Finder, on your Desktop, or in an app, and send it to the Trash by choosing the Move to Trash menu item, or by pressing Cmd+Backspace/Delete. This keyboard shortcut was added in System 7.5.3 where it was largely unadvertised and somewhat of a secret feature, but quickly became indispensable for those who knew of it. Of course, these days it is proudly displayed in macOS Finder menu.
+First, a little bit of Macintosh History. You probably know that on modern macOS you can select a file in Finder, on your Desktop, or in an app, and send it to the Trash by choosing the Move to Trash menu item, or by pressing Cmd+Backspace/Delete. This keyboard shortcut was added in System 7.5.3 where it was largely unadvertised and somewhat of a secret feature, but quickly became indispensable for those who knew. Of course, these days it is proudly displayed in macOS Finder menu.
 
-Fast forward to today, when [James Wages](https://twitter.com/james_wages) asked about a good way to do this on System 7.1, and posed a partial solution along with a challenge. But we'll get to that in a moment. Since I regularly use [System 7 on my iPad Pro](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/) I'd also missed this function and had come up with a couple of different workarounds to map Move to Trash to Cmd+Backspace/Delete.
+Fast forward to today, when [James Wages](https://twitter.com/james_wages) asked about a good way to do this on System 7.1, and posed a partial solution along with a challenge. But we'll get to that in a moment. Since I regularly use [System 7 on my iPad Pro](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/) I'd also missed this function and had come up with a few different workarounds to map Move to Trash to Cmd+Backspace/Delete.
 
 1. [KeyQuencer](#keyquencer)
-2. [FinderHack](#finderhack)<br>Bonus:
-3. [KeyQuencer, Redux](#keyquencer-redux)
+1. [FinderHack & KeyQuencer](#finderhack)
+1. [FinderHack & HexEdit](#hexedit) <br>Bonus:
+1. [KeyQuencer, Redux](#keyquencer-redux)
 
 ----
 
 ## KeyQuencer
 
-The first workaround was to script a [KeyQuencer](https://macintoshgarden.org/apps/keyquencer) macro to simulate the mouse drag of the selected item to the trash can. This relied on you positioning the mouse pointer over the selected file and also make sure the Trash icon was always in the required position on screen. It worked, but it was less than ideal because it was far too fragile. I'll leave reproducing this as an excercise for the reader.
+The first workaround was to script a [KeyQuencer](https://macintoshgarden.org/apps/keyquencer) macro to simulate the mouse drag of the selected item to the trash can. This relied on you positioning the mouse pointer over the selected file and also making sure the Trash icon was always in the required position on screen. It worked, but it was less than ideal because it was far too fragile. I'll leave reproducing this as an excercise for the reader.
 
-> *KeyQuencer* is one of my favourite and most used classic Macintosh apps, written by prolific Italian developer [Alessandro Levi Montalcini](http://www.montalcini.com) who is developing useful things today! Anyway, it could be used for a wide variety of macro and automation purposes. It was very versatile as it contained its own scripting language and a dictionary of functions that touched most aspects of System 7. I use it to map all sorts of esoteric functions to hotkeys, like chaging screen resolutions and colour depth, or performing complicated multi-step tasks on a single key stroke. An equivalent for modern macOS is [Keyboard Maestro](https://www.keyboardmaestro.com/main/), which is no doubt more capable but also more difficult to use.
+> *KeyQuencer* is one of my favourite and most used classic Macintosh apps, written by prolific Italian developer [Alessandro Levi Montalcini](http://www.montalcini.com) who is still developing [useful things](https://www.usboverdrive.com) today! Anyway, it could be used for a wide variety of macro and automation purposes. It was very versatile as it contained its own scripting language and a dictionary of functions that touched most aspects of System 7. I use it to map all sorts of esoteric functions to hotkeys, like changing screen resolutions and colour depth, or performing complicated multi-step tasks on a single key stroke. An equivalent for modern macOS is [Keyboard Maestro](https://www.keyboardmaestro.com/main/), which is no doubt more capable but also more difficult to use.
 
 ----
 
@@ -59,7 +60,7 @@ So we already have a good solution but resources are often scarce on classic Mac
 
 ## HexEdit
 
-Opening FinderHack directly in [HexEdit](https://macintoshgarden.org/apps/hexedit) we can scroll down a little to find the menu definitions, find "Move to Trash" and can change the following hex value from 54 ("T") to 08 ("Backspace/Delete"), reminding ourselves that the Backspace/Delete key is different than Forward Delete key on some Apple keyboards that have both. 
+Opening FinderHack directly in [HexEdit](https://macintoshgarden.org/apps/hexedit) we can scroll down a little to find the menu definitions, find "Move to Trash" and can change the following hex value from 54 ("T") to 08 ("Backspace/Delete"), those being ASCII values, and reminding ourselves that the Backspace/Delete key is different than Forward Delete key on some Apple keyboards that have both. 
 
 {% include carousel.html height="100" unit="%" duration="7" %}
 
@@ -68,7 +69,7 @@ The final modified file is up over at Macintosh Garden: [https://macintoshgarden
 ![PNG](https://cdn.gingerbeardman.com/images/posts/move-to-trash-4.png "Notice that System 7 has no glyph for the Backspace key")
 {:.tofigure}
 
-## Removing the confirmation
+**Removing the confirmation alert**
 
 I asked about removing the confirmation alert that appears after pressing the hotkey, and on [68KMLA.org](https://68kmla.org/bb/index.php?threads%2Fskipping-a-confirmation-alert-and-doing-the-ok-code-path.47220%2F) user *cheesestraws* (thanks!) came up with a solution that involved NOPing out the Alert syscall setup, invokation, and return, and making the comparison that usually checks the alert button always default to the OK. I was so close to figuring out this solution myself, but I lacked a key bit of knowledge for how to figure out the hex code for a totally new instruction. Well, now I know how to do that! [Here's all the details of how to change the machine code](https://68kmla.org/bb/index.php?threads/skipping-a-confirmation-alert-and-doing-the-ok-code-path.47220/post-529695).
 
@@ -78,7 +79,7 @@ Once this was done it became obvious how much of a hack FinderHack really is. Af
 
 ## KeyQuencer, Redux
 
-I went back to old faithful, KeyQuencer, to see if there was a way I could force Finder to refresh the icon a bit more quickly. Whilst I was reading the docs I saw the following: 
+I went back to old faithful, KeyQuencer, to see if there was a way I could force Finder to refresh the icon more quickly. Whilst I was reading the docs I saw the following: 
 
     What Is KeyQuencer?
     
@@ -96,14 +97,15 @@ Well! It turns out KeyQuencer could have solved our problem from day one! Lesson
 So, how do we go about setting up KeyQuencer to enable this feature? Well, before we get to that let's talk about how KeyQuencer does its thing. It consists of three main parts:
 
 1. *KeyQuencer Engine*
-2. one or more *KeyQuencer Extensions*
-3. one or more *KeyQuencer Macros*
+1. one or more *KeyQuencer Extensions*
+1. *KeyQuencer Panel/Editor*
+1. one or more *KeyQuencer Macros*
 
 The beating heart of KeyQuencer is the *KeyQuencer Engine* system extension that lives in the usual System/Extensions folder, along with a folder in System called *KeyQuencer Extensions* that contains KeyQuencer's own type of extensions. Still with me?
 
-Inside the *KeyQuencer Extensions* folder you put any KeyQuencer Extension files that you want to use, by copying them from the KeyQuencer installation folder. This was a method to keep memory usage low by only loading the functions you're using rather than the whole suite. So if you're using a function from the File category, you copy the File KeyQuencer Extension.
+Inside the *KeyQuencer Extensions* folder you put any KeyQuencer Extension files that you want to use, by copying them from the KeyQuencer installation folder. This was a method to keep memory usage low by only loading the functions you're using rather than the whole suite. So if you're using a function from the File category, you copy the "File" KeyQuencer Extension.
 
-Once all that is set up you can add an run KeyQuencer Macros, and it comes with lots of samples.
+Once all that is set up you can create/add KeyQuencer Macros, using either KeyQuencer Panel or Editor. There are lots of sample macros and many were made and shared by the community.
 
 **Step by step: words**
 
@@ -118,7 +120,7 @@ Once all that is set up you can add an run KeyQuencer Macros, and it comes with 
     - Inside the panel choose File > New Macro
     - Give the macro a name: "Move to Trash"
     - Give the macro a hotkey: Cmd+Backspace/Delete
-    - Enter the macro script: `File move selected to trash enforce`  
+    - Enter the macro script: `File move selected to trash enforce` by pasting, typing, or using the gui
     - Click OK
 1. Select some files and press Cmd+Backspace/Delete to move them to the trash!
 
