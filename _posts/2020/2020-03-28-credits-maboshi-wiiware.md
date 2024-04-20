@@ -20,7 +20,7 @@ One of the best (according to [MetaCritic](https://www.metacritic.com/game/wii/m
 
 Anyway, I still play this game regularly (still not managed 1Million on Wii but have on the DS download version) and recently unlocked the Staff Credits (Staff Roll). My [submission to MobyGames](https://www.mobygames.com/game/wii/maboshis-arcade/credits) has just been approved, but I thought I'd mirror/announce them here.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3z5Hlj2nof4?si=5eJTCJV_pi3oGop5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="540" height="540" src="https://www.youtube.com/embed/3z5Hlj2nof4?si=5eJTCJV_pi3oGop5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ----
 
