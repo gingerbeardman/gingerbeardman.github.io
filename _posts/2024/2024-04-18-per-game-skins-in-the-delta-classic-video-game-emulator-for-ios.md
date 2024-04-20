@@ -30,7 +30,7 @@ I thought it would be fun to play my favourite Nintendo DS game: [MaBoShi](/2013
 
 Immediately I noticed that the Nintendo DS emulation quality is high: MaBoShi's mosaic transitions are shown, whereas in other emulators such as DraStic or DeSmuME they are not. That's a good start!
 
-![PNG](/images/posts/delta-maboshi-default.png "Delta's default Nintendo DS skin—pretty nice! BUT")
+![PNG](https://cdn.gingerbeardman.com/images/posts/delta-maboshi-default.png "Delta's default Nintendo DS skin—pretty nice! BUT")
 {:.tofigure}
 
 ----
@@ -77,7 +77,7 @@ If you're interested in the JSON associated with this skin, [here it is on GitHu
 
 Installation and download instructions are at the bottom of the page, but here's the final skin:
 
-![PNG](/images/posts/delta-maboshi-deltaskin.png)
+![PNG](https://cdn.gingerbeardman.com/images/posts/delta-maboshi-deltaskin.png)
 {:class="deltaskin"}
 
 ----

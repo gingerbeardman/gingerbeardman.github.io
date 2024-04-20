@@ -20,6 +20,10 @@ One of the best (according to [MetaCritic](https://www.metacritic.com/game/wii/m
 
 Anyway, I still play this game regularly (still not managed 1Million on Wii but have on the DS download version) and recently unlocked the Staff Credits (Staff Roll). My [submission to MobyGames](https://www.mobygames.com/game/wii/maboshis-arcade/credits) has just been approved, but I thought I'd mirror/announce them here.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3z5Hlj2nof4?si=5eJTCJV_pi3oGop5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+----
+
 ## Staff Credits
 
 Producers
@@ -107,6 +111,27 @@ All Rights, including the copyrights of Game, Scenario, Music and Program reserv
 *   Nintendo
 *   Mindware
 
-## Postscript
+----
 
-Wii over VGA at 640x480 is totally amazing if you've not tried it. If you've always thought that the Wii's video output could never be great I implore you to try it! Check out how I do it [over at Retro Game Boards](https://www.retrogameboards.com/t/using-hdmi-to-vga-adapters-on-modern-consoles/1826/14?u=matt).
+## Addendum
+
+During a chat with Kuniake Watanabe by Twiter DMs, he outlined the responsibilities of the team:
+
+Programming:
+- Kotori Yoshimura (Wii systemi, Bar game)
+- Mikito Ichikawa (NDS system)
+- Tadashi Ito (Square game)
+- Jun Shimizu (procedual level generator for Bar game)
+- uniaki Watanabe (Circle game)
+
+Game Design:
+- Kuniaki Watanabe (original works of games)
+- Mikito Ichikawa (reconstruct for Wii)
+
+Level Design:
+- Mikito Ichikawa (Bar game)
+- Kuniaki Watanabe (Circle game)
+- Jun Shimizu (procedual level generator for Bar game)
+
+Graphic Design:
+- Reiko Sato
