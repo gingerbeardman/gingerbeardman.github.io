@@ -106,7 +106,7 @@ Programming
 * Kotori Yoshimura (Wii system, Bar game)
 * Mikito Ichikawa (NDS system)
 * Tadashi Ito (Square game)
-* Jun Shimizu (procedual level generator for Bar game)
+* Jun Shimizu (procedural level generator for Bar game)
 * Kuniaki Watanabe (Circle game)
 
 Game Design
@@ -116,7 +116,7 @@ Game Design
 Level Design
 * Mikito Ichikawa (Bar game)
 * Kuniaki Watanabe (Circle game)
-* Jun Shimizu (procedual level generator for Bar game)
+* Jun Shimizu (procedural level generator for Bar game)
 
 Graphic Design
 * Reiko Sato
