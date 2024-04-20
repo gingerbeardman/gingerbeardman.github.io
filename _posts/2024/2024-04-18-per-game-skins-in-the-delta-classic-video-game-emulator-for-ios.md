@@ -80,6 +80,9 @@ Installation and download instructions are at the bottom of the page, but here's
 ![PNG](https://cdn.gingerbeardman.com/images/posts/delta-maboshi-deltaskin.png)
 {:class="deltaskin"}
 
+![PNG](https://cdn.gingerbeardman.com/images/posts/delta-maboshi-deltaskin-instructions.png "Game instructions are presented when the phone is in landscape")
+{:.tofigure}
+
 ----
 
 ## Installation
