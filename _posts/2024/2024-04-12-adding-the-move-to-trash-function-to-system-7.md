@@ -2,7 +2,7 @@
 layout: post
 title: "Adding the “Move to Trash” function to System 7.1"
 date: '2024-04-12T23:08+01:00'
-last_modified_at: '2024-04-20T08:03+01:00'
+last_modified_at: '2024-04-22T18:45+01:00'
 tags:
 - hack
 - system7
@@ -100,14 +100,14 @@ So, how do we go about setting up KeyQuencer to enable this feature? Well, befor
 
 1. *KeyQuencer Engine*
 1. one or more *KeyQuencer Extensions*
-1. *KeyQuencer Panel/Editor*
+1. *KeyQuencer Panel* and/or *KeyQuencer Editor*
 1. one or more *KeyQuencer Macros*
 
 The beating heart of KeyQuencer is the *KeyQuencer Engine* system extension that lives in the usual System/Extensions folder, along with a folder in System called *KeyQuencer Extensions* that contains KeyQuencer's own type of extensions. Still with me?
 
 Inside the *KeyQuencer Extensions* folder you put any KeyQuencer Extension files that you want to use, by copying them from the KeyQuencer installation folder. This was a method to keep memory usage low by only loading the functions you're using rather than the whole suite. So if you're using a function from the File category, you copy the "File" KeyQuencer Extension in there.
 
-Once all that is set up you can create/add KeyQuencer Macros, using either KeyQuencer Panel or Editor. There are lots of sample macros to get started, and many were made and shared by the community. Eventually you can construct your own macro, which is what I'll do. 
+Once all that is set up you can create/add KeyQuencer Macros, using either KeyQuencer Panel or KeyQuencer Editor. There are lots of sample macros to get started, and many were made and shared by the community. Eventually you can construct your own macro, which is what I'll do. 
 
 **Step by step: words**
 
