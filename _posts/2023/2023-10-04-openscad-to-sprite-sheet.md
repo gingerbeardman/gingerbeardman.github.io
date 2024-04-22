@@ -32,7 +32,7 @@ After exporting all frames there is some `image magick` work to process the file
 3. process channels to recolour and dither as required
 4. recombine processed channels into new sprite sheet image
 
-You can read about that in a [previous blog post](/2021/06/05/channelling-rgb-into-1bit/).
+You can read about that in a [previous blog post](https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/).
 
 ## Benchmarks
 

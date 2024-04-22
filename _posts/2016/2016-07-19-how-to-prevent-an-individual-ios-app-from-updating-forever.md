@@ -10,7 +10,7 @@ comments:
 
 ---
 
-> Note, August 2023: this method is outdated, for the latest [please see this newer blog post](/2023/08/17/going-back-to-the-old-pre-x-twitter-ios-app/). 
+> Note, August 2023: this method is outdated, for the latest [please see this newer blog post](https://blog.gingerbeardman.com/2023/08/17/going-back-to-the-old-pre-x-twitter-ios-app/). 
 
 Change is the only constant. Nowhere is this more visible than on the App Store. [Thousands of new apps and games appear every day](http://www.statista.com/statistics/258160/number-of-new-apps-submitted-to-the-itunes-store-per-month/) and existing apps receive regular updates to add features and fix bugs. This will only accelerate further now that the App Store is firing on all cylinders and review times are [measured in hours rather than days](http://appreviewtimes.com).
 
