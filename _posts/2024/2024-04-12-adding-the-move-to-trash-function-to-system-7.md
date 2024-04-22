@@ -107,7 +107,7 @@ The beating heart of KeyQuencer is the *KeyQuencer Engine* system extension that
 
 Inside the *KeyQuencer Extensions* folder you put any KeyQuencer Extension files that you want to use, by copying them from the KeyQuencer installation folder. This was a method to keep memory usage low by only loading the functions you're using rather than the whole suite. So if you're using a function from the File category, you copy the "File" KeyQuencer Extension in there.
 
-Once all that is set up you can create/add KeyQuencer Macros, using either KeyQuencer Panel or KeyQuencer Editor. There are lots of sample macros to get started, and many were made and shared by the community. Eventually you can construct your own macro, which is what I'll do. 
+Once all that is set up you can create/add KeyQuencer Macros, using either KeyQuencer Panel or KeyQuencer Editor. There are lots of sample macros included with the app to get you started, and many were made and shared by the community. The app also includes detailed command help so you know exactly what is possible and how to make it so. Eventually you can construct your own macro, which is what I'll do here.
 
 **Step by step: words**
 
