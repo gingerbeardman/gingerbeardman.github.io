@@ -4,20 +4,19 @@ title: 'Credits: MaBoShi (WiiWare)'
 last_modified_at: '2024-04-20T19:47+01:00'
 tags:
 - credits
-- hack
 - patreon
 - maboshi
 nouns:
 - WiiWare
 - MaBoShi
 - Wii Shop Channel
-- Nintendo]
+- Nintendo
 - Mindware
 comments: https://twitter.com/gingerbeardman/status/1244004430720180228
 
 ---
 
-One of the best (according to [MetaCritic](https://www.metacritic.com/game/wii/maboshis-arcade), and [IMHO](https://dreampast.tumblr.com/post/1342575347/maboshi)) Wii games is a WiiWare game called MaBoShi that is now mostly lost to time in that Nintendo have closed the Wii Shop Channel. Of course, there are other more nefarious means to procure the game, but I'm not going to go into those here.
+One of the best (according to [MetaCritic](https://www.metacritic.com/game/wii/maboshis-arcade), and [IMHO](/2013/06/29/maboshi/)) Wii games is a WiiWare game called MaBoShi that is now mostly lost to time in that Nintendo have closed the Wii Shop Channel. Of course, there are other more nefarious means to procure the game, but I'm not going to go into those here.
 
 Anyway, I still play this game regularly (still not managed 1Million on Wii but have on the DS download version) and recently unlocked the Staff Credits (Staff Roll).
 

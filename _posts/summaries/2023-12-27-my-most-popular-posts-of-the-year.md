@@ -28,7 +28,7 @@ According to Google Analytics, my 10 most popular posts in 2023 were (most popul
 - [YOYOZO (or, how I made a Playdate game in 39KB)](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/) (21 Nov) <!-- 7K -->
 - [Going back to the old (pre-X) Twitter iOS app](/2023/08/17/going-back-to-the-old-pre-x-twitter-ios-app/) (17 Aug) <!-- 6K -->
 - [Early computer art by Barbara Nessim (1984)](/2023/11/09/early-computer-art-by-barbara-nessim/) (9 Nov) <!-- 6K -->
-- [Back In Time: Vintage Maps of Akihabara (1976–2001)](https://blog.gingerbeardman.com/2019/05/11/back-in-time-vintage-maps-of-akihabara/) (1 Jul, updated old post) <!-- 6K -->
+- [Back In Time: Vintage Maps of Akihabara (1976–2001)](/2019/05/11/back-in-time-vintage-maps-of-akihabara/) (1 Jul, updated old post) <!-- 6K -->
 - [Dynamic music and sound techniques for video games](/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/) (9 Dec) <!-- 4K -->
 - [Casio CALEID XM-700 Mobile Navigator (1997)](/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/) (25 Aug) <!-- 4K -->
 - [Ball und Panzer Golf: making a Playdate game in a week](/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/) (26 Jun) <!-- 4K -->
