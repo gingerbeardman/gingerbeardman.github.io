@@ -6,6 +6,8 @@ tags:
 - credits
 - patreon
 - maboshi
+- wiiware
+- wii
 nouns:
 - WiiWare
 - MaBoShi

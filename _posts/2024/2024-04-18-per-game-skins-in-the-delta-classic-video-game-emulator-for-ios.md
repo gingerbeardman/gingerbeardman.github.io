@@ -8,6 +8,7 @@ tags:
 - emulation
 - ios
 - maboshi
+- nintendods
 nouns:
 - MaBoShi
 - Delta
