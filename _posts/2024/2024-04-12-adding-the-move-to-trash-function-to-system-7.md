@@ -2,7 +2,7 @@
 layout: post
 title: "Adding the “Move to Trash” function to System 7.1"
 date: '2024-04-12T23:08+01:00'
-last_modified_at: '2024-04-28T20:17+01:00'
+last_modified_at: '2024-04-28T20:24+01:00'
 tags:
 - hack
 - system7
@@ -73,7 +73,7 @@ The final modified file is up over at Macintosh Garden: [https://macintoshgarden
 
 **Removing the confirmation alert**
 
-I used a [disassembler](https://github.com/fuzziqersoftware/resource_dasm/issues/77) to figure out the code that was responsible for showing the confirmation alert that appears after pressing the hotkey, but I wasn't sure how best to remove it. So I asked on 68KMLA.org and user [*cheesestraws* came up with a solution](https://68kmla.org/bb/index.php?threads%2Fskipping-a-confirmation-alert-and-doing-the-ok-code-path.47220%2F) (thanks!) that involved NOPing out the Alert syscall setup, invokation, and return, and making the comparison that usually checks the alert button always default to the OK. I was so close to figuring out this solution myself, but I lacked a key bit of knowledge for how to figure out the hex code for a totally new instruction. Well, now I know how to do that! [Here's all the details of how to change the machine code](https://68kmla.org/bb/index.php?threads/skipping-a-confirmation-alert-and-doing-the-ok-code-path.47220/post-529695). I could have and probablt should have used Ghidra to figure out this edit to the code.
+I used a [disassembler](https://github.com/fuzziqersoftware/resource_dasm/issues/77) to figure out the code that was responsible for showing the confirmation alert that appears after pressing the hotkey, but I wasn't sure how best to remove it. So I asked on 68KMLA.org and user *cheesestraws* came up with a solution (thanks!) that involved NOPing out the Alert syscall setup, invokation, and return, and making the comparison that usually checks the alert button always default to the OK. I was so close to figuring out this solution myself, but I lacked a key bit of knowledge for how to figure out the hex code for a totally new instruction. Well, now I know how to do that! [Here's all the details of how to change the machine code](https://68kmla.org/bb/index.php?threads/skipping-a-confirmation-alert-and-doing-the-ok-code-path.47220/post-529695). I could have and probablt should have used Ghidra to figure out this edit to the code.
 
 Once this was done it became obvious how much of a hack FinderHack really is. After deleting the file the icon of the now missing file persists in Finder for up to a few seconds on my emulated Mac, and up to 20 seconds on period hardware! This is unacceptable, so I had to go deeper.
 
