@@ -40,7 +40,7 @@ The complete list of rules offered:
 
 The site went offline mid-2022, about a year ago at this point, and all was thought to be lost. We had tried the Wayback Machine but the archive seemed incomplete. 
 
-This week Marguerite was mentioned on the [Hanafuda Discord](https://discord.io/hanafuda), so I decided to try again. Taking a fresh look at the state of the site, it seemed to be stalling trying to load two images.
+This week Marguerite was mentioned on the [Hanafuda Discord](https://discord.com/invite/mKbdwy9), so I decided to try again. Taking a fresh look at the state of the site, it seemed to be stalling trying to load two images.
 
 A couple of small changes later (two hard-coded URLs in the JavaScript pointed to the dead website) I managed to get the desktop version of the Marguerite Hanafuda working locally!
 
