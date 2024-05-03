@@ -17,7 +17,8 @@ description: 'Blog of independent video game developer and digital media artist 
 author:      'Matt Sephton'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://blog.gingerbeardman.com' # The base hostname & protocol for your site
-homepage:    'https://www.gingerbeardman.com' # The base hostname & protocol for your site
+homepage:    'https://www.gingerbeardman.com' # other link
+cdn:         'https://cdn.gingerbeardman.com' # cdn link
 github:      ''
 instagram:   ''
 facebook:    ''
