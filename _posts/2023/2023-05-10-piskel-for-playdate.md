@@ -71,7 +71,7 @@ I'm not sure how useful this really is, but I added it anyway. Thanks to [julian
 
 ### Shift Palette Color Index Brush
 
-This tool allows you to do shading using neighbouring colours more easily. Thanks to [blurymind](https://github.com/piskelapp/piskel/pull/887) for the patch.
+This tool allows you to do shading using neighbouring colours more easily. Thanks to [blurymind](https://github.com/piskelapp/piskel/pull/887).
 
 ### Pencil tool (new default)
 
