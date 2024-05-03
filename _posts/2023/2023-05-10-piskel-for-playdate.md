@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Piskel for Playdate
+last_modified_at: '2024-05-04T00:22+01:00'
 tags:
 - piskel
 - playdate
@@ -19,9 +20,9 @@ I just pushed some changes to my Playdate-centric fork of Piskel:
 [https://github.com/gingerbeardman/piskel-playdate/tree/dev-1047](https://github.com/gingerbeardman/piskel-playdate/tree/dev-1047)
 
 This fork:
-- can be used to build desktop apps of v15.2 on latest OS
-  - should build just fine for Windows/Linux/Mac (Intel)
-  - can also be used to build for Apple silicon
+- can be used to build desktop apps on latest operating systems
+  - updated to future-proof dependencies and build process
+  - builds Windows and Mac (Universal)
 - has Playdate-specific features
   - get frame size from imagetable filename
 - has quality-of-life improvements
@@ -34,6 +35,9 @@ This fork:
   - Outliner tool
   - Dither modifier keys
   - Keyboard cursor
+  - Shift Palette Color Index Brush
+- adds new default Pencil tool
+  - draws in the opposite color to that of the start pixel
 
 ----
 
@@ -63,3 +67,11 @@ Another one from [ElectricToy](https://github.com/ElectricToy/piskel/pulls?q=is%
 ### Keyboard cursor
 
 I'm not sure how useful this really is, but I added it anyway. Thanks to [juliandescottes](https://github.com/piskelapp/piskel/tree/keyboard-cursor) for the patch. You can control the pixel cursor location using Alt+cursor, and space will activate the current tool at that location. I haven't tried it but you could set up a game controller to use these keys and [draw like Dan Malone did](https://readonlymemory.vg/the-making-of-speedball-2/)!
+
+### Shift Palette Color Index Brush
+
+This tool allows you to do shading using neighbouring colours more easily. Thanks to [blurymind](https://github.com/piskelapp/piskel/pull/887) for the patch.
+
+### Pencil tool (new default)
+
+Classic Macintosh style Pencil. Draws in the opposite color of the pixel the stroke begins on. If the stroke begins on transparent, or the secondary color, it draws in the primary color. If the stroke begins on the primary color, it draws in the secondary color. This minimizes the need to switch between selected colors. To draw in a single color you won't need to change colors or tools at all.
