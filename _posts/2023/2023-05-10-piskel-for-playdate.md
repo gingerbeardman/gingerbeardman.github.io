@@ -22,7 +22,7 @@ I just pushed some changes to my Playdate-centric fork of Piskel:
 This fork:
 - can be used to build desktop apps on latest operating systems
   - updated to future-proof dependencies and build process
-  - builds for Windows, Linux and Mac
+  - builds for Windows, Linux, macOS
 - has Playdate-specific features
   - get frame size from imagetable filename
 - has quality-of-life improvements
