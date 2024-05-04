@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Piskel for Playdate
-last_modified_at: '2024-05-04T00:22+01:00'
+last_modified_at: '2024-05-04T09:22+01:00'
 tags:
 - piskel
 - playdate
@@ -73,6 +73,10 @@ I'm not sure how useful this really is, but I added it anyway. Thanks to [julian
 
 This tool allows you to do shading using neighbouring colours more easily. Thanks to [blurymind](https://github.com/piskelapp/piskel/pull/887).
 
+----
+
+And I even added a new tool myself!
+
 ### Pencil tool (new default)
 
-Classic Macintosh style Pencil. Draws in the opposite color of the pixel the stroke begins on. If the stroke begins on transparent, or the secondary color, it draws in the primary color. If the stroke begins on the primary color, it draws in the secondary color. This minimizes the need to switch between selected colors. To draw in a single color you won't need to change colors or tools at all.
+Classic Macintosh style Pencil. Draws in the opposite color than that of the pixel the stroke begins on. If the stroke begins on transparent, or the secondary color, it draws in the primary color. If the stroke begins on the primary color, it draws in the secondary color. This minimizes the need to switch between selected colors. To draw in a single color you won't need to change colors or tools at all.
