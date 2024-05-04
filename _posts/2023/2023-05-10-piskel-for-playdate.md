@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Piskel for Playdate
-last_modified_at: '2024-05-04T09:22+01:00'
+last_modified_at: '2024-05-04T11:00+01:00'
 tags:
 - piskel
 - playdate
@@ -22,7 +22,7 @@ I just pushed some changes to my Playdate-centric fork of Piskel:
 This fork:
 - can be used to build desktop apps on latest operating systems
   - updated to future-proof dependencies and build process
-  - builds Windows and Mac (Universal)
+  - builds for Windows, Linux and Mac
 - has Playdate-specific features
   - get frame size from imagetable filename
 - has quality-of-life improvements
