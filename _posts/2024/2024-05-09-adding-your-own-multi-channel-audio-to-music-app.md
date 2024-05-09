@@ -16,6 +16,7 @@ nouns:
 - Cloud Library
 - iCloud Music Library
 - Music.app
+- Music app
 - Music
 - iTunes
 comments: https://twitter.com/gingerbeardman/status/1788667408426619156
