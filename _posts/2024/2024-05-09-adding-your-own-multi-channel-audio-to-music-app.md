@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adding your own multi-channel audio to Music.app"
+title: "Adding your own multi-channel audio to Music app"
 date: '2024-05-09T21:19+01:00'
 tags:
 - music
