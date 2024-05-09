@@ -18,7 +18,7 @@ nouns:
 - Music.app
 - Music
 - iTunes
-comments: https://twitter.com/gingerbeardman/status/1760790600360599824
+comments: https://twitter.com/gingerbeardman/status/1788667408426619156
 style: |
   img {
     width: 563px;
