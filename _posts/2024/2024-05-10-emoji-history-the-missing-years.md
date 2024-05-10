@@ -2,6 +2,7 @@
 layout: post
 title: "Emoji history: the missing years"
 date: '2024-05-10T21:00+01:00'
+last_modified_at: '2024-05-10T22:14+01:00'
 tags:
 - japanese
 - emoji
@@ -72,7 +73,7 @@ One such device I bought was the Sharp PI-4000, from 1994. This is a pocket comp
 ![](https://cdn.gingerbeardman.com/images/posts/emoji-history-sharp-pi-3000.jpg "Sharp Zaurus PI-3000 “Personal Information Tool” (1993)")
 {:.tofigure}
 
-So I was trying out the PI-4000, the memo function is pretty cool allowing you to draw in different dither shades and pen widths, and use stamps to add symbols to your memo. These are mostly map-related things like road and rail junctions, buildings, and train stations. Pretty cool. Then I tried typing some messages on the device and as I explored the myriad of keyboard inout mechanisms I came across something rather familiar (sorry about the awful photo—it's the best I could do, honest—the screen is very reflective and the pixels are so far from the backing they cast individual shadows!):
+So I was trying out the PI-4000, the memo function is pretty cool allowing you to draw in different dither shades and pen widths, and use stamps to add symbols to your memo. These are mostly map-related things like road and rail junctions, buildings, and train stations. Pretty cool. Then I tried typing some messages on the device and as I explored the myriad of keyboard input mechanisms I came across something rather familiar (sorry about the awful photo—it's the best I could do, honest—the screen is very reflective and the pixels are so far from the backing they cast individual shadows!):
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-sharp-pi-4000-emoji-picker.jpg "Look! It's an emoji picker on the Sharp PI-4000 (1994)")
 {:.tofigure}
