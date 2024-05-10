@@ -123,7 +123,7 @@ Wild. Typing text this way must have felt like programming machine code directly
 
 ## What makes it emoji?
 
-I was chatting to my friend [Louie Mantia](https://lmnt.me/blog/), who has designed many emoji in his career, discussing the earlier emoji I had found in my 1994 device. Louie asked me to confirm that I could type emoji inline with text, giving me the example `W😲W`, which was his criteria for the symbols to qualify emoji. If I couldn't do that, he suggested we could only consider the symbols as icons.
+I was chatting to my friend [Louie Mantia](https://lmnt.me/blog/), who has designed many emoji in his career, discussing the earlier emoji I had found in my 1994 device. Louie asked me to confirm that I could type emoji inline with text, giving me the example `W😲W`, which was his criteria for the symbols to qualify as emoji. If I couldn't do that, he suggested we could only consider the symbols as icons.
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-sharp-pi-4000-emoji-wow.jpg "Passing the Emoji test on the Sharp PI-4000")
 {:.tofigure}
