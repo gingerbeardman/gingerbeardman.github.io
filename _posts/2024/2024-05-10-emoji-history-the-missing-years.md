@@ -138,7 +138,7 @@ So I kept looking. I was aware of another line of Sharp devices, electronic orga
 
 ![JPG](https://cdn.gingerbeardman.com/images/posts/emoji-history-sharp-pa-8500-1988.jpg "Sharp PA-8500 (1988)")
 
-Thanks to a collector, [Akuji](https://www.reddit.com/r/OldHandhelds/comments/sr51ze/may_i_present_you_the_whole_family_of_sharp/), I was able to confirm that the Japanese PA-8500 device, released in 1988, contains the emoji of the same design to those found on my PI-4000 and on the WD-A521. When drawing these it was obvious that they, and the other Sharp sets, are all based on the same masters. (I'd love to know more about the Sharp masters artwork if anybody knows anything.)
+Thanks to a collector, [Akuji](https://www.reddit.com/r/OldHandhelds/comments/sr51ze/may_i_present_you_the_whole_family_of_sharp/), I was able to confirm that the Japanese PA-8500 device, released in 1988, contains emoji with the same design as those found on my PI-4000 and on the WD-A521. When drawing these it was obvious that all the Sharp ebon emoji sets are based on the same master design. (I'd love to know more about the Sharp artwork if anybody knows anything.)
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-sharp-pa-8500-emoji-table-20-20.png#pa8500 "Emoji present on Sharp PA-8500 (1988)")
 {:.tofigure}
