@@ -44,7 +44,7 @@ nouns:
 - SSI/Victor
 featured: true
 pinned: false
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1789027585713639563
 style: |
   img[src$='#pi4000'] {
     width: 392px
