@@ -158,7 +158,7 @@ The characters ○金 and ○ビ were invented by the author [Kazuhiro Watanabe]
 
 Once you accept that emoji existed in the 1980s, more things come to light. The Ishii Award 「石井賞創作タイプフェイスコンテスト」 was a [typeface design contest organised by that particular community of designers since 1970](https://news.mynavi.jp/article/font-history-19/). By 1984 it was in its 8th year. Yutaka Satoh of Type-Labo proposed a typeface consisting of emoji. Because they weren't on screen they were created by arranging dots in various shapes, but they are recognisably emoji. Coincidentally, I used a hybrid of this sort of approach [when I added emoji to my game YOYOZO](/2023/11/26/easter-egg-emoji-converting-pixels-into-particles/) in September 2023: I plot the emoji as points but define them on a pixel grid.
 
-![JPG](https://cdn.gingerbeardman.com/images/posts/emoji-history-type-labo-typeface-1984.jpg "Yakumono typeface, created by Yutaka Satoh (TYPE-LABO) in 1984")
+![JPG](https://cdn.gingerbeardman.com/images/posts/emoji-history-type-labo-typeface-1984.jpg "Yakumono typeface (partial/proposed), created by Yutaka Satoh (TYPE-LABO) in 1984")
 {:.tofigure}
 
 In Matt Alt's book ["The Secret Lives of Emoji: How Emoticons Conquered the World"](https://www.goodreads.com/book/show/30631850-the-secret-lives-of-emoji), there is a brief mention of ASCII emoticons on the Japanese internet (JUNET) in 1984, and then it fast forwards to 1995 to begin talking about the Pager, missing a decade of emoji usage in the process.
