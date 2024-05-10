@@ -14,12 +14,14 @@ nouns:
 - Sharp PI-4000
 - Sharp PI-3000
 - Sharp PA-8500
+- Sharp MZ-80K
 - Sharp
 - PI-4000
 - PI-3000
 - PA-8500
 - NEC WD-A521
 - NEC PI-ET1
+- NEC PC-8001
 - NEC
 - WD-A521
 - PI-ET1
