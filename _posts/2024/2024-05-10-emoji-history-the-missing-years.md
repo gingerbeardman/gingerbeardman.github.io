@@ -89,7 +89,7 @@ At this point, I couldn't quite believe what I was seeing because I was under th
 
 ## 1991
 
-A little more reading, and a tip from my friend [@chamekan](https://twitter.com/chame) on Twitter, unearthed the fact that the NEC PI-ET1 in 1991 also contained emoji. The device is literally the coolest thing you've ever seen. With system software was written by video game developer Hudson Soft, its character set features emoji that can be typed inline, and it also features a ["montage function" that allows you to create faces for each of your contacts](https://youtu.be/8_w8elG3w0Y?t=248) — 15 years later we'd see something similar in Mii on Nintendo Wii in 2006. The emoji on this device are a lot less well designed, in my humble opinion, than those on the Sharp devices.
+A little more reading, and a tip from my friend [@chamekan](https://twitter.com/chame) on Twitter, unearthed the fact that the NEC PI-ET1 in 1991 also contained emoji. The device is literally the coolest thing you've ever seen. With system software written by video game developer Hudson Soft its character set features emoji that can be typed inline, and it also features a ["montage function" that allows you to create faces for each of your contacts](https://youtu.be/8_w8elG3w0Y?t=248) — 15 years later we'd see something similar in Mii on Nintendo Wii in 2006. The emoji on this device are a lot less well designed, in my humble opinion, than those on the Sharp devices.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8_w8elG3w0Y?start=503" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
