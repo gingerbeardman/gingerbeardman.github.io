@@ -2,6 +2,7 @@
 layout: post
 title: "Adding your own multi-channel audio to Music app"
 date: '2024-05-09T21:19+01:00'
+last_modified_at: '2024-05-10T13:44+01:00'
 tags:
 - music
 - hack
@@ -50,7 +51,7 @@ You might think a multi-channel audio file with a total bitrate this low is a wa
 
 There are many GUI tools that you might use to do this but I've chose to use ffmpeg on the command line. Feel free to adapt these settings to your tool of choice. The most important property is the 256kb/s bitrate, as mentioned earlier.
 
-`ffmpeg -i D1_t01.mkv -vn -c:a aac_at -b:a 256k -sample_fmt s16 -ar 44100 D1_t01.m4a`
+`ffmpeg -i D1_t01.mkv -vn -c:a aac_at -b:a 256k -sample_fmt s16 -ar 48000 D1_t01.m4a`
 
 Those options:
 
