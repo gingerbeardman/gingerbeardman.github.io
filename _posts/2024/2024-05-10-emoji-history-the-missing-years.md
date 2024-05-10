@@ -2,7 +2,7 @@
 layout: post
 title: "Emoji history: the missing years"
 date: '2024-05-10T21:00+01:00'
-last_modified_at: '2024-05-10T22:14+01:00'
+last_modified_at: '2024-05-10T22:24+01:00'
 tags:
 - japanese
 - emoji
@@ -117,7 +117,7 @@ You might wonder how emoji were entered on beepers which had limited input metho
 > ...would map to: `カラオケイク？`  
 > ...which means: `KARAOKE?`
 
-Wild. Typing text this way must have felt like programming machine code directly in hexidecimal! [I've also been informed](https://twitter.com/s7ephenwithaph/status/1785939813432254950) that people would use "beeper slang" where numbers that sound like words would be used.
+Wild. Typing text this way must have felt like programming machine code directly in hexadecimal! [I've also been informed](https://twitter.com/s7ephenwithaph/status/1785939813432254950) that people would use "beeper slang" where numbers that sound like words would be used.
 
 ----
 
@@ -151,7 +151,7 @@ At this point we've wiped almost a decade off the creation date of emoji, but ca
 
 If we think about the PA line of devices, the PA-8500 was released in 1988, and it's predecessor the (emoji-less) PA-7000 was released in 1987. So maybe the emoji set was created around this time? We can get closer by looking at a couple of characters present in the emoji that give us [a clue to the date of creation](https://srad.jp/~yasuoka/journal/495877/). That is indeed the case with the Sharp PI-4000 and WD-A521.
 
-The characters ○金 and ○ビ were invented by the author [Kazuhiro Watanabe](https://ja.wikipedia.org/wiki/渡辺和博) in 1984 in his book [Kinkonkan](https://ja.wikipedia.org/wiki/渡辺和博#○金・○ビ). These were quickly accepted into Japanese vocabulary, and they won a buzzword award at the time. And they are right there in the Sharp emoji, represented as characters enclosed in circles. They were in common use throughout Japan's bubble-era, 1986-1991. The words eventually fell out of fashion and are now considered obsolete. It's interesting to note that they are not featured in either the [1997 SoftBank](https://emojipedia.org/softbank/1997) or [1999 NTT DoCoMo](https://emojipedia.org/docomo/1999) emoji sets. 
+The characters ○金 and ○ビ were invented by the author [Kazuhiro Watanabe](https://ja.wikipedia.org/wiki/渡辺和博#○金・○ビ) in 1984 in his book [Kinkonkan](https://www.amazon.co.jp/dp/4072734365). These were quickly accepted into Japanese vocabulary, and they won a buzzword award at the time. And they are right there in the Sharp emoji, represented as characters enclosed in circles. They were in common use throughout Japan's bubble-era, 1986-1991. The words eventually fell out of fashion and are now considered obsolete. It's interesting to note that they are not featured in either the [1997 SoftBank](https://emojipedia.org/softbank/1997) or [1999 NTT DoCoMo](https://emojipedia.org/docomo/1999) emoji sets. 
 
 ----
 
@@ -212,7 +212,7 @@ I was interested in how the emoji that I have redrawn compared to the 1997 SoftB
 
 So what does this all mean? I'd say mostly that the history emoji isn't as clean cut as you might have thought. You can decide for yourself on what you consider to be the first emoji. It depends on our own personal definition, so there is no right or wrong answer. 😎 
 
-Personally, I define the start date of emoji as the point in time when sets of these symbols first appeared for reuse. I don't think the timeline should start at mobile phones, as this feels like a somewhat arbritrary decision that dismisses a lot of history. It's like saying music only began to exist from the moment it could be recorded. 🤔
+Personally, I define the start date of emoji as the point in time when sets of these symbols first appeared for reuse. I don't think the timeline should start at mobile phones, as this feels like a somewhat arbitrary decision that dismisses a lot of history. It's like saying music only began to exist from the moment it could be recorded. 🤔
 
 As to whether the timeline of emoji history will be rewritten with this knowledge, it's difficult to say. Much of this falls in the grey area of happening around the time the internet was taking hold, plus most things about the origin of emoji are in Japanese language, so there are unlikely to be sources Wikipedia would consider verifiable enough. The best we could do is quote the pages of the manuals for devices, and for the rest hope that there's some record in Japanese literature that could be cited.
 
