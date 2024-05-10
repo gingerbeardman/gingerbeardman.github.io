@@ -112,15 +112,15 @@ You might wonder how emoji were entered on beepers which had limited input metho
 ![JPG](https://cdn.gingerbeardman.com/images/posts/emoji-history-pocket-bell-pager.jpg "Pager cheat sheet, photo by 山下メロ <a href=https://ima.goo.ne.jp/column/article/6981.html>https://ima.goo.ne.jp/column/article/6981.html</a>")
 {:.tofigure}
 
-The numeric code: `21 91 15 24 12 23 78`  
-...would map to: `カラオケイク？`  
-...which means: `KARAOKE?`
+> The numeric code: `21 91 15 24 12 23 78`  
+> ...would map to: `カラオケイク？`  
+> ...which means: `KARAOKE?`
 
 Wild. Typing text this way must have felt like programming machine code directly in hexidecimal! [I've also been informed](https://twitter.com/s7ephenwithaph/status/1785939813432254950) that people would use "beeper slang" where numbers that sound like words would be used.
 
 ----
 
-## What constitutes emoji?
+## What makes it emoji?
 
 I was chatting to my friend [Louie Mantia](https://lmnt.me/blog/), who has designed many emoji in his career, discussing the earlier emoji I had found in my 1994 device. Louie asked me to confirm that I could type emoji inline with text, giving me the example `W😲W`, which was his criteria for the symbols to qualify emoji. If I couldn't do that, he suggested we could only consider the symbols as icons.
 
@@ -208,7 +208,7 @@ I was interested in how the emoji that I have redrawn compared to the 1997 SoftB
 
 So what does this all mean? I'd say mostly that the history emoji isn't as clean cut as you might have thought. You can decide for yourself on what you consider the first emoji. It depends on our own personal definition, so there is no right or wrong answer. 😎
 
-As to whether the timeline of emoji history will be rewritten with this knowledge, it's difficult to say. Much of this falls in the grey area of being around the time the internet was taking hold so there are unlikely to be sources Wikipedia would consider verifiable enough, and the best we could do is quote the pages of the manuals for devices and hope that there's some record in the press.
+As to whether the timeline of emoji history will be rewritten with this knowledge, it's difficult to say. Much of this falls in the grey area of happening around the time the internet was taking hold, plus most things about the origin of emoji>  are in Japanese language, so there are unlikely to be sources Wikipedia would consid> er verifiable enough. The best we could do is quote the pages of the manuals for devices, > and for the rest hope that there's some record in Japanese literature that could be cited.
 
 ---- 
 
