@@ -97,7 +97,7 @@ A little more reading, and a tip from my friend [@chamekan](https://twitter.com/
 
 ## A word about word processors
 
-By now I was in contact with Keith at [Emojipedia](https://emojipedia.org), who mentioned that he remembered a Sharp device with emoji, a word processor. I found one in the Sharp WD-A521, from November 1990, which [featured seemingly higher resolution versions of the emoji](http://kanji.zinbun.kyoto-u.ac.jp/~yasuoka/Emoji/) found on my PI-4000. 
+By now I was in contact with Keith at [Emojipedia](https://emojipedia.org), who mentioned that he remembered a Sharp device with emoji, a word processor. I found one in the Sharp WD-A521, from November 1990, which [featured higher resolution versions of the emoji designs](http://kanji.zinbun.kyoto-u.ac.jp/~yasuoka/Emoji/) found on my PI-4000.
 
 Perhaps there are other word processors from around that time that also contain emoji? I understand from my friend [Izumi Okano](https://twitter.com/haeckel) that Japanese software developer Ezan-Hoshigumi, most famous for their Macintosh software, had created pictograms for one of the Canoword word processors around 1986. So at this point I'm thinking, why would the emoji on a word processor be ignored on the timeline of emoji history? Was there anything else being ignored?
 
