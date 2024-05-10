@@ -2,7 +2,7 @@
 layout: post
 title: "Emoji history: the missing years"
 date: '2024-05-10T21:00+01:00'
-last_modified_at: '2024-05-10T22:24+01:00'
+last_modified_at: '2024-05-10T22:40+01:00'
 tags:
 - japanese
 - emoji
@@ -174,7 +174,7 @@ In the [Yakumono typeface, created by Yutaka Satoh](https://www.type-labo.jp/Ohb
 
 ## 1979
 
-We can see [emoji in the character sets of Japanese home computers](http://kanji.zinbun.kyoto-u.ac.jp/~yasuoka/JUGYO/2009-12-21.pdf) such as the Sharp MZ-80K and NEC PC-8001. I won't include them here but you can click the above link to see some in a PDF.
+We can see [emoji in the character sets of Japanese home computers](http://kanji.zinbun.kyoto-u.ac.jp/~yasuoka/JUGYO/2009-12-21.pdf) such as the Sharp MZ-80K and NEC PC-8001. I won't include them here but you can click the above link to see some in a PDF. 💾
 
 ----
 
@@ -214,11 +214,11 @@ I was interested in how the emoji that I have redrawn compared to the 1997 SoftB
 
 So what does this all mean? I'd say mostly that the history emoji isn't as clean cut as you might have thought. You can decide for yourself on what you consider to be the first emoji. It depends on our own personal definition, so there is no right or wrong answer. 😎 
 
-Personally, I define the start date of emoji as the point in time when sets of these symbols first appeared for reuse. I don't think the timeline should start at mobile phones, as this feels like a somewhat arbitrary decision that dismisses a lot of history. It's like saying music only began to exist from the moment it could be recorded. 🤔
+Personally, I define the start date of emoji as the point in time when sets of these symbols first appeared for use whilst composing text. I don't think the timeline should start at mobile phones, as this feels like a somewhat arbitrary decision that dismisses a lot of history. It's like saying music only began to exist from the moment it could be recorded and listened to without the actual muscians being present. 🤔
 
 As to whether the timeline of emoji history will be rewritten with this knowledge, it's difficult to say. Much of this falls in the grey area of happening around the time the internet was taking hold, plus most things about the origin of emoji are in Japanese language, so there are unlikely to be sources Wikipedia would consider verifiable enough. The best we could do is quote the pages of the manuals for devices, and for the rest hope that there's some record in Japanese literature that could be cited.
 
-I won't be running the Wikipedia editing gauntlet, but if you want let me know how it goes!
+I won't be running the Wikipedia editing gauntlet, but if you want let me know how it goes! 🧨
 
 ---- 
 
