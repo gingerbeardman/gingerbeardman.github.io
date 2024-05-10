@@ -47,13 +47,13 @@ published: private
 comments: https://twitter.com/gingerbeardman/status/
 style: |
   img[src$='#pi4000'] {
-    width: 380px
+    width: 392px
   }
   img[src$='#pa8500'] {
-    width: 300px
+    width: 312px
   }
   img[src$='#piet1'] {
-    width: 360px
+    width: 372px
   }
   img[src$='#ba90'] {
     width: 250px
@@ -68,6 +68,9 @@ During my research into vintage Japanese drawing software, I came across some de
 ## 1994
 
 One such device I bought was the Sharp PI-4000, from 1994. This is a pocket computer that rolled out of Sharp's involvement in the development and manufacturing of Apple's Newton MessagePad. In 1993 Sharp did their own licenced version of the Newton MessagePad, the Expert Pad PI-7000, but just like Apple's device it wasn't as successful as they'd hoped. But before that, in 1992, they'd made a device called the PV-F1 which was the first touchscreen-only PDA. After the Expert Pad failure, Sharp took another attempt at the concept and came up with the PI-3000 in 1993. This solved all the problems with the PV-F1, most notably size and cost. The device I have, the PI-4000, was released a year later and features higher memory capacity. The PI-3000/4000 devices could transfer data via infrared, connect to a modem to send faxes, and by the PI-5000 in 1995 could connect to cell phones to send emails. They all use a simplified but still very complicated version of the multi-window operating system that had been developed for the PV-F1.
+
+![](/images/posts/emoji-history-sharp-pi-3000.jpg "Sharp Zaurus PI-3000 “Personal Information Tool” (1993)")
+{:.tofigure}
 
 So I was trying out the PI-4000, the memo function is pretty cool allowing you to draw in different dither shades and pen widths, and use stamps to add symbols to your memo. These are mostly map-related things like road and rail junctions, buildings, and train stations. Pretty cool. Then I tried typing some messages on the device and as I explored the myriad of keyboard inout mechanisms I came across something rather familiar (sorry about the awful photo—it's the best I could do, honest):
 
@@ -131,6 +134,8 @@ So if I can type them inline amongst text on my device from 1994 that was capabl
 ## 1988
 
 So I kept looking. I was aware of another line of Sharp devices, electronic organisers, known as the Bware range in Japan and Wizard in the USA. These were pretty popular at the time, so much so that the USA device even [got it's own episode of Seinfeld](https://en.wikipedia.org/wiki/The_Wizard_(Seinfeld)) in 1998. I'd come back into contact with these devices just last year as they had the interesting capability of being able to [play video games](https://forums.insertcredit.com/t/stay-sharp-with-sc-denshi-system-techo-games/2326) stored on application "IC" cards. You can play a version of Tetris by BPS that is quite different to the Game Boy version, and both were released in 1989. You can also play versions of Sokoban by Thinking Rabbit, and Fortress by SSI/Victor, amongst others.
+
+![JPG](/images/posts/emoji-history-sharp-pa-8500-1988.jpg "Sharp PA-8500 (1988)")
 
 Thanks to a collector, [Akuji](https://www.reddit.com/r/OldHandhelds/comments/sr51ze/may_i_present_you_the_whole_family_of_sharp/), I was able to confirm that the Japanese PA-8500 device, released in 1988, contains the very similar emoji to those found on my PI-4000 and on the WD-A521.
 
