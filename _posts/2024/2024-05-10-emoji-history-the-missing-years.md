@@ -61,7 +61,7 @@ style: |
 
 ---
 
-During my research into vintage Japanese drawing software, I came across some devices that had built in sketch or handwritten memo functions. I bought a couple of them to see if they did anything cool or interesting. These sorts of devices are pre-internet, so there's no much about them online, and they can't be emulated, so the only way to find out what they do is to get first han experience by reading the manual or, better, using one yourself. It's difficult to find these devices in working condition, as most of them have screen polarisers that have gone bad over time, but if you're lucky you can find one.
+During [my research into vintage Japanese drawing software](/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/), I came across some devices that had built in sketch or handwritten memo functions. I bought a couple of them to see if they did anything cool or interesting. These sorts of devices are pre-internet, so there's no much about them online, and they can't be emulated, so the only way to find out what they do is to get first han experience by reading the manual or, better, using one yourself. It's difficult to find these devices in working condition, as most of them have screen polarisers that have gone bad over time, but if you're lucky you can find one.
 
 ----
 
@@ -69,17 +69,17 @@ During my research into vintage Japanese drawing software, I came across some de
 
 One such device I bought was the Sharp PI-4000, from 1994. This is a pocket computer that rolled out of Sharp's involvement in the development and manufacturing of Apple's Newton MessagePad. In 1993 Sharp did their own licenced version of the Newton MessagePad, the Expert Pad PI-7000, but just like Apple's device it wasn't as successful as they'd hoped. But before that, in 1992, they'd made a device called the PV-F1 which was the first touchscreen-only PDA. After the Expert Pad failure, Sharp took another attempt at the concept and came up with the PI-3000 in 1993. This solved all the problems with the PV-F1, most notably size and cost. The device I have, the PI-4000, was released a year later and features higher memory capacity. The PI-3000/4000 devices could transfer data via infrared, connect to a modem to send faxes, and by the PI-5000 in 1995 could connect to cell phones to send emails. They all use a simplified but still very complicated version of the multi-window operating system that had been developed for the PV-F1.
 
-![](/images/posts/emoji-history-sharp-pi-3000.jpg "Sharp Zaurus PI-3000 “Personal Information Tool” (1993)")
+![](https://cdn.gingerbeardman.com/images/posts/emoji-history-sharp-pi-3000.jpg "Sharp Zaurus PI-3000 “Personal Information Tool” (1993)")
 {:.tofigure}
 
 So I was trying out the PI-4000, the memo function is pretty cool allowing you to draw in different dither shades and pen widths, and use stamps to add symbols to your memo. These are mostly map-related things like road and rail junctions, buildings, and train stations. Pretty cool. Then I tried typing some messages on the device and as I explored the myriad of keyboard inout mechanisms I came across something rather familiar (sorry about the awful photo—it's the best I could do, honest):
 
-![PNG](/images/posts/emoji-history-sharp-pi-4000-emoji-picker.jpg "Look! It's an emoji picker on the Sharp PI-4000 (1994)")
+![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-sharp-pi-4000-emoji-picker.jpg "Look! It's an emoji picker on the Sharp PI-4000 (1994)")
 {:.tofigure}
 
 At this point, I couldn't quite believe what I was seeing because I was under the impression that the first emoji were created by an anonymous designer at [SoftBank in 1997](https://emojipedia.org/softbank/1997), and the most famous emoji were created by Shigetaka Kurita at [NTT DoCoMo in 1999](https://emojipedia.org/docomo/1999). But the Sharp PI-4000 in my hands was released in 1994, and it was chock full of recognisable emoji. And down the rabbit hole I fell. 🕳️🐇
 
-![PNG](/images/posts/emoji-history-sharp-pi-4000-emoji-table-16-16.png#pi4000 "Emoji present on the Sharp PI-4000 (1994)")
+![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-sharp-pi-4000-emoji-table-16-16.png#pi4000 "Emoji present on the Sharp PI-4000 (1994)")
 {:.tofigure}
 
 ----
@@ -90,7 +90,7 @@ A little more reading, and a tip from my friend [@chamekan](https://twitter.com/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8_w8elG3w0Y?start=503" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![PNG](/images/posts/emoji-history-nec-pi-et1-emoji-table-20-20.png#piet1 "Emoji present on the NEC PI-ET1 (1991)")
+![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-nec-pi-et1-emoji-table-20-20.png#piet1 "Emoji present on the NEC PI-ET1 (1991)")
 {:.tofigure}
 
 ----
@@ -109,7 +109,7 @@ As an aside, it's interesting to understand how emoji were typed on pagers. They
 
 You might wonder how emoji were entered on beepers which had limited input methods, and that's a fascinating thing in and of itself: they were entered as numeric codes:
 
-![JPG](/images/posts/emoji-history-pocket-bell-pager.jpg "Pager cheat sheet, photo by 山下メロ <a href=https://ima.goo.ne.jp/column/article/6981.html>https://ima.goo.ne.jp/column/article/6981.html</a>")
+![JPG](https://cdn.gingerbeardman.com/images/posts/emoji-history-pocket-bell-pager.jpg "Pager cheat sheet, photo by 山下メロ <a href=https://ima.goo.ne.jp/column/article/6981.html>https://ima.goo.ne.jp/column/article/6981.html</a>")
 {:.tofigure}
 
 The numeric code: `21 91 15 24 12 23 78`  
@@ -124,7 +124,7 @@ Wild. Typing text this way must have felt like programming machine code directly
 
 I was chatting to my friend [Louie Mantia](https://lmnt.me/blog/), who has designed many emoji in his career, discussing the earlier emoji I had found in my 1994 device. Louie asked me to confirm that I could type emoji inline with text, giving me the example `W😲W`, which was his criteria for the symbols to qualify emoji. If I couldn't do that, he suggested we could only consider the symbols as icons.
 
-![PNG](/images/posts/emoji-history-sharp-pi-4000-emoji-wow.jpg "Passing the Emoji test on the Sharp PI-4000")
+![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-sharp-pi-4000-emoji-wow.jpg "Passing the Emoji test on the Sharp PI-4000")
 {:.tofigure}
 
 So if I can type them inline amongst text on my device from 1994 that was capable of connecting to other devices and sending messages, then surely they should be considered the first emoji? Why do we, currently, only count emoji as emoji if they're on a mobile phone? But when? Were they created in 1994 for the PI-4000, or 1993 for the PI-3000, or earlier for another device?
@@ -135,11 +135,11 @@ So if I can type them inline amongst text on my device from 1994 that was capabl
 
 So I kept looking. I was aware of another line of Sharp devices, electronic organisers, known as the Bware range in Japan and Wizard in the USA. These were pretty popular at the time, so much so that the USA device even [got it's own episode of Seinfeld](https://en.wikipedia.org/wiki/The_Wizard_(Seinfeld)) in 1998. I'd come back into contact with these devices just last year as they had the interesting capability of being able to [play video games](https://forums.insertcredit.com/t/stay-sharp-with-sc-denshi-system-techo-games/2326) stored on application "IC" cards. You can play a version of Tetris by BPS that is quite different to the Game Boy version, and both were released in 1989. You can also play versions of Sokoban by Thinking Rabbit, and Fortress by SSI/Victor, amongst others.
 
-![JPG](/images/posts/emoji-history-sharp-pa-8500-1988.jpg "Sharp PA-8500 (1988)")
+![JPG](https://cdn.gingerbeardman.com/images/posts/emoji-history-sharp-pa-8500-1988.jpg "Sharp PA-8500 (1988)")
 
 Thanks to a collector, [Akuji](https://www.reddit.com/r/OldHandhelds/comments/sr51ze/may_i_present_you_the_whole_family_of_sharp/), I was able to confirm that the Japanese PA-8500 device, released in 1988, contains the very similar emoji to those found on my PI-4000 and on the WD-A521.
 
-![PNG](/images/posts/emoji-history-sharp-pa-8500-emoji-table-20-20.png#pa8500 "Emoji present on Sharp PA-8500 (1988)")
+![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-sharp-pa-8500-emoji-table-20-20.png#pa8500 "Emoji present on Sharp PA-8500 (1988)")
 {:.tofigure}
 
 ----
@@ -158,7 +158,7 @@ The characters ○金 and ○ビ were invented by the author [Kazuhiro Watanabe]
 
 Once you accept that emoji existed in the 1980s, more things come to light. The Ishii Award was a typeface design contest organised by that particular community of designers. By 1984 it was in its 8th year. Yutaka Satoh of Type-Labo proposed a typeface consisting of emoji. Because they weren't on screen they were created by arranging dots in various shapes, but they are recognisably emoji. Coincidentally, I used a hybrid of this sort of approach [when I added emoji to my game YOYOZO](/2023/11/26/easter-egg-emoji-converting-pixels-into-particles/) in September 2023: I plot the emoji as points but define them on a pixel grid.
 
-![JPG](/images/posts/emoji-history-type-labo-typeface-1984.jpg "Yakumono typeface, created by Yutaka Satoh (TYPE-LABO) in 1984")
+![JPG](https://cdn.gingerbeardman.com/images/posts/emoji-history-type-labo-typeface-1984.jpg "Yakumono typeface, created by Yutaka Satoh (TYPE-LABO) in 1984")
 
 In Matt Alt's book ["The Secret Lives of Emoji: How Emoticons Conquered the World"](https://www.goodreads.com/book/show/30631850-the-secret-lives-of-emoji), there is a brief mention of ASCII emoticons on the Japanese internet (JUNET) in 1984, and then it fast forwards to 1995 to begin talking about the Pager, missing a decade of emoji usage in the process.
 
@@ -176,7 +176,7 @@ We can see [emoji in the character sets of Japanese home computers](http://kanji
 
 ["Full Moon With Face", also known as BA-90](https://ja.wikipedia.org/wiki/BA-90) which was listed in a book of typesetting symbols, published by Shaken in 1965. A [smiling moon is still present in the emoji set today](https://emojipedia.org/full-moon-face).
 
-![](/images/posts/emoji-history-ba-90-full-moon-with-face.png#ba90 "image courtesy of <a href=https://commons.m.wikimedia.org/wiki/File:BA-90.png>Wikimedia</a>")
+![](https://cdn.gingerbeardman.com/images/posts/emoji-history-ba-90-full-moon-with-face.png#ba90 "image courtesy of <a href=https://commons.m.wikimedia.org/wiki/File:BA-90.png>Wikimedia</a>")
 {:.tofigure}
 
 ----
@@ -185,7 +185,7 @@ We can see [emoji in the character sets of Japanese home computers](http://kanji
 
 [CO-59 is a character set created in 1959](https://ja.wikipedia.org/wiki/CO-59) for exchange of data between Japanese newspapers. In it is included a symbol of a baseball, which again is [still present in emoji](https://emojipedia.org/baseball) ⚾️ and [at Unicode codepoint U+26BE](https://www.fileformat.info/info/unicode/char/26be/index.htm) ⚾︎ today.
 
-![](/images/posts/emoji-history-co-59-baseball.png#ba90 "image courtesy of <a href=http://etlcdb.db.aist.go.jp/etlcdb/>ETL character database</a>")
+![](https://cdn.gingerbeardman.com/images/posts/emoji-history-co-59-baseball.png#ba90 "image courtesy of <a href=http://etlcdb.db.aist.go.jp/etlcdb/>ETL character database</a>")
 {:.tofigure}
 
 ----
