@@ -128,7 +128,7 @@ I was chatting to my friend [Louie Mantia](https://lmnt.me/blog/), who has desig
 ![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-sharp-pi-4000-emoji-wow.jpg "Passing the Emoji test on the Sharp PI-4000")
 {:.tofigure}
 
-So if I can type them inline amongst text on my device from 1994 that was capable of connecting to other devices and sending messages, then surely they should be considered the first emoji? Why do we, currently, only count emoji as emoji if they're on a mobile phone? But when? Were they created in 1994 for the PI-4000, or 1993 for the PI-3000, or earlier for another device?
+So if I can type them inline amongst text on my device from 1994 that was capable of connecting to other devices and sending messages, then surely they should be considered the first emoji? Why do we, currently, only count emoji as emoji if they're on a mobile phone? I'm also wondering when these emoji might have been designed. Were they created in 1994 for the PI-4000, in 1993 for the PI-3000, or earlier for another device?
 
 ----
 
