@@ -156,7 +156,9 @@ The characters ○金 and ○ビ were invented by the author [Kazuhiro Watanabe]
 
 ## 1984
 
-Once you accept that emoji existed in the 1980s, more things come to light. The Ishii Award 「石井賞創作タイプフェイスコンテスト」 was a [typeface design contest organised by that particular community of designers since 1970](https://news.mynavi.jp/article/font-history-19/). By 1984 it was in its 8th year. Yutaka Satoh of Type-Labo proposed a typeface consisting of emoji. Because they weren't on screen they were created by arranging dots in various shapes, but they are recognisably emoji. Coincidentally, I used a hybrid of this sort of approach [when I added emoji to my game YOYOZO](/2023/11/26/easter-egg-emoji-converting-pixels-into-particles/) in September 2023: I plot the emoji as points but define them on a pixel grid.
+Once you accept that emoji existed in the 1980s, more things come to light. The Ishii Award 「石井賞創作タイプフェイスコンテスト」 was a [typeface design contest organised by that particular community of designers since 1970](https://news.mynavi.jp/article/font-history-19/). By 1984 it was in its 8th year. Yutaka Satoh of Type-Labo proposed a typeface consisting of emoji. Because they weren't on screen they were created by arranging dots in various shapes, but they are recognisably emoji.
+
+> Coincidentally, I used a hybrid of this sort of approach [when I added emoji to my game YOYOZO](/2023/11/26/easter-egg-emoji-converting-pixels-into-particles/) in September 2023: I plot the emoji as points but define them on a pixel grid.
 
 ![JPG](https://cdn.gingerbeardman.com/images/posts/emoji-history-type-labo-typeface-1984.jpg "Yakumono typeface (partial/proposed), created by Yutaka Satoh (TYPE-LABO) in 1984")
 {:.tofigure}
