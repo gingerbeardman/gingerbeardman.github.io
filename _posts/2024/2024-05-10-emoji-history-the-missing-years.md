@@ -210,7 +210,9 @@ I was interested in how the emoji that I have redrawn compared to the 1997 SoftB
 
 ## Conclusion
 
-So what does this all mean? I'd say mostly that the history emoji isn't as clean cut as you might have thought. You can decide for yourself on what you consider to be the first emoji. It depends on our own personal definition, so there is no right or wrong answer. 😎
+So what does this all mean? I'd say mostly that the history emoji isn't as clean cut as you might have thought. You can decide for yourself on what you consider to be the first emoji. It depends on our own personal definition, so there is no right or wrong answer. 😎 
+
+Personally, I define the start date of emoji as the point in time when sets of these symbols first appeared for reuse. I don't think the timeline should start at mobile phones, as this feels like a somewhat arbritrary decision that dismisses a lot of history. It's like saying music only began to exist from the moment it could be recorded. 🤔
 
 As to whether the timeline of emoji history will be rewritten with this knowledge, it's difficult to say. Much of this falls in the grey area of happening around the time the internet was taking hold, plus most things about the origin of emoji are in Japanese language, so there are unlikely to be sources Wikipedia would consider verifiable enough. The best we could do is quote the pages of the manuals for devices, and for the rest hope that there's some record in Japanese literature that could be cited.
 
