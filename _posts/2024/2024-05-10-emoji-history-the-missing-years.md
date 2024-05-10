@@ -104,13 +104,11 @@ By now I was in contact with Keith at [Emojipedia](https://emojipedia.org), who 
 
 Perhaps there are other word processors from around that time that also contain emoji? I understand from my friend [Izumi Okano](https://twitter.com/haeckel) that Japanese software developer Enzan-Hoshigumi, [most famous for their Macintosh software and clipart](/2021/12/16/tomoya-ikeda-macintosh-artist/), had created pictograms for one of the Canoword word processors around 1986. So at this point I'm thinking, why would the emoji on a word processor be ignored on the timeline of emoji history? Was there anything else being ignored?
 
-Before cell phones became prevalent there were pagers, or beepers, in Japan these were known as Pocket Bell. Initially they would only beep and show a number, and users would use "beeper slang" to form words by using numbers whose pronunciation was similar to words and syllables. Necessity is the mother of invention! Eventually pagers would be able to send and receive text. It was perhaps only natural that emoji find a home on these devices, with the most notable being the heart ❤️ emoji. But the date of this transition is 1995, which is earlier than the SoftBank emoji from 1997 but later than my Sharp PI-4000 device.
+Before cell phones became prevalent there were pagers, or beepers, in Japan these were known as Pocket Bell. Initially they would only beep and show a number, and [people would use "beeper slang"](https://twitter.com/s7ephenwithaph/status/1785939813432254950) to form words by using numbers whose pronunciation was similar to words and syllables. Necessity is the mother of invention! Eventually pagers would be able to send and receive text. It was perhaps only natural that emoji find a home on these devices, with the most notable being the heart ❤️ emoji. But the date of this transition is 1995, which is earlier than the SoftBank emoji from 1997 but later than my Sharp PI-4000 device.
 
 ## A note about beepers
 
 As an aside, it's interesting to understand how emoji were typed on pagers/beepers. They weren't selected using a picker, which would have required cycling through a huge range of characters, but rather typed in numeric digits which narrows the cycling down to far less characters.
-
-You might wonder how emoji were entered on beepers which had limited input methods, and that's a fascinating thing in and of itself: they were entered as numeric codes:
 
 ![JPG](https://cdn.gingerbeardman.com/images/posts/emoji-history-pocket-bell-pager.jpg "Pager cheat sheet, photo by 山下メロ <a href=https://ima.goo.ne.jp/column/article/6981.html>https://ima.goo.ne.jp/column/article/6981.html</a>")
 {:.tofigure}
@@ -119,7 +117,7 @@ You might wonder how emoji were entered on beepers which had limited input metho
 > ...would map to: `カラオケイク？`  
 > ...which means: `KARAOKE?`
 
-Wild. Typing text this way must have felt like programming machine code directly in hexadecimal! [I've also been informed](https://twitter.com/s7ephenwithaph/status/1785939813432254950) that people would use "beeper slang" where numbers that sound like words would be used.
+Wild. Typing text this way must have felt like programming machine code directly in hexadecimal!
 
 ----
 
