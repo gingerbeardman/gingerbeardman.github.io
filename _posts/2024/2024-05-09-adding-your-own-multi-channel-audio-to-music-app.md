@@ -2,14 +2,19 @@
 layout: post
 title: "Adding your own multi-channel audio to Music app"
 date: '2024-05-09T21:19+01:00'
-last_modified_at: '2024-05-10T13:44+01:00'
+last_modified_at: '2024-05-10T14:09+01:00'
 tags:
 - music
 - hack
 nouns:
 - Björk
+- Debut
+- Post
+- Homogenic
+- Vespertine
 - Dolby Atmos
 - DVD-Audio
+- DVD-Video
 - Dolby Digital
 - DTS 5.1
 - DTS
@@ -32,12 +37,22 @@ I'm really enjoying Dolby Atmos, "spatial audio", or "surround sound" as we used
 
 This blog post lists the three main steps needed to add your own multi-channel audio to Music.app (you might know it by its old name: iTunes) and have them be accessible across all of your devices thanks to Apple Music's Cloud Library (you might know it by its old name: iCloud Music Library).
 
-## DVD-Audio
+----
 
-The albums I have were released on DVD and contain multi-channel audio in both DTS and Dolby Digital. We can take the `VIDEO_TS` folder, decrypt and convert to an MKV for easier handling in the following steps. MKV is just a container, so the audio is passed through untouched, so there's no lossy conversion at this point. I used [MakeMKV](https://www.makemkv.com) for this task.
+## DVD Video
+
+Three albums I have were released on DVD and contain multi-channel audio in both DTS and Dolby Digital as DVD-Video, these are Debut, Post, and Homogenic. We can take the `VIDEO_TS` folder, decrypt and convert to an MKV for easier handling in the following steps. MKV is just a container, so the audio is passed through untouched, so there's no lossy conversion at this point. I used [MakeMKV](https://www.makemkv.com).
 
 - Result: many multi-channel MKV files
 - Required: the MKV file that contains DTS 5.1 audio (in my case it was the largest one)
+
+## DVD-Audio
+
+The copy of Vespertine I have is DVD-Audio which requires a slightly different approach. I used [this excellent guide](https://acurazine.com/forums/3g-rdx-audio-bluetooth-electronics-navigation-455/dvd-5-1-flac-step-step-971819/) to extract the multi-channel audio files using [DVD-Audio Explorer](https://www.videohelp.com/download/DVDAExplorer2008.07.21.zip), which is a Windows app but I was able to run it on my Mac quite easily using the [Whisky](https://getwhisky.app) app.
+
+- Result: many multi-channel WAV files
+
+----
 
 ## Aside: Cloud Library
 
@@ -46,6 +61,8 @@ Music.app (formerly iTunes) doesn't really go out of its way to support multi-ch
 Thanks to [a post on the QuadrophonicQuad forum](https://www.quadraphonicquad.com/forums/threads/ripping-in-surround-for-apple-tv.33931/post-699285) we know that we need to limit the bitrate to 256kb/s for it to be uploaded unmodified to our Cloud Library and sync to all our devices.
 
 You might think a multi-channel audio file with a total bitrate this low is a waste of time, and for home listening you'd be quite right. But for portable listening I think it's fine. My reasoning is that because the channels are encoded individually they're much less busy than a stereo mix so they don't need as much bitrate to reach good enough quality as a stereo mix does. When I'm out walking I'd quite like the spatial/surround effects and am not too concerned about having the most high fidelity source. It's a bit like listening to a Walkman versus a home hi-fi system. Don't knock it until you've tried it! YMMV.
+
+----
 
 ## ffmpeg
 
@@ -80,6 +97,8 @@ Add the final files to Music.app on your desktop. At this point you can add artw
 When you're done make sure to choose *File > Library > Update Cloud Library*. After they finish uploading, open the Music app on your iPhone and you'll see the multi-channel files ready to play.
 
 These multi-channel files work wonderfully with AirPods Pro spatial audio head tracking!
+
+----
 
 ![WEBP](https://cdn.gingerbeardman.com/images/posts/music-multi-channel.heic "My own multi-channel audio in Music app on my iPhone")
 {:.tofigure}
