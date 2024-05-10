@@ -218,7 +218,7 @@ Personally, I define the start date of emoji as the point in time when sets of t
 
 As to whether the timeline of emoji history will be rewritten with this knowledge, it's difficult to say. Much of this falls in the grey area of happening around the time the internet was taking hold, plus most things about the origin of emoji are in Japanese language, so there are unlikely to be sources Wikipedia would consider verifiable enough. The best we could do is quote the pages of the manuals for devices, and for the rest hope that there's some record in Japanese literature that could be cited.
 
-I won't be running the Wikipedia editing gauntlet, but if you want let me know how it goes! 🧨
+I won't be running the Wikipedia editing gauntlet, but if you do please let me know how it goes! 🧨
 
 ---- 
 
