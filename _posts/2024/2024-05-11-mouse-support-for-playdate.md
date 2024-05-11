@@ -70,7 +70,7 @@ Developers can use it to speed up and simplify development, add finer control to
 1. Make sure you're running [Rorschach](https://gingerbeardman.itch.io/rorschach) or [Mouse Demo](https://github.com/gingerbeardman/playdate-mouse-support/releases/tag/240511) on your device
 1. Attach your Playdate over USB and unlock the device
 1. Install [Hammerspoon](https://www.hammerspoon.org/) automation tool for macOS
-1. Install `mouse_to_playdate.lua` (instructions in the file)
+1. Install [`mouse_to_playdate.lua`](https://github.com/gingerbeardman/playdate-mouse-support/blob/main/mouse/mouse_to_playdate.lua) (instructions in the file)
 1. Press the hotkey (defaults to `F13`)
 1. The guide window appears so you can see what part of your screen corresponds to Playdate
 1. Move your mouse pointer and watch the drawing appear!
