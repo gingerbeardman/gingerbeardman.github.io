@@ -222,4 +222,4 @@ I won't be running the Wikipedia editing gauntlet, but if you do please let me k
 
 ## Terms of use
 
-> I've redrawn most of the emoji in the new character sets mentioned on this page, which was a lot of work and took me many days. You're free to use the emoji images, as long as you include a credit @gingerbeardman and link to this page. Thank you!
+> I painstakingly recreated the emoji sets on this page, pixel by pixel, over many days of hard work. Feel free to utilize the emoji images, just remember to credit @gingerbeardman and provide a link to this page. Appreciate it!
