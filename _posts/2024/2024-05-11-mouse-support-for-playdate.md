@@ -47,7 +47,7 @@ msg -19,84
 msg mouse off
 ```
 
-I use those to trigger on screen notificatins, reset the game state, and move the cursor.
+I use those to trigger on screen notifications, reset the game state, and move the cursor.
 
 Note: use of serial means you can’t have the Playdate Simulator or Mirror open when trying this. If you invoke the script and it can’t open the serial connection for any reason it will sound an error beep.
 
