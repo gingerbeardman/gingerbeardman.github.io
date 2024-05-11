@@ -75,7 +75,7 @@ Developers can use it to speed up and simplify development, add finer control to
 1. The guide window (virtual trackpad?) appears so you can gauge Playdate screen size
 1. Move your mouse pointer and watch the drawing appear!
 
-I’ve tested this on a MBP running Sonoma with a mouse and a trackpad. There’s a little lag, but it’s not too bad at all. The video has more lag as I was capturing through QuickTime and my phone camera. Anyway, it’s super cool!
+I’ve tested this on a MBP running Sonoma with a mouse and a trackpad. There’s very little lag, it’s really quite usable. The video has substantial lag as I was capturing through QuickTime and my phone camera. Anyway, it’s super cool!
 
 ----
 
