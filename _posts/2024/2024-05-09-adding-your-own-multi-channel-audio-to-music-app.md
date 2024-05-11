@@ -60,11 +60,13 @@ Music.app (formerly iTunes) doesn't really go out of its way to support multi-ch
 
 Thanks to [a post on the QuadrophonicQuad forum](https://www.quadraphonicquad.com/forums/threads/ripping-in-surround-for-apple-tv.33931/post-699285) we know that we need to limit the bitrate to 256kb/s for it to be uploaded unmodified to our Cloud Library and sync to all our devices.
 
-You might think a multi-channel audio file with a total bitrate this low is a waste of time, and for home listening you'd be quite right. But for portable listening I think it's fine. My reasoning is that because the channels are encoded individually they're much less busy than a stereo mix so they don't need as much bitrate to reach good enough quality as a stereo mix does. When I'm out walking I'd quite like the spatial/surround effects and am not too concerned about having the most high fidelity source. It's a bit like listening to a Walkman versus a home hi-fi system. Don't knock it until you've tried it! YMMV.
+## Quality
+
+You might think a multi-channel audio file with a total bitrate this low is a waste of time, and for home listening you'd be quite right. But for portable listening I think it's fine. My reasoning is that because the channels are encoded individually they're much less busy than a stereo mix so they don't need as much bitrate to reach good enough quality as a stereo mix does. Plus we're also reducing other aspects of the sound that reduces the bitrate requirement. When I'm out walking I'd quite like the spatial/surround effects and am not too concerned about having the most high fidelity source. It's a bit like listening to a Walkman versus a home hi-fi system. Don't knock it until you've tried it! YMMV.
 
 ----
 
-## ffmpeg
+## ffmpeg (single file)
 
 There are many GUI tools that you might use to do this but I've chose to use ffmpeg on the command line. Feel free to adapt these settings to your tool of choice. The most important property is the 256kb/s bitrate, as mentioned earlier.
 
@@ -80,9 +82,23 @@ Those options:
 - `-ar 48000` = 48KHz sample rate
 - `D1_t01.m4a` = output file
 
-Note: I don't know how to split the DVD-Audio stream into tracks that we can encode individually, so we're encoding the entire album as a single file.
-
 - Result: multi-channel M4A file
+
+## ffmpeg (multiple files)
+
+We can split the single file into multiple, though I'm not sure this is advisable because it breaks the DTS/etc stream, but hey we're already knee deep in hacking so why stop now? Thanks to [@tomf](https://tildes.net/~tech/1g7n/adding_your_own_multi_channel_audio_to_music_app#comment-cq43) for this incantation.
+
+`mkvmerge -o out.mkv --split chapters:all D1_t01.mkv`
+
+- Result: many multi-channel MKV files
+
+Then we would process all those files:
+
+`for n in out*.mkv; do ffmpeg -i "$n" -vn -c:a aac_at -b:a 256k -sample_fmt s16 -ar 48000 "$n.m4a"; done`
+
+- Result: many multi-channel M4A files
+
+----
 
 ## Chapters
 

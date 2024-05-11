@@ -22,7 +22,7 @@ nouns:
 - Sidecar
 featured: false
 pinned: false
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1789247900540616834
 
 ---
 
