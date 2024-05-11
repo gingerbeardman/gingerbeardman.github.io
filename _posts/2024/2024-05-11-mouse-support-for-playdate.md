@@ -72,10 +72,10 @@ Developers can use it to speed up and simplify development, add finer control to
 1. Install [Hammerspoon](https://www.hammerspoon.org/) automation tool for macOS
 1. Install [`mouse_to_playdate.lua`](https://github.com/gingerbeardman/playdate-mouse-support/blob/main/mouse/mouse_to_playdate.lua) (instructions in the file)
 1. Press the hotkey (defaults to `F13`)
-1. The guide window appears so you can see what part of your screen corresponds to Playdate
+1. The guide window (virtual trackpad?) appears so you can gauge Playdate screen size
 1. Move your mouse pointer and watch the drawing appear!
 
-I’ve tested this on a MBP running Sonoma with a mouse and a trackpad. There’s a little lag, but it’s not too bad at all. Plus, it’s super cool!
+I’ve tested this on a MBP running Sonoma with a mouse and a trackpad. There’s a little lag, but it’s not too bad at all. The video has more lag as I was capturing through QuickTime and my phone camera. Anyway, it’s super cool!
 
 ----
 
