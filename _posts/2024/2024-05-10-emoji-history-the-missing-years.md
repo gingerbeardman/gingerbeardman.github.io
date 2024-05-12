@@ -2,7 +2,7 @@
 layout: post
 title: "Emoji history: the missing years"
 date: '2024-05-10T21:00+01:00'
-last_modified_at: '2024-05-12T17:06+01:00'
+last_modified_at: '2024-05-12T17:31+01:00'
 tags:
 - japanese
 - emoji
@@ -198,7 +198,7 @@ We can see [emoji in the character sets of Japanese home computers](http://kanji
 
 I was interested in how the emoji that I have redrawn compared to the 1997 SoftBank and 1999 DoCoMo sets, and an early Pocket Bell, so here's a little table.
 
-||Sharp<br>PA-8500|NEC<br>PI-ET1|Sharp<br>PI-4000|Pocket Bell<br>R-FAHC|SoftBank|DoCoMo|
+||Sharp<br>PA-8500|NEC<br>PI-ET1|Sharp<br>PI-4000|Pocket Bell<br>R-FAHC|SoftBank|NTT<br>DoCoMo|
 |----|-----|----|-----|------|----|--|
 |Year|1988 |1991|1994 |1995|1997|1999|
 |Quantity (approx)|100|130 |170|7 |90|176|
@@ -222,4 +222,4 @@ I won't be running the Wikipedia editing gauntlet, but if you do please let me k
 
 ## Terms of use
 
-> I painstakingly recreated the emoji sets on this page, pixel by pixel, over many days of hard work. Feel free to utilize the emoji images, just remember to credit @gingerbeardman and provide a link to this page. Appreciate it!
+> I painstakingly recreated the emoji sets on this page, pixel by pixel, over many days of hard work. I even went so far as [adding a new tool to the pixel art app I use](/2023/05/10/piskel-for-playdate/), so as to make the task of redrawing hundreds of emoji a little less daunting. Feel free to utilize the emoji images, just remember to credit @gingerbeardman and include a link to this page. Appreciate it!
