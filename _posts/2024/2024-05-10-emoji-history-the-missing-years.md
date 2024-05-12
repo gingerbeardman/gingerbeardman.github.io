@@ -172,7 +172,7 @@ In the [Yakumono typeface, created by Yutaka Satoh](https://www.type-labo.jp/Ohb
 
 ## 1979
 
-We can see [emoji in the character sets of Japanese home computers](http://kanji.zinbun.kyoto-u.ac.jp/~yasuoka/JUGYO/2009-12-21.pdf) such as the Sharp MZ-80K and NEC PC-8001. I won't include them here but you can click the above link to see some in a PDF. 💾
+We can see [emoji in the character sets of Japanese home computers](http://kanji.zinbun.kyoto-u.ac.jp/~yasuoka/JUGYO/2009-12-21.pdf) such as the Sharp MZ-80K, which included a UFO, smiley faces, stick figures, car, snake, and more. I won't include them here but you can click the above link to see some in a PDF. 💾
 
 ----
 
