@@ -2,7 +2,7 @@
 layout: post
 title: "Emoji history: the missing years"
 date: '2024-05-10T21:00+01:00'
-last_modified_at: '2024-05-10T23:51+01:00'
+last_modified_at: '2024-05-12T16:43+01:00'
 tags:
 - japanese
 - emoji
@@ -151,7 +151,7 @@ At this point we've wiped almost a decade off the creation date of emoji, but ca
 
 If we think about the PA line of devices, the PA-8500 was released in 1988, and it's predecessor the (emoji-less) PA-7000 was released in 1987. So maybe the emoji set was created around this time? We can get closer by looking at a couple of characters present in the emoji that give us [a clue to the date of creation](https://srad.jp/~yasuoka/journal/495877/). That is indeed the case with the Sharp PI-4000 and WD-A521.
 
-The characters ○金 and ○ビ were invented by the author [Kazuhiro Watanabe](https://ja.wikipedia.org/wiki/渡辺和博#○金・○ビ) in 1984 in his book [Kinkonkan](https://www.amazon.co.jp/dp/4072734365). These were quickly accepted into Japanese vocabulary, and they won a buzzword award at the time. And they are right there in the Sharp emoji, represented as characters enclosed in circles. They were in common use throughout Japan's bubble-era, 1986-1991. The words eventually fell out of fashion and are now considered obsolete. It's interesting to note that they are not featured in either the [1997 SoftBank](https://emojipedia.org/softbank/1997) or [1999 NTT DoCoMo](https://emojipedia.org/docomo/1999) emoji sets. 
+The characters [○金 and ○ビ](https://ja.wikipedia.org/wiki/渡辺和博#○金・○ビ) (meaning "rich" and "poor") were invented by the author [Kazuhiro Watanabe](https://ja.wikipedia.org/wiki/渡辺和博#○金・○ビ) in 1984 in his book [Kinkonkan](https://www.amazon.co.jp/dp/4072734365) which was later [made into a movie](https://www.nikkatsu.com/movie/26211.html). These were quickly accepted into Japanese vocabulary, and they won a buzzword award at the time. And they are right there in the Sharp emoji, represented as characters enclosed in circles. They were in common use throughout Japan's bubble-era, 1986-1991. The words eventually fell out of fashion and are now considered obsolete. It's interesting to note that they are not featured in either the [1997 SoftBank](https://emojipedia.org/softbank/1997) or [1999 NTT DoCoMo](https://emojipedia.org/docomo/1999) emoji sets. 
 
 ----
 
