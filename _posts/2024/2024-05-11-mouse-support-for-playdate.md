@@ -36,7 +36,7 @@ No doubt you have some questions? How are you doing this? What's the weather lik
 
 ## How?
 
-A custom [Hammerspoon](https://www.hammerspoon.org) script minitors mouse coordinates and sends them to the Playdate over serial connection. The game receives those messages through the recently added API `playdate.serialMessageReceived(message)`, parses them, and acts accordingly.
+A custom [Hammerspoon](https://www.hammerspoon.org) script monitors mouse coordinates and sends them to the Playdate over serial connection. The game receives those messages through the recently added API `playdate.serialMessageReceived(message)`, parses them, and acts accordingly.
 
 Currently the script sends messages such as:
 
