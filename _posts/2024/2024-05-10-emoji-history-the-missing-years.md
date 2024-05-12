@@ -2,7 +2,7 @@
 layout: post
 title: "Emoji history: the missing years"
 date: '2024-05-10T21:00+01:00'
-last_modified_at: '2024-05-12T17:57+01:00'
+last_modified_at: '2024-05-12T22:29+01:00'
 tags:
 - japanese
 - emoji
@@ -70,7 +70,7 @@ During [my research into vintage Japanese drawing software](/2023/10/21/list-of-
 
 ## 1994
 
-One such device I bought was the Sharp PI-4000, from 1994. This is a pocket computer that rolled out of Sharp's involvement in the development and manufacturing of Apple's Newton MessagePad. In 1993 Sharp did their own licenced version of the [Apple Newton MessagePad H1000](https://apple.fandom.com/wiki/MessagePad_H1000), the [Expert Pad PI-7000](https://apple.fandom.com/wiki/Sharp_Expert_Pad_PI-7000), but just like Apple's device it wasn't as successful as they'd hoped. But before that, in 1992, they'd made a device called the PV-F1 which was the first touchscreen-only PDA. After the Expert Pad failure, Sharp took another attempt at the concept and came up with the PI-3000 in 1993. This solved all the problems with the PV-F1, most notably size and cost. The device I have, the PI-4000, was released a year later and features higher memory capacity. The PI-3000/4000 devices could transfer data via infrared, connect to a modem to send faxes, and by the PI-5000 in 1995 could connect to cell phones to send emails. They all use a simplified—but still quite complicated—version of the multi-window operating system that had been developed for the PV-F1.
+One such device [I bought](https://twitter.com/gingerbeardman/status/1748017395585683751) was the Sharp PI-4000, from 1994. This is a pocket computer that rolled out of Sharp's involvement in the development and manufacturing of Apple's Newton MessagePad. In 1993 Sharp did their own licenced version of the [Apple Newton MessagePad H1000](https://apple.fandom.com/wiki/MessagePad_H1000), the [Expert Pad PI-7000](https://apple.fandom.com/wiki/Sharp_Expert_Pad_PI-7000), but just like Apple's device it wasn't as successful as they'd hoped. But before that, in 1992, they'd made a device called the PV-F1 which was the first touchscreen-only PDA. After the Expert Pad failure, Sharp took another attempt at the concept and came up with the PI-3000 in 1993. This solved all the problems with the PV-F1, most notably size and cost. The device I have, the PI-4000, was released a year later and features higher memory capacity. The PI-3000/4000 devices could transfer data via infrared, connect to a modem to send faxes, and by the PI-5000 in 1995 could connect to cell phones to send emails. They all use a simplified—but still quite complicated—version of the multi-window operating system that had been developed for the PV-F1.
 
 ![](https://cdn.gingerbeardman.com/images/posts/emoji-history-sharp-pi-3000.jpg "Sharp Zaurus PI-3000 “Personal Information Tool” (1993)")
 {:.tofigure}
