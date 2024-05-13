@@ -92,6 +92,8 @@ The process above should not introduce them, but I'm mentioning it as I was repe
 
 - Result: multi-channel M4A file (modified)
 
+----
+
 ## Final steps
 
 Add the final files to Music.app on your desktop. At this point you can add artwork and other meta data, such as tagging them as "multi-channel" or similar.
