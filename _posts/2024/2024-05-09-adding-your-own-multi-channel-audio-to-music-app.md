@@ -62,7 +62,7 @@ Thanks to [a post on the QuadrophonicQuad forum](https://www.quadraphonicquad.co
 
 ----
 
-## ffmpeg (single file)
+## ffmpeg
 
 There are many GUI tools that you might use to do this but I've chose to use ffmpeg on the command line. Feel free to adapt these settings to your tool of choice. The most important property is the 768kb/s bitrate, as mentioned earlier.
 
