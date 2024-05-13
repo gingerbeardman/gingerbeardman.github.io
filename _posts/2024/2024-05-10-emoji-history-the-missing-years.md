@@ -220,7 +220,7 @@ I won't be running the Wikipedia editing gauntlet, but if you do please let me k
 
 ---- 
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-piskel.png "I added a new tool to the Piskel app to make redrawing hundreds of emoji a little bit quicker")
+![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-piskel.png "I added a new tool to the Piskel app to make redrawing hundreds of emoji a little bit easier")
 {:.tofigure}
 
 ---- 
