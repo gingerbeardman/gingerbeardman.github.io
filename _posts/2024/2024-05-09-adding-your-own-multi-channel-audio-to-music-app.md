@@ -58,11 +58,7 @@ It'll take a minute or two for the files to be generated.
 
 Music.app (formerly iTunes) doesn't really go out of its way to support multi-channel audio users might add themselves. We won't be creating Dolby Atmos tracks, but rather we'll take advantage of a loop hole in Apple Music's Cloud Library feature.
 
-Thanks to [a post on the QuadrophonicQuad forum](https://www.quadraphonicquad.com/forums/threads/ripping-in-surround-for-apple-tv.33931/post-699285) we know that we need to limit the bitrate to 256kb/s for it to be uploaded unmodified to our Cloud Library and sync to all our devices. Well, it turns out that trick also works with 768kb/s bitrate files.
-
-## Quality
-
-768kb/s is comparable quality to how Apple encode Dolby Atmos released on Apple Music. That's good enough for me.
+Thanks to [a post on the QuadrophonicQuad forum](https://www.quadraphonicquad.com/forums/threads/ripping-in-surround-for-apple-tv.33931/post-699285) we know that we need to limit the bitrate to 256kb/s for it to be uploaded unmodified to our Cloud Library and sync to all our devices. Well, it turns out that trick also works with 768kb/s bitrate files, which is equivalent quality Dolby Atmos releases on Apple Music. That's good enough for me.
 
 ----
 
@@ -75,13 +71,13 @@ There are many GUI tools that you might use to do this but I've chose to use ffm
 Breaking down the command above:
 
 - `for n in *.flac; do` = loop through all *.flac files
-- `-i "$n"` = input using filename from for loop
+- `-i "$n"` = input, using filename from for loop
 - `-vn` = remove the video track
 - `-c:a aac_at` = use Apple's AAC encoder
 - `-b:a 768k` = target 768kb/s bitrate
 - `-sample_fmt s16` = 16-bit sample format
 - `-ar 48000` = 48KHz sample rate
-- `"$n.m4a"` = output using filename from for loop with .m4a added
+- `"$n.m4a"` = output, using filename from for loop, adding .m4a
 - `; done` = end for loop
 
 - Result: many multi-channel M4A files
