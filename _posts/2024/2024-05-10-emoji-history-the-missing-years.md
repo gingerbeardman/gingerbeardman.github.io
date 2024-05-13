@@ -2,7 +2,7 @@
 layout: post
 title: "Emoji history: the missing years"
 date: '2024-05-10T21:00+01:00'
-last_modified_at: '2024-05-12T22:29+01:00'
+last_modified_at: '2024-05-13T23:43+01:00'
 tags:
 - japanese
 - emoji
@@ -180,7 +180,7 @@ We can see [emoji in the character sets of Japanese home computers](http://kanji
 
 ["Full Moon With Face", also known as BA-90](https://ja.wikipedia.org/wiki/BA-90) which was listed in a book of typesetting symbols, published by Sha-ken in 1965. A [smiling moon is still present in the emoji set today](https://emojipedia.org/full-moon-face). 🌝
 
-![](https://cdn.gingerbeardman.com/images/posts/emoji-history-ba-90-full-moon-with-face.png#ba90 "image courtesy of <a href=https://commons.m.wikimedia.org/wiki/File:BA-90.png>Wikimedia</a>")
+![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-ba-90-full-moon-with-face.png#ba90 "image courtesy of <a href=https://commons.m.wikimedia.org/wiki/File:BA-90.png>Wikimedia</a>")
 {:.tofigure}
 
 ----
@@ -189,7 +189,7 @@ We can see [emoji in the character sets of Japanese home computers](http://kanji
 
 [CO-59 is a character set created in 1959](https://ja.wikipedia.org/wiki/CO-59) for exchange of data between Japanese newspapers. In it is included a symbol of a baseball, which again is [still present in emoji](https://emojipedia.org/baseball) ⚾️ and [at Unicode codepoint U+26BE](https://www.fileformat.info/info/unicode/char/26be/index.htm) ⚾︎ today.
 
-![](https://cdn.gingerbeardman.com/images/posts/emoji-history-co-59-baseball.png#ba90 "image courtesy of <a href=http://etlcdb.db.aist.go.jp/etlcdb/>ETL character database</a>")
+![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-co-59-baseball.png#ba90 "image courtesy of <a href=http://etlcdb.db.aist.go.jp/etlcdb/>ETL character database</a>")
 {:.tofigure}
 
 ----
@@ -217,6 +217,11 @@ Personally, I define the start date of emoji as the point in time when sets of t
 As to whether the timeline of emoji history will be rewritten with this knowledge, it's difficult to say. Much of this falls in the grey area of happening around the time the internet was taking hold, plus most things about the origin of emoji are in Japanese language, so there are unlikely to be sources Wikipedia would consider verifiable enough. The best we could do is quote the pages of the manuals for devices, and for the rest hope that there's some record in Japanese literature that could be cited.
 
 I won't be running the Wikipedia editing gauntlet, but if you do please let me know how it goes! 🧨
+
+---- 
+
+![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-piskel.png "I added a new tool to the Piskel app to make redrawing hundreds of emoji a little bit quicker")
+{:.tofigure}
 
 ---- 
 
