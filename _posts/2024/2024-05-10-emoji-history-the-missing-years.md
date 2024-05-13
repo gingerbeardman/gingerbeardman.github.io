@@ -87,13 +87,13 @@ At this point, I couldn't quite believe what I was seeing because I was under th
 
 ----
 
-## 1991
+## 1990
 
-A little more reading, and a tip from my friend [@chamekan](https://twitter.com/chame) on Twitter, unearthed the fact that the NEC PI-ET1 in 1991 also contained emoji. The device is literally the coolest thing you've ever seen. With system software written by video game developer Hudson Soft its character set features emoji that can be typed inline, and it also features a ["montage function" that allows you to create faces for each of your contacts](https://youtu.be/8_w8elG3w0Y?t=248) — 15 years later we'd see something similar in Mii on Nintendo Wii in 2006. The emoji on this device are a lot less well designed, in my humble opinion, than those on the Sharp devices.
+A little more reading, and a tip from my friend [@chamekan](https://twitter.com/chame) on Twitter, unearthed the fact that the NEC PI-ET1 in 1990 also contained emoji. The device is literally the coolest thing you've ever seen. With system software written by video game developer Hudson Soft its character set features emoji that can be typed inline, and it also features a ["montage function" that allows you to create faces for each of your contacts](https://youtu.be/8_w8elG3w0Y?t=248) — 15 years later we'd see something similar in Mii on Nintendo Wii in 2006. The emoji on this device are a lot less well designed, in my humble opinion, than those on the Sharp devices.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8_w8elG3w0Y?start=503" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-nec-pi-et1-emoji-table-20-20.png#piet1 "Emoji present on the NEC PI-ET1 (1991)")
+![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-nec-pi-et1-emoji-table-20-20.png#piet1 "Emoji present on the NEC PI-ET1 (1990)")
 {:.tofigure}
 
 ----
@@ -200,7 +200,7 @@ I was interested in how the emoji that I have redrawn compared to the 1997 SoftB
 
 ||Sharp<br>PA-8500|NEC<br>PI-ET1|Sharp<br>PI-4000|Pocket Bell<br>R-FAHC|SoftBank|NTT<br>DoCoMo|
 |----|-----|----|-----|------|----|--|
-|Year|1988 |1991|1994 |1995|1997|1999|
+|Year|1988 |1990|1994 |1995|1997|1999|
 |Quantity (approx)|100|130 |170|7 |90|176|
 |Resolution|16×16|16×16 |12×12|5×7 |12×12 |12×12|
 
