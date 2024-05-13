@@ -58,7 +58,7 @@ It'll take a minute or two for the files to be generated.
 
 Music.app (formerly iTunes) doesn't really go out of its way to support multi-channel audio users might add themselves. We won't be creating Dolby Atmos tracks, but rather we'll take advantage of a loop hole in Apple Music's Cloud Library feature.
 
-Thanks to [a post on the QuadrophonicQuad forum](https://www.quadraphonicquad.com/forums/threads/ripping-in-surround-for-apple-tv.33931/post-699285) we know that we need to limit the bitrate to 256kb/s for it to be uploaded unmodified to our Cloud Library and sync to all our devices. Well, it turns out that trick also works with 768kb/s bitrate files, which is equivalent quality Dolby Atmos releases on Apple Music. That's good enough for me.
+Thanks to [a post on the QuadrophonicQuad forum](https://www.quadraphonicquad.com/forums/threads/ripping-in-surround-for-apple-tv.33931/post-699285) we know that we need to limit the bitrate to 256kb/s for it to be uploaded unmodified to our Cloud Library and sync to all our devices. Well, it turns out that trick also works with 768kb/s bitrate files, which is the same bitrate as Dolby Atmos releases on Apple Music. That's good enough for me.
 
 ----
 
