@@ -41,7 +41,14 @@ This blog post lists the three main steps needed to add your own multi-channel a
 
 ## DVD Audio/Video
 
-Three albums I have were released on DVD and contain multi-channel audio in both DTS and Dolby Digital as DVD-Video, these are Debut, Post, and Homogenic. Vespertine is better mastered and was released as a disc that included DVD-Audio. Regardless, we can take the same approach for these two disc types: use DVD Audio Extractor (30-day trial is OK) to extract the tracks to FLAC files, sample rate same as input, all 6 channels, 24-bit.
+Three albums I have were released on DVD and contain multi-channel audio in both DTS and Dolby Digital as DVD-Video, these are Debut, Post, and Homogenic. Vespertine is better mastered and was released as a disc that included DVD-Audio. Regardless, we can take the same approach for these two disc types: use [DVD Audio Extractor](https://www.dvdae.com) (the 30-day trial is OK) to extract the tracks to FLAC files:
+
+Settings:
+- Sample rate: Same as input
+- Channels: All 6 Channels
+- Bits per sample: 24-bit
+
+It'll take a minute or two for the files to be generated.
 
 - Result: many multi-channel FLAC files
 
