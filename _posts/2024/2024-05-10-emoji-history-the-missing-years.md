@@ -64,7 +64,7 @@ style: |
 
 ---
 
-During [my research into vintage Japanese drawing software](/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/), I came across some devices that had built in sketch or handwritten memo functions. I bought a couple of them to see if they did anything cool or interesting. These sorts of devices are pre-internet, so there's no much about them online, and they can't be emulated, so the only way to find out what they do is to get first hand experience by reading the manual or, better, using one yourself. It's difficult to find these devices in working condition, as most of them have screen polarisers that have gone bad over time, but if you're lucky you can find one.
+During [my research into vintage Japanese drawing software](/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/), I came across some devices that had built in sketch or handwritten memo functions. I bought a couple of them to see if they did anything cool or interesting. These sorts of devices are pre-internet, so there's not much about them online, and they can't be emulated, so the only way to find out what they do is to get first hand experience by reading the manual or, better, using one yourself. It's difficult to find these devices in working condition, as most of them have screen polarisers that have gone bad over time, but if you're lucky you can find one.
 
 ----
 
