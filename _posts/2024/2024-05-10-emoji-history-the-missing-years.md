@@ -147,7 +147,7 @@ Thanks to a collector, [Akuji](https://www.reddit.com/r/OldHandhelds/comments/sr
 
 ## How old is an emoji?
 
-At this point we've wiped almost a decade off the creation date of emoji, but can we go further? Is there a way to date a set of emoji? 
+At this point we've wiped almost a decade off the creation date of emoji, but can we go further? Is there a way to date a set of emoji? In Japanese 絵文字 means emoji. 
 
 If we think about the PA line of devices, the PA-8500 was released in 1988, and it's predecessor the (emoji-less) PA-7000 was released in 1987. So maybe the emoji set was created around this time? We can get closer by looking at a couple of characters present in the emoji that give us [a clue to the date of creation](https://srad.jp/~yasuoka/journal/495877/). That is indeed the case with the Sharp PI-4000 and WD-A521.
 
