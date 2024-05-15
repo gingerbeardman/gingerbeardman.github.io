@@ -2,7 +2,7 @@
 layout: post
 title: "Emoji history: the missing years"
 date: '2024-05-10T21:00+01:00'
-last_modified_at: '2024-05-13T23:43+01:00'
+last_modified_at: '2024-05-15T12:26+01:00'
 tags:
 - japanese
 - emoji
@@ -25,6 +25,8 @@ nouns:
 - NEC
 - WD-A521
 - PI-ET1
+- Panasonic
+- FW-U1S50
 - SoftBank
 - NTT DoCoMo
 - Mii
@@ -50,16 +52,20 @@ pinned: false
 comments: https://twitter.com/gingerbeardman/status/1789027585713639563
 style: |
   img[src$='#pi4000'] {
-    width: 392px
+    width: 392px;
+    height: 962px;
   }
   img[src$='#pa8500'] {
-    width: 312px
+    width: 312px;
+    height: 1212px;
   }
   img[src$='#piet1'] {
-    width: 372px
+    width: 372px;
+    height: 1332px;
   }
   img[src$='#ba90'] {
-    width: 250px
+    width: 250px;
+    height: 250px;
   }
 
 ---
@@ -101,6 +107,8 @@ A little more reading, and a tip from my friend [@chamekan](https://twitter.com/
 ## A word about word processors
 
 By now I was in contact with Keith at [Emojipedia](https://emojipedia.org), who mentioned that he remembered a Sharp device with emoji, a word processor. I found one in the Sharp WD-A521, from November 1990, which [featured higher resolution versions of the emoji designs](http://kanji.zinbun.kyoto-u.ac.jp/~yasuoka/Emoji/SHARP-WD-A521p457-458.pdf) found on my Sharp PI-4000.
+
+There's also the Panasonic FW-U1S50 from 1990, [which contains 110 famiiar emoji](https://archive.org/details/panasonic-fw-u-1-s-50/Panasonic%20パーソナルワープロ%20FW-U1S50%20リファレンスマニュアル/page/n311/mode/1up) under a section called "illustrations", and also contains [another 99 "audio/visual" symbols](https://archive.org/details/panasonic-fw-u-1-s-50/Panasonic%20パーソナルワープロ%20FW-U1S50%20リファレンスマニュアル/page/n311/mode/1up) some of which coincide with modern emoji.
 
 Perhaps there are other word processors from around that time that also contain emoji? I understand from my friend [Izumi Okano](https://twitter.com/haeckel) that Japanese software developer Enzan-Hoshigumi, [most famous for their Macintosh software and clipart](/2021/12/16/tomoya-ikeda-macintosh-artist/), had created pictograms for one of the Canoword word processors around 1986. So at this point I'm thinking, why would the emoji on a word processor be ignored on the timeline of emoji history? Was there anything else being ignored?
 
@@ -189,7 +197,7 @@ We can see [emoji in the character sets of Japanese home computers](http://kanji
 
 [CO-59 is a character set created in 1959](https://ja.wikipedia.org/wiki/CO-59) for exchange of data between Japanese newspapers. In it is included a symbol of a baseball, which again is [still present in emoji](https://emojipedia.org/baseball) ⚾️ and [at Unicode codepoint U+26BE](https://www.fileformat.info/info/unicode/char/26be/index.htm) ⚾︎ today.
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-co-59-baseball.png#ba90 "image courtesy of <a href=http://etlcdb.db.aist.go.jp/etlcdb/>ETL character database</a>")
+![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-co-59-baseball.png "image courtesy of <a href=http://etlcdb.db.aist.go.jp/etlcdb/>ETL character database</a>")
 {:.tofigure}
 
 ----
