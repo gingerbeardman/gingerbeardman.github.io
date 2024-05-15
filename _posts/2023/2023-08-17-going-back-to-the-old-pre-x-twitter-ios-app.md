@@ -2,7 +2,7 @@
 layout: post
 title: Going back to the old (pre-X) Twitter iOS app
 date: '2023-08-17T19:39+01:00'
-last_modified_at: '2023-12-10T15:39+00:00'
+last_modified_at: '2024-05-15T01:13+01:00'
 tags:
 - twitter
 - hack
@@ -114,5 +114,8 @@ You’re done!
 
 **Will the old app stop working at some point?**
     Eventually, yes. Older versions lack support for modern Twitter features but that can be a desirable feature depending on your point of view. But let's enjoy the old experience for as long as we can.
+
+**Can I get help to do this?**
+    No, sorry. You need to do it yourself for various reasons. It will take less than 1 hour to read all the steps, then follow them one-by-one.
 
 Long live the bird!
