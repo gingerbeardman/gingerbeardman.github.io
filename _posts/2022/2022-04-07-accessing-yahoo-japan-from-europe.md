@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Accessing Yahoo! Japan from Europe
-last_modified_at: '2023-10-10T21:13+01:00'
+last_modified_at: '2024-05-18T22:38+01:00'
 tags:
 - yahoo-japan
 - internet
@@ -58,6 +58,8 @@ Notes:
 ## 2. Standalone VPNs
 
 You can use a stand-alone VPN that is installed at a system level. This will affect all apps running on your system. Such VPNs are provided by the likes of PIA, ExpressVPN, SurfShark, NordVPN. Whilst I'll refrain from recommending any one in particular, I will say that if you hunt around you can almost always find special offer pricing.
+
+Personally I use PIA, so [here's a referral to save some money](https://www.privateinternetaccess.com/pages/buy-a-vpn/1218buyavpn?invite=U2FsdGVkX18DlbIFebZBqvJIfoIVUNXHTGwHDesd0ksu2LJWgn2ljTzF91SYnAql%2C-6K1dJvsW9WQAp6IM1xnkkTq6sM).
 
 ----
 
