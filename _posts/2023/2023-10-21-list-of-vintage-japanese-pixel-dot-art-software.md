@@ -2,7 +2,7 @@
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
 date: '2023-10-21T16:56+01:00'
-last_modified_at: '2024-02-25T21:43+00:00'
+last_modified_at: '2024-05-21T15:29+01:00'
 tags:
 - graphics
 - pixelart
@@ -36,7 +36,7 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
-Total entries: 234
+Total entries: 235
 
 <div class="table-wrapper" markdown="block">
 |Platform|English|Japanese|Year|Developer|
@@ -72,6 +72,7 @@ Total entries: 234
 |Macintosh |Solid Paint||1996|Masatoshi Utashiro|
 |Macintosh |WishDraw ||1998|Motoo Tanaka|
 |MPC-X |MPC-X Lightpen Graphics||1984|Sanyo|
+|MSX |Art Paper |アートペーパー|1986|Mitsubishi|
 |MSX |(Graphic Editor) Sha Ga Raku |写・画・楽 |1988|Victor|
 |MSX |CHEESE ||1984|NEOS|
 |MSX |CHEESE 2 ||1985|NEOS|
