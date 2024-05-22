@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Band-kun バンドくん musician adventure/sim (1990, KOEI)
+title: Band-kun バンドくん musician simulator (1990, KOEI)
 tags:
 - koei
 - 1bit
