@@ -35,11 +35,11 @@ comments: https://twitter.com/gingerbeardman/status/1794103412977500392
 
 Emigre is notable for many reasons, and if you're interested in 80s and 90s design there will surely be something in there for you. I started work at London graphic design agency [Form](https://form.uk.com) in 1998, so about three quarters through the run. Some features that stand out for me personally are:
 
-- [Early bitmap fonts](https://wayback.archive-it.org/9432/20190926205616/http://goldstein.design.umn.edu/collection/emigre/typefaces/Lores.html) (1984) and [emoji-like pictograms](https://oa.letterformarchive.org/item?workID=lfa_emigre_0006&targPic=lfa_emigre_0006_009.jpg) (1986) created by Zuzana Licko
-- [Early 1-bit Macintosh art](https://oa.letterformarchive.org/item?workID=lfa_emigre_0003&targPic=lfa_emigre_0003_004.jpg) by John Hersey (1985) and many other lovely period details
-- Designs by such luminaries as [Neville Brody](https://oa.letterformarchive.org/item?workID=lfa_emigre_0013&targPic=lfa_emigre_0013_015.jpg), [Erik Spiekermann](https://oa.letterformarchive.org/?dims=Name_KEY&vals0=SPIEKERMANNERIK&friendly0=Spiekermann%comma%20Erik), and [many more](https://wayback.archive-it.org/9432/20190926160800/http://goldstein.design.umn.edu/collection/emigre/)
-- Articles on people like font designer [Aldo Novarese](https://oa.letterformarchive.org/item?workID=lfa_emigre_0026&targPic=lfa_emigre_0026_018.jpg)
-- Issues dedicated to [4AD record label](https://oa.letterformarchive.org/item?workID=lfa_emigre_0009) (1988) and [The Designers Republic](https://oa.letterformarchive.org/item?workID=lfa_emigre_0029) (1994)
+- [Early bitmap fonts](https://wayback.archive-it.org/9432/20190926205616/http://goldstein.design.umn.edu/collection/emigre/typefaces/Lores.html) (1984) and [emoji-like pictograms](https://oa.letterformarchive.org/item?workID=lfa_emigre_0006&targPic=lfa_emigre_0006_009.jpg) (1986) created by [*Zuzana Licko*](https://www.emigre.com/Designer/ZuzanaLicko)
+- [Early 1-bit Macintosh art](https://oa.letterformarchive.org/item?workID=lfa_emigre_0003&targPic=lfa_emigre_0003_004.jpg) by [*John Hersey*](https://www.hersey.com/about) (1985) and many other lovely period details
+- Designs by such luminaries as [*Neville Brody*](https://oa.letterformarchive.org/item?workID=lfa_emigre_0013&targPic=lfa_emigre_0013_015.jpg), [*Erik Spiekermann*](https://oa.letterformarchive.org/?dims=Name_KEY&vals0=SPIEKERMANNERIK&friendly0=Spiekermann%comma%20Erik), and [many more](https://wayback.archive-it.org/9432/20190926160800/http://goldstein.design.umn.edu/collection/emigre/)
+- Articles on people like font designer [*Aldo Novarese*](https://oa.letterformarchive.org/item?workID=lfa_emigre_0026&targPic=lfa_emigre_0026_018.jpg)
+- Issues dedicated to the record label [*4AD*](https://oa.letterformarchive.org/item?workID=lfa_emigre_0009) (1988) and [*The Designers Republic*](https://oa.letterformarchive.org/item?workID=lfa_emigre_0029) (1994)
 
 ## Online archives
 
@@ -58,7 +58,7 @@ If you can't use, or would rather not use, the official app [I've converted the 
 
 ## Related reading
 
-- [Emigre (magazine)](https://en.wikipedia.org/wiki/Emigre_(magazine)) at Wikipedia
-- [Emigre](http://luc.devroye.org/fonts-27441.html) at Type Design Information Page
-- [Designing the Emigre Magazine Index](https://www.researchgate.net/publication/303776354_Designing_the_Emigre_Magazine_Index_Theory_and_Practice_in_an_Alternative_Research_Tool), Jessica Barness, 2016
-- [Verbum “The Journal of Personal Computer-Aesthetics”](/2019/07/10/verbum-journal-of-personal-computer-aesthetics/), Michael Gosney, 1986–
+- [Emigre (magazine)](https://en.wikipedia.org/wiki/Emigre_(magazine)) at *Wikipedia*
+- [Emigre](http://luc.devroye.org/fonts-27441.html) at *Type Design Information Page*
+- [Designing the Emigre Magazine Index](https://www.researchgate.net/publication/303776354_Designing_the_Emigre_Magazine_Index_Theory_and_Practice_in_an_Alternative_Research_Tool), *Jessica Barness, 2016*
+- [Verbum “The Journal of Personal Computer-Aesthetics”](/2019/07/10/verbum-journal-of-personal-computer-aesthetics/), *Michael Gosney, 1986–*
