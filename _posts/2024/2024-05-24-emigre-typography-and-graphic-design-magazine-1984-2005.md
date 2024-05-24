@@ -52,7 +52,7 @@ I recently wanted to read some of the issues again and found a couple of online 
 
 If you want to take the magazine with you today it's available in the [Emigre Fonts app](https://www.emigre.com/Emigre-Fonts-App) for iPad/iPhone, which allows you to download the issues for offline reading.
 
-If you can't use, or would rather not use, the official app [I've converted the issues to CBZ files](https://archive.org/details/emigre-magazine-archive-1984-2005). Read those with [Panels app](https://panels.app), [Simple Comic](https://apps.apple.com/gb/app/simple-comic/id1497435571?mt=12), [CDisplayEx](https://www.cdisplayex.com), or another comic reader app of your choice.
+If you can't use, or would rather not use, the official app [I've converted the issues to CBZ files](https://archive.org/details/emigre-magazine-archive-1984-2005). Read those with [Panels](https://panels.app), [Simple Comic](https://apps.apple.com/gb/app/simple-comic/id1497435571?mt=12), [CDisplayEx](https://www.cdisplayex.com), or another comic reader app of your choice.
 
 ----
 
