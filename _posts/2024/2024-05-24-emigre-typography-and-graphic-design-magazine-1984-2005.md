@@ -29,7 +29,7 @@ comments: https://twitter.com/gingerbeardman/status/1794103412977500392
 
 ## Tell me about it
 
-Emigre is notable for many reasons, and if you're interested in 80s and 90s design there will surely be something in there for you. I started work at London graphic design agency [Form](https://form.uk.com) in 1998, so just over half way through the run. Some features that stand out for me personally are:
+Emigre is notable for many reasons, and if you're interested in 80s and 90s design there will surely be something in there for you. I started work at London graphic design agency [Form](https://form.uk.com) in 1998, so about three quarters through the run. Some features that stand out for me personally are:
 
 - [Early bitmap fonts](https://wayback.archive-it.org/9432/20190926205616/http://goldstein.design.umn.edu/collection/emigre/typefaces/Lores.html) (1984) and [emoji-like pictograms](https://oa.letterformarchive.org/item?workID=lfa_emigre_0006&targPic=lfa_emigre_0006_009.jpg) (1986) created by Zuzana Licko
 - [Early 1-bit Macintosh art](https://oa.letterformarchive.org/item?workID=lfa_emigre_0003&targPic=lfa_emigre_0003_004.jpg) by John Hersey (1985) and many other lovely period details
