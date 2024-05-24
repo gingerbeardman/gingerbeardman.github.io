@@ -13,6 +13,10 @@ nouns:
 - Apple Macintosh
 - Rudy VanderLans
 - Zuzana Licko
+- John Hersey
+- Aldo Novarese
+- Erik Spiekermann
+- Neville Brody
 - Form
 - Macintosh
 featured: false
