@@ -34,7 +34,7 @@ comments: https://twitter.com/gingerbeardman/status/1794103412977500392
 
 ## Tell me about it
 
-*Emigre* is notable for many reasons, and if you're interested in 80s and 90s design there will surely be something in there for you. I first heard of *Emigre* when I started work at London graphic design agency [*Form*](https://form.uk.com) in 1998, so about three quarters through the run.
+*Emigre* is notable for many reasons, and if you're interested in 80s and 90s design there will surely be something in there for you. I first heard about *Emigre* when I started work at London graphic design agency [*Form*](https://form.uk.com) in 1998, so about three quarters through the run.
 
 Some features that stand out for me personally are:
 
