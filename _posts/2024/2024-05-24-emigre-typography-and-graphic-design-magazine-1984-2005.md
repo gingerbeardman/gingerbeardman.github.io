@@ -59,6 +59,6 @@ If you can't use, or would rather not use, the official app [I've converted the 
 ## Related reading
 
 - [Emigre (magazine)](https://en.wikipedia.org/wiki/Emigre_(magazine)) at *Wikipedia*
-- [Emigre](http://luc.devroye.org/fonts-27441.html) at *Type Design Information Page*
+- [Emigre](http://luc.devroye.org/fonts-27441.html) entry at *Type Design Information Page*
 - [Designing the Emigre Magazine Index](https://www.researchgate.net/publication/303776354_Designing_the_Emigre_Magazine_Index_Theory_and_Practice_in_an_Alternative_Research_Tool), *Jessica Barness, 2016*
 - [Verbum “The Journal of Personal Computer-Aesthetics”](/2019/07/10/verbum-journal-of-personal-computer-aesthetics/), *Michael Gosney, 1986–*
