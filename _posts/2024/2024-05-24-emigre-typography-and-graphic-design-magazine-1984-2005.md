@@ -19,6 +19,7 @@ nouns:
 - Neville Brody
 - Form
 - Macintosh
+- HyperCard
 featured: false
 pinned: false
 comments: https://twitter.com/gingerbeardman/status/1794103412977500392
@@ -60,5 +61,6 @@ If you can't use, or would rather not use, the official app [I've converted the 
 
 - [Emigre (magazine)](https://en.wikipedia.org/wiki/Emigre_(magazine)) at *Wikipedia*
 - [Emigre](http://luc.devroye.org/fonts-27441.html) entry at *Type Design Information Page*
+- [Type '90 HyperCard Video](https://www.emigre.com/BooksCds/Type-90-HyperCard) video of a HyperCard Stack
 - [Designing the Emigre Magazine Index](https://www.researchgate.net/publication/303776354_Designing_the_Emigre_Magazine_Index_Theory_and_Practice_in_an_Alternative_Research_Tool), *Jessica Barness, 2016*
 - [Verbum “The Journal of Personal Computer-Aesthetics”](/2019/07/10/verbum-journal-of-personal-computer-aesthetics/), *Michael Gosney, 1986–*
