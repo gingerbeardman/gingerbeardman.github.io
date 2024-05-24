@@ -63,4 +63,5 @@ If you can't use, or would rather not use, the official app [I've converted the 
 - [Emigre](http://luc.devroye.org/fonts-27441.html) entry at *Type Design Information Page*
 - [Type '90 HyperCard Video](https://www.emigre.com/BooksCds/Type-90-HyperCard) video of a HyperCard Stack
 - [Designing the Emigre Magazine Index](https://www.researchgate.net/publication/303776354_Designing_the_Emigre_Magazine_Index_Theory_and_Practice_in_an_Alternative_Research_Tool), *Jessica Barness, 2016*
+- [Merz to Emigre and Beyond](https://archive.org/details/merztoemigrebeyo0000hell/) Avant-Garde Magazine Design of the Twentieth Century
 - [Verbum “The Journal of Personal Computer-Aesthetics”](/2019/07/10/verbum-journal-of-personal-computer-aesthetics/), *Michael Gosney, 1986–*
