@@ -49,7 +49,7 @@ Some features that stand out for me personally are:
 I recently wanted to read some of the issues again and found a couple of online archives:
 
 - [Letterform Archive: Emigre Collection](https://oa.letterformarchive.org/?dims=Collection&vals0=Emigre%20Collection&sortby=title) (browsable magazines, simplified cross references)
-- [University of Minnesota: Emigre Magazine Index](https://wayback.archive-it.org/9432/20190926160800/http://goldstein.design.umn.edu/collection/emigre/) (comprehensive cross references)
+- [University of Minnesota: Emigre Magazine Index](https://wayback.archive-it.org/9432/20190926160800/http://goldstein.design.umn.edu/collection/emigre/) (only comprehensive cross references)
 
 ## Digital versions
 
