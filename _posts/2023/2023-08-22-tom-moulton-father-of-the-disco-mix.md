@@ -9,6 +9,7 @@ tags:
 - disco
 - remix
 - interview
+- magazine
 nouns:
 - Tom Moulton
 - Black Music

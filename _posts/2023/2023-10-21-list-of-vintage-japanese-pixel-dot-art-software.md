@@ -11,6 +11,7 @@ tags:
 - msx
 - pc98
 - x68000
+- magazine
 nouns:
 - Internet Archive
 - Yahoo! Japan Auctions

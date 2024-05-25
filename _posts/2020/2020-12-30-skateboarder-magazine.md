@@ -6,6 +6,7 @@ tags:
 - preservation
 - magazine
 - history
+- scans
 nouns:
 - Dogtown
 - Internet Archive

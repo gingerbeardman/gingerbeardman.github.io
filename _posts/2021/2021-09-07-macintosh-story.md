@@ -4,6 +4,7 @@ title: 'Macintosh Story: Sweet or Sour Apple?'
 tags:
 - macintosh
 - japanese
+- magazine
 nouns:
 - Macintosh Story
 - Hitoshi Tanaka

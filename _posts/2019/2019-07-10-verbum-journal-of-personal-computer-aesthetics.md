@@ -6,6 +6,10 @@ tags:
 - macintosh
 - verbum
 - history
+- magazine
+- art
+- graphics
+- design
 nouns:
 - Michael Gosney
 - Verbum

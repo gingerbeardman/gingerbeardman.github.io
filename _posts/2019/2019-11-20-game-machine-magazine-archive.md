@@ -6,6 +6,7 @@ tags:
 - japanese
 - patreon
 - history
+- magazine
 nouns:
 - Game Machine
 - ONION Software

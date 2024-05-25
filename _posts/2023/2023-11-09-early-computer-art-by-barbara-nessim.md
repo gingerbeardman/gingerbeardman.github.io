@@ -11,6 +11,7 @@ tags:
 - vectorart
 - videotex
 - barbaranessim
+- magazine
 nouns:
 - BYTE
 - Norpak IPS-2

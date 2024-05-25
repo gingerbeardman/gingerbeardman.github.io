@@ -6,6 +6,7 @@ tags:
 - preservation
 - patreon
 - history
+- magazine
 nouns:
 - PC Engine Fanatics
 - Console Ma'zine

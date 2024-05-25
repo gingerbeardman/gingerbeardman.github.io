@@ -12,6 +12,7 @@ tags:
 - preservation
 - patreon
 - history
+- magazine
 nouns:
 - Bill Gates
 - Steve Jobs

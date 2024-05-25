@@ -6,6 +6,7 @@ tags:
 - software
 - preservation
 - patreon
+- magazine
 nouns:
 - National Diet Library
 - NDL

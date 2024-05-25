@@ -7,6 +7,7 @@ tags:
 - japanese
 - patreon
 - maps
+- magazine
 nouns:
 - Nikkei MAC
 - Akihabara

@@ -8,6 +8,7 @@ tags:
 - design
 - graphics
 - history
+- magazine
 nouns:
 - Emigre
 - Apple Macintosh

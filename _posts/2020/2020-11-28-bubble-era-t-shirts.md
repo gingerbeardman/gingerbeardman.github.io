@@ -6,6 +6,7 @@ tags:
 - japanese
 - tshirts
 - patreon
+- magazine
 nouns:
 - Bubble Era
 carousel: ''

@@ -8,6 +8,7 @@ tags:
 - pixelart
 - japanese
 - pc98
+- magazine
 nouns:
 - LOGiN Magazine
 - NEC PC-98

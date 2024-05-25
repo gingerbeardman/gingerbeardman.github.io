@@ -6,6 +6,7 @@ tags:
 - mmm
 - patreon
 - history
+- magazine
 nouns:
 - Roly-Polys World Tour
 - ローリーポーリーズの世界旅行

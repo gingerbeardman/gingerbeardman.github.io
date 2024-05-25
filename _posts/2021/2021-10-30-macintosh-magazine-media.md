@@ -12,6 +12,7 @@ tags:
 - hanafuda
 - hypercard
 - history
+- magazine
 nouns:
 - Macintosh
 featured: true
