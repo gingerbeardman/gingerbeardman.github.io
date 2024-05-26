@@ -12,7 +12,7 @@ nouns:
 - Samsung
 - Genesis Logic
 - MStar
-image: https://cdn.gingerbeardman.com/images/posts/pixel-perfect-480p-edtv-4.jpg
+image: /images/posts/pixel-perfect-480p-edtv-4.jpg
 carousel: pixel-perfect-480p-edtv
 comments: https://twitter.com/gingerbeardman/status/1390306410617966592
 featured: true
