@@ -3,7 +3,7 @@
   <meta http-equiv='X-UA-Compatible' content='IE=edge'>
   <meta name='viewport' content='width=device-width, initial-scale=1'>
 
-  <title>{% if include.ptag %}#{{ include.ptag | append: " " }}{% endif %}{% if include.ptitle %}{{ include.ptitle | append: " " }}{{ include.sextitle | prepend: " " }}{% else %}{{ include.stitle }}{% endif %}</title>
+  <title>{% if include.ptag %}#{{ include.ptag | append: ' ' }}{% endif %}{% if include.ptitle %}{{ include.ptitle | append: ' ' }}{{ include.sextitle | prepend: ' ' }}{% else %}{{ include.stitle }}{% endif %}</title>
   <meta name='description' content="{% if include.pexcerpt %}{{ include.pexcerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ include.sdescription }}{% endif %}">
   <link rel='canonical' href="{{ include.purl | replace:'index.html','' | prepend: include.sbaseurl | prepend: include.surl }}">
   <link rel='alternate' type='application/rss+xml' title='{{ include.stitle }}' href="{{ '/feed.xml' | prepend: include.sbaseurl | prepend: include.surl }}">
@@ -13,8 +13,20 @@
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <link rel="manifest" href="/site.webmanifest">
 
+  <meta property="og:url" content="{{ include.purl | replace:'index.html','' | prepend: include.sbaseurl | prepend: include.surl }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{% if include.ptag %}#{{ include.ptag | append: ' ' }}{% endif %}{% if include.ptitle %}{{ include.ptitle | append: ' ' }}{{ include.sextitle | prepend: ' ' }}{% else %}{{ include.stitle }}{% endif %}">
+  <meta property="og:description" content="{% if include.pexcerpt %}{{ include.pexcerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ include.sdescription }}{% endif %}">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="{{ include.surl }}">
+  <meta property="twitter:url" content="{{ include.purl | replace:'index.html','' | prepend: include.sbaseurl | prepend: include.surl }}">
+  <meta name="twitter:title" content="{% if include.ptag %}#{{ include.ptag | append: ' ' }}{% endif %}{% if include.ptitle %}{{ include.ptitle | append: ' ' }}{{ include.sextitle | prepend: ' ' }}{% else %}{{ include.stitle }}{% endif %}">
+  <meta name="twitter:description" content="{% if include.pexcerpt %}{{ include.pexcerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ include.sdescription }}{% endif %}">
+
 {% if page.image %}
-  <meta itemprop='og:image' content='{{ site.cdn }}{{ page.image }}'>
+  <meta property='og:image' content='{{ site.cdn }}{{ page.image }}'>
+  <meta name='twitter:image' content='{{ site.cdn }}{{ page.image }}'>
 {% endif %}
 
   <style type="text/css">
