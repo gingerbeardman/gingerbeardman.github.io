@@ -3,6 +3,7 @@ layout: post
 title: 'Daily Driver: OpenSCAD workflow'
 tags: [dailydriver, playdate, graphics, software, openscad]
 nouns: [OpenSCAD, Retrobatch, LEGO, Qt Framework]
+image: /images/posts/daily-driver-openscad-workflow-3.png
 carousel: openscad
 ---
 

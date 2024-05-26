@@ -15,6 +15,7 @@ nouns:
 - Arduino
 - Pro Micro
 - NES
+image: /images/posts/hanafuda-controller-b-2.jpg
 carousel: hanafuda-controller
 featured: true
 

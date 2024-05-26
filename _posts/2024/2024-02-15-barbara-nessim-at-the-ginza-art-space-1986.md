@@ -24,6 +24,7 @@ nouns:
 - Teletext
 - PC Computing
 - Airbrush
+image: /images/posts/barbara-nessim-ginza-1986-01.webp
 carousel: barbara-nessim-ginza
 comments: https://twitter.com/gingerbeardman/status/1758166959336677741
 

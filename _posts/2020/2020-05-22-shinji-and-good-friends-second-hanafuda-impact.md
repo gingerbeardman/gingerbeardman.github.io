@@ -10,6 +10,7 @@ tags:
 nouns:
 - Gainax
 - 'Shinji and Good Friends: Second Hanafuda Impact'
+image: /images/posts/shinji-hacked.png
 carousel: shinji
 featured: true
 comments: https://twitter.com/gingerbeardman/status/1263885189211709447

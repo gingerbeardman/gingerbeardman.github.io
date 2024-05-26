@@ -7,6 +7,7 @@ tags:
 - software
 keywords:
 - Retrobatch
+image: /images/posts/daily-driver-retrobatch-workflow-4.png
 carousel: retrobatch
 nouns:
 - Retrobatch

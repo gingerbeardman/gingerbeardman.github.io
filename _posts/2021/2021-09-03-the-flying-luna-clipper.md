@@ -14,6 +14,7 @@ nouns:
 - Luna Clipper
 - MSX Magazine Permanent Revival 2
 - MSX Magazine
+image: /images/posts/flying-luna-clipper-msx-magazine-1987-11.jpg
 carousel: flying-luna-clipper
 comments: https://twitter.com/gingerbeardman/status/1433782159685324804
 

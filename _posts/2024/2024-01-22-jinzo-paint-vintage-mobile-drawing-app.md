@@ -31,6 +31,7 @@ nouns:
 - HyperCard
 - NewtPaint
 - TealPaint
+image: /images/posts/jinzo-paint.jpg
 carousel: jinzo-paint
 comments: https://twitter.com/gingerbeardman/status/1748799583491076191
 

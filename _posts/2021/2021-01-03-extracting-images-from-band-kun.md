@@ -6,7 +6,7 @@ tags:
 - koei
 - bandkun
 nouns: [Band-kun, GraphicConverter]
-carousel: ''
+image: /images/posts/band-kun-faces.png
 featured: false
 comments: https://twitter.com/gingerbeardman/status/1345721914371805184
 

@@ -13,6 +13,7 @@ nouns:
 - ACE
 - PC-Engine
 - Philips
+image: /images/posts/ace-mega-blaster-1.jpg
 carousel: ace-mega-blaster
 comments: https://twitter.com/gingerbeardman/status/1438534028097904640
 

@@ -8,6 +8,7 @@ nouns:
 - Yahoo! Japan Auctions
 - iOS
 - macOS
+image: /images/posts/rss-saved-searches-8.png
 carousel: rss-saved-searches
 comments: https://twitter.com/gingerbeardman/status/1487917074244640771
 

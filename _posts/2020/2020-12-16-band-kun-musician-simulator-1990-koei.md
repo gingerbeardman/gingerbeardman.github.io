@@ -25,6 +25,7 @@ nouns:
 - Playdate
 redirect_from:
 - /2020/12/16/band-kun/
+image: /images/posts/band-kun-03.png
 carousel: band-kun
 featured: true
 comments: https://twitter.com/gingerbeardman/status/1339232766861451278

@@ -23,6 +23,7 @@ nouns:
 - NAPLPS
 - Time Life
 - Polaroid Palette
+image: /images/posts/barbara-nessim-byte-1984-09-image-03.jpg
 featured: true
 comments: https://twitter.com/gingerbeardman/status/1721899788831195635
 

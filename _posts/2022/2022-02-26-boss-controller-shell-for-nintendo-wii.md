@@ -11,6 +11,7 @@ nouns:
 - BOSS
 - (Big Oversized Super Shell)
 - PDP
+image: /images/posts/boss-wii-01.jpg
 carousel: boss-wii
 comments: https://twitter.com/gingerbeardman/status/1497218970604220419
 

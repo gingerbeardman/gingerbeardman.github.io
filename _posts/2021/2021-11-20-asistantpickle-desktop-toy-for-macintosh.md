@@ -13,6 +13,7 @@ nouns:
 - Japanese Macintosh
 - Macintosh
 - Mac OS
+image: /images/posts/AsistantPickle-sketch.png
 carousel: asistantpickle
 comments: https://twitter.com/gingerbeardman/status/1462096984689549312
 

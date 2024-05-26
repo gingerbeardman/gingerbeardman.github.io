@@ -10,6 +10,7 @@ tags:
 nouns:
 - OpenSCAD
 - Daily Driver
+image: /images/posts/daily-driver-prerendered-shadows-new.png
 carousel: prerendered-shadows
 comments: https://twitter.com/gingerbeardman/status/1394985517708685314
 

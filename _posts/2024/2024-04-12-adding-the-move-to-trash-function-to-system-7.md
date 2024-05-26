@@ -26,6 +26,7 @@ nouns:
 - Forward Delete
 featured: false
 pinned: false
+image: /images/posts/move-to-trash-3.png
 carousel: 'move-to-trash'
 comments: https://twitter.com/gingerbeardman/status/1778909753231671576
 ---
