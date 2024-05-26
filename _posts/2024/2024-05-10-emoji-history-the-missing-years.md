@@ -47,6 +47,7 @@ nouns:
 - Thinking Rabbit
 - Fortress
 - SSI/Victor
+image: /images/posts/emoji-history-sharp-pa-8500-emoji-table-20-20.png
 featured: true
 pinned: false
 comments: https://twitter.com/gingerbeardman/status/1789027585713639563

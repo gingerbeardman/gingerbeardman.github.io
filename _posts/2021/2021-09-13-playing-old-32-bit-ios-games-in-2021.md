@@ -21,6 +21,7 @@ nouns:
 - Clutch
 - QuickTime Player
 - sockH3lix
+image: /images/posts/playing-old-32-bit-ios-games-in-2021.jpg
 comments: https://twitter.com/gingerbeardman/status/1437413977059954695
 
 ---
