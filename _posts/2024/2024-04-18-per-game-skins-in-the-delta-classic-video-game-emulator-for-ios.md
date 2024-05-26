@@ -18,6 +18,7 @@ redirect_from:
 - /2024/04/18/per-game-skins-in-delta/
 featured: true
 pinned: false
+image: /images/posts/delta-maboshi-deltaskin.png
 comments: https://twitter.com/gingerbeardman/status/1781049846310346871
 style: |
   p.deltaskin img {
