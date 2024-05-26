@@ -22,7 +22,7 @@ For a long time in the UK — during the pre-internet era, when computers loaded
 
 The BBC had what they called [Ceefax](https://en.wikipedia.org/wiki/Ceefax) (cf. “See facts”) whilst their main competitor ITV had [Oracle](https://en.wikipedia.org/wiki/ORACLE_(teletext)), which was eventually replaced by a service called Teletext (with a capital T) run by [Teletext Limited](https://en.wikipedia.org/wiki/Teletext_Ltd.) that went on to become a hugely popular service that dwarfed even the BBC’s offering.
 
-All of these teletext services provided general information, such as news, weather, recipes and reviews, stored in a carousel of hundreds of sequential pages. You might want to imagine the [bbc.co.uk](www.bbc.co.uk) website shrunk down to several hundred pages, each containing no more than about one hundred words. These pages would be transmitted with the broadcast picture and refreshed in a repeating cycle. Your TV’s inbuilt decoder would look at a few lines of the broadcast image and convert the data into screens of [ANSI](https://en.wikipedia.org/wiki/ANSI_escape_code)\-like coloured characters that form pages of text and blocky graphics. You’d select your desired page by punching in a three digit page number on your remote control and waiting for it to come round in the carousel.
+All of these teletext services provided general information, such as news, weather, recipes and reviews, stored in a carousel of hundreds of sequential pages. You might want to imagine the [bbc.co.uk](https://www.bbc.co.uk) website shrunk down to several hundred pages, each containing no more than about one hundred words. These pages would be transmitted with the broadcast picture and refreshed in a repeating cycle. Your TV’s inbuilt decoder would look at a few lines of the broadcast image and convert the data into screens of [ANSI](https://en.wikipedia.org/wiki/ANSI_escape_code)\-like coloured characters that form pages of text and blocky graphics. You’d select your desired page by punching in a three digit page number on your remote control and waiting for it to come round in the carousel.
 
 All the teletext services I used provided a TV Guide. This was an EPG before the acronym had even been coined. Roughly equivalent to popular printed TV guides of the time they presented succinct information about the day’s programmes over several pages. Here’s a screenshot of a TV listing from BBC’s Ceefax:
 
@@ -42,7 +42,7 @@ Trying to find a decent Freeview box was a real challenge and I went through a w
 
 TVonics: the box that’s not a box
 
-The guys at TVonics were clever enough to notice that a recently built Sony fabrication plant in southern Wales could produce their HD-capable boxes on home soil, and had partnered with then-fledgling London design company [ustwo](www.ustwo.com) to create the user interface for their Freeview software. This was a master stroke and resulted in the most usable Freeview software I’d ever had the pleasure of using.
+The guys at TVonics were clever enough to notice that a recently built Sony fabrication plant in southern Wales could produce their HD-capable boxes on home soil, and had partnered with then-fledgling London design company [ustwo](https://www.ustwo.com) to create the user interface for their Freeview software. This was a master stroke and resulted in the most usable Freeview software I’d ever had the pleasure of using.
 
 ![](https://miro.medium.com/max/1400/1*91Qy90glqxsJQoGFWC41CQ.jpeg "TV Guide: TVonics")
 {:.tofigure}

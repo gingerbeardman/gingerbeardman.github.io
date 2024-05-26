@@ -11,7 +11,7 @@ comments: https://twitter.com/gingerbeardman/status/229909678539276288
 
 ---
 
-Back in 2012, before my time at Apple, I was a contract developer and would often work with designers on specific projects. Over the course of those projects, we’d have to find stock photos for the apps or websites we were building and generally turned to [iStockPhoto](www.istockphoto.com) as our main resource.
+Back in 2012, before my time at Apple, I was a contract developer and would often work with designers on specific projects. Over the course of those projects, we’d have to find stock photos for the apps or websites we were building and generally turned to [iStockPhoto](https://www.istockphoto.com) as our main resource.
 
 During the design phase we would go through number of different image options, using the watermarked thumbnail images from iStock as temporary placeholders, or [comps](https://en.wikipedia.org/wiki/Comprehensive_layout), before settling on the final image that we would buy.
 
