@@ -41,7 +41,7 @@ According to Google Analytics, my 5 most popular posts from previous years (most
 - [Recovered: Forgotten SEGA Exclusives on Palm OS](/2019/04/24/recovered-forgotten-sega-exclusives-on-palm-os/) (24 Apr 2019) <!-- 2K -->
 - [Turning an iPad Pro into the Ultimate Classic Macintosh](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/) (17 Apr 2021) <!-- 2K -->
 - [Pixel-Perfect retro gaming on LCD 480p EDTVs](/2021/05/06/pixel-perfect-retro-gaming-in-480p/) (6 May 2021) <!-- 2K -->
-- [Playing old 32-bit iOS games in 2021](/2021/09/14/playing-old-32-bit-ios-games-in-2021/) (14 Sep 2021)
+- [Playing old 32-bit iOS games in 2021](/2021/09/13/playing-old-32-bit-ios-games-in-2021/) (14 Sep 2021)
 
 ## Previous years
 - [My most popular posts of 2021](/2021/12/31/my-most-popular-posts-of-the-year/)

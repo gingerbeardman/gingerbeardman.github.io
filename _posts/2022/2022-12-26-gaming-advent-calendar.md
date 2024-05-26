@@ -39,7 +39,7 @@ Each tweet contained:
 - YouTube video link
 - 4x images (box art, flyers, screenshot, etc)
 
-> Here begins my [#GamingAdventCalendar](/hashtag/GamingAdventCalendar) for 2022.  
+> Here begins my #GamingAdventCalendar for 2022.  
 >   
 > Twenty-five of my favourite video games between 1st and 25th December. Just for kicks!  
 >   

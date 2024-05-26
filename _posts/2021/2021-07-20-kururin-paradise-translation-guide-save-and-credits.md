@@ -13,6 +13,8 @@ nouns:
 - Kuru Kuru Kururin
 - Translation Guide
 - Game Saves
+redirect_from:
+- /2021/07/20/kururin-paradise-translation-guide
 comments: https://twitter.com/gingerbeardman/status/1417467874348834818
 
 ---
