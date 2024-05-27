@@ -8,7 +8,7 @@ permalink: /about.html
 <br>
 My name is *Matt Sephton*. One interesting thing about me is that I prefer to write my first name in lower case, *matt*, for aesthetic reasons. I'm an independent video game developer, but that's just the tip of the iceberg that is my life and career.
 
-This blog documents my various interests and I hope you find my posts interesting or enlightening.
+This blog documents my various interests, and I hope you enjoy reading my posts.
 
 ----
 
@@ -51,6 +51,12 @@ Before this blog my main web presence was the main domain [gingerbeardman.com](h
 ## History repeating
 
 Every year I try to do a summary of blog posts from the past year, listing those that were most popular, most enduring, and my own personal favourites. I've also started doing playlists of my favourite music of the year, which I'll hopefully continue with.
+
+----
+
+## Subscribe & Support
+
+You can [subscribe to the blog using RSS](/feed.xml) and support it by [sending some blog love](/support).
 
 ----
 
