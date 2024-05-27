@@ -3,12 +3,21 @@ layout: page
 title: About
 published: private
 permalink: /about.html
+style: |
+  img.profile {
+    float: right;
+    margin-left: 2rem;
+    width: 150px;
+  }
 ---
 
 <br>
+
+![Photo of Matt Sephton](https://www.gingerbeardman.com/matt-256.jpg "Matt Sephton"){:class="profile"}
+
 My name is *Matt Sephton*. One interesting thing about me is that I prefer to write my first name in lower case, *matt*, for aesthetic reasons. I'm an independent video game developer, but that's just the tip of the iceberg that is my life and career.
 
-This blog documents my various interests, and I hope you enjoy reading my posts.
+This blog documents my various interests, and I hope you enjoy reading it.
 
 ----
 
