@@ -50,7 +50,7 @@ Before this blog my main web presence was the main domain [gingerbeardman.com](h
 
 ## History repeating
 
-Every year I try to do a summary of blog posts from the past year, listing those that were most popular, most enduring, and my own personal favourites. I've also started doing playlists of my favourite music of the year, which I'll hopefully continue with.
+Every year I try to do a [summary of blog posts from the past year](/tag/year), listing those that were most popular, most enduring, and my own personal favourites. I've also started doing playlists of my favourite music of the year, which I'll hopefully continue with.
 
 ----
 
