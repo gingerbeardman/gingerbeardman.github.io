@@ -27,7 +27,7 @@ layout: null
 
     {% for page in site.pages %}
       {% if page.layout == 'page' %}
-        {% if page.name != '404.md' and page.name != 'rss.md' and page.name != 'search.md' and page.name != 'tags.md' %}
+        {% if page.published != 'private' %}
           <item>
             <title>{{ page.title | xml_escape }}</title>
             <description>{{ page.content | xml_escape }}</description>

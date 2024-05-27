@@ -1,6 +1,7 @@
 ---
 layout: page_footerless
 title: Tags
+published: private
 ---
 
 <br>

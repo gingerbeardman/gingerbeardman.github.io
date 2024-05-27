@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RSS
+published: private
 permalink: /feed.html
 ---
 
