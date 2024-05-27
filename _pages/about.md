@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_footerless
 title: About
 published: private
 permalink: /about.html

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_footerless
 title: Support
 published: private
 permalink: /support.html
