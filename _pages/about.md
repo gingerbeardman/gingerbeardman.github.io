@@ -27,7 +27,7 @@ I was born on 16th December 1976, in [Liverpool, United Kingdom](https://en.wiki
 
 ## 1980s
 
-My early years were filled with collecting toy cars and action figures, watching kids TV, taping music off the radio, falling in love with music on [Top of the Pops](https://en.wikipedia.org/wiki/Top_of_the_Pops) and [The Chart Show](https://en.wikipedia.org/wiki/The_Chart_Show), riding my [BMX](https://en.wikipedia.org/wiki/Puch#Puch_BMX), playing [Top Trumps](https://en.wikipedia.org/wiki/Top_Trumps), learning the names of cars, and chasing girls.
+My early years were filled with collecting toy cars and action figures, watching kids TV, taping music off the radio, riding my [BMX](https://en.wikipedia.org/wiki/Puch#Puch_BMX), falling in love with music on [Top of the Pops](https://en.wikipedia.org/wiki/Top_of_the_Pops) and [The Chart Show](https://en.wikipedia.org/wiki/The_Chart_Show), playing [Top Trumps](https://en.wikipedia.org/wiki/Top_Trumps), learning the names of the best looking cars, and chasing girls.
 
 I consider my real awakening—enlightenment so sudden it was like a bolt from the blue—an afternoon at my friend Rak's house in 1990, where I saw a [Super Famicom](https://en.wikipedia.org/wiki/Super_Famicom) (an early unit imported from Japan) and an [Atari ST](https://en.wikipedia.org/wiki/Atari_ST). I distinctly remember the perspective change at the start of a race in [F-Zero](https://en.wikipedia.org/wiki/F-Zero_(video_game)) blowing my tiny little mind wide open. Then later that same day seeing a graphical user interface and computer mouse for the first time rolled out a red carpet through the universe of my mind's eye, so vivid that I can still recall it today!
 
