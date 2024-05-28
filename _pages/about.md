@@ -55,17 +55,17 @@ At this point, early 2017, I interviewed at Apple for the iOS design team, but a
 
 After lockdown I had created a body of work—games, animations, fonts, and artwork—which was enough for me to secure a shared work space at a place called [Krowji](https://www.krowji.org.uk) in Cornwall. I worked there for a few months and did my best ever work, it was an amazing time. Everything was going great.
 
-Then, in August 2022, disaster struck. I experienced a number of traumatic events in quick succession, mostly as a result of decisions made by other people on my behalf, and then made some bad decisions of my own which compounded the situation. It wasn't immediately obvious what had happened and it took a year to really understand it. As a result of those events I am unfortunately living with [PTSD](https://en.wikipedia.org/wiki/Post-traumatic_stress_disorder) (Post-traumatic stress disorder), and dealing with it has brought numerous other things to light, none of which are good. And that's what I've been living with, struggling with, ever since.
+Then, in August 2022, disaster struck. I experienced a number of traumatic events in quick succession, mostly as a result of decisions made by other people on my behalf, and then made some bad decisions of my own which compounded the situation. It wasn't immediately obvious what had happened and it took a year to really understand it. As a result of those events I am unfortunately living with [PTSD](https://en.wikipedia.org/wiki/Post-traumatic_stress_disorder) (Post-traumatic stress disorder), and the related aftermath none of which is good. And that's what I've been living with, struggling with, ever since.
 
-Whilst I'm conscious things will never be able to go back to how they were, I'm hopeful for the future. And it's not all bad: one of the games I made in September 2023, [YOYOZO, won a "Game of the Year" accolade](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/). So that was a nice diversion from PTSD, if only for a short time. And in early-2024, whilst using an old pocket computer, [I randomly stumbled across the earliest digital emoji](/2024/05/10/emoji-history-the-missing-years/), which was another nice surprise. 
+Whilst I'm conscious things will never be able to go back to how they were, I'm hopeful for the future. And it's not all bad: one of the games I made in September 2023, [YOYOZO, won a "Game of the Year" accolade](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/). So that was a nice diversion from PTSD, if only for a short time. Another of my Playdate games, [Sparrow Solitaire](/2023/04/13/sparrow-solitaire-for-playdate/), seems to be the [top-rated game for the system](https://www.backloggd.com/games/lib/rating/release_platform:playdate). And in early-2024, whilst using an old pocket computer, [I randomly stumbled across the earliest digital emoji](/2024/05/10/emoji-history-the-missing-years/), which was another nice surprise. 
 
-And that brings us to the present. I hope you've enjoyed reading this page. I'll be sure to update it as time goes on. 
+And that brings us to the present. I hope you've enjoyed reading this page, and I'll be sure to update it as time goes on. Cheers!
 
 ----
 
 ## Old but gold
 
-Before this blog my main web presence was the main domain [gingerbeardman.com](https://www.gingerbeardman.com) which is still up and contains a portfolio of sorts: lists of websites, app, projects, that I created over the years. My original web sites from 1996 are also [archived](https://www.gingerbeardman.com/archive/), including my old Windows and Atari software.
+Before this blog my main web presence was the main domain [gingerbeardman.com](https://www.gingerbeardman.com), which is still up and contains a portfolio of sorts: lists of websites, app, projects, that I created over the years. My original web sites from 1996 are also [archived](https://www.gingerbeardman.com/archive/), including my old Windows and Atari software.
 
 ----
 
