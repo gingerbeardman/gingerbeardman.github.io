@@ -66,7 +66,7 @@ And that brings us to the present. I hope you've enjoyed reading this page, and 
 
 ## Old but gold
 
-Before this blog my main web presence was the main domain [gingerbeardman.com](https://www.gingerbeardman.com), which is still up and contains a portfolio of sorts: lists of websites, app, projects, that I created over the years. My original web sites from 1996 are also [archived](https://www.gingerbeardman.com/archive/), including my old Windows and Atari software.
+Before this blog my main web presence was the main domain [gingerbeardman.com](https://www.gingerbeardman.com), which is still updated and contains a portfolio of sorts: lists of websites, app, projects, that I created over the years. My original web sites from 1996 are also [archived](https://www.gingerbeardman.com/archive/), including my old Windows and Atari software.
 
 ----
 
