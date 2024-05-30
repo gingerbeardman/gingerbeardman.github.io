@@ -19,7 +19,7 @@ nouns:
 - Apple
 featured: false
 pinned: false
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1796271104635584616
 
 ---
 
