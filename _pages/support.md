@@ -6,7 +6,7 @@ permalink: /support.html
 ---
 
 <br>
-You can show your appreciation of the blog or any of the posts using, pay what you want:
+You can show your appreciation of a post, or the blog, using the links below, pay what you want:
 - [PayPal]({{ site.donate.paypalme }}) (one-off donation)
 - [Stripe]({{ site.donate.stripe }}) (one-off donation)
 - [Ko-fi](https://ko-fi.com/gingerbeardman) (one-off/recurring)
@@ -14,7 +14,7 @@ You can show your appreciation of the blog or any of the posts using, pay what y
 
 Any money raised goes towards buying old books, magazines, CD-ROMs, or gadgets, with the only goal being continued research into pre-internet happenings in the early digital world.
 
-**Social media**
+**Say "hi!" on social media**
 
 And you can always reach out to me on social media:
 

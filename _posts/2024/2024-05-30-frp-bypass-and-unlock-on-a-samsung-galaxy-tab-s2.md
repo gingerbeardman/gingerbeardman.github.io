@@ -27,7 +27,7 @@ I use an Android tablet for reading ebooks. My favourite ebook reader is the [So
 
 So I bought a Google Asus Nexus 7 which is really nice, but for my use any modern verison of Android shows that it's lacking CPU and RAM. It was OK for a while, I read a good handful of books on it, but I eventually wanted something more. I'd read about the Samsung Galaxy Tab S2 8.0 which is slightly wider and perhaps slightly lighter and above all more powerful. Both have very high resolution displays, which is a must for me for font rendering.
 
-I managed to snag a "faulty" Tab S2 8.0 on eBay that was listed as powering on and off but was locked to a Google Account. This is something I knew could be worked around, and this blog post gives a brief outline of how I did it.
+I managed to snag a "faulty" Tab S2 8.0 on eBay that was listed as powering on and off, but was locked to a Google Account. This is something I knew could be worked around, and this blog post gives a brief outline of how I did it.
 
 ----
 
