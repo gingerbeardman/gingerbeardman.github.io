@@ -80,6 +80,8 @@ Breaking down the command above:
 - `"$n.m4a"` = output, using filename from for loop, adding .m4a
 - `; done` = end for loop
 
+Hopefully that makes sense.
+
 - Result: many multi-channel M4A files
 
 ----
