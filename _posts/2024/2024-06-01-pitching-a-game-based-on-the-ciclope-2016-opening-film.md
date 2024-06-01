@@ -16,7 +16,7 @@ comments: https://twitter.com/gingerbeardman/status/
 
 ---
 
-A litte over a year ago I wrote a screenplay/pitch for a video game based on an animated short film created by [THE LINE Animation Studio](https://www.thelineanimation.com): the opening film from the CICLOPE Festival in 2016.
+A little over a year ago I wrote a screenplay/pitch for a video game based on an animated short film created by [THE LINE Animation Studio](https://www.thelineanimation.com): the opening film from the CICLOPE Festival in 2016.
 
 I'd like to make this game but I need support to do so. Until then I figured I'd post it here for all to read.
 
