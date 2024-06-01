@@ -10,6 +10,7 @@ tags:
 nouns:
 - CICLOPE Festival
 - THE LINE
+image: /images/posts/ciclope-09.mountains-valley.jpg
 featured: false
 pinned: false
 comments: https://twitter.com/gingerbeardman/status/
