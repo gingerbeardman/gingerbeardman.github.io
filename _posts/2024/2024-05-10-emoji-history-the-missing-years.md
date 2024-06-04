@@ -2,7 +2,7 @@
 layout: post
 title: "Emoji history: the missing years"
 date: '2024-05-10T21:00+01:00'
-last_modified_at: '2024-05-30T18:15+01:00'
+last_modified_at: '2024-06-04T17:32+01:00'
 tags:
 - japanese
 - emoji
