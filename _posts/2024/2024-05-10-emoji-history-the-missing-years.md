@@ -2,7 +2,7 @@
 layout: post
 title: "Emoji history: the missing years"
 date: '2024-05-10T21:00+01:00'
-last_modified_at: '2024-05-15T12:26+01:00'
+last_modified_at: '2024-05-30T18:15+01:00'
 tags:
 - japanese
 - emoji
@@ -96,7 +96,7 @@ At this point, I couldn't quite believe what I was seeing because I was under th
 
 ## 1990
 
-A little more reading, and a tip from my friend [@chamekan](https://twitter.com/chame) on Twitter, unearthed the fact that the NEC PI-ET1 in 1990 also contained emoji. The device is literally the coolest thing you've ever seen. With system software written by video game developer Hudson Soft its character set features emoji that can be typed inline, and it also features a ["montage function" that allows you to create faces for each of your contacts](https://youtu.be/8_w8elG3w0Y?t=248) — 15 years later we'd see something similar in Mii on Nintendo Wii in 2006. The emoji on this device are a lot less well designed, in my humble opinion, than those on the Sharp devices.
+A little more reading, and a tip from my friend [@chamekan](https://twitter.com/chame) on Twitter, unearthed the fact that the NEC PI-ET1 in 1990 also contained emoji[^piet1]. I also found a [collector who owned a device](https://www.reddit.com/r/retrobattlestations/comments/vzm9gm/nec_piet1_the_first_and_only_electronic_organizer/), and we'll hear more from them later on. The device is literally the coolest thing you've ever seen. With system software written by video game developer Hudson Soft its character set features emoji that can be typed inline, and it also features a ["montage function" that allows you to create faces for each of your contacts](https://youtu.be/8_w8elG3w0Y?t=248) — 15 years later we'd see something similar in Mii on Nintendo Wii in 2006. The emoji on this device are a lot less well designed, in my humble opinion, than those on the Sharp devices.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8_w8elG3w0Y?start=503" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -147,7 +147,7 @@ So I kept looking. I was aware of another line of Sharp devices, electronic orga
 
 ![JPG](https://cdn.gingerbeardman.com/images/posts/emoji-history-sharp-pa-8500-1988.jpg "Sharp PA-8500 (1988)")
 
-Thanks to a collector, [Akuji](https://www.reddit.com/r/OldHandhelds/comments/sr51ze/may_i_present_you_the_whole_family_of_sharp/), I was able to confirm that the Japanese PA-8500 device, released in 1988, contains emoji similar in design to those found on my PI-4000 and on the WD-A521. When redrawing these it was obvious that all the Sharp emoji sets are based on the same master design. (I'd love to know more about the Sharp artwork if anybody knows anything.)
+Thanks to a collector, [Akuji](https://www.reddit.com/r/OldHandhelds/comments/sr51ze/may_i_present_you_the_whole_family_of_sharp/), I was able to confirm that the Japanese PA-8500 device, released in 1988, contains emoji[^pa8500] similar in design to those found on my PI-4000 and on the WD-A521. When redrawing these it was obvious that all the Sharp emoji sets are based on the same master design. (I'd love to know more about the Sharp artwork if anybody knows anything.)
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/emoji-history-sharp-pa-8500-emoji-table-20-20.png#pa8500 "Emoji present on Sharp PA-8500 (1988)")
 {:.tofigure}
@@ -237,3 +237,10 @@ I won't be running the Wikipedia editing gauntlet, but if you do please let me k
 ## Terms of use
 
 > I painstakingly recreated the emoji sets on this page, pixel by pixel, over many days of hard work. I even went so far as [adding a new tool to the pixel art app I use](/2023/05/10/piskel-for-playdate/), so as to make the task of redrawing hundreds of emoji a little less daunting. Feel free to utilize the emoji images, just remember to credit @gingerbeardman and include a link to this page. Appreciate it!
+
+----
+
+## Printed citations
+
+[^piet1]: NEC Electronic Tool PI-ET1, Instruction Manual, p.131, システム外字数 ("Non System Kanji")
+[^pa8500]: Sharp Electronic Notebook PA-8500, Operating Instructions, p.201, 記号一覧表 ("Symbol List")
