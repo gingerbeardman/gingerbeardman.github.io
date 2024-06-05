@@ -19,6 +19,7 @@ nouns:
 - Twitter
 - Google
 featured: true
+image: /images/posts/list-of-vintage-japanese-pixel-dot-art-software.jpg
 comments: https://twitter.com/gingerbeardman/status/1714384114684416041
 
 ---

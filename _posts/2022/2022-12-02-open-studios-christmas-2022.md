@@ -11,6 +11,7 @@ nouns:
 - Open Studios
 - Christmas
 - Krowji
+image: /images/posts/open-studios-2022-dec.jpg
 comments: https://twitter.com/gingerbeardman/status/1598657364420427778
 
 ---

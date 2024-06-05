@@ -10,6 +10,7 @@ nouns:
 - Sharp
 - Playscii
 - ZAT SOFT
+image: /images/posts/hanafuda-zat-soft.png
 comments: https://twitter.com/gingerbeardman/status/1095296460999008256
 
 ---

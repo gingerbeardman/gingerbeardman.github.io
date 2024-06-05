@@ -16,6 +16,7 @@ tags:
 nouns:
 - Macintosh
 featured: true
+image: /images/posts/mmm-scatter.png
 comments: https://twitter.com/gingerbeardman/status/1454500776181702658
 
 ---

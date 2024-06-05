@@ -19,6 +19,7 @@ nouns:
   - Philippe Guillot
 title: Fixing bugs using Bird on Palm OS
 featured: true
+image: /images/posts/hana-bird.gif
 comments: https://twitter.com/gingerbeardman/status/1578440221871329280
 
 ---

@@ -14,6 +14,7 @@ nouns:
 - SameGame
 - Chain Shot
 - Panty Cat
+image: /images/posts/macigamekoma-11-xenomorph.png
 comments: https://twitter.com/gingerbeardman/status/1654087871689637889
 style: |
   img {

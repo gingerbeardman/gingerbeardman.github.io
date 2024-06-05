@@ -10,6 +10,7 @@ tags:
 nouns:
 - National Diet Library
 - NDL
+image: /images/posts/ascii-1985-11-chain-shot-intro.jpg
 comments: https://twitter.com/gingerbeardman/status/1661358430546718720
 
 ---

@@ -12,7 +12,7 @@ nouns:
 - UltraPaint
 - DeBabelizer
 - MacPaint
-carousel: ''
+image: /images/posts/1bit-kamisuki.png
 featured: false
 comments: https://twitter.com/gingerbeardman/status/1560315550504468481
 

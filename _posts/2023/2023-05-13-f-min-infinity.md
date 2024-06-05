@@ -16,6 +16,7 @@ nouns:
 - Windows 95
 - Vector
 - mpulip
+image: /images/posts/f-min-infinity.png
 comments: https://twitter.com/gingerbeardman/status/1657408088398241793
 
 ---

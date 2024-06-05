@@ -14,6 +14,7 @@ nouns:
 - Photoshop
 - ResEdit
 carousel: macintosh-toolbar-resedit
+image: /images/posts/macintosh-toolbar-resedit-3.png
 featured: false
 comments: https://twitter.com/gingerbeardman/status/1376195983676170249
 

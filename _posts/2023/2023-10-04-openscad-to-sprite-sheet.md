@@ -14,6 +14,7 @@ tags:
 nouns:
 - OpenSCAD
 - ImageMagick
+image: /images/posts/openscad-spritesheet-model-car.png
 comments: https://twitter.com/gingerbeardman/status/1709587637210665082
 
 ---

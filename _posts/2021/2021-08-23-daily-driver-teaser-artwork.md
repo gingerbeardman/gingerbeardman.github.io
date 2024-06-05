@@ -9,6 +9,7 @@ nouns:
 - Playdate
 - Daily Driver
 featured: true
+image: /images/posts/daily-driver-artwork.jpg
 comments: https://twitter.com/gingerbeardman/status/1428764405521657857
 
 ---

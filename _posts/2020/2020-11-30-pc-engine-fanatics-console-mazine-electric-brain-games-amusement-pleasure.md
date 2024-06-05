@@ -15,6 +15,7 @@ nouns:
 - Onn Lee
 - Andy Harris
 featured: true
+image: /images/posts/electric-brain-31.jpg
 comments: https://twitter.com/gingerbeardman/status/1333454206406111236
 
 ---

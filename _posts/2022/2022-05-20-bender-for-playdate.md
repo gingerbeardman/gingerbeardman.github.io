@@ -6,6 +6,7 @@ tags:
 - agbic
 - itchio
 nouns:
+image: /images/posts/bender-for-playdate.gif
 comments: https://twitter.com/gingerbeardman/status/1527995752617807877
 
 ---

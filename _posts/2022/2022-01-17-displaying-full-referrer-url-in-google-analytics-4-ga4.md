@@ -4,6 +4,7 @@ title: Displaying Full Referrer URL in Google Analytics 4 (GA4)
 tags:
 - google
 - analytics
+image: /images/posts/ga4-full-referrer-url.png
 comments: https://twitter.com/gingerbeardman/status/1523605729357479937
 
 ---

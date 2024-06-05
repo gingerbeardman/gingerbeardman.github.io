@@ -8,6 +8,7 @@ nouns:
 - Playdate
 - Daily Driver
 featured: true
+image: /images/posts/daily-driver-teaser-trailer.gif
 comments: https://twitter.com/gingerbeardman/status/1402299264458498048
 
 ---

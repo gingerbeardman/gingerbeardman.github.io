@@ -11,6 +11,7 @@ tags:
 nouns:
 - Marguerite
 - Wayback Machine
+image: /images/posts/marguerite-hanafuda.png
 comments: https://twitter.com/gingerbeardman/status/1672265558320992259
 
 ---

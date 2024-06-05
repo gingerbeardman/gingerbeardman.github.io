@@ -18,6 +18,7 @@ nouns:
 - GBA
 - DS
 featured: true
+image: /images/posts/polarium-advance-progress-chart.png
 comments: https://twitter.com/gingerbeardman/status/1656736368226074633
 style: |
   img.screen {

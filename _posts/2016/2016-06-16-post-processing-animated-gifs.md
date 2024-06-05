@@ -6,7 +6,7 @@ tags:
 - pico8
 - shell
 - script
-nouns:
+image: /images/posts/post-processing-animated-gifs-01.gif
 comments: https://twitter.com/gingerbeardman/status/1705946395021017135
 
 ---

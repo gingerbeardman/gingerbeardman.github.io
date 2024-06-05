@@ -5,6 +5,7 @@ tags:
 - playdate
 - itchio
 nouns:
+image: /images/posts/circular-game.gif
 comments: https://twitter.com/gingerbeardman/status/1531395067302256645
 
 ---

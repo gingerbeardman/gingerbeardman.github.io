@@ -28,6 +28,7 @@ nouns:
 - Macintosh
 - Apple
 - Newton
+image: /images/posts/macintosh-story-1.jpg
 comments: https://twitter.com/gingerbeardman/status/1435348876823875586
 
 ---

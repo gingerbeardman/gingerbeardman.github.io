@@ -21,6 +21,7 @@ nouns:
 - Super Mario Galaxy
 - Out Run
 - Micro Machines
+image: /images/posts/emora-kart.gif
 comments: https://twitter.com/gingerbeardman/status/1454783234089357317
 
 ---

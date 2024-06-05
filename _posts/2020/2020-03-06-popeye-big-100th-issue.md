@@ -12,6 +12,7 @@ nouns:
 - POPEYE
 - Magazine for City Boys
 featured: true
+image: /images/posts/popeye-big-100th-issue.jpg
 comments: https://twitter.com/gingerbeardman/status/1235585813137756161
 
 ---

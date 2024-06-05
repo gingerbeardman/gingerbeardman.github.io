@@ -9,7 +9,7 @@ tags:
 nouns:
 - Makefile
 - imagemagick
-image: "/images/posts/daily-driver-rgb-1bit-1-render.png"
+image: /images/posts/daily-driver-rgb-1bit-1-render.png
 comments: https://twitter.com/gingerbeardman/status/1401212929240977413
 
 ---

@@ -11,6 +11,7 @@ nouns:
 - Pebble Beach no Hatou
 - Waialae no Kiseki
 - Devil's Course
+image: /images/posts/t-and-e-golf-dokuhon.jpg
 comments: https://twitter.com/gingerbeardman/status/1454477438424080397
 
 ---

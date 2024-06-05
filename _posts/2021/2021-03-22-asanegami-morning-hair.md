@@ -8,7 +8,7 @@ tags:
 - 1bitwoodblocks
 - pixelart
 nouns: [UltraPaint, Pixaki]
-carousel: ''
+image: /images/posts/1bit-asanegami.png
 featured: true
 comments: https://twitter.com/gingerbeardman/status/1560315049604009984
 

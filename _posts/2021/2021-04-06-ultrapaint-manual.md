@@ -14,7 +14,7 @@ nouns:
 - artWORKS
 - Deneba
 - Canvas
-carousel: ''
+image: /images/posts/ultrapaint-manual-1.jpg
 featured: false
 
 ---

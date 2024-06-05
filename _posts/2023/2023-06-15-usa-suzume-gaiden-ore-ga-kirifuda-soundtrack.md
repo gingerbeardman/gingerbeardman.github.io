@@ -11,6 +11,7 @@ nouns:
 - COMPILE
 - Gamerip
 - Soundtrack
+image: /images/posts/kirifuda.png
 comments: https://twitter.com/gingerbeardman/status/1669433473117966361
 
 ---

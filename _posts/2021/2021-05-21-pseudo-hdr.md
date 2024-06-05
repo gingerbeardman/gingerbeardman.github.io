@@ -12,6 +12,7 @@ nouns:
 - Playdate
 - Makefile
 - HDR 1-bit rendering
+image: /images/posts/daily-driver-prerendered-sprites-new.gif
 comments: https://twitter.com/gingerbeardman/status/1395782266509475840
 
 ---

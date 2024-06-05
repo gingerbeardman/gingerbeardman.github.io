@@ -13,6 +13,7 @@ nouns:
 - WebKit
 - Mighty!
 - Tour
+image: /images/posts/pang-ds.jpg
 featured: false
 
 ---

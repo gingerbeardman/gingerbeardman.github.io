@@ -13,6 +13,7 @@ nouns:
 - Affinity Designer
 - Famicom
 featured: false
+image: /images/posts/door-door-redrawn-colour.png
 comments: https://twitter.com/gingerbeardman/status/1486808232878383105
 ---
 
