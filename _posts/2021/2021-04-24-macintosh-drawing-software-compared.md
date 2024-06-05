@@ -1,6 +1,6 @@
 ---
 layout: post
-last_modified_at: '2024-06-05T16:35+01:00'
+last_modified_at: '2024-06-05T16:46+01:00'
 tags:
 - system7
 - graphics
@@ -33,7 +33,9 @@ Freehand is king of the vector apps. It really was so much better than Illustrat
 
 Also interesting is how many early versions of successful apps didn't support layers (Photoshop, Freehand) or full transparency (Photoshop).
 
-One small disappointment: Macromedia Fireworks requires the PPC architecture so won't run on my iPad System 7 setup. Sad face.
+Almost every app has only a single level undo, with only Expression and Freehand offering multi-level undo. This is probably why everybody was using Freehand when I started work in graphic design the mid-late 1990s.
+
+One small disappointment: Macromedia Fireworks requires the PPC architecture so won't run on my iPad System 7 setup. Sad face. (But we can use [infinitemac.org](https://infinitemac.org))
 
 <div class="table-wrapper" markdown="block">
 | APP                | PIXEL | VECTOR | LAYERS | TRANSP. | UNDO | NOTES |
