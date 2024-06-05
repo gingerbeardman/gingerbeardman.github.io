@@ -11,6 +11,7 @@ nouns:
 - Playdate
 - Piskel
 - Apple silicon
+image: /images/posts/emoji-history-piskel.png
 comments: https://twitter.com/gingerbeardman/status/1656404128338198530
 
 ---

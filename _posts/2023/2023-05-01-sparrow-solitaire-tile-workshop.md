@@ -10,6 +10,7 @@ nouns:
 - Sparrow Solitaire
 - Mahjong Solitaire
 - Playdate
+image: /images/posts/sparrow-solitaire-tile-workshop.png
 comments: https://twitter.com/gingerbeardman/status/1653069995620933632
 
 ---

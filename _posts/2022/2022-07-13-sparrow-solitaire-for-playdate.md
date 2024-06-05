@@ -9,6 +9,7 @@ tags:
 nouns:
 - Sparrow Solitaire
 featured: true
+image: /images/posts/sparrow-my-tiles.gif
 comments: https://twitter.com/gingerbeardman/status/1547342592198774787
 
 ---

@@ -19,6 +19,7 @@ nouns:
 - iPad Pro
 - Enzan-Hoshigumi
 featured: true
+image: /images/posts/sparrow-release-zen.png
 comments: https://twitter.com/gingerbeardman/status/1646609021502214151
 
 ---

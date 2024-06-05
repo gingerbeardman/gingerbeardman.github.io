@@ -15,6 +15,7 @@ nouns:
 - App Store
 - Mac
 - Llamasoft
+image: /images/posts/playing-old-32-bit-ios-games-in-2021.jpg
 comments: https://twitter.com/gingerbeardman/status/1368883961145999362
 
 ---

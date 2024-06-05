@@ -16,6 +16,7 @@ nouns:
 - The Great Wave
 - Great Wave
 featured: true
+image: /images/posts/great-wave-british-museum.jpg
 comments: https://twitter.com/gingerbeardman/status/1645420490524065792
 
 ---

@@ -10,6 +10,7 @@ nouns:
 - Becker
 - Cascade
 - Traffic Pro
+image: /images/posts/becker-7949.png
 comments: https://twitter.com/gingerbeardman/status/1601959370728050688
 
 ---

@@ -26,6 +26,7 @@ nouns:
 - GTi Club
 - Dark Souls
 - Genki
+image: /images/posts/gti-club-supermini-festa-wii.jpg
 comments: https://twitter.com/gingerbeardman/status/1666517417218940934
 
 ---
