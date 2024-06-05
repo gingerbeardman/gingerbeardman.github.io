@@ -18,6 +18,7 @@ nouns:
 - Pac-Man
 - Flicky
 - SEGA
+image: /images/posts/yoyozo-emoji.png
 comments: https://twitter.com/gingerbeardman/status/1728879639987364015
 style: |
   p.screen img {

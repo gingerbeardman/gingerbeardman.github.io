@@ -36,6 +36,7 @@ nouns:
 - " Facebook"
 - fencell
 featured: true
+image: /images/posts/piece-vs-playdate.jpg
 comments: https://twitter.com/gingerbeardman/status/1429479465781010432
 
 ---

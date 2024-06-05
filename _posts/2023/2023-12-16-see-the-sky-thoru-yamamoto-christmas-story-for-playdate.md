@@ -21,7 +21,7 @@ nouns:
 - Thoru Yamamoto
 - Thoru
 - Matt Sephton
-image: /images/posts/thoru-yamamoto-see-the-sky-playdate.gif
+image: /images/posts/thoru-yamamoto-see-the-sky-playdate.png
 featured: true
 comments: https://twitter.com/gingerbeardman/status/1735813826589704428
 

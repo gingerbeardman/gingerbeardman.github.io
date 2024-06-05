@@ -9,6 +9,7 @@ tags:
 nouns:
 - Macintosh
 - Palm OS
+image: /images/posts/palmos-japanese-1-goal.png
 comments: https://twitter.com/gingerbeardman/status/1463568521196101635
 
 ---

@@ -24,6 +24,7 @@ nouns:
 - NEC MultiImpact NM-9900
 - Gaming Alexandria
 - Internet Archive
+image: /images/posts/kenichi-shinohara-pixel-art-ukiyoe-3.jpg
 comments: https://twitter.com/gingerbeardman/status/1709587637210665082
 
 ---

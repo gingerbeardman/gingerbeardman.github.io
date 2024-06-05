@@ -19,6 +19,7 @@ nouns:
 - Apple Music
 - Music
 - iTunes
+image: /images/posts/the-blue-nile-a-walk-across-the-rooftops.jpg
 comments: https://twitter.com/gingerbeardman/status/1760790600360599824
 style: |
   img {
