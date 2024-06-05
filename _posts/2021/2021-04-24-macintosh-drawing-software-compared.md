@@ -50,7 +50,7 @@ One small disappointment: Macromedia Fireworks requires the PPC architecture so 
 | Freehand 3.1–5.5   |       | ●      | ●      |         | ●    |  |
 | Illustrator 88–3.0 |       | ●      |        |         |      |  |
 | ImageStudio 0.6    | ●     |        |        |         |      | Custom brushes |
-| LightningPaint     | ●     |        |        |         |      | Erasable "polite palettes" |
+| LightningPaint     | ●     |        |        |         |      | Polite palettes |
 | MacDraw Pro        |       | ●      | ●      |         |      |  |
 | MacPaint           | ●     |        |        |         |      |  |
 | MacroPaint         | ●     |        |        | ○       |      | Transparent patterns |
