@@ -5,6 +5,7 @@ nouns: [External Tools, AppleLink, Deneba, UltraPaint, TOOL, ULTR, Canvas, TOL2,
 title: Mixing External Tools across Deneba software
 featured: yes
 comments: https://twitter.com/gingerbeardman/status/1386443522258219023
+
 ---
 One of the most interesting things about Deneba's early 1990s Macintosh drawing apps is that they were built in a modular way with additional files adding specific features. These days we call those Plugins but back in 1990 Deneba referred to them as External Tools.
 

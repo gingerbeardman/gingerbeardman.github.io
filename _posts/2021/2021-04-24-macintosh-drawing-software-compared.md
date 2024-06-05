@@ -1,5 +1,6 @@
 ---
 layout: post
+last_modified_at: '2024-06-05T16:35+01:00'
 tags:
 - system7
 - graphics
@@ -13,6 +14,11 @@ title: Macintosh drawing software compared
 comments: https://twitter.com/gingerbeardman/status/1385985050479677445
 featured: false
 carousel: ''
+style: |
+  table#macintosh-drawing-software th:nth-last-child(-n+1),
+  table#macintosh-drawing-software td:nth-last-child(-n+1) {
+    border-left: 1px solid #ccc;
+  }
 
 ---
 Below is a list of various drawing applications that are available to use with System 7 (68K).
@@ -29,34 +35,37 @@ Also interesting is how many early versions of successful apps didn't support la
 
 One small disappointment: Macromedia Fireworks requires the PPC architecture so won't run on my iPad System 7 setup. Sad face.
 
-| APP                | PIXEL | VECTOR | LAYERS | TRANSP. | NOTES |
-| ------------------ |:-----:|:------:|:------:|:-------:| ----- |
-| artWORKS           | ●     | ●      | ●      | ○       | Many layers, many objects |
-| Canvas             | ●     | ●      | ●      | ○       | Many layers, many objects |
-| ClarisDraw         | ●     | ●      | ●      |         | Pixel drawing within specific objects only |
-| Cricket Draw       |       | ●      |        |         |  |
-| Draw It Again Sam  |       | ●      | ●      |         |  |
-| Drawing Table      |       | ●      |        |         |  |
-| Expression         |       | ●      | ●      |         |  |
-| Freehand 1.0–2.0   |       | ●      | ○      |         | Layers not managed visually |
-| Freehand 3.1–5.5   |       | ●      | ●      |         |  |
-| Illustrator 88–3.0 |       | ●      |        |         |  |
-| ImageStudio 0.6    | ●     |        |        |         | Custom brushes |
-| LightningPaint     | ●     |        |        |         |  |
-| MacDraw Pro        |       | ●      | ●      |         |  |
-| MacPaint           | ●     |        |        |         |  |
-| MacroPaint         | ●     |        |        | ○       | Transparent patterns |
-| Photoshop 1.0–2.5  | ●     |        |        |         |  |
-| Photoshop 3.0      | ●     |        | ●      | ●       | Full alpha channel transparency |
-| PixelPaint         | ●     |        |        |         |  |
-| ShareDraw          |       | ●      | ●      |         |  |
-| Studio/1           | ●     |        |        |         | Animation, 1-bit |
-| Studio/8           | ●     |        |        |         | Animation, 8-bit |
-| SuperPaint         | ●     | ●      | ●      | ○       | Two layers, many objects |
-| UltraPaint         | ●     | ●      | ●      | ○       | Eight layers, many objects |
-| Zeus               | ●     |        |        |         | Animation |
+<div class="table-wrapper" markdown="block">
+| APP                | PIXEL | VECTOR | LAYERS | TRANSP. | UNDO | NOTES |
+| ------------------ |:-----:|:------:|:------:|:-------:|:----:| ----- |
+| artWORKS           | ●     | ●      | ●      | ○       |      | Many layers, many objects |
+| BluePaint          | ●     |        |        | ○       |      | PPC-only |
+| Canvas             | ●     | ●      | ●      | ○       |      | Many layers, many objects |
+| ClarisDraw         | ●     | ●      | ●      |         |      | Pixel drawing within specific objects |
+| Cricket Draw       |       | ●      |        |         |      |  |
+| Draw It Again Sam  |       | ●      | ●      |         |      |  |
+| Drawing Table      |       | ●      |        |         |      |  |
+| Expression         |       | ●      | ●      |         | ●    | Colour required |
+| Freehand 1.0–2.0   |       | ●      | ○      |         | ●    | Layers not managed visually |
+| Freehand 3.1–5.5   |       | ●      | ●      |         | ●    |  |
+| Illustrator 88–3.0 |       | ●      |        |         |      |  |
+| ImageStudio 0.6    | ●     |        |        |         |      | Custom brushes |
+| LightningPaint     | ●     |        |        |         |      | Erasable "polite palettes" |
+| MacDraw Pro        |       | ●      | ●      |         |      |  |
+| MacPaint           | ●     |        |        |         |      |  |
+| MacroPaint         | ●     |        |        | ○       |      | Transparent patterns |
+| Photoshop 1.0–2.5  | ●     |        |        |         |      |  |
+| Photoshop 3.0      | ●     |        | ●      | ●       |      | Full alpha channel transparency |
+| PixelPaint         | ●     |        |        |         |      | Special brush effects |
+| ShareDraw          |       | ●      | ●      |         |      |  |
+| Studio/1           | ●     |        |        |         |      | Animation, 1-bit |
+| Studio/8           | ●     |        |        |         |      | Animation, 8-bit |
+| SuperPaint         | ●     | ●      | ●      | ○       |      | Two layers, many objects |
+| UltraPaint         | ●     | ●      | ●      | ○       |      | Eight layers, many objects |
+| Zeus               | ●     |        |        |         |      | Animation |
 {: #macintosh-drawing-software}
 
+</div>
 Key: ● full support, ○ partial support
 
 ### Related posts
