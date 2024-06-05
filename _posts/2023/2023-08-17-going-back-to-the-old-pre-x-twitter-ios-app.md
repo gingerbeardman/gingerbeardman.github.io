@@ -26,6 +26,7 @@ nouns:
 - macOS
 - Payload
 - Archive Utility
+image: /images/posts/twitter-old-installed.png
 comments: https://twitter.com/gingerbeardman/status/1692245092768051421
 style: |
   figure, picture, img {

@@ -27,6 +27,7 @@ nouns:
 - SameGame
 - MaciGame
 - MSX Magazine Eternal Preservation Edition 2
+image: /images/posts/comoesta-sakamoto-letters-from-bill-g-1.jpg
 comments: https://twitter.com/gingerbeardman/status/1692975554452918537
 style: |
   p img {

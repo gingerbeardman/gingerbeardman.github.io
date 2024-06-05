@@ -28,6 +28,7 @@ nouns:
 carousel: ''
 featured: true
 pinned: 
+image: /images/posts/ultimate-classic-macintosh-1.jpg
 comments: https://twitter.com/gingerbeardman/status/1383559592873918469
 
 ---

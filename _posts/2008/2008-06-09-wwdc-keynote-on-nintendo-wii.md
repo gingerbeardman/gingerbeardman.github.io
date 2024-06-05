@@ -7,6 +7,7 @@ tags:
 nouns:
 - Nintendo Wii
 - WWDC
+image: /images/posts/wwdc-on-wii.jpg
 comments: https://twitter.com/gingerbeardman/status/1615063835039174669
 
 ---

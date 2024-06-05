@@ -25,6 +25,7 @@ nouns:
 - EPS
 - PDF
 - Photoshop
+image: /images/posts/deneba-canvas-david-rumfelt-the-famous-f40-exported.png
 featured: true
 comments: https://twitter.com/gingerbeardman/status/1680271012414324737
 style: |

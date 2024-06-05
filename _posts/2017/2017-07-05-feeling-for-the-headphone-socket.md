@@ -6,6 +6,7 @@ tags:
 - accessibility
 - medium
 nouns:
+image: /images/posts/feeling-for-the-headphone-socket.jpg
 comments: https://twitter.com/gingerbeardman/status/882232491255500800
 
 ---

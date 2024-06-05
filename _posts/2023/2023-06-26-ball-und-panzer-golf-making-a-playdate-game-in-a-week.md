@@ -20,6 +20,7 @@ nouns:
 - X68000 Z
 - X68000
 - Playdate
+image: /images/posts/ball-und-panzer-golf-05.gif
 featured: true
 redirect_from:
 - /2023/06/26/ball-und-panzer-golf-week-1/

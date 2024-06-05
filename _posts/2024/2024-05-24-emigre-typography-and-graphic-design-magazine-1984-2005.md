@@ -21,9 +21,11 @@ nouns:
 - Form
 - Macintosh
 - HyperCard
+image: /images/posts/emigre-magazine.jpg
 featured: false
 pinned: false
 comments: https://twitter.com/gingerbeardman/status/1794103412977500392
+
 ---
 
 *Emigre* magazine was a highly influential graphic design publication. It was known for its innovative and experimental approach to typography and graphic design, pushing the boundaries of traditional design norms—for better or worse. The magazine was published from 1984 (year of the Macintosh launch) until 2005, and during its run it played a critical role in shaping the discourse around digital design and typography. It was founded by [*Rudy VanderLans*](https://www.emigre.com/Designer/RudyVanderLans) and his wife [*Zuzana Licko*](https://www.emigre.com/Designer/ZuzanaLicko).

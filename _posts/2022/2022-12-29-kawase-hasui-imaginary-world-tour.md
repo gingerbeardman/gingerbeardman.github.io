@@ -10,6 +10,7 @@ nouns:
 - Midjourney
 - shin-hanga
 - Imaginary World Tour
+image: /images/posts/hasui-world-tour-17-mexico-chichen-itza.jpg
 featured: true
 comments: https://twitter.com/gingerbeardman/status/1608808828380000259
 style: |

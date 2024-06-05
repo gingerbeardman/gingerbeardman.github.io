@@ -19,6 +19,7 @@ nouns:
 - Columns
 - Borkov
 - Triangle Magic
+image: /images/posts/sega-palm-clie.png
 featured: true
 comments: https://twitter.com/gingerbeardman/status/1121001887183056897
 

@@ -18,6 +18,7 @@ nouns:
 - Hitachi
 - Piazza
 - Infinite Mac
+image: /images/posts/intelligentpad-about.png
 featured: true
 comments: https://twitter.com/gingerbeardman/status/1658951794809077760
 

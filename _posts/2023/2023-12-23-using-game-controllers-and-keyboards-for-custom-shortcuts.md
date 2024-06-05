@@ -30,6 +30,7 @@ nouns:
 - Work Louder
 - Bluetooth
 - Air Mouse
+image: /images/posts/8bitdo-micro-shortcuts.jpg
 comments: https://twitter.com/gingerbeardman/status/1738702658066661605
 
 ---

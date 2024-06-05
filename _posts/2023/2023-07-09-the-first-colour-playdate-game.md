@@ -12,6 +12,7 @@ nouns:
 - Playdate Simulator
 - Playdate
 - Simulator
+image: /images/posts/playdate-debugdraw.png
 comments: https://twitter.com/gingerbeardman/status/1677803170393649152
 
 ---

@@ -28,6 +28,7 @@ nouns:
 - CALEID
 - Windows 98
 - Windows
+image: /images/posts/caleid-promo.jpg
 comments: https://twitter.com/gingerbeardman/status/1695192750809919969
 
 ---

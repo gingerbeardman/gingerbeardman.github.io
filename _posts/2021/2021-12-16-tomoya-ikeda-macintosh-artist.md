@@ -15,6 +15,7 @@ nouns:
 - Igor Gasowski
 - Jarir Maani
 featured: true
+image: /images/posts/tomoya-ikeda-profile.jpg
 comments: https://twitter.com/gingerbeardman/status/1471859136828747777
 
 ---

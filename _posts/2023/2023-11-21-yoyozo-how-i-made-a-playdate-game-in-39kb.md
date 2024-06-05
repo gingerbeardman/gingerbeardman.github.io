@@ -17,6 +17,7 @@ nouns:
 - Catalog
 - YOYOZO
 - CANO-Lab
+image: /images/posts/yoyozo-teaser.gif
 featured: true
 pinned: true
 comments: https://twitter.com/gingerbeardman/status/1727030817116053611

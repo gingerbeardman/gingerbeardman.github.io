@@ -21,6 +21,7 @@ nouns:
 - Penabled
 - Samsung S-Pen with Eraser
 - Nintendo DS
+image: /images/posts/wacom-replacements.jpg
 comments: https://twitter.com/gingerbeardman/status/1388149800101687299
 
 ---

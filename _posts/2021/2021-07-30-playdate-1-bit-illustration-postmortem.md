@@ -25,6 +25,7 @@ nouns:
 - Files
 - iPadOS
 - Twitter
+image: /images/posts/playdate-during.jpg
 title: Playdate 1-bit illustration postmortem
 comments: https://twitter.com/gingerbeardman/status/1421091701763055621
 featured: false
