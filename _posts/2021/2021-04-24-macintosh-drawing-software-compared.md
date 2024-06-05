@@ -33,7 +33,7 @@ Freehand is king of the vector apps. It really was so much better than Illustrat
 
 Also interesting is how many early versions of successful apps didn't support layers (Photoshop, Freehand) or full transparency (Photoshop).
 
-Almost every app has only a single level undo, with only Expression and Freehand offering multi-level undo. This is probably why everybody was using Freehand when I started work in graphic design the mid-late 1990s.
+Almost every app has only a single level undo, with only Expression and Freehand offering multi-level undo. This is probably why everybody was using Freehand when I started work in graphic design in the mid-late 1990s.
 
 One small disappointment: Macromedia Fireworks requires the PPC architecture so won't run on my iPad System 7 setup. Sad face. (But we can use [infinitemac.org](https://infinitemac.org))
 
