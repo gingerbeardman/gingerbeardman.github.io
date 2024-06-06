@@ -58,7 +58,7 @@ At this point, early 2017, I interviewed at Apple for the iOS design team, but a
 
 ## 2020s
 
-By the end of COVID lockdown I had created a body of work—games, animations, fonts, and artwork—which was enough for me to secure a shared work space at a place called [Krowji](https://www.krowji.org.uk) in Cornwall. I worked there for a few months and did my best ever work, it was an amazing time of 100% focus. <!-- Everything was going great. -->
+By the end of COVID lockdown I had created a body of work—games, animations, fonts, and artwork—which was enough for me to secure a shared work space at a place called [Krowji](https://www.krowji.org.uk) in Cornwall. <!-- I worked there for a few months and did my best ever work, it was an amazing time of 100% focus. Everything was going great. -->
 
 <!-- Then, in August 2022, I experienced a number of traumatic events in quick succession, initially as a result of decisions made by other people on my behalf, and then as a result of some bad decisions of my own that compounded the situation. It wasn't immediately obvious what had happened, only that something was very wrong, and it took a year to really understand it. As a result of those events I am unfortunately living in the shadow of the trauma, with PTSD, and dealing with the long tail of the related aftermath, none of which is good. And that's what I've been dealing with, struggling with, ever since. I say this not for sympathy, but to let people know that I am different than I used to be. Whilst I'm conscious things will never be able to go back to how they were, I'm hopeful for the future. -->
 
