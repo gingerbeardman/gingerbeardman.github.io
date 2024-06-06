@@ -4,6 +4,7 @@ title: Aquaplus P/ECE (vs Panic Playdate)
 tags:
 - piece
 - playdate
+- japanese
 - hardware
 nouns:
 - Playdate
