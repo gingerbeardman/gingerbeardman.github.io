@@ -36,15 +36,22 @@ The following is a post file with different configurations you can add as an exa
 ```sh
 ---
 layout: post
+date: '2023-12-16T09:42+00:00'
+last_modified_at: '2024-06-08T00:37+01:00'
 title: Welcome to Jekyll!
 tags: [frontpage, jekyll, blog]
 nouns: [list, keywords, for, emphasise]
 image: '/images/posts/welcome.jpg'
 featured: true
 pinned: true
-comments: https://twitter.com/gingerbeardman/status/1380424305662656517
+comments: https://twitter.com/gingerbeardman/status/1383034107672862722
 carousel: carousel-id
 excerpt_separator: <!--more-->
+style: |
+  #custom .lookandfeel {
+    color: silver;
+  }
+
 ---
 ```
 
@@ -69,6 +76,8 @@ You can set the `title`, and the following optional fields `tags`, `nouns`, post
 - Carousel is taken from https://jekyllcodex.org/without-plugin/slider/ so please see that page for documentation. The only change I have made is allowing the id of the carousel to be specified in the post front matter, so that multiple carousels can be defined in `carousel.yml`.
 
 - Excerpt display is currently disabled on postcards, but an excerpt_separator can be defined.
+
+- Posts can be marked as `published: private`, so they can be seen by anybody with the URL but are excluded from listings, sitemap, RSS feed.
 
 ## Images
 
@@ -97,13 +106,6 @@ image: '/images/pages/about.jpeg'
 
 Things you can change are: `title` and `image` path.
 
-
-## Navigation
-
-I have removed the top navigation.
-
-My plan is to include all the links to the pages you have created in the footer.
-
 ## Disqus Comments
 
 Open `_includes/disqus.html` file, and change the `aspirethemes-demos` value on line `12` with your [Disqus account shortname](https://help.disqus.com/customer/portal/articles/466208).
@@ -125,7 +127,6 @@ And also check [Disqus troubleshooting guide](https://help.disqus.com/customer/p
 ## Social Media Links
 
 Removed in this fork.
-
 
 ## Update favicon
 
