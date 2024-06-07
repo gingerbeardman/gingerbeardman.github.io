@@ -58,7 +58,7 @@ At this point, early 2017, I interviewed at Apple for the iOS design team, but a
 
 ## 2020s
 
-By the end of COVID lockdown I had created a body of work—games, animations, fonts, and artwork—which was enough for me to secure a shared work space at a place called [Krowji](https://www.krowji.org.uk) in Cornwall.
+By the end of COVID lockdown I had created a body of work—games, animations, fonts, and artwork—which was enough for me to secure a shared work space at a place called [Krowji](https://www.krowji.org.uk) in Cornwall. 
 
 One of the games I made in September 2023, [YOYOZO, won a "Game of the Year" accolade](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/). So that was a nice diversion, if only for a short time. Another of my Playdate games, [Sparrow Solitaire](/2023/04/13/sparrow-solitaire-for-playdate/) that I made with Mac Vogelsang, seems to be the [top-rated game for the system](https://www.backloggd.com/games/lib/rating/release_platform:playdate). And in early-2024, whilst using an old pocket computer, [I randomly stumbled across the earliest digital emoji](/2024/05/10/emoji-history-the-missing-years/), which was another nice surprise. 
 
