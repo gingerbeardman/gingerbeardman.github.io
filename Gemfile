@@ -22,6 +22,8 @@ group :jekyll_plugins do
   gem 'jekyll-tagging'
   gem 'liquid-c'
   gem 'liquid'
+  gem 'base64'
+  gem 'csv'
 end
 
 gem "webrick"
