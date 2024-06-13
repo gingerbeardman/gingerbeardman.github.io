@@ -236,7 +236,7 @@ I won't be running the Wikipedia editing gauntlet, but if you do please let me k
 
 ## Terms of use
 
-> I painstakingly recreated the emoji sets on this page, pixel by pixel, over many days of hard work. I even went so far as [adding a new tool to the pixel art app I use](/2023/05/10/piskel-for-playdate/), so as to make the task of redrawing hundreds of emoji a little less daunting. Feel free to utilize the emoji images, just remember to credit @gingerbeardman and include a link to this page. I object to the use of these images for the purposes of creating NFTs. Thanks for your understanding!
+> I painstakingly recreated the emoji sets on this page, pixel by pixel, over many days of hard work. I even went so far as [adding a new tool to the pixel art app I use](/2023/05/10/piskel-for-playdate/), so as to make the task of redrawing hundreds of emoji a little less daunting. Feel free to utilize the emoji images, just remember to credit @gingerbeardman and include a link to this page. I object to the use of these images for the purpose of creating NFTs. Thanks for your understanding!
 
 ----
 
