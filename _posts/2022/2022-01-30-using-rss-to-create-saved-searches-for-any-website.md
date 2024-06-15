@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Using RSS to create saved searches for any website'
+last_modified_at: '2024-06-15T12:49+01:00'
 tags:
 - rss
 - hack
@@ -86,3 +87,9 @@ Here's the final result in my RSS reader:
 # It's up to you
 
 You can use this technique to implement saved searches from any website. Just be sure to check the site doesn't already have RSS feeds before you begin!
+
+----
+
+# Huginn
+
+Since shortly after this blog post was published I've been using [Huginn](https://github.com/huginn/huginn) as a replacement for Politepol. There's no real GUI so you have to scrape using CSS selectors or XPath, but it's quite a lot more powerful. I'd say it's a good advanced solution if you run into the limits of Politepol. Here's [an example Huginn Scenario](https://gist.github.com/gingerbeardman/e4b07db8d59dec441bc9ada1972789c4) that scrapes Yahoo! Japan Auctions search results.
