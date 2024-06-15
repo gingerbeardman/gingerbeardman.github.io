@@ -13,6 +13,7 @@ nouns:
 - Intel
 - Apple silicon
 - macOS
+image: /images/posts/boss-wii-02.jpg
 comments: https://twitter.com/gingerbeardman/status/1637977948354408451
 
 ---
