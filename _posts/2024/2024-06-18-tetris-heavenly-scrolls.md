@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "TETRIS: Heavenly Scrolls (1989)"
-date: '2024-06-18T15:37+01:00'
+date: '2024-06-18T15:47+01:00'
 tags:
-- video
-- pitch
-- animation
+- tetris
+- japanese
+- macintosh
+- software
+- history
 - game
 image: /images/posts/tetris-heavenly-scrolls-1990-01-front-cover.jpg
 featured: true
