@@ -18,7 +18,7 @@ comments: https://twitter.com/gingerbeardman/status/1803078079859859937
 
 ---
 
-Given the ongoing discussion about [whether or not TETRIS is 40 years old this year](https://www.timeextension.com/news/2024/06/anniversary-is-tetris-really-40-this-year), I thought it would be cool to add something interesting and relevant to the conversation. As a bonus this is something that, at the time of writing, is not covered in English anywhere on the internet.
+Given the ongoing discussion about [whether or not TETRIS is 40 years old this year](https://www.timeextension.com/news/2024/06/anniversary-is-tetris-really-40-this-year), I thought it would be cool to add something interesting and relevant to the conversation. As a bonus this is a book that, at the time of writing, is not covered in English anywhere on the internet.
 
 An old Japanese book about TETRIS, written in the first year the game was available outside of USSR:
 
