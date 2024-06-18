@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "TETRIS: Heavenly Scrolls (1989)"
+last_modified_at: '2024-06-18T21:47+01:00'
 date: '2024-06-18T15:47+01:00'
 tags:
 - tetris
@@ -28,7 +29,7 @@ An old Japanese book about TETRIS, written in the first year the game was availa
 
 Edited and translated by 石原恒和 Tsunekazu Ishihara, published 15th March 1989.
 
-Yes, [that's creator of Pokémon](https://en.wikipedia.org/wiki/Tsunekazu_Ishihara)!
+Yes, that's [the current CEO of The Pokémon Company](https://en.wikipedia.org/wiki/Tsunekazu_Ishihara)!
 
 ----
 
