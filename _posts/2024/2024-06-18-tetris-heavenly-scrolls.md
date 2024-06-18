@@ -9,7 +9,7 @@ tags:
 - software
 - history
 - game
-image: /images/posts/tetris-heavenly-scrolls-1989-img-01-front-cover.jpg
+image: /images/posts/tetris-heavenly-scrolls-1989-img-02-title-page.jpg
 featured: true
 pinned: false
 carousel: tetris-heavenly-scrolls
