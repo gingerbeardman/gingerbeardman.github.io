@@ -149,8 +149,8 @@
 }
 {% for item in site.data.carousel[page.carousel] %}
 .carousel__track .carousel__slide:nth-of-type({{ forloop.index }}) {
-  -webkit-transform: translateX({{ forloop.index0 }}00%);
-          transform: translateX({{ forloop.index0 }}00%);
+  -webkit-transform: translateX({{ forloop.index0 }}00%) translateZ(0);
+          transform: translateX({{ forloop.index0 }}00%) translateZ(0);
 }
 {% endfor %}
 
