@@ -83,13 +83,14 @@ I thought it would be fun to use [artWORKS](/tag/deneba/) my favourite classic M
 - Polygon: planter inner shadow (1)
 
 Plus
-- Calligraphic pen nibs: dynamic line thickness
-- Infinite fills: dithered patterned textures
+
+- Calligraphic pen nibs to get variable line thickness
+- Infinite fills to get dithered patterns and textures
 
 {% include carousel_multi.html height="75" unit="%" duration="7" number="2" %}
 
 ## Bonus!
 
-I was having too much fun with dither patterns, so I drew one more piece just for kicks. This one is called 「生け花」"Ikebana" ("flower arranging") was exported at 200% because I miscalculated my document size at the beginning. I drew the cutters and then transformed them with Free Rotate and Scale. There was minor pixel touch-up for the final stage and it measures 400×512px.
+I was having too much fun with dither patterns, so I drew one more piece just for kicks. This one is called 「生け花」"Ikebana" ("flower arranging") was exported at 200% because I miscalculated my document size at the beginning. I drew the cutters and then transformed them with Free Rotate and Scale. There was minor pixel touch-up after export and it measures 400×512px. Otherwise I used the same techniques as above.
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks-ikebana.png)
