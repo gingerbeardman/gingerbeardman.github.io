@@ -51,7 +51,7 @@ These three entries are based on graphics I created for a game I started making 
 - 32×32px = 「花見酒」hanami-sake yaku, ([link](https://twitter.com/gingerbeardman/status/1808102225857720725))
 - 128×128px = 「花札」hanafuda koi-koi game layout, ([link](https://twitter.com/gingerbeardman/status/1806905446805938219))
 
-The smaller cards shown in the full game layout are just the regular sized cards downscaled to 8×11px in code using nearest neighbour resizing. For all cards the border is drawn seperately.
+The smaller cards shown in the full game layout are just the regular sized cards downscaled to 8×11px in code using nearest neighbour resizing. For all cards the border is drawn seperately. One or the other size of card are most likely the smallest Hanafuda ever pixelled!?
 
 {% include carousel_multi.html height="100" unit="%" duration="7" number="1" %}
 
