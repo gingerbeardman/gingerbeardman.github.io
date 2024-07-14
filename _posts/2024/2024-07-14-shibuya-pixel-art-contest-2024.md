@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shibuya Pixel Art Contest 2024"
-last_modified_at: '2024-07-14T20:32+01:00'
+last_modified_at: '2024-07-14T22:49+01:00'
 date: '2024-07-14T17:42+01:00'
 tags:
 - graphics
@@ -67,7 +67,7 @@ It would be tremendously complicated and time-consuming to create artwork like t
 
 The final image was my 12th attempt at getting a convincing flower! With many of my earlier attempts I was slow to hide the cursor and beautiful flowers were ruined by rogue strokes of ink. Perhaps I should have added the ability to record/playback or some sort of undo to the app. ([link](https://twitter.com/gingerbeardman/status/1810481363046318410))
 
-![](https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-rorschach.png)
+![PNG](https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-rorschach.png)
 
 ----
 
@@ -87,3 +87,9 @@ Plus
 - Infinite fills: dithered patterned textures
 
 {% include carousel_multi.html height="75" unit="%" duration="7" number="2" %}
+
+## Bonus!
+
+I was having too much fun with dither patterns, so I drew one more piece just for kicks. This one is called 「生け花」"Ikebana" ("flower arranging") was exported at 200% because I miscalculated my document size at the beginning. I drew the cutters and then transformed them with Free Rotate and Scale. There was minor pixel touch-up for the final stage and it measures 400×512px.
+
+![PNG](https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks-ikebana.png)
