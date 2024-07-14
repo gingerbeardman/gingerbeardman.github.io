@@ -71,7 +71,7 @@ The final image was my 12th attempt at getting a convincing flower! With many of
 
 ## Deneba artWORKS for Classic Macintosh
 
-I thought it would be fun to use artWORKS my favourite classic Macintosh drawing app to create pixel art using vector shapes, the bundled external tools (plugins), and the infinite fills best known from their appearance in MacPaint. There are only 20 objects in this drawing, which I've titled 「黄金比」 or "the golden ratio". ([link](https://twitter.com/gingerbeardman/status/1812491599789576474))
+I thought it would be fun to use artWORKS my favourite classic Macintosh drawing app to create pixel art using vector shapes, the bundled external tools (plugins), and the infinite fills best known from their appearance in MacPaint. There are only 20 objects in this drawing, which is 200×300px in size and titled 「黄金比」 or "the golden ratio". ([link](https://twitter.com/gingerbeardman/status/1812491599789576474))
 
 - Spiral: flower heads (2)
 - Resistor: hairs (3)
