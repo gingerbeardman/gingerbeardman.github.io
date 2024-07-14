@@ -21,7 +21,7 @@ carousels:
     - image: https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks1.png
     - image: https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks2.png
 
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/search?q=from%3Agingerbeardman%20%23shibuyapixelart2024%20
 style: |
   .carousel__holder:nth-of-type(1) {
     padding-bottom: 100%;
@@ -39,8 +39,8 @@ For my entries I thought it would be cool to use different, unexpected software 
 
 These three entries are based on graphics I created for a game I started making when my wife was pregnant with our first child. We were house bound for a while, waiting for the birth, and I drew these cards and put together the start of a game, which remains unfinished. At least I finished the graphics!
 
-- 16×16px = 「花見」hanami card, [link](https://twitter.com/gingerbeardman/status/1808102421077295350)
-- 32×32px = 「花見酒」hanami-sake yaku, [link](https://twitter.com/gingerbeardman/status/1808102225857720725)
+- 16×16px = 「花見」hanami card, ([link](https://twitter.com/gingerbeardman/status/1808102421077295350))
+- 32×32px = 「花見酒」hanami-sake yaku, ([link](https://twitter.com/gingerbeardman/status/1808102225857720725))
 - 128×128px = 「花札」hanafuda koi-koi game layout, ([link](https://twitter.com/gingerbeardman/status/1806905446805938219))
 
 The smaller cards shown in the full game layout are just the regular sized cards downscaled to 8×11px in code using nearest neighbour resizing. For all cards the border is drawn seperately.
@@ -55,7 +55,7 @@ This entry was created with [Rorschach](https://gingerbeardman.itch.io/rorschach
 
 It would be tremendously complicated and time-consuming to create artwork like this pixel-by-pixel, or even with dither brushes, unless you had a pressure sensitive stylus. Rorschach and the Playdate accelerometer makes light work of it.
 
-The final image was my 12th attempt at getting a convincing flower! With many of my earlier attempts I was slow to hide the cursor and beautiful flowers were ruined by rogue strokes of ink. Perhaps I should have added the ability to record/playback or some sort of undo to the app. [link](https://twitter.com/gingerbeardman/status/1810481363046318410)
+The final image was my 12th attempt at getting a convincing flower! With many of my earlier attempts I was slow to hide the cursor and beautiful flowers were ruined by rogue strokes of ink. Perhaps I should have added the ability to record/playback or some sort of undo to the app. ([link](https://twitter.com/gingerbeardman/status/1810481363046318410))
 
 ![](https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-rorschach.png)
 
@@ -63,7 +63,7 @@ The final image was my 12th attempt at getting a convincing flower! With many of
 
 ## Deneba artWORKS for Classic Macintosh
 
-I thought it would be fun to use my favourite classic Macintosh drawing app to create pixel art using vector shapes, the bundled external tools (plugins), and the infinite fills best known from their appearance in MacPaint. There are a total of only 20 objects in this drawing. [link](https://twitter.com/gingerbeardman/status/1812491599789576474)
+I thought it would be fun to use my favourite classic Macintosh drawing app to create pixel art using vector shapes, the bundled external tools (plugins), and the infinite fills best known from their appearance in MacPaint. There are a total of only 20 objects in this drawing. ([link](https://twitter.com/gingerbeardman/status/1812491599789576474))
 
 - Spiral: flower heads (2)
 - Resistor: hairs (3)
