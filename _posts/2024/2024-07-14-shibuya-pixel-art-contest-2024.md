@@ -37,7 +37,7 @@ style: |
 
 ---
 
-For June and July of 2024 the [Shibuya Pixel Art Contest](https://pixel-art.jp/contesten) has been running, a welcome return after it not happening in 2023. Entries are open all over the world, but can only be submitted to Twitter using the hashtag [#shibuyapixelart2024](https://twitter.com/hashtag/shibuyapixelart2024). You have to include a name for the artwork and its original pixel dimensions (though it's OK to rescale small artwork so it can be seen more easily). There are special categories for 16×16px and 32×32px artwork, and then a category for anything bigger up to the maximum of 512×512px. Full rules at [https://pixel-art.jp/contesten](https://pixel-art.jp/contesten) and there's still time to enter!
+For June and July of 2024 the [Shibuya Pixel Art Contest](https://pixel-art.jp/contesten) has been running, a welcome return after it not happening in 2023. Entries are open all over the world, but can only be submitted to Twitter using the hashtag [#shibuyapixelart2024](https://twitter.com/hashtag/shibuyapixelart2024). You have to include a name for the artwork and its original pixel dimensions (though it's OK to rescale small artwork so it can be seen more easily). There are special categories for 16×16px and 32×32px artwork, and then a category for anything bigger up to the maximum of 512×512px. Full rules at [https://pixel-art.jp/contesten](https://pixel-art.jp/contesten) and there's still time to enter! Selected works will go on display around the Shibuya district of Tokyo in August and September.
 
 For my entries I thought it would be cool to use different, unexpected software to produce my artwork.
 
