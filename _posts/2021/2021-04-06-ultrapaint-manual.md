@@ -1,6 +1,7 @@
 ---
 layout: post
 title: UltraPaint Manual
+last_modified_at: '2024-07-14T16:53+01:00'
 tags:
 - history
 - manual
@@ -26,6 +27,10 @@ I received a package from America: the 30-year-old manual for UltraPaint, Deneba
 I love how the Option key in printed material from this era looks more like a 2-way switch symbol from an electrical circuit diagram than it does today.
 
 ![JPG](https://cdn.gingerbeardman.com/images/posts/ultrapaint-manual-option-key.jpg)
+
+## Similar Books
+
+The contents of the manual are very naibe compared to today, talking you through how to use menu items and dialog boxes. UltraPaint (and it's follow-up artWORKS) was a sister app to Canvas. If you're looking for something with the same tone and content as the manual, check out Deke McClelland's [Canvas 3.0: The Book](https://archive.org/details/canvas30book00mccl) over at Internet Archive.
 
 ## Dear Reader
 
