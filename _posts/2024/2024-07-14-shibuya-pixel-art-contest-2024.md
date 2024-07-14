@@ -28,6 +28,7 @@ carousels:
   - images:
     - image: https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks1.png
     - image: https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks2.png
+    - image: https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks3.png
 
 comments: https://twitter.com/search?q=from%3Agingerbeardman%20%23shibuyapixelart2024%20
 style: |
@@ -59,7 +60,7 @@ The smaller cards shown in the full game layout are just the regular sized cards
 
 ## Rorschach for Playdate
 
-This entry was created with [Rorschach](https://gingerbeardman.itch.io/rorschach) a creative toy/game I made for the [Playdate](https://play.date) handheld gaming system. This piece was created my moving the pen using the accelerometer and relying on dynamic ink colour. It's a fullscreen grab so it's 400×240px. Title is 「キクぞく」which is "Kikuzoku" or "Chrysanthemum".
+This entry was created with [Rorschach](https://gingerbeardman.itch.io/rorschach) a creative toy/game I made for the [Playdate](https://play.date) handheld gaming system. This piece was created my moving the pen using the accelerometer and relying on dynamic ink colour. It's a fullscreen grab at 400×240px, titled 「キクぞく」"Kikuzoku" or "Chrysanthemum".
 
 It would be tremendously complicated and time-consuming to create artwork like this pixel-by-pixel, or even with dither brushes, unless you had a pressure sensitive stylus. Rorschach and the Playdate accelerometer makes light work of it.
 
