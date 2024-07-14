@@ -18,7 +18,7 @@ nouns:
 - Rorschach
 - PICO-8
 - Macintosh
-image: /images/posts/
+image: /images/posts/shibuya-pixel-art-contest-2024-pico8-hanami-sake.png
 featured: false
 pinned: false
 carousels:
