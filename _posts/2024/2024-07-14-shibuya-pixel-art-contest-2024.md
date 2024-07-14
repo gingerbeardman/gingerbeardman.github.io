@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Shibuya Pixel Art Contest 2024"
+last_modified_at: '2024-07-14T20:32+01:00'
 date: '2024-07-14T17:42+01:00'
 tags:
 - graphics
