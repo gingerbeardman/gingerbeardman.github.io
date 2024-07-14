@@ -45,7 +45,7 @@ For my entries I thought it would be cool to use different, unexpected software 
 
 ## PICO-8
 
-These three entries are based on graphics I created for a game I started making when my wife was pregnant with our first child. We were house bound for a while, waiting for the birth, and I drew these cards and put together the start of a game, which remains unfinished. At least I finished the graphics!
+These three entries are based on graphics I created for a game I started making when my wife was pregnant with our first child. We were house bound for a while, waiting for the birth, and I drew these cards using [PICO-8](https://www.lexaloffle.com/pico-8.php) for a game which remains unfinished. At least I finished the graphics!
 
 - 16×16px = 「花見」hanami card, ([link](https://twitter.com/gingerbeardman/status/1808102421077295350))
 - 32×32px = 「花見酒」hanami-sake yaku, ([link](https://twitter.com/gingerbeardman/status/1808102225857720725))
@@ -59,7 +59,7 @@ The smaller cards shown in the full game layout are just the regular sized cards
 
 ## Rorschach for Playdate
 
-This entry was created with [Rorschach](https://gingerbeardman.itch.io/rorschach) a creative toy/game I made for Playdate. This piece was created my moving the pen using the accelerometer and relying on dynamic ink colour. It's a fullscreen grab so it's 400×240px. Title is 「キクぞく」which is "Kikuzoku" or "Chrysanthemum".
+This entry was created with [Rorschach](https://gingerbeardman.itch.io/rorschach) a creative toy/game I made for the [Playdate](https://play.date) handheld gaming system. This piece was created my moving the pen using the accelerometer and relying on dynamic ink colour. It's a fullscreen grab so it's 400×240px. Title is 「キクぞく」which is "Kikuzoku" or "Chrysanthemum".
 
 It would be tremendously complicated and time-consuming to create artwork like this pixel-by-pixel, or even with dither brushes, unless you had a pressure sensitive stylus. Rorschach and the Playdate accelerometer makes light work of it.
 
@@ -71,7 +71,7 @@ The final image was my 12th attempt at getting a convincing flower! With many of
 
 ## Deneba artWORKS for Classic Macintosh
 
-I thought it would be fun to use artWORKS my favourite classic Macintosh drawing app to create pixel art using vector shapes, the bundled external tools (plugins), and the infinite fills best known from their appearance in MacPaint. There are only 20 objects in this drawing, which is 200×300px in size and titled 「黄金比」 or "the golden ratio". ([link](https://twitter.com/gingerbeardman/status/1812491599789576474))
+I thought it would be fun to use [artWORKS](/tag/deneba/) my favourite classic Macintosh drawing app to create pixel art using vector shapes, the bundled external tools (plugins), and the infinite fills best known from their appearance in MacPaint. There are only 20 objects in this drawing, which is 200×300px in size and titled 「黄金比」 or "the golden ratio". ([link](https://twitter.com/gingerbeardman/status/1812491599789576474))
 
 - Spiral: flower heads (2)
 - Resistor: hairs (3)
