@@ -70,11 +70,11 @@ The smaller cards shown in the full game layout are just the regular sized cards
 
 ## Rorschach for Playdate
 
-This entry was created with [Rorschach](https://gingerbeardman.itch.io/rorschach) a creative toy/game I made for the [Playdate](https://play.date) handheld gaming system. This piece was created my moving the pen using the accelerometer and relying on dynamic ink colour. It's a fullscreen grab at 400×240px, titled 「キクぞく」"Kikuzoku" or "Chrysanthemum".
+This entry was created with [Rorschach](https://gingerbeardman.itch.io/rorschach) a creative toy/game I made for the [Playdate](https://play.date) handheld gaming system. This piece was created by moving the "pen" using the accelerometer and relying on the dynamic ink colour which is relative to the movement. It's a fullscreen grab at 400×240px, titled 「キクぞく」"Kikuzoku" or "Chrysanthemum".
 
-It would be tremendously complicated and time-consuming to create artwork like this pixel-by-pixel, or even with dither brushes, unless you had a pressure sensitive stylus. Rorschach and the Playdate accelerometer makes light work of it.
+It would be tremendously complicated and time-consuming to create artwork like this pixel-by-pixel, or even with dither brushes, unless you had some sort of pressure sensitive stylus. But Rorschach and the Playdate accelerometer makes light work of it.
 
-The final image was my 12th attempt at getting a convincing flower! With many of my earlier attempts I was slow to hide the cursor and beautiful flowers were ruined by rogue strokes of ink. Perhaps I should have added the ability to record/playback or some sort of undo to the app. ([link](https://twitter.com/gingerbeardman/status/1810481363046318410))
+The final image was my 12th attempt at getting a convincing flower! With many of my earlier attempts I was slow to hide the cursor and beautiful flowers were ruined by rogue strokes of ink after I'd technically finished. Perhaps I should have added the ability to record/playback or some sort of undo to the app. ([link](https://twitter.com/gingerbeardman/status/1810481363046318410))
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-rorschach.png)
 
@@ -82,7 +82,7 @@ The final image was my 12th attempt at getting a convincing flower! With many of
 
 ## Deneba artWORKS for Classic Macintosh
 
-I thought it would be fun to use [artWORKS](/tag/deneba/) my favourite classic Macintosh drawing app to create pixel art using vector shapes, the bundled external tools (plugins), and the infinite fills best known from their appearance in MacPaint. There are only 20 objects in this drawing, which is 200×300px in size and titled 「黄金比」 or "the golden ratio". ([link](https://twitter.com/gingerbeardman/status/1812491599789576474))
+I thought it would be fun to use my favourite classic Macintosh drawing app—Deneba [artWORKS](/tag/deneba/)—to create pixel art using vector shapes, its bundled external tools (plugins), and the infinite fills best known from their appearance in MacPaint. There are only 20 objects in this drawing, which is 200×300px in size and titled 「黄金比」 or "the golden ratio". ([link](https://twitter.com/gingerbeardman/status/1812491599789576474))
 
 - Spiral: flower heads (2)
 - Resistor: hairs (3)
@@ -100,6 +100,6 @@ Plus
 
 ## Bonus!
 
-I was having too much fun with dither patterns, so I drew one more piece just for kicks. This one is called 「生け花」"Ikebana" ("flower arranging") was exported at 200% because I miscalculated my document size at the beginning. I drew the cutters and then transformed them with Free Rotate and Scale. There was minor pixel touch-up after export and it measures 400×512px. Otherwise I used the same techniques as above.
+I was having too much fun with dither patterns, so I drew one more piece just for kicks. This one is called 「生け花」"Ikebana" ("flower arranging") and was exported at 200% because I miscalculated my document size at the beginning. I drew the shears and then transformed them with Free Rotate and Scale. There was minor pixel touch-up after export, and the final thing measures 400×512px. Otherwise I used the same techniques as above.
 
 {% include carousel_multi.html height="128" unit="%" duration="7" number="3" %}
