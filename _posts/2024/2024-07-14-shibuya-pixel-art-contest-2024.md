@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shibuya Pixel Art Contest 2024"
-last_modified_at: '2024-07-14T22:49+01:00'
+last_modified_at: '2024-07-15T13:38+01:00'
 date: '2024-07-14T17:42+01:00'
 tags:
 - graphics
@@ -30,11 +30,20 @@ carousels:
     - image: https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks1.png
     - image: https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks2.png
     - image: https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks3.png
+  - images:
+    - image: https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks-ikebana.png
+    - image: https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks-ikebana2.png
 
 comments: https://twitter.com/search?q=from%3Agingerbeardman%20%23shibuyapixelart2024%20
 style: |
   .carousel__holder:nth-of-type(1) {
     padding-bottom: 100%;
+  }
+  .carousel__holder:nth-of-type(2) {
+    padding-bottom: 75%;
+  }
+  .carousel__holder:nth-of-type(3) {
+    padding-bottom: 128%;
   }
 
 ---
@@ -93,4 +102,4 @@ Plus
 
 I was having too much fun with dither patterns, so I drew one more piece just for kicks. This one is called 「生け花」"Ikebana" ("flower arranging") was exported at 200% because I miscalculated my document size at the beginning. I drew the cutters and then transformed them with Free Rotate and Scale. There was minor pixel touch-up after export and it measures 400×512px. Otherwise I used the same techniques as above.
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks-ikebana.png)
+{% include carousel_multi.html height="128" unit="%" duration="7" number="3" %}
