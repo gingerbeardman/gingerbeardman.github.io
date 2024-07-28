@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shibuya Pixel Art Contest 2024"
-last_modified_at: '2024-07-15T13:38+01:00'
+last_modified_at: '2024-07-29T00:40+01:00'
 date: '2024-07-14T17:42+01:00'
 tags:
 - graphics
@@ -12,6 +12,7 @@ tags:
 - art
 nouns:
 - artWORKS
+- Canvas
 - Deneba
 - MacPaint
 - Playdate
@@ -33,7 +34,6 @@ carousels:
   - images:
     - image: https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks-ikebana.png
     - image: https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks-ikebana2.png
-
 comments: https://twitter.com/search?q=from%3Agingerbeardman%20%23shibuyapixelart2024%20
 style: |
   .carousel__holder:nth-of-type(1) {
@@ -98,8 +98,22 @@ Plus
 
 {% include carousel_multi.html height="75" unit="%" duration="7" number="2" %}
 
+----
+
 ## Bonus!
 
-I was having too much fun with dither patterns, so I drew one more piece just for kicks. This one is called 「生け花」"Ikebana" ("flower arranging") and was exported at 200% because I miscalculated my document size at the beginning. I drew the shears and then transformed them with Free Rotate and Scale. There was minor pixel touch-up after export, and the final thing measures 400×512px. Otherwise I used the same techniques as above.
+I was having too much fun with dither patterns, so I drew one more piece just for kicks. This one is called 「生け花」"Ikebana" ("flower arranging") and was exported at 200% because I miscalculated my document size at the beginning. I drew the shears and then transformed them with Free Rotate and Scale. There was minor pixel touch-up after export, and the final thing measures 400×512px. Otherwise I used the same techniques as above. ([link](https://twitter.com/gingerbeardman/status/1812840849211851109))
 
 {% include carousel_multi.html height="128" unit="%" duration="7" number="3" %}
+
+----
+
+## Extras Bonus!
+
+And I did one more just before the deadline. This is titled 「ラペルピン」"lapel pin" and is 512×512px and was created using the same vectors and fills technique. I decided to work in Canvas 3.0 rather than artWORKS, simply because it has a way of locking objects. The only new thing I did here is that I created two diagonal line fill patterns of my own for the collars. ([link](https://twitter.com/gingerbeardman/status/1817609688210690392))
+
+![PNG](https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks-lapel-pin.png)
+
+And here's a screenshot of my working area, Macintosh System 7.5.5 running in 1-bit colour at 1025x768 in the BasiliskII emulator. This time I created it on my MacBook Pro with external Magic Trackpad, but sometimes I [use my iPad Pro with Apple Pencil](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/).
+
+![PNG](https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks-lapel-pin-working.png)
