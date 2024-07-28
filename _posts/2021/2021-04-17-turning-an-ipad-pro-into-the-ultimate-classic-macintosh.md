@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Turning an iPad Pro into the Ultimate Classic Macintosh
+last_modified_at: '2024-07-29T00:55+01:00'
 tags:
 - system7
 - minivmac
@@ -82,7 +83,7 @@ So I added a bunch of custom resolutions to the BasiliskII soure code to add sup
 
 ## Custom Keyboards
 
-Both emulators share the same software keyboard mechanism. The keyboard layouts are user-editable as JSON and compiled into a custom format.
+Both emulators share the same software keyboard mechanism. The keyboard layouts are user-editable as JSON and [compiled](https://github.com/zydeco/macemu/tree/ios/BasiliskII/src/iOS/Keyboard%20Layouts) into a custom format.
 
 So I put together a [custom keyboard layout](https://github.com/gingerbeardman/artworks-keyboard) that can be used in either emulator that gives me quick thumb access to tools and shortcuts in my most used apps: artWORKS and UltraPaint. It works for both apps as they are closely related, sharing a lot of code and resources.
 

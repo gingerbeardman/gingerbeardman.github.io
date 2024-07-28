@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building BasiliskII for iOS
-last_modified_at: '2024-02-10T22:23+00:00'
+last_modified_at: '2024-07-29T00:55+01:00'
 tags:
 - basiliskii
 - emulation
@@ -68,7 +68,7 @@ Make this change at [line 108 in file B2ScreenView.mm](https://github.com/zydeco
 
 ### Custom Keyboard Layouts
 
-These are defined in JSON and compiled to a custom format:
+These are defined in JSON and [compiled](https://github.com/zydeco/macemu/tree/ios/BasiliskII/src/iOS/Keyboard%20Layouts) to a custom format:
 
 * [source file location on GitHub](https://github.com/zydeco/macemu/tree/ios/BasiliskII/src/iOS/BasiliskII/Keyboard%20Layouts)
 * several regional layouts are already provided
