@@ -114,6 +114,6 @@ And I did one more just before the deadline. This is titled 「ラペルピン�
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks-lapel-pin.png)
 
-And here's a screenshot of my working area, Macintosh System 7.5.5 running in 1-bit colour at 1025x768 in the BasiliskII emulator. This time I created it on my MacBook Pro with external Magic Trackpad, but sometimes I [use my iPad Pro with Apple Pencil](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/).
+And here's a screenshot of my working area, Macintosh System 7.5.5 running in 1-bit colour at 1025x768 in the BasiliskII emulator. This time I created it on my MacBook Pro with external Magic Trackpad, but [sometimes I use my iPad Pro with Apple Pencil](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/).
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks-lapel-pin-working.png)
