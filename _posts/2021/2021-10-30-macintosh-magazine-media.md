@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I'm preserving vintage Macintosh magazine media"
-last_modified_at: '2024-07-29T00:19+01:00'
+last_modified_at: '2024-07-29T11:08+01:00'
 date: '2021-10-30T12:34+00:00'
 tags:
 - macintosh
@@ -32,8 +32,8 @@ This is such an amazing treasure trove of files, containing many long lost files
 The archive as it stands (updated July 2024):
 
 *   date range: 1991–2002
-*   total media: 462 discs
-*   total files: 998,519 files
+*   total media: 461 discs
+*   total files: 998,512 files
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/mmm-scatter.png "Distribution of discs by month")
 {:.tofigure}
