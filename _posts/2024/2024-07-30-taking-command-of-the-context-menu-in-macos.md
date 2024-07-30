@@ -84,7 +84,7 @@ done
 
 ## Automator
 
-Setup is relatively straightforward:
+This has been a built-in macOS app since 2005. Setup is relatively straightforward:
 
 1. Create a new *Quick Action* workflow
 1. Workflow receives current: *movie files*
