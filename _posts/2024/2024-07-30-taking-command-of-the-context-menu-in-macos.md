@@ -105,7 +105,7 @@ So, pretty easy! But, there are some caveats or limitations that may or may not 
 
 ## ContextMenu
 
-Many years ago I found [ContextMenu](https://apps.apple.com/us/app/context-menu/id1236813619?mt=12) ($4.99) which solves all of the issues I have with the Automator approach. There's also a free version, [ContextMenu Lite](https://apps.apple.com/gb/app/context-menu-lite/id1261373706?mt=12), that supports up to 3 actions to give you a taste.
+Many years ago I found [ContextMenu](https://apps.apple.com/us/app/context-menu/id1236813619?mt=12) ($4.99) which solves all of the issues I have with the Automator approach. There's also a free version, [ContextMenu Lite](https://apps.apple.com/gb/app/context-menu-lite/id1261373706?mt=12), that supports up to 3 actions to give you a taste of the good stuff.
 
 - Submenu is optional
 - Apply to multiple types (files or directories; can be as granular as file extension)
