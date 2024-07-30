@@ -83,18 +83,17 @@ done
 
 Setup in Automator is simple:
 
-1. Create a new Quick Action workflow
-1. Workflow receives current: movie files
-1. in: Finder
-1. Add a new action of type action Run Shell Script (search for it)
-1. Pass input: as arguments
-1. This will give us a template
-1. Replace the echo line with your command
-1. Save, name it "Duplicate as MP4"
+1. Create a new *Quick Action* workflow
+1. Workflow receives current: *movie files*
+1. in: *Finder*
+1. Add a new action of type action *Run Shell Script* (search for it in the sidebar)
+1. Pass input: *as arguments* (this will give us a template command)
+1. *Replace the echo line with your command*
+1. *Save*, name it "Duplicate as MP4"
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-automator-setup.png)
 
-The menu item is now available on the right click menu, inside the Quick Actions submenu. After repeated use I find this submenu too annoying, but you may fare better.
+The menu item is now available on the right click menu, inside the *Quick Actions* submenu. After repeated use I find this submenu too annoying, but you may fare better.
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-automator-finder.png#half "Automator Quick Action in Finder Context Menu")
 {:.tofigure}
@@ -113,6 +112,7 @@ Many years ago I found [ContextMenu](https://apps.apple.com/us/app/context-menu/
 - Confirmation before running (if it's a potentially dangerous operation)
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-context-menu-setup.png#half)
+
 The menu item displays in Finder as follows:
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-context-menu-finder.png#half "ContextMenu Action in Finder Context Menu")
@@ -122,7 +122,7 @@ The menu item displays in Finder as follows:
 
 ## Compressing a GIF
 
-We can use the gifsicle command line tool to optimise (compress) an Animated GIF. The a parameters I use here are explained in the gifsicle man page, and I arrived at them with a lot of experimentation.
+We can use the [gifsicle](https://www.lcdf.org/gifsicle/) command line tool to optimise (compress) an Animated GIF. The a parameters I use here are explained in the [gifsicle man page](https://www.lcdf.org/gifsicle/man.html), and I arrived at them with [years of experimentation](/2016/06/16/post-processing-animated-gifs/).
 
 ```sh
 /opt/homebrew/bin/gifsicle -O1 -Okeep-empty --careful "$@" > "${@%.gif}.o.gif"
@@ -138,7 +138,7 @@ We can also do the same thing whilst scaling it up by a factor of 2:
 
 ## Repository of ContextMenu Actions
 
-Here's my repo of shared actions. Inside each .cmaction file is a `main.sh` file which contains the command that you can use in Automator if you'd like.
+Here's my repo of shared actions. Inside each `.cmaction` file is a `main.sh` file which contains the command that you can use in Automator if you'd like.
 
 - [https://github.com/gingerbeardman/contextmenu-actions](https://github.com/gingerbeardman/contextmenu-actions)
 
