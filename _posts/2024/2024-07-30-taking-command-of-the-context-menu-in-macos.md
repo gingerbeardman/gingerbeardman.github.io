@@ -83,7 +83,7 @@ done
 
 ## Automator
 
-Setup in Automator is simple:
+Setup is relatively straightforward:
 
 1. Create a new *Quick Action* workflow
 1. Workflow receives current: *movie files*
@@ -100,13 +100,13 @@ The menu item is now available on the right click menu, inside the *Quick Action
 ![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-automator-finder.png#half "Automator Quick Action in Finder Context Menu")
 {:.tofigure}
 
-So, pretty easy! But, there are some caveats or limitations that may or may not annoy you. Maybe we don't want the menu item to appear for such a broad range of files ("movie files"), or maybe we want it to appear for multiple types of files ("audio" and "movies"). Sadly this is not so easy with Automator.
+So, pretty easy! But, there are some caveats or limitations that may, or may not, annoy you. Perhaps we don't want the menu item to appear for such a broad range of files (all "movie files"), or maybe we want it to appear for multiple types of files (both "audio files" and "movie files"). Sadly this is not so easy with Automator.
 
 ----
 
 ## ContextMenu
 
-Many years ago I found [ContextMenu](https://apps.apple.com/us/app/context-menu/id1236813619?mt=12) ($4.99) which solves all of the issues I have with the Automator approach. There's also a free version, [ContextMenu Lite](https://apps.apple.com/gb/app/context-menu-lite/id1261373706?mt=12), that supports up to 3 actions to give you a taste of the good stuff.
+Many years ago I found [ContextMenu](https://apps.apple.com/us/app/context-menu/id1236813619?mt=12) ($4.99, not made by me) which solves all of the issues I have with the Automator approach. There's also a free version, [ContextMenu Lite](https://apps.apple.com/gb/app/context-menu-lite/id1261373706?mt=12), that supports up to 3 actions to give you a taste of the good stuff.
 
 - Submenu is optional
 - Apply to multiple types (files or directories; can be as granular as file extension)
