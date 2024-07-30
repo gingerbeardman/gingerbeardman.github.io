@@ -16,7 +16,7 @@ nouns:
 image: /images/posts/take-command-context-menu-finder.png
 featured: false
 pinned: false
-comments: https://twitter.com/
+comments: https://twitter.com/gingerbeardman/status/1818320135041769849
 style: |
   img[src$='#half'] {
     height: 616px;
