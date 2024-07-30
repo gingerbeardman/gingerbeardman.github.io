@@ -51,7 +51,7 @@ There are some assumptions here:
 - (older Intel Macs will have them installed to `/usr/local/bin/`)
 - the script is called with parameters passed by `argv` so the file is `$@`
 - the new file will have the same name as the original, but with a new .mp4 file extension
-- it only works on single files
+- it only works on single files (read on)
 
 You can take the exact same approach with any destination format as it is decided by the file extension. Cool. You could convert any of ffmpeg's supported file types to any other, such as WAV, OGG, MKV, etc.
 
