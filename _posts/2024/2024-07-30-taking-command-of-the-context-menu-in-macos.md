@@ -26,7 +26,7 @@ style: |
 
 ---
 
-Yesterday on Twitter the inimitable Morten Just posted a preview of a tool he's created that wrap ffmpeg to allow movies, such screen recordings but pretty much anything, to be re-encoded to a smaller filesize.
+Yesterday on Twitter the inimitable [Morten Just posted a preview of a tool he's created](https://twitter.com/mortenjust/status/1817991110544744764) that wrap ffmpeg to allow movies, such screen recordings but pretty much anything, to be re-encoded to a smaller filesize.
 
 I responded with a trick I use to do the same on "right-click" context menu using a macOS app called ContextMenu, and others said it was possible to do it using Automator (with some caveats). In this blog post I'll compare the two.
 
