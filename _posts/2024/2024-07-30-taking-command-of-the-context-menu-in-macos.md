@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Taking command of the Context Menu in macOS"
+last_modified_at: '2024-07-30T22:37+01:00'
 date: '2024-07-30T17:14+01:00'
 tags:
 - macos
@@ -27,7 +28,7 @@ style: |
 
 Yesterday on Twitter the inimitable Morten Just posted a preview of a tool he's created that wrap ffmpeg to allow movies, such screen recordings but pretty much anything, to be re-encoded to a smaller filesize.
 
-I responded with a trick I use to do the same on right-click using a macOS app called ContextMenu, and others said it was possible to do it using Automator (with some caveats). In this blog post I'll compare the two.
+I responded with a trick I use to do the same on "right-click" context menu using a macOS app called ContextMenu, and others said it was possible to do it using Automator (with some caveats). In this blog post I'll compare the two.
 
 But first... let's talk about how we will make this work.
 
@@ -95,7 +96,7 @@ Setup is relatively straightforward:
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-automator-setup.png)
 
-The menu item is now available on the right click menu, inside the *Quick Actions* submenu. After repeated use I find this submenu too annoying, but you may fare better.
+The menu item is now available on the context menu, inside the *Quick Actions* submenu. After repeated use I find this submenu too annoying, but you may fare better.
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-automator-finder.png#half "Automator Quick Action in Finder Context Menu")
 {:.tofigure}
@@ -122,7 +123,7 @@ The menu item displays in Finder as follows:
 ![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-context-menu-finder.png#half "ContextMenu Action in Finder Context Menu")
 {:.tofigure}
 
-ContextMenu stores these files in its own group folder, right click an action and choose *Show in Finder*, but you can specify your own folder in a location of uyour choice. The later is probably the best way to migrate them to a new Mac.
+ContextMenu stores these files in its own group folder, right click an action and choose *Show in Finder*, but you can specify your own folder in a location of your choice. Both will migrate to a new Mac, but the later might give you more control.
 
 ----
 
