@@ -146,4 +146,26 @@ Here's my repo of shared actions. Inside each `.cmaction` file is a `main.sh` fi
 
 These include many useful commands such as:
 
-- Convert BIN+CUE to ISO- Change sample rate of audio- Convert image to 1-bit- Convert image format- Create Clean ZIP- Duplicate audio as alternative format- Duplicate image as alternative format- Duplicate movie as alternative format- File information- Generate images for web- Make script executable- New file with clipboard- Open file with specific apps- Optimize GIF- Set GIF to loop infinitely- Show GIF info- Playdate Colorize IMG- Replace Existing App (warning)- Set as MacJapanese encoding- Stub out file (warning)- Touch file
+- Convert BIN+CUE to ISO
+- Change sample rate of audio
+- Convert image to 1-bit
+- Convert image format
+- Create Clean ZIP
+- Duplicate audio as alternative format
+- Duplicate image as alternative format
+- Duplicate movie as alternative format
+- File information
+- Generate images for web
+- Make script executable
+- Move file (includes helper app)
+- New file with clipboard
+- Open file with specific apps
+- Optimize GIF
+- Set GIF to loop infinitely
+- Show GIF info
+- Playdate Colorize IMG
+- Replace Existing App (warning)
+- Set as MacJapanese encoding
+- Show hashes (includes helper app)
+- Stub out file (warning)
+- Touch file
