@@ -6,7 +6,6 @@ tags:
 - macos
 - hack
 - software
-- hack
 - displays
 nouns:
 - macOS
