@@ -47,11 +47,11 @@ The one-line command to convert a video or audio file can be as simple as the fo
 
 There are some assumptions here:
 1. `ffmpeg` has been installed using `brew`
-1. the script is called with parameters passed by `argv`
+1. the script is called with parameters passed by `argv` so the file is `$@`
 1. the new file will have the same name as the original, but with a new .mp4 file extension
 1. it only works on single files
 
-You can take the exact same approach any destination format as it is decided by the file extension. You could convert any of ffmpeg's supported file types to any other, such as WAV, OGG, MKV, etc.
+You can take the exact same approach with any destination format as it is decided by the file extension. Cool. You could convert any of ffmpeg's supported file types to any other, such as WAV, OGG, MKV, etc.
 
 And as we'll see later we can take this simple command and change it to use other command line tools to compress GIFs, with or without upscaling, and many other timesaving tasks. Powerful stuff!
 
@@ -90,7 +90,7 @@ Setup in Automator is simple:
 1. Pass input: as arguments
 1. This will give us a template
 1. Replace the echo line with your command
-1. Save "Convert to MP4"
+1. Save, name it "Duplicate as MP4"
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-automator-setup.png)
 
