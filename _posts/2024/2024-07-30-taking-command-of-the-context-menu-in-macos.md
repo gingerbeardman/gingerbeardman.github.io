@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Taking command of the context menu in macOS"
+title: "Taking command of the Context Menu in macOS"
 date: '2024-07-30T17:14+01:00'
 tags:
 - macos
