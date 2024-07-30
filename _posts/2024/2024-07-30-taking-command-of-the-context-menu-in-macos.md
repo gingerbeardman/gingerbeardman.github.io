@@ -102,6 +102,8 @@ The menu item is now available on the right click menu, inside the *Quick Action
 
 So, pretty easy! But, there are some caveats or limitations that may, or may not, annoy you. Perhaps we don't want the menu item to appear for such a broad range of files (all "movie files"), or maybe we want it to appear for multiple types of files (both "audio files" and "movie files"). Sadly this is not so easy with Automator.
 
+Automator stores these files at `~/Library/Services/` and they will migrate to a new Mac.
+
 ----
 
 ## ContextMenu
@@ -119,6 +121,8 @@ The menu item displays in Finder as follows:
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-context-menu-finder.png#half "ContextMenu Action in Finder Context Menu")
 {:.tofigure}
+
+ContextMenu stores these files in its own group folder, right click an action and choose *Show in Finder*, but you can specify your own folder in a location of uyour choice. The later is probably the best way to migrate them to a new Mac.
 
 ----
 
@@ -165,6 +169,7 @@ These include many useful commands such as:
 - Show GIF info
 - Playdate Colorize IMG
 - Replace Existing App (warning)
+- Scale image to certain percentage
 - Set as MacJapanese encoding
 - Show hashes (includes helper app)
 - Stub out file (warning)
