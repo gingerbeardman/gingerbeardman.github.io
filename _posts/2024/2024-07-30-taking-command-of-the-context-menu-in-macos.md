@@ -29,7 +29,7 @@ Yesterday on Twitter the inimitable Morten Just posted a preview of a tool he's 
 
 I responded with a trick I use to do the same on right-click using a macOS app called ContextMenu, and others said it was possible to do it using Automator (with some caveats). In this blog post I'll compare the two.
 
-But first... let's talk about how we will make this all work.
+But first... let's talk about how we will make this work.
 
 ----
 
