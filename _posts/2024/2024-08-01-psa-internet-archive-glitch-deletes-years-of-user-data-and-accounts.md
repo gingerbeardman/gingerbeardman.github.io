@@ -55,3 +55,12 @@ Here's a summary of the current status of the pages related to a deleted account
 My support experience with Internet Archive was frustrating and ultimately futile. They did not adequately address my queries and requests. Instead they made changes to my account that I did not request, and in the end were pretty clear that they were not going to help me any further. This is such a disappointing stance to take with users who are simply trying to recover their data as a result of loss caused by Internet Archive itself.
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/internet-archive-glitch.png)
+
+----
+
+## Elsewhere
+
+- [Hacker News](https://news.ycombinator.com/item?id=41131388)
+- [Lobste.rs](https://lobste.rs/s/82zpde/psa_internet_archive_glitch_deletes)
+- [Tildes](https://tildes.net/~tech/1hy4/psa_internet_archive_glitch_deletes_years_of_user_data_accounts#comment-dbpw)
+- [Two Stop Bits](http://twostopbits.com/item?id=3935)
