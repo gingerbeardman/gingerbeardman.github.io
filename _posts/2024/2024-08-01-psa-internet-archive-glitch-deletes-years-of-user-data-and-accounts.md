@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "PSA: Internet Archive “glitch” deletes years of user data & accounts"
+last_modified_at: '2024-08-01T19:24+01:00'
 date: '2024-08-01T18:16+01:00'
 tags:
 - psa
@@ -54,7 +55,9 @@ Here's a summary of the current status of the pages related to a deleted account
 
 My support experience with Internet Archive was frustrating and ultimately futile. They did not adequately address my queries and requests. Instead they made changes to my account that I did not request, and in the end were pretty clear that they were not going to help me any further. This is such a disappointing stance to take with users who are simply trying to recover their data as a result of loss caused by Internet Archive itself.
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/internet-archive-glitch.png)
+![PNG](https://cdn.gingerbeardman.com/images/posts/internet-archive-glitch.png "(your data) cannot be restored and, for the last time, the old user name is no longer available.")
+{:.tofigure}
+
 
 ----
 
