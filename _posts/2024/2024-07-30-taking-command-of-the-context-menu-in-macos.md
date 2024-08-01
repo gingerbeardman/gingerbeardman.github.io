@@ -24,6 +24,12 @@ style: |
     width: auto;
     margin: 0 auto;
   }
+  img[src$='#half']:nth-child(2) {
+    width: 370px;
+  }
+  img[src$='#half']:nth-child(4) {
+    width: 626px;
+  }
 
 ---
 
