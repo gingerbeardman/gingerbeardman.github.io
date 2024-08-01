@@ -19,16 +19,11 @@ featured: false
 pinned: false
 comments: https://twitter.com/gingerbeardman/status/1818320135041769849
 style: |
-  img[src$='#half'] {
-    height: 616px;
-    width: auto;
-    margin: 0 auto;
-  }
-  img[src$='#half']:nth-child(2) {
-    width: 370px;
-  }
-  img[src$='#half']:nth-child(4) {
-    width: 626px;
+  @media screen and (max-width: 768px) {
+    /* Select all images except the first one */
+    img:not(:first-of-type) {
+      width: 50%;
+    }
   }
 
 ---
@@ -105,7 +100,7 @@ This has been a built-in macOS app since 2005. Setup is relatively straightforwa
 
 The menu item is now available on the context menu, inside the *Quick Actions* submenu. After repeated use I find this submenu too annoying, but you may fare better.
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-automator-finder.png#half "Automator Quick Action in Finder Context Menu")
+![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-automator-finder.png "Automator Quick Action in Finder Context Menu")
 {:.tofigure}
 
 So, pretty easy! But, there are some caveats or limitations that may, or may not, annoy you. Perhaps we don't want the menu item to appear for such a broad range of files (all "movie files"), or maybe we want it to appear for multiple types of files (both "audio files" and "movie files"). Sadly this is not so easy with Automator.
@@ -123,11 +118,11 @@ Many years ago I found [ContextMenu](https://apps.apple.com/us/app/context-menu/
 - Show output (sometimes you want to see the results of the command)
 - Confirmation before running (if it's a potentially dangerous operation)
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-context-menu-setup.png#half)
+![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-context-menu-setup.png)
 
 The menu item displays in Finder as follows:
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-context-menu-finder.png#half "ContextMenu Action in Finder Context Menu")
+![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-context-menu-finder.png "ContextMenu Action in Finder Context Menu")
 {:.tofigure}
 
 ContextMenu stores these files in its own group folder, right click an action and choose *Show in Finder*, but you can specify your own folder in a location of your choice. Both will migrate to a new Mac, but the later might give you more control.
