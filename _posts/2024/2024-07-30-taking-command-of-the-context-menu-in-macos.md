@@ -21,6 +21,7 @@ comments: https://twitter.com/gingerbeardman/status/1818320135041769849
 style: |
   img[src$='#half'] {
     height: 616px;
+    width: auto;
     margin: 0 auto;
   }
 
