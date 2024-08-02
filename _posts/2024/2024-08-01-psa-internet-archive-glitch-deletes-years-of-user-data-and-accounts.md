@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PSA: Internet Archive “glitch” deletes years of user data & accounts"
-last_modified_at: '2024-08-01T19:24+01:00'
+last_modified_at: '2024-08-01T20:34+01:00'
 date: '2024-08-01T18:16+01:00'
 tags:
 - psa
@@ -35,19 +35,19 @@ This story is still developing, and the press have been notified.
 Here's a summary of the current status of the pages related to a deleted account.
 
 **Remaining**
-- [https://archive.org/details/fav-gingerbeardman](https://archive.org/details/fav-gingerbeardman)
+- [archive.org/details/fav-gingerbeardman](https://archive.org/details/fav-gingerbeardman)
 
 **Relinked**
-- [https://archive.org/details/@gingerbeardman/uploads](https://archive.org/details/@flicky1984/uploads)
+- [archive.org/details/@gingerbeardman/uploads](https://archive.org/details/@flicky1984/uploads)
 
 **Lost**
-- [https://archive.org/details/@gingerbeardman](https://archive.org/details/@gingerbeardman)
-- [https://archive.org/details/@gingerbeardman/loans](https://archive.org/details/@gingerbeardman/loans)
-- [https://archive.org/details/@gingerbeardman/lists](https://archive.org/details/@gingerbeardman/lists)
-- [https://archive.org/details/@gingerbeardman/posts](https://archive.org/details/@gingerbeardman/posts)
-- [https://archive.org/details/@gingerbeardman/reviews](https://archive.org/details/@gingerbeardman/reviews)
-- [https://archive.org/details/@gingerbeardman/collections](https://archive.org/details/@gingerbeardman/collections)
-- [https://archive.org/details/@gingerbeardman/web-archive](https://archive.org/details/@gingerbeardman/web-archive)
+- [archive.org/details/@gingerbeardman](https://archive.org/details/@gingerbeardman)
+- [archive.org/details/@gingerbeardman/loans](https://archive.org/details/@gingerbeardman/loans)
+- [archive.org/details/@gingerbeardman/lists](https://archive.org/details/@gingerbeardman/lists)
+- [archive.org/details/@gingerbeardman/posts](https://archive.org/details/@gingerbeardman/posts)
+- [archive.org/details/@gingerbeardman/reviews](https://archive.org/details/@gingerbeardman/reviews)
+- [archive.org/details/@gingerbeardman/collections](https://archive.org/details/@gingerbeardman/collections)
+- [archive.org/details/@gingerbeardman/web-archive](https://archive.org/details/@gingerbeardman/web-archive)
 
 ----
 
