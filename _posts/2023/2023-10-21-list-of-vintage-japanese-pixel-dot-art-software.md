@@ -38,7 +38,7 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
-Total entries: 237
+Total entries: 238
 
 <div class="table-wrapper" markdown="block">
 | Platform | English | Japanese | Year | Developer |
@@ -257,7 +257,8 @@ Total entries: 237
 | X68000 | Graphics Editor ARTIST |  | 1992 | T.Shimanuki/GCC |
 | X68000 | Matier | マチエール | 1992 | Meteor Art Tech |
 | X68000 | mfged.x |  | 1988 | Mamiyu Yuuki |
-| X68000 | MONOCRAYON / CUT | ＭＯＮＯくれよん | 1990 |  |
+| X68000 | MONOCRAYON | ＭＯＮＯくれよん | 1990 |  |
+| X68000 | Wide Edition MONOCRAYON | ワイド版 ＭＯＮＯくれよん |  |  |
 | X68000 | Monotone |  | 1988 | GUNchan |
 | X68000 | Onazorikun |  | 1990 | Muchi |
 | X68000 | Prism 68K | プリズム68K | 1989 | WOLF TEAM |
