@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JINZO Paint: vintage mobile drawing app'
-last_modified_at: '2024-01-26T21:05+00:00'
+last_modified_at: '2024-08-02T15:21+01:00'
 date: '2024-01-22T20:53+00:00'
 tags:
 - graphics
@@ -83,6 +83,13 @@ I've also added keyboard control to JINZO Paint 16, with standard Photoshop keys
 ![JPG](https://cdn.gingerbeardman.com/images/posts/jinzo-paint-dev.png "JINZO Paint 16, source code modifications")
 {:.tofigure}
 
+----
+
+## Repo
+
+- [https://github.com/brain-hackers/jinzo-paint](https://github.com/brain-hackers/jinzo-paint)
+
+----
 
 ## Further reading
 
