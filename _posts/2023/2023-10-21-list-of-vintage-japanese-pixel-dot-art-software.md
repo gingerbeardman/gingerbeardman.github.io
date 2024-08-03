@@ -257,8 +257,8 @@ Total entries: 238
 | X68000 | Graphics Editor ARTIST |  | 1992 | T.Shimanuki/GCC |
 | X68000 | Matier | マチエール | 1992 | Meteor Art Tech |
 | X68000 | mfged.x |  | 1988 | Mamiyu Yuuki |
-| X68000 | MONOCRAYON | ＭＯＮＯくれよん | 1990 |  |
-| X68000 | MONOCRAYON Wide Edition | ワイド版 ＭＯＮＯくれよん |  |  |
+| X68000 | MONOCRAYON | ＭＯＮＯくれよん | 1990 | Yasuhiro Sasama |
+| X68000 | MONOCRAYON Wide Edition | ワイド版 ＭＯＮＯくれよん | 1994 | Noboru Ishii |
 | X68000 | Monotone |  | 1988 | GUNchan |
 | X68000 | Onazorikun |  | 1990 | Muchi |
 | X68000 | Prism 68K | プリズム68K | 1989 | WOLF TEAM |
