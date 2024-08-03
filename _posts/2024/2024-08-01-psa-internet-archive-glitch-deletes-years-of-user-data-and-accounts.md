@@ -64,7 +64,7 @@ My support experience with Internet Archive was frustrating and ultimately futil
 ## Elsewhere
 
 - [Hacker News](https://news.ycombinator.com/item?id=41131388)
-- [Hacker News] (https://news.ycombinator.com/item?id=41135450) second time around! ("flagged" for some reason)
+- [Hacker News](https://news.ycombinator.com/item?id=41135450)  submitted by somebody else ("flagged" for some reason)
 - ~~[Lobste.rs](https://lobste.rs/s/82zpde/psa_internet_archive_glitch_deletes)~~ (deleted by moderator at the request of Inrernet Archive)
 - [Tildes](https://tildes.net/~tech/1hy4/psa_internet_archive_glitch_deletes_years_of_user_data_accounts#comment-dbpw)
 - [Two Stop Bits](http://twostopbits.com/item?id=3935)
