@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PSA: Internet Archive “glitch” deletes years of user data & accounts"
-last_modified_at: '2024-08-01T20:34+01:00'
+last_modified_at: '2024-08-03T23:34+01:00'
 date: '2024-08-01T18:16+01:00'
 tags:
 - psa
@@ -64,6 +64,7 @@ My support experience with Internet Archive was frustrating and ultimately futil
 ## Elsewhere
 
 - [Hacker News](https://news.ycombinator.com/item?id=41131388)
+- [Hacker News] (https://news.ycombinator.com/item?id=41135450) second time around! ("flagged" for some reason)
 - ~~[Lobste.rs](https://lobste.rs/s/82zpde/psa_internet_archive_glitch_deletes)~~ (deleted by moderator at the request of Inrernet Archive)
 - [Tildes](https://tildes.net/~tech/1hy4/psa_internet_archive_glitch_deletes_years_of_user_data_accounts#comment-dbpw)
 - [Two Stop Bits](http://twostopbits.com/item?id=3935)
