@@ -15,7 +15,7 @@ nouns:
 - Actions
 - Automator
 image: /images/posts/take-command-context-menu-finder.png
-featured: false
+featured: true
 pinned: false
 comments: https://twitter.com/gingerbeardman/status/1818320135041769849
 style: |

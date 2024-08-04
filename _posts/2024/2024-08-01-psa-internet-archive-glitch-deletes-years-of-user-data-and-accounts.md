@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PSA: Internet Archive “glitch” deletes years of user data & accounts"
-last_modified_at: '2024-08-03T23:34+01:00'
+last_modified_at: '2024-08-04T14:15+01:00'
 date: '2024-08-01T18:16+01:00'
 tags:
 - psa
@@ -34,20 +34,20 @@ This story is still developing, and the press have been notified.
 
 Here's a summary of the current status of the pages related to a deleted account.
 
-**Remaining**
-- [archive.org/details/fav-gingerbeardman](https://archive.org/details/fav-gingerbeardman)
-
 **Relinked**
 - [archive.org/details/@gingerbeardman/uploads](https://archive.org/details/@flicky1984/uploads)
 
-**Lost**
+**Restored** (see update below)
 - [archive.org/details/@gingerbeardman](https://archive.org/details/@gingerbeardman)
-- [archive.org/details/@gingerbeardman/loans](https://archive.org/details/@gingerbeardman/loans)
-- [archive.org/details/@gingerbeardman/lists](https://archive.org/details/@gingerbeardman/lists)
-- [archive.org/details/@gingerbeardman/posts](https://archive.org/details/@gingerbeardman/posts)
-- [archive.org/details/@gingerbeardman/reviews](https://archive.org/details/@gingerbeardman/reviews)
-- [archive.org/details/@gingerbeardman/collections](https://archive.org/details/@gingerbeardman/collections)
-- [archive.org/details/@gingerbeardman/web-archive](https://archive.org/details/@gingerbeardman/web-archive)
+- [archive.org/details/fav-gingerbeardman](https://archive.org/details/fav-gingerbeardman)
+
+**Lost**
+- archive.org/details/@gingerbeardman/loans
+- archive.org/details/@gingerbeardman/lists
+- archive.org/details/@gingerbeardman/posts
+- archive.org/details/@gingerbeardman/reviews
+- archive.org/details/@gingerbeardman/collections
+- archive.org/details/@gingerbeardman/web-archive
 
 ----
 
@@ -58,6 +58,11 @@ My support experience with Internet Archive was frustrating and ultimately futil
 ![PNG](https://cdn.gingerbeardman.com/images/posts/internet-archive-glitch.png "“(your data) cannot be restored and, for the last time, the old user name is no longer available.”")
 {:.tofigure}
 
+## Update
+
+After the second submission of this post by somebody else hit the Hacker News homepage I received an email say that they had "figured a workaround" (their choice of word) and restored my username, which in turn relinked my old favorites. This miracle contradicts the message shown above there they are pretty clear that it was not possible.
+
+So this means there's still a bunch of data missing, as detailed above. I suspect this was a one off workaround and that they're not doing it for everybody affected. YMMV. It wasn't my intention to try and force action by publicising this event, but it does seem to have had that effect.
 
 ----
 

@@ -29,8 +29,7 @@ My personal favourites from the year (most recent first):
 - [List of vintage Japanese pixel/dot art software](/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/) the one where I list 200 old apps
 
 ## Blog changelog
-- Improved favicon and blog title when shown as text (22 Feb)
-- Carousel images are now more accessible, appearing in raw HTML and the RSS feed (22 Feb)
+- Rewrote the main page of the main website (3 Aug)
 
 ## Previous years
 - [My most popular posts of 2023](/2022/12/27/my-most-popular-posts-of-the-year/)
