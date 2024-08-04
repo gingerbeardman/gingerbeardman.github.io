@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Search Moby Games using Aldred app"
+title: "Search Moby Games using Alfred app"
 date: '2024-08-04T13:57+01:00'
 tags:
 - macos
