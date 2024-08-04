@@ -8,6 +8,7 @@ tags:
 - hack
 - ios
 - software
+- poweruser
 nouns:
 - Twitter.app
 - Twitter

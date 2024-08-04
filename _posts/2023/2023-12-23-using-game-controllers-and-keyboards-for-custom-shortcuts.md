@@ -9,6 +9,7 @@ tags:
 - shortcuts
 - controller
 - productivity
+- poweruser
 nouns:
 - Nintendo Switch
 - Nintendo DS

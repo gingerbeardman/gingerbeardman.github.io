@@ -6,6 +6,8 @@ last_modified_at: '2024-05-13T21:13+01:00'
 tags:
 - music
 - hack
+- software
+- poweruser
 nouns:
 - Björk
 - Debut
