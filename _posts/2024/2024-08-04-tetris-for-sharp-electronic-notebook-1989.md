@@ -13,7 +13,7 @@ image: /images/posts/tetris-ic-card-sharp-pa-8500-half.jpg
 featured: false
 pinned: false
 
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1820141522513527092
 
 ---
 
