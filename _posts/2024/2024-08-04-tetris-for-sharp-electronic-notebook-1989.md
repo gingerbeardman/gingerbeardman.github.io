@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "TETRIS for Sharp Electronic Notebook (1989)"
+last_modified_at: '2024-08-04T19:50+01:00'
 date: '2024-08-04T17:47+01:00'
 tags:
 - tetris
@@ -42,6 +43,8 @@ Here it is running on my PA-8500:
 This version of the game is documented only briefly on [Tetris.wiki](https://tetris.wiki/Tetris_(Sharp_Wizard)) and even less on [Hard Drop Tetris Wiki](https://harddrop.com/wiki/Tetris_(Sharp_Wizard)), so let's see what we can do to fill in a bit more information.
 
 The device boots straight into the game, but you can switch to calendar, memo, calculator, or other organiser functions whilst it is running. Switching back to the game causes it to reboot, so games cannot be resumed. You cannot skip the BPS logo, but you can skip the credits.
+
+The credits and game area are in the left (or top) half of the display because it can also run on devices with a smaller screen of half the size of the one shown.
 
 There is a touch screen surface on top of where the card slots in and the print on the IC card itself shows the user where to press for each button or function. We can see that the shape of each buttons lines up with the grid of dots of the touch surface. We see the following buttons:
 
