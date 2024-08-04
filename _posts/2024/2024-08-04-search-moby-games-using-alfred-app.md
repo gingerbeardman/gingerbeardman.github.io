@@ -6,6 +6,9 @@ tags:
 - macos
 - mobygames
 - research
+- hack
+- poweruser
+- software
 image: /images/posts/alfred-moby-games.png
 featured: false
 pinned: false
