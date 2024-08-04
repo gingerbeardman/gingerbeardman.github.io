@@ -31,7 +31,7 @@ There's not much about these devices online, particularly in English, but two no
 
 ## TETRIS IC card
 
-Here's the Tetris IC card running on my PA-8500:
+Here it is running on my PA-8500:
 
 <iframe width="740" height="740" src="https://www.youtube.com/embed/Rzm5STvVY08?si=sa1IMUEkWK5JrnOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
