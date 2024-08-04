@@ -43,7 +43,7 @@ This version of the game is documented only briefly on [Tetris.wiki](https://tet
 
 The device boots straight into the game, but you can switch to calendar, memo, calculator, or other organiser functions whilst it is running. Switching back to the game causes it to reboot, so games cannot be resumed. You cannot skip the BPS logo, but you can skip the credits.
 
-There is a touch screen surface on top of where the card slots in and the print on the IC card itself shows the user where to press for each button or function. We can see that the shapes of the buttons lines up with the grid of dots of the touch surface. We see the following buttons:
+There is a touch screen surface on top of where the card slots in and the print on the IC card itself shows the user where to press for each button or function. We can see that the shape of each buttons lines up with the grid of dots of the touch surface. We see the following buttons:
 
 - left
 - right
