@@ -26,6 +26,6 @@ See you there!?
 
 You'll be able to buy my art and play my games. 
 
-More info: [https://www.krowji.org.uk/open-studios/](https://www.krowji.org.uk/open-studios/)
+More info: [www.krowji.org.uk/open-studios/](https://www.krowji.org.uk/open-studios/)
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/open-studios-2022-dec.jpg)

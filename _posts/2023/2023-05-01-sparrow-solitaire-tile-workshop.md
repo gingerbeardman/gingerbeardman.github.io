@@ -17,7 +17,7 @@ comments: https://twitter.com/gingerbeardman/status/1653069995620933632
 
 A little known feature of [Sparrow Solitaire](https://sparrowsolitaire.com) is its ability to load user-generated content from files copied onto the [Playdate](https://play.date). One day I thought it would be cool to combine two tile sets, so I built a web app to do it!
 
-A wild tile set builder appears! [https://sparrowsolitaire.com/workshop/](https://sparrowsolitaire.com/workshop/)
+A wild tile set builder appears! [sparrowsolitaire.com/workshop/](https://sparrowsolitaire.com/workshop/)
 
 ## 3-in-1
 

@@ -21,4 +21,4 @@ To get involved with such dumping and verification, you'll need:
 
 I started out dumping my rarest discs, some titles for the ill-fated NUON system. More recently I've been dumping my collection of obscure Japanese PS1 games, amongst others.
 
-You can check out my dumps so far at [http://redump.org/discs/dumper/gingerbeardman/](http://redump.org/discs/dumper/gingerbeardman/)
+You can check out my dumps so far at [redump.org/discs/dumper/gingerbeardman/](http://redump.org/discs/dumper/gingerbeardman/)

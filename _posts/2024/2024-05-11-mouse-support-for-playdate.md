@@ -81,7 +81,7 @@ I’ve tested this on a MBP running Sonoma with a mouse and a trackpad. There’
 
 ## Demos
 
-- Rorschach drawing app is at: [https://gingerbeardman.itch.io/rorschach](https://gingerbeardman.itch.io/rorschach)
+- Rorschach drawing app is at: [gingerbeardman.itch.io/rorschach](https://gingerbeardman.itch.io/rorschach)
 - An example project with source code is at: [github.com/gingerbeardman/playdate-mouse-support](https://github.com/gingerbeardman/playdate-mouse-support)
 
 ----

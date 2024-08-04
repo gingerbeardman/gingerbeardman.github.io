@@ -16,7 +16,7 @@ June is the highlight of the year for any Apple fan, with [WWDC](https://develop
 
 This year I also had the company of a nice a cold drink in my hand as it’s a warm evening in London, UK, the day is winding down just as the conference is ramping up.
 
-If you missed it you can watch a recording of the keynote at [http://www.apple.com/apple-events/june-2016/](http://www.apple.com/apple-events/june-2016/)
+If you missed it you can watch a recording of the keynote at [www.apple.com/apple-events/june-2016/](http://www.apple.com/apple-events/june-2016/)
 
 Fast and fun
 ------------

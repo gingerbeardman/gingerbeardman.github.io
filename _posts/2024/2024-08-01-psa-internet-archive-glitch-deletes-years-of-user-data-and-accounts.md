@@ -18,7 +18,7 @@ comments: https://twitter.com/gingerbeardman/status/1819065539387408599
 
 ---
 
-Recently at Internet Archive a "glitch" ([their choice of word](https://archive.org/post/2435138/archives-removed-my-account-and-deleted-all-my-uploaded-files)) deleted a great many accounts, including my account that had been at [https://archive.org/details/@gingerbeardman](https://archive.org/details/@gingerbeardman) since 2015.
+Recently at Internet Archive a "glitch" ([their choice of word](https://archive.org/post/2435138/archives-removed-my-account-and-deleted-all-my-uploaded-files)) deleted a great many accounts, including my account that had been at [archive.org/details/@gingerbeardman](https://archive.org/details/@gingerbeardman) since 2015.
 
 Somewhat surprisingly, they are not reaching out to affected users but rather waiting for them to create new accounts and silently relinking their old uploads *only if the new account has same email as the old account*. Otherwise, all profile metadata, favourites, lists, reviews, posts, collections, web archives, and the original username are not being relinked. For me that's a decade of data...gone.
 

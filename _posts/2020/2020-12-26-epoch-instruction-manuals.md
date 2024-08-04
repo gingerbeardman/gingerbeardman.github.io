@@ -26,10 +26,10 @@ Mirroring these at Internet Archive was a nice bite-sized task to help burn off 
 7. Do the full batch upload using `ia` CLI tool
 8. Confirm any failures, fix and reprocess those in a second pass
 
-My script ended up like this: [https://gist.github.com/gingerbeardman/0d665dff0d400af913ced679810544bd](https://gist.github.com/gingerbeardman/0d665dff0d400af913ced679810544bd) 
+My script ended up like this: [gist.github.com/gingerbeardman/0d665dff0d400af913ced679810544bd](https://gist.github.com/gingerbeardman/0d665dff0d400af913ced679810544bd) 
 
 After the first pass there were only a few errors: 2 corrupt PDFs that needed to be uploaded manually, 2 duplicate identifiers that I had failed to spot looking through the translations, and 1 identifier that had trailing spaces that I had missed during my finessing of the titles. Pretty good going, though!
 
-They're now accessible at: [https://archive.org/search.php?query=identifier%3Aepoch-manual%2A](https://archive.org/search.php?query=identifier%3Aepoch-manual%2A) 
+They're now accessible at: [archive.org/search.php?query=identifier%3Aepoch-manual%2A](https://archive.org/search.php?query=identifier%3Aepoch-manual%2A) 
 
 Have fun & stay safe!

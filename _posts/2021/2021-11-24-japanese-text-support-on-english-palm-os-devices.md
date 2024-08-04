@@ -54,7 +54,7 @@ I had to survey them all just to be able to sleep at night! 🤣
 ## Notes
 
 **CJKOS**
-My only comment would be these fonts are not as legible as the official Japanese font. So, you can install additional/replacement fonts: [http://palm.roguelife.org/cjkos/](http://palm.roguelife.org/cjkos/). And uncheck both *CJKOS > Support CJK boldFont* and *Enhance > Add Horizontal Spacing in CJK* for better display.
+My only comment would be these fonts are not as legible as the official Japanese font. So, you can install additional/replacement fonts: [palm.roguelife.org/cjkos/](http://palm.roguelife.org/cjkos/). And uncheck both *CJKOS > Support CJK boldFont* and *Enhance > Add Horizontal Spacing in CJK* for better display.
 
 **J-OS (J-Suites for CLIÉ)**
 Install two additional fonts: [elisa.prc](https://ftp.vector.co.jp/04/19/115/elisal10.zip) and [dasaji-l.prc](https://web.archive.org/web/20161024062604/http://ha4.seikyou.ne.jp/home/azipon/font/p_dasa.zip) and convert them to J-OS format using the option in PowerFONT. You can delete choose to delete the originals after conversion. By setting these as the standard small and large fonts for lo-res any apps that run in low-resolution will look great. The bundled J-OS fonts are already great for stuff running in hi-res.

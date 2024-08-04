@@ -149,7 +149,7 @@ We can also do the same thing whilst scaling it up by a factor of 2:
 
 Here's my repo of shared actions. Inside each `.cmaction` file is a `main.sh` file which contains the command that you can use in Automator if you'd like.
 
-- [https://github.com/gingerbeardman/contextmenu-actions](https://github.com/gingerbeardman/contextmenu-actions)
+- [github.com/gingerbeardman/contextmenu-actions](https://github.com/gingerbeardman/contextmenu-actions)
 
 These include many useful commands such as:
 

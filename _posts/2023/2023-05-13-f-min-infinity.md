@@ -29,7 +29,7 @@ To run the game correctly it's best to use [DxWnd](https://sourceforge.net/proje
 
 The game includes help files as HTML, the ability create your own tracks, and source code. Let me know if you have more luck running it than I did!
 
-Download at Internet Archive: [https://archive.org/details/f-min-infinity-21](https://archive.org/details/f-min-infinity-21)
+Download at Internet Archive: [archive.org/details/f-min-infinity-21](https://archive.org/details/f-min-infinity-21)
 
 Thanks to my [Patreon](https://www.patreon.com/posts/f-min-infinity-1-82948641) supporters!
 

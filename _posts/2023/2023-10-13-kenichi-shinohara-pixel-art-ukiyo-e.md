@@ -49,7 +49,7 @@ We can see that Funny was a pixel art package, CANDY2 was a technical drawing ap
 
 ## LOGiN 1987 No 5
 
-Thanks to [Gaming Alexandria](https://www.gamingalexandria.com/wp/magazines/) for scanning the magazine and making it available at Internet Archive: [https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n169/mode/2up](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n169/mode/2up)
+Thanks to [Gaming Alexandria](https://www.gamingalexandria.com/wp/magazines/) for scanning the magazine and making it available at Internet Archive: [archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n169/mode/2up](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n169/mode/2up)
 
 > 陽気なおごさんに教わるグラフィックツールのひミーふな使い方  
 > Learn how to use graphics tools from a jolly old man

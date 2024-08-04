@@ -35,7 +35,7 @@ AsistantPickle was a desktop toy by Thoru Yamamoto, released for Macintosh in Se
 - TinyPrinter
 - TinyLauncher (use the blue arrows)
 
-It can now be downloaded at: [https://macintoshgarden.org/apps/asistantpickle](https://macintoshgarden.org/apps/asistantpickle)
+It can now be downloaded at: [macintoshgarden.org/apps/asistantpickle](https://macintoshgarden.org/apps/asistantpickle)
 
 This copy of the previously lost app was found on Japanese Macintosh magazine *MacPeople2000 No.22 CD-ROM* which was recently acquired for my Macintosh Magazine Media collection.
 

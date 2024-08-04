@@ -67,7 +67,7 @@ Opening FinderHack directly in [HexEdit](https://macintoshgarden.org/apps/hexedi
 
 {% include carousel.html height="100" unit="%" duration="7" %}
 
-The final modified file is up over at Macintosh Garden: [https://macintoshgarden.org/apps/finderhack](https://macintoshgarden.org/apps/finderhack)
+The final modified file is up over at Macintosh Garden: [macintoshgarden.org/apps/finderhack](https://macintoshgarden.org/apps/finderhack)
 
 ![PNG](https://cdn.gingerbeardman.com/images/posts/move-to-trash-4.png "Notice that System 7 has no glyph for the Backspace key")
 {:.tofigure}

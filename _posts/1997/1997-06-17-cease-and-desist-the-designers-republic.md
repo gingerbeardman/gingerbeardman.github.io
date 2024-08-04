@@ -17,7 +17,7 @@ comments: https://twitter.com/gingerbeardman/status/1509483939471458306
 
 A letter I received from The Designers Republic after creating a font inspired by their work. They chose to order a cease and desist, rather than fostering creativity.
 
-> Matt Sephton created an original font called Blockout--a techno font that can still be found here. He had used Fontographer. It was, as he put it, influenced by the tDR font in the Wipeout series of games. He placed a free truetype font on his web site, but was confronted with a threatening letter from tDR and was forced to take down the free .ttf font from his site. They claimed their font 6x6 (even though Matt's is based on a 7x7 grid) was what he was trying to sell. Another instance of corporate bullying. —Luc Devroye, from [http://luc.devroye.org/fonts-72415.html](http://luc.devroye.org/fonts-72415.html)
+> Matt Sephton created an original font called Blockout--a techno font that can still be found here. He had used Fontographer. It was, as he put it, influenced by the tDR font in the Wipeout series of games. He placed a free truetype font on his web site, but was confronted with a threatening letter from tDR and was forced to take down the free .ttf font from his site. They claimed their font 6x6 (even though Matt's is based on a 7x7 grid) was what he was trying to sell. Another instance of corporate bullying. —Luc Devroye, from [luc.devroye.org/fonts-72415.html](http://luc.devroye.org/fonts-72415.html)
 
 ![JPG](https://cdn.gingerbeardman.com/images/posts/blockout-the-designers-republic.jpg "Cease & Desist <!-- Ian Anderson, Corporate Bully -->")
 {:.tofigure}

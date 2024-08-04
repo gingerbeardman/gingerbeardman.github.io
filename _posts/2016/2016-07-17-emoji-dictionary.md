@@ -23,7 +23,7 @@ D.I.Y.
 
 During my job as a Technology Evangelist at Apple, I took great pride in learning as much as possible about the frameworks and tools that are provided to developers. One such toolkit allowed the creation of custom dictionaries for Mac OS X.
 
-So I thought it would be fun to use the Dictionary Development Kit to create a simple dictionary of Emoji and their meanings. It was! You can grab the finished dictionary here: [https://github.com/gingerbeardman/Emojipedia](https://github.com/gingerbeardman/Emojipedia)
+So I thought it would be fun to use the Dictionary Development Kit to create a simple dictionary of Emoji and their meanings. It was! You can grab the finished dictionary here: [github.com/gingerbeardman/Emojipedia](https://github.com/gingerbeardman/Emojipedia)
 
 ![](https://miro.medium.com/max/1282/1*1zrc24g1nE6yyEVfjUHW5g.png " ")
 {:.tofigure}

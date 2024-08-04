@@ -91,7 +91,7 @@ Regardless: it should be easy to create a translated version of the included sce
 
 ## User Manual 
 
-A scanned PDF for Band-kun #バンドくん is available with thanks to the Neo Kobe project [https://archive.org/details/band-kun-manual](https://archive.org/details/band-kun-manual)
+A scanned PDF for Band-kun #バンドくん is available with thanks to the Neo Kobe project [archive.org/details/band-kun-manual](https://archive.org/details/band-kun-manual)
 
 ![JPG](https://cdn.gingerbeardman.com/images/posts/band-kun-cover.jpg)
 

@@ -57,11 +57,11 @@ The only commercial result from this particular period at SEGA was a version of 
 
 ### Download
 
-You can grab Borkov and Triangle Magic at [https://palmdb.net/?s=sega](https://palmdb.net/?s=sega) 
+You can grab Borkov and Triangle Magic at [palmdb.net/?s=sega](https://palmdb.net/?s=sega) 
 
-Columns for CLIÉ can be found in the All Games or GC10 downloads at [http://www.sonyclie.org/drivers.html](http://www.sonyclie.org/drivers.html) 
+Columns for CLIÉ can be found in the All Games or GC10 downloads at [www.sonyclie.org/drivers.html](https://www.sonyclie.org/drivers.html) 
 
 ### References
 
-*   [https://web.archive.org/web/20020616095557/http://www.pdalive.com/forums/printthread.php?threadid=699](https://web.archive.org/web/20020616095557/http://www.pdalive.com/forums/printthread.php?threadid=699)
-*   [https://games.slashdot.org/story/02/04/05/1448214/sega-doing-palmos-games#comments](https://games.slashdot.org/story/02/04/05/1448214/sega-doing-palmos-games#comments) 
+*   [web.archive.org/web/20020616095557/http://www.pdalive.com/forums/printthread.php?threadid=699](https://web.archive.org/web/20020616095557/http://www.pdalive.com/forums/printthread.php?threadid=699)
+*   [games.slashdot.org/story/02/04/05/1448214/sega-doing-palmos-games#comments](https://games.slashdot.org/story/02/04/05/1448214/sega-doing-palmos-games#comments) 

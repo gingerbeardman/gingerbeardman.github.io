@@ -71,8 +71,8 @@ The November 1976 issue of I/O magazine included a map of Akihabara which at thi
 
 Two maps can be seen in the combined book of issues from 1976 and 1977 that is available at Internet Archive. Hurrah!
 
-- [https://archive.org/details/Io197611-19772/page/n19/mode/2up](https://archive.org/details/Io197611-19772/page/n19/mode/2up)
-- [https://archive.org/details/Io197611-19772/page/n215/mode/2up](https://archive.org/details/Io197611-19772/page/n215/mode/2up)
+- [archive.org/details/Io197611-19772/page/n19/mode/2up](https://archive.org/details/Io197611-19772/page/n19/mode/2up)
+- [archive.org/details/Io197611-19772/page/n215/mode/2up](https://archive.org/details/Io197611-19772/page/n215/mode/2up)
 
 [![Akihabara, 1976](https://cdn.gingerbeardman.com/images/posts/akihabara-1976.jpg){:width="740" height="1086"}](https://archive.org/details/Io197611-19772/page/n19/mode/2up?view=theater){:target="_blank"}
 
@@ -92,7 +92,7 @@ A map was featured in だからいまマイコン "So now Microcomputer" by the 
 
 This map is from a [scan of Technopolis magazine on the Internet Archive, dated November 1982](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up). Given its illustrated nature the map is somewhat stylised but the landmarks are easily recognised.
 
-* [https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up)
+* [archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up)
 
 [![Akihabara, November 1982](https://cdn.gingerbeardman.com/images/posts/akihabara-1982.jpg){:width="740" height="490"}](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up?view=theater){:target="_blank"}
 
@@ -106,7 +106,7 @@ A map was included with the January 1983 issue of Micom BASIC magazine. The belo
 
 The map below is from [POPCOM 1983-05](https://archive.org/details/POPCOM198305/page/n73) and is followed by 4 pages of listings that refer to the map using the A/J–1/10 key along its edge just in case you want to look some things up.
 
-* [https://archive.org/details/POPCOM198305/page/n73/mode/2up](https://archive.org/details/POPCOM198305/page/n73/mode/2up)
+* [archive.org/details/POPCOM198305/page/n73/mode/2up](https://archive.org/details/POPCOM198305/page/n73/mode/2up)
 
 [![Akihabara, May 1983](https://cdn.gingerbeardman.com/images/posts/akihabara-1983.jpg){:width="740" height="548"}](https://archive.org/details/POPCOM198305/page/n73/mode/2up?view=theater){:target="_blank"}
 
@@ -116,8 +116,8 @@ The map below is from [POPCOM 1983-05](https://archive.org/details/POPCOM198305/
 
 This one from I/O 1984 May issue was found through [Google](http://hirax.net/diaryweb/2010/06/15.html) and [Wayback Machine](https://web.archive.org/web/20140810174816/http://hirax.net/diaryweb/2010/06/15.html), and I was lucky enough to be able to find matching scans on from Internet Archive.
 
-- [https://web.archive.org/web/20100408004407/http://nhh.mo-blog.jp/ttt/2007/09/post_6a5d.html](https://web.archive.org/web/20100408004407/http://nhh.mo-blog.jp/ttt/2007/09/post_6a5d.html)
-- [https://archive.org/details/Io19845/page/n365/mode/2up](https://archive.org/details/Io19845/page/n365/mode/2up)
+- [web.archive.org/web/20100408004407/http://nhh.mo-blog.jp/ttt/2007/09/post_6a5d.html](https://web.archive.org/web/20100408004407/http://nhh.mo-blog.jp/ttt/2007/09/post_6a5d.html)
+- [archive.org/details/Io19845/page/n365/mode/2up](https://archive.org/details/Io19845/page/n365/mode/2up)
 
 [![Akihabara, May 1984](https://cdn.gingerbeardman.com/images/posts/akihabara-1984.jpg){:width="740" height="480"}](https://archive.org/details/Io19845/page/n365/mode/2up?view=theater){:target="_blank"}
 
@@ -129,7 +129,7 @@ This one from I/O 1984 May issue was found through [Google](http://hirax.net/dia
 
 This one [I found referenced on Twitter](https://twitter.com/yoshinokentarou/status/1578567956249706496), a lovely map from the April 1985 issue of POPCOM (complete with cover artwork by Hiroshi Okamoto)
 
-* [https://archive.org/details/popcom-198504/page/122/mode/2up](https://archive.org/details/popcom-198504/page/122/mode/2up)
+* [archive.org/details/popcom-198504/page/122/mode/2up](https://archive.org/details/popcom-198504/page/122/mode/2up)
 
 [![Akihabara, April 1985](https://cdn.gingerbeardman.com/images/posts/akihabara-1985.jpg){:width="740" height="535"}](https://archive.org/details/popcom-198504/page/122/mode/2up?view=theater){:target="_blank"}
 
@@ -151,8 +151,8 @@ This one [I found referenced on Twitter](https://twitter.com/yoshinokentarou/sta
 
 This one from Google, but thankfully also present on Internet Archive. From I/O アイ・オー 1988年07月号 the July 1988 issue of I/O magazine.
 
-* [https://dad-aslan.hatenablog.com/entry/2022/01/06/190000](https://dad-aslan.hatenablog.com/entry/2022/01/06/190000)
-* [https://archive.org/details/Io19887/page/n301/mode/2up](https://archive.org/details/Io19887/page/n301/mode/2up)
+* [dad-aslan.hatenablog.com/entry/2022/01/06/190000](https://dad-aslan.hatenablog.com/entry/2022/01/06/190000)
+* [archive.org/details/Io19887/page/n301/mode/2up](https://archive.org/details/Io19887/page/n301/mode/2up)
 
 [![Akihabara, July 1988](https://cdn.gingerbeardman.com/images/posts/akihabara-1988.jpg){:width="740" height="1081"}](https://archive.org/details/Io19887/page/n301/mode/2up?view=theater){:target="_blank"}
 
@@ -162,7 +162,7 @@ This one from Google, but thankfully also present on Internet Archive. From I/O 
 
 Through Google I found a map featured in "AK gazette" from Winter 1991. 
 
-- [http://asahirom.blog28.fc2.com/blog-entry-58.html](http://asahirom.blog28.fc2.com/blog-entry-58.html)
+- [asahirom.blog28.fc2.com/blog-entry-58.html](http://asahirom.blog28.fc2.com/blog-entry-58.html)
 
 [![Akihabara, Winter 1991](https://cdn.gingerbeardman.com/images/posts/akihabara-1991.jpg){:width="740" height="522"}](https://cdn.gingerbeardman.com/images/posts/akihabara-1991.jpg)
 
@@ -178,7 +178,7 @@ A partial map is featured in [this article by NIKKEI](https://www.nikkei.com/art
 
 There are three really cool maps in ゲームウララ Vol.1より Game Urara Vol. 1 featuring PC, video game and food/amenities. One was [seen on Twitter](https://twitter.com/yoshinokentarou/status/1537452086979223552) and the other two were a happy discovery after finding the scans on Internet Archive.
 
-* [https://archive.org/details/gameurara-vol1-1995-600DPI/Game%20Urara%20-%20Vol.%201/page/n101/mode/2up](https://archive.org/details/gameurara-vol1-1995-600DPI/Game%20Urara%20-%20Vol.%201/page/n101/mode/2up)
+* [archive.org/details/gameurara-vol1-1995-600DPI/Game%20Urara%20-%20Vol.%201/page/n101/mode/2up](https://archive.org/details/gameurara-vol1-1995-600DPI/Game%20Urara%20-%20Vol.%201/page/n101/mode/2up)
 
 [![Akihabara, 1995](https://cdn.gingerbeardman.com/images/posts/akihabara-1995.jpg){:width="740" height="349"}](https://archive.org/details/gameurara-vol1-1995-600DPI/Game%20Urara%20-%20Vol.%201%20%28Searchable%29/page/n101/mode/2up?view=theater){:target="_blank"}
 
@@ -204,7 +204,7 @@ Another [one from 1996 via Google](http://misoji-no-wakaremiti.cocolog-nifty.com
 
 From Google, I found a map featured in either PC自作派 "PC DIY" Vol.1 (1997) or Vol.8 (late-1998).
 
-* [https://setoalpha.hatenablog.com/entry/2019/08/12/024509](https://setoalpha.hatenablog.com/entry/2019/08/12/024509)
+* [setoalpha.hatenablog.com/entry/2019/08/12/024509](https://setoalpha.hatenablog.com/entry/2019/08/12/024509)
 
 [![JPG](https://cdn.gingerbeardman.com/images/posts/akihabara-1997.jpg){:width="740" height="1082"}](https://setoalpha.hatenablog.com/entry/2019/08/12/024509)
 
@@ -218,12 +218,12 @@ This new discovery reminded me of another vintage map of Akihabara that I had se
 
 All versions of these interactive maps can be downloaded at the following links:
 
-*   [https://web.archive.org/web/19981202125237/http://www.dogcow.com/akibamap/index.html](https://web.archive.org/web/19981202125237/http://www.dogcow.com/akibamap/index.html)
-*   [https://www.vector.co.jp/vpack/browse/person/an009155.html](https://www.vector.co.jp/vpack/browse/person/an009155.html)
+*   [web.archive.org/web/19981202125237/http://www.dogcow.com/akibamap/index.html](https://web.archive.org/web/19981202125237/http://www.dogcow.com/akibamap/index.html)
+*   [www.vector.co.jp/vpack/browse/person/an009155.html](https://www.vector.co.jp/vpack/browse/person/an009155.html)
 
 I think of this map as the _DogCow Map_ due to the domain it was hosted on at the time, but its official name is _Kosapi's Akiba Map_ 「こさぴーの秋葉マップ」named after the group of fans that created and curated it by documenting their trips to Akihabara.
 
-*   [https://web.archive.org/web/20041207024829/http://homepage1.nifty.com:80/akiba/index.html](https://web.archive.org/web/20041207024829/http://homepage1.nifty.com:80/akiba/index.html)
+*   [web.archive.org/web/20041207024829/http://homepage1.nifty.com:80/akiba/index.html](https://web.archive.org/web/20041207024829/http://homepage1.nifty.com:80/akiba/index.html)
 
 ----
 
@@ -231,8 +231,8 @@ I think of this map as the _DogCow Map_ due to the domain it was hosted on at th
 
 This one found on Twitter. A 1998/1999 issue of PC magazine DOS/V POWER REPORT featured a [detailed map](https://twitter.com/fattyfatty2001/status/1466207648869601281/photo/1) and [list of stores](https://twitter.com/fattyfatty2001/status/1466213841159680001/photo/1). It would be really interesting to see if any of those stores still exist.
 
-* [https://twitter.com/fattyfatty2001/status/1466207648869601281](https://twitter.com/fattyfatty2001/status/1466207648869601281)
-* [https://twitter.com/fattyfatty2001/status/1466213841159680001](https://twitter.com/fattyfatty2001/status/1466213841159680001)
+* [twitter.com/fattyfatty2001/status/1466207648869601281](https://twitter.com/fattyfatty2001/status/1466207648869601281)
+* [twitter.com/fattyfatty2001/status/1466213841159680001](https://twitter.com/fattyfatty2001/status/1466213841159680001)
 
 [![JPG](https://cdn.gingerbeardman.com/images/posts/akihabara-1999.jpg){:width="740" height="554"}](https://twitter.com/fattyfatty2001/status/1466207648869601281/photo/1)
 
@@ -244,7 +244,7 @@ This one found on Twitter. A 1998/1999 issue of PC magazine DOS/V POWER REPORT f
 
 The HTML version was typical of websites at the time: way too many _HTML_ files and _images_ with _image-maps_ presented as a _frameset_ that makes specific pages pretty much impossible to bookmark. Ah, the heady days of Y2K web development! 
 
-*   [http://web.archive.org/web/20050212144103/http://homepage1.nifty.com/akiba/akibaweb2kr1.zip](https://web.archive.org/web/20050212144103/http://homepage1.nifty.com/akiba/akibaweb2kr1.zip)
+* [web.archive.org/web/20050212144103/http://homepage1.nifty.com/akiba/akibaweb2kr1.zip](https://web.archive.org/web/20050212144103/http://homepage1.nifty.com/akiba/akibaweb2kr1.zip)
 
 [![PNG](https://cdn.gingerbeardman.com/images/posts/akihabara-2000.png){:width="740" height="414"}](https://cdn.gingerbeardman.com/images/posts/akihabara-2000.png)
 
@@ -266,7 +266,7 @@ Anyway, I did a bunch of image grabbing and assembling to put together this larg
 
 For 10 years, an interactive online map was published by Impress Corporation under the title of _AKIBA PC Hotline!_ It's similar to _Kosapi's Akiba Map_ and arguably better made.
 
-*   [https://web.archive.org/web/19991012053357/http://watch.impress.co.jp/akiba/map/index.html](https://web.archive.org/web/19991012053357/http://watch.impress.co.jp/akiba/map/index.html)
+*   [web.archive.org/web/19991012053357/http://watch.impress.co.jp/akiba/map/index.html](https://web.archive.org/web/19991012053357/http://watch.impress.co.jp/akiba/map/index.html)
 
 [![PNG](https://cdn.gingerbeardman.com/images/posts/akihabara-1999-2009.png)](https://cdn.gingerbeardman.com/images/posts/akihabara-1999-2009.png)
 

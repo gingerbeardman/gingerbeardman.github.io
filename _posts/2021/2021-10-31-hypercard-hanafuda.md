@@ -39,7 +39,7 @@ I found this game in my collection of Japanese Macintosh Magazine CD-ROMs, which
 
 ## How can I play this game?
 
-You can play it in your web browser right now at: [https://archive.org/details/hanafuda-stack](https://archive.org/details/hanafuda-stack)
+You can play it in your web browser right now at: [archive.org/details/hanafuda-stack](https://archive.org/details/hanafuda-stack)
 
 Alternatively, you can [download it](https://macintoshgarden.org/games/hanafuda-stack) to play on your real Macintosh or in an emulator.
 

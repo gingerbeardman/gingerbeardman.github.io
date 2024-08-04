@@ -18,4 +18,4 @@ This tool downloads the Iwata Asks series of interviews, saving as Markdown and 
 
 I created this tool in Spring/Summer 2019 so that I could more easily read and search the Iwata Asks interviews.
 
-More details: [https://github.com/gingerbeardman/iwata-asks-downloader](https://github.com/gingerbeardman/iwata-asks-downloader "https://github.com/gingerbeardman/iwata-asks-downloader")
+More details: [github.com/gingerbeardman/iwata-asks-downloader](https://github.com/gingerbeardman/iwata-asks-downloader "https://github.com/gingerbeardman/iwata-asks-downloader")

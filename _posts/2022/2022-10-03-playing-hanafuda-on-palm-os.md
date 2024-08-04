@@ -19,7 +19,7 @@ comments: https://twitter.com/gingerbeardman/status/1576955213847490560
 
 ---
 
-I recently found out that it's possible to run Palm OS in a web browser, using [https://cloudpilot-emu.github.io](https://cloudpilot-emu.github.io) which is optimised for use on iPhone and Android, so you can use old Palm apps and run old games and apps on your smart phone!
+I recently found out that it's possible to run Palm OS in a web browser, using [cloudpilot-emu.github.io](https://cloudpilot-emu.github.io) which is optimised for use on iPhone and Android, so you can use old Palm apps and run old games and apps on your smart phone!
 
 ## Koi-Koi
 
@@ -56,24 +56,24 @@ Steps to play in Japanese, carry out twice to create one device each of Grey/Col
 
 ## Games
 1. **Koi-Koi** (1999, by Keisuke Mitani/Palm Boarderz)
-   - [https://fudawiki.org/en/hanafuda/video-games/palm/koi-koi](https://fudawiki.org/en/hanafuda/video-games/palm/koi-koi)
+   - [fudawiki.org/en/hanafuda/video-games/palm/koi-koi](https://fudawiki.org/en/hanafuda/video-games/palm/koi-koi)
    - my favourite
    - cards can be picked from the field as well as your hand
    - only works on old greyscale devices
    ![PNG](https://cdn.gingerbeardman.com/images/posts/palmos-hanafuda-1.png#pixel "Koi-Koi")<br>
 2. **Tenohira Hanafuda Kai** (2001, by Hiroki Takahashi) 
-   - [https://fudawiki.org/en/hanafuda/video-games/palm/tenohira-hanafuda-kai](https://fudawiki.org/en/hanafuda/video-games/palm/tenohira-hanafuda-kai)
+   - [fudawiki.org/en/hanafuda/video-games/palm/tenohira-hanafuda-kai](https://fudawiki.org/en/hanafuda/video-games/palm/tenohira-hanafuda-kai)
    - low and high resolution support
    - multiple opponents/difficulties
    - tracks play history and win ratios
    ![PNG](https://cdn.gingerbeardman.com/images/posts/palmos-hanafuda-2.png#pixel "Tenohira Hanafuda Kai")<br>
 3. **palm Hanafuda** (2001, by Oruge/e-frontier)
-   - [https://fudawiki.org/en/hanafuda/video-games/palm/palm-hanafuda](https://fudawiki.org/en/hanafuda/video-games/palm/palm-hanafuda)
+   - [fudawiki.org/en/hanafuda/video-games/palm/palm-hanafuda](https://fudawiki.org/en/hanafuda/video-games/palm/palm-hanafuda)
    - has 5 game types, including Mushi
    - I could swear this displayed in English on my real Palm OS device
    ![PNG](https://cdn.gingerbeardman.com/images/posts/palmos-hanafuda-3.png#pixel "palm Hanafuda")<br>
 4. **Catch-A-Bird** (2003, by Juergen Bermann)
-   - [https://fudawiki.org/en/hanafuda/video-games/palm/catch-a-bird](https://fudawiki.org/en/hanafuda/video-games/palm/catch-a-bird) 
+   - [fudawiki.org/en/hanafuda/video-games/palm/catch-a-bird](https://fudawiki.org/en/hanafuda/video-games/palm/catch-a-bird) 
    - similar to Go-stop
    - no idea how to get it to display in colour
    - doesn't work on old greyscale devices

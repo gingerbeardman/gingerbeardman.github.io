@@ -119,7 +119,7 @@ One of my fondest memories: my dad playing hang gliding stage on repeat as a rel
 
 ## 13. **MaBoShi** (2008) 
 
-This inventive action game is 3-in-1: Circle, Square & Bar. Circle = physics, Square = turn-based, Bar = Reaction. Circle is quite possibly my favourite game of all time. You can play today using Wii & DS ROMs. See: [https://blog.gingerbeardman.com/2013/06/29/maboshi/)](/2013/06/29/maboshi/) [Video](https://www.youtube.com/watch?v=2BvygeP0O4g)
+This inventive action game is 3-in-1: Circle, Square & Bar. Circle = physics, Square = turn-based, Bar = Reaction. Circle is quite possibly my favourite game of all time. You can play today using Wii & DS ROMs. See: [blog.gingerbeardman.com/2013/06/29/maboshi/)](/2013/06/29/maboshi/) [Video](https://www.youtube.com/watch?v=2BvygeP0O4g)
 
 ![IMAGE](https://pbs.twimg.com/media/FkHJ_ljWIAMHB-g.png)![IMAGE](https://pbs.twimg.com/media/FkHKCuzXkAE3qZq.jpg)![IMAGE](https://pbs.twimg.com/media/FkHKJ-DXoAAIl8F.jpg)![IMAGE](https://pbs.twimg.com/media/FkHKL9BXEAIouFe.jpg)
 
@@ -143,9 +143,9 @@ Is a highly original puzzle game with mind-bending level design feat. portals an
 
   > It's my birthday! SO... more about POPILS:  
   >   
-  > whilst trying to 100% the game, my friend Jamie "Junosix" Hamshere and I reverse-engineered/hacked/patched the game to make the step and sub-step count always visible. This makes it easier to beat stage targets! [https://www.smspower.org/forums/16730-MagicalPuzzlePopilsGGHackHelp](https://www.smspower.org/forums/16730-MagicalPuzzlePopilsGGHackHelp) ![IMAGE](https://pbs.twimg.com/media/FkHUU8TXEAEMGVi.png)
+  > whilst trying to 100% the game, my friend Jamie "Junosix" Hamshere and I reverse-engineered/hacked/patched the game to make the step and sub-step count always visible. This makes it easier to beat stage targets! [www.smspower.org/forums/16730-MagicalPuzzlePopilsGGHackHelp](https://www.smspower.org/forums/16730-MagicalPuzzlePopilsGGHackHelp) ![IMAGE](https://pbs.twimg.com/media/FkHUU8TXEAEMGVi.png)
   > 
-  > I also discovered a few other previously unknown things: debug mode (step count preview, level select), alt credits, and most notably secret stage 0 that had only been hinted at in the Japanese manual [https://segaretro.org/images/e/e0/Magical_Puzzle_Popils_GG_JP_Manual.pdf]> (https://segaretro.org/images/e/e0/Magical_Puzzle_Popils_GG_JP_Manual.pdf) these are documented at TCRF: [https://tcrf.net/Magical_Puzzle_Popils](https://tcrf.net/Magical_Puzzle_Popils) ![IMAGE](https://pbs.twimg.com/media/FkHVurVX0AESbqz.png)![IMAGE](https://pbs.twimg.com/media/FkHVwxNXEAc5xgd.png)![IMAGE](https://pbs.twimg.com/media/FkHVzYLXkAAsioj.png)
+  > I also discovered a few other previously unknown things: debug mode (step count preview, level select), alt credits, and most notably secret stage 0 that had only been hinted at in the Japanese manual [segaretro.org/images/e/e0/Magical_Puzzle_Popils_GG_JP_Manual.pdf]> (https://segaretro.org/images/e/e0/Magical_Puzzle_Popils_GG_JP_Manual.pdf) these are documented at TCRF: [tcrf.net/Magical_Puzzle_Popils](https://tcrf.net/Magical_Puzzle_Popils) ![IMAGE](https://pbs.twimg.com/media/FkHVurVX0AESbqz.png)![IMAGE](https://pbs.twimg.com/media/FkHVwxNXEAc5xgd.png)![IMAGE](https://pbs.twimg.com/media/FkHVzYLXkAAsioj.png)
   > 
   > I'll summarise my complete POPILS adventures in a future blog post, because it's worth it. But not today. See you in a bit for the big birthday blog post, and tomorrow for the next entry in 🎄
 
@@ -205,6 +205,6 @@ Part Amiga demoscene production, part SNES technical showcase for the Super FX 2
 
 ## 26. BONUS! **A Little Tree** (1995) 
 
-This wonderful animated story book by Thoru Yamamoto 山本徹 [@thoruman](https://twitter.com/thoruman) is one of several Christmas-themed works he created using HyperCard on Macintosh. Play/download this, See The Sky and ZiZi Christmas [https://archive.org/details/thoru-yamamoto-hypercard-stacks](https://archive.org/details/thoru-yamamoto-hypercard-stacks) [Video](https://www.youtube.com/watch?v=QS7zN9GlV9s)
+This wonderful animated story book by Thoru Yamamoto 山本徹 [@thoruman](https://twitter.com/thoruman) is one of several Christmas-themed works he created using HyperCard on Macintosh. Play/download this, See The Sky and ZiZi Christmas [archive.org/details/thoru-yamamoto-hypercard-stacks](https://archive.org/details/thoru-yamamoto-hypercard-stacks) [Video](https://www.youtube.com/watch?v=QS7zN9GlV9s)
 
 ![IMAGE](https://pbs.twimg.com/media/Fk565XnWYAciA1q.png)![IMAGE](https://pbs.twimg.com/media/Fk565XoXkAE88AS.png)![IMAGE](https://pbs.twimg.com/media/Fk565XnWIAAZY3P.png)![IMAGE](https://pbs.twimg.com/media/Fk565X0XoAEr77B.png)

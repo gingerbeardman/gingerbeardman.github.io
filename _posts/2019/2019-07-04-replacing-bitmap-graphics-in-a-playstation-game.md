@@ -62,7 +62,7 @@ There are many ways to get images out of a PS1 game, but I settled on [Tim2View]
 
 I then used [MultiPatch](https://projects.sappharad.com/tools/multipatch.html) to create an IPS patch file from the changes, so I could make this mod easy for other gamers to enjoy.
 
-The finished patch is available at: [http://www.romhacking.net/hacks/4593/](http://www.romhacking.net/hacks/4593/)
+The finished patch is available at: [www.romhacking.net/hacks/4593/](https://www.romhacking.net/hacks/4593/)
 
 ## Screenshot
 

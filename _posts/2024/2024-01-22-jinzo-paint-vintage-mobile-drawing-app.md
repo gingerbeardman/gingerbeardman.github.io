@@ -89,7 +89,7 @@ I've also added keyboard control to JINZO Paint 16, with standard Photoshop keys
 
 My changes to the 16-color version are now available at the BRAIN hackers GitHub:
 
-- [https://github.com/brain-hackers/jinzo-paint/tree/16-color](https://github.com/brain-hackers/jinzo-paint/tree/16-color)
+- [github.com/brain-hackers/jinzo-paint/tree/16-color](https://github.com/brain-hackers/jinzo-paint/tree/16-color)
 
 ----
 

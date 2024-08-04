@@ -26,7 +26,7 @@ With my most recent game translation, I realised that I should make more of an e
 *   [Simple Characters 2000 Series Vol.04 - Jarinko Chie - The Hanafuda](https://gamefaqs.gamespot.com/ps/566070-the-hanafuda-jarin-ko-chie/faqs/77376) (2001, PS1)
 *   [Pang: Magical Michael](https://gamefaqs.gamespot.com/ds/997750-pang-magical-michael/faqs/77375) (2010, NDS)
 
-You can find them all at GameFAQs: [https://gamefaqs.gamespot.com/community/msephton/contributions/faqs](https://gamefaqs.gamespot.com/community/msephton/contributions/faqs) 
+You can find them all at GameFAQs: [gamefaqs.gamespot.com/community/msephton/contributions/faqs](https://gamefaqs.gamespot.com/community/msephton/contributions/faqs) 
 
 GameFAQs happens to have a fantastic new (to me) editor that makes creating a guide as easy as typing a WordPress or Patreon post. 
 

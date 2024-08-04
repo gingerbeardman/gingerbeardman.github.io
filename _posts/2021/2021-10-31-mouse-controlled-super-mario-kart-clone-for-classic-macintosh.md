@@ -66,7 +66,7 @@ I found this game in my collection of Japanese Macintosh Magazine CD-ROMs, which
 
 ## How can I play this game?
 
-You can play the game in your web browser at [https://archive.org/details/emora-kart](https://archive.org/details/emora-kart) though be warned it runs very slowly in this emulator.
+You can play the game in your web browser at [archive.org/details/emora-kart](https://archive.org/details/emora-kart) though be warned it runs very slowly in this emulator.
 
 Alternatively, you can [download it](https://macintoshgarden.org/games/emora-kart) to play on your real Macintosh or in a different emulator.
 

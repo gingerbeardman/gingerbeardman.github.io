@@ -16,7 +16,7 @@ comments: https://twitter.com/gingerbeardman/status/1672265558320992259
 
 ---
 
-Marguerite is a defunct Japanese website, previously at [https://marguerite.jp](https://marguerite.jp) (dead link) that hosted HTML5 implementations of Hanafuda and Mahjong.
+Marguerite is a defunct Japanese website, previously at [marguerite.jp](https://marguerite.jp) (dead link) that hosted HTML5 implementations of Hanafuda and Mahjong.
 
 Their Hanafuda in particular was very well done, offering a variety of rulesets some of which are difficult to find in video game form and impossible to find in a browser game. The experience was single player versus one or two CPU players.
 
@@ -47,7 +47,7 @@ A couple of small changes later (two hard-coded URLs in the JavaScript pointed t
 
 ## It's alive!
 
-So, I'm now hosting a mirror copy on my website: [https://marguerite.gingerbeardman.com](https://marguerite.gingerbeardman.com)
+So, I'm now hosting a mirror copy on my website: [marguerite.gingerbeardman.com](https://marguerite.gingerbeardman.com)
 
 Notes:
 - Sound requires Chrome
