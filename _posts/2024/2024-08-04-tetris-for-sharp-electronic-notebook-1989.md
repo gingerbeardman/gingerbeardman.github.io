@@ -5,12 +5,11 @@ date: '2024-08-04T17:47+01:00'
 tags:
 - tetris
 - japanese
-- macintosh
+- sharp
 - software
 - history
 - game
-- sharp
-image: /images/posts/tetris-ic-card-sharp-pa-8500.jpg
+image: /images/posts/tetris-ic-card-sharp-pa-8500-half.jpg
 featured: false
 pinned: false
 
