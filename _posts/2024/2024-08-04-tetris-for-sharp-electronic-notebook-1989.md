@@ -17,7 +17,7 @@ comments: https://twitter.com/gingerbeardman/status/1820141522513527092
 
 ---
 
-Sharp's Denshi Techō (電子手帳) were a range of electronic notebooks or organisers, marketed as [Bware](https://www.g-mark.org/gallery/winners/9cad4b2a-803d-11ed-862b-0242ac130002) in Japan and [Wizard or IQ](https://en.wikipedia.org/wiki/Sharp_Wizard) elsewhere. In Japan the range won a [G-mark Good Design Award in 1988](https://www.g-mark.org/gallery/winners/9cad4b2a-803d-11ed-862b-0242ac130002) and in the USA [an episode of Seinfeld](https://en.wikipedia.org/wiki/The_Wizard_(Seinfeld)) was the prize.
+Sharp's Denshi Techō (電子手帳) were a range of electronic notebooks or organisers, marketed as [Bware](https://www.g-mark.org/gallery/winners/9cad4b2a-803d-11ed-862b-0242ac130002) in Japan and [Wizard or IQ](https://en.wikipedia.org/wiki/Sharp_Wizard) elsewhere. In Japan they won a prestigious [G-mark Good Design Award in 1988](https://www.g-mark.org/gallery/winners/9cad4b2a-803d-11ed-862b-0242ac130002) and in the USA [an episode of Seinfeld](https://en.wikipedia.org/wiki/The_Wizard_(Seinfeld)) was the prize.
 
 As well as being [home to some of the earliest emoji](/2024/05/10/emoji-history-the-missing-years/) these devices could run software from IC cards (solid state storage). There were about 30 games released in this format, everything from classics like *Sokoban*, *Shanghai*, *Lode Runner*, *Puzznic*, *Fortress*, to everygreen games like *Golf*, *Baseball*, *Mahjong*, *Shogi*, *Othello*, *Solitaire*, *President* (card game), exclusive games like *Yamamura Misa Suspense – The Kyoto Zai-tech Murder Case*, and some contemporary titles like *Hatris*.
 
