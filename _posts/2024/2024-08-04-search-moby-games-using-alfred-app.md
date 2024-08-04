@@ -24,7 +24,7 @@ Earlier this year I made a workflow for [Alfred app](https://alfred.app) to allo
 ----
 
 ## Download
-- [https://alfred.app/workflows/gingerbeardman/moby-games/](https://alfred.app/workflows/gingerbeardman/moby-games/)
+- [alfred.app/workflows/gingerbeardman/moby-games/](https://alfred.app/workflows/gingerbeardman/moby-games/)
 
 It requires an [API that you can get instantly](https://www.mobygames.com/info/api/) with minimal hassle via your Moby Games profile page.
 
@@ -33,4 +33,4 @@ It requires an [API that you can get instantly](https://www.mobygames.com/info/a
 ----
 
 ## Open Source
-Suggestions and PRs are welcome at: [https://github.com/gingerbeardman/alfred-moby-games/](https://github.com/gingerbeardman/alfred-moby-games/)
+Suggestions and PRs are welcome at: [github.com/gingerbeardman/alfred-moby-games/](https://github.com/gingerbeardman/alfred-moby-games/)
