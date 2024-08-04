@@ -29,7 +29,7 @@ There's not much about these devices online, particularly in English, but two no
 
 ----
 
-## TETRIS
+## TETRIS IC card
 
 Here's the Tetris IC card running on my PA-8500:
 
