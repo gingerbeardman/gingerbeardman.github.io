@@ -32,7 +32,7 @@ This story is still developing, and the press have been notified.
 
 ## Status
 
-Here's a summary of the current status of the pages related to a deleted account.
+Here's a summary of the current status of the pages related to my deleted account:
 
 **Relinked**
 - [archive.org/details/@gingerbeardman/uploads](https://archive.org/details/@flicky1984/uploads)
@@ -58,7 +58,7 @@ My support experience with Internet Archive was frustrating and ultimately futil
 ![PNG](https://cdn.gingerbeardman.com/images/posts/internet-archive-glitch.png "“(your data) cannot be restored and, for the last time, the old user name is no longer available.”")
 {:.tofigure}
 
-## Update
+## Update, about turn
 
 After the second submission of this post by somebody else hit the Hacker News homepage I received an email say that they had "figured a workaround" (their choice of word) and restored my username, which in turn relinked my old favorites. This miracle contradicts the message shown above there they are pretty clear that it was not possible.
 

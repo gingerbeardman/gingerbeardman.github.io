@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Taking command of the Context Menu in macOS"
-last_modified_at: '2024-07-30T22:37+01:00'
+last_modified_at: '2024-08-04T16:30+01:00'
 date: '2024-07-30T17:14+01:00'
 tags:
 - macos
@@ -55,6 +55,8 @@ There are some assumptions here:
 - the script is called with parameters passed by `argv` so the file is `$@`
 - the new file will have the same name as the original, but with a new .mp4 file extension
 - it only works on single files (read on)
+
+We *could* add an extra parameter to the command line to use hardware encoding (hevc_videotoolbox) `-c:v hevc_videotoolbox`, which would be something like twice as fast, but this will not reduce the file size. So we stick with ffmpeg default settings.
 
 You can take the exact same approach with any destination format as it is decided by the file extension. Cool. You could convert any of ffmpeg's supported file types to any other, such as WAV, OGG, MKV, etc.
 
