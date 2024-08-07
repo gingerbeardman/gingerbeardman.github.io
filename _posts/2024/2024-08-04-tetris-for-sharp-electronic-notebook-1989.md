@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TETRIS for Sharp Electronic Notebook (1989)"
-last_modified_at: '2024-08-07T14:32+01:00'
+last_modified_at: '2024-08-07T19:10+01:00'
 date: '2024-08-04T17:47+01:00'
 tags:
 - tetris
@@ -26,7 +26,7 @@ And perhaps most importantly: a version of *Tetris*, released in December 1989. 
 
 There's not much about these devices online, particularly in English, but two notable places are: [HP Museum forum](https://www.hpmuseum.org/forum/thread-16524.html) (for devices and IC cards) and [Insert Credit forum](https://forums.insertcredit.com/t/stay-sharp-with-sc-denshi-system-techo-games/2326) (for games). The devices are common on Japanese auction and selling websites, but the games are becoming more difficult to find.
 
-This was, as far as I am aware, the second ever handheld version of Tetris. At the time of its release Japan was in the "bubble era" period of economic boom, which lasted 1986–1991. There was so much money floating around they didn't know what to do with it, so much of it was ploughed into research and development of crazy things like consumer electronics, computers, engine technology, vehicle design, book design, software distribution, etc. Crazy times which led to so much innovation.
+This was, as far as I am aware, the second ever handheld version of Tetris. At the time of its release [Japan was in the "bubble era" period of economic boom](https://en.wikipedia.org/wiki/Japanese_asset_price_bubble), which lasted 1986–1991. There was so much money floating around they didn't know what to do with it, so much of it was ploughed into research and development of crazy things like consumer electronics, computers, engine technology, vehicle design, book design, software distribution, etc. Crazy times which led to so much innovation.
 
 Without this device [there would be no Apple Newton](/2024/05/10/emoji-history-the-missing-years/#1994) (which was co-produced by Sharp), without Newton there would be no iPhone, and without iPhone there would be no Android. Evolution is necessary for technological progress.
 

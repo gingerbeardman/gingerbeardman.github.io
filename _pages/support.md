@@ -7,10 +7,10 @@ permalink: /support.html
 
 <br>
 You can show your appreciation of a post, or the blog, using the links below, pay what you want:
+- [Ko-fi]({{ site.donate.kofi }}) (one-off or recurring)
+- [Patreon]({{ site.donate.patreon }}) (one-off or recurring)
 - [PayPal]({{ site.donate.paypalme }}) (one-off donation)
 - [Stripe]({{ site.donate.stripe }}) (one-off donation)
-- [Ko-fi](https://ko-fi.com/gingerbeardman) (one-off or recurring)
-- [Patreon](https://www.patreon.com/gingerbeardman) (one-off or recurring)
 
 Any money raised goes towards buying old books, magazines, CD-ROMs, or gadgets, with the only goal being continued research into pre-internet happenings in the early digital world.
 
