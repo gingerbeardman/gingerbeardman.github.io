@@ -57,9 +57,9 @@ It's an odd way of thinking about working on a computer—task-based rather than
 
 ## Details
 
-It's written in Swift and SwiftUI and weighs in at 640KB, about one third of which are all the required resolutions of icon files. By creating a Document-Based App you get a ton of functionality for free, such as: document/tab/window management, undo (though I still needed to watch for it and refresh the app window) and more.
+It's written in Swift and SwiftUI and weighs in at 640KB, about one third of which is all the required icon file resolutions. By creating a Document-Based App you get a ton of functionality for free, such as: document/tab/window management, undo (though I still needed to watch for it and refresh the app window) and much more.
 
-Dealing with files was both cool and annoying, cool that you can get aliases and bookmarks to files so easily, but annoying that you have to jump through so many hoops to work around the security protections by doing file requests in a long-winded way, and having to tweak plist entries to give the app just the right types of permissions. And I'm using some features of SwiftUI that mean the app can't run on anything before macOS 14 Sonoma. All-in-all I'd say modern macOS development is a bit of a mixed bag. Take it or leave it.
+Dealing with files was both cool and annoying, cool that you can get aliases and bookmarks to files so easily, but annoying that you have to jump through so many hoops to work around the security protections by doing file requests in a long-winded way, and having to tweak plist entries to give the app just the right types of permissions. I'm using some features of SwiftUI that mean the app can't run on anything before macOS 14 Sonoma. All-in-all I'd say modern macOS development is a bit of a mixed bag. Take it or leave it.
 
 ## Icon
 
