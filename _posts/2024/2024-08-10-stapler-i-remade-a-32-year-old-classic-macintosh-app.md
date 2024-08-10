@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Stapler: I remade a 32 year old classic Macintosh app"
+last_modified_at: '2024-08-10T23:02+01:00'
 date: '2024-08-10T22:00+01:00'
 tags:
 - macintosh
@@ -20,6 +21,11 @@ nouns:
 - BeOS
 - Linux
 - Macintosh
+- OS/2
+- Amiga
+- Workbench
+- Atari ST
+- GEM
 image: /images/posts/stapler.png
 featured: true
 pinned: false
@@ -53,7 +59,7 @@ The idea is you set up a Stapler Document per project containing related apps, f
 - Play: Music app, Hacker News app, Twitter app
 - Movie: run Caffeine to keep your computer on, shortcut to Sleep Displays
 
-It's an odd way of thinking about working on a computer—task-based rather than app-based or document-based. Indeed, some might say it's an outdated way of thinking about it. But I'm always banging the drum that there is so much good stuff that was prematurely left behind with the memories of System 7 (I still use it)
+It's an odd way of thinking about working on a computer—task-based rather than app-based or document-based. Indeed, some might say it's an outdated way of thinking about it. But I'm always banging the drum that there is so much good stuff that was prematurely left behind with the memories of System 7 ([I still use it](/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/)), BeOS, OS/2, Amiga Workbench, GEM and the alternative desktops of Atari ST, and so on. So I thought I'd see if I could walk the walk as well as talk the talk.
 
 ## Details
 
