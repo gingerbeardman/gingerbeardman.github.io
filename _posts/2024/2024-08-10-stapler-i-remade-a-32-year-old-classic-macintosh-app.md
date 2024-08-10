@@ -42,7 +42,7 @@ Full details, download and usage are at the GitHub repo: [github.com/gingerbeard
 
 ## Tell me more
 
-The idea is you set up a Stapler Document per project containing related apps, files, folders, etc. Then you can open them all at once by launching the single Stapler Document. Each Stapler Document contains lists of aliases which can be managed, inspected and launched through Stapler.app. The key time-saver is that if you launch a Stapler Document directly, all the items in its list will automatically be launched. Cool!
+The idea is you set up a Stapler Document per project containing related apps, files, folders, etc. Then you can open them all at once by launching the single document. Each document contains a list of aliases that can be managed, inspected, launched using the app. The key time-saver is that if you launch a Stapler Document directly, all the items in its list will automatically be launched. Cool!
 
 - Work: open Nova editor, run current game, pixel art editor, bitmap font app, Taskpaper todo list
 - Play: Music app, Hacker News app, Twitter app
