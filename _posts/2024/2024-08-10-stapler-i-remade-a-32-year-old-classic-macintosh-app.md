@@ -64,4 +64,4 @@ Given that this was a quick weekend project, I kind of lost steam when it came t
 
 > ## Thanks
 > 
-> My good friend Dave Roberts (Serendipity App Company) for brainstorming why it was so damned difficult to get the app to react differently when a document was opened from Finder. Rip it up and start again! And eternal thanks to Chris Patterson and Ali Rantakari for their apps from years gone by.
+> My good friend Dave Roberts (Serendipity App Company) for brainstorming why it was so damned difficult to get the app to react differently when a document was opened from Finder. Rip it up and start again! And eternal thanks to Chris Patterson and Ali Rantakari for their apps.
