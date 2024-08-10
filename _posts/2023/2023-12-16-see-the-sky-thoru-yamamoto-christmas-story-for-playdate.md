@@ -108,7 +108,7 @@ And that's it. The final size of this new version is smaller than the original, 
 
 You can download *See the sky* for Playdate from my page on itch.io, and it is a free download. A present from Thoru and myself. With best wishes for a Merry Christmas. 
 
-[https://gingerbeardman.itch.io/see-the-sky](https://gingerbeardman.itch.io/see-the-sky)
+[gingerbeardman.itch.io/see-the-sky](https://gingerbeardman.itch.io/see-the-sky)
 
 - 500 screens
 - 10 chapters

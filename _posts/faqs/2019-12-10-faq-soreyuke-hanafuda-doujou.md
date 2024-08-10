@@ -9,4 +9,4 @@ tags:
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
 
-[https://www.gamefaqs.com/ngpc/916535-soreyuke-hanafuda-doujou/faqs](https://gamefaqs.gamespot.com/ngpc/916535-soreyuke-hanafuda-doujou/faqs)
+[www.gamefaqs.com/ngpc/916535-soreyuke-hanafuda-doujou/faqs](https://gamefaqs.gamespot.com/ngpc/916535-soreyuke-hanafuda-doujou/faqs)

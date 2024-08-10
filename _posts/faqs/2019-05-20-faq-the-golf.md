@@ -9,4 +9,4 @@ tags:
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
 
-[https://www.gamefaqs.com/msx/953282-the-golf/faqs](https://gamefaqs.gamespot.com/msx/953282-the-golf/faqs)
+[www.gamefaqs.com/msx/953282-the-golf/faqs](https://gamefaqs.gamespot.com/msx/953282-the-golf/faqs)

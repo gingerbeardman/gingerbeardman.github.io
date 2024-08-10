@@ -9,4 +9,4 @@ tags:
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
 
-[https://www.gamefaqs.com/genesis/570462-new-3d-golf-simulation-waialae-no-kiseki/faqs](https://gamefaqs.gamespot.com/genesis/570462-new-3d-golf-simulation-waialae-no-kiseki/faqs)
+[www.gamefaqs.com/genesis/570462-new-3d-golf-simulation-waialae-no-kiseki/faqs](https://gamefaqs.gamespot.com/genesis/570462-new-3d-golf-simulation-waialae-no-kiseki/faqs)

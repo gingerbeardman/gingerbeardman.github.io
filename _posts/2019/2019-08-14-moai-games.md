@@ -18,4 +18,4 @@ I created a website mashing up a bunch of things that I love:
 * Videogames
 * Lists
 
-[https://moai.games](https://moai.games "https://moai.games")
+[moai.games](https://moai.games "https://moai.games")

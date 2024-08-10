@@ -16,7 +16,7 @@ I recently created a Safari Extension that renders plain text Markdown files as 
 Download
 --------
 
-[http://www.gingerbeardman.com/safari/Doctor.safariextz](http://www.gingerbeardman.com/safari/Doctor.safariextz) (25Kb)
+[www.gingerbeardman.com/safari/Doctor.safariextz](http://www.gingerbeardman.com/safari/Doctor.safariextz) (25Kb)
 
 To install: double click the file after it has downloaded.
 

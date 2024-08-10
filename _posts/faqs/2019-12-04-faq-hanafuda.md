@@ -9,4 +9,4 @@ tags:
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
 
-[https://www.gamefaqs.com/ps2/921032-hanafuda/faqs](https://gamefaqs.gamespot.com/ps2/921032-hanafuda/faqs)
+[www.gamefaqs.com/ps2/921032-hanafuda/faqs](https://gamefaqs.gamespot.com/ps2/921032-hanafuda/faqs)

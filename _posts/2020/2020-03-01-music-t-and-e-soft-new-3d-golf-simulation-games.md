@@ -33,6 +33,6 @@ For PC-98 and X68000 I used a Windows app called HOOT to play back the "chip" mu
 
 For 3DO I extracted the filesystem from CD-ROM ISOs, then converted files containing audio into WAV and then FLAC. For AIFF/AIFC files I converted using command line ffmpeg, and for Stream files I used ZStream CHUNKS Reader (version 0.96).
 
-[http://www.mediafire.com/folder/tcm6u1rhz1xsy/vgm](http://www.mediafire.com/folder/tcm6u1rhz1xsy/vgm)
+[www.mediafire.com/folder/tcm6u1rhz1xsy/vgm](http://www.mediafire.com/folder/tcm6u1rhz1xsy/vgm)
 
 They should make it on to the Video Game Music website soon, but they are available first here. Enjoy!

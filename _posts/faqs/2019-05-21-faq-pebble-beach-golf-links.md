@@ -9,4 +9,4 @@ tags:
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
 
-[https://www.gamefaqs.com/genesis/586373-pebble-beach-golf-links/faqs](https://gamefaqs.gamespot.com/genesis/586373-pebble-beach-golf-links/faqs)
+[www.gamefaqs.com/genesis/586373-pebble-beach-golf-links/faqs](https://gamefaqs.gamespot.com/genesis/586373-pebble-beach-golf-links/faqs)

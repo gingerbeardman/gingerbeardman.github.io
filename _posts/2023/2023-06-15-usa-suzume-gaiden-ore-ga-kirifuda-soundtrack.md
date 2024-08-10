@@ -22,7 +22,7 @@ I recently played through COMPILE’s うさ雀外伝 俺が切り札！ “Usaj
 
 ## Soundtrack download
 
-[https://archive.org/details/usa-suzume-gaiden-ore-ga-kirifuda-pc-98-unofficial-soundtrack](https://archive.org/details/usa-suzume-gaiden-ore-ga-kirifuda-pc-98-unofficial-soundtrack)
+[archive.org/details/usa-suzume-gaiden-ore-ga-kirifuda-pc-98-unofficial-soundtrack](https://archive.org/details/usa-suzume-gaiden-ore-ga-kirifuda-pc-98-unofficial-soundtrack)
 
 Track listing:
 

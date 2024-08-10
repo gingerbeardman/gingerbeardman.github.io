@@ -9,4 +9,4 @@ tags:
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
 
-[http://gamefaqs.com/console/psx/file/micro_machines_v3.txt](http://gamefaqs.com/console/psx/file/micro_machines_v3.txt)
+[gamefaqs.com/console/psx/file/micro_machines_v3.txt](http://gamefaqs.com/console/psx/file/micro_machines_v3.txt)

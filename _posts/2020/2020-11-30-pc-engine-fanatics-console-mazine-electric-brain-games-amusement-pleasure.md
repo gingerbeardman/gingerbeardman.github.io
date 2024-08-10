@@ -32,7 +32,7 @@ I'd like take this opportunity to thank Andy Harris for loaning me the majority 
 
 Enjoy! 
 
-[https://archive.org/search.php?query=%22electric+brain%22+%22Onn+Lee%22&sort=titleSorter](https://archive.org/search.php?query=%22electric+brain%22+%22Onn+Lee%22&sort=titleSorter) 
+[archive.org/search.php?query=%22electric+brain%22+%22Onn+Lee%22&sort=titleSorter](https://archive.org/search.php?query=%22electric+brain%22+%22Onn+Lee%22&sort=titleSorter) 
 
 ![JPG](https://cdn.gingerbeardman.com/images/posts/electric-brain-31.jpg "Electric Brain, issue 31, from 1993")
 {:.tofigure}

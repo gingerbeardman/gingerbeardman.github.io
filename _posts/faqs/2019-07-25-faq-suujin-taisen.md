@@ -9,4 +9,4 @@ tags:
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
 
-[https://www.gamefaqs.com/ds/939118-suujin-taisen/faqs](https://gamefaqs.gamespot.com/ds/939118-suujin-taisen/faqs)
+[www.gamefaqs.com/ds/939118-suujin-taisen/faqs](https://gamefaqs.gamespot.com/ds/939118-suujin-taisen/faqs)

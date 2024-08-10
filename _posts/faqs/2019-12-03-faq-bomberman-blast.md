@@ -9,4 +9,4 @@ tags:
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
 
-[https://www.gamefaqs.com/wii/945463-bomberman-blast/faqs](https://gamefaqs.gamespot.com/wii/945463-bomberman-blast/faqs)
+[www.gamefaqs.com/wii/945463-bomberman-blast/faqs](https://gamefaqs.gamespot.com/wii/945463-bomberman-blast/faqs)

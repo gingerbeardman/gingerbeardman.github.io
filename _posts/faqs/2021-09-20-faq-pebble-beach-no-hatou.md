@@ -9,4 +9,4 @@ tags:
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
 
-[https://www.gamefaqs.com/pc98/256450-pebble-beach-no-hatou/faqs](https://gamefaqs.gamespot.com/pc98/256450-pebble-beach-no-hatou/faqs)
+[www.gamefaqs.com/pc98/256450-pebble-beach-no-hatou/faqs](https://gamefaqs.gamespot.com/pc98/256450-pebble-beach-no-hatou/faqs)

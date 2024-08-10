@@ -44,7 +44,7 @@ Below are both scripts, be sure to grab the Gist versions as they have error che
 
 ### Convert image table to Animated GIF
 
-[https://gist.github.com/gingerbeardman/b85367a8e6b3d139d9c85f49e146af38](https://gist.github.com/gingerbeardman/b85367a8e6b3d139d9c85f49e146af38)
+[gist.github.com/gingerbeardman/b85367a8e6b3d139d9c85f49e146af38](https://gist.github.com/gingerbeardman/b85367a8e6b3d139d9c85f49e146af38)
 
 ```sh
 # input file details
@@ -68,7 +68,7 @@ magick identify -format "${filename}.gif: %n frames\n" ${filename}.gif
 
 ### Convert Animated GIF to image table
 
-[https://gist.github.com/gingerbeardman/15a8e1e72745848190c0e7d583ca24e1](https://gist.github.com/gingerbeardman/15a8e1e72745848190c0e7d583ca24e1)
+[gist.github.com/gingerbeardman/15a8e1e72745848190c0e7d583ca24e1](https://gist.github.com/gingerbeardman/15a8e1e72745848190c0e7d583ca24e1)
 
 ```sh
 # input file details

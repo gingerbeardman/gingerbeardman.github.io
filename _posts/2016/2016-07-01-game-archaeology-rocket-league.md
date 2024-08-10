@@ -21,7 +21,7 @@ During my formative years I had played a game called [Wild Wheels](http://www.mo
 
 On my way home I put together a list. I do love lists.
 
-[https://www.mobygames.com/game-group/ball-sports-with-vehicles](https://www.mobygames.com/game-group/ball-sports-with-vehicles)
+[www.mobygames.com/game-group/ball-sports-with-vehicles](https://www.mobygames.com/game-group/ball-sports-with-vehicles)
 
 We can see that Rocket League is the latest in a long line of car soccer games, and the sequel of [Supersonic Acrobatic Rocket-Powered Battle-Cars](https://en.wikipedia.org/wiki/Supersonic_Acrobatic_Rocket-Powered_Battle-Cars) from seven years prior. The earliest game of this type is from 1977 and there are at least a couple of dozen others between then and Rocket League.
 

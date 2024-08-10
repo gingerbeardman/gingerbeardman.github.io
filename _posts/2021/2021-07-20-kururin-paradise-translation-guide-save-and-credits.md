@@ -29,12 +29,12 @@ A full set of credits from the staff roll were also submitted to GameFAQs.
 
 ## Translation Guide
 
-[https://gamefaqs.gamespot.com/gba/582341-kururin-paradise/faqs/79375](https://gamefaqs.gamespot.com/gba/582341-kururin-paradise/faqs/79375)
+[gamefaqs.gamespot.com/gba/582341-kururin-paradise/faqs/79375](https://gamefaqs.gamespot.com/gba/582341-kururin-paradise/faqs/79375)
 
 ## Save
 
-[https://gamefaqs.gamespot.com/gba/582341-kururin-paradise/saves](https://gamefaqs.gamespot.com/gba/582341-kururin-paradise/saves)
+[gamefaqs.gamespot.com/gba/582341-kururin-paradise/saves](https://gamefaqs.gamespot.com/gba/582341-kururin-paradise/saves)
 
 ## Credits
 
-[https://gamefaqs.gamespot.com/gba/582341-kururin-paradise/credit](https://gamefaqs.gamespot.com/gba/582341-kururin-paradise/credit)
+[gamefaqs.gamespot.com/gba/582341-kururin-paradise/credit](https://gamefaqs.gamespot.com/gba/582341-kururin-paradise/credit)

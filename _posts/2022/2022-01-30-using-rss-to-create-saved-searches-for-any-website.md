@@ -59,7 +59,7 @@ The first thing we need to do is craft a Yahoo! Japan Auctions URL that makes se
 
 This gives us the following URL (which could be trimmed down manually but we'll use it as-is):
 
-[https://auctions.yahoo.co.jp/search/search?va=ペブルビーチ&exflg=1&b=1&n=50&s1=new&o1=d&auccat=27727&tab_ex=commerce&ei=utf-8&aq=-1&oq=&sc_i=&exflg=1&p=ペブルビーチ](https://auctions.yahoo.co.jp/search/search?va=ペブルビーチ&exflg=1&b=1&n=50&s1=new&o1=d&auccat=27727&tab_ex=commerce&ei=utf-8&aq=-1&oq=&sc_i=&exflg=1&p=ペブルビーチ)
+[auctions.yahoo.co.jp/search/search?va=ペブルビーチ&exflg=1&b=1&n=50&s1=new&o1=d&auccat=27727&tab_ex=commerce&ei=utf-8&aq=-1&oq=&sc_i=&exflg=1&p=ペブルビーチ](https://auctions.yahoo.co.jp/search/search?va=ペブルビーチ&exflg=1&b=1&n=50&s1=new&o1=d&auccat=27727&tab_ex=commerce&ei=utf-8&aq=-1&oq=&sc_i=&exflg=1&p=ペブルビーチ)
 
 Next, in PolitePol:
 

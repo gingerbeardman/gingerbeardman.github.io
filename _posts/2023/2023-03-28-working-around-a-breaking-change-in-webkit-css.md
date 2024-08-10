@@ -21,6 +21,6 @@ It turns out that some [6-year-old CSS](https://github.com/uetchy/Polyglot/blob/
 
 But, all is not lost, I created a quick-fix workaround with a user stylesheet! 
 
-[https://github.com/uetchy/Polyglot/issues/128#issuecomment-1487229870](https://github.com/uetchy/Polyglot/issues/128#issuecomment-1487229870)
+[github.com/uetchy/Polyglot/issues/128#issuecomment-1487229870](https://github.com/uetchy/Polyglot/issues/128#issuecomment-1487229870)
 
 <script src="https://gist.github.com/gingerbeardman/5baabc9b141e1c395c73af237fdd0e49.js"></script>

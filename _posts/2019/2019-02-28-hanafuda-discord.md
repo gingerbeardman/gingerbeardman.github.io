@@ -12,4 +12,4 @@ featured: false
 ---
 I created a Discord server for discussion of traditional Japanese flower cards.
 
-[https://discord.com/invite/mKbdwy9](https://discord.com/invite/mKbdwy9)
+[discord.com/invite/mKbdwy9](https://discord.com/invite/mKbdwy9)

@@ -9,4 +9,4 @@ tags:
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
 
-[https://www.gamefaqs.com/ds/997750-pang-magical-michael/faqs](https://gamefaqs.gamespot.com/ds/997750-pang-magical-michael/faqs)
+[www.gamefaqs.com/ds/997750-pang-magical-michael/faqs](https://gamefaqs.gamespot.com/ds/997750-pang-magical-michael/faqs)

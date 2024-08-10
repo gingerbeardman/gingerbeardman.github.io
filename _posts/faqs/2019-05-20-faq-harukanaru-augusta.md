@@ -9,4 +9,4 @@ tags:
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
 
-[https://www.gamefaqs.com/genesis/570460-harukanaru-augusta/faqs](https://gamefaqs.gamespot.com/genesis/570460-harukanaru-augusta/faqs)
+[www.gamefaqs.com/genesis/570460-harukanaru-augusta/faqs](https://gamefaqs.gamespot.com/genesis/570460-harukanaru-augusta/faqs)

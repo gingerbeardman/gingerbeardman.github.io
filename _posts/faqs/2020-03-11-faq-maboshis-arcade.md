@@ -9,4 +9,4 @@ tags:
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
 
-[https://www.gamefaqs.com/wii/946472-maboshis-arcade/faqs](https://gamefaqs.gamespot.com/wii/946472-maboshis-arcade/faqs)
+[www.gamefaqs.com/wii/946472-maboshis-arcade/faqs](https://gamefaqs.gamespot.com/wii/946472-maboshis-arcade/faqs)

@@ -11,4 +11,4 @@ tags:
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
 
-[http://gamefaqs.com/console/psx/file/motor_toon_gp_2.txt](http://gamefaqs.com/console/psx/file/motor_toon_gp_2.txt)
+[gamefaqs.com/console/psx/file/motor_toon_gp_2.txt](http://gamefaqs.com/console/psx/file/motor_toon_gp_2.txt)

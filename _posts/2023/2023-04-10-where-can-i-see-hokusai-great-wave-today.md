@@ -36,7 +36,7 @@ Missing a viewing made me think about all the impressions in galleries and museu
 
 Of course, there's no fun in keeping this to myself so I put together a website containing the places where you can see The Great Wave today:
 
-**[https://greatwavetoday.com](https://greatwavetoday.com)**
+**[greatwavetoday.com](https://greatwavetoday.com)**
 
 As well as checking the website you can also subscribe to its RSS feed, so you'll also receive those lovely surprise notifications!
 

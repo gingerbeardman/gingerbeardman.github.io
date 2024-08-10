@@ -18,7 +18,7 @@ comments: https://twitter.com/gingerbeardman/status/1656404128338198530
 
 I just pushed some changes to my Playdate-centric fork of Piskel:
 
-[https://github.com/gingerbeardman/piskel-playdate/tree/dev-1047](https://github.com/gingerbeardman/piskel-playdate/tree/dev-1047)
+[github.com/gingerbeardman/piskel-playdate/tree/dev-1047](https://github.com/gingerbeardman/piskel-playdate/tree/dev-1047)
 
 This fork:
 - can be used to build desktop apps on latest operating systems

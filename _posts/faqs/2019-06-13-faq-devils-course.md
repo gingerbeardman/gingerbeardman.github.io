@@ -9,4 +9,4 @@ tags:
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
 
-[https://www.gamefaqs.com/genesis/570461-devils-course/faqs](https://gamefaqs.gamespot.com/genesis/570461-devils-course/faqs)
+[www.gamefaqs.com/genesis/570461-devils-course/faqs](https://gamefaqs.gamespot.com/genesis/570461-devils-course/faqs)

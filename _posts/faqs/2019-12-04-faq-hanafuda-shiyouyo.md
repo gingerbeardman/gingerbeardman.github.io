@@ -9,4 +9,4 @@ tags:
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
 
-[https://www.gamefaqs.com/wonderswan/577014-hanafuda-shiyouyo/faqs](https://gamefaqs.gamespot.com/wonderswan/577014-hanafuda-shiyouyo/faqs)
+[www.gamefaqs.com/wonderswan/577014-hanafuda-shiyouyo/faqs](https://gamefaqs.gamespot.com/wonderswan/577014-hanafuda-shiyouyo/faqs)
