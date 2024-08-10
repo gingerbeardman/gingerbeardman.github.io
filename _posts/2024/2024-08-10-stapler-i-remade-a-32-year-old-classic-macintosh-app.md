@@ -17,8 +17,8 @@ nouns:
 - Stapler
 - LaunchList
 - Xcode
-- Swift
 - SwiftUI
+- Swift
 - BeOS
 - Linux
 - Macintosh
