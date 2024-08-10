@@ -9,6 +9,8 @@ tags:
 - finder
 - tasks
 - workflow
+- swift
+- swiftui
 nouns:
 - Stapler Document
 - Stapler.app
