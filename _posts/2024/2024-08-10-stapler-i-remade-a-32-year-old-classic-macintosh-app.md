@@ -6,7 +6,9 @@ tags:
 - macintosh
 - software
 - macos
-- software
+- finder
+- tasks
+- workflow
 nouns:
 - Stapler Document
 - Stapler.app

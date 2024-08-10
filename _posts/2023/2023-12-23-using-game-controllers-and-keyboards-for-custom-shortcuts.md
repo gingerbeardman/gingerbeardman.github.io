@@ -8,7 +8,7 @@ tags:
 - keyboard
 - shortcuts
 - controller
-- productivity
+- workflow
 - poweruser
 nouns:
 - Nintendo Switch
