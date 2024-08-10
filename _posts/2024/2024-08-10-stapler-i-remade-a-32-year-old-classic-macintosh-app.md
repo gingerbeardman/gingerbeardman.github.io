@@ -32,7 +32,7 @@ A couple of days ago I was [reading on Hacker News about a feature in some *Linu
 
 This reminded me of *BeOS*, but at the same time it reminded me of an app from 1992 for classic Macintosh called [*Stapler*](https://macintoshgarden.org/apps/stapler-11), and how [I'd talked about that](https://twitter.com/gingerbeardman/status/1590051288951443456) and [it's one-time spiritual successor](https://twitter.com/gingerbeardman/status/1596573654674034691) [*LaunchList*](http://hasseg.org/launchList/) on Twitter in the past. These were both similar apps that allowed you to collect and launch all the apps, files, folders, documents, related to a specific task, thus saving time. Or as Ali Rantakari so succinctly put it in 2009: ["Opening a Bunch of Stuff at Once on Your Mac"](http://hasseg.org/blog/post/249/launching-lots-of-stuff-at-once-on-your-mac/).
 
-So I built my own take on this concept for modern macOS!
+So over the past day or so I built my own take on this concept for modern macOS!
 
 Whilst my app is inspired by both Stapler (right down to the name) and LaunchList, my app adds improvements and features of its own and is more of a a hybrid of both. For example, Stapler didn't have drag and drop and LaunchList didn't have zero-click auto-launch. My goal was to keep it as simple as possible, but no simpler. To that end, there are no preferences or settings in the app.
 
