@@ -47,7 +47,7 @@ Full details, download, and usage are at the GitHub repo: [github.com/gingerbear
 
 ----
 
-![PNG](/images/posts/stapler.png "Stapler, for modern macOS (14.0 or newer)")
+![PNG](https://cdn.gingerbeardman.com/images/posts/stapler.png "Stapler, for modern macOS (14.0 or newer)")
 {:.tofigure}
 
 ----
