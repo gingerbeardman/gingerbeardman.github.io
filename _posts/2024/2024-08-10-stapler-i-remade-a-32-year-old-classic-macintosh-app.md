@@ -25,9 +25,7 @@ comments: https://twitter.com/gingerbeardman/status/1821978186433097812
 
 A couple of days ago I was [reading on Hacker News about a feature in some Linux window managers where they allow collections of tabs from different apps](https://news.ycombinator.com/item?id=41192547).
 
-This reminded me of BeOS, but at the same time I [reminded me of an app from 1992 for classic Macintosh called Stapler](https://twitter.com/gingerbeardman/status/1590051288951443456), and how I'd talked about that [and it's one-time spiritual successor LaunchList](https://twitter.com/gingerbeardman/status/1596573654674034691) on Twitter in the past.
-
-Both of these apps were very much launchers, saving time by letting you launch all the apps, files, folders, documents, required for a specific task, or as Ali Rantakari so succinctly put it in 2009: "Opening a Bunch of Stuff at Once on Your Mac".
+This reminded me of BeOS, but at the same time I [reminded me of an app from 1992 for classic Macintosh called Stapler](https://twitter.com/gingerbeardman/status/1590051288951443456), and how I'd talked about that [and it's one-time spiritual successor LaunchList](https://twitter.com/gingerbeardman/status/1596573654674034691) on Twitter in the past. There were apps that let you manage collections of things: apps, files, folders, documents, shortcuts. Both of these apps were very much launchers, saving time by letting you launch all the apps, files, folders, documents, required for a specific task, or as Ali Rantakari so succinctly put it in 2009: ["Opening a Bunch of Stuff at Once on Your Mac"](http://hasseg.org/blog/post/249/launching-lots-of-stuff-at-once-on-your-mac/).
 
 So I built my own take on this concept for modern macOS!
 
