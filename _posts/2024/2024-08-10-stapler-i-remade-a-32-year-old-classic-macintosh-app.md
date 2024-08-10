@@ -40,7 +40,7 @@ This reminded me of *BeOS*, but at the same time it reminded me of an app from 1
 
 So over the past day or so I built my own take on this concept for modern macOS!
 
-Whilst my app is inspired by both Stapler (right down to the name) and LaunchList, my app adds improvements and features of its own and is more of a a hybrid of both. For example, Stapler didn't have drag and drop and LaunchList didn't have zero-click auto-launch. My goal was to keep it as simple as possible, but no simpler. To that end, there are no preferences or settings in the app.
+Whilst my app is inspired by both Stapler (right down to the name) and LaunchList, my app adds improvements and features of its own and is more of a hybrid of both. For example, Stapler didn't have drag and drop and LaunchList didn't have zero-click auto-launch. My goal was to keep it as simple as possible, but no simpler. To that end, there are no preferences or settings in the app.
 
 Full details, download and usage are at the GitHub repo: [github.com/gingerbeardman/stapler](https://github.com/gingerbeardman/stapler)
 
