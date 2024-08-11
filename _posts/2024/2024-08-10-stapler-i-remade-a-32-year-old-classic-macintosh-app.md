@@ -74,7 +74,7 @@ Given that this was a quick weekend project, I kind of lost steam when it came t
 
 ## Bonus tip
 
-System Preferences > General > Desktop & Dock > Windows > Close windows when quitting an application = OFF
+System Preferences > Desktop & Dock > Windows > Close windows when quitting an application = OFF
 
 Then leave the windows of an app open as you quit it. When you next launch the app its windows will restore to their previous size and position. If you close the windows first, then the app will restore to having no windows open.
 
