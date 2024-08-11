@@ -72,6 +72,12 @@ Dealing with files was both cool and annoying, cool that you can get aliases and
 
 Given that this was a quick weekend project, I kind of lost steam when it came to the icon. I'd love a better app icon, as well as a specific document icon, so any [icon designers can step this way](https://github.com/gingerbeardman/stapler/issues/1).
 
+## Bonus tip
+
+System Preferences > General > Desktop & Dock > Windows > Close windows when quitting an application = OFF
+
+Then leave the windows of an app open as you quit it. When you next launch the app its windows will restore to their previous size and position. If you close the windows first, then the app will restore to having no windows open.
+
 > ## Thanks
 > 
 > My good friend Dave Roberts (Serendipity App Company) for brainstorming why it was so damned difficult to get the app to react differently when a document was opened from Finder. Rip it up and start again! To Dustin Mierau for kickstarting this trend of remaking forgotten old apps for modern macOS. And eternal thanks to [Chris Patterson](https://twitter.com/chrispatterson/status/1822396663425532259) and Ali Rantakari for their apps.
