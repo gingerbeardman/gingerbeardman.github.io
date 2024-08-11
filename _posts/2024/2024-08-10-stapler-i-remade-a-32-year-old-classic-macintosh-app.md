@@ -4,7 +4,6 @@ title: "Stapler: I remade a 32 year old classic Macintosh app"
 last_modified_at: '2024-08-11T21:56+01:00'
 date: '2024-08-10T22:00+01:00'
 tags:
-- macintosh
 - software
 - macos
 - finder
@@ -87,6 +86,14 @@ Make sure to *uncheck*: `System Settings` > `Desktop & Dock` > `Windows` > `Clos
 
 Then leave the windows of an app open as you quit it. When you next launch the app its windows will restore to their previous size and position. If you close the windows first, then the app will restore to having no windows open.
 
+----
+
 > ## Thanks
 > 
 > My good friend Dave Roberts (Serendipity App Company) for brainstorming why it was so damned difficult to get the app to react differently when a document was opened from Finder. Rip it up and start again! To Dustin Mierau for kickstarting this trend of remaking forgotten old apps for modern macOS. And eternal thanks to [Chris Patterson](https://twitter.com/chrispatterson/status/1822396663425532259) and Ali Rantakari for their apps.
+
+----
+
+## Elsewhere
+
+- [Hacker News](https://news.ycombinator.com/item?id=41212193)
