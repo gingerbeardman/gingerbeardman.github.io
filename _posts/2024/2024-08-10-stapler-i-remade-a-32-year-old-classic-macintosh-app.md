@@ -74,4 +74,4 @@ Given that this was a quick weekend project, I kind of lost steam when it came t
 
 > ## Thanks
 > 
-> My good friend Dave Roberts (Serendipity App Company) for brainstorming why it was so damned difficult to get the app to react differently when a document was opened from Finder. Rip it up and start again! To Dustin Mierau for kickstarting this trend of remaking forgotten old apps for modern macOS. And eternal thanks to Chris Patterson and Ali Rantakari for their old apps. 
+> My good friend Dave Roberts (Serendipity App Company) for brainstorming why it was so damned difficult to get the app to react differently when a document was opened from Finder. Rip it up and start again! To Dustin Mierau for kickstarting this trend of remaking forgotten old apps for modern macOS. And eternal thanks to [Chris Patterson](https://twitter.com/chrispatterson/status/1822396663425532259) and Ali Rantakari for their old apps.
