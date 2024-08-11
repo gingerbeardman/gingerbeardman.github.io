@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Stapler: I remade a 32 year old classic Macintosh app"
+last_modified_at: '2024-08-11T21:09+01:00'
 date: '2024-08-10T22:00+01:00'
 tags:
 - macintosh
@@ -66,7 +67,15 @@ It's an odd way of thinking about working on a computer—it's task-based rather
 
 It's written in Swift and SwiftUI and weighs in at 640KB, about one third of which is a multitude of icon files at many different sizes and resolutions. By creating a Document-Based App you get a ton of functionality for free, such as document/tab/window management, undo/redo (though I still needed to watch for it and refresh the app window), and much more.
 
-Dealing with files was both cool and annoying, cool that you can get aliases and bookmarks to files so easily, but annoying that you have to jump through so many hoops to work around the security and sandbox protections and end up having to do file requests in a very long-winded way, and then there's having to tweak plist entries to give the app just the right permissions. I'm using some features of SwiftUI that mean the app can't run on anything before macOS 14 Sonoma. All-in-all I'd say modern macOS development is a bit of a mixed bag. Take it or leave it.
+The editor is a native macOS window that's kind of like list view in a file manager, or a spreadsheet, or a little folder...depending on your point of view. Plus some menu commands and keyboard equivalents.
+
+The items in each list are macOS [bookmarks](https://eclecticlight.co/2020/05/21/bookmarks-a-type-of-alias-their-access-and-use/) which are a type of authorised/verified/secure alias (in fact, they're still called aliases in the code) that have been around for about 10–15 years. They contain the path plus a bunch more info. As macOS becomes more locked-down the recommended way of accessing files is to retrieve these bookmarks through the normal layers of system permissions and security. Without the bookmarks, for example just using plain text paths, I would not be able to show the full images in Quick Look or easily launch the list items.
+
+I store the items as JSON in the saved file, simply because I prefer it to XML (which is the main/default option). I wanted the files to still be human readable and editable to a degree.
+
+The files are launched using the default app specified by that file, so it can be changed on a per-file basis. Individual images might open in an image editor, image viewer, app to run OCR, script to run OCR on it, etc.
+
+Dealing with files was both cool and annoying, cool that you can get the bookmarks to files so easily, but annoying that you have to jump through so many hoops to work around the security and sandbox protections and end up having to do file requests in a long-winded way, and then there's having to tweak plist entries to give the app just the right permissions. I'm using some features of SwiftUI that mean the app can't run on anything before macOS 14 Sonoma. All-in-all I'd say modern macOS development is a bit of a mixed bag. Take it or leave it.
 
 ## Icon
 
