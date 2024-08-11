@@ -56,11 +56,11 @@ Full details, download, and usage are at the GitHub repo: [github.com/gingerbear
 
 The idea is you set up a Stapler Document per project containing related apps, files, folders, etc. Then you can open them all at once by launching the single document. Each document contains a list of aliases that can be managed, inspected, launched using the app. The key time-saver is that if you launch a Stapler Document directly, all the items in its list will automatically be launched. Cool!
 
-- Work: open Nova editor, run current game, pixel art editor, bitmap font app, Taskpaper todo list
-- Play: Music app, Hacker News app, Twitter app
-- Movie: run Caffeine to keep your computer on, shortcut to Sleep Displays
+- Work: text editor, run current game, pixel art editor, bitmap font app, todo list
+- Play: Music app, Hacker News app, Twitter app, script to position windows
+- Movie: run Caffeine to keep your computer on, shortcut to put displays to sleep
 
-It's an odd way of thinking about working on a computer—task-based rather than app-based or document-based. Indeed, some might say it's an outdated way of thinking about it. But I'm always banging the drum that there is so much good stuff that was prematurely left behind with the memories of System 7 ([I still use it](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)), BeOS, OS/2, Amiga Workbench, GEM and the alternative desktops of Atari ST, and so on. So I thought I'd see if I could walk the walk as well as talk the talk.
+It's an odd way of thinking about working on a computer—it's task-based rather than app-based or document-based. Indeed, some might say it's an outdated way of approaching things. But I'm always banging the drum about there being so much good stuff that was prematurely left behind along with the memories of System 7 ([though I still use that](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)), BeOS, OS/2, Amiga Workbench, GEM and the many alternative desktops of Atari ST, etc. So I thought I'd see if I could walk the walk as well as talk the talk.
 
 ## Details
 
