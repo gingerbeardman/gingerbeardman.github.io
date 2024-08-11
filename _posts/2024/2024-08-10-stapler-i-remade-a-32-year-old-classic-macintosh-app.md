@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stapler: I remade a 32 year old classic Macintosh app"
-last_modified_at: '2024-08-11T21:09+01:00'
+last_modified_at: '2024-08-11T21:56+01:00'
 date: '2024-08-10T22:00+01:00'
 tags:
 - macintosh
@@ -61,7 +61,7 @@ The idea is you set up a Stapler Document per project containing related apps, f
 - Play: Music app, Hacker News app, Twitter app, script to position windows
 - Movie: run Caffeine to keep your computer on, shortcut to put displays to sleep
 
-It's an odd way of thinking about working on a computer—it's task-based rather than app-based or document-based. Indeed, some might say it's an outdated way of approaching things. But I'm always banging the drum about there being so much good stuff that was prematurely left behind along with the memories of System 7 ([though I still use that](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)), BeOS, OS/2, Amiga Workbench, GEM and the many alternative desktops of Atari ST, etc. So I thought I'd see if I could walk the walk as well as talk the talk.
+It's an odd way of thinking about working on a computer—it's task-based rather than app-based or document-based. Indeed, some might say it's an outdated way of approaching things. But I'm always [banging the drum](https://www.youtube.com/playlist?list=PLfF-zlMNYMd_ZioGb0BKdqwWnx0wCDSgU) about there being so much good stuff that was prematurely left behind along with the memories of System 7 ([though I still use that](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)), BeOS, OS/2, Amiga Workbench, GEM and the many alternative desktops of Atari ST, etc. So I thought I'd see if I could walk the walk as well as talk the talk.
 
 ## Details
 
