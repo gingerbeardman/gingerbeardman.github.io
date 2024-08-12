@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stapler: I remade a 32 year old classic Macintosh app"
-last_modified_at: '2024-08-11T22:13+01:00'
+last_modified_at: '2024-08-12T23:26+01:00'
 date: '2024-08-10T22:00+01:00'
 tags:
 - software
@@ -47,7 +47,7 @@ Full details, download, and usage are at the GitHub repo: [github.com/gingerbear
 
 ----
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/stapler.png "Stapler, for modern macOS (14.0 or newer)")
+![PNG](https://cdn.gingerbeardman.com/images/posts/stapler.png "Stapler, for modern macOS (12.0 or newer)")
 {:.tofigure}
 
 ----
@@ -66,7 +66,7 @@ It's an odd way of thinking about working on a computer—it's task-based rather
 
 It's written in Swift and SwiftUI and weighs in at 640KB, about one third of which is a multitude of icon files at many different sizes and resolutions. By creating a Document-Based App you get a ton of functionality for free, such as document/tab/window management, undo/redo (though I still needed to watch for it and refresh the app window), and much more.
 
-The editor is a native macOS window that's kind of like list view in a file manager, or a spreadsheet, or a little folder...depending on your point of view. Plus some menu commands and keyboard equivalents.
+The editor is a native macOS window that's kind of like list view in a file manager, or a spreadsheet, or a little folder...depending on your point of view. Plus some menu commands and keyboard equivalents. You can have multiple windows open at once, for example one window each for all your common tasks, giving you the ability to launch full tasks or parts of them with minimal effort.
 
 The items in each list are macOS [bookmarks](https://eclecticlight.co/2020/05/21/bookmarks-a-type-of-alias-their-access-and-use/) (sometimes: security scoped bookmarks) which are a type of authorised/verified/secure alias (in fact, they're still called aliases in the code) that have been around for about 10–15 years. They contain the path plus a bunch more info. As macOS becomes more locked-down the recommended way of accessing files is to retrieve these bookmarks through the normal layers of system permissions and security. Without the bookmarks, for example just using plain text paths, I would not be able to show the full images in Quick Look or easily launch the list items. A key benefit is that the bookmark will still resolve if the file is moved somewhere else on the same disk, or even to a different volume!
 
