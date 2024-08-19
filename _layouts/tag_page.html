@@ -1,23 +1,28 @@
 ---
 layout: default
 ---
-
 <div class='o-wrapper'>
 
   <div class='o-grid'>
     <div class='o-grid__col tag-filter'>
       <h6>Filter:
-        <a href="/tags">#{{ page.tag }}</a> <span>({{ page.posts.size }} posts)</span>
+        <a href="/tags">#{{ page.tag }}</a> <span>({{ site.tags[page.tag].size }} posts)</span>
       </h6>
     </div>
   </div>
 
   <div class='o-grid'>
-    {% for post in site.posts %}
-      {% if post.tags contains page.tag %}
-        {% include_cached post-card.html pdate=post.date pfeatured=post.featured
-   ppinned=post.pinned precap=post.recap ptags=post.tags ptitle=post.title purl=post.url sbaseurl=site.baseurl %}
-      {% endif %}
+    {% for post in site.tags[page.tag] %}
+      {% include_cached post-card.html
+        pdate=post.date
+        pfeatured=post.featured
+        ppinned=post.pinned
+        precap=post.recap
+        ptags=post.tags
+        ptitle=post.title
+        purl=post.url
+        sbaseurl=site.baseurl %}
     {% endfor %}
   </div>
+
 </div>
