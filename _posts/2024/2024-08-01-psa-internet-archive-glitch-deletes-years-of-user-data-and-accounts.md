@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PSA: Internet Archive “glitch” deletes years of user data & accounts"
+title: "PSA: Internet Archive \"glitch\" deletes years of user data & accounts"
 last_modified_at: '2024-08-04T14:15+01:00'
 date: '2024-08-01T18:16+01:00'
 tags:
