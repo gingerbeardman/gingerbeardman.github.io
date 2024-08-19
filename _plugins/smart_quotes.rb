@@ -19,7 +19,7 @@ module Jekyll
       # Replace double quotes
       text = text.gsub(/"([^"]*)"/, '“\\1”')
       
-      # Replace single quotes/apostrophes
+      # Replace pairs of single quotes/apostrophes
       text = text.gsub(/'([^']*)'/, '‘\\1’')
       
       # Replace remaining apostrophes

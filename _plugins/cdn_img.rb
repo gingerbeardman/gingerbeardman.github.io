@@ -5,8 +5,8 @@ module Jekyll
       @site = site
       @cdn_url = "https://cdn.gingerbeardman.com"
 
-      site.pages.each { |page| process(page) }
-      site.posts.docs.each { |post| process(post) }
+      @site.pages.each { |page| process(page) }
+      @site.posts.docs.each { |post| process(post) }
     end
 
     def process(item)
