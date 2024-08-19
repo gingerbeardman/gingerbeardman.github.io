@@ -1,28 +1,40 @@
 <!DOCTYPE html>
 <html lang='en'>
-
-{% include_cached head.html ptag=page.tag pname=page.name ptitle=page.title stitle=site.title sextitle=site.extitle sdescription=site.description pexcerpt=page.excerpt purl=page.url surl=site.url sbaseurl=site.baseurl sanalytics=site.google_analytics %}
-
-<body class="{% if page.tags contains 'piece' %}piece {% elsif page.tags contains 'playdate' or page.tags contains 'dailydriver' %}playdate  {% elsif page.tags contains 'windows' %}windows {% elsif page.tags contains 'macintosh' or page.tags contains 'system7' %}macintosh {% endif %}">
-
+{% include_cached head.html 
+  pexcerpt=page.excerpt 
+  pname=page.name 
+  ptag=page.tag 
+  ptitle=page.title 
+  purl=page.url 
+  sanalytics=site.google_analytics 
+  sbaseurl=site.baseurl 
+  sdescription=site.description 
+  sextitle=site.extitle 
+  stitle=site.title 
+  surl=site.url
+%}
+<body class="{{ page.tags | join: ' ' }}">
   <div class='js-off-canvas-container c-off-canvas-container'>
-    {% include_cached header.html sdescription=site.description sbaseurl=site.baseurl sextitle=site.extitle shomepage=site.homepage sauthor=site.author pname=page.name %}
-
+    {% include_cached header.html 
+      pname=page.name 
+      sauthor=site.author 
+      sbaseurl=site.baseurl 
+      sdescription=site.description 
+      sextitle=site.extitle 
+      shomepage=site.homepage 
+    %}
     {{ content }}
     
     {% include_cached footer.html %}
   </div>
 
-  <script src="{{ '/js/jquery-3.7.1.min.js' | prepend: site.baseurl }}"></script>
-  <script src="{{ '/js/jquery.fitvids.js' | prepend: site.baseurl }}"></script>
-  <script src="{{ '/js/jquery.tablesorter.min.js' | prepend: site.baseurl }}"></script>
-  <script src="{{ '/js/app.js' | prepend: site.baseurl }}"></script>
+  {% assign scripts = "jquery-3.7.1.min.js|jquery.fitvids.js|jquery.tablesorter.min.js|app.js" | split: "|" %}
+  {% for script in scripts %}
+    <script src="{{ site.baseurl }}/js/{{ script }}"></script>
+  {% endfor %}
 
-{% if page.style %}
-  <style type="text/css">
-    {{ page.style }}
-  </style>
-{% endif %}
+  {% if page.style %}
+    <style>{{ page.style }}</style>
+  {% endif %}
 </body>
-
 </html>

@@ -1,7 +1,6 @@
 ---
 layout: default_footerless
 ---
-
 <div class='o-wrapper'>
 
   <div class='o-grid'>
@@ -10,19 +9,19 @@ layout: default_footerless
         <h1 class='c-post__title'>{{ page.title }}</h1>
 
         <div class='c-content'>
-          {% include_cached page-image.html pimage=page.image ptitle=page.title sbaseurl=site.baseurl %}
-
+          {% include_cached page-image.html 
+            pimage=page.image 
+            ptitle=page.title 
+            sbaseurl=site.baseurl 
+          %}
           {{ content }}
-
-          {% if page.name == 'tags.md' %}
-          <article class="c-post">
-            <div class="c-content larger">
-              {% include_cached tag-cloud.html pname=page.name %}
-            </div>
-          </article>
-          {% endif %}
-
         </div>
+
+        {% if page.name == 'tags.md' %}
+          <div class="c-content larger">
+            {% include_cached tag-cloud.html pname=page.name %}
+          </div>
+        {% endif %}
       </article>
     </div>
   </div>

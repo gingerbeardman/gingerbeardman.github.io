@@ -2,29 +2,24 @@
 
   <a href='{{ include.purl | prepend: include.sbaseurl }}' class='c-post-card'>
     <h3 class='c-post-card__title'>
-    {{ include.ptitle }}
-
-    {% assign post_date = include.pdate | date: '%s' | minus: 0 %}
-    {% assign ago_date = 'now' | date: '%s' | minus: 0 %}
-
-{% comment %}
-<!-- 86400 per day -->
-{% endcomment %}
-
-    {% if post_date > ago_date %}
-        <span class="u-right new">!&nbsp;</span>
-    {% else %}
-        <span class="u-right fave">
-      {% if include.ppinned %} 📍 {% endif %}
-      {% if include.precap %} 🗓 {% endif %}
-      {% if include.pfeatured %} ♥ {% endif %}
-        </span>
-    {% endif %}
+      {{ include.ptitle }}
+      <span class="u-right">
+        {% assign post_date = include.pdate | date: '%s' | minus: 0 %}
+        {% assign ago_date = 'now' | date: '%s' | minus: 0 %}
+        {% if post_date > ago_date %}
+          <span class="new">!&nbsp;</span>
+        {% else %}
+          {% if include.ppinned %}📍{% endif %}
+          {% if include.precap %}🗓{% endif %}
+          {% if include.pfeatured %}♥{% endif %}
+        {% endif %}
+      </span>
     </h3>
 
     <span class='c-post-card__date'>
-      {{ include.pdate | date: '%Y-%m-%d ' }}
-      &nbsp;•&nbsp; {% include_cached post-card-read-time.html pcontent=post.content %}
+      {{ include.pdate | date: '%Y-%m-%d' }}
+      &nbsp;•&nbsp; {% include_cached post-card-read-time.html pcontent=include.pcontent %}
+
       {% comment %}
       {% if include.ptags %}
       {% assign sorted_tags = include.ptags | sort %}

@@ -1,46 +1,49 @@
-{% if paginator.previous_page %}
-  <div class='o-grid__col o-grid__col--1-4-s'>
+<div class='o-grid__col o-grid__col--1-4-s'>
+  {% if paginator.previous_page %}
     <a class='c-pagination' href='{{ paginator.previous_page_path | prepend: site.baseurl }}'>
       <div class='c-pagination__icon c-pagination__icon--prev' data-icon='ei-chevron-left'></div>
       <span class='c-pagination__text c-pagination__text--prev'>Previous</span>
     </a>
-  </div>
-{% else %}
-  <div class='o-grid__col o-grid__col--1-4-s'>
-    &nbsp;
-  </div>
-{% endif %}
-
-<div class='o-grid__col o-grid__col--2-4-s'>
-  <script>
-    function gotoPage() {
-      max=`{{ paginator.total_pages }}`;
-      n=prompt('Go to page number (1–'+max+')');
-      if (!isNaN(n)) {
-        if (n == 1 || n == "") {
-          window.location.href = '/';
-        } else if ( n <= max ) {
-          window.location.href='/page/'+n+'/';
-        }
-      }
-    }
-  </script>
-  <a href="#" class='c-pagination' onclick="gotoPage()">
-  <span class='c-pagination c-pagination__page'>
-    <span class='c-pagination__text c-pagination__label'>
-      Page
-    </span>
-    <span class='c-pagination__text'>
-      {{ paginator.page }}
-      of
-      {{ paginator.total_pages }}</span></span></a>
+  {% else %}
+    <span class='c-pagination c-pagination--empty'>&nbsp;</span>
+  {% endif %}
 </div>
 
-{% if paginator.next_page %}
-  <div class='o-grid__col o-grid__col--end o-grid__col--1-4-s u-text-right'>
+<div class='o-grid__col o-grid__col--2-4-s'>
+  <a href="#" class='c-pagination' onclick="gotoPage()">
+    <span class='c-pagination c-pagination__page'>
+      <span class='c-pagination__text c-pagination__label'>
+        Page
+      </span>
+      <span class='c-pagination__text'>
+        {{ paginator.page }} of {{ paginator.total_pages }}
+      </span>
+    </span>
+  </a>
+</div>
+
+<div class='o-grid__col o-grid__col--1-4-s u-text-right'>
+  {% if paginator.next_page %}
     <a class='c-pagination' href='{{ paginator.next_page_path | prepend: site.baseurl }}'>
       <span class='c-pagination__text c-pagination__text--next'>Next</span>
       <div class='c-pagination__icon c-pagination__icon--next' data-icon='ei-chevron-right'></div>
     </a>
-  </div>
-{% endif %}
+  {% else %}
+    <span class='c-pagination c-pagination--empty'>&nbsp;</span>
+  {% endif %}
+</div>
+
+<script>
+function gotoPage() {
+  const max = {{ paginator.total_pages }};
+  const n = prompt(`Go to page number (1–${max})`);
+  if (n && !isNaN(n)) {
+    const pageNum = parseInt(n, 10);
+    if (pageNum === 1) {
+      window.location.href = '/';
+    } else if (pageNum > 1 && pageNum <= max) {
+      window.location.href = `/page/${pageNum}/`;
+    }
+  }
+}
+</script>

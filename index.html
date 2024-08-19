@@ -8,8 +8,17 @@ layout: default
       {% for post in site.posts %}
         {% if post.pinned == true %}
           {% if post.published != 'private' %}
-            {% include_cached post-card.html pdate=post.date pfeatured=post.featured
-     ppinned=post.pinned precap=post.recap ptags=post.tags ptitle=post.title purl=post.url sbaseurl=site.baseurl %}
+            {% include_cached post-card.html
+                pcontent=post.content
+                pdate=post.date
+                pfeatured=post.featured
+                ppinned=post.pinned
+                precap=post.recap
+                ptags=post.tags
+                ptitle=post.title
+                purl=post.url
+                sbaseurl=site.baseurl
+            %}
           {% endif %}
         {% endif %}
       {% endfor %}
@@ -18,8 +27,17 @@ layout: default
     {% for post in paginator.posts %}
       {% unless post.pinned %}
         {% if post.published != 'private' %}
-          {% include_cached post-card.html pdate=post.date pfeatured=post.featured
- ppinned=post.pinned precap=post.recap ptags=post.tags ptitle=post.title purl=post.url sbaseurl=site.baseurl %}
+          {% include_cached post-card.html
+              pcontent=post.content
+              pdate=post.date
+              pfeatured=post.featured
+              ppinned=post.pinned
+              precap=post.recap
+              ptags=post.tags
+              ptitle=post.title
+              purl=post.url
+              sbaseurl=site.baseurl
+          %}
         {% endif %}
       {% endunless %}
     {% endfor %}
