@@ -3,7 +3,8 @@ module Jekyll
     def replace_nouns(content, nouns)
       return content if nouns.nil? || nouns.empty?
       nouns.each do |noun|
-        content = content.gsub(/\b#{Regexp.escape(noun)}\b/, "<em>#{noun}</em>")
+        noun_str = noun.to_s
+        content = content.gsub(/\b#{Regexp.escape(noun_str)}\b/, "<em>#{noun_str}</em>")
       end
       content
     end
