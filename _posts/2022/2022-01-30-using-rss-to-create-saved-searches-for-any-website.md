@@ -81,7 +81,7 @@ Also, there's a nice workaround: by selecting the whole table cell as the descri
 
 Here's the final result in my RSS reader:
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/rss-saved-searches-8.png "Saved Search: a generated RSS feed for a Yahoo! Japan Auctions search")
+![PNG](/images/posts/rss-saved-searches-8.png "Saved Search: a generated RSS feed for a Yahoo! Japan Auctions search")
 {:.tofigure}
 
 # It's up to you

@@ -19,7 +19,7 @@ comments: https://twitter.com/gingerbeardman/status/1819474638059020654
 
 Earlier this year I made a workflow for [Alfred app](https://alfred.app) to allow easy searching of [Moby Games](https://www.mobygames.com). Earlier this week it was released on [Alfred Gallery](https://alfred.app/workflows/gingerbeardman/moby-games/).
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/alfred-moby-games.png)
+![PNG](/images/posts/alfred-moby-games.png)
 
 ----
 

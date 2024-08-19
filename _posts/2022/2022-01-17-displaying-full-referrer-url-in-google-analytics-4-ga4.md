@@ -30,7 +30,7 @@ Then minimise the Variables and Settings panels.
 
 This will give you a long table of full referrer URLs along with the number of users that came from there. In my case most are domain names, but a handful are full URLs pointing to a page.
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/ga4-full-referrer-url.png)
+![PNG](/images/posts/ga4-full-referrer-url.png)
 
 It remains to be seen if this can be done more easily or more comprehensively.
 

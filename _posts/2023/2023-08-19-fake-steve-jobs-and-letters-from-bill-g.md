@@ -81,7 +81,7 @@ I recommend browsing the teaser/promo website [in English](https://web.archive.o
 - a brief stint as "Counsellor for Love Affairs"
 - a virtual interview with Ghandi that ends in a fist fight
 
-![Letters from BILL G: Volume 1](https://cdn.gingerbeardman.com/images/posts/comoesta-sakamoto-letters-from-bill-g-1.jpg) ![Letters from BILL G: Volume 2](https://cdn.gingerbeardman.com/images/posts/comoesta-sakamoto-letters-from-bill-g-2.jpg) 
+![Letters from BILL G: Volume 1](/images/posts/comoesta-sakamoto-letters-from-bill-g-1.jpg) ![Letters from BILL G: Volume 2](/images/posts/comoesta-sakamoto-letters-from-bill-g-2.jpg) 
 
 ## End Users
 
@@ -119,7 +119,7 @@ It seems that at some point Comoesta Sakamoto was swept up in the SameGame craze
 
 ...I'll leave it as an exercise for the reader to figure out which book cover is PC and which is Mac.
 
-![MaciGame](https://cdn.gingerbeardman.com/images/posts/comoesta-sakamoto-same-game-mac.jpg) ![SameGame](https://cdn.gingerbeardman.com/images/posts/comoesta-sakamoto-same-game-pc.jpg) 
+![MaciGame](/images/posts/comoesta-sakamoto-same-game-mac.jpg) ![SameGame](/images/posts/comoesta-sakamoto-same-game-pc.jpg) 
 
 ----
 

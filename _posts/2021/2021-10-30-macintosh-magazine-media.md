@@ -35,7 +35,7 @@ The archive as it stands (updated July 2024):
 *   total media: 461 discs
 *   total files: 998,512 files
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/mmm-scatter.png "Distribution of discs by month")
+![PNG](/images/posts/mmm-scatter.png "Distribution of discs by month")
 {:.tofigure}
 
 ## Notable finds so far

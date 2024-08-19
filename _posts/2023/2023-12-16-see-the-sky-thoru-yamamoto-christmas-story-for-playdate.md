@@ -35,7 +35,7 @@ comments: https://twitter.com/gingerbeardman/status/1735813826589704428
 
 I've created a new version of *See the sky* for [Playdate](https://play.date). The remastering/remaking/porting process was quite involved, so I'd like to detail it in this blog post.
 
-![See the sky](https://cdn.gingerbeardman.com/images/posts/thoru-yamamoto-see-the-sky-playdate.gif#playdate)
+![See the sky](/images/posts/thoru-yamamoto-see-the-sky-playdate.gif#playdate)
 
 ## Extracting the original images
 
@@ -80,7 +80,7 @@ I added chapter navigation which unlocks as you go through the story, in a simil
 
 I also added a progress bar, shown when you bring up the menu. It's a vertical bar drawn in the centre of the screen between the menu and faded game image. The bar itself is dithered at 50%, and onto it I draw white markers for each chapter position. The current position is shown by drawing a solid white bar from the bottom of the screen to the current position. This means that the bar "fills" with white from the bottom as you progress through the story.
 
-![Progress bar](https://cdn.gingerbeardman.com/images/posts/thoru-yamamoto-see-the-sky-playdate.png#playdate)
+![Progress bar](/images/posts/thoru-yamamoto-see-the-sky-playdate.png#playdate)
 
 ## Experiments with sound
 

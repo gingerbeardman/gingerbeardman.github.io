@@ -35,7 +35,7 @@ comments: https://twitter.com/gingerbeardman/status/1383559592873918469
 ---
 I've started work on the next in my [1-bit Woodblocks](/tag/1bitwoodblocks/) series: "Tekagami" (Ito Shinsui's "Hand Mirror"). So it's a good time to talk about how I turned an iPad Pro into the ultimate Classic Macintosh.
 
-![JPG](https://cdn.gingerbeardman.com/images/posts/ultimate-classic-macintosh-1.jpg "One of my drawings in Deneba UltraPaint on System 7, running in a Macintosh emulator on an iPad Pro")
+![JPG](/images/posts/ultimate-classic-macintosh-1.jpg "One of my drawings in Deneba UltraPaint on System 7, running in a Macintosh emulator on an iPad Pro")
 {:.tofigure}
 
 ## Emulators
@@ -87,7 +87,7 @@ Both emulators share the same software keyboard mechanism. The keyboard layouts 
 
 So I put together a [custom keyboard layout](https://github.com/gingerbeardman/artworks-keyboard) that can be used in either emulator that gives me quick thumb access to tools and shortcuts in my most used apps: artWORKS and UltraPaint. It works for both apps as they are closely related, sharing a lot of code and resources.
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/ultimate-classic-macintosh-2.png)
+![PNG](/images/posts/ultimate-classic-macintosh-2.png)
 
 With this keyboard layout I'm not only relabelling the function keys, but also replacing some key codes to reposition keys for my own purposes. The apps don't respond to function keys so I use macros and Apple Events to get things to work [as detailed in another post](/2021/04/19/automating-interactions-using-apple-events/).
 

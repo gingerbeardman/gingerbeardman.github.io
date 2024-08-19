@@ -42,7 +42,7 @@ At some point last year (shortly before I began writing this blog post!) I found
 
 The game file came with a reference bitmap showing hanafuda scoring, which was just the type of guarantee and encouragement I needed to start hunting.
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/caleid-hanafuda-cards.png#pixel "Scoring reference image, included inside HANA100.LZH")
+![PNG](/images/posts/caleid-hanafuda-cards.png#pixel "Scoring reference image, included inside HANA100.LZH")
 {:.tofigure}
 
 ## Research first
@@ -53,7 +53,7 @@ It turns out the device arrived around the same time as USB 1.0. So perhaps its 
 
 For me to stand a chance at this, I'd need to buy a device with a dock and the software to put files onto the device. After some searching, lots of waiting, and more searching, one came up for auction on Yahoo! Japan Auctions. I bought it.
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/caleid-promo.jpg "Promotional photo of Casio CALEID XM-700 Mobile Navigator")
+![PNG](/images/posts/caleid-promo.jpg "Promotional photo of Casio CALEID XM-700 Mobile Navigator")
 
 ----
 
@@ -91,7 +91,7 @@ After some time spent browsing and translating the menus I found the section of 
 
 Syncing was working, but the add-ins were not syncing across for some reason. My thought that it was probably something obvious was correct. In the DATA IMPRESSION app you need to press the button that doesn't look like other buttons (yellow text) and then enable Add-in syncing! We're almost there, I can feel it.
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/caleid-data-impression.png "Data synchronisation is achieved using Data Impression for CALEID (see <a href='https://imgur.com/a/4Ef6nXP'>imgur gallery</a>)")
+![PNG](/images/posts/caleid-data-impression.png "Data synchronisation is achieved using Data Impression for CALEID (see <a href='https://imgur.com/a/4Ef6nXP'>imgur gallery</a>)")
 {:.tofigure}
 
 ## Add-ins
@@ -136,15 +136,15 @@ Here's my Casio CALEID XM-700 Mobile Navigator running 花合わせ (Hana-awase)
 
 > In a follow-up post I'll detail the other games that I was able to install on the device.
 
-![JPG](https://cdn.gingerbeardman.com/images/posts/caleid-hanafuda-running.jpg)
+![JPG](/images/posts/caleid-hanafuda-running.jpg)
 
-![JPG](https://cdn.gingerbeardman.com/images/posts/caleid-hanafuda-running-close-up.jpg)
+![JPG](/images/posts/caleid-hanafuda-running-close-up.jpg)
 
 ----
 
 ## CASIO Catalog '97-12
 
-![WEBP](https://cdn.gingerbeardman.com/images/posts/caleid-catalog.webp "CALEID page from the CASIO Catalog, December 1997, with thanks to <a href='https://www.casio-calculator.com/Download/Catalogue/Catalogues.html'>casio-calculator.com</a>")
+![WEBP](/images/posts/caleid-catalog.webp "CALEID page from the CASIO Catalog, December 1997, with thanks to <a href='https://www.casio-calculator.com/Download/Catalogue/Catalogues.html'>casio-calculator.com</a>")
 {:.tofigure}
 
 *[PIM]: Personal Information Manager

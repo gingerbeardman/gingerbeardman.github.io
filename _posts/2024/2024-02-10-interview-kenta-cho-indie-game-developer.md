@@ -19,7 +19,7 @@ style: |
   }
 ---
 
-![Kenta Cho](https://cdn.gingerbeardman.com/images/posts/dev2dev-kenta-cho.jpg "Kenta Cho"){:class="profile"}
+![Kenta Cho](/images/posts/dev2dev-kenta-cho.jpg "Kenta Cho"){:class="profile"}
 
 *Kenta Cho* is a Japanese indie game developer, who has been active since the 1980s. He became well-known in the West in the early 2000s with a series of bullet hell shoot-em-ups. In 2021 he created a total 139 games, which is one hell of a lockdown project. In early 2024 his game [*Paku Paku*](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku) went viral, as "*1D Pac-Man*", a year after it was made.
 
@@ -71,7 +71,7 @@ I tried submitting some games I made to "*Mycom BASIC Magazine*", but it was tou
 
 > *Thanks to Dustin Hubbard (Hubz)* at [*Gaming Alexandria*](https://www.gamingalexandria.com) for transforming the magazine source code listing into a tape image. This was done using specialist Japanese software [*ProgamListOCR*](https://github.com/eighttails/ProgramListOCR) and [*DumpListEditor*](https://bugfire2009.ojaru.jp/input.html) that are tailor-made for getting old source code off the page and into the computer, so thanks also to the authors of those applications. Video game preservation is a worldwide effort.
 
-![METEORITE source code in 1989-09 issue of Mycom BASIC Magazine](https://cdn.gingerbeardman.com/images/posts/dev2dev-kenta-cho-meteorite.jpg "METEORITE source code in 1989-09 issue of Mycom BASIC Magazine")
+![METEORITE source code in 1989-09 issue of Mycom BASIC Magazine](/images/posts/dev2dev-kenta-cho-meteorite.jpg "METEORITE source code in 1989-09 issue of Mycom BASIC Magazine")
 {:.tofigure}
 
 ----

@@ -98,11 +98,11 @@ This has been a built-in macOS app since 2005. Setup is relatively straightforwa
 1. *Replace the echo line with your command*
 1. *Save*, name it "Duplicate as MP4"
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-automator-setup.png)
+![PNG](/images/posts/take-command-automator-setup.png)
 
 The menu item is now available on the context menu, inside the *Quick Actions* submenu. After repeated use I find this submenu too annoying, but you may fare better.
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-automator-finder.png "Automator Quick Action in Finder Context Menu")
+![PNG](/images/posts/take-command-automator-finder.png "Automator Quick Action in Finder Context Menu")
 {:.tofigure}
 
 So, pretty easy! But, there are some caveats or limitations that may, or may not, annoy you. Perhaps we don't want the menu item to appear for such a broad range of files (all "movie files"), or maybe we want it to appear for multiple types of files (both "audio files" and "movie files"). Sadly this is not so easy with Automator.
@@ -120,11 +120,11 @@ Many years ago I found [ContextMenu](https://apps.apple.com/us/app/context-menu/
 - Show output (sometimes you want to see the results of the command)
 - Confirmation before running (if it's a potentially dangerous operation)
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-context-menu-setup.png)
+![PNG](/images/posts/take-command-context-menu-setup.png)
 
 The menu item displays in Finder as follows:
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/take-command-context-menu-finder.png "ContextMenu Action in Finder Context Menu")
+![PNG](/images/posts/take-command-context-menu-finder.png "ContextMenu Action in Finder Context Menu")
 {:.tofigure}
 
 ContextMenu stores these files in its own group folder, right click an action and choose *Show in Finder*, but you can specify your own folder in a location of your choice. Both will migrate to a new Mac, but the later might give you more control.

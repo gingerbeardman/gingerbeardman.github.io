@@ -30,7 +30,7 @@ style: |
 
 ---
 
-![The Blue Nile "A Walk Across The Rooftops"](https://cdn.gingerbeardman.com/images/posts/the-blue-nile-a-walk-across-the-rooftops.jpg "<br>There are no downloads here, only links")
+![The Blue Nile "A Walk Across The Rooftops"](/images/posts/the-blue-nile-a-walk-across-the-rooftops.jpg "<br>There are no downloads here, only links")
 {:.tofigure}
 
 ----

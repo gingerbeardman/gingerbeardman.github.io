@@ -23,7 +23,7 @@ Whilst this game was made in a day, the design took a lot longer.
 
 Here’s the result!
 
-![GIF](https://cdn.gingerbeardman.com/images/posts/bender-for-playdate.gif#playdate)
+![GIF](/images/posts/bender-for-playdate.gif#playdate)
 
 The following morning I changed some things that I was unhappy with in the first version, fixed a couple of small bugs, and added some new things.
 

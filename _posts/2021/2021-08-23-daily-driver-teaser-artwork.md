@@ -14,7 +14,7 @@ comments: https://twitter.com/gingerbeardman/status/1428764405521657857
 
 ---
 
-![JPG](https://cdn.gingerbeardman.com/images/posts/daily-driver-artwork.jpg)
+![JPG](/images/posts/daily-driver-artwork.jpg)
 
 I commissioned the talented [@vxclhd](https://www.instagram.com/vxclhd/) to create a clay-style diorama of Daily Driver!
 

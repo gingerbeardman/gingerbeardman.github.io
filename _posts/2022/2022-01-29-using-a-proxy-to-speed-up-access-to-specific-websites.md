@@ -44,4 +44,4 @@ Note: you'll need to substitute a valid proxy IP address and port number, and ho
 - For iOS, you enter the URL of the file in the Proxy setting of your current Wi-Fi connection. A correct setting will be shown as "Automatic".
 - macOS: enter it in System Preferences > Network > Advanced > Proxies, as below.
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/proxy.png)
+![PNG](/images/posts/proxy.png)

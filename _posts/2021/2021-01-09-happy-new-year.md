@@ -17,4 +17,4 @@ Recent work on the game includes improvements to the physics of in-game objects 
 
 Interestingly, both these vehicles show off one aspect of the game that I’ve not really talked about so far: reference and nods to classic games. Here we can see an RC car (whose antenna wobbles!) that is a nod to games like Re-volt, RC Revenge, Smash Cars, RC de Go!, Excite Truck, RC Pro-Am etc. And the forklift is a nod to Shenmue and the infamous New Yokosuka Harbor District.
 
-![GIF](https://cdn.gingerbeardman.com/images/posts/daily-driver-happy-new-year.gif#playdate)
+![GIF](/images/posts/daily-driver-happy-new-year.gif#playdate)

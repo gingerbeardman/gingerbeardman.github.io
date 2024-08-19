@@ -52,10 +52,10 @@ That's parallel 3D rendering, PNG writing & compositing & processing, and copyin
 
 Not to scale! Sizes of features are exagerated to allow for them to appear correct when rendered at a very small size.
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/openscad-spritesheet-model-car.png)
+![PNG](/images/posts/openscad-spritesheet-model-car.png)
 
 ## Example Output
 
 990 frames each for car and shadow, total of 1980 frames per sprite sheet. Each sprite sheet takes up about ~400KB of RAM on Playdate, and only one is loaded at a time.
 
-[![PNG](https://cdn.gingerbeardman.com/images/posts/openscad-spritesheet-car-table-38-38.png)](https://cdn.gingerbeardman.com/images/posts/openscad-spritesheet-car-table-38-38.png)
+[![PNG](/images/posts/openscad-spritesheet-car-table-38-38.png)](/images/posts/openscad-spritesheet-car-table-38-38.png)

@@ -63,7 +63,7 @@ In the game I fade between the two as the score/chain increases, which has the e
 
 For sound effects, you might consider panning to increase immersion and guide the players visual focus through use of audio. In [*YOYOZO*](https://play.date/games/yoyozo/) I pan certain sounds relative to the location of the ball, certain other sounds relative to the location of the player, and there are global sound effects that are not panned at all.
 
-![YOYOZO](https://cdn.gingerbeardman.com/images/posts/yoyozo-teaser.gif#playdate)
+![YOYOZO](/images/posts/yoyozo-teaser.gif#playdate)
 
 ----
 

@@ -35,7 +35,7 @@ Notes
 - Preview calls the first frame 1 (one), but other tools usually call it 0 (zero).
 
 original/source animated GIF:
-![GIF](https://cdn.gingerbeardman.com/images/posts/post-processing-animated-gifs-01.gif)
+![GIF](/images/posts/post-processing-animated-gifs-01.gif)
 
 ## Un-Optimising
 
@@ -52,7 +52,7 @@ gifsicle anim.gif "#212-238" > trimmed.gif
 
 note: this makes a copy of the GIF and keep frames 213 to 239 (gifsicle uses zero based frame count)
 
-![GIF](https://cdn.gingerbeardman.com/images/posts/post-processing-animated-gifs-02.gif)
+![GIF](/images/posts/post-processing-animated-gifs-02.gif)
 
 ## Resizing
 
@@ -61,7 +61,7 @@ if you want to double size of the image:
 gifsicle --scale 2 trimmed.gif > resized.gif
 ```
 
-![GIF](https://cdn.gingerbeardman.com/images/posts/post-processing-animated-gifs-03.gif)
+![GIF](/images/posts/post-processing-animated-gifs-03.gif)
 
 ## Captioning
 
@@ -96,9 +96,9 @@ how to run the command
 
 note: if you do not specify an output name, it will be named using original filenames, eg. anim-overlay.gif
 
-[overlay.gif](https://cdn.gingerbeardman.com/images/posts/post-processing-animated-gifs-04.gif)
+[overlay.gif](/images/posts/post-processing-animated-gifs-04.gif)
 
-![GIF](https://cdn.gingerbeardman.com/images/posts/post-processing-animated-gifs-05.gif)
+![GIF](/images/posts/post-processing-animated-gifs-05.gif)
 
 ## Converting to Video for YouTube
 

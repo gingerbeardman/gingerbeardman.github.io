@@ -31,7 +31,7 @@ comments: https://twitter.com/gingerbeardman/status/1721899788831195635
 
 Whilst searching for something else entirely I stumbled across these images and was struck by just how beautiful they are. The artwork is by [Barbara Nessim](https://en.wikipedia.org/wiki/Barbara_Nessim) and was featured as the cover and section pages in the [September 1984 (Vol 9, No 10) issue of BYTE magazine](https://archive.org/details/BYTE_Vol_09-10_1984-09_Computer_Graphics/mode/2up). Larger versions are [at the bottom](#scans) of this blog post.
 
-[![PNG](https://cdn.gingerbeardman.com/images/posts/barbara-nessim-byte-1984-09-image-thumbnails.png)](#scans)
+[![PNG](/images/posts/barbara-nessim-byte-1984-09-image-thumbnails.png)](#scans)
 
 They were drawn during a residency at Time Life in NYC, simply because that was the easiest way Barbara could gain access to a colour computer with suitable capabilities: a Norpak IPS-2 Videotex (NAPLPS/Telidon) system. This offered 6 drawing modes (arc, rectangle, circle, line, dot and polygon) and 12 colours, of which half where shades of grey, plus black and white. And at a resolution of 256x200. That equates to a computer system roughly equivalent to an Apple II running a rudimentary graphics application, in fact you could get an add-on card for the Apple II to give it full [Norpak Telidon capabilities](https://wiki.preterhuman.net/Norpak_Telidon_Graphics_System). The main benefit of the Norpak IPS-2 computer system was that it had pen/stylus input. The system comprised two monitors, one showed the artwork and the other showed the software status menu system. The software was controlled by keyboard and the points that specify the shapes were entered using the pen input.
 
@@ -39,7 +39,7 @@ My first thought was "such cool pixel art!" but a little bit more reading shows 
 
 Doing pure illustration using a system meant for creating pages of information is exactly the type of software subversion I love to discover!
 
-![JPG](https://cdn.gingerbeardman.com/images/posts/barbara-nessim-telidon.jpg "How arcs and rectangles are defined and stored using minimal data, from <em>The Telidon Book</em> (1981)")
+![JPG](/images/posts/barbara-nessim-telidon.jpg "How arcs and rectangles are defined and stored using minimal data, from <em>The Telidon Book</em> (1981)")
 {:.tofigure}
 
 [Barbara Nessim](http://www.barbaranessim.com) is a name I was already familiar with, as I'd seen her mentioned and [interviewed](https://archive.org/details/verbum502unse/page/8/mode/1up) in [Verbum magazine](/2019/07/10/verbum-journal-of-personal-computer-aesthetics/), [COMPUTE magazine](https://archive.org/details/compute-magazine), in various books about illustration, and regarding her groundbreaking interactive art exhibition/installation [Random Access Memories](https://digitalartarchive.siggraph.org/artwork/random-access-memories-400/) (1991/2) - which addressed world issues such as migration and population growth and allowed visitors to operate a Macintosh containing the work, selecting images and printing their own customised booklet of her work with their choice of national flag on the cover. [Source 1](https://archive.org/details/computersinartde0000kerl/page/12/mode/1up) [and 2](https://archive.org/details/cyberartsexplori0000unse/page/n207/mode/1up)
@@ -50,7 +50,7 @@ The chunky scan-line gaps in between the rows of pixels are the result of these 
 
 Barbara was one of few people to embrace computers for art in the early-1980s, when the rest of the art world considered them at best a "fad" and at worst a threat to their existence. Before and after the 1980s Barbara carved out a hugely successful career for herself, encompassing many different forms of [art, teaching and activism](https://www.printmag.com/culturally-related-design/gloria-steinem-barbara-nessim-writers-artists-role-models/). She continues to [create and exhibit her art](http://www.barbaranessim.com).
 
-![WEBP](https://cdn.gingerbeardman.com/images/posts/barbara-nessim-portrait.webp "Barbara Nessim at the <em>School of Visual Arts</em>, 1986. Photographed by Seiji Kakizaki. <a href=https://www.printmag.com/culturally-related-design/gloria-steinem-barbara-nessim-writers-artists-role-models/>Source</a>")
+![WEBP](/images/posts/barbara-nessim-portrait.webp "Barbara Nessim at the <em>School of Visual Arts</em>, 1986. Photographed by Seiji Kakizaki. <a href=https://www.printmag.com/culturally-related-design/gloria-steinem-barbara-nessim-writers-artists-role-models/>Source</a>")
 {:.tofigure}
 
 ## Further reading (chronological)
@@ -76,19 +76,19 @@ Barbara was one of few people to embrace computers for art in the early-1980s, w
 
 ----
 
-![If you have anything in the world to do with graphics, you would have to be pretty thick-skinned not to have "feelings" about the computer revolution. The truth is, when you 're reached a certain level of accomplishment in your chosen vocation, it's more than a little disconcerting to have your pencil and T-square plucked from your hands and your drawing table kicked out from under you. Here you are at the peak of your powers and... VAVOOM...a whole new technology has come tumbling down on your head, without as much as an "If you please.." More exasperating still, is the army of mere "children" who are in cahoots with the devilish machines, tickle their keys and speak computerese fluently—a language that is quite foreign to many of us. Small wonder that some graphics people have entrenched themselves in on anti-computer stance, which they cling to like shipwrecked victims to a life raft. And the more they see of the fantastic hijinks of the new tool——the more threatening it becomes.](https://cdn.gingerbeardman.com/images/posts/barbara-nessim-uandlc-quote.png "Quote from U&lc (Upper & Lower Case) Magazine, Vol. 10, No. 4 (1983)")
+![If you have anything in the world to do with graphics, you would have to be pretty thick-skinned not to have "feelings" about the computer revolution. The truth is, when you 're reached a certain level of accomplishment in your chosen vocation, it's more than a little disconcerting to have your pencil and T-square plucked from your hands and your drawing table kicked out from under you. Here you are at the peak of your powers and... VAVOOM...a whole new technology has come tumbling down on your head, without as much as an "If you please.." More exasperating still, is the army of mere "children" who are in cahoots with the devilish machines, tickle their keys and speak computerese fluently—a language that is quite foreign to many of us. Small wonder that some graphics people have entrenched themselves in on anti-computer stance, which they cling to like shipwrecked victims to a life raft. And the more they see of the fantastic hijinks of the new tool——the more threatening it becomes.](/images/posts/barbara-nessim-uandlc-quote.png "Quote from U&lc (Upper & Lower Case) Magazine, Vol. 10, No. 4 (1983)")
 {:.tofigure}
 
 ----
 
 ## Scans
 
-[![JPG](https://cdn.gingerbeardman.com/images/posts/barbara-nessim-byte-1984-09-image-01.jpg)](https://archive.org/details/BYTE_Vol_09-10_1984-09_Computer_Graphics/mode/2up)
+[![JPG](/images/posts/barbara-nessim-byte-1984-09-image-01.jpg)](https://archive.org/details/BYTE_Vol_09-10_1984-09_Computer_Graphics/mode/2up)
 
-[![JPG](https://cdn.gingerbeardman.com/images/posts/barbara-nessim-byte-1984-09-image-02.jpg)](https://archive.org/details/BYTE_Vol_09-10_1984-09_Computer_Graphics/page/n113/mode/2up)
+[![JPG](/images/posts/barbara-nessim-byte-1984-09-image-02.jpg)](https://archive.org/details/BYTE_Vol_09-10_1984-09_Computer_Graphics/page/n113/mode/2up)
 
-[![JPG](https://cdn.gingerbeardman.com/images/posts/barbara-nessim-byte-1984-09-image-03.jpg)](https://archive.org/details/BYTE_Vol_09-10_1984-09_Computer_Graphics/page/n163/mode/2up)
+[![JPG](/images/posts/barbara-nessim-byte-1984-09-image-03.jpg)](https://archive.org/details/BYTE_Vol_09-10_1984-09_Computer_Graphics/page/n163/mode/2up)
 
-[![JPG](https://cdn.gingerbeardman.com/images/posts/barbara-nessim-byte-1984-09-image-04.jpg)](https://archive.org/details/BYTE_Vol_09-10_1984-09_Computer_Graphics/page/n305/mode/2up)
+[![JPG](/images/posts/barbara-nessim-byte-1984-09-image-04.jpg)](https://archive.org/details/BYTE_Vol_09-10_1984-09_Computer_Graphics/page/n305/mode/2up)
 
-[![JPG](https://cdn.gingerbeardman.com/images/posts/barbara-nessim-byte-1984-09-image-05.jpg)](https://archive.org/details/BYTE_Vol_09-10_1984-09_Computer_Graphics/page/n361/mode/2up)
+[![JPG](/images/posts/barbara-nessim-byte-1984-09-image-05.jpg)](https://archive.org/details/BYTE_Vol_09-10_1984-09_Computer_Graphics/page/n361/mode/2up)

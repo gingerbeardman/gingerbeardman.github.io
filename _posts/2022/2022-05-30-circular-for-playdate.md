@@ -16,7 +16,7 @@ At some point soon I’ll write a devlog about the problems, solutions, question
 
 I’m really proud of this little gem. It’s my first time putting a lot of effort into score balancing in the style of my favourite Japanese arcade games, and I hope you have fun trying to reach 1 million points. There are sure to be some surprises along the way.
 
-![GIF](https://cdn.gingerbeardman.com/images/posts/circular-game.gif#playdate)
+![GIF](/images/posts/circular-game.gif#playdate)
 
 ## Download
 

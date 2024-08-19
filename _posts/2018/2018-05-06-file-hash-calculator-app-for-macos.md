@@ -12,7 +12,7 @@ I often need to calculate the hash of a file for verification purposes, to confi
 
 I couldn't find a nice easy to use app for this so I put together my own app. Download it here: [Hash.app.zip](https://github.com/sunjw/fhash/files/2302036/Hash.app.zip) (version 1.3).
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/hash-app.png)
+![PNG](/images/posts/hash-app.png)
 
 Features:
 - Auto clear text field on each operation

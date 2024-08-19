@@ -46,7 +46,7 @@ So, armed with some idea of the year the game was made it was simple enough task
 
 Halfway down the first page of results:
 
-> ![PNG](https://cdn.gingerbeardman.com/images/posts/the-claque-baignet.png)
+> ![PNG](/images/posts/the-claque-baignet.png)
 
 Bingo! 
 

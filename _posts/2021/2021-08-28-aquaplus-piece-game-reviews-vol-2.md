@@ -41,7 +41,7 @@ I've been playing the free "Gratuitous Version" which has only one boss type and
 
 ***
 
-![GIF](https://cdn.gingerbeardman.com/images/posts/piece-speed-barricade.gif#piece)
+![GIF](/images/posts/piece-speed-barricade.gif#piece)
 
 ### Speed Barricade, by Kenta Cho (ABA Games)
 
@@ -73,7 +73,7 @@ I read that there was once a [port of this game](https://mao.5ch.net/test/read.c
 
 ***
 
-![GIF](https://cdn.gingerbeardman.com/images/posts/piece-delivery-bird.gif#piece)
+![GIF](/images/posts/piece-delivery-bird.gif#piece)
 
 ### Delivery Bird, by Hafupon
 
@@ -83,7 +83,7 @@ There's also a [Windows version](https://www.vector.co.jp/magazine/softnews/0506
 
 ***
 
-![GIF](https://cdn.gingerbeardman.com/images/posts/piece-norito.gif#piece)
+![GIF](/images/posts/piece-norito.gif#piece)
 
 ### Norito, by Gorujii
 

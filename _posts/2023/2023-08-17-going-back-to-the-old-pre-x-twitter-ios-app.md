@@ -100,7 +100,7 @@ Before we begin, you don't need to remove the current app you're using. But best
 
 You’re done!
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/twitter-old-payload.png "Locating the Twitter .ipa Payload")
+![PNG](/images/posts/twitter-old-payload.png "Locating the Twitter .ipa Payload")
 {:.tofigure}
 
 ## Questions 

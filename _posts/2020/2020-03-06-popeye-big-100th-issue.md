@@ -23,4 +23,4 @@ Only very minor game related things in this, but I thought it worth posting. The
 
 If you don't have time to flick through 276 pages, then I created a twitter thread that summarises the most interesting stuff: [twitter.com/gingerbeardman/status/1235585813137756161](https://twitter.com/gingerbeardman/status/1235585813137756161)
 
-[![JPG](https://cdn.gingerbeardman.com/images/posts/popeye-big-100th-issue.jpg)](https://archive.org/details/popeye-magazine-for-city-boys-1981-04-10/mode/2up)
+[![JPG](/images/posts/popeye-big-100th-issue.jpg)](https://archive.org/details/popeye-magazine-for-city-boys-1981-04-10/mode/2up)

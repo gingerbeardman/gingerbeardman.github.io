@@ -56,10 +56,10 @@ Thanks to [Gaming Alexandria](https://www.gamingalexandria.com/wp/magazines/) fo
 
 Click the images below to see a zoomable, browsable version of the magazine.
 
-[![Kenichi Shinohara's pixel art Ukiyo-e, page 1 & 2](https://cdn.gingerbeardman.com/images/posts/kenichi-shinohara-pixel-art-ukiyoe-1.jpg)](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n169/mode/2up)
+[![Kenichi Shinohara's pixel art Ukiyo-e, page 1 & 2](/images/posts/kenichi-shinohara-pixel-art-ukiyoe-1.jpg)](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n169/mode/2up)
 
-[![Kenichi Shinohara's pixel art Ukiyo-e, page 3 & 4](https://cdn.gingerbeardman.com/images/posts/kenichi-shinohara-pixel-art-ukiyoe-2.jpg)](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n171/mode/2up)
+[![Kenichi Shinohara's pixel art Ukiyo-e, page 3 & 4](/images/posts/kenichi-shinohara-pixel-art-ukiyoe-2.jpg)](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n171/mode/2up)
 
-[![Kenichi Shinohara's pixel art Ukiyo-e, close up](https://cdn.gingerbeardman.com/images/posts/kenichi-shinohara-pixel-art-ukiyoe-3.jpg)](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n171/mode/2up)
+[![Kenichi Shinohara's pixel art Ukiyo-e, close up](/images/posts/kenichi-shinohara-pixel-art-ukiyoe-3.jpg)](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n171/mode/2up)
 
-[![Kenichi Shinohara's pixel art Ukiyo-e, profile](https://cdn.gingerbeardman.com/images/posts/kenichi-shinohara-pixel-art-ukiyoe-4.jpg)](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n171/mode/2up)
+[![Kenichi Shinohara's pixel art Ukiyo-e, profile](/images/posts/kenichi-shinohara-pixel-art-ukiyoe-4.jpg)](https://archive.org/details/login-may-1987/LOGiN%20-%20May%201987/page/n171/mode/2up)

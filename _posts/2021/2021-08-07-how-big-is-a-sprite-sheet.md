@@ -40,19 +40,19 @@ I spent some time exporting a sprite at 32, 64, 90, 128, 180, 256, 360-steps to 
 
 Most modern browsers are well-behaved enough to only play an Animated GIF if it is on the page. So you'll probably need to force reload the page (hold shift and click reload) to synchronise one or more of the below animations.
 
-![32 rotation steps](https://cdn.gingerbeardman.com/images/posts/daily-driver-rotation-steps-32.gif#playdate "Above: 32 rotation steps. After I've mentioned looking for the "judder" you won't be able to unsee it")
+![32 rotation steps](/images/posts/daily-driver-rotation-steps-32.gif#playdate "Above: 32 rotation steps. After I've mentioned looking for the "judder" you won't be able to unsee it")
 {:.tofigure}
 
-![64 rotation steps](https://cdn.gingerbeardman.com/images/posts/daily-driver-rotation-steps-64.gif#playdate "Above: Even with twice as many rotation steps there's still a slight judder")
+![64 rotation steps](/images/posts/daily-driver-rotation-steps-64.gif#playdate "Above: Even with twice as many rotation steps there's still a slight judder")
 {:.tofigure}
 
-![90 rotation steps](https://cdn.gingerbeardman.com/images/posts/daily-driver-rotation-steps-90.gif#playdate "Above: 90 rotation steps give us one sprite every 4 degrees, judder becomes less noticable")
+![90 rotation steps](/images/posts/daily-driver-rotation-steps-90.gif#playdate "Above: 90 rotation steps give us one sprite every 4 degrees, judder becomes less noticable")
 {:.tofigure}
 
-![180 rotation steps](https://cdn.gingerbeardman.com/images/posts/daily-driver-rotation-steps-180.gif#playdate "Above: 180 rotation steps give us one sprite every 2 degrees, judder is even less noticable")
+![180 rotation steps](/images/posts/daily-driver-rotation-steps-180.gif#playdate "Above: 180 rotation steps give us one sprite every 2 degrees, judder is even less noticable")
 {:.tofigure}
 
-![360 rotation steps](https://cdn.gingerbeardman.com/images/posts/daily-driver-rotation-steps-360.gif#playdate "Above: 360 rotation steps give us one sprite for every degree, as good as it gets")
+![360 rotation steps](/images/posts/daily-driver-rotation-steps-360.gif#playdate "Above: 360 rotation steps give us one sprite for every degree, as good as it gets")
 {:.tofigure}
 
 ## Stats
@@ -69,7 +69,7 @@ Most modern browsers are well-behaved enough to only play an Animated GIF if it 
 
 ##  Charts
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/daily-driver-rotation-steps-charts.png)
+![PNG](/images/posts/daily-driver-rotation-steps-charts.png)
 
 ## Implications
 

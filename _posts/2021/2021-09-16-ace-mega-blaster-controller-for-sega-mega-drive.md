@@ -32,4 +32,4 @@ The bottom half of the shell is held together with three small Philips screws, a
 
 {% include carousel.html height="100" unit="%" duration="7" %}
 
-![Print ad](https://cdn.gingerbeardman.com/images/posts/ace-mega-blaster-ad.jpg)
+![Print ad](/images/posts/ace-mega-blaster-ad.jpg)

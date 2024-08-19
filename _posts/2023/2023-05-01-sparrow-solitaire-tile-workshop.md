@@ -33,5 +33,5 @@ Thirdly, and finally, if you'd rather create a full tile set of your own, you ca
 
 Please do get in touch if you create any tile sets of your own!
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/sparrow-solitaire-tile-workshop.png "Sparrow Solitaire Tile Workshop")
+![PNG](/images/posts/sparrow-solitaire-tile-workshop.png "Sparrow Solitaire Tile Workshop")
 {:.tofigure}

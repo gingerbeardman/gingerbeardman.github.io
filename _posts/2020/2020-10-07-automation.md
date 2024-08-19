@@ -24,4 +24,4 @@ This means that the folder name will change based on the render settings in the 
 
 I still have to make 9 small sets of manual text changes to render each car pose, so that’s the next thing I’ll try to automate by running OpenSCAD from the command line.
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/daily-driver-automation.png)
+![PNG](/images/posts/daily-driver-automation.png)

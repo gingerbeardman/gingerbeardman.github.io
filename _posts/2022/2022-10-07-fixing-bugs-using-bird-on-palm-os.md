@@ -24,7 +24,7 @@ comments: https://twitter.com/gingerbeardman/status/1578440221871329280
 
 ---
 
-![JPG](https://cdn.gingerbeardman.com/images/posts/hana-pixels.jpg "Tenohira Hanafuda for Palm OS, running on a Sony CLIÉ PEG-SJ22")
+![JPG](/images/posts/hana-pixels.jpg "Tenohira Hanafuda for Palm OS, running on a Sony CLIÉ PEG-SJ22")
 {:.tofigure}
 
 
@@ -32,7 +32,7 @@ comments: https://twitter.com/gingerbeardman/status/1578440221871329280
 
 But, it has one serious problem: sometimes it will forfeit the current round when you choose to continue!
 
-![GIF](https://cdn.gingerbeardman.com/images/posts/hana-buggy.gif#pixel "https://youtube.com/shorts/0fZefFpGd5Y")
+![GIF](/images/posts/hana-buggy.gif#pixel "https://youtube.com/shorts/0fZefFpGd5Y")
 {:.tofigure}
 
 ## Analysis
@@ -41,7 +41,7 @@ After repeated play I figured out that the game would continue as intended only 
 
 But if I pressed the left half of the button it would not behave as expected and forfeit the round. More on that later. 
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/hana-problem.png#pixel "The problem happens when we press the left side of the こいこい button")
+![PNG](/images/posts/hana-problem.png#pixel "The problem happens when we press the left side of the こいこい button")
 {:.tofigure}
 
 ## The Plan
@@ -58,14 +58,14 @@ Interestingly the form is dual-purpose. It contains the continue/stop buttons (a
 
 We can easily change the order of the controls on the form by cutting and pasting, so we do that with the List and it now comes below the button in the order and will be drawn last on the screen. Presumably the things drawn last are the first to capture interactions? Let's see.
 
-![GIF](https://cdn.gingerbeardman.com/images/posts/hana-bird.gif#pixel "https://youtube.com/shorts/yRLfHoHkjTY")
+![GIF](/images/posts/hana-bird.gif#pixel "https://youtube.com/shorts/yRLfHoHkjTY")
 {:.tofigure}
 
 ## Result
 
 I apply all changes and they are saved directly into the app data. Launching the game again and playing enough to trigger another continue/stop prompt, I tap the left half of the button and... the game continues as expected. There is no strange forfeit. The problem has been solved!
 
-![GIF](https://cdn.gingerbeardman.com/images/posts/hana-fixed.gif#pixel "https://youtube.com/shorts/3faHHcuSQv4")
+![GIF](/images/posts/hana-fixed.gif#pixel "https://youtube.com/shorts/3faHHcuSQv4")
 {:.tofigure}
 
 ## Addendum

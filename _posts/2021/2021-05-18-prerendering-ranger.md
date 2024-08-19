@@ -21,7 +21,7 @@ Sometime later I threw caution to the wind and decided to render per-car shadows
 
 Recently, I picked things up again to get the a new trailer and demo out. And then it hit me, that if I flatten a car on the z-axis—as if Looney Tunes dropped a heavy weight on it—then that flat thing will be a close enough equivalent of a shadow for my use. So I did just that and the results were great, and more importantly very quick to render!
 
-![GIF](https://cdn.gingerbeardman.com/images/posts/daily-driver-prerendered-shadows-anim.gif "Animation showing the theory of a model being squished down into its shadow")
+![GIF](/images/posts/daily-driver-prerendered-shadows-anim.gif "Animation showing the theory of a model being squished down into its shadow")
 {:.tofigure}
 
 So I went all in and decided to not only render one shadow per-car but to render shadows for each individual frame. So now the direction of the front wheels and details of the body shape are reflected in the shadow. It might sound like a small thing but it really makes a big difference. You can see old vs new shadows in the image carousel below.

@@ -25,7 +25,7 @@ Easily done by finding the dialog that contains these icons, and resizing the ca
 
 Several trips between ResEdit and Photoshop (version 1.0!) and I was done.
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/macintosh-toolbar-resedit-1.png "Toolbar size before and after editing")
+![PNG](/images/posts/macintosh-toolbar-resedit-1.png "Toolbar size before and after editing")
 {:.tofigure}
 
 This is to make the tool buttons easier to tap with my thumb when running System 7 on iPad.
@@ -34,5 +34,5 @@ I love this "hackable" nature of early Macintosh systems. Palm OS is very simila
 
 Why moan about an app not being to your liking when you can DIY!?
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/macintosh-toolbar-resedit-3.png#pixel "Editing the image of a toolbar item using ResEdit")
+![PNG](/images/posts/macintosh-toolbar-resedit-3.png#pixel "Editing the image of a toolbar item using ResEdit")
 {:.tofigure}

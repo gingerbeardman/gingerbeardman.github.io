@@ -59,7 +59,7 @@ If you're interested in reading about the interface and functions of JINZO Paint
 
 My Windows CE device is a bit odd because it's a Brain. These are a range of electronic dictionaries made by Sharp and sold only in Japan. With a bit of gentle coaxing it can be used as a little computer running Windows CE. My particular model is the PW-SH1 which is a 3rd generation device with a high resolution screen whose hinge can rotate 360° so it's back-to-back against the keyboard, effectively becoming a tablet computer. Some years ago it was figured out that you could sideload apps and even force these devices to open the Windows CE desktop and do all manner of crazy things. Japanese hackers and modders seem to love using these devices to run emulators for old computers like Sharp MZ-series and NEC PC-series. If you want to know more check out the [Brain Wiki](https://brain.fandom.com/ja/wiki/Brain_Wiki) and if you want to pick up a device [here's a list of them all](https://brain.fandom.com/ja/wiki/Brain機種別解説) (browser translation required for those links).
 
-![JPG](https://cdn.gingerbeardman.com/images/posts/jinzo-paint.jpg "JINZO Paint, 4-colour version")
+![JPG](/images/posts/jinzo-paint.jpg "JINZO Paint, 4-colour version")
 {:.tofigure}
 
 ----
@@ -80,7 +80,7 @@ Many thanks to [@watamario15](https://twitter.com/watamario15) for his invaluabl
 
 I've also added keyboard control to JINZO Paint 16, with standard Photoshop keys to switch tools, plus keys for undo, set zoom, quick zoom (hold space bar), and more. If I get permission from the original author I'll release a patch.
 
-![JPG](https://cdn.gingerbeardman.com/images/posts/jinzo-paint-dev.png "JINZO Paint 16, source code modifications")
+![JPG](/images/posts/jinzo-paint-dev.png "JINZO Paint 16, source code modifications")
 {:.tofigure}
 
 ----

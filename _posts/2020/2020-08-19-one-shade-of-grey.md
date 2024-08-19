@@ -13,4 +13,4 @@ So I’m not sure I’ll use it, as all other shadows are dithered and flashing 
 
 > I believe this technique was used on other systems with limited colours, such as Game Boy and Palm (to get 4 shades), certain Commodore 64 games (eg. Creatures 2) did it to get never-before-seen colours, and of course old arcade and video games often did exactly my trick to get their semi-opaque shadows.
 
-![JPG](https://cdn.gingerbeardman.com/images/posts/daily-driver-one-shade-grey.jpg)
+![JPG](/images/posts/daily-driver-one-shade-grey.jpg)

@@ -53,7 +53,7 @@ end
 
 This means I can draw debug info about a thing from the same code and logic responsible for that thing. For me, with this game, that makes a lot of sense.
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/playdate-debugdraw.png#playdate)
+![PNG](/images/posts/playdate-debugdraw.png#playdate)
 
 ## Abusing the system
 
@@ -77,7 +77,7 @@ This approach could be taken further if the Playdate SDK allowed multiple colour
 
 Back in October 2021 I bought transparency film in a range of colours to make a physical screen overlay, inspired by early arcade games like Space Invaders and the Vectrex gaming system, which worked but is obviously more hassle as the transparency picks up lint and gets dirty really quickly. This split of blue/green was for sky/grass in a 3D golf game.
 
-![JPG](https://cdn.gingerbeardman.com/images/posts/playdate-physical-overlays.jpg)
+![JPG](/images/posts/playdate-physical-overlays.jpg)
 
 ----
 

@@ -33,4 +33,4 @@ Download at Internet Archive: [archive.org/details/f-min-infinity-21](https://ar
 
 Thanks to my [Patreon](https://www.patreon.com/posts/f-min-infinity-1-82948641) supporters!
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/f-min-infinity.png#pixel "F-MIN INFINITY Ver2.1")
+![PNG](/images/posts/f-min-infinity.png#pixel "F-MIN INFINITY Ver2.1")

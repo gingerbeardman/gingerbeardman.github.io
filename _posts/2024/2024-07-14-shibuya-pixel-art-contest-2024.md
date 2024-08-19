@@ -76,7 +76,7 @@ It would be tremendously complicated and time-consuming to create artwork like t
 
 The final image was my 12th attempt at getting a convincing flower! With many of my earlier attempts I was slow to hide the cursor and beautiful flowers were ruined by rogue strokes of ink after I'd technically finished. Perhaps I should have added the ability to record/playback or some sort of undo to the app. ([link](https://twitter.com/gingerbeardman/status/1810481363046318410))
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-rorschach.png)
+![PNG](/images/posts/shibuya-pixel-art-contest-2024-rorschach.png)
 
 ----
 
@@ -112,8 +112,8 @@ I was having too much fun with dither patterns, so I drew one more piece just fo
 
 And I did one more just before the deadline. This is titled 「ラペルピン」"lapel pin" and is 512×512px and was created using the same vectors and fills technique. I decided to work in Canvas 3.0 rather than artWORKS, simply because it has a way of locking objects. The only new thing I did here is that I created two diagonal line fill patterns of my own for the collars. ([link](https://twitter.com/gingerbeardman/status/1817609688210690392))
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks-lapel-pin.png)
+![PNG](/images/posts/shibuya-pixel-art-contest-2024-artworks-lapel-pin.png)
 
 And here's a screenshot of my working area, Macintosh System 7.5.5 running in 1-bit colour at 1025x768 in the BasiliskII emulator. This time I created it on my MacBook Pro with external Magic Trackpad, but [sometimes I use my iPad Pro with Apple Pencil](/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/).
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/shibuya-pixel-art-contest-2024-artworks-lapel-pin-working.png)
+![PNG](/images/posts/shibuya-pixel-art-contest-2024-artworks-lapel-pin-working.png)

@@ -56,7 +56,7 @@ So, James mentioned [FinderHack](https://macintoshgarden.org/apps/finderhack) wh
 
 So, I turned to KeyQuencer once again and created a short macro which would type the Cmd+T key combination and I assigned it to Cmd+Backspace/Delete. It worked! Pressing my hotkey typed the FinderHack hotkey.
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/move-to-trash-1.png "This macro, bound to Cmd+Backspace/Delete, types Cmd+T to effectively map one hotkey to another")
+![PNG](/images/posts/move-to-trash-1.png "This macro, bound to Cmd+Backspace/Delete, types Cmd+T to effectively map one hotkey to another")
 {:.tofigure}
 
 So we already have a good solution but resources are often scarce on classic Macintosh, so I wondered if I might be able to cut out the middleman and change the keyboard shortcut by modifying FinderHack directly. James had noticed that ResEdit would not allow you to type the Backspace character. I confirmed the same was true in Resorcerer. So, what to do?
@@ -69,7 +69,7 @@ Opening FinderHack directly in [HexEdit](https://macintoshgarden.org/apps/hexedi
 
 The final modified file is up over at Macintosh Garden: [macintoshgarden.org/apps/finderhack](https://macintoshgarden.org/apps/finderhack)
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/move-to-trash-4.png "Notice that System 7 has no glyph for the Backspace key")
+![PNG](/images/posts/move-to-trash-4.png "Notice that System 7 has no glyph for the Backspace key")
 {:.tofigure}
 
 **Removing the confirmation alert**

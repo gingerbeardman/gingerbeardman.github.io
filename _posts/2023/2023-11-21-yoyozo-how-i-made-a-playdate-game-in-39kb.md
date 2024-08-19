@@ -37,7 +37,7 @@ The most amazing thing about this game, for me, is that launch version weighs in
 
 If you own a Playdate you can buy the game now at [play.date/games/yoyozo/](https://play.date/games/yoyozo/). If you don't own a Playdate, well, [what are you waiting for](https://play.date)?
 
-![YOYOZO](https://cdn.gingerbeardman.com/images/posts/yoyozo-teaser.gif#playdate)
+![YOYOZO](/images/posts/yoyozo-teaser.gif#playdate)
 
 ## But...*why?*
 
@@ -69,7 +69,7 @@ That said, I think every game developer should regularly make a point of writing
 
 I thought it would be cool to outline the main features and how each contributes to the total file size. Note that the sizes are expressed as quantities of the compiled binary, rather than uncompiled source code. It's also worth noting that a blank project with an empty update function results in a compiled binary of only 147 bytes. Playdate compiles to Lua bytecode.
 
-![CHART](https://cdn.gingerbeardman.com/images/posts/yoyozo-chart.png)
+![CHART](/images/posts/yoyozo-chart.png)
 
 |Content|Kilobytes|%|
 |-------------|--|--|
@@ -100,7 +100,7 @@ I thought it would be cool to outline the main features and how each contributes
 
 I really loved the manuals that came with games in the 8-bit and 16-bit era. So I thought it would be fun to write a manual/player's guide in the old-school style. I love reading those sorts of manuals, where the developer gives you a little glimpse behind the curtain so you get an understanding of how the game works, with some small hints and tips littered throughout—for the most inquisitive players! If that sounds like your thing, [download the manual from the game page](https://play.date/games/yoyozo/#gameListingMoreInfo).
 
-[![YOYOZO Manual](https://cdn.gingerbeardman.com/images/posts/yoyozo-manual.png)](https://play.date/games/yoyozo/#gameListingMoreInfo)
+[![YOYOZO Manual](/images/posts/yoyozo-manual.png)](https://play.date/games/yoyozo/#gameListingMoreInfo)
 
 ----
 

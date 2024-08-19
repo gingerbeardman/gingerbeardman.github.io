@@ -108,5 +108,5 @@ These multi-channel files work wonderfully with AirPods Pro spatial audio head t
 
 ----
 
-![WEBP](https://cdn.gingerbeardman.com/images/posts/music-multi-channel.heic "My own multi-channel audio in Music app on my iPhone")
+![WEBP](/images/posts/music-multi-channel.heic "My own multi-channel audio in Music app on my iPhone")
 {:.tofigure}

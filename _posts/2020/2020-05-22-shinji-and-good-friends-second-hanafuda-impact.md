@@ -29,8 +29,8 @@ Whilst doing this hacking, I found a debug mode (dialog/speech tester) which is 
 
 {% include carousel.html height="75" unit="%" duration="7" %}
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/shinji-new.png "New/empty save game file contents")
+![PNG](/images/posts/shinji-new.png "New/empty save game file contents")
 {:.tofigure}
 
-![PNG](https://cdn.gingerbeardman.com/images/posts/shinji-hacked.png "Hacked save game file contents")
+![PNG](/images/posts/shinji-hacked.png "Hacked save game file contents")
 {:.tofigure}

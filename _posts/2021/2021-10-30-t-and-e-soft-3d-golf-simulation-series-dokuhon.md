@@ -27,4 +27,4 @@ This guide book shows tips for all 18 holes on each the four T&E SOFT golf games
 
 These courses were also featured in games on other platforms so the guide has much broader usefulness.
 
-[![JPG](https://cdn.gingerbeardman.com/images/posts/t-and-e-golf-dokuhon.jpg "T&E SOFT 3D Golf Simulation Series Dokuhon SFC")](https://archive.org/details/t-e-soft-3d-golf-simulation-series-dokuhon-sfc)
+[![JPG](/images/posts/t-and-e-golf-dokuhon.jpg "T&E SOFT 3D Golf Simulation Series Dokuhon SFC")](https://archive.org/details/t-e-soft-3d-golf-simulation-series-dokuhon-sfc)
