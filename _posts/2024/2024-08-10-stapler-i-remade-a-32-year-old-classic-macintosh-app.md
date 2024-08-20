@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stapler: I remade a 32 year old classic Macintosh app"
-last_modified_at: '2024-08-12T23:26+01:00'
+last_modified_at: '2024-08-20T15:08+01:00'
 date: '2024-08-10T22:00+01:00'
 tags:
 - software
@@ -78,7 +78,7 @@ Dealing with files was both cool and annoying, cool that you can get the bookmar
 
 ## Icon
 
-Given that this was a quick weekend project, I kind of lost steam when it came to the icon. I'd love a better app icon, as well as a specific document icon, so any [icon designers can step this way](https://github.com/gingerbeardman/stapler/issues/1).
+Given that this was a quick weekend project, I kind of lost steam when it came to the icon. I'd love a better app icon, as well as a specific document icon, so [new icons are being worked on by a designer](https://github.com/gingerbeardman/stapler/discussions/24).
 
 ## Bonus tip
 
