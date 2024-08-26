@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stapler: I remade a 32 year old classic Macintosh app"
-last_modified_at: '2024-08-20T15:08+01:00'
+last_modified_at: '2024-08-26T13:34+01:00'
 date: '2024-08-10T22:00+01:00'
 tags:
 - software
@@ -91,6 +91,16 @@ Then leave the windows of an app open as you quit it. When you next launch the a
 > ## Thanks
 > 
 > My good friend Dave Roberts (Serendipity App Company) for brainstorming why it was so damned difficult to get the app to react differently when a document was opened from Finder. Rip it up and start again! To Dustin Mierau for kickstarting this trend of remaking forgotten old apps for modern macOS. And eternal thanks to [Chris Patterson](https://twitter.com/chrispatterson/status/1822396663425532259) and Ali Rantakari for their apps.
+
+----
+
+## Since launch
+
+- support added for macOS 12 and newer (was originally macOS 14 and newer)
+- new features added
+- omissions addressed
+- bug fixes
+- new icon on the way
 
 ----
 
