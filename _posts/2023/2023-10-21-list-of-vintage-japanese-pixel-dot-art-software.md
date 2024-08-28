@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
-last_modified_at: '2024-08-03T07:32+01:00'
+last_modified_at: '2024-08-28T15:51+01:00'
 date: '2023-10-21T16:56+01:00'
 tags:
 - graphics
@@ -157,7 +157,7 @@ Total entries: 238
 | PC-98 | MEDI-98 / nedi3 |  | 1990 | NOZUMU |
 | PC-98 | Monopen | ものぺん | 1995 | OEAO |
 | PC-98 | Multi Paint System / MPS | マルチペイントシステム | 1992 | C-Lab |
-| PC-98 | Paint System Tool / PST | 似非キース | 1992 | hironon |
+| PC-98 | Paint System Tool / PST | 似非キース | 1990 | hironon |
 | PC-98 | Penta-kun | ぺん太くん | 1994 | NEG |
 | PC-98 | SANDY |  | 1994 | Wataru Ishihara |
 | PC-98 | Small CANDY |  | 1984 | ASCII |
