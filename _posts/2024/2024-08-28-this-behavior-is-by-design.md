@@ -18,7 +18,7 @@ image: /images/posts/this-behavior-is-by-design.png
 featured: false
 pinned: false
 
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1828915849975267820
 
 ---
 
