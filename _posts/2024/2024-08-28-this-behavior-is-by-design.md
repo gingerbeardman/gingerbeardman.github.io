@@ -54,9 +54,7 @@ Given that we could go on forever with examples, here are 10 off the top of my h
 
 While most aspects of software are meticulously planned, sometimes unintended behaviors or glitches lead to serendipitous discoveries. These "happy accidents" might result in a breakthrough in design and can become beloved features if developers choose to keep them.
 
-A famous example is the "creeper" in Minecraft, which resulted from a coding error while creating pigs. The game's creator, [Markus Persson](https://en.wikipedia.org/wiki/Markus_Persson), liked the mistaken entity so much that he decided to keep and refine it, turning it into one of the game's most iconic elements.
-
-Similarly, the [wavedash technique in Super Smash Bros. Melee](https://www.ssbwiki.com/Wavedash) was an unintended consequence of the game's physics engine, but it became a crucial part of high-level play after creator [Masahiro Sakurai](https://www.ssbwiki.com/Masahiro_Sakurai) opted to leave it in. These instances remind us that even in a world of intentional design, there's room for the unexpected - and the human decision to embrace and incorporate these accidents can lead to some of the most innovative and engaging aspects of software.
+A famous example is the "creeper" in Minecraft, which resulted from a coding error while creating pigs. The game's creator, [Markus Persson](https://en.wikipedia.org/wiki/Markus_Persson), liked the mistaken entity so much that he decided to keep and refine it, turning it into one of the game's most iconic elements. Similarly, the [wavedash technique in Super Smash Bros. Melee](https://www.ssbwiki.com/Wavedash) was an unintended consequence of the game's physics engine, but it became a crucial part of high-level play after creator [Masahiro Sakurai](https://www.ssbwiki.com/Masahiro_Sakurai) opted to leave it in. These instances remind us that even in a world of intentional design, there's room for the unexpected - and the human decision to embrace and incorporate these accidents can lead to some of the most innovative and engaging aspects of software.
 
 ## Deciding by not deciding
 
