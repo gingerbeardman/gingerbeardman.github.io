@@ -7,8 +7,7 @@ tags:
 - finepix
 - photo
 nouns:
-- Sensible Soccer
-- River Island
+- FujiFilm FinePix 1400 Zoom
 - Joystick Junkies
 - BSI Merch
 - Amazon UK
@@ -23,6 +22,6 @@ comments: https://twitter.com/gingerbeardman
 
 Spring morning sun coming through my blinds, across my sofa, onto my disco ball.
 
-Taken with a [Fujifilm Finepix 1400Z](https://www.dpreview.com/products/fujifilm/compacts/fuji_mx1400), which at 1.3 megapixels saved photos at 1280×960 pixels!
+Taken with a [FujiFilm FinePix 1400 Zoom](https://www.dpreview.com/products/fujifilm/compacts/fuji_mx1400), which at 1.3 megapixels saved photos at 1280×960 pixels!
 
 ![JPG](/images/posts/early-morning-disco.jpg)
