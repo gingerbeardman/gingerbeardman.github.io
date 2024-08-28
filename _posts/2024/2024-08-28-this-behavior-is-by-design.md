@@ -15,7 +15,7 @@ nouns:
 - Playdate
 - Mars After Midnight
 image: /images/posts/this-behavior-is-by-design.png
-featured: true
+featured: false
 pinned: false
 
 comments: https://twitter.com/gingerbeardman/status/
