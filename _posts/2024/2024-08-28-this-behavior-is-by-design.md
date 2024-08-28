@@ -12,7 +12,7 @@ nouns:
 - Microsoft
 - Playdate
 - Mars After Midnight
-image: /images/posts/
+image: /images/posts/this-behavior-is-by-design.png
 featured: true
 pinned: false
 
