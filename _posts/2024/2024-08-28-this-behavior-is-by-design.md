@@ -22,7 +22,7 @@ comments: https://twitter.com/gingerbeardman/status/
 
 Back in the mid-1990s I was using Windows 95 and running uo against bugs, problems, driver issues, unexpected things happening. I would often end up on the Microsoft Knowledge Base support web pages, where the issue would often be accompanied by the line "[This behavior is by design](https://support.microsoft.com/en-gb/topic/you-can-change-the-desktop-wallpaper-setting-after-administrator-selects-prevent-changing-wallpaper-option-in-group-policy-e3af8a03-69f5-e320-42dc-15702ba5375c)", which remains in use to this very day.
 
-This mantra has stuck with me over the years, and it came to light in a recent discussion about the design of [Lucas Pope](https://en.wikipedia.org/wiki/Lucas_Pope)'s [Mars After Midnight](https://play.date/games/mars-after-midnight/) for the [Playdate](https://play.date) handheld game console.
+This mantra has stuck with me over the years, and it came to light in a recent discussion about the design of [Lucas Pope](https://en.wikipedia.org/wiki/Lucas_Pope)'s [Mars After Midnight](https://play.date/games/mars-after-midnight/) for the [Playdate](https://play.date) handheld game console. It has a black interstitial screen between some scenes, which was enough to get me thinking about the intent behind the design of a screen that contains ...nothing at all.
 
 ## To be or not to be
 
@@ -60,7 +60,7 @@ Similarly, the [wavedash technique in Super Smash Bros. Melee](https://www.ssbwi
 
 ## Deciding by not deciding
 
-Some might argue that you don't make a choice when you accepr the default settings, like the white background and font in a Word document. However, I would argue that by using the defaults you are implicitly agreeing with the designers' choices. As a user you become complicit in the design decisions simply by not changing them. 
+Some might argue that you don't make a choice when you accepr the default settings, like the white background and font in a Word document. Or you might make the same argument about using a pre-made framework or package in your software. However, I would argue that by using the defaults you are implicitly agreeing with the designers' choices. As a user you become complicit in the design decisions simply by not changing them. 
 
 This tacit agreement with default settings is another aspect of design that often goes unnoticed, yet it plays a significant role in shaping the end product. Somebody at Microsoft decided that with Office 2007 the default font would become Calibri, replacing Times New Roman which had been the default since forever. There's no better example of the implications and reach of a single human decision.
 
