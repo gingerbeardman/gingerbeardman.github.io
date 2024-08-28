@@ -30,7 +30,7 @@ I'm as guilty as anybody in wondering why certain things are how they are in the
 
 This intentionality in software design has profound implications. It means that the user experience - whether frustrating or delightful - stems from choices made by developers, designers, product managers, and perhaps even the users themselves. How enjoyable or not the software is to use, the accessibility (or lack thereof) of user interfaces, and even the bugs and glitches we encounter are all products of the human decision-making process. This perspective challenges the notion that technology is impersonal, as there are human minds and motivations behind every aspect.
 
-However, it's worth noting that while every element is designed, not all design decisions are made with equal deliberation or foresight. Some choices are carefully considered and tested, while others might be rushed, overlooked, or based on flawed assumptions. Additionally, the complexity of modern software means that interactions between different design choices can sometimes lead to unintended consequences. 
+However, it's worth noting that while every element is designed, not all design decisions are made with equal deliberation or foresight. Some choices are carefully considered and tested, while others might be rushed, overlooked, or based on flawed assumptions. Additionally, the complexity of modern software means that interactions between different design choices can sometimes lead to unintended consequences. More on that later.
 
 ----
 
