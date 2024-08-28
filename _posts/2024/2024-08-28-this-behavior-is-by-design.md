@@ -50,6 +50,8 @@ Given that we could go on forever with examples, here are 10 off the top of my h
 - order of two competing buttons that mean cancel or proceed
 - the number of digits used to represent a high score
 
+Making a game involves deciding on thousands upon thousands of tiny things like this. I love it.
+
 ----
 
 ## Happy accidents
