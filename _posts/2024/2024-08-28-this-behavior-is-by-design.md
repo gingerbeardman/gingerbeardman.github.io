@@ -10,6 +10,8 @@ tags:
 - critique
 nouns:
 - Microsoft
+- Knowledge Base
+- Windows 95/98
 - Playdate
 - Mars After Midnight
 image: /images/posts/this-behavior-is-by-design.png
@@ -20,7 +22,7 @@ comments: https://twitter.com/gingerbeardman/status/
 
 ---
 
-Back in the mid-1990s I was using Windows 95 and running uo against bugs, problems, driver issues, unexpected things happening. I would often end up on the Microsoft Knowledge Base support web pages, where the issue would often be accompanied by the line "[This behavior is by design](https://support.microsoft.com/en-gb/topic/you-can-change-the-desktop-wallpaper-setting-after-administrator-selects-prevent-changing-wallpaper-option-in-group-policy-e3af8a03-69f5-e320-42dc-15702ba5375c)", which remains in use to this very day.
+Back in the mid-1990s I was using Windows 95/98 and running uo against bugs, problems, driver issues, unexpected things happening. I would often end up on the Microsoft Knowledge Base support web pages, where the issue would often be accompanied by the line "[This behavior is by design](https://support.microsoft.com/en-gb/topic/you-can-change-the-desktop-wallpaper-setting-after-administrator-selects-prevent-changing-wallpaper-option-in-group-policy-e3af8a03-69f5-e320-42dc-15702ba5375c)", which remains in use to this very day.
 
 This mantra has stuck with me over the years, and it came to light in a recent discussion about the design of [Lucas Pope](https://en.wikipedia.org/wiki/Lucas_Pope)'s [Mars After Midnight](https://play.date/games/mars-after-midnight/) for the [Playdate](https://play.date) handheld game console. It has a black interstitial screen between some scenes, which was enough to get me thinking about the intent behind the design of a screen that contains ...nothing at all.
 
