@@ -10,7 +10,7 @@ carousel: dreamcast-gdemu
 - Difficulty: 5/10
 - Cost: ~ £100
 
-My Dreamcast is an NTSC-U model that I bought in the middle of the Dreamcast’s short life. It was a special order from a UK mail order firm based out of King’s Lynn, Norfolk, and is chipped to play import games. It has a replacement UK PSU and has served me well over the years. I’d resisted GDEMU, making do with a serial USB Micro SD adapter. But I eventually decided the ease of us and ability to play certain WinCE games like Super Runabout was enough reason to upgrade.
+My Dreamcast is an NTSC-U model that I bought in the middle of the Dreamcast’s short life. It was a special order from UK mail order firm [Madeira Games based out of King’s Lynn, Norfolk](https://twitter.com/gingerbeardman/status/1595050453322141696), and is chipped to play import games. It has a replacement UK PSU and has served me well over the years. I’d resisted GDEMU, making do with a serial USB Micro SD adapter. But I eventually decided the ease of us and ability to play certain WinCE games like Super Runabout was enough reason to upgrade.
 
 I ordered a bunch of stuff and then fitted it. There’s not much to say. The replacement lid release mechanism was the most difficult part to fit.
 

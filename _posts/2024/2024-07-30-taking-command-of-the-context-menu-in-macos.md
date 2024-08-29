@@ -129,6 +129,8 @@ The menu item displays in Finder as follows:
 
 ContextMenu stores these files in its own group folder, right click an action and choose *Show in Finder*, but you can specify your own folder in a location of your choice. Both will migrate to a new Mac, but the later might give you more control.
 
+Edit: we can limit actions to running on files with specific extensions or, since update 1.4.4 [specific UTI types](https://gist.github.com/RhetTbull/7221ef3cfd9d746f34b2550d4419a8c2).
+
 ----
 
 ## Compressing a GIF
