@@ -62,7 +62,7 @@ A famous example is the "creeper" in Minecraft, which resulted from a coding err
 
 ## Deciding by not deciding
 
-Some might argue that you don't make a choice when you accepr the default settings, like the white background and font in a Word document. Or you might make the same argument about using a pre-made framework or package in your software. However, I would argue that by using the defaults you are implicitly agreeing with the designers' choices. As a user you become complicit in the design decisions simply by not changing them. 
+Some might argue that you don't make a choice when you accept the default settings, like the white background and font in a Word document. Or you might make the same argument about using an existing framework, package, or SDK in your software. However, I would argue that by using the defaults you are implicitly agreeing with the designers' choices. As a user you become complicit in the design decisions simply by not changing them. 
 
 This tacit agreement with default settings is another aspect of design that often goes unnoticed, yet it plays a significant role in shaping the end product. Somebody at Microsoft decided that with Office 2007 the default font would become Calibri, replacing Times New Roman which had been the default since forever. There's no better example of the implications and reach of a single human decision.
 
