@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ball und Panzer Golf: making a Playdate game in a week'
-last_modified_at: '2024-08-30T16:35+01:00'
+last_modified_at: '2024-08-30T16:47+01:00'
 date: '2023-06-26T22:11:00+00:00'
 tags:
 - x68000
@@ -20,7 +20,7 @@ nouns:
 - X68000 Z
 - X68000
 - Playdate
-image: /images/posts/ball-und-panzer-golf-05.gif
+image: /images/posts/ball-und-panzer-golf-fore-track.gif
 featured: true
 redirect_from:
 - /2023/06/26/ball-und-panzer-golf-week-1/
@@ -129,9 +129,14 @@ The big remaining task that will take a lot longer than a week is game structure
 
 But the bigger question is do I want it to be bigger than that? There are no shortage of ideas how how to mashup to concept of tanks and golf, only a shortage of time and budget to make it happen. I could even add a mini-golf type of experience where you're playing a round of single screen holes with additional hazards pulled from both the golf and tank world. 
 
-Let's see what happens.
+----
 
-> If you have a Playdate and would like to test this game I have a limited number of spots available. Get in touch on Twitter via the comments link below.
+## Launched!
+
+My version of Ball und Panzer Golf was renamed Fore! Track and is available for Playdate via Catalog [https://play.date/games/fore-track/](https://play.date/games/fore-track/) or on [itch where there's a free demo](https://gingerbeardman.itch.io/fore-track). Here's an animation of the final game:
+
+![GIF](/images/posts/ball-und-panzer-golf-fore-track.gif#playdate "Demonstration of the launch version of <em>Fore! Track</em>")
+{:.tofigure}
 
 ----
 
