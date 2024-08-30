@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ball und Panzer Golf: making a Playdate game in a week'
-last_modified_at: '2023-12-03T22:06+00:00'
+last_modified_at: '2024-08-30T16:35+01:00'
 date: '2023-06-26T22:11:00+00:00'
 tags:
 - x68000
@@ -30,7 +30,7 @@ comments: https://twitter.com/gingerbeardman/status/1670573806765719553
 
 I've been following the X68000 Z mini computer since it's announcement in the hope that it will bring new activity to the X68000 scene and it seems to be having that effect. In one video from the recent 「68の日」("68 Day", named after the date written in Japanese order, 6-8, that's 8th June the most special day of the year for X68000 fans) [I spotted](https://twitter.com/gingerbeardman/status/1669909753592512512?s=61&t=vJGphXuN310nHUu1fN6c7Q) a interesting looking single screen golf game:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zPrF9xcipPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nwte3wm6lzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Hello kata68k
 
