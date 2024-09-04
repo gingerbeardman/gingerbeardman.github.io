@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stapler: I remade a 32 year old classic Macintosh app"
-last_modified_at: '2024-08-26T13:34+01:00'
+last_modified_at: '2024-09-04T16:20+01:00'
 date: '2024-08-10T22:00+01:00'
 tags:
 - software
@@ -107,3 +107,4 @@ Then leave the windows of an app open as you quit it. When you next launch the a
 ## Elsewhere
 
 - [Hacker News](https://news.ycombinator.com/item?id=41212193)
+- [TidBits](https://tidbits.com/2024/09/02/appbits-stapler-opens-multiple-apps-documents-and-folders/)
