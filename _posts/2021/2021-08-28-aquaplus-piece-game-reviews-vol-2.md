@@ -23,7 +23,7 @@ Below I cover more of the interesting and unique games that I enjoy on the syste
 
 ***
 
-<iframe width="512" height="342" src="https://www.youtube.com/embed/44SKkmpJqlA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube 44SKkmpJqlA %}
 
 ### Delta Star, by BLACK FTZ
 
@@ -47,7 +47,7 @@ I've been playing the free "Gratuitous Version" which has only one boss type and
 
 This was previously shown in my blog post comparing the P/ECE with Playdate, but I neglected to mention one cool thing...
 
-<iframe width="512" height="342" src="https://www.youtube.com/embed/9h_m_Yz-PUc?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube 9h_m_Yz-PUc %}
 
 ### Speed Barricade LIVE, by Kenta Cho (ABA Games)
 
@@ -55,7 +55,7 @@ If you play with your P/ECE connected using USB cable to your Windows PC you can
 
 ***
 
-<iframe width="512" height="342" src="https://www.youtube.com/embed/szQSOMhH0uQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube szQSOMhH0uQ %}
 
 ### Majang Project, by Hiroshi Makabe
 
@@ -63,7 +63,7 @@ This game came out of the first of two P/ECE Hand Books written by [Hiroshi Maka
 
 ***
 
-<iframe width="512" height="342" src="https://www.youtube.com/embed/YLcG_G5s8R8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube YLcG_G5s8R8 %}
 
 ### ALERT (アラート), by Jumpei Isshiki (HELLO WORLD PROJECT)
 

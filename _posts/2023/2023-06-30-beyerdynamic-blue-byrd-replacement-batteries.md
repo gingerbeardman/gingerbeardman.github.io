@@ -39,6 +39,6 @@ All in all replacing the batteries was pretty straight forward if you have the r
 
 Initial usage with the new batteries is encouraging. In a week or two I'll edit this blog post with the sort of usage time I'm getting.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ktpNqWAlB0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% youtube ktpNqWAlB0s %}
 
 Here's a little bit of video showing me unsoldering one of the original batteries. Everything is tiny!

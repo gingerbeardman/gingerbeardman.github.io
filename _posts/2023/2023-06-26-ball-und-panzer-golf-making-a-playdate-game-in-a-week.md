@@ -30,7 +30,7 @@ comments: https://twitter.com/gingerbeardman/status/1670573806765719553
 
 I've been following the X68000 Z mini computer since it's announcement in the hope that it will bring new activity to the X68000 scene and it seems to be having that effect. In one video from the recent 「68の日」("68 Day", named after the date written in Japanese order, 6-8, that's 8th June the most special day of the year for X68000 fans) [I spotted](https://twitter.com/gingerbeardman/status/1669909753592512512?s=61&t=vJGphXuN310nHUu1fN6c7Q) a interesting looking single screen golf game:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nwte3wm6lzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% youtube Nwte3wm6lzo %}
 
 ## Hello kata68k
 
@@ -98,7 +98,7 @@ The next two days consisted of fine tuning, polishing, play testing, bug fixing,
 
 Opportune timing meant that I could get the game in the hands of some testers on a live stream, over at IGDA Twin Cities (MN, USA) as part of their monthly Playtest. Thanks to [Mark LaCroix](https://twitter.com/Mark_LaCroix) for sorting that out! It was great to watch them play the game for the first time as they discovered the details of gameplay, mechanics, controls, and scoring! I even spotted a bug.
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qZq3-N1MczA?start=3837" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% youtube qZq3-N1MczA 740x416 @3837 %}
 
 For the rest of the week I polished and played, addressing areas that I thought could be improved. I added accessibility improvements, more opportunities to score, better hole randomisation, even wind effects, and so much more besides.
 

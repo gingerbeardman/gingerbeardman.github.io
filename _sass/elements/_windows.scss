@@ -37,4 +37,8 @@ body.windows {
   .highlighter-rouge .highlight {
     background-color: $bg-color-win-code;
   }
+  
+  .c-off-canvas-toggle__icon {
+    background-color: $color-white;
+  }
 }

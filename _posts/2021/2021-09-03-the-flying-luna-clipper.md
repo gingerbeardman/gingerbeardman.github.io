@@ -25,7 +25,7 @@ It's a quite surreal but relaxing 55 minutes, and well worth a viewing. If you p
 
 ***
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P2TNZyCWA-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube P2TNZyCWA-Q 740x555 %}
 
 ***
 

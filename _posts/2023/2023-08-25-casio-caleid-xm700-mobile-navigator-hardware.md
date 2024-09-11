@@ -67,7 +67,7 @@ My goal: sideload the hanafuda game, along with anything else I can lay my hands
 
 I love this sort of challenge that requires discovery and understanding of old hardware and software, and a little (but not too much) messing around with old versions of Windows.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6vCO28GqnlA?si=PbbotMFu7dJpDUIa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% youtube 6vCO28GqnlA 740x416 %}
 
 ----
 

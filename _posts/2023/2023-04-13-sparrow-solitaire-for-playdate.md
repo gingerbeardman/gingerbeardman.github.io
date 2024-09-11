@@ -30,7 +30,7 @@ This week the [hugely expanded full version](https://vogelscript.itch.io/sparrow
 
 This post is a continuation of the history of the development of the game, going into the conceptual decisions and visual inspiration.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wb5fw7rCfl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% youtube Wb5fw7rCfl4 %}
 
 ----
 

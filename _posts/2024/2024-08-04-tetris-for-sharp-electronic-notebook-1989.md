@@ -38,7 +38,7 @@ Without this device [there would be no Apple Newton](/2024/05/10/emoji-history-t
 
 Here it is running on my PA-8500:
 
-<iframe width="740" height="740" src="https://www.youtube.com/embed/Rzm5STvVY08?si=sa1IMUEkWK5JrnOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% youtube Rzm5STvVY08 740x740 %}
 
 ----
 

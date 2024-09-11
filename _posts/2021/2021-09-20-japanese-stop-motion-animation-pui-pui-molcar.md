@@ -12,7 +12,7 @@ comments: https://twitter.com/gingerbeardman/status/1439876210377506817
 
 My favourite new TV discovery is this Japanese felt-stop-motion guinea-pig-car thing on Netflix called [Pui Pui Molcar](https://twitter.com/molcar_anime). It's brilliant. Saying any more would spoil it.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7Dr14FJvYmw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube 7Dr14FJvYmw %}
 
 And don't miss the OST on your favourite streaming service:
 

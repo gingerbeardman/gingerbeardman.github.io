@@ -22,7 +22,7 @@ One of the best (according to [MetaCritic](https://www.metacritic.com/game/wii/m
 
 Anyway, I still play this game regularly (still not managed 1Million on Wii but have on the DS download version) and recently unlocked the Staff Credits (Staff Roll).
 
-<iframe width="540" height="540" src="https://www.youtube.com/embed/3z5Hlj2nof4?si=5eJTCJV_pi3oGop5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% youtube 3z5Hlj2nof4 740x740 %}
 
 ----
 

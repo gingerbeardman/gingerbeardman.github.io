@@ -63,7 +63,7 @@ I do this by using the debug draw in the opposite way to how it's supposed to be
 
 I'm not quite drawing everything twice, as the areas that are punched out are simple shapes approximating the elements in my game. Plus, this is made easier for me because everything in the game is already being drawn only with filled shapes.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqv1kwfW5r8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% youtube fqv1kwfW5r8 740x444 %}
 
 One interesting thing about this technique is that changing the contrast (dither pattern opacity) of the golf greens only when running in "colour mode" on the Simulator made things look better. That's to say that adding colour also adds an extra complexity with regards to contrast. I think that's the only change to the graphics I've done so far but there is opportunity for more.
 
