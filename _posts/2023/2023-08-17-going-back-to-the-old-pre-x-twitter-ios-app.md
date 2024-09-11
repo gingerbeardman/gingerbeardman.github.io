@@ -39,8 +39,8 @@ style: |
   }
   
   picture {
-    width: 395px;
-    height: 476px;
+    width: 100%;
+    aspect-ratio: 395/476;
     display: block;
   }
   
