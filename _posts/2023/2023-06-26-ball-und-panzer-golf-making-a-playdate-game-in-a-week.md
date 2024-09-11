@@ -98,7 +98,7 @@ The next two days consisted of fine tuning, polishing, play testing, bug fixing,
 
 Opportune timing meant that I could get the game in the hands of some testers on a live stream, over at IGDA Twin Cities (MN, USA) as part of their monthly Playtest. Thanks to [Mark LaCroix](https://twitter.com/Mark_LaCroix) for sorting that out! It was great to watch them play the game for the first time as they discovered the details of gameplay, mechanics, controls, and scoring! I even spotted a bug.
  
-{% youtube qZq3-N1MczA 740x416 @3837 %}
+{% youtube qZq3-N1MczA @3837 %}
 
 For the rest of the week I polished and played, addressing areas that I thought could be improved. I added accessibility improvements, more opportunities to score, better hole randomisation, even wind effects, and so much more besides.
 

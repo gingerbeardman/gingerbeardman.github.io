@@ -131,4 +131,4 @@ Once all that is set up you can create/add KeyQuencer Macros, using either KeyQu
 
 Here's a screen recording of me doing the above on a fresh System 7.1:
 
-{% youtube 99oQ5zZMHkI 740x555 %}
+{% youtube 99oQ5zZMHkI 4/3 %}

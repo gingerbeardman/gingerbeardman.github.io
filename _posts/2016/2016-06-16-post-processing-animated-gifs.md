@@ -111,4 +111,4 @@ ffmpeg -i trimmed.gif -movflags faststart -pix_fmt yuv420p video.mp4
 
 video uploaded to YouTube:
 
-{% youtube Ydeg4bNHn08 740x740 %}
+{% youtube Ydeg4bNHn08 1/1 %}

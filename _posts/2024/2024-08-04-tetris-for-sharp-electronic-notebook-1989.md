@@ -38,7 +38,7 @@ Without this device [there would be no Apple Newton](/2024/05/10/emoji-history-t
 
 Here it is running on my PA-8500:
 
-{% youtube Rzm5STvVY08 740x740 %}
+{% youtube Rzm5STvVY08 1/1 %}
 
 ----
 

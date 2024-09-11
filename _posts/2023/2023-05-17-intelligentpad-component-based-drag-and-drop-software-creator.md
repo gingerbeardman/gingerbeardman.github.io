@@ -71,7 +71,7 @@ For Windows, IntelligentPad version 4 released in 2000 still works on Windows 8 
 
 ## Demonstration
 
-{% youtube 4an1bzfOlKA x555 %}
+{% youtube 4an1bzfOlKA 4/3 %}
 
 ----
 

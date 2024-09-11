@@ -28,7 +28,7 @@ comments: https://twitter.com/gingerbeardman/status/1789247900540616834
 
 Since some of my first prototypes with Playdate I've wanted there to be a way to interact with the device using a mouse. Well, today is that day!
 
-{% youtube PF4emlHhYCM 740x493 %}
+{% youtube PF4emlHhYCM 3/2 %}
 
 No doubt you have some questions? How are you doing this? What's the weather like? etc.
 

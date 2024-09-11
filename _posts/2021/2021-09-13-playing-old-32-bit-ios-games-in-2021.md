@@ -58,7 +58,7 @@ Anyway, I took one or both of those things as a sign to download and backup a co
 
 I could capture the attract loop using QuickTime Player but for some reason the recording crashed whenever a sound was played. 
 
-{% youtube RZSjR4dIykU 740x555 %}
+{% youtube RZSjR4dIykU 4/3 %}
 
 And [here's an Instagram video of me playing the main game](https://www.instagram.com/p/CTwautQAXUp/), albeit quite badly is I'm only using one hand!
 

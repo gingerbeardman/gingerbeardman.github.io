@@ -25,7 +25,7 @@ It's a quite surreal but relaxing 55 minutes, and well worth a viewing. If you p
 
 ***
 
-{% youtube P2TNZyCWA-Q 740x555 %}
+{% youtube P2TNZyCWA-Q 4/3 %}
 
 ***
 

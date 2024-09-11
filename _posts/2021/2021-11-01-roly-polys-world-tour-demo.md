@@ -20,7 +20,7 @@ comments: https://twitter.com/gingerbeardman/status/1455146263117185029
 
 ---
 
-{% youtube FlMzJs8Eb8Y 740x555 %}
+{% youtube FlMzJs8Eb8Y 4/3 %}
 
 A previously unknown/lost demo of Roly-Polys World Tour (ローリーポーリーズの世界旅行) [aka Banabana's First Big Adventure] has been found in my Japanese Macintosh magazine CD-ROM collection. It was featured on CD-ROM MacPeople 1998 No.2 1.15 in a folder of product demos.
 
