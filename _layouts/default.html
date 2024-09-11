@@ -28,7 +28,7 @@
     {% include_cached footer.html %}
   </div>
 
-  {% assign scripts = "jquery-3.7.1.min.js|jquery.fitvids.js|jquery.tablesorter.min.js|app.js" | split: "|" %}
+  {% assign scripts = "jquery-3.7.1.min.js|jquery.fitvids.js|jquery.tablesorter.min.js|app.js|lite-yt-embed.js" | split: "|" %}
   {% for script in scripts %}
     <script src="{{ site.baseurl }}/js/{{ script }}"></script>
   {% endfor %}

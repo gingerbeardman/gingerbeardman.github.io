@@ -13,7 +13,7 @@ comments:
 
 One of the most successful console games of 2016 has been [Rocket League](http://www.rocketleaguegame.com/). It features cars playing football (soccer) rather than people. Cool!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r4iT0yZEwk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube r4iT0yZEwk8 %}
 
 Some would say it’s both a surprise hit, apparently coming out of nowhere, and also a novel concept. A while go I was chatting with [Simon Hade](http://www.spaceapegames.com/about/board-of-directors/), COO and Co-Founder of [Space Ape Games](http://www.spaceapegames.com/), who made exactly these observations. At this point the game librarian in me couldn’t help but correct him, so I mentioned that it wasn’t novel at all. 😱
 

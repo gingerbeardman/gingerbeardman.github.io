@@ -15,7 +15,7 @@ _From time to time I’ll be posting critique of video games in this way. It’s
 
 Recently I’ve been playing a fair bit of [Hill Racer 2](https://itunes.apple.com/gb/app/hill-racer-2-extreme-speed/id946433365?mt=8) on my Apple TV. It’s kind of like [Tiny Wings](https://itunes.apple.com/gb/app/tiny-wings/id417817520?mt=8), but with cars. Right up my street! Check it out:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3fPDJZz3whY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube 3fPDJZz3whY %}
 
 It’s quite well done, but there are a few small details that the developers could look at to easily improve both user experience and engagement.
 

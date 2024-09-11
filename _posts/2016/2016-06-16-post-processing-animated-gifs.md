@@ -111,4 +111,4 @@ ffmpeg -i trimmed.gif -movflags faststart -pix_fmt yuv420p video.mp4
 
 video uploaded to YouTube:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ydeg4bNHn08?si=zFse83rbU0ePdzJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% youtube Ydeg4bNHn08 740x740 %}

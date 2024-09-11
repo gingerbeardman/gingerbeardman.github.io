@@ -13,7 +13,7 @@ comments:
 
 [Frantic Architect](https://itunes.apple.com/gb/app/frantic-architect/id1062825120?mt=8) for iOS and Android is a great casual game by [Will Kwan/BulkyPix](https://bulkypix.com/games/frantic-architect/) in which you have to build as tall a tower as possible, with the kicker being that you have limited control of where exactly the next building block will go. A video will help explain better:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hkLiQ17KNRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube hkLiQ17KNRE %}
 
 The game has a high degree of polish and the user interface design and screen layout is excellent. However, play of more than a few minutes will lead to frustration, which is something that really needs to be managed by the developer. Too much frustration and the player will go away and never open the game again.
 
