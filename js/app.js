@@ -14,8 +14,7 @@ $(document).ready(function() {
   // Off Canvas menu
   // =================
 
-  let menuVisible = false;
-  $('.js-off-canvas-toggle').click(function(e) {
+  function doMenu(e) {
     e.preventDefault();
     $('.js-off-canvas-toggle').toggleClass('is-active');
     $('.js-off-canvas-container').toggleClass('is-active');
@@ -25,8 +24,14 @@ $(document).ready(function() {
           menuVisible = b;
       },400,true);
     } else {
+      $('#query').blur();
       menuVisible = false;
     }
+  }
+
+  let menuVisible = false;
+  $('.js-off-canvas-toggle').click(function(e) {
+    doMenu(e);
   });
   
   // body click to hide menu, excluding sidebar
@@ -60,4 +65,21 @@ $(document).ready(function() {
       $(this).after('<figcaption class="caption">' + caption + '</figcaption>');
   });
 
+  // =================
+  // Focus search
+  // =================
+
+  document.addEventListener('keydown', function(e) {
+      // Check if the pressed key is 'F' or 'f'
+      if (e.key === 'f' || e.key === 'F') {
+          // Scroll to the top of the page
+          window.scrollTo({
+              top: 0,
+              behavior: 'smooth'
+          });
+          
+          // Open menu
+          doMenu(e);
+      }
+  });
 });
