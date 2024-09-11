@@ -29,7 +29,14 @@ My personal favourites from the year (most recent first):
 - [List of vintage Japanese pixel/dot art software](/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/) the one where I list 200 old apps
 
 ## Blog changelog
+- Optimise SASS compile once in plugin rather than header of every page (23 Feb)
+- Multi-carousel support (14 Jul)
 - Rewrote the main page of the main website (3 Aug)
+- Optimised all includes and templates to reduce build time (19 Aug)
+- Automatic transformation of local images urls to CDN urls (19 Aug)
+- Automatic smart quotes in post titles (19 Aug)
+- Improved "noun" replacement, automatically-emphasised words (3 Sep)
+- Better YouTube embeds using lite-yt-embed (11 Sep)
 
 ## Previous years
 - [My most popular posts of 2023](/2022/12/27/my-most-popular-posts-of-the-year/)
