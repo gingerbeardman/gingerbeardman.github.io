@@ -9,6 +9,5 @@ layout: null
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="48" height="48" type="image/x-icon">{{ site.url }}/favicon.ico</Image>
   <Url type="text/html" template="{{ site.url }}/search/?q={searchTerms}"/>
-  <Url type="application/x-suggestions+json" method="get" template="{{ site.url }}/search.json?q={searchTerms}"/>
   <Url type="application/opensearchdescription+xml" rel="self" template="{{ site.url }}/search.xml" />
 </OpenSearchDescription>
