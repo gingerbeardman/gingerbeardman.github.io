@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{% opensearch_suggestions {{request.query.q}} %}
