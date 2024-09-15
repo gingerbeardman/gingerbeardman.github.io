@@ -58,6 +58,7 @@ plugins:
 
 include:
   - _pages
+  - search.json
 
 exclude:
   - vendor
