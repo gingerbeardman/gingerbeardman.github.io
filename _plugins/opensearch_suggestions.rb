@@ -1,5 +1,6 @@
 require 'nokogiri'
 require 'json'
+require 'open-uri'
 
 module Jekyll
   class OpenSearchSuggestions < Liquid::Tag
@@ -10,16 +11,18 @@ module Jekyll
 
     def render(context)
       site = context.registers[:site]
-      sitemap_path = File.join(site.source, 'sitemap.xml')
+      
+      # Use the site's URL from _config.yml
+      site_url = site.config['url']
+      sitemap_url = "#{site_url}/sitemap.xml"
       
       debug_info = {
         search_term: @search_term,
-        sitemap_path: sitemap_path,
-        sitemap_exists: File.exist?(sitemap_path)
+        sitemap_url: sitemap_url
       }
       
-      if File.exist?(sitemap_path)
-        sitemap = File.read(sitemap_path)
+      begin
+        sitemap = URI.open(sitemap_url).read
         doc = Nokogiri::XML(sitemap)
         
         urls = doc.xpath('//xmlns:url/xmlns:loc').map(&:text)
@@ -35,8 +38,10 @@ module Jekyll
         
         result = [@search_term, suggestions.map(&:first), suggestions.map(&:last), debug_info]
         result.to_json
-      else
-        { error: "Sitemap not found", debug_info: debug_info }.to_json
+      rescue OpenURI::HTTPError => e
+        { error: "Failed to fetch sitemap: #{e.message}", debug_info: debug_info }.to_json
+      rescue StandardError => e
+        { error: "An error occurred: #{e.message}", debug_info: debug_info }.to_json
       end
     end
   end
