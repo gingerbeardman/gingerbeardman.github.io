@@ -70,8 +70,8 @@ $(document).ready(function() {
   // =================
 
   document.addEventListener('keydown', function(e) {
-      // Check if the pressed key is 'F' or 'f'
-      if (e.key === 'f' || e.key === 'F') {
+      // Check if the pressed key is 's' or 'S'
+      if (e.key === 's' || e.key === 'S') {
           // Scroll to the top of the page
           window.scrollTo({
               top: 0,

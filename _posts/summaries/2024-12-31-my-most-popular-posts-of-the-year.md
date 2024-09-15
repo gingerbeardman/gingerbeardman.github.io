@@ -37,6 +37,7 @@ My personal favourites from the year (most recent first):
 - Automatic smart quotes in post titles (19 Aug)
 - Improved "noun" replacement, automatically-emphasised words (3 Sep)
 - Better YouTube embeds using lite-yt-embed (11 Sep)
+- Added OpenSearch to allow searching blog from address bar (15 Sep)
 
 ## Previous years
 - [My most popular posts of 2023](/2022/12/27/my-most-popular-posts-of-the-year/)
