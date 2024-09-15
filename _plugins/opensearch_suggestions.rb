@@ -3,48 +3,53 @@ require 'json'
 require 'open-uri'
 
 module Jekyll
-  class OpenSearchSuggestions < Liquid::Tag
-    def initialize(tag_name, text, tokens)
-      super
-      @search_term = text.strip
-    end
+  class OpenSearchSuggestionsGenerator < Generator
+    safe true
+    priority :low
 
-    def render(context)
-      site = context.registers[:site]
-      
-      # Use the site's URL from _config.yml
-      site_url = site.config['url']
-      sitemap_url = "#{site_url}/sitemap.xml"
-      
-      debug_info = {
-        search_term: @search_term,
-        sitemap_url: sitemap_url
-      }
+    def generate(site)
+      sitemap_url = "#{site.config['url']}/sitemap.xml"
       
       begin
         sitemap = URI.open(sitemap_url).read
         doc = Nokogiri::XML(sitemap)
         
         urls = doc.xpath('//xmlns:url/xmlns:loc').map(&:text)
-        debug_info[:total_urls] = urls.length
         
-        matches = urls.select { |url| url.downcase.include?(@search_term.downcase) }
-        debug_info[:matches] = matches
-        
-        suggestions = matches.map do |url|
+        suggestions = urls.map do |url|
           title = url.split('/').last.gsub('-', ' ').capitalize
           [title, url]
         end
-        
-        result = [@search_term, suggestions.map(&:first), suggestions.map(&:last), debug_info]
-        result.to_json
+
+        site.pages << OpenSearchSuggestionsPage.new(site, site.source, "", "opensearch.json", suggestions)
       rescue OpenURI::HTTPError => e
-        { error: "Failed to fetch sitemap: #{e.message}", debug_info: debug_info }.to_json
+        Jekyll.logger.error "OpenSearchSuggestionsGenerator:", "Failed to fetch sitemap: #{e.message}"
       rescue StandardError => e
-        { error: "An error occurred: #{e.message}", debug_info: debug_info }.to_json
+        Jekyll.logger.error "OpenSearchSuggestionsGenerator:", "An error occurred: #{e.message}"
       end
     end
   end
-end
 
-Liquid::Template.register_tag('opensearch_suggestions', Jekyll::OpenSearchSuggestions)
+  class OpenSearchSuggestionsPage < Page
+    def initialize(site, base, dir, name, suggestions)
+      @site = site
+      @base = base
+      @dir  = dir
+      @name = name
+
+      self.process(name)
+      self.data = {}
+
+      self.content = <<-EOS
+function getOpenSearchSuggestions(query) {
+  query = query.toLowerCase();
+  var suggestions = #{suggestions.to_json};
+  var matches = suggestions.filter(function(item) {
+    return item[0].toLowerCase().includes(query) || item[1].toLowerCase().includes(query);
+  });
+  return [query, matches.map(function(item) { return item[0]; }), matches.map(function(item) { return item[1]; })];
+}
+EOS
+    end
+  end
+end
