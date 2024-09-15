@@ -5,6 +5,7 @@
 
   <title>{% if include.ptag %}#{{ include.ptag | append: ' ' }}{% endif %}{% if include.ptitle %}{{ include.ptitle | append: ' ' }}{{ include.sextitle | prepend: ' ' }}{% else %}{{ include.stitle }}{% endif %}</title>
   <meta name='description' content="{% if include.pexcerpt %}{{ include.pexcerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ include.sdescription }}{% endif %}">
+  <link rel="search" type="application/opensearchdescription+xml" href="/search.xml" title="{{ include.stitle }}">
   <link rel='canonical' href="{{ include.purl | replace:'index.html','' | prepend: include.sbaseurl | prepend: include.surl }}">
   <link rel='alternate' type='application/rss+xml' title='{{ include.stitle }}' href="{{ '/feed.xml' | prepend: include.sbaseurl | prepend: include.surl }}">
   <link rel="stylesheet" href="{{ '/js/tablesorter.theme.default.min.css' | prepend: include.sbaseurl }}">
