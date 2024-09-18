@@ -56,9 +56,3 @@ The seven segment font was generated using the [tophat](https://kaasiand.cool/to
 Easy Mode slows down the game by 20% (40fps down from 50fps) which makes things a lot easier as you have 25% more time to react (25ms compared to 20ms) and also gives an additional hint regarding the bar size. This mode also has an "easy" banner displayed on the screen to make sure people know which mode you're playing.
 
 Hi score and settings are saved and loaded at various points.
-
-## Download
-
-Bender for Playdate is [available now on itch.io](https://gingerbeardman.itch.io/bender-for-playdate).
-
-Have fun!
