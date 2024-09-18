@@ -14,6 +14,7 @@ nouns:
 - Independence Day
 - Moai-chan-dise
 - Moai
+- "1000"
 image: /images/posts/moai-games-heather-serious.png
 featured: true
 pinned: false
