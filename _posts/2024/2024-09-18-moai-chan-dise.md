@@ -15,7 +15,7 @@ nouns:
 - Moai-chan-dise
 - Moai
 - "1000"
-image: /images/posts/moai-games-heather-serious.png
+image: /images/posts/moai-games-relaxing-sticker.png
 featured: true
 pinned: false
 carousels:
