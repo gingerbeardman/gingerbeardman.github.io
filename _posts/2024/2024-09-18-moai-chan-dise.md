@@ -10,7 +10,7 @@ tags:
 - tshirt
 nouns:
 - Chile
-- National Day
+- Fiestas Patrias
 - Independence Day
 - Moai-chan-dise
 - Moai
