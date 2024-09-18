@@ -6,8 +6,8 @@ tags:
 - moai
 - chile
 - games
-- tshirts
 - design
+- tshirt
 nouns:
 - Chile
 - National Day

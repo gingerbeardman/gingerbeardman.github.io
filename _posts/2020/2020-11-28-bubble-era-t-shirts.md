@@ -4,7 +4,8 @@ title: 'My "Bubble Era" T-shirt Store'
 tags:
 - logos
 - japanese
-- tshirts
+- tshirt
+- design
 - patreon
 - magazine
 nouns:
