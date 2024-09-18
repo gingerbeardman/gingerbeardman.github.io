@@ -12,6 +12,7 @@ nouns:
 - Chile
 - National Day
 - Independence Day
+- Moai-chan-dise
 - Moai
 image: /images/posts/moai-games-heather-serious.png
 featured: true
@@ -32,13 +33,15 @@ Let's celebrate!
 - we just hit 1000 games at [my database of moai in video games](https://moai.games) 🗿
 - today is Fiestas Patrias (Independence Day) in Chile 🇨🇱
 
-So here's some "Moai-chan-dise":
+So here's some "Moai-chan-dise" ✨
 - t-shirts and stickers in both silly and serious styles
 - special "relaxing" sticker by [@Vxcl](https://www.instagram.com/vxclhd/)
 
 ----
 
 ## T-shirts
+
+Various sizes and colours.
 
 - [gingerbeardman.creator-spring.com/listing/moai-serious-tee](https://gingerbeardman.creator-spring.com/listing/moai-serious-tee)
 - [gingerbeardman.creator-spring.com/listing/moai-silly-tee](https://gingerbeardman.creator-spring.com/listing/moai-silly-tee)
@@ -49,6 +52,8 @@ So here's some "Moai-chan-dise":
 
 ## Stickers
 
+3-inch longest side, on clear vinyl.
+
 - [gingerbeardman.creator-spring.com/listing/moai-serious-sticker](https://gingerbeardman.creator-spring.com/listing/moai-serious-sticker)
 - [gingerbeardman.creator-spring.com/listing/moai-silly-sticker](https://gingerbeardman.creator-spring.com/listing/moai-silly-sticker)
 
@@ -57,6 +62,8 @@ So here's some "Moai-chan-dise":
 ----
 
 ## Special Edition Sticker
+
+3-inch longest side, on clear vinyl.
 
 - [gingerbeardman.creator-spring.com/listing/moai-relaxing-sticker](https://gingerbeardman.creator-spring.com/listing/moai-relaxing-sticker)
 
