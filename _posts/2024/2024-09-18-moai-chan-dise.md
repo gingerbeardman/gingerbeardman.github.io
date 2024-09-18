@@ -23,8 +23,7 @@ carousels:
   - images:
     - image: https://cdn.gingerbeardman.com/images/posts/moai-games-sticker-serious.png
     - image: https://cdn.gingerbeardman.com/images/posts/moai-games-sticker-silly.png
-comments: https://twitter.com/gingerbeardman/status/
-style: |
+comments: https://twitter.com/gingerbeardman/status/1836485066630766594
 
 ---
 
@@ -41,16 +40,24 @@ So here's some "Moai-chan-dise":
 
 ## T-shirts
 
+- [gingerbeardman.creator-spring.com/listing/moai-serious-tee](https://gingerbeardman.creator-spring.com/listing/moai-serious-tee)
+- [gingerbeardman.creator-spring.com/listing/moai-silly-tee](https://gingerbeardman.creator-spring.com/listing/moai-silly-tee)
+
 {% include carousel_multi.html height="100" unit="%" duration="7" number="1" %}
 
 ----
 
 ## Stickers
 
+- [gingerbeardman.creator-spring.com/listing/moai-serious-sticker](https://gingerbeardman.creator-spring.com/listing/moai-serious-sticker)
+- [gingerbeardman.creator-spring.com/listing/moai-silly-sticker](https://gingerbeardman.creator-spring.com/listing/moai-silly-sticker)
+
 {% include carousel_multi.html height="100" unit="%" duration="7" number="2" %}
 
 ----
 
 ## Special Edition Sticker
+
+- [gingerbeardman.creator-spring.com/listing/moai-relaxing-sticker](https://gingerbeardman.creator-spring.com/listing/moai-relaxing-sticker)
 
 ![PNG](/images/posts/moai-games-sticker-relaxing.png)
