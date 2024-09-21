@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early computer art by Barbara Nessim (1984)"
-last_modified_at: '2023-11-14T17:09+00:00'
+last_modified_at: '2024-09-21T23:29+01:00'
 date: '2023-11-09T01:25+00:00'
 tags:
 - graphics
@@ -29,7 +29,7 @@ comments: https://twitter.com/gingerbeardman/status/1721899788831195635
 
 ---
 
-Whilst searching for something else entirely I stumbled across these images and was struck by just how beautiful they are. The artwork is by [Barbara Nessim](https://en.wikipedia.org/wiki/Barbara_Nessim) and was featured as the cover and section pages in the [September 1984 (Vol 9, No 10) issue of BYTE magazine](https://archive.org/details/BYTE_Vol_09-10_1984-09_Computer_Graphics/mode/2up). Larger versions are [at the bottom](#scans) of this blog post.
+Whilst searching for something else entirely I stumbled across these images and was struck by just how beautiful they are. The [September 1984 (Vol 9, No 10) issue of BYTE magazine](https://archive.org/details/BYTE_Vol_09-10_1984-09_Computer_Graphics/mode/2up) features cover artwork by [Barbara Nessim](https://en.wikipedia.org/wiki/Barbara_Nessim) and section pages by Liz Gutowski under direction of Barbara Nessim. Larger versions are [at the bottom](#scans) of this blog post.
 
 [![PNG](/images/posts/barbara-nessim-byte-1984-09-image-thumbnails.png)](#scans)
 

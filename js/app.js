@@ -71,7 +71,7 @@ $(document).ready(function() {
 
   document.addEventListener('keydown', function(e) {
       // Check if the pressed key is 's' or 'S'
-      if (e.key === 's' || e.key === 'S') {
+      if ((e.key === 's' || e.key === 'S') && (e.metaKey || e.ctrlKey)) {
           // Scroll to the top of the page
           window.scrollTo({
               top: 0,
