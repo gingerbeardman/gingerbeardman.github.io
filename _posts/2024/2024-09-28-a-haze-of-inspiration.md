@@ -96,7 +96,7 @@ Rejections are always hard to take, but I'm a firm believer that with time, and 
 
 ## Ethical considerations
 
-So, about that moral compass I keep mentioning. Ideas are more than a feeling, especially when executed and turned into something tangible that can be seen, heard, played. They turn from intangible to tangible, and this process is guided by your moral compass.
+So, about that moral compass I keep mentioning. Ideas are more than a feeling, especially when executed and turned into something that can be seen, heard, played. They turn from intangible to tangible, and this process is guided by your moral compass.
 
 When it comes to that "haze of inspiration", intellectual integrity is the needle on your moral compass. It helps you navigate through the fog without stepping on anyone's toes. It's about asking yourself not whether you could use an idea, but whether you should. It's about being upfront about what inspired you, maybe asking for a thumbs-up if you're borrowing heavily from someone else's work, and generally just being a decent human in the creative playground. By sticking to these principles, you're not just keeping your own nose clean. You're helping to create an environment where ideas can bounce around freely, where people aren't afraid to share their cool thoughts, and where everyone gets their due credit. It's like keeping the idea ecosystem healthy, you know?
 
