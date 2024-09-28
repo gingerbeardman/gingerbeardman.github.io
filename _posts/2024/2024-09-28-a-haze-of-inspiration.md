@@ -53,7 +53,7 @@ Just as a haze obscures clear vision, the creative process can blur the lines be
 
 ## Navigating the haze
 
-I often pause and examine my own creative process. This serves a number of purposes: it helps me notice opportunities for improvement that might otherwise be missed along the way. If my head is down, I might not notice that I can save time by refining my workflow, or gain new understanding from looking at a problem from a different angle or through a different lens.
+I often pause and examine my own creative process. This serves a number of purposes: it helps me notice opportunities for improvement that might otherwise be missed along the way. If my head is down, I might not notice that I can save time by refining my workflow, or gain new understanding by looking at a problem from a different angle or through a different lens.
 
 Tracking or keeping a record of things you find inspiring is very useful. Some might use Pinterest, bookmark managers, scrap books, print outs, notebooks, folders of saved files. Whatever works for you, really.
 
