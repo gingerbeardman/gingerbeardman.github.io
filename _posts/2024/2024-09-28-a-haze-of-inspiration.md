@@ -33,7 +33,7 @@ nouns:
 image: /images/posts/haze-of-inspiration.webp
 featured: false
 pinned: false
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1840086366215975009
 
 ---
 
@@ -86,7 +86,7 @@ So how do you figure out how best to attribute? By reaching out and having a con
 
 I've never gone so far as to write a formal letter or anything like that, I've been more casual about it. I've written to game developers whose games I wanted to port. Having something for them to see is always good—a prototype—and explaining the expectations and reach of the agreement will make everybody feel comfortable. There will surely be some anxiety and reticence around the idea of an idea being used by somebody else. In my experience I try to frame it in as positive a way as possible. Answer the questions they might have before they have a chance to even think them. 
 
-Timing is always key. I always make such an approach as soon as possible. With my game [Fore! Track](https://blog.gingerbeardman.com/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/), I contacted the developer whose game I was inspired by as soon as I had a prototype up and running. At that point, if they'd have objected to the idea I wouldn't have lost much time. If I'd have contacted them with a finished game, it might not have made much difference to their decision making process, but I would have had more invested in it and more to lose. Contacting somebody with only an idea for me feels like the wrong way to go about it, as [ideas are relatively easy and execution is everything](https://sive.rs/multiply).
+Timing is always key. I always make such an approach as soon as possible. With my game [Fore! Track](/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/), I contacted the developer whose game I was inspired by as soon as I had a prototype up and running. At that point, if they'd have objected to the idea I wouldn't have lost much time. If I'd have contacted them with a finished game, it might not have made much difference to their decision making process, but I would have had more invested in it and more to lose. Contacting somebody with only an idea for me feels like the wrong way to go about it, as [ideas are relatively easy and execution is everything](https://sive.rs/multiply).
 
 With such discussions it's important to have open conversations, which will can lead to mutual understanding and respect. Leave your ego at the door and bring truthfulness, compassion, open-mindedness and you will be rewarded. Misunderstandings will inevitably happen through the course of the conversation, but by being open both parties can rest assured that there will only be movement towards resolution rather than escalation.
 
@@ -108,7 +108,7 @@ All ideas build on previous work. I subscribe to the idea that everything is a r
 
 Growing is hard and with it come a lot of pains. Road blocks, wrong turns, bad luck, but hopefully it will trend towards progress.
 
-One key aspect of growth is synthesis. Plants turn light energy into chemical energy through photosynthesis. The output is vastly different to the input. I think this is a useful lens through which to look at techniques for turning influences into something truly novel. You can look at the The Great Wave and print your own version of it if the goal is to imitate it as closely as possible (as [David Bull](https://www.youtube.com/playlist?list=PLK-Wicsj5rAasS2g7e-Z9eFUdG6I7ZqED) has done), or you might choose draw it instead and replace the crests of the wave with bunny rabbits (as [kozyndan](https://shop.kozyndan.com/products/uprisings-poster) did), or you might sculpt it from (digital) clay and add some mahjong tiles to it (like [vxcl did for my game Sparrow Solitaire](/2023/04/13/sparrow-solitaire-for-playdate/)).
+One key aspect of growth is synthesis. Plants turn light energy into chemical energy through photosynthesis. The output is vastly different to the input. I think this is a useful lens through which to look at techniques for turning influences into something truly novel. You can look at the [The Great Wave](/2023/04/10/where-can-i-see-hokusai-great-wave-today/) and print your own version of it if the goal is to imitate it as closely as possible (as [David Bull](https://www.youtube.com/playlist?list=PLK-Wicsj5rAasS2g7e-Z9eFUdG6I7ZqED) has done), or you might choose draw it instead and replace the crests of the wave with bunny rabbits (as [kozyndan](https://shop.kozyndan.com/products/uprisings-poster) did), or you might sculpt it from (digital) clay and add some mahjong tiles to it (like [vxcl did for my game Sparrow Solitaire](/2023/04/13/sparrow-solitaire-for-playdate/)).
 
 I like to think of this synthesis as a road—you can turn off at any point but the further you go the more wonderful the sights will be. I'd like to make a short detour to mention constrains and how they can foster creativity. Whilst the road might be long, it's not sprawling but a single direction. Navigating a complex road system would be much more difficult, so I encourage you to give yourself constraints if there don't seem to be enough or if the way forward isn't clear.
 
