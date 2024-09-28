@@ -57,7 +57,7 @@ I often pause and examine my own creative process. This serves a number of purpo
 
 Tracking or keeping a record of things you find inspiring is very useful. Some might use Pinterest, bookmark managers, scrap books, print outs, notebooks, folders of saved files. Whatever works for you, really.
 
-At this point I feel it's worth mentioning the challenge of distinguishing between inspiration and imitation. We can all be inspired by something, but what how you choose to act on the inspiration can be a challenge. How much you take away from the inspiration might mean you cross the line into imitation. The difference between the two is open to interpretation, and legally it's a very grey area, so it requires understanding of our own moral compass. More on that later. But for me the difference can be summarised by how comfortable I am in the knowledge that I put enough of myself into the idea, then I'm inspired. If I don't put enough of myself into the idea, then I would call it imitation.
+At this point I feel it's worth mentioning the challenge of distinguishing between inspiration and imitation. We can all be inspired by something, but how we choose to act on the inspiration can be a challenge. How much you take away from the inspiration might mean you cross the line into imitation. The difference between the two is open to interpretation, and legally it's a very grey area, so it requires understanding of our own moral compass. More on that later. But for me the difference can be summarised by how comfortable I am in the knowledge that I put enough of myself into the idea, then I'm inspired. If I don't put enough of myself into the idea, then I would call it imitation.
 
 ## Original thinking
 
