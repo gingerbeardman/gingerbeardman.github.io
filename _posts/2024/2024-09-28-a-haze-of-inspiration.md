@@ -106,7 +106,7 @@ All ideas build on previous work. I subscribe to the idea that everything is a r
 
 ## Personal growth
 
-Growing is hard and with it come a lot of pains. Road blocks, wrong turns, bad luck, but hopefully it will trending towards forward progress.
+Growing is hard and with it come a lot of pains. Road blocks, wrong turns, bad luck, but hopefully the general trending will be forwards towards progress.
 
 One key aspect of growth is synthesis. Plants turn light energy into chemical energy through photosynthesis. The output is vastly different to the input. I think this is a useful lens through which to look at techniques for turning influences into something truly novel. You can look at the The Great Wave and print your own version of it if the goal is to imitate it as closely as possible (as [David Bull](https://www.youtube.com/playlist?list=PLK-Wicsj5rAasS2g7e-Z9eFUdG6I7ZqED) has done), or you might choose draw it instead and replace the crests of the wave with bunny rabbits (as [kozyndan](https://shop.kozyndan.com/products/uprisings-poster) did), or you might sculpt it from (digital) clay and add some mahjong tiles to it (like [vxcl did for my game Sparrow Solitaire](/2023/04/13/sparrow-solitaire-for-playdate/)).
 
