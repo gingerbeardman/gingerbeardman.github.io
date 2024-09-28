@@ -2,7 +2,6 @@
 layout: post
 title: "A haze of inspiration"
 date: '2024-09-28T18:46+01:00'
-last_modified_at: '2024-09-28T20:44+01:00'
 tags:
 - design
 - gamedev
@@ -31,6 +30,7 @@ nouns:
 - Antoine de Saint-Exupéry
 - John Chris Jones
 - vivarado
+- BT
 image: /images/posts/haze-of-inspiration.webp
 featured: false
 pinned: false
@@ -112,6 +112,8 @@ Growing is hard and with it come a lot of pains. Road blocks, wrong turns, bad l
 One key aspect of growth is synthesis. Plants turn light energy into chemical energy through photosynthesis. The output is vastly different to the input. I think this is a useful lens through which to look at techniques for turning influences into something truly novel. You can look at the [The Great Wave](/2023/04/10/where-can-i-see-hokusai-great-wave-today/) and print your own version of it if the goal is to imitate it as closely as possible (as [David Bull](https://www.youtube.com/playlist?list=PLK-Wicsj5rAasS2g7e-Z9eFUdG6I7ZqED) has done), or you might choose to draw it instead and replace the crests of the wave with bunny rabbits (as [kozyndan](https://shop.kozyndan.com/products/uprisings-poster) did), or you might sculpt it from digital clay and add some mahjong tiles to it (like [vxcl did for my game Sparrow Solitaire](/2023/04/13/sparrow-solitaire-for-playdate/)).
 
 I like to think of this synthesis as a road—you can turn off at any point but the further you go the more wonderful the sights will be. I'd like to make a short detour to mention constraints and how they can foster creativity. Whilst the road might be long, it's not sprawling but a single direction. Navigating a complex road system would be much more difficult, so I encourage you to impose additional constraints if there don't seem to be enough, or if the way forward isn't clear.
+
+Any period of not creating that you end up in is just as important as a period of intense creativity that you might rather be in. My favourite quote about this (by BT, the musician; I’m paraphrasing) is that creativity comes in waves, sometimes you’re in the doldrums and not much is happening but there is no doubt that the next wave will arrive at some point, so all you just have to be ready to jump on and ride it!
 
 It's a fine balance between being influenced and being derivative. Sadly your moral compass is not fitted with a warning alarm of any sort, so you'll have to rely on you heart, head, and those of others to give you guidance here. Having respect for others' ideas can be considered a constraint in and of itself and can actually push you to be more innovative. Being derivative is a trap to be avoided, not only would you not gain as much personally from the endeavour but you might also inadvertently dilute the idea, brand, vibe of the originator. You should instead consider the person who has inspired you as a mentor, supporter, team mate, power-up, voice of reason, or even shoulder to cry on. The important take-away is that they are there to help because, hey, they were there first.
 
