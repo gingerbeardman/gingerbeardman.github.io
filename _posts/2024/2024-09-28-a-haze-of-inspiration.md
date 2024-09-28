@@ -116,7 +116,7 @@ It's a fine balance between being influenced and being derivative. Sadly your mo
 
 ## Embracing the future
 
-With enough searching, or metaphorical travelling, you'll be able to find your own voice, style, brand, or "vibe" as I prefer to call it. I'm a bit of a hippie at heart. The ultimate goal is to find that rug that really ties the room together. Then cherish it, feed it, sculpt it, even defend it if the need arises. You'll have the ideas, make a [dent in the universe](https://allaboutstevejobs.com/verbatim/interviews/playboy_1985), and have vibe that other people will be influenced by, and hopefully they will take the right path and be inspired by it rather than choose to imitate it. Perhaps that's the ultimate goal? It's your turn to set a good example for those that come after you.
+With enough searching, or metaphorical travelling, you'll be able to find your own voice, style, brand, or "vibe" as I prefer to call it. I'm a bit of a hippie at heart. The ultimate goal is to find that rug that really ties the room together. Then cherish it, feed it, sculpt it, even defend it if the need arises. You'll have the ideas, make a [dent in the universe](https://allaboutstevejobs.com/verbatim/interviews/playboy_1985), and develop a vibe that other people will be influenced by, and hopefully they will take the right path and be inspired by it rather than choose to imitate it. Perhaps that's the ultimate goal? It's your turn to set a good example for those that come after you.
 
 ----
 
