@@ -157,4 +157,4 @@ With enough searching, or metaphorical travelling, you'll be able to find your o
 ----
 
 Thanks to vivarado for feedback on this piece ahead of publication.<br>
-And thanks to Nick, Charlie, Jan and Neil for feedback that led to post-publication revisions.
+And to Nick, Charlie, Jan and Neil for feedback that led to later revisions.
