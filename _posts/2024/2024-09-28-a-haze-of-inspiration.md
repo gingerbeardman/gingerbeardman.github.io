@@ -12,7 +12,7 @@ tags:
 - critique
 - recommendations
 nouns:
-- A long, long time ago in a galaxy far away
+- A long time ago in a galaxy far, far away
 - Karl Wallinger
 - World Party
 - John Lennon
