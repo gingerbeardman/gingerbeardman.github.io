@@ -31,7 +31,6 @@ nouns:
 - Antoine de Saint-Exupéry
 - John Chris Jones
 - Jonathan Lethem
-- vivarado
 - BT
 - Nick Cave
 - Jim Jarmusch
@@ -43,6 +42,11 @@ nouns:
 - David Bull
 - kozyndan
 - vxcl
+- vivarado
+- Nick
+- Charlie
+- Jan
+- Neil
 image: /images/posts/haze-of-inspiration.webp
 featured: false
 pinned: false
