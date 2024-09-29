@@ -2,6 +2,7 @@
 layout: post
 title: "A haze of inspiration"
 date: '2024-09-28T18:46+01:00'
+last_modified_at: '2024-09-29T14:04+01:00'
 tags:
 - design
 - gamedev
@@ -31,6 +32,16 @@ nouns:
 - John Chris Jones
 - vivarado
 - BT
+- Nick Cave
+- Jim Jarmusch
+- Steve Jobs
+- YOYOZORA
+- YOYOZO
+- Fore! Track
+- Sparrow Solitaire
+- David Bull
+- kozyndan
+- vxcl
 image: /images/posts/haze-of-inspiration.webp
 featured: false
 pinned: false
@@ -71,9 +82,9 @@ My own method is to recede into the haze itself, into darkness. The simple act o
 
 For me, outside of the actual act of creation, this is most fun part of the creative endeavour. The world is literally your oyster. Given that 99% of stuff happened in the past, I prefer to consult historic sources. Old magazines, books, interviews, and of course the video games and music I grew up with are now old enough to qualify. Ha! The most important thing here is to look outside your field of view. It's easy to be inspired by the things right in front of you, but more difficult—and more rewarding—to be inspired by things further afield. Reach deeper, go further, get outside your comfort zone, take the road less travelled.
 
-Once inspired, or locked on to an idea, it's important to do some due diligence to check that it's unique, or not protected by any laws or copyright, or even just to check that a name is free enough to be used. Domain names can be taken, hashtags can be already used. My funniest example is when I was originally calling my hit game [YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/) by another name: YOYOZORA, which is a combination of the words YOYO (the toy) and YOZORA (the Japanese word for night sky). I quickly changed plans when a hashtag search revealed somebody posting photos of their private parts.
+Once inspired, or locked on to an idea, it's important to do some due diligence to check that it's unique, or not protected by any laws or copyright, or even just to check that a name is free enough to be used. Domain names can be taken, hashtags can be already used. My funniest example is when I was originally calling my hit game [YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/) by another name: YOYOZORA, which is a combination of the words YOYO (the toy) and YOZORA (the Japanese word for night sky). I quickly changed plans when a hashtag search revealed somebody posting dick pics.
 
-It's worth noting that some creators intentionally avoid external influences during their creative process, believing this leads to more original work. Nick Cave, for instance, avoids listening to music while writing to prevent unconscious imitation. Filmmaker Jim Jarmusch tries not to watch other films while working on a project to maintain his unique vision. Even in tech, Steve Jobs was known for his "not invented here" syndrome, often preferring to develop ideas from scratch. This approach isn't about ignoring the world entirely, but about creating a space where your own ideas can flourish without immediate external influence. It's a delicate balance – you want to be informed, but not overly swayed by what's already out there.
+It's worth noting that some creators intentionally avoid external influences during their creative process, believing this leads to more original work. Nick Cave, for instance, [avoids listening to music while writing](https://the-talks.com/interview/nick-cave/) to prevent unconscious imitation. Filmmaker Jim Jarmusch tries not to watch other films, or [even the scenes he has already shot](https://cinemontage.org/stranger-than-paradox-jim-jarmusch/), while working on a project to maintain his unique vision. Even in tech, Steve Jobs was known for his "[not invented here](http://www.stephengobeli.com/analysis/not-invented-here/)" syndrome, often preferring to develop ideas from scratch. This approach isn't about ignoring the world entirely, but about creating a space where your own ideas can flourish without immediate external influence. It's a delicate balance – you want to be informed, but not overly swayed by what's already out there.
 
 ## Attribution
 
@@ -143,4 +154,5 @@ With enough searching, or metaphorical travelling, you'll be able to find your o
 
 ----
 
-Thanks to vivarado for feedback on this piece ahead of publication.
+Thanks to vivarado for feedback on this piece ahead of publication.<br>
+And thanks to Nick, Jan and Neil for feedback that led to post-publication revisions.
