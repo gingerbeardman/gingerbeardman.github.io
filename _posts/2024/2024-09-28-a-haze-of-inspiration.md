@@ -30,6 +30,7 @@ nouns:
 - Austin Kleon
 - Antoine de Saint-Exupéry
 - John Chris Jones
+- Jonathan Lethem
 - vivarado
 - BT
 - Nick Cave
