@@ -60,7 +60,7 @@ A long, long time ago in a galaxy far away I had to give an impromptu presentati
 
 ## From whence it came
 
-Just as a haze obscures clear vision, the creative process can blur the lines between our own ideas and those we've encountered. We can be inspired by everything around us, in an unconscious way. I'd venture to say that this is the most common form of inspiration, you're just existing and soaking up as much as you can. As a result, we share a lot of common experiences and so this sort of natural inspiration can lead to the Zeitgeist, with similar ideas emerging simultaneously in different places. A sort of opposite to this is the concept of incremental innovation, where small changes happen to existing ideas that are occasionally enough for it to feel new. And then there are the types of new ideas that can't be easily found elsewhere, that are provably innovative and totally new. By definition the haze of inspiration is a very grey space, difficult to navigate, and open to interpretation. There's no absolute right or wrong, unless you are in a position to flex legal muscles. Below is my own interpretation of how I see things, it's expected that you won't agree with all of it.
+Just as a haze obscures clear vision, the creative process can blur the lines between our own ideas and those we've encountered. We can be inspired by everything around us, in an unconscious way. I'd venture to say that this is the most common form of inspiration, you're just existing and soaking up as much as you can. In some ways it is automatic and unavoidable. As a result, we share a lot of common experiences and so this sort of natural inspiration can lead to the Zeitgeist, with similar ideas emerging simultaneously in different places. A sort of opposite to this is the concept of incremental innovation, where small changes happen to existing ideas that are occasionally enough for it to feel new. And then there are the types of new ideas that can't be easily found elsewhere, that are provably innovative and totally new. By definition the haze of inspiration is a very grey space, difficult to navigate, and open to interpretation. There's no absolute right or wrong, unless you are in a position to flex legal muscles. Below is my own interpretation of how I see things, it's expected that you won't agree with all of it.
 
 ## Navigating the haze
 
@@ -146,6 +146,7 @@ With enough searching, or metaphorical travelling, you'll be able to find your o
 
 - [The Creative Act: A Way of Being](https://www.goodreads.com/book/show/60965426-the-creative-act) (Rick Rubin, 2023)
 - [Steal Like An Artist](https://www.goodreads.com/book/show/13099738-steal-like-an-artist) (Austin Kleon, 2021)
+- [The Ecstasy of Influence](https://www.goodreads.com/book/show/10770576-the-ecstasy-of-influence) (Jonathan Lethem, 2011)
 - [Think Like Da Vinci](https://www.goodreads.com/book/show/8083765-think-like-da-vinci) (Michael J. Gelb, 1998)
 - [The Alchemist](https://www.goodreads.com/book/show/18144590-the-alchemist) (Paulo Coelho, 1988)
 - [Oblique Strategies](https://www.goodreads.com/book/show/20425787-oblique-strategies) (Brian Eno & Peter Schmidt, 1975–2001)
