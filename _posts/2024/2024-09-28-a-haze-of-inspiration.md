@@ -156,6 +156,7 @@ With enough searching, or metaphorical travelling, you'll be able to find your o
 - [The Alchemist](https://www.goodreads.com/book/show/18144590-the-alchemist) (Paulo Coelho, 1988)
 - [Oblique Strategies](https://www.goodreads.com/book/show/20425787-oblique-strategies) (Brian Eno & Peter Schmidt, 1975–2001)
 - [Design Methods](https://www.goodreads.com/book/show/780304.Design_Methods) (John Chris Jones, 1970–1992)
+- [Design Q & A](https://www.hermanmiller.com/stories/why-magazine/design-q-and-a-charles-and-ray-eames/) (Charles & Ray Eames, 1969–1972)
 - [The Little Prince](https://www.goodreads.com/book/show/157993.The_Little_Prince) (Antoine de Saint-Exupéry, 1943)
 
 ----
