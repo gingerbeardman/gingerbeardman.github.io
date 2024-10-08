@@ -39,6 +39,7 @@ My personal favourites from the year (most recent first):
 - Better YouTube embeds using lite-yt-embed (11 Sep)
 - Added OpenSearch to allow searching blog from address bar (15 Sep)
 - Created Markdown File Linker to make linking easier (8 Oct)
+- Created YAML Tag Picker to make tagging easier (8 Oct)
 
 ## Previous years
 - [My most popular posts of 2023](/2022/12/27/my-most-popular-posts-of-the-year/)
