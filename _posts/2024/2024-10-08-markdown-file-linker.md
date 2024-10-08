@@ -6,6 +6,7 @@ tags:
 - nova
 - extension
 - jekyll
+- markdown
 nouns:
 - Panic
 - Nova Extensions
