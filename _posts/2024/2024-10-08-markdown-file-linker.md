@@ -51,7 +51,7 @@ You can customise the following:
 - Root Folder Name
 	- default: `_posts`
 - Path Transformation Regex
-	default: `^/?(\d{4})/(\d{2})-(\d{2})-(.+)$`
+	- default: `^/?(\d{4})/(\d{2})-(\d{2})-(.+)$`
 - Path Replacement Pattern
 	- default: `/$1/$2/$3/$4/`
 - File Extension to Remove (comma separated)
