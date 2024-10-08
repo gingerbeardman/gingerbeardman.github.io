@@ -73,7 +73,7 @@ The end result is *Bender 2: Bend Harder*. The new game has been remade, from sc
 
 > There are elements to the game that I would usually disclose the technical details of—my process, tooling—but I'm currently doing my utmost to protect my "vibe" so that won't happen today. This is why we can't have nice things. Maybe at some point in the future, but no promises.
 
-Anyway, I'm really happy how this game has turned out. Can't wait to see some activity on the leaderboards! Get it at [play.date/games/bender-2-bend-harder/](https://play.date/games/bender-2-bend-harder/) and I'll see you on the leader boards.
+Anyway, I'm really happy how this game has turned out. Can't wait to see some activity on the leaderboards! Get it at [play.date/games/bender-2-bend-harder/](https://play.date/games/bender-2-bend-harder/) and I'll see you in the high scores!
 
 ![IMG](/images/posts/bender-2-bend-harder.gif#playdate)
 
@@ -87,7 +87,7 @@ This brings my total of games on Playdate Catalog to 5, the others being:
 - [Fore! Track](/2023/2023-06-26-ball-und-panzer-golf-making-a-playdate-game-in-a-week/) 
   - the first [colour](/2023/2023-07-09-the-first-colour-playdate-game/) Playdate game?
 - [Super ICARUS](https://play.date/games/icarus/) 
-  - an innovative hyrid survival-racing game
+  - an innovative hybrid survival-racing game
 
 As usual, teaster artwork is by vxcl with 1-bit equivalents draw by me.
 
