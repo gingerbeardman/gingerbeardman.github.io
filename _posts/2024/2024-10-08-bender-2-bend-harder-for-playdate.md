@@ -75,7 +75,15 @@ The end result is *Bender 2: Bend Harder*. The new game has been remade, from sc
 
 Anyway, I'm really happy how this game has turned out. Can't wait to see some activity on the leaderboards! Get it at [play.date/games/bender-2-bend-harder/](https://play.date/games/bender-2-bend-harder/) and I'll see you in the high scores!
 
+As usual, promo artwork is by [vxcl](https://www.instagram.com/vxclhd/) with 1-bit equivalents drawn by me.
+
+*"If at first you don't succeed, try, try again."*
+
 ![IMG](/images/posts/bender-2-bend-harder.gif#playdate)
+
+----
+
+## My other games for Playdate
 
 This brings my total of games on Playdate Catalog to 5, the others being:
 
@@ -89,6 +97,4 @@ This brings my total of games on Playdate Catalog to 5, the others being:
 - [Super ICARUS](https://play.date/games/icarus/) 
   - an innovative hybrid survival-racing game
 
-As usual, promo artwork is by [vxcl](https://www.instagram.com/vxclhd/) with 1-bit equivalents drawn by me.
-
-> *"If at first you don't succeed, try, try again."*
+I also have a bunch of games at [gingerbeardman.itch.io](https://gingerbeardman.itch.io)
