@@ -89,6 +89,6 @@ This brings my total of games on Playdate Catalog to 5, the others being:
 - [Super ICARUS](https://play.date/games/icarus/) 
   - an innovative hybrid survival-racing game
 
-As usual, teaster artwork is by vxcl with 1-bit equivalents draw by me.
+As usual, teaser artwork is by [vxcl](https://www.instagram.com/vxclhd/) with 1-bit equivalents draw by me.
 
 > *"If at first you don't succeed, try, try again."*
