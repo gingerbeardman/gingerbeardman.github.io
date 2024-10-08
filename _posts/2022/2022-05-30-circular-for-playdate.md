@@ -4,6 +4,7 @@ title: Circular for Playdate
 tags:
 - playdate
 - itchio
+- gamedev
 nouns:
 image: /images/posts/circular-game.gif
 comments: https://twitter.com/gingerbeardman/status/1531395067302256645
