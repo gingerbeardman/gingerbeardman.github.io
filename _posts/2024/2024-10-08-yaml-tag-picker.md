@@ -1,27 +1,28 @@
 ---
 layout: post
-title: Markdown File Linker for Nova editor
+title: YAML Tag Picker for Nova editor
 date: '2024-10-08T11:40+01:00'
 tags:
 - nova
 - extension
 - jekyll
+- yaml
 nouns:
 - Panic
 - Nova Extensions
 - Nova editor
 - Nova
-- Markdown File Linker
-- Markdown
+- YAML Tag Picker
 - Jekyll
+- Choice Palette
 image: /images/posts/markdown-file-linker.png
 comments: https://twitter.com/gingerbeardman/status/1843604784236110243
 
 ---
 
-**YAML Tag Picker** allows you to easily select tags for the YAML front matter in your blog posts. It scans your existing posts for tags and presents them in a Choice Palette, making it easy to maintain consistent tagging across your blog.
+YAML Tag Picker is an extension for the [Nova editor](https://nova.app) that allows you to easily select tags for the YAML front matter in your blog posts. It scans your existing posts for tags and presents them in a Choice Palette, making it easy to maintain consistent tagging across your blog.
 
-You can select multiple tags one after another; when you're done choose "Finish Selection" or press `Esc`.
+You can select multiple tags one after another; when you're done choose "Finish Selection" or press the `Esc` key to insert all selected tags into the document.
 
 Each tag is inserted on a new line, prefixed with a hyphen and a space:
 
@@ -39,7 +40,11 @@ Each tag is inserted on a new line, prefixed with a hyphen and a space:
 4. Choose the tags you want to use from the presented list
 5. The selected tags will be inserted at your cursor position
 
-### Configuration
+## Screenshot
+
+![IMG](/images/posts/yaml-tag-picker.png)
+
+## Configuration
 
 To configure global preferences, open **Extensions → Extension Library...** then select YAML Tag Picker's **Settings** tab.
 
