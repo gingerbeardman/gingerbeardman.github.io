@@ -20,9 +20,9 @@ comments: https://twitter.com/gingerbeardman/status/1843604784236110243
 
 ---
 
-YAML Tag Picker is an extension for the [Nova editor](https://nova.app) that allows you to easily select tags for the YAML front matter in your blog posts. It scans your existing posts for tags and presents them in a Choice Palette, making it easy to maintain consistent tagging across your blog.
+YAML Tag Picker allows you to easily select tags for the front matter in your blog posts. It scans your existing posts for tags and presents them in a Choice Palette, making it easy to maintain consistent tagging across your blog.
 
-You can select multiple tags one after another; when you're done choose "Finish Selection" or press the `Esc` key to insert all selected tags into the document.
+You can select multiple tags one after another; when you're done choose "Finish Selection" or pressing the `Esc` key.
 
 Each tag is inserted on a new line, prefixed with a hyphen and a space:
 
@@ -36,15 +36,12 @@ Each tag is inserted on a new line, prefixed with a hyphen and a space:
 
 1. Open your blog project in Nova
 2. Place your cursor at the start of the line where you want to insert tags in your front matter
-3. Run the `YAML Tag Picker` command from the Command Palette (`Cmd`+`Shift`+`Enter`)
-4. Choose the tags you want to use from the presented list
-5. The selected tags will be inserted at your cursor position
+3. Run the `YAML Tag Picker` command from the Command Palette (I map it to keyboard `Cmd`+`Shift`+`Enter`)
+4. Choose the tags you want to use from the presented list (repeat)
+5. When you're done choose "Finish Selection" or press `Esc`
+6. The selected tags will be inserted at your cursor position
 
-## Screenshot
-
-![IMG](/images/posts/yaml-tag-picker.png)
-
-## Configuration
+### Configuration
 
 To configure global preferences, open **Extensions → Extension Library...** then select YAML Tag Picker's **Settings** tab.
 

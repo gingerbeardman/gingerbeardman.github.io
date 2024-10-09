@@ -20,37 +20,48 @@ comments: https://twitter.com/gingerbeardman/status/1843604784236110243
 
 ---
 
-Markdown File Linker is an extension for the [Nova editor](https://nova.app) that allows you to insert links to local files as Markdown links, perfect for linking between articles in your Jekyll blog!
-
-----
+Markdown File Linker allows you to insert links to local files as Markdown, perfect for linking between articles in your Jekyll blog!
 
 ## Usage
 
 To run Markdown File Linker:
 
-- Select the **Editor → Insert File Link** menu item; or
-- Open the command palette and type `Insert File Link`
+- Select the **Editor → Insert File Link** or **Insert Image Link** menu items; or
+- Open the command palette and type `Insert File Link` or `Insert Image Link` 
 
-You might also choose to set a keyboard shortcut using **Nova → Settings... → Key Bindings**, such as having `Cmd`+`Shift`+`L` invoke the `Insert File Link` function.
+You might also choose to set a keyboard shortcut using **Nova → Settings... → Key Bindings**, such as:
+
+- `Cmd`+`Shift`+`L` to invoke `Insert File Link`
+- `Cmd`+`Shift`+`I` to invoke `Insert Image Link`
 
 ## Results
 
-You choose a local file, such as:
+You choose a local file using the file selector, such as:
+
 - `/Users/matt/Projects/blog/_posts/2023/2023-11-21-yoyozo-how-i-made-a-playdate-game-in-39kb.md`
 
 And it will be inserted as:
+
 - `/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/`
 
 If you've selected some text before invoking the extension, you'll get:
+
 - `[YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)`
 
-### Configuration
+For an image you might end up with:
+
+- `![IMG](/images/posts/yoyozo-teaser.gif)`
+
+## Configuration
 
 To configure global preferences, open **Extensions → Extension Library...** then select Markdown File Linker's **Settings** tab.
 
 You can customise the following:
-- Root Folder Name
+
+- Posts Folder Name
 	- default: `_posts`
+- Images Folder Name
+	- default: `images`
 - Path Transformation Regex
 	- default: `^/?(\d{4})/(\d{2})-(\d{2})-(.+)$`
 - Path Replacement Pattern
@@ -59,6 +70,10 @@ You can customise the following:
 	- default: `.md,.markdown`
 
 Defaults match those used by Jekyll static site generator and other blogging software.
+
+## Bonus!
+
+The extension also includes a function to wrap the selected text in a Markdown link, and if there is a URL on the clipboard it will be used as the destination of the link.
 
 ----
 

@@ -97,4 +97,4 @@ This brings my total of games on Playdate Catalog to 5, the others being:
 - [Super ICARUS](https://play.date/games/icarus/) 
   - an innovative hybrid survival-racing game
 
-I also have a bunch of games at [gingerbeardman.itch.io](https://gingerbeardman.itch.io)
+I also have a bunch of other games at [gingerbeardman.itch.io](https://gingerbeardman.itch.io) for both Playdate and Mac/Windows.
