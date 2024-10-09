@@ -69,7 +69,7 @@ Fair point. Though I did say I would expand the game, add music and so on, I lea
 
 ## 2024
 
-The end result is *Bender 2: Bend Harder*. The new game has been remade, from scratch, right down to the fonts. And it's packed with new things: multiple game modes, a deeper scoring system, awards or achievements, multiple secrets or easter eggs, online score boards, improved graphics, dynamic music and sound including elements that react to the beat of the music, a scenario to provide a bit of world-building, and much more besides! At ~2000 lines the source code is over 4 times the length of the first version's ~500 lines, just to give you an idea of how much more logic there is in the new game.
+The end result is *Bender 2: Bend Harder*. The new game has been remade, from scratch, right down to the fonts. And it's packed with new things: multiple game modes, a deeper scoring system, awards or achievements, multiple secrets or easter eggs, online score boards, improved graphics, dynamic music and sound including elements that react to the beat of the music, a scenario to provide a bit of world-building, and much more besides! At ~2000 lines the source code is over 4 times the length of the first version's ~500 lines, just to give you an idea of how much more logic there is in the new game. Not that lines of code is a good metric, but you get my point. There is much new!
 
 > There are elements to the game that I would usually disclose the technical details of—my process, tooling—but I'm currently doing my utmost to protect my "vibe" so that won't happen today. This is why we can't have nice things. Maybe at some point in the future, but no promises.
 
