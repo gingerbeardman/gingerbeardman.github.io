@@ -20,7 +20,7 @@ comments: https://twitter.com/gingerbeardman/status/1843604784236110243
 
 ---
 
-Markdown File Linker allows you to insert links to local files as Markdown, perfect for linking between articles in your Jekyll blog!
+Markdown File Linker is an extension for the [Nova editor](https://nova.app) that allows you to insert links to local files as Markdown, perfect for linking between articles in your Jekyll blog!
 
 ## Usage
 
