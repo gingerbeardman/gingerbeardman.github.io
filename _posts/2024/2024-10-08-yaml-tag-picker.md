@@ -15,8 +15,8 @@ nouns:
 - YAML Tag Picker
 - Jekyll
 - Choice Palette
-image: /images/posts/markdown-file-linker.png
-comments: https://twitter.com/gingerbeardman/status/1843604784236110243
+image: /images/posts/yaml-tag-picker.png
+comments: https://twitter.com/gingerbeardman/status/1843688193679663193
 
 ---
 
@@ -40,6 +40,9 @@ Each tag is inserted on a new line, prefixed with a hyphen and a space:
 4. Choose the tags you want to use from the presented list (repeat)
 5. When you're done choose "Finish Selection" or press `Esc`
 6. The selected tags will be inserted at your cursor position
+
+![IMG](/images/posts/yaml-tag-picker.png "Searching existing tags for the word “play”")
+{:.tofigure}
 
 ### Configuration
 

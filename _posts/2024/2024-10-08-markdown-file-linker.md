@@ -50,7 +50,7 @@ If you've selected some text before invoking the extension, you'll get:
 
 For an image you might end up with:
 
-- `![IMG](/images/posts/yoyozo-teaser.gif)`
+- `![IMG](∕images/posts/yoyozo-teaser.gif)`
 
 ## Configuration
 
