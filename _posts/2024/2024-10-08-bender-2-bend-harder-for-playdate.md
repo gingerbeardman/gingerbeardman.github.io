@@ -23,8 +23,8 @@ nouns:
 - A Game By Its Cover
 redirect_from:
 - /2022/05/20/bender-for-playdate/
-image: /images/posts/bender-for-playdate.gif
-comments: https://twitter.com/gingerbeardman/status/
+image: /images/posts/bender-2-bend-harder.gif
+comments: https://twitter.com/gingerbeardman/status/1843698931676655934
 
 ---
 
