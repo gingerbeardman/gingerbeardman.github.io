@@ -18,7 +18,7 @@ comments: https://twitter.com/gingerbeardman/status/1844783112208695421
 
 ---
 
-Back in 2021 I had a look around and decided to base this incarnation of my blog on an open-source [Jekyll](https://jekyllrb.com) theme called "[Type](https://github.com/ahmadajmi/type)", though I've changed and added so much it's quite some distance from the original as it stands today. Initially I blamed Jekyll for the poor performance, until I took a closer look. What I learned was that the blog theme did some things in sub-optimal ways, so over the course of 2024 I have corrected as many of them as I can. Build time dropped from ~12 seconds to ~1 second.
+Back in 2021 I had a look around and decided to base this incarnation of my blog on an open-source [Jekyll](https://jekyllrb.com) theme called "[Type](https://github.com/ahmadajmi/type)", though I've changed and added so much it's quite some distance from the original as it stands today. As I added blog posts the performance became much worse. Initially I blamed Jekyll for this, until I took a closer look. What I learned was that the blog theme did some things in sub-optimal ways, so over the course of 2024 I have corrected as many of them as I can. Build time dropped from ~12 seconds to ~1 second.
 
 My fixes and optimisations included:
 - Optimised SASS to compile once in plugin rather than header of every page (23 Feb)
