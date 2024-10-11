@@ -77,7 +77,7 @@ The idea was to not upload them at all but rather download them to the server di
 
 <script src="https://gist.github.com/gingerbeardman/e1c513c69b9e9d41aa91155893ae7334.js"></script>
 
-### Trigger service
+### Trigger (System service)
 
 <script src="https://gist.github.com/gingerbeardman/1ff95ce64a6a255919b8262dd4a21bc7.js"></script>
 
