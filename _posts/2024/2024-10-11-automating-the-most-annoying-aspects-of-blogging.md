@@ -4,9 +4,12 @@ title: Automating the most annoying aspects of blogging
 date: '2024-10-11T17:42+01:00'
 tags:
 - nova
+- markdown
 - extension
 - jekyll
 - yaml
+- git
+- docker
 nouns:
 - GitHub
 - Jekyll
