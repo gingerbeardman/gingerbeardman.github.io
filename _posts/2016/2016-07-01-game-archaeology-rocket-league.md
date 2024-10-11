@@ -2,7 +2,7 @@
 layout: post
 title: "Game Archaeology: Rocket League"
 tags:
-- videogames
+- videogame
 - archaeology
 - gamedev
 - medium

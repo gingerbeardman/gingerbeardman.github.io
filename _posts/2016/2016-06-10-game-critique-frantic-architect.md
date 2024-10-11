@@ -2,7 +2,7 @@
 layout: post
 title: 'Game Critique: Frantic Architect'
 tags:
-- videogames
+- videogame
 - critique
 - gamedev
 - medium

@@ -2,7 +2,7 @@
 layout: post
 title: List of video games featuring Moai
 tags:
-- videogames
+- videogame
 - moai
 - history
 - patreon

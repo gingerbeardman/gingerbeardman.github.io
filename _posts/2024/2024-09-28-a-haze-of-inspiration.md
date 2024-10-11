@@ -7,7 +7,7 @@ tags:
 - design
 - gamedev
 - ideas
-- hacks
+- hack
 - soapbox
 - critique
 - recommendations

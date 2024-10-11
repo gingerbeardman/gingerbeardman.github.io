@@ -2,7 +2,7 @@
 layout: post
 title: The BeOS Bible
 tags:
-- scanning
+- scans
 - preservation
 - book
 - patreon

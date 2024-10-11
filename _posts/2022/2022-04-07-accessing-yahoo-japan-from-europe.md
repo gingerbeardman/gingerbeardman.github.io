@@ -8,7 +8,7 @@ tags:
 - proxy
 - vpn
 - hack
-- workarounds
+- workaround
 nouns:
 - Yahoo! Japan Auctions
 - Yahoo! Japan

@@ -5,8 +5,11 @@ module Jekyll
       @site = site
       @cdn_url = "https://cdn.gingerbeardman.com"
 
-      @site.pages.each { |page| process(page) }
-      @site.posts.docs.each { |post| process(post) }
+      # Check if we're in production environment
+      if ENV['JEKYLL_ENV'] == 'production'
+        @site.pages.each { |page| process(page) }
+        @site.posts.docs.each { |post| process(post) }
+      end
     end
 
     def process(item)

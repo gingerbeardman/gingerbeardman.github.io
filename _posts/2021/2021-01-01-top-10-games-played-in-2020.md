@@ -2,8 +2,8 @@
 layout: post
 title: Top 10 Games Played in 2020
 tags:
-- reviews
-- videogames
+- review
+- videogame
 nouns: []
 carousel: ''
 featured: false

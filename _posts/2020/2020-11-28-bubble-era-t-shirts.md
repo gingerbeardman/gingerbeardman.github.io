@@ -2,7 +2,7 @@
 layout: post
 title: 'My "Bubble Era" T-shirt Store'
 tags:
-- logos
+- logo
 - japanese
 - tshirt
 - design

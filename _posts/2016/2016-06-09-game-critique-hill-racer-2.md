@@ -2,7 +2,7 @@
 layout: post
 title: 'Game Critique: Hill Racer 2'
 tags:
-- videogames
+- videogame
 - critique
 - gamedev
 - medium

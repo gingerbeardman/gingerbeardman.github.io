@@ -3,7 +3,7 @@ layout: post
 title: 'BOSS controller shell for Nintendo Wii'
 tags:
 - wii
-- controllers
+- controller
 - patreon
 nouns:
 - Nintendo

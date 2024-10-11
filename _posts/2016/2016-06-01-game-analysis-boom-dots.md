@@ -2,7 +2,7 @@
 layout: post
 title: 'Game Analysis: Boom Dots'
 tags:
-- videogames
+- videogame
 - analysis
 - gamedev
 - medium

@@ -4,7 +4,7 @@ title: Iwata Asks Downloader
 tags:
 - preservation
 - history
-- interviews
+- interview
 - nintendo
 - iwata
 - patreon

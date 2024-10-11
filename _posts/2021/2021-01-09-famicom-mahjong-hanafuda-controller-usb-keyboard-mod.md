@@ -8,7 +8,7 @@ tags:
 - famicom
 - mahjong
 - hanafuda
-- controllers
+- controller
 nouns:
 - Famicom
 - Capcom

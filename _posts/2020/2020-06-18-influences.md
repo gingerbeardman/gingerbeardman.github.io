@@ -4,7 +4,7 @@ title: 'Daily Driver: Influences'
 tags:
 - dailydriver
 - playdate
-- videogames
+- videogame
 nouns:
 - Daily Driver
 - Playdate

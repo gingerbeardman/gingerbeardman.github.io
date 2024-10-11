@@ -4,7 +4,7 @@ tags:
 - macintosh
 - palmos
 - japanese
-- manuals
+- manual
 - roms
 - toyota
 - townace

@@ -2,7 +2,7 @@
 layout: post
 title: "Gaming Advent Calendar"
 tags:
-- videogames
+- videogame
 - review
 - gamingadventcalendar
 - thoruyamamoto

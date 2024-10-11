@@ -3,7 +3,7 @@ layout: post
 title: 'Ace Mega Blaster controller for Sega Mega Drive'
 tags:
 - megadrive
-- controllers
+- controller
 nouns:
 - Mega Drive
 - Sega
