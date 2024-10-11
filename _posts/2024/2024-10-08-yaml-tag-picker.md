@@ -2,6 +2,7 @@
 layout: post
 title: YAML Tag Picker for Nova editor
 date: '2024-10-08T17:20+01:00'
+last_modified_at: '2024-10-11T17:50+01:00'
 tags:
 - nova
 - extension
@@ -63,6 +64,10 @@ You can customise the following:
 - Your blog posts should be in the `_posts` directory (default for Jekyll static site generator)
 - Tags should be defined in the front matter of your posts using the YAML format
 - It can cope with tags specified as an array or as one per-line
+
+## Bonus!
+
+There's also a command to **Create YAML Tag Audit document** which will open a markdown file containing all tags, so you can do some rationalising or coallescing with search and replace.
 
 ----
 
