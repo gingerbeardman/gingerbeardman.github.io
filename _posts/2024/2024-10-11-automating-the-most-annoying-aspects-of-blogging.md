@@ -32,7 +32,7 @@ And my additions along the way:
 - Automatic smart quotes in post titles (19 Aug)
 - Added OpenSearch to allow searching blog from address bar (15 Sep)
 
-So, what is left to do? Not much I reckon. So I took a closer look at what is involved in me creating a blog post and made a list of the most repetitive, awkward or error prone tasks:
+You might ask... what's left to do? Not much I reckon. So I took a closer look at what is involved in me creating a blog post and made a list of the most repetitive, awkward or error prone tasks:
 
 1. Entering links, partcularly links to other blog posts
 2. Entering tags, going from memory or using search across project
