@@ -36,7 +36,7 @@ So, what is left to do? Not much I reckon. So I took a closer look at what is in
 
 1. Entering links, partcularly links to other blog posts
 2. Entering tags, going from memory or using search across project
-3. Getting images onto my CDN server, currently copy by FTP
+3. Getting images onto my CDN server, currently copy by SFTP
 
 Let's solve them all!
 
