@@ -3,7 +3,7 @@
       </li>
       <li class='c-nav__item' role='presentation'>
         {% unless page.name == 'search.md' %}
-        <form action="/search/" autocomplete="off">
+        <form action="/search/" method="get" autocomplete="off">
           <label for="q">Search blog:</label>
           <input type="search" name="q" id="query" placeholder="Search...">
         </form><br>
