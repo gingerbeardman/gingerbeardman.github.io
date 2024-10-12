@@ -25,7 +25,9 @@ This is so I can re-run a workflow at any point (maybe in a make file) which I o
 2. animate the model spinning through one 360-degree rotation
 3. dump frames out as PNG files
 
-Here’s the model definition to try out: [gist](https://gist.github.com/gingerbeardman/a0a0b967c480ab973d40aaf5e78fd47f)
+Here’s the model definition to try out:
+
+{% gist a0a0b967c480ab973d40aaf5e78fd47f %}
 
 I love building 3D this way, it’s kind of like LEGO. I use basic geometric building blocks (cube, sphere, cylinder, polygon, etc) and some boolean operations (difference, intersection, union). There are some other cool things (hull, minkowski). I have the commands in [Dash.app](https://dash.app/)alongside the Playdate SDK docs.
 

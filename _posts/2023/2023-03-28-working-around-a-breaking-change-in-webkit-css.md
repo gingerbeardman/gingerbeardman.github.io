@@ -23,4 +23,4 @@ But, all is not lost, I created a quick-fix workaround with a user stylesheet!
 
 [github.com/uetchy/Polyglot/issues/128#issuecomment-1487229870](https://github.com/uetchy/Polyglot/issues/128#issuecomment-1487229870)
 
-<script src="https://gist.github.com/gingerbeardman/5baabc9b141e1c395c73af237fdd0e49.js"></script>
+{% gist 5baabc9b141e1c395c73af237fdd0e49 %}

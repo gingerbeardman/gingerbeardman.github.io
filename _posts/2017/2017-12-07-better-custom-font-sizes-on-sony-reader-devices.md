@@ -17,7 +17,8 @@ Below are details of a script to generate custom CSS to make sure custom fonts a
 I use this with my PRS-650, but it probably applies to most Sony Readers and perhaps some other eReaders. Get in touch if you have an idea how it can apply to other eReaders.
 
 ## Source Code
-[gist.github.com/gingerbeardman/f07d9e033dab453b56afee9829828ed1](https://gist.github.com/gingerbeardman/f07d9e033dab453b56afee9829828ed1)
+
+{% gist f07d9e033dab453b56afee9829828ed1 %}
 
 ### Installation
 Requirements:

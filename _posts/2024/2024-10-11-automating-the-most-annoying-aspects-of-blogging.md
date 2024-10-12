@@ -38,7 +38,7 @@ You might ask... what's left to do? Not much I reckon. So I took a closer look a
 2. Entering tags, going from memory or using search across project
 3. Getting images onto my CDN server, currently copy by SFTP
 
-Let's solve them all!
+Let's solve all these annoyances!
 
 ----
 
@@ -55,7 +55,7 @@ You can read about these two in previous blog posts:
 
 I was still having to copy my images to my CDN server manually, which was a pain. But the software stack on the server was intimidating: I serve my websites using a collection of docker containers. I kept putting it off for a rainy day, but I knew I would evetntually get around to automating it.
 
-The idea was to not upload them at all but rather download them to the server directly. I'd use a GitHub Webhook to trigger a `git pull` of the latest files onto my server. It took a few hours and a few attempts, but I finally arrived at a fairly elegant system I'm happy with:
+The idea was to not upload the images at all, but rather download them to the server directly. I'd use a GitHub Webhook to trigger a `git pull` of the latest files onto my server. It took a few hours and a few attempts, but I finally arrived at a fairly elegant system I'm happy with:
 
 1. GitHub Webhook that runs on push event
 2. PHP script in web server docker container receives, validates, and creates a trigger file
@@ -71,15 +71,15 @@ The idea was to not upload them at all but rather download them to the server di
 
 ### Webhook receiver (PHP script)
 
-<script src="https://gist.github.com/gingerbeardman/63e4dc0bce459ad6609c2701963eb61f.js"></script>
+{% gist 63e4dc0bce459ad6609c2701963eb61f %}
 
 ### Webhook git pull watcher (Shell script)
 
-<script src="https://gist.github.com/gingerbeardman/e1c513c69b9e9d41aa91155893ae7334.js"></script>
+{% gist e1c513c69b9e9d41aa91155893ae7334 %}
 
 ### Trigger (System service)
 
-<script src="https://gist.github.com/gingerbeardman/1ff95ce64a6a255919b8262dd4a21bc7.js"></script>
+{% gist 1ff95ce64a6a255919b8262dd4a21bc7 %}
 
 ### Setup
 

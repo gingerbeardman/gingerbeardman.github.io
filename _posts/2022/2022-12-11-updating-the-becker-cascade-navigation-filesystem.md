@@ -31,4 +31,4 @@ It's also possible to add speed limit and camera data through injecting a new .l
 
 Today I wrote a small shell script to do the same on macOS (and probably Linux, maybe Windows).
 
-<script src="https://gist.github.com/gingerbeardman/f18de0abe61c8dd548b4901b606bf39b.js"></script>
+{% gist f18de0abe61c8dd548b4901b606bf39b %}

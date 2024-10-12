@@ -46,7 +46,7 @@ Create a "New Action with Shell Script..." as follows:
 
 There are a couple of scripts because backups are stored differently on USB and Network. Of course, you'll also need to change the path names to suit your setup.
 
-<script src="https://gist.github.com/gingerbeardman/ea0a213eb5e361ba9e7e8d004300c91b.js"></script>
+{% gist ea0a213eb5e361ba9e7e8d004300c91b %}
 
 ## Other uses
 

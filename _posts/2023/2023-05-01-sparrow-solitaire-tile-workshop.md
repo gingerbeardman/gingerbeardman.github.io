@@ -27,7 +27,7 @@ First it accepts a PNG URL which will be loaded into the user row and must be th
 
 Secondly it accepts data:image (recommended & most versatile) which can be of any dimension. You can easily copy data:image straight out of the [Piskel](https://www.piskelapp.com) pixel art web app. You can also generate it on the command line, using the small script below, or using [an Alfred workflow](https://www.alfredforum.com/topic/20306-clipboard-image-to-data-uri/) or similar automation.
 
-<script src="https://gist.github.com/gingerbeardman/c19ac6d2b8565fea9e3e45909ddddc9b.js"></script>
+{% gist c19ac6d2b8565fea9e3e45909ddddc9b %}
 
 Thirdly, and finally, if you'd rather create a full tile set of your own, you can do it all in [Piskel](https://www.piskelapp.com) and save it online as a GIF. Paste this URL into Tile Workshop and you can save it straight to an image format suitable for use on your Playdate.
 

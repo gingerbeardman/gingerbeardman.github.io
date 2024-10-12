@@ -35,7 +35,7 @@ In terms of which proxy to use, you'll have to hit Google or set up your own on 
 
 Here's what my final PAC file looks a bit like:
 
-<script src="https://gist.github.com/gingerbeardman/dd6691c2706a3d27a485a7a7dc3e5d60.js"></script>
+{% gist dd6691c2706a3d27a485a7a7dc3e5d60 %}
 
 Note: you'll need to substitute a valid proxy IP address and port number, and host the file on a web server you can access from your device.
 

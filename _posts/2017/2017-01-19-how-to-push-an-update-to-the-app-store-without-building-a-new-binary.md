@@ -44,7 +44,7 @@ As of today there are two options to create a valid Retina compatible `.icns`:
 
 Final packaging shell script:
 
-<script src="https://gist.github.com/gingerbeardman/eb080bb29bfcf71f829e5ff9107f1d4a.js"></script>
+{% gist eb080bb29bfcf71f829e5ff9107f1d4a %}
 
 So, what exactly are we doing here?
 

@@ -90,7 +90,7 @@ The Tcl solution to convert from MacJapanese to Unicode is a beautiful one-liner
 
 From here I wrapped the Tcl one-liner in a bunch more script so that it can handle both files and directories, as well as wildcards and stdin. It can also list all known encodings, and can take an argument representing the source encoding (of course it defaults to MacJapanese). Essentially, I made the one-liner into a proper command-line tool.
 
-<script src="https://gist.github.com/gingerbeardman/4a3b66236e018b72b32ca17953474e12.js"></script>
+{% gist 4a3b66236e018b72b32ca17953474e12 %}
 
 I have a secondary [shell script](https://gist.github.com/gingerbeardman/892e2c92b6fe17838a1443608c111a56) that runs `convert2unicode` against my drive full of disk images, along with some housekeeping and maintenance functions. The whole process of listing the disks and converting the resulting text files takes less than 30 seconds for 250 items.
 

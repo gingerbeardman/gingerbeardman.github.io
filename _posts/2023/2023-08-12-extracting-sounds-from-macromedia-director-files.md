@@ -67,7 +67,7 @@ So, dump your chunks using ProjectorRays and then call my script like this:
 find . -iname "*.bin" -exec ./bin2wav.sh {} \;
 ```
 
-<script src="https://gist.github.com/gingerbeardman/1e6170d2652352bf30623b2a6c8d12fd.js"></script>
+{% gist 1e6170d2652352bf30623b2a6c8d12fd %}
 
 Notes:
 - I'm assuming 8-bit, mono, unsigned PCM data in the '`snd `' chunks and have not found anything else in them.

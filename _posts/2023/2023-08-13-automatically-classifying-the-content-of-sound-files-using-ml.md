@@ -56,7 +56,7 @@ As I type my computer is making short order of the task, whilst remaining perfec
 
 ## Python Script
 
-<script src="https://gist.github.com/gingerbeardman/9e9bde623673ed2f50aeb15e97aae4a3.js"></script>
+{% gist 9e9bde623673ed2f50aeb15e97aae4a3 %}
 
 ## Creating my SFX Library
 

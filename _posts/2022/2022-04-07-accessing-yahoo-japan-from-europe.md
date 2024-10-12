@@ -69,7 +69,7 @@ The above solutions are all you need, but if you're looking for more solutions t
 
 You don't really want to route all of your traffic through a proxy, especially if it's a free proxy that you shouldn't trust. It's recommended to enable the proxy only for *.yahoo.co.jp URLs, which is possible using a [Proxy Auto-Config](https://en.wikipedia.org/wiki/Proxy_auto-config) (PAC file), an example of which is below.
 
-<script src="https://gist.github.com/gingerbeardman/d02b61f86eadd29a86b3ae42082eee7f.js"></script>
+{% gist d02b61f86eadd29a86b3ae42082eee7f %}
 
 [This handy website can be used to create and test your PAC file](https://thorsen.pm/proxyforurl), then you should host the PAC file somewhere publicly accessible on the internet (so no passwords or personal information should be in it!), and finally enter the proxy URL into your system or browser network settings. This can all be done on both iOS, macOS and likely other platforms.
 
@@ -99,7 +99,7 @@ I do the following:
 - JS
   - redirect the page to an alternative website so I can see details of the auction item (such as pages provided by one of the many "buy from japan" websites)
 
-<script src="https://gist.github.com/gingerbeardman/789bcd8786fb76578fc11c491bd5b97b.js"></script>
+{% gist 789bcd8786fb76578fc11c491bd5b97b %}
 
 This means I can keep browsing uninterrupted, though of course you can no longer see the original pages as intended.
 

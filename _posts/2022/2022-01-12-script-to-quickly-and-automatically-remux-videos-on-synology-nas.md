@@ -38,7 +38,7 @@ After the first successful run I decided to comment out all notifications except
 
 ## Source
 
-<script src="https://gist.github.com/gingerbeardman/508fccef1827e717d6100b2ac6dcfc37.js"></script>
+{% gist 508fccef1827e717d6100b2ac6dcfc37 %}
 
 ## Bonus
 
