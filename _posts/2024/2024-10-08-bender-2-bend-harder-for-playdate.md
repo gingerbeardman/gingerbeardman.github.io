@@ -90,10 +90,10 @@ This brings my total of games on Playdate Catalog to 5, the others being:
 - [YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
   - Best Games of 2023 (Ars Technica)
   - Best Arcade Game (Playdate Community Awards 2023)
-- [Sparrow Solitaire](/2023/2023-04-13-sparrow-solitaire-for-playdate.md/)
+- [Sparrow Solitaire](/2023/04/13/sparrow-solitaire-for-playdate.md/)
   - Best Puzzle Game (Playdate Community Awards 2023)
-- [Fore! Track](/2023/2023-06-26-ball-und-panzer-golf-making-a-playdate-game-in-a-week/) 
-  - the first [colour](/2023/2023-07-09-the-first-colour-playdate-game/) Playdate game?
+- [Fore! Track](/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/) 
+  - the first [colour](/2023/07/09/the-first-colour-playdate-game/) Playdate game?
 - [Super ICARUS](https://play.date/games/icarus/) 
   - an innovative hybrid survival-racing game
 
