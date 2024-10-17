@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Two more extensions for Nova editor
-date: '2024-10-17T16:46+01:00'
+title: More extensions for Nova editor
+date: '2024-10-17T21:47+01:00'
 tags:
 - nova
 - extension
@@ -11,6 +11,7 @@ nouns:
 - Nova Extensions
 - Nova editor
 - Nova
+redirect_from: /2024/10/17/two-more-extensions-for-nova-editor/
 comments: https://twitter.com/gingerbeardman/status/1846915314254069773
 style: |
   img {
@@ -53,3 +54,51 @@ This has already saved me so much time and effort and I've only been using the e
 ![on-on](/images/posts/scrollbars-on-minimap-on.png) ![off-on](/images/posts/scrollbars-off-minimap-on.png)
 
 <br clear="both">
+
+----
+
+## Unwrap Paragraph
+
+OK, I got carried away. This one adds the ability to merge multiple lines of select text into one.
+
+This is useful for combining multiple lines of data into one, or reflowing a paragraph of text that has had manual line breaks applied such as something pasted from an old email. It also colalesces areas of white space into a single space. So, it's not just "Join Lines" but something more specific.
+
+In the _TextMate_ editor this command is called Unwrap Paragraph, so I've kept the same name.
+
+## Example
+
+Text, before:
+```
+	What 
+exactly does  
+this   extension	
+do with the
+text?  🤔
+```
+
+Text, after:
+```
+What exactly does this extension do with the text? 🤔
+```
+
+Source code, before:
+```lua
+{
+	0x050,
+	0x104,
+	0x202,
+	0x050,
+	0x451,
+	0x104,
+	0x505,
+	0x088,
+	0x272,
+	0x104,
+	0x050
+}
+```
+
+Source code, after:
+```lua
+{ 0x050, 0x104, 0x202, 0x050, 0x451, 0x104, 0x505, 0x088, 0x272, 0x104, 0x050 }
+```
