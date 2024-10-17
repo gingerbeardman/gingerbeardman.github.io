@@ -59,11 +59,13 @@ This has already saved me so much time and effort and I've only been using the e
 
 ## Unwrap Paragraph
 
-OK, I got carried away. This one adds the ability to merge multiple lines of select text into one.
+OK, I got carried away. This one adds the ability to merge multiple lines of selected text into one.
 
 This is useful for combining multiple lines of data into one, or reflowing a paragraph of text that has had manual line breaks applied such as something pasted from an old email. It also colalesces areas of white space into a single space. So, it's not just "Join Lines" but something more specific.
 
 In the _TextMate_ editor this command is called Unwrap Paragraph, so I've kept the same name.
+
+[extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.unwraptext/](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.unwraptext/)
 
 ## Example
 
