@@ -1,49 +1,54 @@
+@use "../settings/colors";
+@use "../settings/global";
+@use "../settings/type";
+@use "../tools/mixins";
+
 /*------------------------------------*\
   Components > Site Navigation
 \*------------------------------------*/
 
 .c-nav {
   *::selection {
-    color: $color-link-hover;
+    color: colors.$color-link-hover;
   }
   
   &__item {
-    font-size: $font-size-large;
+    font-size: type.$font-size-large;
     line-height: 1.5rem;
     padding-bottom: 0.5rem;
 
     a:hover {
-      color: $color-link-hover !important;
+      color: colors.$color-link-hover !important;
       text-decoration: underline;
     }
   }
 
   &__by {
-    font-size: $font-size-large;
-    color: $color-gray !important;
+    font-size: type.$font-size-large;
+    color: colors.$color-gray !important;
     padding-bottom: 1.5rem;
   }
 
   &__social {
-    font-size: $font-size-large;
-    color: $color-gray;
+    font-size: type.$font-size-large;
+    color: colors.$color-gray;
     padding-top: 1.0rem;
   }
 
   &__link {
     display: block;
-    transition: $global-transition;
+    transition: global.$global-transition;
 
     &--current {
-      color: $color-brand;
+      color: colors.$color-brand;
 
       .home-template &:not(:hover) {
-        color: $color-link;
+        color: colors.$color-link;
       }
     }
 
-    @include attention() {
-      color: $color-brand;
+    @include mixins.attention() {
+      color: colors.$color-brand;
       text-decoration: none;
     }
   }

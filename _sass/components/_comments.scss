@@ -1,3 +1,10 @@
+@use "../settings/colors";
+@use "../settings/global";
+@use "../settings/type";
+@use "../tools/functions";
+@use "../tools/mixins";
+@use "../tools/mq";
+
 /*------------------------------------*\
   Components > Comments
 \*------------------------------------*/
@@ -8,29 +15,29 @@
   a {
     display: inline-block;
 
-    font-family: $font-base;
-    line-height: $line-height-medium;
-    color: $color-gray;
+    font-family: type.$font-base;
+    line-height: type.$line-height-medium;
+    color: colors.$color-gray;
 
     text-decoration: underline;
     text-decoration-skip: ink;
-    color: $color-text;
+    color: colors.$color-text;
 
-    transition: $global-transition;
+    transition: global.$global-transition;
 
     &:hover {
-      color: $color-brand;
+      color: colors.$color-brand;
       text-decoration: underline !important;
       text-decoration-skip: ink;
     }
 
-    @include attention() {
+    @include mixins.attention() {
       text-decoration: none;
-      background-color: $bg-color-gray;
+      background-color: colors.$bg-color-gray;
     }
   }
 
-  @include mq($until: tablet) {
-    margin-bottom: $line-height-medium - half(quarter($line-height-medium));
+  @include mq.mq($until: tablet) {
+    margin-bottom: type.$line-height-medium - functions.half(functions.quarter(type.$line-height-medium));
   }
 }

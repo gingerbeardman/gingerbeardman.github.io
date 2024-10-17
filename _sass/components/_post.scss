@@ -1,3 +1,9 @@
+@use "../settings/colors";
+@use "../settings/spaces";
+@use "../settings/type";
+@use "../tools/functions";
+@use "../tools/mq";
+
 /*------------------------------------*\
   Components > Post
 \*------------------------------------*/
@@ -10,20 +16,20 @@
     // font-size: $font-size-base;
     margin-bottom: 0;
 
-    @include mq($from: tablet) {
-      font-size: double($font-size-small);
+    @include mq.mq($from: tablet) {
+      font-size: functions.double(type.$font-size-small);
     }
   }
 
   &__date {
     position: relative;
-    padding-top: half($base-spacing-unit);
+    padding-top: functions.half(spaces.$base-spacing-unit);
     display: block;
-    margin-bottom: half($base-spacing-unit);
-    font-size: $font-size-small;
-    font-weight: $font-weight-bold;
-    line-height: $line-height-small;
-    color: $color-gray;
+    margin-bottom: functions.half(spaces.$base-spacing-unit);
+    font-size: type.$font-size-small;
+    font-weight: type.$font-weight-bold;
+    line-height: type.$line-height-small;
+    color: colors.$color-gray;
 
     // &:after {
     //   position: absolute;
@@ -38,6 +44,6 @@
   }
 
   &__image {
-    margin: 0 auto $base-spacing-unit;
+    margin: 0 auto spaces.$base-spacing-unit;
   }
 }

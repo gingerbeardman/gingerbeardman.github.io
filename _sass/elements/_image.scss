@@ -1,3 +1,8 @@
+@use "../settings/colors";
+@use "../settings/spaces";
+@use "../tools/functions";
+@use "../tools/mq";
+
 /*------------------------------------*\
   Elements > img
 \*------------------------------------*/
@@ -21,7 +26,7 @@ img[src$='#playdate'] {
   image-rendering: crisp-edges;
   image-rendering: pixelated;
 
-  @include mq($until: tablet) {
+  @include mq.mq($until: tablet) {
     width: 400px;
     height: 240px;
     border-radius: 0;
@@ -36,15 +41,15 @@ img[src$='#piece'], body.piece .fluid-width-video-wrapper {
   height: 540px;
   margin: 35px -60px;
   border-radius: 0;
-  border: 40px solid $bg-color-black;
+  border: 40px solid colors.$bg-color-black;
 
-  background-color: $bg-color-white;
+  background-color: colors.$bg-color-white;
 
   image-rendering: auto;
   image-rendering: crisp-edges;
   image-rendering: pixelated;
 
-  @include mq($until: tablet) {
+  @include mq.mq($until: tablet) {
     width: 400px;
     height: 240px;
     border-radius: 0;
@@ -55,7 +60,7 @@ img[src$='#piece'], body.piece .fluid-width-video-wrapper {
 
 img[src$='#compare'] {
   float: left;
-  margin-right: double($base-spacing-unit);
+  margin-right: functions.double(spaces.$base-spacing-unit);
 }
 
 img[src$='#pixel'] {
@@ -70,7 +75,7 @@ figcaption {
   margin: .25rem auto 1rem;
   font-size: 1rem;
   text-align: center;
-  color: $color-gray;
+  color: colors.$color-gray;
 }
 
 figure img {

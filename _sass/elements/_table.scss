@@ -1,5 +1,7 @@
+@use "../settings/type";
+
 table {
-  font-size: $font-size-medium !important;
+  font-size: type.$font-size-medium !important;
 }
 
 th {

@@ -1,23 +1,28 @@
+@use "../settings/colors";
+@use "../settings/spaces";
+@use "../settings/type";
+@use "../tools/functions";
+
 /*------------------------------------*\
   Elements > code & pre
 \*------------------------------------*/
 
 pre,
 code {
-  font-family: $font-monospace;
-  background-color: $bg-color-gray;
+  font-family: type.$font-monospace;
+  background-color: colors.$bg-color-gray;
 }
 
 pre {
   overflow: auto;
-  padding: $base-spacing-unit double($base-spacing-unit);
-  margin-bottom: $base-spacing-unit;
-  font-size: $font-size-medium;
-  line-height: $line-height-medium;
+  padding: spaces.$base-spacing-unit functions.double(spaces.$base-spacing-unit);
+  margin-bottom: spaces.$base-spacing-unit;
+  font-size: type.$font-size-medium;
+  line-height: type.$line-height-medium;
   white-space: pre-wrap;
   word-wrap: break-word;
   word-break: break-all;
 }
 
 li code,
-p code { padding: quarter($base-spacing-unit) quarter($base-spacing-unit); }
+p code { padding: functions.quarter(spaces.$base-spacing-unit) functions.quarter(spaces.$base-spacing-unit); }

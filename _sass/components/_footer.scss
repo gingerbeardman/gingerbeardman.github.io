@@ -1,17 +1,22 @@
+@use "../settings/spaces";
+@use "../settings/type";
+@use "../tools/functions";
+@use "../tools/mq";
+
 /*------------------------------------*\
   Components > Footer
 \*------------------------------------*/
 
 .c-footer {
-  padding: double($base-spacing-unit) 0;
+  padding: functions.double(spaces.$base-spacing-unit) 0;
   // background-color: $bg-color-gray;
   
   .tag-cloud {
     line-height: 1.3rem;
   }
 
-  @include mq($until: tablet) {
-    font-size: $font-size-medium;
+  @include mq.mq($until: tablet) {
+    font-size: type.$font-size-medium;
     line-height: 1.2rem;
   }
 }

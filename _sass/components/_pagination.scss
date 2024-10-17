@@ -1,10 +1,18 @@
+@use "../settings/colors";
+@use "../settings/global";
+@use "../settings/spaces";
+@use "../settings/type";
+@use "../tools/functions";
+@use "../tools/mixins";
+@use "../tools/mq";
+
 /*------------------------------------*\
   Components > Pagination
 \*------------------------------------*/
 
 .c-pagination {
   text-transform: uppercase;
-  transition: $global-transition;
+  transition: global.$global-transition;
   margin-top: 25px;
   display: block;
 
@@ -17,13 +25,13 @@
   }
 
   &__label {
-    @include mq(mobile, tablet) {
+    @include mq.mq(mobile, tablet) {
       display: none;
     }
   }
 
-  @include attention() {
-    color: $color-brand;
+  @include mixins.attention() {
+    color: colors.$color-brand;
     text-decoration: none;
   }
 
@@ -37,7 +45,7 @@
 
   &__text {
     position: relative;
-    font-size: $font-size-small;
+    font-size: type.$font-size-small;
     letter-spacing: 2px;
   }
 
@@ -45,11 +53,11 @@
     vertical-align: middle;
 
     &--prev {
-      left: - half($base-spacing-unit);
+      left: - functions.half(spaces.$base-spacing-unit);
     }
 
     &--next {
-      right: - half($base-spacing-unit);
+      right: - functions.half(spaces.$base-spacing-unit);
     }
   }
 }
@@ -57,7 +65,7 @@
 .prevnext {
   width: 45%;
   
-  @include mq(mobile, tablet) {
+  @include mq.mq(mobile, tablet) {
     clear: both;
     width: 75%;
   }

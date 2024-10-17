@@ -1,15 +1,17 @@
+@use "../settings/colors";
+
 body.windows {
-  background-color: $bg-color-windows;
-  color: $color-white;
+  background-color: colors.$bg-color-windows;
+  color: colors.$color-white;
 
   .c-post__date,
   .c-tags a {
-    color: $color-white;
+    color: colors.$color-white;
   }
 
   a, a:hover,
   .c-tags a:hover {
-    color: $color-white;
+    color: colors.$color-white;
     background-color: transparent;
     transition: none;
   }
@@ -17,7 +19,7 @@ body.windows {
   .c-logo__link span,
   .c-byline__desc,
   .c-byline__desc a {
-    color: $color-white;
+    color: colors.$color-white;
   }
 
   code,
@@ -26,19 +28,19 @@ body.windows {
   }
 
   .c-header__inner {
-    border-color: $color-white;
+    border-color: colors.$color-white;
   }
 
   blockquote {
-    color: $color-white !important;
-    border-left: 2px solid $color-white;
+    color: colors.$color-white !important;
+    border-left: 2px solid colors.$color-white;
   }
 
   .highlighter-rouge .highlight {
-    background-color: $bg-color-win-code;
+    background-color: colors.$bg-color-win-code;
   }
   
   .c-off-canvas-toggle__icon {
-    background-color: $color-white;
+    background-color: colors.$color-white;
   }
 }

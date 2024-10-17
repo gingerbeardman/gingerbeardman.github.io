@@ -1,3 +1,5 @@
+@use "../settings/spaces";
+
 /*------------------------------------*\
   Generic > Shared
 \*------------------------------------*/
@@ -15,7 +17,7 @@ figure,
 hr,
 table,
 fieldset {
-  margin-bottom: $base-spacing-unit;
+  margin-bottom: spaces.$base-spacing-unit;
 }
 
 /**
@@ -23,5 +25,5 @@ fieldset {
  */
 dd, ol, ul {
   list-style-position: inside;
-  margin-left: $base-spacing-unit;
+  margin-left: spaces.$base-spacing-unit;
 }

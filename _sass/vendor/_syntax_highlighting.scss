@@ -1,9 +1,11 @@
+@use "../settings/spaces";
+
 /**
  * Syntax highlighting styles
  */
 
 .highlight {
-  margin: 0 0 $base-spacing-unit 0;
+  margin: 0 0 spaces.$base-spacing-unit 0;
   background: #fff;
 
   .highlighter-rouge & {

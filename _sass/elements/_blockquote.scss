@@ -1,13 +1,16 @@
+@use "../settings/colors";
+@use "../settings/spaces";
+
 /*------------------------------------*\
   Elements > Blockquote
 \*------------------------------------*/
 
 blockquote {
-  padding-left: $base-spacing-unit;
-  border-left: 2px solid $color-dark;
-  color: $color-dark;
+  padding-left: spaces.$base-spacing-unit;
+  border-left: 2px solid colors.$color-dark;
+  color: colors.$color-dark;
 
   a {
-    color: $color-dark;
+    color: colors.$color-dark;
   }
 }

@@ -1,9 +1,15 @@
+@use "../settings/colors";
+@use "../settings/global";
+@use "../settings/spaces";
+@use "../settings/type";
+@use "../tools/mixins";
+
 /*------------------------------------*\
   Elements > Inputs
 \*------------------------------------*/
 
-$input-border: $color-border;
-$input-border-focused: $color-text;
+$input-border: colors.$color-border;
+$input-border-focused: colors.$color-text;
 
 input[type='text'],
 input[type='tel'],
@@ -12,18 +18,18 @@ input[type='email'],
 select,
 textarea {
   width: 100%;
-  padding: $base-spacing-unit;
+  padding: spaces.$base-spacing-unit;
 
-  border: 1px solid $color-border;
+  border: 1px solid colors.$color-border;
   border-radius: 0;
   outline: none;
-  background-color: $color-white;
-  font-size: $font-size-small;
+  background-color: colors.$color-white;
+  font-size: type.$font-size-small;
 
   appearance: none;
-  transition: $global-transition;
+  transition: global.$global-transition;
 
-  @include attention() {
+  @include mixins.attention() {
     border: 1px solid $input-border-focused;
   }
 }

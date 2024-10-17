@@ -1,19 +1,20 @@
+@use "sass:math";
 // *----------------------------------*\
 // Tools > Functions
 // *----------------------------------*/
 
 @function half($n) {
-  @return round(calc($n / 2));
+  @return math.round(calc($n / 2));
 }
 
 @function quarter($n) {
-  @return round(calc($n / 4));
+  @return math.round(calc($n / 4));
 }
 
 @function double($n) {
-  @return round($n * 2);
+  @return math.round($n * 2);
 }
 
 @function quadruple($n) {
-  @return round($n * 4);
+  @return math.round($n * 4);
 }

@@ -1,7 +1,9 @@
+@use "../tools/mixins";
+
 /*------------------------------------*\
   Trumbs > Clearfix
 \*------------------------------------*/
 
 .u-clearfix {
-  @include clearfix();
+  @include mixins.clearfix();
 }

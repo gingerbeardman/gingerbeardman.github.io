@@ -1,12 +1,16 @@
+@use "../settings/colors";
+@use "../settings/spaces";
+@use "../tools/functions";
+
 /*------------------------------------*\
   Elements > hr
 \*------------------------------------*/
 
 hr {
   height: 1px;
-  margin: double($base-spacing-unit) 0;
+  margin: functions.double(spaces.$base-spacing-unit) 0;
 
   border: 0;
 
-  background-color: $color-border;
+  background-color: colors.$color-border;
 }

@@ -1,3 +1,6 @@
+@use "../settings/colors";
+@use "../settings/type";
+
 /*------------------------------------*\
   Elements > Typography
 \*------------------------------------*/
@@ -17,7 +20,7 @@ h5,
 h6 {
   font-weight: inherit;
   line-height: initial;
-  font-weight: $font-weight-bold;
+  font-weight: type.$font-weight-bold;
 }
 
 h1 {
@@ -44,6 +47,6 @@ h6 {
   font-size: $font-size-h6;
 
   span {
-    color: $color-gray;
+    color: colors.$color-gray;
   }
 }

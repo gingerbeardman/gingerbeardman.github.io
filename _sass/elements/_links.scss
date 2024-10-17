@@ -1,13 +1,17 @@
+@use "../settings/colors";
+@use "../settings/global";
+@use "../tools/mixins";
+
 /*------------------------------------*\
   Elements > Links
 \*------------------------------------*/
 
 a {
   text-decoration: none;
-  color: $color-link;
-  transition: $global-transition;
+  color: colors.$color-link;
+  transition: global.$global-transition;
 
-  @include attention() {
+  @include mixins.attention() {
     text-decoration: underline;
   }
 }

@@ -1,12 +1,19 @@
+@use "../settings/colors";
+@use "../settings/global";
+@use "../settings/spaces";
+@use "../settings/type";
+@use "../tools/functions";
+@use "../tools/mq";
+
 /*------------------------------------*\
   Components > Post Card
 \*------------------------------------*/
 
 .c-post-card {
   display: block;
-  padding: $base-spacing-unit 0;
+  padding: spaces.$base-spacing-unit 0;
   word-break: break-word;
-  border-bottom: 1px solid $color-border;
+  border-bottom: 1px solid colors.$color-border;
 
   .new {
     font-weight: bold;
@@ -30,36 +37,36 @@
   }
 
   &__title {
-    margin-bottom: half($font-size-base);
-    font-size: $font-size-base;
-    font-weight: $font-weight-bold;
-    transition: $global-transition;
+    margin-bottom: functions.half(type.$font-size-base);
+    font-size: type.$font-size-base;
+    font-weight: type.$font-weight-bold;
+    transition: global.$global-transition;
 
-    @include mq($from: tablet) {
-      font-size: double($font-size-small);
+    @include mq.mq($from: tablet) {
+      font-size: functions.double(type.$font-size-small);
     }
   }
 
   &__excerpt {
-    margin-bottom: half($font-size-base);
+    margin-bottom: functions.half(type.$font-size-base);
   }
 
   &__date {
     display: block;
-    color: $color-gray;
+    color: colors.$color-gray;
     direction: ltr;
-    font-size: $font-size-small;
-    font-weight: $font-weight-bold;
-    line-height: $line-height-small;
+    font-size: type.$font-size-small;
+    font-weight: type.$font-weight-bold;
+    line-height: type.$line-height-small;
     // text-transform: uppercase;
   }
 
   &:hover {
-    color: $color-text;
+    color: colors.$color-text;
     text-decoration: none;
 
     .c-post-card__title {
-      color: $color-brand;
+      color: colors.$color-brand;
     }
   }
 }

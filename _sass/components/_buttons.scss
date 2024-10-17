@@ -1,3 +1,10 @@
+@use "../settings/colors";
+@use "../settings/global";
+@use "../settings/spaces";
+@use "../settings/type";
+@use "../tools/functions";
+@use "../tools/mixins";
+
 /*------------------------------------*\
   Components > Buttons
 \*------------------------------------*/
@@ -7,10 +14,10 @@ $btn-bg-hover: #238cf6;
 
 .c-btn {
   display: inline-block;
-  padding: half($base-spacing-unit) double($base-spacing-unit);
+  padding: functions.half(spaces.$base-spacing-unit) functions.double(spaces.$base-spacing-unit);
 
   cursor: pointer;
-  transition: $global-transition;
+  transition: global.$global-transition;
   text-align: center;
   vertical-align: middle;
   white-space: nowrap;
@@ -19,11 +26,11 @@ $btn-bg-hover: #238cf6;
   border: 0;
   border-radius: 0;
 
-  color: $color-white;
+  color: colors.$color-white;
   background-color: $btn-bg;
-  font-size: $font-size-medium;
+  font-size: type.$font-size-medium;
 
-  @include attention() {
+  @include mixins.attention() {
     text-decoration: none;
     background-color: $btn-bg-hover;
   }
@@ -33,6 +40,6 @@ $btn-bg-hover: #238cf6;
   }
 
   &--small {
-    padding: quarter($base-spacing-unit) $base-spacing-unit;
+    padding: functions.quarter(spaces.$base-spacing-unit) spaces.$base-spacing-unit;
   }
 }

@@ -1,18 +1,21 @@
+@use "../settings/colors";
+@use "../settings/type";
+
 /*------------------------------------*\
   Elements > Page
 \*------------------------------------*/
 
 body {
-  color: $color-text;
-  font-size: $font-size-base;
-  font-family: $font-base;
-  line-height: $line-height-base;
+  color: colors.$color-text;
+  font-size: type.$font-size-base;
+  font-family: type.$font-base;
+  line-height: type.$line-height-base;
 
   -webkit-font-smoothing: antialiased;
    -moz-osx-font-smoothing: grayscale;
 }
 
 *::selection {
-  color: $color-white;
-  background: $color-brand;
+  color: colors.$color-white;
+  background: colors.$color-brand;
 }

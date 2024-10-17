@@ -19,7 +19,9 @@ $(document).ready(function() {
     $('.js-off-canvas-toggle').toggleClass('is-active');
     $('.js-off-canvas-container').toggleClass('is-active');
     if ($('.js-off-canvas-container').hasClass('is-active')) {
-      $('#query').focus();
+      setTimeout(function(b){
+        $('#query').focus();
+      },200,true);
       setTimeout(function(b){
           menuVisible = b;
       },400,true);

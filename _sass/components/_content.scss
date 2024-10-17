@@ -1,3 +1,6 @@
+@use "../settings/colors";
+@use "../tools/mixins";
+
 /*------------------------------------*\
   Components > Content
 \*------------------------------------*/
@@ -9,8 +12,8 @@
     text-decoration: underline;
     text-decoration-skip: ink;
 
-    @include attention() {
-      color: $color-brand;
+    @include mixins.attention() {
+      color: colors.$color-brand;
     }
   }
 }

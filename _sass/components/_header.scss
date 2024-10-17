@@ -1,11 +1,14 @@
+@use "../settings/colors";
+@use "../settings/spaces";
+
 /*------------------------------------*\
   Components > Header
 \*------------------------------------*/
 
 .c-header {
   &__inner {
-    padding: $base-spacing-unit 0;
-    border-bottom: 2px solid $color-border;
+    padding: spaces.$base-spacing-unit 0;
+    border-bottom: 2px solid colors.$color-border;
   }
 
   &__icon {

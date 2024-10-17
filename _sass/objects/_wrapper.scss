@@ -1,12 +1,15 @@
+@use "../settings/spaces";
+@use "../tools/functions";
+
 /*------------------------------------*\
   Objects > Wrapper
 \*------------------------------------*/
 
 .o-wrapper {
-  padding: $base-spacing-unit 0 double($base-spacing-unit) 0;
+  padding: spaces.$base-spacing-unit 0 functions.double(spaces.$base-spacing-unit) 0;
 
   &.post-page {
-    padding: double($base-spacing-unit) 0;
+    padding: functions.double(spaces.$base-spacing-unit) 0;
   }
 }
 

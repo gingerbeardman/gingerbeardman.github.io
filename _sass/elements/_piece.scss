@@ -1,12 +1,14 @@
+@use "../settings/colors";
+
 body.piece {
-  background-color: $bg-color-piece;
+  background-color: colors.$bg-color-piece;
 
   .c-content {
     overflow-x: unset;
   }
 
   *::selection {
-    background: $bg-color-piece-selected;
+    background: colors.$bg-color-piece-selected;
   }
 
   a,
@@ -17,7 +19,7 @@ body.piece {
   .c-post-card .c-post-card__date,
   .c-post__date,
   .c-tags a {
-    color: $color-text;
+    color: colors.$color-text;
   }
 
   a:hover,
@@ -25,7 +27,7 @@ body.piece {
   .c-post-card__title:hover,
   .c-post-card:hover .c-post-card__title,
   .c-tags a:hover {
-    color: $color-darker;
+    color: colors.$color-darker;
     background-color: transparent;
   }
 
@@ -33,7 +35,7 @@ body.piece {
   .c-logo__link span,
   .c-byline__desc,
   .c-byline__desc a {
-    color: $color-text;
+    color: colors.$color-text;
   }
 
   code,
@@ -43,20 +45,20 @@ body.piece {
 
   .c-post-card,
   .c-header__inner {
-    border-color: $color-text;
+    border-color: colors.$color-text;
   }
 
   blockquote {
-    color: $color-darker;
-    border-color: $color-darker;
+    color: colors.$color-darker;
+    border-color: colors.$color-darker;
   }
 
   .tablesorter-default th, .tablesorter-default td {
-    border-color: $color-darker;
+    border-color: colors.$color-darker;
   }
 
   hr {
-    background-color: $color-darker;
-    border-top: 1px solid $color-darker;
+    background-color: colors.$color-darker;
+    border-top: 1px solid colors.$color-darker;
   }
 }

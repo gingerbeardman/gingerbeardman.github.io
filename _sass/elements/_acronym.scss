@@ -1,7 +1,9 @@
+@use "../settings/colors";
+
 /*------------------------------------*\
   Elements > Acronym
 \*------------------------------------*/
 
 acronym {
-  border-bottom: 1px dotted $color-gray;
+  border-bottom: 1px dotted colors.$color-gray;
 }

@@ -1,3 +1,10 @@
+@use "../settings/colors";
+@use "../settings/global";
+@use "../settings/type";
+@use "../tools/functions";
+@use "../tools/mixins";
+@use "../tools/mq";
+
 /*------------------------------------*\
   Components > Tags
 \*------------------------------------*/
@@ -6,20 +13,20 @@
   a {
     display: inline-block;
 
-    font-family: $font-base;
+    font-family: type.$font-base;
     // font-size: $font-size-base;
-    line-height: $line-height-medium;
-    color: $color-gray;
+    line-height: type.$line-height-medium;
+    color: colors.$color-gray;
 
-    transition: $global-transition;
+    transition: global.$global-transition;
 
-    @include attention() {
+    @include mixins.attention() {
       text-decoration: none;
-      background-color: $bg-color-gray;
+      background-color: colors.$bg-color-gray;
     }
   }
 
-  @include mq($until: tablet) {
-    margin-bottom: $line-height-medium - half(quarter($line-height-medium));
+  @include mq.mq($until: tablet) {
+    margin-bottom: type.$line-height-medium - functions.half(functions.quarter(type.$line-height-medium));
   }
 }

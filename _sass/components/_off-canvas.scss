@@ -1,3 +1,8 @@
+@use "../settings/colors";
+@use "../settings/global";
+@use "../settings/spaces";
+@use "../tools/functions";
+
 /*------------------------------------*\
   Components > Off Canvas
 \*------------------------------------*/
@@ -7,7 +12,7 @@ $off-canvas-width: 300px;
 .c-off-canvas-toggle {
   float: right;
   position: relative;
-  top: quarter($base-spacing-unit);
+  top: functions.quarter(spaces.$base-spacing-unit);
   z-index: 10;
   height: 19px;
   width: 25px;
@@ -18,7 +23,7 @@ $off-canvas-width: 300px;
     left: 0;
     height: 2px;
     width: 25px;
-    background: $color-text;
+    background: colors.$color-text;
     cursor: pointer;
 
     &:before,
@@ -27,7 +32,7 @@ $off-canvas-width: 300px;
       display: block;
       height: 100%;
       background-color: inherit;
-      transition: $global-transition;
+      transition: global.$global-transition;
     }
 
     &:before { transform: translateY(16px) }
@@ -41,7 +46,7 @@ $off-canvas-width: 300px;
       &:after {
         position: relative;
         visibility: visible;
-        background: $color-text;
+        background: colors.$color-text;
       }
 
       &:before {
@@ -77,19 +82,19 @@ body {
   right: 0;
   width: $off-canvas-width;
   height: 100%;
-  padding: ($base-spacing-unit + quarter($base-spacing-unit)) ($base-spacing-unit + quarter($base-spacing-unit)) ($base-spacing-unit + quarter($base-spacing-unit)) ($base-spacing-unit + half($base-spacing-unit));
-  background-color: $bg-color-white;
+  padding: (spaces.$base-spacing-unit + functions.quarter(spaces.$base-spacing-unit)) (spaces.$base-spacing-unit + functions.quarter(spaces.$base-spacing-unit)) (spaces.$base-spacing-unit + functions.quarter(spaces.$base-spacing-unit)) (spaces.$base-spacing-unit + functions.half(spaces.$base-spacing-unit));
+  background-color: colors.$bg-color-white;
   transform: translate3d($off-canvas-width, 0, 0);
 }
 
 .c-off-canvas-container {
   transform: translate3d(0, 0, 0);
-  transition: transform $global-transition cubic-bezier(.16, .68, .43, .99);
+  transition: transform global.$global-transition cubic-bezier(.16, .68, .43, .99);
 
   &:after {
     display: none;
     background-color: rgba(0, 0, 0, 0);
-    transition: all $global-transition cubic-bezier(.16, .68, .43, .99);
+    transition: all global.$global-transition cubic-bezier(.16, .68, .43, .99);
     pointer-events: none;
   }
 
