@@ -2,7 +2,7 @@
 layout: post
 title: Extensions for Nova editor
 date: '2024-10-17T21:47+01:00'
-last_modified_at: '2024-10-18T21:55+01:00'
+last_modified_at: '2024-10-18T22:50+01:00'
 tags:
 - nova
 - extension
