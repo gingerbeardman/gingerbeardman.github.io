@@ -151,6 +151,8 @@ Run terminal commands on selected text. When you need to use a terminal command 
 
 ![PNG](/images/posts/nova-filter-through-custom-command.png)
 
+<br clear="both">
+
 **Pick from a library of commands**
 
 ![PNG](/images/posts/nova-filter-through-command.png)
