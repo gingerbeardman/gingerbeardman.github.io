@@ -147,4 +147,10 @@ Run terminal commands on selected text. When you need to use a terminal command 
 
 [extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.FilterThroughCommand/](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.FilterThroughCommand/)
 
+**Type your own command**
+
+![PNG](/images/posts/nova-filter-through-custom-command.png)
+
+**Pick from a library of commands**
+
 ![PNG](/images/posts/nova-filter-through-command.png)
