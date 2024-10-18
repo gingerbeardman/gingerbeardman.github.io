@@ -2,6 +2,7 @@
 layout: post
 title: Extensions for Nova editor
 date: '2024-10-17T21:47+01:00'
+last_modified_at: '2024-10-18T21:55+01:00'
 tags:
 - nova
 - extension
@@ -137,3 +138,11 @@ Source code, after:
 ```lua
 { 0x050, 0x104, 0x202, 0x050, 0x451, 0x104, 0x505, 0x088, 0x272, 0x104, 0x050 }
 ```
+
+## Filter Through Command
+
+Run terminal commands on selected text. When you need to use a terminal command but you just want the results. The possibilities are endless as command line is your oyster! Comes with a library of useful commands including sort, base64 decode/encode, extract URLs, remove blank lines, count loc, remove HTML tags.
+
+[extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.FilterThroughCommand/](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.FilterThroughCommand/)
+
+![PNG](nova-filter-through-command.png)
