@@ -2,7 +2,7 @@
 layout: post
 title: Extensions for Nova editor
 date: '2024-10-17T21:47+01:00'
-last_modified_at: '2024-10-18T22:50+01:00'
+last_modified_at: '2024-10-19T01:54+01:00'
 tags:
 - nova
 - extension
@@ -156,3 +156,11 @@ Run terminal commands on selected text. When you need to use a terminal command 
 **Pick from a library of commands**
 
 ![PNG](/images/posts/nova-filter-through-command.png)
+
+----
+
+## Bookmarks
+
+Bookmark files in the Sidebar for easier management. Ideal if the Files Sidebar is too much, or you want a simpler view of the files you are working on.
+
+[extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.Bookmarks/](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.Bookmarks/)
