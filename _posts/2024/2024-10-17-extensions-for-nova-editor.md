@@ -28,6 +28,8 @@ style: |
 
 I'm a big believer in solving problems yourself if it's possible rather than waiting for app updates that might never arrive. Making extensions for the [Nova editor](https://nova.app) that I do most of my programming and blogging in is so much fun! So, here are some of my own creation:
 
+View all: [extensions.panic.com/extensions/com.gingerbeardman/](https://extensions.panic.com/extensions/com.gingerbeardman/)
+
 ----
 
 ## YAML Tag Picker
