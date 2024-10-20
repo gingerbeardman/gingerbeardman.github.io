@@ -2,7 +2,7 @@
 layout: post
 title: "A haze of inspiration"
 date: '2024-09-28T18:46+01:00'
-last_modified_at: '2024-09-29T14:04+01:00'
+last_modified_at: '2024-10-20T15:04+01:00'
 tags:
 - design
 - gamedev
@@ -152,6 +152,7 @@ With enough searching, or metaphorical travelling, you'll be able to find your o
 - [The Creative Act: A Way of Being](https://www.goodreads.com/book/show/60965426-the-creative-act) (Rick Rubin, 2023)
 - [Steal Like An Artist](https://www.goodreads.com/book/show/13099738-steal-like-an-artist) (Austin Kleon, 2021)
 - [The Ecstasy of Influence](https://www.goodreads.com/book/show/10770576-the-ecstasy-of-influence) (Jonathan Lethem, 2011)
+- [Ideas Are Just a Multiplier of Execution](https://sive.rs/multiply) (Derek Sivers, 2005)
 - [Think Like Da Vinci](https://www.goodreads.com/book/show/8083765-think-like-da-vinci) (Michael J. Gelb, 1998)
 - [The Alchemist](https://www.goodreads.com/book/show/18144590-the-alchemist) (Paulo Coelho, 1988)
 - [Oblique Strategies](https://www.goodreads.com/book/show/20425787-oblique-strategies) (Brian Eno & Peter Schmidt, 1975–2001)
