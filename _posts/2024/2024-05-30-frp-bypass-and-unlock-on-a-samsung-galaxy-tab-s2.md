@@ -63,4 +63,4 @@ By enabling OEM Unlock the FRP lock will also be switched off, which is very han
 
 ## Android update
 
-From here I installed [Lineage OS 20](https://xdaforums.com/t/unofficial-rom-alpha-lineageos-20-for-sm-t713-may-16-2024.4667460/) (Android 13) on the device, which would otherwise be limited to very old Android 6 or 7. Other options are [Lineage OS 17.1](https://xdaforums.com/t/rom-unofficial-10-lineageos-17-1-t713-t719-t813-t819.4070161/page-58) (Android 10) [Stock Android 7 Lite](https://xdaforums.com/t/rom-7-0-nougat-abandoned-stock-lite-v8-t713-t813.3746583/).
+From here I installed [Lineage OS 20](https://xdaforums.com/t/unofficial-rom-alpha-lineageos-20-for-sm-t713-may-16-2024.4667460/) (Android 13) on the device, which would otherwise be limited to very old Android 6 or 7. Other options are [Lineage OS 17.1](https://xdaforums.com/t/rom-unofficial-10-lineageos-17-1-t713-t719-t813-t819.4070161/) (Android 10) [Stock Android 7 Lite](https://xdaforums.com/t/rom-7-0-nougat-abandoned-stock-lite-v8-t713-t813.3746583/).
