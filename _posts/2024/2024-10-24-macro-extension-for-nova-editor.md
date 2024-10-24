@@ -12,6 +12,7 @@ nouns:
 - Nova editor
 - Nova API
 - TextMate
+image: /images/posts/nova-macro-extension-record.png
 comments: https://twitter.com/gingerbeardman/status/
 style: |
   img {

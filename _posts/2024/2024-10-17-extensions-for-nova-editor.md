@@ -17,6 +17,7 @@ redirect_from:
 - /2024/10/17/more-extensions-for-nova-editor/
 - /2024/10/08/markdown-file-linker/
 - /2024/10/08/yaml-tag-picker/
+image: /images/posts/nova-filter-through-command.png
 comments: https://twitter.com/gingerbeardman/status/1846915314254069773
 style: |
   img {
