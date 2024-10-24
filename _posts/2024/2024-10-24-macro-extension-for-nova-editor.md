@@ -41,11 +41,11 @@ You can download the extension at: [extensions.panic.com/extensions/com.gingerbe
 
 ## Recording
 
-Recording is done on-demand, only when you want it. A notification will signal recording has begun. When done, you select the Stop button in the notification and the macro will be automatically saved to the sidebar.
+Recording is done on-demand, only when you want it. A notification will signal recording has begun. When you've finished you click the Stop button in the notification and the macro will be automatically saved to the sidebar with a sequential name. You can rename it afterwards if you'd like.
 
-You can also start the recording using the + sidebar icon, or a command via the menu or command palette, but recording is always stopped through the notification.
+You can also start the recording using the `+` sidebar icon, or using the command via the Editor menu or *Command Palette*, but recording is always stopped through the notification.
 
-After recording a macro a number of options become available via the context menu.
+After recording a macro a number of options become available via the context menu, more on those later.
 
 ![IMG](/images/posts/nova-macro-extension-record.png "Macro recording notification")
 {:.tofigure}
@@ -54,7 +54,7 @@ After recording a macro a number of options become available via the context men
 
 ## Example Macro
 
-Let us type:
+Let's type:
 
 - `Nova!<move left 1><select -3><replace "ova" → "O">VA<move left 3><delete 3>ova`
 
@@ -117,4 +117,6 @@ Note: if you want to see the smoothest character-by-character playback, you shou
 
 ## Improvements
 
-There are still some improvements I'd like to make in the future, to be able to more easily see the cursor during playback, and to highlight the current action in the sidebar so you can keep track of progress. The [source code is available on GitHub](https://github.com/gingerbeardman/Macro) and PRs are more than welcome!
+There are still some improvements I'd like to make in the future: to be able to more easily see the cursor during playback, and to highlight the current action in the sidebar so you can keep track of progress. We'll see if/when I get around to those.
+
+The [source code is available on GitHub](https://github.com/gingerbeardman/Macro) and PRs are more than welcome!
