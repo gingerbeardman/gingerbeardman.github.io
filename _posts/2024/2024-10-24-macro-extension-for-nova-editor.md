@@ -105,11 +105,11 @@ After a macro is recorded you can manipulate it using the context menu of items 
 
 ## Configuration
 
-Recording selections adds extra weight and slowness to a macro, so whilst the extension defaults to recording text selection changes I added the option to switch it off. Plus, if you're only ever concerned with the smallest macros you can enable automatic compression of every macro which happens as the macro is saved after recording.
+Recording selections adds extra weight and slowness to a macro, so whilst the extension defaults to recording text selection changes I added the option to switch it off. If you're only interested in the smallest size macros you can enable automatic compression of every macro which happens as the macro is saved.
 
-Playback is very quick but in some situations such as playing back for a screen recording you might want the text to appear more slowly, so I added a playback speed option.
+Playback is very quick but in some situations, such as playing back for a screen recording, you might want the text to appear more slowly, so I added a playback speed option.
 
-Note: if you want to see the smoothest character-by-character playback, you should make sure both compression and record selection changes are switched off.
+Note: if you want to see the smoothest character-by-character playback, you should make sure compression and record selection changes are both switched off.
 
 ----
 
