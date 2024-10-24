@@ -81,7 +81,7 @@ Compression also helps with readability though I added a function to copy a huma
 
 ## Sidebar
 
-Recorded macros live in a bespoke sidebar, and can be expanded or collapsed on demand. We can see each action in the macro and see exactly how the compressed version differs. We can use the context menu to manipulate macros.
+Recorded macros live in a bespoke sidebar, and can be expanded or collapsed on demand. This allows us to see each action in the macro and exactly how the compressed version differs. The context menu provides functions to manipulate and manage the macros.
 
 ![IMG](/images/posts/nova-macro-extension-sidebar.png "Macro sidebar with raw and compressed versions, expanded to show all actions")
 {:.tofigure}
