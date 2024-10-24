@@ -23,7 +23,7 @@ style: |
 
 After creating [a bunch of smaller Nova Extensions quite quickly](/2024/10/17/extensions-for-nova-editor/) I wondered how far I could push things, just as a personal challenge. I had the idea of implementing a Macro text recording and playback system. There was something similar in TextMate editor, and whilst the Nova API doesn't currently allow as sophisticated a system I thought it was something still worth exploring.
 
-It took a few aborted attempts to land on a good mechanism of recording and playing back "actions", which currently encompass: 
+Design of the system was incremental, with improvements and simplifications that came about through using it. It took a few aborted attempts to land on a good mechanism of recording and playing back "actions", which currently encompass: 
 
 - insertions
 - deletions
@@ -43,7 +43,7 @@ You can download the extension at: [extensions.panic.com/extensions/com.gingerbe
 
 Recording is done on-demand, only when you want it. A notification will signal recording has begun. When you've finished you click the Stop button in the notification and the macro will be automatically saved to the sidebar with a sequential name. You can rename it afterwards if you'd like.
 
-You can also start the recording using the `+` sidebar icon, or using the command via the Editor menu or *Command Palette*, but recording is always stopped through the notification.
+You can also start the recording using the `+` sidebar icon, or using the command via the Editor menu or *Command Palette*, but recording is always stopped through the notification. It took a while to arrive at this mechanism, and for a long time the extension was a lot more complicated and confusing to use.
 
 After recording a macro a number of options become available via the context menu, more on those later.
 
