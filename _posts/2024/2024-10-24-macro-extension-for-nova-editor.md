@@ -45,8 +45,6 @@ Recording is done on-demand, only when you want it. A notification will signal r
 
 You can also start the recording using the `+` sidebar icon, or using the command via the Editor menu or *Command Palette*, but recording is always stopped through the notification. It took a while to arrive at this mechanism, and for a long time the extension was a lot more complicated and confusing to use.
 
-After recording a macro a number of options become available via the context menu, detailed below.
-
 ![IMG](/images/posts/nova-macro-extension-record.png "Macro recording notification")
 {:.tofigure}
 
