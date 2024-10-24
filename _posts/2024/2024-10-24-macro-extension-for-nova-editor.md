@@ -13,7 +13,7 @@ nouns:
 - Nova API
 - TextMate
 image: /images/posts/nova-macro-extension-record.png
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1849453353496932793
 style: |
   img {
     width: 50%;
