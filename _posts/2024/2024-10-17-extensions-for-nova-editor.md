@@ -7,6 +7,9 @@ tags:
 - nova
 - extension
 - hack
+- tooling
+- poweruser
+- software
 nouns:
 - Panic
 - Nova Extensions

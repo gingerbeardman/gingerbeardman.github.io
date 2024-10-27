@@ -6,6 +6,9 @@ tags:
 - nova
 - extension
 - macro
+- tooling
+- poweruser
+- software
 nouns:
 - Panic
 - Nova Extensions

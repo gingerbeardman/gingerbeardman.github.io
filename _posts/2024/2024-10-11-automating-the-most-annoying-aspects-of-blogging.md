@@ -10,6 +10,8 @@ tags:
 - yaml
 - git
 - docker
+- poweruser
+- software
 nouns:
 - GitHub
 - Jekyll
