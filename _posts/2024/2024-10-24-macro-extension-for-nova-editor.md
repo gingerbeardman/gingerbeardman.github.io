@@ -48,8 +48,6 @@ Recording is done on-demand, only when you want it. A notification will signal r
 
 You can also start the recording using the `+` sidebar icon, or using the command via the Editor menu or *Command Palette*, but recording is always stopped through the notification. It took a while to arrive at this mechanism, and for a long time the extension was a lot more complicated and confusing to use.
 
-After recording a macro a number of options become available via the context menu, detailed below.
-
 ![IMG](/images/posts/nova-macro-extension-record.png "Macro recording notification")
 {:.tofigure}
 
@@ -86,7 +84,7 @@ Compression also helps with readability though I added a function to copy a huma
 
 ## Sidebar
 
-Recorded macros live in a bespoke sidebar, and can be expanded or collapsed on demand. We can see each action in the macro and see exactly how the compressed version differs. We can use the context menu to manipulate macros.
+Recorded macros live in a bespoke sidebar, and can be expanded or collapsed on demand. This allows us to see each action in the macro and exactly how the compressed version differs. The context menu provides functions to manipulate and manage the macros.
 
 ![IMG](/images/posts/nova-macro-extension-sidebar.png "Macro sidebar with raw and compressed versions, expanded to show all actions")
 {:.tofigure}
@@ -110,11 +108,11 @@ After a macro is recorded you can manipulate it using the context menu of items 
 
 ## Configuration
 
-Recording selections adds extra weight and slowness to a macro, so whilst the extension defaults to recording text selection changes I added the option to switch it off. Plus, if you're only ever concerned with the smallest macros you can enable automatic compression of every macro which happens as the macro is saved after recording.
+Recording selections adds extra weight and slowness to a macro, so whilst the extension defaults to recording text selection changes I added the option to switch it off. If you're only interested in the smallest size macros you can enable automatic compression of every macro which happens as the macro is saved.
 
-Playback is very quick but in some situations such as playing back for a screen recording you might want the text to appear more slowly, so I added a playback speed option.
+Playback is very quick but in some situations, such as playing back for a screen recording, you might want the text to appear more slowly, so I added a playback speed option.
 
-Note: if you want to see the smoothest character-by-character playback, you should make sure both compression and record selection changes are switched off.
+Note: if you want to see the smoothest character-by-character playback, you should make sure compression and record selection changes are both switched off.
 
 ----
 
