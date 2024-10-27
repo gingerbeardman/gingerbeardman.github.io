@@ -29,7 +29,7 @@ This time I wanted to keep track of how many times I'm calling certain functions
 
 You can configure a list of words to count, and the thesholds that will trigger the grey/green/yellow/red coloured blobs, on a per-project basis using the workspace *Project Settings...* panel.
 
-And you can double-click on a word in the sidebar to search the current document for it. This feature uses AppleScript so you'll need to give Nova permissions, though it should prompt you to do that if it doesn't already have them already.
+And you can double-click on a word in the sidebar to search the current document for it. This feature uses AppleScript so you'll need to give Nova permissions, though it should prompt you to do that if it doesn't have them already.
 
 Note: the screenshot below is slightly old as I've since refined the images in the extension.
 
