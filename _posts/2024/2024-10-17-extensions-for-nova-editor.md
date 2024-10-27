@@ -8,6 +8,7 @@ tags:
 - extension
 - hack
 - tooling
+- workflow
 - poweruser
 - software
 nouns:

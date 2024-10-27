@@ -7,6 +7,7 @@ tags:
 - extension
 - macro
 - tooling
+- workflow
 - poweruser
 - software
 nouns:
