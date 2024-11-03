@@ -2,7 +2,7 @@
 layout: post
 title: Extensions for Nova editor
 date: '2024-10-17T21:47+01:00'
-last_modified_at: '2024-10-19T01:54+01:00'
+last_modified_at: '2024-11-03T18:53+00:00'
 tags:
 - nova
 - extension
@@ -173,3 +173,23 @@ Run terminal commands on selected text. When you need to use a terminal command 
 Bookmark files in the Sidebar for easier management. Ideal if the Files Sidebar is too much, or you want a simpler view of the files you are working on.
 
 [extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.Bookmarks/](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.Bookmarks/)
+
+----
+
+## Tag Sync
+
+Automatic synchronisation of closing tag when editing opening tag. Improve your coding efficiency by ensuring tag pairs stay synchronized while editing markup languages!
+
+[extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.tagsync/](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.tagsync/)
+
+----
+
+## Macro
+
+Text editing recording and playback system. This one [has its own blog post](/2024/10/24/macro-extension-for-nova-editor/).
+
+----
+
+## Word Counter
+
+Count multiple words and have their tally displayed in the sidebar. This one also [has its own blog post](/2024/10/27/word-counter-extension-for-nova-editor/).
