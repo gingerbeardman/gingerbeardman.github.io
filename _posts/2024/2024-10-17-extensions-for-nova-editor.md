@@ -193,3 +193,4 @@ Text editing recording and playback system. This one [has its own blog post](/20
 ## Word Counter
 
 Count multiple words and have their tally displayed in the sidebar. This one also [has its own blog post](/2024/10/27/word-counter-extension-for-nova-editor/).
+
