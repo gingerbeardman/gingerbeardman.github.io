@@ -3,8 +3,6 @@ module Jekyll
     def replace_nouns(content, nouns)
       return content if nouns.nil? || nouns.empty?
       
-      Jekyll.logger.info "ReplaceNounsFilter:", "Starting replacement for nouns: #{nouns.join(', ')}"
-      
       # First protect special patterns
       protected_content = content.dup
       
@@ -17,7 +15,6 @@ module Jekyll
         key = "[[URL#{protection_count}]]"
         protections[key] = match
         protection_count += 1
-        Jekyll.logger.info "ReplaceNounsFilter:", "Protected URL: #{match} → #{key}"
         key
       end
       
@@ -29,7 +26,6 @@ module Jekyll
           protections[key] = yaml_content
           protection_count += 1
           protected_content.sub!(yaml_content, key)
-          Jekyll.logger.info "ReplaceNounsFilter:", "Protected YAML front matter"
         end
       end
       
@@ -38,7 +34,6 @@ module Jekyll
         key = "[[CODE#{protection_count}]]"
         protections[key] = match
         protection_count += 1
-        Jekyll.logger.info "ReplaceNounsFilter:", "Protected code block"
         key
       end
       
@@ -47,16 +42,13 @@ module Jekyll
         noun_str = Regexp.escape(noun.to_s)
         # Look for the noun with word boundaries, excluding already wrapped em tags
         protected_content = protected_content.gsub(/(?<!<em>)(?<=^|\s|\(|>)#{noun_str}(?=$|\s|\)|<)(?!<\/em>)/i) do |match|
-          emphasized = "<em>#{match}</em>"
-          Jekyll.logger.info "ReplaceNounsFilter:", "Replacing noun: #{match} → #{emphasized}"
-          emphasized
+          "<em>#{match}</em>"
         end
       end
       
       # Restore protected content in reverse order
       protections.each do |key, value|
         protected_content = protected_content.gsub(key, value)
-        Jekyll.logger.info "ReplaceNounsFilter:", "Restored protected content: #{key}"
       end
       
       protected_content
