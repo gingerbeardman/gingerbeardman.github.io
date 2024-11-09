@@ -85,7 +85,7 @@ Golf video games are one of my passions, ever since World Class Leader Board and
 
 ## Translation Guides
 
-To make it easier for you to play the Japanese games mentioned below, I wrote translation guides: [gamefaqs.gamespot.com/community/msephton/contributions/faqs](https://gamefaqs.gamespot.com/genesis/586373-pebble-beach-golf-links/faqs/77377)
+To make it easier for you to play the Japanese games mentioned below, I wrote translation guides: [gamefaqs.gamespot.com/community/msephton/contributions/faqs](https://gamefaqs.gamespot.com/community/msephton/contributions/faqs)
 
 ----
 
