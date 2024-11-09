@@ -87,6 +87,8 @@ Golf video games are one of my passions, ever since World Class Leader Board and
 
 To make it easier for you to play the Japanese games mentioned below, I wrote translation guides: [gamefaqs.gamespot.com/community/msephton/contributions/faqs](https://gamefaqs.gamespot.com/community/msephton/contributions/faqs)
 
+![Pineapple golf course ad](/images/posts/new-3d-golf-simulation-ad.jpg)
+
 ----
 
 ## 8-bit Computers
@@ -119,7 +121,7 @@ A break of 4 years should give you some idea as to the work that was going on be
 
 {% youtube Yp3YpAc2PpM @310 %}
 
-Harukanaru Augusta and Eight Lakes G.C. were also released on FM-TOWNS and Sharp X68000, but not the later courses. Maybe sales weren't good enough? Harukanaru Augusta would also see a re-release as a "HD" version, running System Disk 2.5, but this was not backwards compatible with the previous releases. At this point the engine powering the games had been rewritten and was referred to as [POLYSYS](https://archive.org/details/technopolis-1989-11/01_journal-1989-11/page/n13/mode/2up?q=%22POLYSYS%22) and made claims of being an "Integrated 3D Processor" or software DSP. IIRC each 3D course consisted of a mere 256 points!
+Harukanaru Augusta and Eight Lakes G.C. were also [released on FM-TOWNS and Sharp X68000](https://archive.org/details/oh-pc-issue-137-dec-15-1990/Oh%21%20PC%20Issue%20137%20%28Dec%2015%201990%29/page/86/mode/2up?q=%22POLYSYS%22), but not the later courses. Maybe sales weren't good enough? Harukanaru Augusta would also see a re-release as a "HD" version, running System Disk 2.5, but this was not backwards compatible with the previous releases. At this point the engine powering the games had been rewritten and was referred to as [POLYSYS](https://archive.org/details/technopolis-1989-11/01_journal-1989-11/page/n13/mode/2up?q=%22POLYSYS%22) and made claims of being an "Integrated 3D Processor" or software DSP. The holes were designed in a [custom CAD package](https://archive.org/details/new-3-d-golf-simulation-pebble-beach-no-hatou-shvc-gb-sfc-jp-manual-600-dpi/page/n63/mode/2up?q=%22POLYSYS%22). IIRC each 3D course consisted of a mere 256 points! I need to find the cite for that.
 
 ![POLYSYS logo](/images/posts/new-3d-golf-simulation-polysys.png#smaller "Would look great on a T-shirt, right?")
 {:.tofigure}
