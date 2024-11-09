@@ -31,6 +31,7 @@ nouns:
 - Sega Saturn
 - Saturn
 - PlayStation
+- PS2
 - N64
 - Virtual Boy
 - T&E Virtual Golf
