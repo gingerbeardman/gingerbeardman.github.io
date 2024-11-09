@@ -152,7 +152,7 @@ Playing them today under emulation I make sure to overclock the CPU (400% is goo
 
 ## Real 3D?
 
-With the arrival of systems capable of real-time 3D came the opportunity for more realistic golf courses, at least. But there was some legacy baggage hanging around. The SNES was still very popular, and it wasn't obvious how much more powerful the more awkward to program 32-bit systems like the 3DO and Saturn might be. So the final games in the series on SNES and the first in the series on 3DO and Saturn were pretty much the same. Amazing for SNES owners, and perhaps disappointing for 3DO and Saturn owners.
+With the arrival of systems capable of real-time 3D came the opportunity for more realistic golf courses, at least. But there was some legacy baggage hanging around. The SNES was still very popular, and it wasn't obvious how much more powerful the more awkward to program 32-bit systems like the 3DO and Saturn might be. So the final games in the series on SNES and the first in the series on 3DO and Saturn were pretty much the same: 3D but no dynamic camera. Amazing for SNES owners, and perhaps disappointing for 3DO and Saturn owners.
 
 PlayStation and N64, on the other hand, got real 3D versions of the game. Even the Virtual Boy got a decent wireframe 3D version of this era T&E SOFT golf engine, as [T&E Virtual Golf](https://www.youtube.com/watch?v=YvcLiwgLLXg) (or just *Golf* worldwide). Quite surprising! All are very much worth playing, though I personally favour the [PlayStation games](https://www.youtube.com/watch?v=HMq_9W8OCOQ) over the N64 games. Virtual Boy Golf is worth a try, just for kicks, and can be played under emulation in 3D using anaglyph red/blue glasses or in glasses-free 3D in an emulator on a Nintendo 3DS!
 
