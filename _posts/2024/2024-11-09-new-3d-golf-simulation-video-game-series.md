@@ -41,9 +41,14 @@ nouns:
 - Masters
 - Pebble Beach no Hatou
 - Pebble Beach Golf Links
+- Pebble Beach
+- Waialae no Kiseki ~Extra 36 Holes~
 - Waialae no Kiseki
+- Windy G.C.
 - Waialae Country Club
+- Waialae
 - Devil's Course
+- Devil’s Course
 - Wicked 18
 - Eight Lakes G.C.
 - 3DGOLF
@@ -125,7 +130,7 @@ For PC-9801 the total list of available courses counted six:
 
 {% youtube Yp3YpAc2PpM @310 %}
 
-Harukanaru Augusta and *Eight Lakes G.C.* were also [released on FM-TOWNS and Sharp X68000](https://archive.org/details/oh-pc-issue-137-dec-15-1990/Oh%21%20PC%20Issue%20137%20%28Dec%2015%201990%29/page/86/mode/2up?q=%22POLYSYS%22), but not the later courses. Maybe sales weren't good enough? Harukanaru Augusta would also see a re-release as a "HD" version, running System Disk 2.5, but this was not backwards compatible with the previous releases. At this point the engine powering the games had been rewritten and was referred to as [POLYSYS](https://archive.org/details/technopolis-1989-11/01_journal-1989-11/page/n13/mode/2up?q=%22POLYSYS%22) and made claims of being an "Integrated 3D Processor" or software DSP. The holes were designed in a [custom CAD package](https://archive.org/details/new-3-d-golf-simulation-pebble-beach-no-hatou-shvc-gb-sfc-jp-manual-600-dpi/page/n63/mode/2up?q=%22POLYSYS%22). IIRC each 3D hole consisted of a mere 256 points! I need to find the cite for that.
+Harukanaru Augusta and Eight Lakes G.C. were also [released on FM-TOWNS and Sharp X68000](https://archive.org/details/oh-pc-issue-137-dec-15-1990/Oh%21%20PC%20Issue%20137%20%28Dec%2015%201990%29/page/86/mode/2up?q=%22POLYSYS%22), but not the later courses. Maybe sales weren't good enough? Harukanaru Augusta would also see a re-release as a "HD" version, running System Disk 2.5, but this was not backwards compatible with the previous releases. At this point the engine powering the games had been rewritten and was referred to as [POLYSYS](https://archive.org/details/technopolis-1989-11/01_journal-1989-11/page/n13/mode/2up?q=%22POLYSYS%22) and made claims of being an "Integrated 3D Processor" or software DSP. The holes were designed in a [custom CAD package](https://archive.org/details/new-3-d-golf-simulation-pebble-beach-no-hatou-shvc-gb-sfc-jp-manual-600-dpi/page/n63/mode/2up?q=%22POLYSYS%22). IIRC each 3D hole consisted of a mere 256 points! I need to find the cite for that.
 
 ![POLYSYS logo](/images/posts/new-3d-golf-simulation-polysys.png#smaller "Would look great on a T-shirt, right?")
 {:.tofigure}
@@ -136,7 +141,9 @@ Harukanaru Augusta and *Eight Lakes G.C.* were also [released on FM-TOWNS and Sh
 
 The series was eventually ported to console, first to Nintendo's Super Famicom (SNES), with Harukanaru Augusta arriving early in Japan and Waialae Country Club being a USA launch title. Later, totally different ports were released on Sega Mega Drive, which was lucky enough to get four out of the six courses. Pebble Beach was released first in the USA and later in Japan. Harukanaru Augusta, Devil's Course and Waialae followed, but only in Japan.
 
-These Japanese Mega Drive versions are my favourite of the bunch. They're based on the PC-9801 games, right down to using the same course data, and the user interface is a low-resolution facsimile that retains the charm and style of the original PC interface. They really are a work of art. The Japanese versions maintain the dithering effect to show different grass types, but the USA version features only solid colours. The USA version features an easier power meter but removes the special full power shot that the Japanese version had. All in all I'd say the USA versions are easier and less attractive. Playing them today under emulation I make sure to overclock the CPU to reduce the drawing times and make for a more modern and enjoyable experience. You can also hold the B button to speed up ball flight animation, which is even more noticable when running overclocked.
+These Japanese Mega Drive versions are my favourite of the bunch. They're based on the PC-9801 games, right down to using the same course data, and the user interface is a low-resolution facsimile that retains the charm and style of the original PC interface. They really are a work of art. The Japanese versions maintain the dithering effect to show different grass types, but the USA version features only solid colours. The USA version features an easier power meter but removes the special full power shot that the Japanese version had. All in all I'd say the USA versions are easier and less attractive.
+
+Playing them today under emulation I make sure to overclock the CPU (400% is good) to reduce the redraw times, speed up transitions, and make for an altogether more modern and enjoyable experience. You can also hold the B button to speed up ball flight animation, which is even more noticable when running overclocked. Speed runners take note!
 
 {% youtube 18dIjiP_0gw %}
 
@@ -148,7 +155,7 @@ With the arrival of systems capable of real-time 3D. But there was some legacy b
 
 PlayStation and N64, on the other hand, got real 3D versions of the game. Even the Virtual Boy got a decent wireframe 3D version of this era T&E SOFT golf engine, as [T&E Virtual Golf](https://www.youtube.com/watch?v=YvcLiwgLLXg) (or just *Golf* worldwide). Quite surprising! All are very much worth playing, though I personally favour the [PlayStation games](https://www.youtube.com/watch?v=HMq_9W8OCOQ) over the N64 games. Virtual Boy Golf is worth a try, just for kicks, and can be played under emulation in 3D using anaglyph red/blue glasses or in glasses-free 3D in an emulator on a Nintendo 3DS!
 
-That said, the Saturn still had a trump up its sleeve. Perhaps because it was very popular in Japan it was the console T&E SOFT chose to release the final 32-bit version of the game, [*Waialae no Kiseki - Extra 36 Holes*](https://www.youtube.com/watch?v=PCV6EsVBlJo). As you might expect from its name there were two extra courses bundled with this game. The *Eight Lakes* course was a modernisation of the fictional course featured in the 1990 add-on disk for the original Harukanaru Augusta game for PC-98 and X68000 that released back in 1989. Full circle self-referencing from T&E SOFT — nice work!
+That said, the Saturn still had a trump up its sleeve. Perhaps because it was very popular in Japan it was the console T&E SOFT chose to release the final 32-bit version of the game, [*Waialae no Kiseki ~Extra 36 Holes~*](https://www.youtube.com/watch?v=PCV6EsVBlJo). As you might expect from its name there were two extra courses bundled with this game. Windy G.C. was a brand new ultra-difficult course, whilst Eight Lakes G.C. was a modernisation of the fictional course featured in the 1990 add-on disk for the original Harukanaru Augusta game for PC-98 and X68000 that released back in 1989. Full circle self-referencing from T&E SOFT — nice work!
 
 {% youtube HMq_9W8OCOQ %}
 

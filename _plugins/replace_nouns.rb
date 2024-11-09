@@ -37,12 +37,12 @@ module Jekyll
         key
       end
       
-      # Replace nouns - using word boundaries and handling HTML entities
+      # Replace nouns - handling HTML entities and internal periods
       nouns.each do |noun|
         # Convert & to &amp; in the noun for HTML matching
         noun_html = noun.to_s.gsub('&', '&amp;')
         noun_str = Regexp.escape(noun_html)
-        protected_content = protected_content.gsub(/(?<!<em>)\b#{noun_str}\b(?!<\/em>)/) do |match|
+        protected_content = protected_content.gsub(/(?<!<em>)(?<=^|\s|\(|>)#{noun_str}(?=$|\s|\.|,|\)|<)(?!<\/em>)/) do |match|
           "<em>#{match}</em>"
         end
       end
