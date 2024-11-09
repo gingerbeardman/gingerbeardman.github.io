@@ -67,6 +67,11 @@ style: |
     border: 1px solid #EEEEEE;
     box-shadow: 0 0 50px #DADADA;
   }
+  
+  img[src$='#smaller'] {
+    width: 75%;
+    margin: 2rem auto;
+  }
 
 ---
 
@@ -93,7 +98,7 @@ Things got interesting later that year with the follow-up ３Ｄゴルフシミ�
 
 ----
 
-## 16-bit
+## 16-bit Computers
 
 A break of 4 years should give you some idea as to the work that was going on behind the scenes, culminating in the 1989 release of Harukanaru Augusta for PC-9801. This was an official licensed representation of *Augusta National Golf Club*, also known as the location of the famous *Masters* tournament. This is where the series really hit its stride and made lasting impressions: high resolution graphics using a bespoke dithering system to make the most of the limited colour palette, digitised caddy images and sound effects, catchy music using FM synthesis, detailed real life golf courses, and an engaging control system. The 3DGOLF system software was upgraded a couple of times over the next few years, and a handful of add-on courses were released. For PC-9801 the total list of available courses counted 6:
 
@@ -111,7 +116,14 @@ A break of 4 years should give you some idea as to the work that was going on be
   - aka Wicked 18
   - fictional course
 
-Harukanaru Augusta and Eight Lakes G.C. were also released on FM-TOWNS and Sharp X68000, but not the later courses. Maybe sales weren't good enough? Harukanaru Augusta would also see a re-release as a "HD" version, running System Disk 2.5, but this was not backwards compatible with the previous releases. At this point the engine powering the games had been rewritten and was referred to as POLYSYS.
+Harukanaru Augusta and Eight Lakes G.C. were also released on FM-TOWNS and Sharp X68000, but not the later courses. Maybe sales weren't good enough? Harukanaru Augusta would also see a re-release as a "HD" version, running System Disk 2.5, but this was not backwards compatible with the previous releases. At this point the engine powering the games had been rewritten and was referred to as [POLYSYS](https://archive.org/details/technopolis-1989-11/01_journal-1989-11/page/n13/mode/2up?q=%22POLYSYS%22) and made claims of being an "Integrated 3D Processor" or software DSP.
+
+![POLYSYS logo](/images/posts/new-3d-golf-simulation-polysys.png#smaller "Would look great on a T-shirt, right?")
+{:.tofigure}
+
+----
+
+## 16-bit Consoles
 
 The series was eventually ported to console, first to Nintendo's Super Famicom (SNES), with Harukanaru Augusta arriving early in Japan and Waialae Country Club being a USA launch title. Later, totally different ports were released on Sega Mega Drive, which was lucky enough to get four our of the six courses. Pebble Beach was released first in the USA and later in Japan. Harukanaru Augusta, Devil's Course and Waialae followed, but only in Japan.
 
@@ -121,7 +133,7 @@ These Japanese Mega Drive versions are my favourite of the bunch. They're based 
 
 ----
 
-## Real 3D
+## Real 3D?
 
 With the arrival of systems capable of real-time 3D. But there was some legacy baggage hanging around. The SNES was still very popular, and it wasn't obvious how much more powerful the more awkward to program 32-bit systems like the 3DO and Saturn might be. So the final games in the series on SNES and the first in the series on 3DO and Saturn were pretty much the same. Amazing for SNES owners, and perhaps disappointing for 3DO and Saturn owners.
 
@@ -133,7 +145,7 @@ That said, the Saturn still had a trump up its sleeve. Perhaps because it was ve
 
 ----
 
-## Nineteenth hole
+## The 19th Hole
 
 T&E SOFT kind of ceased to exist at some point after this, though they managed to spit out a few golf games under one name or another to mixed reviews. Windows got a proper version of the game in Harukanaru Augusta for Windows, which is great. PS2 got [Golf Paradise](https://www.youtube.com/watch?v=Xxsg_6UerW8) (Swing Away Golf) and a Disney-branded version called [Disney Golf Classic](https://www.youtube.com/watch?v=6gwh3pMIAl8&list=PL2HDVv5AFKLEIn3ZzOtg6_DNVikSU3Yby) (Disney Golf) which are somewhat souless games that really don't excite me.
 
