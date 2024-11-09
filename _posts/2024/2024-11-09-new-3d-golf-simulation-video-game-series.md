@@ -75,7 +75,7 @@ style: |
 
 ---
 
-Golf video games are one of my passions, ever since World Class Leader Board and Microprose Golf on Atari ST. These days my favourite golf games I like to play are still the old ones. In particular I have a soft spot for *T&E SOFT*'s New 3D Golf Simulation series with its blue skies and bright colours. This series has a long history so I'll do my best to recap.
+Golf video games are one of my passions, ever since World Class Leader Board and Microprose Golf on Atari ST. These days my favourite golf games are still the old ones. In particular I have a soft spot for *T&E SOFT*'s New 3D Golf Simulation series with its blue skies, bright colours, and FM synth tunes. This series has a long history so I thought I'd do my best to recap and share some little-known knowledge.
 
 ![3-D Golf Simulation](/images/posts/new-3d-golf-simulation-original.jpg "3-D Golf Simulation (1983, MSX)")
 {:.tofigure}
@@ -116,7 +116,7 @@ A break of 4 years should give you some idea as to the work that was going on be
   - aka Wicked 18
   - fictional course
 
-Harukanaru Augusta and Eight Lakes G.C. were also released on FM-TOWNS and Sharp X68000, but not the later courses. Maybe sales weren't good enough? Harukanaru Augusta would also see a re-release as a "HD" version, running System Disk 2.5, but this was not backwards compatible with the previous releases. At this point the engine powering the games had been rewritten and was referred to as [POLYSYS](https://archive.org/details/technopolis-1989-11/01_journal-1989-11/page/n13/mode/2up?q=%22POLYSYS%22) and made claims of being an "Integrated 3D Processor" or software DSP.
+Harukanaru Augusta and Eight Lakes G.C. were also released on FM-TOWNS and Sharp X68000, but not the later courses. Maybe sales weren't good enough? Harukanaru Augusta would also see a re-release as a "HD" version, running System Disk 2.5, but this was not backwards compatible with the previous releases. At this point the engine powering the games had been rewritten and was referred to as [POLYSYS](https://archive.org/details/technopolis-1989-11/01_journal-1989-11/page/n13/mode/2up?q=%22POLYSYS%22) and made claims of being an "Integrated 3D Processor" or software DSP. IIRC each 3D course consisted of 256 points!
 
 ![POLYSYS logo](/images/posts/new-3d-golf-simulation-polysys.png#smaller "Would look great on a T-shirt, right?")
 {:.tofigure}
