@@ -60,7 +60,7 @@ nouns:
 - SFC
 - Super Famicom
 image: /images/posts/new-3d-golf-simulation-teaser.jpg
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1855353720910791105
 style: |
   img[src$='#box'] {
     margin-top: 2rem !important;
