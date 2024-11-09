@@ -155,6 +155,14 @@ The finale was somewhat of a surprise, with the DS getting [Touch Golf](https://
 
 ----
 
+## Music
+
+The music in this series is really some of the best FM synth you'll hear. I can recommend this episode of the [Pixelated Audio podcast](https://pixelatedaudio.com) to get a quick summary.
+
+{% youtube qPoc3Gk_KxM %}
+
+----
+
 ## Box Art
 
 Perhaps the box artwork is the most striking thing about the Mega Drive versions, with its classic typography-led design, strong brush-stroked calligraphic logo, and the intriguing hand-painted golf scene. These paintings intrigued me as they represented the real life courses. Further investigation revealed that not only did they show a particular hole but they also showed a famous event that happened on the course, with the obvious exception of the fictional Devil's Course. I don't have much knowledge of real life golf events, but I managed to figure them out, I think, using my Google-fu. Though I'd still love to know who painted them!?
