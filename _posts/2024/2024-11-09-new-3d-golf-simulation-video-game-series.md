@@ -117,7 +117,7 @@ A break of 4 years should give you some idea as to the work that was going on be
   - aka Wicked 18
   - fictional course
 
-{% youtube Yp3YpAc2PpM %}
+{% youtube Yp3YpAc2PpM @310 %}
 
 Harukanaru Augusta and Eight Lakes G.C. were also released on FM-TOWNS and Sharp X68000, but not the later courses. Maybe sales weren't good enough? Harukanaru Augusta would also see a re-release as a "HD" version, running System Disk 2.5, but this was not backwards compatible with the previous releases. At this point the engine powering the games had been rewritten and was referred to as [POLYSYS](https://archive.org/details/technopolis-1989-11/01_journal-1989-11/page/n13/mode/2up?q=%22POLYSYS%22) and made claims of being an "Integrated 3D Processor" or software DSP. IIRC each 3D course consisted of a mere 256 points!
 
