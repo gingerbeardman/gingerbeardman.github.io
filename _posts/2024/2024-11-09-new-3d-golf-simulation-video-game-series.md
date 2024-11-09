@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New 3D Golf Simulation (video game series)'
-date: '2024-11-09T20:56+00:00'
+date: '2024-11-09T20:00+00:00'
 tags:
 - japanese
 - golf
@@ -103,7 +103,11 @@ Things got interesting later that year with the follow-up ３Ｄゴルフシミ�
 
 ## 16-bit Computers
 
-A break of 4 years should give you some idea as to the work that was going on behind the scenes, culminating in the 1989 release of Harukanaru Augusta for PC-9801. This was an official licensed representation of *Augusta National Golf Club*, also known as the location of the famous *Masters* tournament. This is where the series really hit its stride and made lasting impressions: high resolution graphics using a bespoke dithering system to make the most of the limited colour palette, digitised caddy images and sound effects, catchy music using FM synthesis, detailed real life golf courses, and an engaging control system. The 3DGOLF system software was upgraded a couple of times over the next few years, and a handful of add-on courses were released. For PC-9801 the total list of available courses counted 6:
+A break of 4 years should give you some idea as to the work that was going on behind the scenes, culminating in the 1989 release of Harukanaru Augusta for PC-9801. This was an official licensed representation of *Augusta National Golf Club*, also known as the location of the famous *Masters* tournament.
+
+This is where the series really hit its stride and made lasting impressions: high resolution graphics using a bespoke dithering system to make the most of the limited colour palette, digitised caddy images and sound effects, catchy music using FM synthesis, detailed real life golf courses, and an engaging control system. The 3DGOLF system software was upgraded a couple of times over the next few years, and a handful of add-on courses were released.
+
+For PC-9801 the total list of available courses counted six:
 
 * [Harukanaru Augusta](https://www.mobygames.com/game/56201/harukanaru-augusta/screenshots/pc98/) (1989) [System Disk 1.0]
   - *"Distant Augusta"*
