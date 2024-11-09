@@ -90,7 +90,7 @@ To make it easier for you to play the Japanese games mentioned below, I wrote tr
 
 ## 8-bit Computers
 
-The series began in 1982 with リアルゴルフゲーム ([Real Golf Game](https://necretro.org/Real_Golf_Game)) for NEC PC-6001, a distinctly 2D presentation with overhead view, power bar and course map.
+The series began in 1982 with リアルゴルフゲーム ([Real Golf Game](https://necretro.org/Real_Golf_Game)) for NEC PC-6001, a distinctly 2D presentation with overhead view, power bar and course map. [Here's a video](https://www.youtube.com/watch?v=mXIZB54b6Jc) of where it all began.
 
 Things got interesting later that year with the follow-up ３Ｄゴルフシミュレーション ([3-D Golf Simulation](https://necretro.org/3D_Golf_Simulation)) which was written for the Fujitsu FM-7 computer and published in [the 1983-4 issue of I/O magazine](https://archive.org/details/Io19834/page/n185/mode/2up). The game was written in BASIC and its [source code](https://archive.org/details/Io19834/page/n187/mode/2up), including data for 18 holes known as *T&E Island Golf Course*, was given away in the magazine as a type-in listing. The game was released commercially on a few other Japanese 8-bit computers over the next couple of years, with machine code gradually added to speed up the 3D processing in [1984's "High-Speed" edition](https://www.youtube.com/watch?v=TqBlo1BgaGY) for MSX and [1985's "Super Version"](https://necretro.org/3D_Golf_Simulation_Super_Version) for PC-6001 mkII.
 
@@ -116,7 +116,9 @@ A break of 4 years should give you some idea as to the work that was going on be
   - aka Wicked 18
   - fictional course
 
-Harukanaru Augusta and Eight Lakes G.C. were also released on FM-TOWNS and Sharp X68000, but not the later courses. Maybe sales weren't good enough? Harukanaru Augusta would also see a re-release as a "HD" version, running System Disk 2.5, but this was not backwards compatible with the previous releases. At this point the engine powering the games had been rewritten and was referred to as [POLYSYS](https://archive.org/details/technopolis-1989-11/01_journal-1989-11/page/n13/mode/2up?q=%22POLYSYS%22) and made claims of being an "Integrated 3D Processor" or software DSP. IIRC each 3D course consisted of 256 points!
+{% youtube Yp3YpAc2PpM %}
+
+Harukanaru Augusta and Eight Lakes G.C. were also released on FM-TOWNS and Sharp X68000, but not the later courses. Maybe sales weren't good enough? Harukanaru Augusta would also see a re-release as a "HD" version, running System Disk 2.5, but this was not backwards compatible with the previous releases. At this point the engine powering the games had been rewritten and was referred to as [POLYSYS](https://archive.org/details/technopolis-1989-11/01_journal-1989-11/page/n13/mode/2up?q=%22POLYSYS%22) and made claims of being an "Integrated 3D Processor" or software DSP. IIRC each 3D course consisted of a mere 256 points!
 
 ![POLYSYS logo](/images/posts/new-3d-golf-simulation-polysys.png#smaller "Would look great on a T-shirt, right?")
 {:.tofigure}
