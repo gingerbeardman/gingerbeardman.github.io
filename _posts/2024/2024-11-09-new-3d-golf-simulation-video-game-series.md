@@ -88,7 +88,7 @@ To make it easier for you to play the Japanese games mentioned below, I wrote tr
 
 ----
 
-## 8-bit
+## 8-bit Computers
 
 The series began in 1982 with リアルゴルフゲーム ([Real Golf Game](https://necretro.org/Real_Golf_Game)) for NEC PC-6001, a distinctly 2D presentation with overhead view, power bar and course map.
 
