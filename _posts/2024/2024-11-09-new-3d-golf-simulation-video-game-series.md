@@ -188,7 +188,7 @@ The music in this series really is some of the best FM synth you'll hear. I can 
 
 ## Box Art
 
-Perhaps the box artwork is the most striking thing about the Mega Drive versions, with its classic typography-led design, strong brush-stroked calligraphic logo, and the intriguing hand-painted golf scene. These paintings intrigued me as they represented the real life courses. Further investigation revealed that not only did they show a particular hole but they also showed a famous event that happened on the course, with the obvious exception of the fictional Devil's Course. I don't have much knowledge of real life golf events, but I managed to figure them out, I think, using my Google-fu. Though I'd still love to know who painted them!?
+Perhaps the box artwork is the most striking thing about the Mega Drive versions, with its classic typography-led design, strong brush-stroked calligraphic logo, and the intriguing hand-painted golf scene. These paintings obviously represent the real life courses, but further investigation revealed that not only did they show a particular hole but they also showed a famous event that happened on the course (with the obvious exception of the fictional Devil's Course). I don't have much knowledge of real life golf events, but I managed to figure them out, I think, using my Google-fu. Though I'd still love to know who painted them!?
 
 ----
 
