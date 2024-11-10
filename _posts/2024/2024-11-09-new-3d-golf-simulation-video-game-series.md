@@ -116,8 +116,8 @@ This is where the series really hit its stride and made lasting impressions: hig
 For PC-9801 the total list of available courses counted six:
 
 * [Harukanaru Augusta](https://www.mobygames.com/game/56201/harukanaru-augusta/screenshots/pc98/) (1989)
-  - [System Disk 1.0]
   - *"Distant Augusta"*
+  - [System Disk 1.0]
 * [Eight Lakes G.C.](https://www.mobygames.com/game/71396/new-3d-golf-simulation-eight-lakes-gc/screenshots/pc98/) (1990)
   - fictional course
 * [T&E Selection](https://www.mobygames.com/game/102547/new-3d-golf-simulation-te-selection/screenshots/pc98/) (1990)
@@ -125,8 +125,8 @@ For PC-9801 the total list of available courses counted six:
 * [Waialae no Kiseki](https://www.mobygames.com/game/26665/true-golf-classics-waialae-country-club/screenshots/pc98/) (1991)
   - *"Miracle of Waialae"*
 * [Pebble Beach no Hatou](https://www.mobygames.com/game/33405/pebble-beach-golf-links/screenshots/pc98/) (1992)
-  - [System Disk 2.0]
   - *"Waves of Pebble Beach"*
+  - [System Disk 2.0]
 * [Devil's Course](https://www.mobygames.com/game/37942/true-golf-classics-wicked-18/screenshots/pc98/) (1992)
   - aka Wicked 18
   - fictional course
