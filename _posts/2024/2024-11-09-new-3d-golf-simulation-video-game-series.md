@@ -180,7 +180,7 @@ The finale was somewhat of a surprise, with the DS getting [Touch Golf](https://
 
 ## Music
 
-The music in this series is really some of the best FM synth you'll hear. I can recommend this episode of the [Pixelated Audio podcast](https://pixelatedaudio.com) to bring you up to speed.
+The music in this series really is some of the best FM synth you'll hear. I can recommend this episode of the [Pixelated Audio podcast](https://pixelatedaudio.com) to bring you up to speed.
 
 {% youtube qPoc3Gk_KxM %}
 
