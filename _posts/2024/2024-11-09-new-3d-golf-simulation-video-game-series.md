@@ -33,6 +33,7 @@ nouns:
 - PlayStation
 - PS2
 - N64
+- Virtual Boy Golf
 - Virtual Boy
 - T&E Virtual Golf
 - I/O
@@ -66,6 +67,7 @@ nouns:
 - Nintendo
 - SFC
 - Super Famicom
+- Nintendo 3DS
 image: /images/posts/new-3d-golf-simulation-teaser.jpg
 comments: https://twitter.com/gingerbeardman/status/1855353720910791105
 style: |
