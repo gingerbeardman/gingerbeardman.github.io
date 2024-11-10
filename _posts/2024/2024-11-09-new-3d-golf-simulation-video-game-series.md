@@ -197,7 +197,7 @@ Perhaps the box artwork is the most striking thing about the Mega Drive versions
 ![Augusta box art](/images/posts/new-3d-golf-simulation-harukanaru-augusta.jpg#box "Harukanaru Augusta: Jack Nicklaus at Augusta 18th, Masters, 1986")
 {:.tofigure}
 
-{% youtube vbsVaBDRtBI @9647 %}
+{% youtube vbsVaBDRtBI @7676 %}
 
 ----
 
