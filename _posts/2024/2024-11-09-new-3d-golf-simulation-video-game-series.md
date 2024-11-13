@@ -33,6 +33,7 @@ nouns:
 - PlayStation
 - PS2
 - N64
+- Virtual Boy Golf
 - Virtual Boy
 - T&E Virtual Golf
 - I/O
@@ -66,6 +67,9 @@ nouns:
 - Nintendo
 - SFC
 - Super Famicom
+- Nintendo 3DS
+- Windows 9x
+- Windows
 image: /images/posts/new-3d-golf-simulation-teaser.jpg
 comments: https://twitter.com/gingerbeardman/status/1855353720910791105
 style: |
@@ -101,7 +105,7 @@ To make it easier for you to play the Japanese games mentioned below, I wrote tr
 
 The series began in 1982 with リアルゴルフゲーム ([Real Golf Game](https://necretro.org/Real_Golf_Game)) for NEC PC-6001, a distinctly 2D presentation with overhead view, power bar and course map. [Here's a video](https://www.youtube.com/watch?v=mXIZB54b6Jc) of where it all began.
 
-Things got interesting later that year with the follow-up ３Ｄゴルフシミュレーション ([3-D Golf Simulation](https://necretro.org/3D_Golf_Simulation)) which was written for the Fujitsu FM-7 computer and published in [the 1983-4 issue of I/O magazine](https://archive.org/details/Io19834/page/n185/mode/2up). The game was written in BASIC and its [source code](https://archive.org/details/Io19834/page/n187/mode/2up), including data for 18 holes known as *T&E Island Golf Course*, was given away in the magazine as a type-in listing. The game was released commercially on a few other Japanese 8-bit computers over the next couple of years, with machine code gradually added to speed up the 3D processing in [1984's "High-Speed" edition](https://www.youtube.com/watch?v=TqBlo1BgaGY) for MSX and [1985's "Super Version"](https://necretro.org/3D_Golf_Simulation_Super_Version) for PC-6001 mkII.
+Things got interesting later that year with the follow-up ３Ｄゴルフシミュレーション ([3-D Golf Simulation](https://necretro.org/3D_Golf_Simulation)) which was written for the Fujitsu FM-7 computer and published in [the 1983-4 issue of I/O magazine](https://archive.org/details/Io19834/page/n185/mode/2up). The game was written in BASIC and its [source code](https://archive.org/details/Io19834/page/n187/mode/2up), including data for 18 holes known as *T&E Island Golf Course*, was given away in the magazine as a type-in listing. The game was released commercially on a few other Japanese 8-bit computers over the next couple of years, with machine code gradually added to speed up the 3D processing in [1984's "High-Speed" edition](https://www.youtube.com/watch?v=TqBlo1BgaGY) for MSX and [1985's "Super Version"](https://necretro.org/3D_Golf_Simulation_Super_Version) for PC-6001 mkII. They're still painfully slow.
 
 {% youtube obfRuu8tCK8 %}
 
@@ -115,16 +119,18 @@ This is where the series really hit its stride and made lasting impressions: hig
 
 For PC-9801 the total list of available courses counted six:
 
-* [Harukanaru Augusta](https://www.mobygames.com/game/56201/harukanaru-augusta/screenshots/pc98/) (1989) [System Disk 1.0]
+* [Harukanaru Augusta](https://www.mobygames.com/game/56201/harukanaru-augusta/screenshots/pc98/) (1989)
   - *"Distant Augusta"*
+  - [System Disk 1.0]
 * [Eight Lakes G.C.](https://www.mobygames.com/game/71396/new-3d-golf-simulation-eight-lakes-gc/screenshots/pc98/) (1990)
   - fictional course
 * [T&E Selection](https://www.mobygames.com/game/102547/new-3d-golf-simulation-te-selection/screenshots/pc98/) (1990)
   - fictional course
 * [Waialae no Kiseki](https://www.mobygames.com/game/26665/true-golf-classics-waialae-country-club/screenshots/pc98/) (1991)
   - *"Miracle of Waialae"*
-* [Pebble Beach no Hatou](https://www.mobygames.com/game/33405/pebble-beach-golf-links/screenshots/pc98/) (1992) [System Disk 2.0]
+* [Pebble Beach no Hatou](https://www.mobygames.com/game/33405/pebble-beach-golf-links/screenshots/pc98/) (1992)
   - *"Waves of Pebble Beach"*
+  - [System Disk 2.0]
 * [Devil's Course](https://www.mobygames.com/game/37942/true-golf-classics-wicked-18/screenshots/pc98/) (1992)
   - aka Wicked 18
   - fictional course
@@ -152,7 +158,7 @@ Playing them today under emulation I make sure to overclock the CPU (400% is goo
 
 ## Real 3D?
 
-With the arrival of systems capable of real-time 3D. But there was some legacy baggage hanging around. The SNES was still very popular, and it wasn't obvious how much more powerful the more awkward to program 32-bit systems like the 3DO and Saturn might be. So the final games in the series on SNES and the first in the series on 3DO and Saturn were pretty much the same. Amazing for SNES owners, and perhaps disappointing for 3DO and Saturn owners.
+With the arrival of systems capable of real-time 3D came the opportunity for more realistic golf courses, at least. But there was some legacy baggage hanging around. The SNES was still very popular, and it wasn't obvious how much more powerful the more awkward to program 32-bit systems like the 3DO and Saturn might be. So the final games in the series on SNES and the first in the series on 3DO and Saturn were pretty much the same: 3D but no dynamic camera. Amazing for SNES owners, and perhaps disappointing for 3DO and Saturn owners.
 
 PlayStation and N64, on the other hand, got real 3D versions of the game. Even the Virtual Boy got a decent wireframe 3D version of this era T&E SOFT golf engine, as [T&E Virtual Golf](https://www.youtube.com/watch?v=YvcLiwgLLXg) (or just *Golf* worldwide). Quite surprising! All are very much worth playing, though I personally favour the [PlayStation games](https://www.youtube.com/watch?v=HMq_9W8OCOQ) over the N64 games. Virtual Boy Golf is worth a try, just for kicks, and can be played under emulation in 3D using anaglyph red/blue glasses or in glasses-free 3D in an emulator on a Nintendo 3DS!
 
@@ -164,7 +170,7 @@ That said, the Saturn still had a trump up its sleeve. Perhaps because it was ve
 
 ## The 19th Hole
 
-T&E SOFT kind of ceased to exist at some point after this, though they managed to spit out a few golf games under one name or another to mixed reviews. Windows got a proper version of the game in Harukanaru Augusta for Windows, which is great. PS2 got [Golf Paradise](https://www.youtube.com/watch?v=Xxsg_6UerW8) (Swing Away Golf) and a Disney-branded version called [Disney Golf Classic](https://www.youtube.com/watch?v=6gwh3pMIAl8&list=PL2HDVv5AFKLEIn3ZzOtg6_DNVikSU3Yby) (Disney Golf) which are somewhat souless games that really don't excite me.
+T&E SOFT kind of ceased to exist at some point after this, though they managed to spit out a few golf games under one name or another to mixed reviews. Windows 9x got a proper version of the game in Harukanaru Augusta for Windows, which is great. PS2 got [Golf Paradise](https://www.youtube.com/watch?v=Xxsg_6UerW8) (Swing Away Golf) and a Disney-branded version called [Disney Golf Classic](https://www.youtube.com/watch?v=6gwh3pMIAl8&list=PL2HDVv5AFKLEIn3ZzOtg6_DNVikSU3Yby) (Disney Golf) which are somewhat souless games that really don't excite me.
 
 The finale was somewhat of a surprise, with the DS getting [Touch Golf](https://en.wikipedia.org/wiki/True_Swing_Golf) (True Swing Golf) in 2005, and a DSi version in 2009 as [A Little Bit of Nintendo Touch Golf](/2021/02/08/a-little-bit-of-nintendo-touch-golf/). These are both truly great games, though if I had to choose I'd pick the DSi version as it trims some fat and focuses the game and experience perfectly: a real treat! You can [read my review of the DSi verison in an older blog post](/2021/02/08/a-little-bit-of-nintendo-touch-golf/).
 
@@ -174,7 +180,7 @@ The finale was somewhat of a surprise, with the DS getting [Touch Golf](https://
 
 ## Music
 
-The music in this series is really some of the best FM synth you'll hear. I can recommend this episode of the [Pixelated Audio podcast](https://pixelatedaudio.com) to bring you up to speed.
+The music in this series really is some of the best FM synth you'll hear. I can recommend this episode of the [Pixelated Audio podcast](https://pixelatedaudio.com) to bring you up to speed.
 
 {% youtube qPoc3Gk_KxM %}
 
@@ -182,7 +188,11 @@ The music in this series is really some of the best FM synth you'll hear. I can 
 
 ## Box Art
 
-Perhaps the box artwork is the most striking thing about the Mega Drive versions, with its classic typography-led design, strong brush-stroked calligraphic logo, and the intriguing hand-painted golf scene. These paintings intrigued me as they represented the real life courses. Further investigation revealed that not only did they show a particular hole but they also showed a famous event that happened on the course, with the obvious exception of the fictional Devil's Course. I don't have much knowledge of real life golf events, but I managed to figure them out, I think, using my Google-fu. Though I'd still love to know who painted them!?
+Perhaps the box artwork is the most striking thing about the Mega Drive versions, with its classic typography-led design, strong brush-stroked calligraphic logo, and the intriguing hand-painted golf scene. 
+
+These paintings obviously represent the real life courses, but further investigation revealed that not only did they show a particular hole but they also showed a famous event that happened on the course (with the obvious exception of the fictional Devil's Course). 
+
+I don't have much knowledge of real life golf events but I managed to figure them out, I think, using my Google-fu. Though I'd still love to know who painted them!?
 
 ----
 
@@ -191,7 +201,7 @@ Perhaps the box artwork is the most striking thing about the Mega Drive versions
 ![Augusta box art](/images/posts/new-3d-golf-simulation-harukanaru-augusta.jpg#box "Harukanaru Augusta: Jack Nicklaus at Augusta 18th, Masters, 1986")
 {:.tofigure}
 
-{% youtube koBboWFw4ls @137 %}
+{% youtube vbsVaBDRtBI @7676 %}
 
 ----
 
