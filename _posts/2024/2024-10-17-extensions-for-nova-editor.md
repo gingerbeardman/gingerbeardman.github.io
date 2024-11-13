@@ -2,7 +2,7 @@
 layout: post
 title: Extensions for Nova editor
 date: '2024-10-17T21:47+01:00'
-last_modified_at: '2024-11-03T18:53+00:00'
+last_modified_at: '2024-11-13T21:59+00:00'
 tags:
 - nova
 - extension
@@ -181,6 +181,14 @@ Bookmark files in the Sidebar for easier management. Ideal if the Files Sidebar 
 Automatic synchronisation of closing tag when editing opening tag. Improve your coding efficiency by ensuring tag pairs stay synchronized while editing markup languages!
 
 [extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.tagsync/](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.tagsync/)
+
+----
+
+## OpenSCAD
+
+Adds language support for OpenSCAD: The Programmers Solid 3D CAD Modeller.
+
+[extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.openscad/](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.openscad/)
 
 ----
 
