@@ -186,7 +186,7 @@ Automatic synchronisation of closing tag when editing opening tag. Improve your 
 
 ## OpenSCAD
 
-Adds language support for OpenSCAD: The Programmers Solid 3D CAD Modeller.
+Adds language support for [OpenSCAD](https://openscad.org): *The Programmers Solid 3D CAD Modeller*.
 
 [extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.openscad/](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.openscad/)
 
