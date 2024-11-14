@@ -2,7 +2,7 @@
 layout: post
 title: Extensions for Nova editor
 date: '2024-10-17T21:47+01:00'
-last_modified_at: '2024-11-13T21:59+00:00'
+last_modified_at: '2024-11-14T22:05+00:00'
 tags:
 - nova
 - extension
@@ -186,7 +186,7 @@ Automatic synchronisation of closing tag when editing opening tag. Improve your 
 
 ## OpenSCAD
 
-Adds language support for [OpenSCAD](https://openscad.org): *The Programmers Solid 3D CAD Modeller*.
+Adds language support for [OpenSCAD](https://openscad.org): *The Programmers Solid 3D CAD Modeller*, including both syntaxes (with highlighting) and completions (with alternate forms).
 
 [extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.openscad/](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.openscad/)
 
