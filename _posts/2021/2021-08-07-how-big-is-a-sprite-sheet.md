@@ -57,6 +57,7 @@ Most modern browsers are well-behaved enough to only play an Animated GIF if it 
 
 ## Stats
 
+<div class="table-wrapper" markdown="block">
 | steps # | render time Secs | frames # | width PX | pixels W×H | png KB | pdt KB | ram Bytes | ram MB |
 |-----------|-------------|----------|-------|------------|--------|--------|-----------|--------|
 | 32        | 30s         | 704      | 1216  | 1016576    | 48     | 39     | 147404    | 0.15   |
@@ -66,6 +67,8 @@ Most modern browsers are well-behaved enough to only play an Animated GIF if it 
 | 180       | 159s        | 3960     | 6840  | 5718240    | 174    | 188    | 829145    | 0.83   |
 | 256       | 192s        | 5632     | 9728  | 8132608    | 209    | 227    | 1179228   | 1.18   |
 | 360       | 285s        | 7920     | 13680 | 11436480   | 240    | 264    | 1658290   | 1.66   |
+
+</div>
 
 ##  Charts
 
