@@ -43,7 +43,7 @@ I'll do a full post-mortem and "what's next" after the game jam results are anno
 
 [gingerbeardman.itch.io/dream-ride](https://gingerbeardman.itch.io/dream-ride)
 
-Play DREAM RIDE on a real Sega Dreamcast (tested on my original imported NTSC-U Sega Dreamcast from 1999, [fitted with a GDEMU](/2020/12/03/dreamcast-gdemu-installation/)) or in an emulator on your favourite console or handheld (tested with Flycast on macOS, GameForce Chi, Powkiddy RGB30, [TrimUI Brick](https://twitter.com/0_game_it/status/1875734954946285610), and a modded Nintendo Switch).
+Play DREAM RIDE on real hardware (tested on my original imported NTSC-U Sega Dreamcast from 1999, [fitted with a GDEMU](/2020/12/03/dreamcast-gdemu-installation/)) or in an emulator on your favourite console or handheld (tested with Flycast on macOS, GameForce Chi, Powkiddy RGB30, [TrimUI Brick](https://twitter.com/0_game_it/status/1875734954946285610), and a modded Nintendo Switch).
 
 Future versions of the game with improvements and new modes will require payment, after all I'm a full-time indie developer and my caffeine intake needs to be maintained. Thanks for your support!
 
