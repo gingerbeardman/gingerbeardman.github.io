@@ -33,7 +33,7 @@ I'll do a full post-mortem and "what's next" after the game jam results are anno
 
 ---
 
-![IMG](/images/posts/dream-ride-game.png "This game shows a secret mode where the menu cars remain in play!")
+![IMG](/images/posts/dream-ride-game.png "This shows a secret mode where the cars roaming around the menu screen remain in play!")
 {:.tofigure}
 
 ----
