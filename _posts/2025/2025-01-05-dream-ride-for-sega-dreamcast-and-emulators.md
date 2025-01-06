@@ -16,6 +16,7 @@ nouns:
 - DREAM RIDE
 - Daily Driver
 - Playdate SDK
+featured: true
 image: /images/posts/dream-ride.png
 comments: https://twitter.com/gingerbeardman/status/
 
