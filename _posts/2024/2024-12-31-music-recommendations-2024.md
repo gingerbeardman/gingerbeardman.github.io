@@ -19,7 +19,7 @@ comments: https://twitter.com/gingerbeardman/status/1865066603399835846
 
 Initially I had thought this year wasn't as good as last year in terms of music, but listening again to the best tracks from the first 40-something weeks of the year proved otherwise. It was a great year.
 
-Most music I was sent by the Apple Music algorithm continued to be Japanese, thanks to my ongoing deep dive. During the initial playlist curation I was struck by a fairly clean divide of dance and not-dance. I'd also continued to listen to [Soichi Terada's Essential Mix from 2022](https://www.mixcloud.com/musiclover1980/soichi-terada-essential-mix-2022-03-05/). All of this merged together in my mind and I wondered if I could make a DJ mix? In 2024 surely there is software that can assist? There is.
+Most music I was sent by the Apple Music algorithm continued to be Japanese, thanks to my ongoing deep dive. During the initial playlist curation I was struck by a fairly clean divide of dance and not-dance. I was also still listening to [Soichi Terada's Essential Mix](https://www.mixcloud.com/musiclover1980/soichi-terada-essential-mix-2022-03-05/) from 2022. All of this merged together in my mind and I wondered if I could make a DJ mix? In 2024 surely there is software that can assist? There is.
 
 ## My first DJ mix
 
