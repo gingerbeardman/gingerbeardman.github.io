@@ -3,10 +3,11 @@ layout: post
 title: DREAM RIDE for Sega Dreamcast (and emulators)
 date: '2025-01-05T23:59+00:00'
 tags:
-- sega
+- dreamride
 - dreamcast
 - sega
 - gamedev
+- dailydriver
 nouns:
 - Sega
 - Dreamcast
