@@ -21,7 +21,7 @@ Initially I had thought this year wasn't as good as last year in terms of music,
 
 Most music I was sent by the Apple Music algorithm continued to be Japanese, thanks to my continued deep dive. During the initial playlist curation I was struck by a fairly clean divide of dance and not-dance. I'd also continued to listen to [Soichi Terada's Essential Mix from 2022](https://www.mixcloud.com/musiclover1980/soichi-terada-essential-mix-2022-03-05/). All of this merged together in my mind and I wondered if I could make a DJ mix? In 2024 surely there is software that can assist? There is.
 
-## DJ.Studio
+## My first DJ mix
 
 I pruned 50 tracks down to about 30 and set to work sequencing the tracks so their key and BPM flowed nicely. Each transition became a puzzle, gamifying the whole process. I had been listening to a loosly arranged playlist of 26 tracks for about a week, and two of those didn't make the cut for the final mix.
 
