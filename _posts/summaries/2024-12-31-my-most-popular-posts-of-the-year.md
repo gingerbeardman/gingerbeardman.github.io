@@ -17,7 +17,7 @@ recap: true
 
 2024 was a bit of meh year for me. A lot of time away from working, which was necessary but a process that I find difficult as I'm at my best when I'm creating. Here's to 2025!
 
-Two viral blog posts dwarfed all other writing: [Emoji history: the missing years](/2024/05/10/emoji-history-the-missing-years/) (10 May, 15K views) and [Stapler: I remade a 32 year old classic Macintosh app](/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/) (10 Aug, 14K views) which heralded the start of me trying other things development-wise. I've created macOS apps, iOS apps, tools using Qt, blog extensions using Ruby, text editor extensions using JavaScript, games for Playdate, and I ended the year writing a game for the Sega Dreamcast.
+Two viral blog posts dwarfed all other writing: [Emoji history: the missing years](/2024/05/10/emoji-history-the-missing-years/) (10 May, 15K views) and [Stapler: I remade a 32 year old classic Macintosh app](/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/) (10 Aug, 14K views) which heralded the start of me trying other things development-wise. I've created macOS apps, iOS apps, tools using Qt, blog extensions using Ruby, text editor extensions using JavaScript, games for Playdate, and I ended the year writing [a game for the Sega Dreamcast](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/).
 
 ## How many posts?
 - [32 posts](/search/?q=2024) (down from 40 in 2023)
@@ -37,6 +37,7 @@ According to Google Analytics, my 10 most popular posts in 2024 were (most popul
 
 ## Best of the rest
 My personal favourites from the year (most recent first):
+- [Music recommendations (2024)](/2024/12/31/music-recommendations-2024/) (31 Dec)
 - [New 3D Golf Simulation (video game series)](/2024/11/09/new-3d-golf-simulation-video-game-series/) (9 Nov)
 - [Extensions for Nova editor](/2024/10/17/extensions-for-nova-editor/) (17 Oct)
 - [Shibuya Pixel Art Contest 2024](/2024/07/14/shibuya-pixel-art-contest-2024/) (14 July)
