@@ -89,6 +89,10 @@ Note: in January 2025, since this post was originally written, I have simplified
 
 {% gist 1ff95ce64a6a255919b8262dd4a21bc7 %}
 
+### Access control
+
+{% gist 23e0da9949a8d41ebd190d60b0bd033b %}
+
 ### Setup
 
 You can set up the service using:
