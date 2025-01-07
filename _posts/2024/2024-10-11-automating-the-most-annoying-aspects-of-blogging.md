@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Automating the most annoying aspects of blogging
+last_modified_at: '2025-01-07T19:32+00:00'
 date: '2024-10-11T17:42+01:00'
 tags:
 - nova
@@ -28,7 +29,7 @@ Back in 2021 I had a look around and decided to base this incarnation of my blog
 My fixes and optimisations included:
 - Optimised SASS to compile once in plugin rather than header of every page (23 Feb)
 - Optimised all includes and templates to reduce build time (19 Aug)
-- Improved "noun" replacement, automatically-emphasised words (3 Sep)
+- Improved "noun" replacement, which are automatically-emphasised words (3 Sep)
 - Better YouTube embeds using lite-yt-embed (11 Sep)
 
 And my additions along the way:
@@ -58,13 +59,15 @@ You can read about these two in previous blog posts:
 
 ## Getting images onto my CDN server
 
-I was still having to copy my images to my CDN server manually, which was a pain. But the software stack on the server was intimidating: I serve my websites using a collection of docker containers. I kept putting it off for a rainy day, but I knew I would evetntually get around to automating it.
+I was still having to copy my images to my CDN server manually, which was a pain. But the software stack on the server was intimidating. I kept putting it off for a rainy day, but I knew I would eventually get around to automating it.
 
 The idea was to not upload the images at all, but rather download them to the server directly. I'd use a GitHub Webhook to trigger a `git pull` of the latest files onto my server. It took a few hours and a few attempts, but I finally arrived at a fairly elegant system I'm happy with:
 
 1. GitHub Webhook that runs on push event
 2. PHP script in web server docker container receives, validates, and creates a trigger file
 3. Service on server outside of docker looks for trigger file and does `git pull`
+
+Note: in January 2025, since this post was originally written, I have simplified the following files after migrating away from web servers in Docker containers to [Caddy server](https://caddyserver.com). Highly recommended!
 
 ### GitHub Webhook
 
