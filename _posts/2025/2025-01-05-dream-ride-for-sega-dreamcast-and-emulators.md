@@ -17,6 +17,12 @@ nouns:
 - DREAM RIDE
 - Daily Driver
 - Playdate SDK
+- Flycast
+- macOS
+- GameForce Chi
+- Powkiddy RGB30
+- TrimUI Brick
+- Nintendo Switch
 featured: true
 image: /images/posts/dream-ride.png
 comments: https://twitter.com/gingerbeardman/status/
@@ -25,7 +31,7 @@ comments: https://twitter.com/gingerbeardman/status/
 
 Over the Christmas break I had a spare week after a trip to Ireland was cancelled. What should I do with the time? I was already aware of the upcoming [DreamDisc '24 game jam](https://itch.io/jam/dream-disc-24) and had done some reading [a couple of months back](https://twitter.com/gingerbeardman/status/1843024068930658594) scoping out a Lua-based SDK called ANTIRUINS Engine that looked familiar enough to me with my experience of LÖVE (love2d) and Playdate SDK. But what should I make with it?
 
-If I could get something fun up and running as quickly as possible it would prove the point and keep me motivated. Sounds like a plan. Also, it's easier to make something that has already been planned out, so all the effort goes on implementation rather than design. I remembered my unreleased game [Daily Driver](/tag/dailydriver/)...maybe I could get those little cars moving around the screen? But what would make it *more Dreamcast*? Simultaneous 4-player action and CPU opponents! *OK, let's do this!*
+If I could get something fun up and running as quickly as possible it would prove the point and keep me motivated. Sounds like a plan. Also, it's easier to make something that has already been planned out, so all the effort goes on implementation rather than design. I remembered my unreleased game [Daily Driver](/tag/dailydriver/)...maybe I could get those little cars moving around the screen? But what would make it *more Dreamcast?* Simultaneous 4-player action and CPU opponents! *OK, let's do this!*
 
 It took a bit of effort to get the build process setup, but after that I hit the ground running. I got the physics and 4-player control working pretty quickly. Then the sprites went in, albeit in the wrong colours. Physics equation and sprites are the only two things shared with [Daily Driver](/tag/dailydriver/). Next I added a variety of game modes, power-ups, new sounds, all within a few days. Then I picked at it over the next week to polish it as much as possible before the game jam deadline. I thrive on deadlines.
 
