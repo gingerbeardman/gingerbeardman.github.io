@@ -11,10 +11,10 @@
     {{ content }}
   </div>
 
-  <script src="{{ '/js/jquery-3.7.1.min.js' | prepend: site.baseurl }}"></script>
-  <script src="{{ '/js/jquery.fitvids.js' | prepend: site.baseurl }}"></script>
-  <script src="{{ '/js/jquery.tablesorter.min.js' | prepend: site.baseurl }}"></script>
-  <script src="{{ '/js/app.js' | prepend: site.baseurl }}"></script>
+  {% assign scripts = "jquery-3.7.1.min.js|jquery.tablesorter.min.js|app.js|lite-yt-embed.min.js" | split: "|" %}
+  {% for script in scripts %}
+    <script src="{{ site.baseurl }}/js/{{ script }}" defer></script>
+  {% endfor %}
 
 {% if page.style %}
   <style type="text/css">
