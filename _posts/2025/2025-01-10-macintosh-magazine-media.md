@@ -9,7 +9,7 @@ tags:
 - mmm
 nouns:
 - Windows
-image: /images/posts/mmm-2024.png
+image: /images/posts/mmm-redux.png
 comments: https://twitter.com/gingerbeardman/status/1877796846497579097
 style: |
   img {
