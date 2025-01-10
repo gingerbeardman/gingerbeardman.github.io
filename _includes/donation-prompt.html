@@ -1,0 +1,21 @@
+{% assign url_chars = page.url | split: '' %}
+{% assign hash = 0 %}
+{% for char in url_chars %}
+  {% assign ascii = char | append: '' | size %}
+  {% assign hash = hash | plus: ascii %}
+{% endfor %}
+
+{% assign prompts = "
+Enjoyed this blog post? <a href='{{ site.donate.kofi }}'>Please buy me a coffee.</a>|
+Like what you read? <a href='{{ site.donate.kofi }}'>Show your appreciation with ko.fi!</a>|
+Found this helpful? <a href='{{ site.donate.kofi }}'>Consider buying me a coffee.</a>|
+Found this interesting? <a href='{{ site.donate.kofi }}'>Consider buying me a coffee.</a>|
+Want to see more content like this? <a href='{{ site.donate.kofi }}'>Buy me a coffee!</a>|
+Help keep this blog running with a <a href='{{ site.donate.kofi }}'>coffee donation!</a>|
+<a href='{{ site.donate.kofi }}'>Your support through ko.fi</a> keeps this blog brewing!|
+Fuel my writing habit with <a href='{{ site.donate.kofi }}'>a ko.fi donation!</a>|
+<a href='{{ site.donate.kofi }}'>Every coffee helps create more content like this!</a>
+" | split: "|" %}
+
+{% assign prompt_index = hash | modulo: prompts.size %}
+{{ prompts[prompt_index] }}
