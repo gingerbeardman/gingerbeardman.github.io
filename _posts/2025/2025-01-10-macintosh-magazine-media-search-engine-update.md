@@ -12,7 +12,7 @@ nouns:
 image: /images/posts/mmm-redux.png
 redirect_from:
 - /2025/01/10/macintosh-magazine-media
-comments: https://twitter.com/gingerbeardman/status/1877796846497579097
+comments: https://twitter.com/gingerbeardman/status/1877812719262286115
 style: |
   img {
     width: 295px;
