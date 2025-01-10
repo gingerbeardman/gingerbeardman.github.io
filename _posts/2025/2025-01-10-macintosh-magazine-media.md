@@ -10,7 +10,7 @@ tags:
 nouns:
 - Windows
 image: /images/posts/mmm-2024.png
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1877796846497579097
 style: |
   img {
     width: 295px;
