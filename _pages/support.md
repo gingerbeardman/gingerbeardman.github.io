@@ -19,5 +19,6 @@ Any money raised goes towards buying old books, magazines, CD-ROMs, or gadgets, 
 And you can always reach out to me on social media:
 
 - [Twitter](https://twitter.com/{{ site.twitter.username }}) (preferred)
+- [Bluesky](https://bsky.app/profile/gingerbeardman.com)
 - [Mastodon](https://mastodon.gamedev.place/@gingerbeardman)
 - [Threads](https://www.threads.net/@mattsephton)
