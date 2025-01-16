@@ -37,7 +37,7 @@ I spoke with Japhy and we discussed how possible it might be to maximise the num
 
 ## Download
 
-You can download the .love file and play around with the animation yourself. There are a bunch of keys that modify the scene and cube in various ways. It's fun.
+You can download the .love file and play around with the animation yourself. There are a bunch of hot keys that modify the cube in various ways. Have fun!
 
 [gingerbeardman.itch.io/voxel-slugs](https://gingerbeardman.itch.io/voxel-slugs)
 
