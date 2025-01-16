@@ -11,11 +11,11 @@ nouns:
 - Japhy Riddle
 - Japhy
 image: /images/posts/voxel-slugs.png
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1879562691129553318
 
 ---
 
-Japhy Riddle makes art, music, films, and animations. He's also a retro technology enthusiast. Naturally, he combines all these skills and interests into wonderful videos and animations! I follow Japhy on social media and love his high quality videos and animations. [Check him out on YouTube](https://www.youtube.com/channel/UCKeTCCYBg0CFrFHm2nxx_rQ)!
+Japhy Riddle makes art, music, films, and animations. He's also a retro technology enthusiast. Naturally, he combines all these skills and interests into wonderful creative output! I follow Japhy on social media and love his high quality videos and animations. [Check him out on YouTube](https://www.youtube.com/channel/UCKeTCCYBg0CFrFHm2nxx_rQ)!
 
 ## Voxel slugs traversing an invisible cube's edges
 
