@@ -44,10 +44,10 @@ My personal favourites from the year (most recent first):
 - [Where can I see Hokusai's Great Wave today?](/2023/04/10/where-can-i-see-hokusai-great-wave-today/) the one about *The Great Wave*
 
 ## Blog changelog
-- Fixed site search issue which meant some blog posts were being skipped (22 Dec)
-- Added Google search link if there are no site search results (1 Dec)
-- Added site search to further improve discoverability (27 Aug)
 - Added tag cloud to improve discoverability (12 Aug)
+- Added site search to further improve discoverability (27 Aug)
+- Added Google search link if there are no site search results (1 Dec)
+- Fixed site search issue which meant some blog posts were being skipped (22 Dec)
 
 ## Previous years
 - [My most popular posts of 2022](/2022/12/31/my-most-popular-posts-of-the-year/)

@@ -48,6 +48,7 @@ My personal favourites from the year (most recent first):
 
 ## Blog changelog
 - Optimise SASS compile once in plugin rather than header of every page (23 Feb)
+- Added [about](/about) and [support](/support) pages (28 May)
 - Multi-carousel support (14 Jul)
 - Rewrote the main page of my non-blog website (3 Aug)
 - Optimised all includes and templates to reduce build time (19 Aug)
