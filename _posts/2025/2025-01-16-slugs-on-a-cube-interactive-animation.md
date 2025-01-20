@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Slugs on a Cube: interactive animation'
+last_modified_at: '2025-01-20T12:13+00:00'
 date: '2025-01-16T17:43+00:00'
 tags:
 - animation
@@ -37,7 +38,7 @@ I spoke with Japhy and we discussed how possible it might be to maximise the num
 
 ## Download
 
-You can download the .love file and play around with the animation yourself. There are a bunch of hot keys that modify the cube in various ways. Have fun!
+You can download it (as .love, macOS .app, or Windows .exe) and play around with the animation yourself. There are a bunch of hot keys that modify the cube in various ways. Have fun!
 
 [gingerbeardman.itch.io/voxel-slugs](https://gingerbeardman.itch.io/voxel-slugs)
 
