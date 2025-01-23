@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Wire Hang Redux for 64-bit macOS"
+last_modified_at: '2025-01-23T23:14+00:00'
 date: '2022-04-23T16:40+01:00'
 tags:
 - gamedev

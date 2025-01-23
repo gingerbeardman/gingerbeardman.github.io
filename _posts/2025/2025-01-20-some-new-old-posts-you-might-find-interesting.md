@@ -22,3 +22,4 @@ I just added a bunch of backdated posts to the blog, mostly to do with [my early
 - `2001-02-14` [Bendertron](/2001/02/14/bendertron/)
 - `2000-09-29` [Simple Soccer](/2000/09/29/simple-soccer/)
 - `1998-12-01` [My old Atari ST software](/1998/12/01/my-old-atari-st-software/)
+- `1998-11-16` [My old Windows software](/1998/11/16/my-old-windows-software/)

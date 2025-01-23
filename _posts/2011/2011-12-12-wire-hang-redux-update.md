@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Wire Hang Redux: update"
+last_modified_at: '2025-01-23T23:14+00:00'
 date: '2011-12-12T14:54+00:00'
 tags:
 - gamedev
