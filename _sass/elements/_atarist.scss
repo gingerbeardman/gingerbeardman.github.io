@@ -1,0 +1,51 @@
+@use "../settings/colors";
+
+body.atarist {
+  background-color: colors.$bg-color-atarist !important;
+  color: colors.$color-white;
+  font-weight: 500;
+
+  .c-post__date,
+  .c-tags a {
+    color: colors.$color-white;
+  }
+
+  a, a:hover,
+  .c-tags a:hover {
+    color: colors.$color-white;
+    background-color: transparent;
+    transition: none;
+  }
+
+  .c-logo__link span,
+  .c-byline__desc,
+  .c-byline__desc a {
+    color: colors.$color-white;
+  }
+
+  code,
+  .highlighter-rouge {
+    background-color: transparent;
+  }
+
+  .c-header__inner {
+    border-color: colors.$color-white;
+  }
+  
+  .caption {
+    color: colors.$color-white;
+  }
+
+  blockquote {
+    color: colors.$color-white !important;
+    border-left: 2px solid colors.$color-white;
+  }
+
+  .highlighter-rouge .highlight {
+    background-color: colors.$bg-color-win-code;
+  }
+  
+  .c-off-canvas-toggle__icon {
+    background-color: colors.$color-white;
+  }
+}
