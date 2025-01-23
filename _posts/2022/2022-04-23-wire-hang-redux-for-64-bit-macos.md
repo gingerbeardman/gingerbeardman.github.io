@@ -16,7 +16,7 @@ nouns:
 - Apple Silicon
 - BlitzMax
 image: /images/posts/wire-hang-redux-update-game.png
-featured: true
+featured: false
 pinned: false
 
 comments: https://twitter.com/gingerbeardman/status/1517903276443947008
