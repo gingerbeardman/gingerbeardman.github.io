@@ -11,7 +11,7 @@ comments: https://twitter.com/gingerbeardman/status/
 
 ---
 
-I just added a bunch of backdated posts to the blog, mostly to do with [my early games and gamedev](/tag/early/):
+I just added a bunch of backdated posts to the blog, mostly to do with [my early games and apps](/tag/early/):
 
 - `2022-04-23` [Wire Hang Redux for 64-bit macOS](/2022/04/23/wire-hang-redux-for-64-bit-macos/)
 - `2015-03-14` [Boom Matt](/2015/03/14/boom-matt/)
