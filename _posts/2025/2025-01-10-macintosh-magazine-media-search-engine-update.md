@@ -30,7 +30,7 @@ Anyway, in December 2024 I migrated my websites to an arm64-powered server and w
 
 I did experiment with a database version of the search but query time was much slower and server costs were much higher. I can't beat the performance of ripgrep, that's for sure!
 
-Try the search here: [www.gingerbeardman.com/mmm/](https://www.gingerbeardman.com/mmm/)
+Try the search here: [gingerbeardman.com/mmm/](https://www.gingerbeardman.com/mmm/)
 
 ----
 

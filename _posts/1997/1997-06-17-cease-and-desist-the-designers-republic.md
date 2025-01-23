@@ -12,6 +12,7 @@ nouns:
 - QIX
 image: /images/posts/blockout-the-designers-republic.jpg
 comments: https://twitter.com/gingerbeardman/status/1509483939471458306
+featured: true
 
 ---
 

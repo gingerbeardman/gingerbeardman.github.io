@@ -4,6 +4,7 @@ title: How to push an update to the App Store without building a new binary
 tags:
 - appstore
 - apple
+- wirehang
 nouns:
 - Application Loader
 - iTunes Connect
