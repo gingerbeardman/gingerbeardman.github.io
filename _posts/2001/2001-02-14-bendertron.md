@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bendertron"
-date: '2001-02-14T14:11+01:00'
+date: '2001-02-14T14:11+00:00'
 tags:
 - gamedev
 - blitz

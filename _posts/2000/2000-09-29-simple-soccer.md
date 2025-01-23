@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simple Soccer"
-date: '2000-09-29T12:00+00:00'
+date: '2000-09-29T12:00+01:00'
 tags:
 - gamedev
 - blitz
