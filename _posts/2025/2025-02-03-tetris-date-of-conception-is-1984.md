@@ -18,7 +18,7 @@ comments: https://twitter.com/gingerbeardman/status/1885581359655039019
 
 Given the ongoing discussion about [whether or not TETRIS turns 40 years old in 2024 or 2025](https://www.timeextension.com/news/2024/06/anniversary-is-tetris-really-40-this-year), I keep my eye out for early mentions of the game. As a bonus, this is an item that at the time of me [posting it to social media a couple of days ago](https://twitter.com/gingerbeardman/status/1885581359655039019) had not been covered in English anywhere else on the internet. As far as I'm aware this is the earliest printed reference mentioning the conception date of Tetris.
 
-It's a [short interview with Alexey Pajitnov](https://archive.org/details/OhX_1989-08/page/n91/mode/1up) in Japanese PC magazine, **Oh! *X***, conducted mid-1989 around the time of the release of the seminal Game Boy version, the first year the game was available outside of the USSR. It contains this beautiful question and answer:
+It's a [short interview with Alexey Pajitnov](https://archive.org/details/OhX_1989-08/page/n91/mode/1up) in Japanese PC magazine, **Oh! *X***, conducted mid-1989 around the time of the release of the seminal Game Boy version of TETRIS, the first year the game was available outside of the USSR. It contains this beautiful question and answer:
 
 Japanese text:
 
