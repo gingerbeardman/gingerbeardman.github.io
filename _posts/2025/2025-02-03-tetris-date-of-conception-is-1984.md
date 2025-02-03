@@ -9,7 +9,7 @@ tags:
 - software
 - history
 - game
-image: /images/posts/tetris-conception.jpg
+image: /images/posts/tetris-date-of-conception-1984.jpg
 featured: true
 pinned: false
 
