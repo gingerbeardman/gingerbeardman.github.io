@@ -32,7 +32,7 @@ English translation:
 >
 > A: It started 5 years ago in 1984, when I was trying to create a program for IQ testing. At that time, I created this game based on a game called Pentomino, where I came up with the idea of having blocks made up of 5–8 pieces fall down and rotate them to combine them together.
 
-**Note:** pentomino are comprised of 5 squares whilst tetromino are comprised of 4 squares, so the version referred to is certainly an early prototype. I'm not aware of a surviving version of whatever TETRIS was first known as that has 5–8 pieces.
+**Note:** pentomino are comprised of 5 squares whilst tetromino are comprised of 4 squares, so the version referred to is certainly an early prototype. I'm not aware of a surviving version of whatever TETRIS was first known as that has blocks of 5–8 pieces.
 
 ----
 
