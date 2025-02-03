@@ -5,7 +5,6 @@ date: '2025-02-03T17:20+00:00'
 tags:
 - tetris
 - japanese
-- macintosh
 - software
 - history
 - game
