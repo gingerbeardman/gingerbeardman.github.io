@@ -28,6 +28,8 @@ This is my entry into the BlitzCoder Stupidest Game Competition, 2002. You need 
 
 It was written using BlitzBasic and later recompiled in BlitzPlus.
 
+This is the game that made me realise I could make games. 
+
 Archived web page: [gingerbeardman.com/archive/terrafirma/](https://www.gingerbeardman.com/archive/terrafirma/)
 
 Download: [gingerbeardman.itch.io/terra-firma](https://gingerbeardman.itch.io/terra-firma)
