@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Collins Gem Basic Facts: Computers (1991)"
-date: '2025-02-03T17:20+00:00'
+date: '2025-02-04T21:36+00:00'
 tags:
 - history
 - computers
