@@ -5,7 +5,7 @@ tags:
 - japanese
 - famicom
 - nes
-- game
+- videogame
 nouns:
 - Door Door
 - ChunSoft

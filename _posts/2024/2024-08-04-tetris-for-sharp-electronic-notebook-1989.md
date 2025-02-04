@@ -9,7 +9,7 @@ tags:
 - sharp
 - software
 - history
-- game
+- videogame
 image: /images/posts/tetris-ic-card-sharp-pa-8500-half.jpg
 featured: false
 pinned: false

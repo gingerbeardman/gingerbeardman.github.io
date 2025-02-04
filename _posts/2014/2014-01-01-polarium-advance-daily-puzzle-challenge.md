@@ -5,7 +5,7 @@ last_modified_at: '2024-04-13T21:33+01:00'
 tags:
 - polarium
 - japanese
-- game
+- videogame
 - progress
 - chart
 - nerd

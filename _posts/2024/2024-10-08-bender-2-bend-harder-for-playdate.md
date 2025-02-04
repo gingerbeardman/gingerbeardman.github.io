@@ -4,7 +4,7 @@ title: "Bender 2: Bend Harder for Playdate"
 date: '2024-10-08T18:00+01:00'
 tags:
 - playdate
-- game
+- videogame
 - agbic
 - gamedev
 nouns:

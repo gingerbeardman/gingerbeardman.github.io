@@ -6,7 +6,7 @@ tags:
 - video
 - pitch
 - animation
-- game
+- videogame
 nouns:
 - CICLOPE Festival
 - THE LINE

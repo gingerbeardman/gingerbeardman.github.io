@@ -9,7 +9,7 @@ tags:
 - macintosh
 - software
 - history
-- game
+- videogame
 image: /images/posts/tetris-heavenly-scrolls-1989-img-02-title-page.jpg
 featured: true
 pinned: false

@@ -7,7 +7,7 @@ tags:
 - preservation
 - patreon
 - windows
-- game
+- videogame
 nouns:
 - F-MIN INFINITY
 - Power Drift

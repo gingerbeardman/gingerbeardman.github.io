@@ -7,7 +7,7 @@ tags:
 - japanese
 - software
 - history
-- game
+- videogame
 image: /images/posts/tetris-date-of-conception-1984.jpg
 featured: true
 pinned: false
