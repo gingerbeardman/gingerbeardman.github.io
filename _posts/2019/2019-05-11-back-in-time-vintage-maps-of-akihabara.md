@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Back In Time: Vintage Maps of Akihabara (1976–2001)'
-last_modified_at: '2023-07-01T17:13+01:00'
+last_modified_at: '2025-02-05T23:31+00:00'
 tags:
 - history
 - japanese
@@ -97,6 +97,13 @@ This map is from a [scan of Technopolis magazine on the Internet Archive, dated 
 
 [![Akihabara, November 1982](/images/posts/akihabara-1982.jpg){:width="740" height="490"}](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up?view=theater){:target="_blank"}
 
+And one from the [January 1982 issue of I/O](https://archive.org/details/io-198201/page/316/mode/1up?view=theater), also featured in the [March 1982 issue](https://archive.org/details/io-198203/page/326/mode/1up?view=theater) which has different article about the shops so both are worth reading. Contrast with the much expanded map that appears further down this page in the [1984](#1984) section.
+
+- [archive.org/details/io-198201/page/316/mode/1up](https://archive.org/details/io-198201/page/316/mode/1up?view=theater)
+- [archive.org/details/io-198203/page/326/mode/1up](https://archive.org/details/io-198203/page/326/mode/1up?view=theater)
+
+[![Akihabara, January 1982](/images/posts/akihabara-1982-01.jpg){:width="740" height="490"}](https://archive.org/details/io-198201/page/316/mode/1up?view=theater){:target="_blank"}
+
 ----
 
 ### 1983
@@ -115,7 +122,7 @@ The map below is from [POPCOM 1983-05](https://archive.org/details/POPCOM198305/
 
 ## 1984
 
-This one from I/O 1984 May issue was found through [Google](http://hirax.net/diaryweb/2010/06/15.html) and [Wayback Machine](https://web.archive.org/web/20140810174816/http://hirax.net/diaryweb/2010/06/15.html), and I was lucky enough to be able to find matching scans on from Internet Archive.
+This one from I/O 1984 May issue was found through [Google](http://hirax.net/diaryweb/2010/06/15.html) and [Wayback Machine](https://web.archive.org/web/20140810174816/http://hirax.net/diaryweb/2010/06/15.html), and I was lucky enough to be able to find matching scans on from Internet Archive. Compare with the earlier [1982](#1982) map from the same magazine.
 
 - [web.archive.org/web/20100408004407/http://nhh.mo-blog.jp/ttt/2007/09/post_6a5d.html](https://web.archive.org/web/20100408004407/http://nhh.mo-blog.jp/ttt/2007/09/post_6a5d.html)
 - [archive.org/details/Io19845/page/n365/mode/2up](https://archive.org/details/Io19845/page/n365/mode/2up)
