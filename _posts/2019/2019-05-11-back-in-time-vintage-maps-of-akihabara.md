@@ -91,18 +91,18 @@ A map was featured in だからいまマイコン "So now Microcomputer" by the 
 
 > **Missing:** another [one from 1982 on Twitter](https://twitter.com/gds2546/status/956432325155237888), if I'm reading correctly it's from the book こんにちわマイコンに載 "Konichiwa Microcomputer". [Amazon Japan link](https://www.amazon.co.jp/こんにちはマイコン―まんが版-1982年-ワンダーライフコミックス-すがや-みつる/dp/B000J7IP74).
 
-This map is from a [scan of Technopolis magazine on the Internet Archive, dated November 1982](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up). Given its illustrated nature the map is somewhat stylised but the landmarks are easily recognised.
-
-* [archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up)
-
-[![Akihabara, November 1982](/images/posts/akihabara-1982.jpg){:width="740" height="490"}](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up?view=theater){:target="_blank"}
-
-And one from the [January 1982 issue of I/O](https://archive.org/details/io-198201/page/316/mode/1up?view=theater), also featured in the [March 1982 issue](https://archive.org/details/io-198203/page/326/mode/1up?view=theater) which has different article about the shops so both are worth reading. Contrast with the much expanded map that appears further down this page in the [1984](#1984) section.
+Here's a map from the [January 1982 issue of I/O](https://archive.org/details/io-198201/page/316/mode/1up?view=theater), also featured in the [March 1982 issue](https://archive.org/details/io-198203/page/326/mode/1up?view=theater) which has different article about the shops so both are worth reading. Contrast with the much expanded map that appears further down this page in the [1984](#1984) section.
 
 - [archive.org/details/io-198201/page/316/mode/1up](https://archive.org/details/io-198201/page/316/mode/1up?view=theater)
 - [archive.org/details/io-198203/page/326/mode/1up](https://archive.org/details/io-198203/page/326/mode/1up?view=theater)
 
 [![Akihabara, January 1982](/images/posts/akihabara-1982-01.jpg){:width="740" height="490"}](https://archive.org/details/io-198201/page/316/mode/1up?view=theater){:target="_blank"}
+
+This map is from a [scan of Technopolis magazine on the Internet Archive, dated November 1982](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up). Given its illustrated nature the map is somewhat stylised but the landmarks are easily recognised.
+
+* [archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up)
+
+[![Akihabara, November 1982](/images/posts/akihabara-1982.jpg){:width="740" height="490"}](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up?view=theater){:target="_blank"}
 
 ----
 
