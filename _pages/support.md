@@ -7,6 +7,7 @@ permalink: /support.html
 
 <br>
 You can show your appreciation of the blog, or a specific post, using the links belo—pay what you want:
+
 - [Ko-fi]({{ site.donate.kofi }}) (one-off or recurring)
 - [Patreon]({{ site.donate.patreon }}) (one-off or recurring)
 - [PayPal]({{ site.donate.paypalme }}) (one-off donation)
