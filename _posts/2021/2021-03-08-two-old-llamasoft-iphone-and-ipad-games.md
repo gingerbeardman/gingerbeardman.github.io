@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Two Old Llamasoft iPhone & iPad games
+last_modified_at: '2025-02-06T17:16+00:00'
 tags:
 - ios
 - patreon
@@ -8,8 +9,12 @@ tags:
 - history
 nouns:
 - iPad mini
+- iPad
+- iPod touch
 - iPhone
 - iTunes
+- iOS 11
+- iOS 10
 - iOS
 - Apple
 - App Store
@@ -20,11 +25,17 @@ comments: https://twitter.com/gingerbeardman/status/1368883961145999362
 
 ---
 
-Back in 2017 a large number of games and apps were rendered obsolete when iOS 11 removed 32-bit compatibility. At that time I was still downloading app into iTunes as backups, and seem to have put aside these couple of great Llamasoft games. You should be able to side load them onto any jailbroken iOS device running iOS 10 or earlier.
+Back in 2017 a large number of games and apps were rendered obsolete when iOS 11 removed 32-bit compatibility. At that time I was still downloading app into iTunes as backups, and seem to have put aside these couple of great Llamasoft games.
+
+You should be able to side load them onto any jailbroken iOS device running iOS 10 or earlier, like an iPad mini (1st generation will be usable as-is; later generations may need to be downgraded) or iPod touch (1st to 5th generation will be usable as-is; later generations may need to be downgraded).
 
 I'm still hoping for an easy way to play these on modern devices, so let me know if such a thing exists!
 
 - [Minotron: 2112](https://archive.org/details/minotron-2112)  (iPhone & iPad)
 - [Gridrunner](https://archive.org/details/gridrunner-ios) (iPhone & iPad)
 
-Edit, 2021-09-13: I've added a cracked/decrypted version of Minotron that should be easier to install on a jailbroken device. There's an issue decrypting Gridrunner so I'll have to come back to that one at a later date, though you might be able to install it using AppSync Unified. See this blog post for more info: [/2021/09/13/playing-old-32-bit-ios-games-in-2021/](/2021/09/13/playing-old-32-bit-ios-games-in-2021/) 
+Edit, 2021-09-13: I've added a cracked/decrypted version of Minotron that should be easier to install on a jailbroken device. 
+
+Edit, 2025-02-06: I can't remember when exactly, but a kind somebody provided me with a decrypted version of Gridrunner which I've now uploaded to its page.
+
+For more info on generating a cracked IPA file: [/2021/09/14/playing-old-32-bit-ios-games-in-2021/](/2021/09/14/playing-old-32-bit-ios-games-in-2021/) 

@@ -12,7 +12,10 @@ nouns:
 - iPad mini
 - iPhone
 - iTunes
+- iOS 11
+- iOS 10
 - iOS
+- Apple Configurator 2
 - Apple
 - App Store
 - Mac
