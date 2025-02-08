@@ -11,7 +11,6 @@ nouns:
 - Samurai Mech II: Heaven
 - Samurai Mech II
 - Samurai Mech
-- HuLINKS
 carousel: ''
 featured: false
 comments: https://twitter.com/gingerbeardman/status/1366379129306836995
