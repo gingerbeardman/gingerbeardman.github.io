@@ -18,7 +18,7 @@ comments: https://twitter.com/gingerbeardman/status/1366379129306836995
 ---
 Samurai Mech サムライ・メック preserved!   
   
-I've been digging up old Macintosh games, and this search has resulted in [the website for the classic Japanese game Samurai Mech](https://samuraimech.net) coming back online after over a decade! Thanks Ritsuko! See: [(patreon.com/posts/48174477)](https://www.patreon.com/posts/48174477)
+I've been digging up old Macintosh games, and this search has resulted in [the website for the classic Japanese game Samurai Mech](https://samuraimech.net) coming back online after over a decade! Thanks Ritsuko! See: [patreon.com/posts/48174477](https://www.patreon.com/posts/48174477)
 
 Samurai Mech サムライ・メック is a Japanese sci-fi RPGs set in a future-medieval-space Japan. You assume the role of the eponymous Samurai Mech over the course of 40h of exploration/battle/puzzle gameplay.
 
