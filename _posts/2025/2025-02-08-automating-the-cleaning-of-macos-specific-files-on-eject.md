@@ -11,7 +11,7 @@ nouns:
 featured: false
 pinned: false
 
-comments: https://twitter.com/gingerbeardman/status/1886794423406596546
+comments: https://twitter.com/gingerbeardman/status/1888328802889257317
 
 ---
 
