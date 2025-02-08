@@ -7,6 +7,8 @@ tags:
 - macintosh
 - patreon
 nouns:
+- Samurai Mech II: Heaven
+- Samurai Mech II
 - Samurai Mech
 carousel: ''
 featured: false
@@ -15,7 +17,9 @@ comments: https://twitter.com/gingerbeardman/status/1366379129306836995
 ---
 Samurai Mech サムライ・メック preserved!   
   
-I've been digging up old Macintosh games, and this search has rested in the website for the classic Japanese game [#samuraimech](https://twitter.com/hashtag/samuraimech?src=hash)coming back online after over a decade! Thanks Ritsuko! [(patreon.com/posts/48174477)](https://www.patreon.com/posts/48174477) [(samuraimech.net)](https://samuraimech.net/) Samurai Mech サムライ・メック is a Japanese sci-fi RPGs set in a future-medieval-space Japan. You assume the role of the eponymous Samurai Mech over the course of 40h of exploration/battle/puzzle gameplay.
+I've been digging up old Macintosh games, and this search has resulted in the website for the classic Japanese game [#samuraimech](https://twitter.com/hashtag/samuraimech?src=hash) coming back online after over a decade! Thanks Ritsuko! [(patreon.com/posts/48174477)](https://www.patreon.com/posts/48174477) [(samuraimech.net)](https://samuraimech.net/) 
+
+Samurai Mech サムライ・メック is a Japanese sci-fi RPGs set in a future-medieval-space Japan. You assume the role of the eponymous Samurai Mech over the course of 40h of exploration/battle/puzzle gameplay.
 
 ![](https://pbs.twimg.com/media/EvZTzbRXMAwX9t5.png)
 
@@ -23,11 +27,11 @@ You can practice your swordsmanship at the dojo, and upgrade your Samurai Mech s
 
 ![](https://pbs.twimg.com/media/EvZVB64XYAYlNZW.png)
 
-In the sequel サムライ・メックII・天 you are a bounty hunter in an archipelago colony at the edge of the universe. An ancient castle, an amusement park, an adult ballroom and a giant corporation. New scenario, freedom, mech system, combat, and colour/mono graphics!
+In the sequel Samurai Mech II: Heaven サムライ・メックII・天 you are a bounty hunter in an archipelago colony at the edge of the universe. The setting includes an ancient castle, an amusement park, an adult ballroom, and a giant corporation. New scenario, freedom, mech system, combat, and colour/mono graphics!
 
 ![](https://pbs.twimg.com/media/EvZYUntWYAAtfuk.png)
 
-Here isSaumrai Mech running on my 1992 Macintosh Classic, using System 7.1.0 with Japanese Language Kit installed.
+Here is Saumrai Mech running on my 1992 Macintosh Classic, using System 7.1.0 with Japanese Language Kit installed.
 
 ![](https://pbs.twimg.com/media/EvZjDQmXAAkwY3K.jpg)
 
