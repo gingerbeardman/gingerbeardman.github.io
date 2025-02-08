@@ -28,13 +28,13 @@ You can practice your swordsmanship at the dojo, and upgrade your Samurai Mech s
 
 ![](https://pbs.twimg.com/media/EvZVB64XYAYlNZW.png)
 
+Here is Samurai Mech running on my 1992 Macintosh Classic, using System 7.1.0 with Japanese Language Kit installed.
+
+![](https://pbs.twimg.com/media/EvZjDQmXAAkwY3K.jpg)
+
 In the sequel Samurai Mech II: Heaven サムライ・メックII・天 you are a bounty hunter in an archipelago colony at the edge of the universe. The setting includes an ancient castle, an amusement park, an adult ballroom, and a giant corporation. An all new scenario, more freedom, improved mech system, improved combat, and a choice of colour or mono graphics!
 
 ![](https://pbs.twimg.com/media/EvZYUntWYAAtfuk.png)
-
-Here is Saumrai Mech running on my 1992 Macintosh Classic, using System 7.1.0 with Japanese Language Kit installed.
-
-![](https://pbs.twimg.com/media/EvZjDQmXAAkwY3K.jpg)
 
 ## Partial Staff Roll
 
