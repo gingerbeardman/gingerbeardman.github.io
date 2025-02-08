@@ -36,7 +36,7 @@ In the sequel Samurai Mech II: Heaven サムライ・メックII・天 you are a
 
 ![](https://pbs.twimg.com/media/EvZYUntWYAAtfuk.png)
 
-## Partial Staff Roll
+## Staff
 
 **Samurai Mech**
   
