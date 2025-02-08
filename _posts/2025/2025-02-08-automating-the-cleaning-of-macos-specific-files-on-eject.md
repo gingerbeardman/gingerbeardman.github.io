@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Automating the cleaning of macOS-specific files on Eject"
+tags:
+- hack
+- macos
+- automation
+- script
+- software
+nouns:
+featured: false
+pinned: false
+
+comments: https://twitter.com/gingerbeardman/status/1886794423406596546
+
+---
+
+Dot underscore `._` and `.DS_Store` files are macOS-specific metadata cruft generated for foreign filesystems (like FAT32 or exFAT) that are not usually needed for disks that are mainly used on other platforms. Digital cameras, music players, e-book readers, and handheld gaming devices can get confused when they encounter these odd files during file system parsing and directory listing. The problem is compounded if the devices naïvely process files by looking only at the file extension as they will then see the dot underscore version of a file as a duplicate and try to preview/play/open it.
+
+For years I've used an app called [CleanMyDrive](https://web.archive.org/web/20250208072547/https://macpaw.com/cleanmymac) to remove such files, but [it was discontinued in October 2023](https://macpaw.com/news/cleanmydrive-no-longer-developed). I continued to use it until it recently stopped working completely ...so I needed to find an alternative solution. There are some apps on the Mac App Store that look like they'll do the trick, but I don't really want to spend the time buying and trialling multiple apps to find one that fits my usage habits. I can make one! 
+
+I already use an app called [xbar](https://xbarapp.com) for keeping track of my GitHub issues, itch.io sales, network/server status, and more. So I decided to flex my shell script muscles and put together an xbar script to do it. 
+
+The script adds a menu bar item that allows you to:
+- Eject (click)
+- Unmount (option-click)
+- Eject All (without cleaning, useful when you want to disconnect all drives from your computer)
+
+That's it! Straight to the point, no frills, functional software.
+
+----
+
+{% gist 610f22180117ad20465d7c529cc5faa0 %}
