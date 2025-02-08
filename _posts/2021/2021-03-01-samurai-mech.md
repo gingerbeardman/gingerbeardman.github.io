@@ -41,20 +41,26 @@ Here is Saumrai Mech running on my 1992 Macintosh Classic, using System 7.1.0 wi
 **Samurai Mech**
   
 Yukito Morikawa (森川幸人)   
-Shūji Nomaguchi (野間口修二)  
-\[Star Odyssey, Jumping Flash series, Astronōka\]  
+Shūji Nomaguchi (野間口修二)
+- Star Odyssey
+- Jumping Flash series
+- Astronōka
   
-Akihiko Miura (三浦明彦)  
-\[Otocky, Bombliss, Pokémon series\]  
+Akihiko Miura (三浦明彦)
+- Otocky
+- Bombliss
+- Pokémon series
   
-Minoru Mukaiya (向谷実)  
-\[Romance of the Three Kingdoms 2/3, Samurai Warriors 2\]
+Minoru Mukaiya (向谷実)
+- Romance of the Three Kingdoms 2/3
+- Samurai Warriors 2
 
 **Samurai Mech II adds the following notable Staff:**
   
 Hitomi Amakawa (天川ひとみ)  
-Shigenori Miyamoto (宮本茂則)  
-\[Jumping Flash series, Astronōka\]
+Shigenori Miyamoto (宮本茂則)
+- Jumping Flash series
+- Astronōka
 
 ## Timeline of related games
 
