@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Automating the cleaning of macOS-specific files on Eject"
+date: '2025-02-08T20:45+00:00'
 tags:
 - hack
 - macos
@@ -27,6 +28,9 @@ The script adds a menu bar item that allows you to:
 - Eject All (without cleaning, useful when you want to disconnect all drives from your computer)
 
 That's it! Straight to the point, no frills, functional software.
+
+![IMG](/images/posts/xbar-volumes.png " ")
+{:.tofigure}
 
 ----
 
