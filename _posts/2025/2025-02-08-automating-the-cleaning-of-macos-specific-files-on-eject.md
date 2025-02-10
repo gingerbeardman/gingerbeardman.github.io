@@ -9,6 +9,7 @@ tags:
 - script
 - software
 nouns:
+image: /images/posts/xbar-volumes.png
 featured: false
 pinned: false
 
