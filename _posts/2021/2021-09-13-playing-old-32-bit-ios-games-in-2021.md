@@ -8,6 +8,7 @@ tags:
 - patreon
 - hack
 - history
+- llamasoft
 nouns:
 - iPad mini
 - iPhone
