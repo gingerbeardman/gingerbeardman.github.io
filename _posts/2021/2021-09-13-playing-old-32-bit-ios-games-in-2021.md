@@ -34,7 +34,7 @@ At this time, I was still managing my iPhone and app updates through iTunes, wit
 
 Anyway, I took one or both of those things as a sign to download and backup a couple of games in particular: Llamasoft's [Minotron: 2112](http://www.minotaurproject.co.uk/Minotaur/minotron.php) and [Gridrunner](http://www.minotaurproject.co.uk/Minotaur/gridrunner.php), part of their [Minotaur Project](http://www.minotaurproject.co.uk/Minotaur/minotaurprj2.php) series of games. I bought a few more from that series but I only kept my two favourites.
 
-[Earlier this year](/2021/03/08/two-old-llamasoft-iphone-and-ipad-games/) I uploaded them to internet archive as an act of preservation. Somebody recently downloaded them and was trying to make them work on their devices, without much luck. It seemed that the apps were tied to my account and I'd have to share cracked versions. I'd need an old device capable of running iOS 10 or older, and one susceptible to jailbreaking. I figured that would be a fun afternoon. Here's the process I went through:
+[Earlier this year](/2021/03/08/two-old-llamasoft-iphone-and-ipad-games/) I uploaded them to internet archive as an act of preservation. Somebody recently downloaded them and was trying to make them work on their devices, without much luck. It seemed that the apps were tied to my account and I'd have to share decrypted versions. I'd need an old device capable of running iOS 10 or older, and one susceptible to jailbreaking. I figured that would be a fun afternoon. Here's the process I went through:
 
 ## Restore working system
 
@@ -67,4 +67,4 @@ And [here's an Instagram video of me playing the main game](https://www.instagra
 
 ## Gridrunner
 
-For some reason Clutch and other decrypting apps don't work with Gridrunner. Since then, [somebody was kind enough to create a cracked version and upload it to Internet Archive](https://archive.org/details/gridrunner-ios). 
+For some reason Clutch and other decrypting apps don't work with Gridrunner. Since then, [somebody was kind enough to create a decrypted version and upload it to Internet Archive](https://archive.org/details/gridrunner-ios). 

@@ -34,8 +34,8 @@ I'm still hoping for an easy way to play these on modern devices, so let me know
 - [Minotron: 2112](https://archive.org/details/minotron-2112)  (iPhone & iPad)
 - [Gridrunner](https://archive.org/details/gridrunner-ios) (iPhone & iPad)
 
-Edit, 2021-09-13: I've added a cracked/decrypted version of Minotron that should be easier to install on a jailbroken device. 
+Edit, 2021-09-13: I've added a decrypted version of Minotron that should be easier to install on a jailbroken device. 
 
 Edit, 2025-02-06: I can't remember when exactly, but a kind somebody provided me with a decrypted version of Gridrunner which I've now uploaded to its page.
 
-For more info on generating a cracked IPA file: [/2021/09/14/playing-old-32-bit-ios-games-in-2021/](/2021/09/14/playing-old-32-bit-ios-games-in-2021/) 
+For more info on generating a decrypted IPA file: [/2021/09/14/playing-old-32-bit-ios-games-in-2021/](/2021/09/14/playing-old-32-bit-ios-games-in-2021/) 
