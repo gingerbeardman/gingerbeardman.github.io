@@ -27,12 +27,12 @@ comments: https://twitter.com/gingerbeardman/status/1368883961145999362
 
 Back in 2017 a large number of games and apps were rendered obsolete when iOS 11 removed 32-bit compatibility. At that time I was still downloading app into iTunes as backups, and seem to have put aside these couple of great Llamasoft games.
 
-You should be able to side load them onto any jailbroken iOS device running iOS 10 or earlier, like an iPad mini (1st generation will be usable as-is; later generations may need to be downgraded) or iPod touch (1st to 5th generation will be usable as-is; later generations may need to be downgraded).
+You should be able to side load them onto any jailbroken iOS device running iOS 10 or earlier, like an iPad mini (1st generation will be usable as-is; later generations may need to be downgraded) or iPod touch (1st to 5th generation will be usable as-is; later generations may need to be downgraded) or similar iPhone.
 
 I'm still hoping for an easy way to play these on modern devices, so let me know if such a thing exists!
 
-- [Minotron: 2112](https://archive.org/details/minotron-2112)  (iPhone & iPad)
-- [Gridrunner](https://archive.org/details/gridrunner-ios) (iPhone & iPad)
+- [Minotron: 2112](https://archive.org/details/minotron-2112)  (iPhone, iPod touch & iPad)
+- [Gridrunner](https://archive.org/details/gridrunner-ios) (iPhone, iPod touch & iPad)
 
 Edit, 2021-09-13: I've added a decrypted version of Minotron that should be easier to install on a jailbroken device. 
 
