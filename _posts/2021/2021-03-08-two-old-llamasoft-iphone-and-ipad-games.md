@@ -7,6 +7,7 @@ tags:
 - patreon
 - preservation
 - history
+- llamasoft
 nouns:
 - iPad mini
 - iPad
