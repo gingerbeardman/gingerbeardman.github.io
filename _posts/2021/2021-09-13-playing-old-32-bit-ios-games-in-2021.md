@@ -49,7 +49,7 @@ Anyway, I took one or both of those things as a sign to download and backup a co
 1. Installed [sockH3lix](https://github.com/SongXiaoXi/sockH3lix/releases/latest)
 2. Did jailbreak with sockH3lix (only takes a second or two!)
 3. Noted that Cydia has been installed
-4. Installed Clutch (took a couple of tries to find the a [working repo](https://sharerepo.stkc.win/?repo=https://stek29.rocks/cyrepo/))
+4. Installed Clutch (took a couple of tries to find a [working repo](https://sharerepo.stkc.win/?repo=https://stek29.rocks/cyrepo/))
 
 ## Decrypt the Minotron game
 
@@ -68,4 +68,4 @@ And [here's an Instagram video of me playing the main game](https://www.instagra
 
 ## Gridrunner
 
-For some reason Clutch and other decrypting apps don't work with Gridrunner. Since then, [somebody was kind enough to create a decrypted version and upload it to Internet Archive](https://archive.org/details/gridrunner-ios). 
+For some reason Clutch and other decrypting apps don't work for me with Gridrunner. Since then, [somebody was kind enough to create a decrypted version and upload it to Internet Archive](https://archive.org/details/gridrunner-ios). 
