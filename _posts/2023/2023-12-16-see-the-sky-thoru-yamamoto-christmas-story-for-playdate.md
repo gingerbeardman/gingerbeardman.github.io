@@ -112,7 +112,7 @@ You can download *See the sky* for Playdate from my page on itch.io, and it is a
 
 - 500 screens
 - 10 chapters
-- ~ 30 minute experience
+- ~ 1 hour experience
 - Quick navigation menu unlocked as you go
 - Position is remembered between launches
 - Settings for sound and crossfade speed
