@@ -11,7 +11,7 @@ tags:
 featured: false
 pinned: false
 
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1892021312568115539
 
 ---
 
