@@ -15,7 +15,7 @@ comments: https://twitter.com/gingerbeardman/status/1892021312568115539
 
 ---
 
-I wondered how feasible it is to make Love2D games "on the go" (on a train, in bed, etc). Often I want to try a quick sketch, work up a prototype, or simply verify an algorithm. I'm happy to say it's all possible!
+I wondered how feasible it is to make Love2D games "on the go" (on a train, in bed, etc). Often I want to try a quick sketch, work up a prototype, or simply verify an algorithm. I'm happy to say it's possible!
 
 ----
 
