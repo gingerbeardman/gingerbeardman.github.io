@@ -2,6 +2,7 @@
 layout: post
 title: "Making games on iPhone/iPad using Lua & Love2D"
 date: '2025-02-20T07:37+00:00'
+last_modified_at: '2025-02-21T09:38+00:00'
 tags:
 - ios
 - iphone
@@ -19,17 +20,15 @@ I wondered how feasible it is to make Love2D games "on the go" (on a train, in b
 
 ----
 
-## Love2D Studio
+## Runners
 
+**Love2D Studio**
 - Available since Jan 2024
 - Free [apps.apple.com/gb/app/love2d-studio/id6474188075](https://apps.apple.com/gb/app/love2d-studio/id6474188075)
 - this allows you to manage love files and run them on iPhone
 - Love2D errors can even be copied to the clipboard!
 
-----
-
-## Love2D Game Maker
-
+**Love2D Game Maker**
 - Available since March 2024
 - Paid [apps.apple.com/gb/app/love2d-game-maker/id6476174098](https://apps.apple.com/gb/app/love2d-game-maker/id6476174098)
 - TestFlight [testflight.apple.com/join/bCLmQKfQ](https://testflight.apple.com/join/bCLmQKfQ)
@@ -39,7 +38,15 @@ I wondered how feasible it is to make Love2D games "on the go" (on a train, in b
 
 ----
 
-## Additional tools
+## Editors
+
+**Kodex** (since 2017)
+- Free [apps.apple.com/gb/app/kodex/id1038574481](https://apps.apple.com/gb/app/kodex/id1038574481)
+- text editor with minimap and more
+
+**Runestone** (since 2022)
+- Free, limited [apps.apple.com/gb/app/runestone-text-editor/id1548193893](https://apps.apple.com/gb/app/runestone-text-editor/id1548193893)
+- text editor with clean user interface
 
 **Lua IDE** (since Feb 2021)
 - Free [apps.apple.com/gb/app/lua-ide/id1549382090](https://apps.apple.com/gb/app/lua-ide/id1549382090)
