@@ -2,7 +2,7 @@
 layout: post
 title: "Making games on iPhone/iPad using Lua & Love2D"
 date: '2025-02-20T07:37+00:00'
-last_modified_at: '2025-02-21T09:38+00:00'
+last_modified_at: '2025-02-21T10:18+00:00'
 tags:
 - ios
 - iphone
@@ -42,7 +42,11 @@ I wondered how feasible it is to make Love2D games "on the go" (on a train, in b
 
 **Kodex** (since 2017)
 - Free [apps.apple.com/gb/app/kodex/id1038574481](https://apps.apple.com/gb/app/kodex/id1038574481)
-- text editor with minimap and more
+- text editor with minimap
+
+**GoCoEdit** (since 2016)
+- Paid [apps.apple.com/gb/app/gocoedit-code-text-editor/id869346854](https://apps.apple.com/gb/app/gocoedit-code-text-editor/id869346854)
+- text editor with autocomplete
 
 **Runestone** (since 2022)
 - Free, limited [apps.apple.com/gb/app/runestone-text-editor/id1548193893](https://apps.apple.com/gb/app/runestone-text-editor/id1548193893)
