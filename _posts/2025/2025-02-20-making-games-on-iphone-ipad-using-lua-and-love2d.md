@@ -2,7 +2,7 @@
 layout: post
 title: "Making games on iPhone/iPad using Lua & Love2D"
 date: '2025-02-20T07:37+00:00'
-last_modified_at: '2025-02-21T10:18+00:00'
+last_modified_at: '2025-02-21T18:43+00:00'
 tags:
 - ios
 - iphone
@@ -39,6 +39,10 @@ I wondered how feasible it is to make Love2D games "on the go" (on a train, in b
 ----
 
 ## Editors
+
+**Textastic** (since 2010)
+- Paid [apps.apple.com/gb/app/textastic-code-editor/id1049254261](https://apps.apple.com/gb/app/textastic-code-editor/id1049254261)
+- text editor with autocomplete and function picker
 
 **Kodex** (since 2017)
 - Free [apps.apple.com/gb/app/kodex/id1038574481](https://apps.apple.com/gb/app/kodex/id1038574481)
