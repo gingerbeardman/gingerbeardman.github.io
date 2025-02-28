@@ -8,7 +8,9 @@ tags:
 - software
 nouns:
   - Palm OS
+  - Palm
   - Macintosh
+  - Mac
   - Sony CLIÉ
   - Tenohira Hanafuda Kai
   - Tenohira Hanafuda
