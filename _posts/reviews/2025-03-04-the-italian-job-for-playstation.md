@@ -44,7 +44,7 @@ Today we're spoiled by open world games. We've seen it all before from the likes
 
 ## Links
 
-- [Watch _The Italian Job_ on YouTube.com](https://www.youtube.com/watch?v=YqvTjPzXM5E&list=PLfF-zlMNYMd-f0027NK9ybUjPRrd5a1kV)
+- [Watch _The Italian Job_ on YouTube.com](https://www.youtube.com/watch?v=FgS7W15ZM1I&t=3473)
 - [Find out more at mobygames.com](https://www.mobygames.com/game/6124/the-italian-job/)
 - [Check an FAQ for walkthrough and secrets at gamefaqs.com](https://gamefaqs.gamespot.com/ps/256395-the-italian-job/faqs)
 - [Read a postmortem at gamedeveloper.com](https://www.gamedeveloper.com/design/postmortem-pixelogic-s-i-the-italian-job-i-)
