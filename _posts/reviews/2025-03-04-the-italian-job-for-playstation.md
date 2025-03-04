@@ -19,8 +19,8 @@ nouns:
 - 'Driver: 1969'
 - Driver 2
 - Driver
-image: /images/posts/
-comments: https://twitter.com/gingerbeardman/status/
+image: /images/posts/the-italian-job-ps1.jpg
+comments: https://twitter.com/gingerbeardman/status/1896554766366322937
 
 ---
 
@@ -28,7 +28,7 @@ comments: https://twitter.com/gingerbeardman/status/
 
 **You were only supposed to blow the bloody doors off!**
 
-The Italian Job is based on the [1969 cult classic movie](https://en.wikipedia.org/wiki/The_Italian_Job) of the same name, and released very late into the life of PlayStation in fact over a year into the life of PlayStation 2. It reviewed well and charted at number one for a good amount of time, even winning a "Best PlayStation Game of 2002" award. But I wouldn't be surprised if you've never heard of it let alone played it.
+The Italian Job is based on the [1969 cult classic movie](https://en.wikipedia.org/wiki/The_Italian_Job) of the same name, and released very late into the life of PlayStation in fact over a year into the life of PlayStation 2. It reviewed well and charted at number one for a good amount of time, even winning a *"Best PlayStation Game of 2002"* award from the Official PlayStation Magazine in the UK. But I wouldn't be surprised if you've never heard of it let alone played it.
 
 It was one of those games I picked up along the way, long after release, probably at a car boot sale or charity shop or bargain bin. I distinctly remember booting it up for the first time and feeling the vibe of the movie instantly despite only having seen it once when I was a teen. It retains all the comedy, action, and British irreverance. The thought of racing cars around busy city streets with reckless abandon is as intoxicating now as it was then.
 
@@ -48,3 +48,4 @@ Today we're spoiled by open world games. We've seen it all before from the likes
 - [Find out more at mobygames.com](https://www.mobygames.com/game/6124/the-italian-job/)
 - [Check an FAQ for walkthrough and secrets at gamefaqs.com](https://gamefaqs.gamespot.com/ps/256395-the-italian-job/faqs)
 - [Read a postmortem at gamedeveloper.com](https://www.gamedeveloper.com/design/postmortem-pixelogic-s-i-the-italian-job-i-)
+- [Check out the original website](https://web.archive.org/web/20050303004411fw_/http://www.pixelogic.nildram.co.uk/pages/tij.htm)
