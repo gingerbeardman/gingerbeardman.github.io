@@ -105,7 +105,7 @@ So we have found two of the three games in MaBoShi, which leaves us with the "ba
 
 At the time of release there were a couple of English videos of a "making of" developer interview shown in both North America and Europe that have since been lost to time. Nintendo Europe were kind enough to respond to my request about these videos, but told me that their archive currently only goes back to 2012 so we're sadly out of luck. Here are references I have found to the airing dates for [video 1](https://nintendoeverything.com/updates-to-the-nintendo-channel-32/) (Dec 2008) and [video 2](https://nintendoeverything.com/updates-to-the-nintendo-channel-36/) (Jan 2009).
 
-These include the juicy fact that the game was initially green lit for the Game Boy Micro (a small Game Boy Advance, [marketed as being suitable for one-handed play to Japanese commuters](https://www.youtube.com/watch?v=IdAsnZlmQtM)) alongside the bitGenerations series, Polarium, Rhythm Paradise, but after the sales of the Micro were less than anticipated the development was moved to DS and eventually to Wii.
+These include the juicy fact that the game was initially green lit for the Game Boy Micro (a small Game Boy Advance, [marketed as being suitable for one-handed play for Japanese commuters](https://www.youtube.com/watch?v=IdAsnZlmQtM)) alongside the bitGenerations series, Polarium, Rhythm Paradise, but after the sales of the Micro were less than anticipated the development was moved to DS and eventually to Wii.
 
 ---
 
