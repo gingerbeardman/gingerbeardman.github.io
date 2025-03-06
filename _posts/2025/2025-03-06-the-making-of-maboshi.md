@@ -47,6 +47,7 @@ nouns:
 - iPhone
 - BlitzMax
 - Love2D
+image: /images/posts/maboshi-2003-circular.png
 featured: false
 pinned: false
 
