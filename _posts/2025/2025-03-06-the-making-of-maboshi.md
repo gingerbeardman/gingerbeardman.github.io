@@ -37,11 +37,11 @@ nouns:
 featured: false
 pinned: false
 
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1897683578126831834
 
 ---
 
-It's no secret that I'm a fan of an almost forgotten WiiWare game called MaBoShi. I've posted a [review](/2013/06/29/maboshi/), the [staff roll for the first time in English](/2020/03/28/credits-maboshi-wiiware/), written an [FAQ strategy guide](https://gamefaqs.gamespot.com/wii/946472-maboshis-arcade/faqs/78205), created [a way for you to play it more easily](/2024/04/18/per-game-skins-in-the-delta-classic-video-game-emulator-for-ios/) on your iPhone, and even [finally succeeded to make my own version](https://x.com/gingerbeardman/status/1826714059938693607) of the Circle game over the course of many years, and never miss an opportunity to wax lyrical about its genius. So, here I am once again to keep the flame burning.
+It's no secret that I'm a fan of an almost forgotten WiiWare game called MaBoShi. I've posted a [review](/2013/06/29/maboshi/), the [staff roll for the first time in English](/2020/03/28/credits-maboshi-wiiware/), written an [FAQ strategy guide](https://gamefaqs.gamespot.com/wii/946472-maboshis-arcade/faqs/78205), managed to [score 1 million in its "circle" game on my Nintendo DS](https://twitter.com/gingerbeardman/status/625789610761842689), created [a way for you to play it more easily](/2024/04/18/per-game-skins-in-the-delta-classic-video-game-emulator-for-ios/) on your iPhone, and even [finally succeeded to make my own version](https://x.com/gingerbeardman/status/1826714059938693607) of the "circle" game over the course of many years, and never miss an opportunity to wax lyrical about its genius. So, here I am once again to keep the flame burning.
 
 MaBoShi was published in 2008 by Nintendo and developed by [Mindware Corp](http://www.pinball.co.jp/mindware/) who have [a long and well respected development history](https://gdri.smspower.org/wiki/index.php/Mindware). The game was [critically acclaimed](https://www.metacritic.com/game/maboshis-arcade/critic-reviews/?platform=wii) on release, which might come as a shock if you've never heard of it. It was somewhat inaccessible: it was a hardcore arcade title only available digitally on a console that was maligned as for being "for kids". To give a sense of time, the App Store on iPhone was barely a month old at the time of MaBoShi's release.
 
@@ -104,5 +104,6 @@ These include the juicy fact that the game was initially green lit for the Game 
 ## Reading list
 - ["1001 Video Games You Must Play Before You Die"](https://archive.org/details/1001videogamesyo0000unse_s9o3/page/796/mode/2up) (Tony Mott, et al) right opposite Spelunky
 - [Tiny Cartridge guest review](https://tinycartridge.com/post/68430151/guest-review-maboshis-arcade) by Anna “Auntie” Anthropy
+- [TV ad/commercial that inspired MaBoShi's effect system](https://www.youtube.com/watch?v=pDEPhAcwFlk)
 - [Patent application US20090093314](https://www.google.com/patents/US20090093314) describing MaBoShi's effect system
 - [Patent application US20110165940](https://www.google.com/patents/US20110165940) describing Flametail's power-up system
