@@ -36,8 +36,8 @@ nouns:
 - kuni
 - Flash Lite
 - Flash
-- HSP
 - HSP Program Contest
+- HSP
 - Ruffle
 - Internet Archive
 - Wayback Machine
