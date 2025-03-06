@@ -95,7 +95,7 @@ Kuni would create prototypes in [Flash Lite](https://en.wikipedia.org/wiki/Flash
 
 ----
 
-## What remains
+## All bar one
 
 So we have found two of the three games in MaBoShi, which leaves us with the "bar" game. I spoke to kuni and he mentioned that this did not exist as a prototype prior to work commencing on MaBoShi, so it was created for the game when it was decided that a third game would be welcome.
 
