@@ -75,7 +75,7 @@ Throughout the past 30 years kuni has been an indie developer, [developing for m
 
 ## Mosser
 
-We find [one entry in HSP Program Contest 2004](https://www.onionsoft.net/hsp/contest2004/list_s3.html) called *Mosser*. A quick look at the image below shows that it was an early version of MaBoShi's "square" game in 2008, which layer evolved into [Flametail on DSiWare](https://www.mobygames.com/game/87996/flametail/) in 2010. *Mosser* was awarded [first prize in the small game category](https://www.onionsoft.net/hsp/contest2004/place.html).
+We find [one entry in HSP Program Contest 2004](https://www.onionsoft.net/hsp/contest2004/list_s3.html) called *Mosser*. A quick look at the image below shows that it was an early version of MaBoShi's "square" game, which later evolved into [Flametail on DSiWare](https://www.mobygames.com/game/87996/flametail/) in 2010. *Mosser* was awarded [first prize in the small game category](https://www.onionsoft.net/hsp/contest2004/place.html).
 
 One of the judges was none other than Micky Albert of Mindware Corp—the company that would go on to develop MaBoShi! He and the other judges were very impressed with the gameplay and depth even at this prototype stage. Kuni would win a PlayStation Portable and some pinball art donated by Mindware who were a sponsor of the event. You can [read the judges thoughts](http://www.onionsoft.net/hsp/contest2004/result.html#368) and the game can be run in old versions of Windows.
 
