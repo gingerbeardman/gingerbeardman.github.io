@@ -24,6 +24,11 @@ nouns:
 - DSiWare
 - Game Boy Micro
 - Game Boy Advance
+- Micro
+- DS
+- bitGenerations
+- Polarium
+- Rhythm Paradise
 - Nintendo DS
 - Wii
 - Kuni
