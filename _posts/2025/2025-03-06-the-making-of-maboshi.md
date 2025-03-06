@@ -17,6 +17,7 @@ nouns:
 - PlayStation Portable
 - Nintendo Life
 - Nintendo Europe
+- Nintendo DS
 - Nintendo
 - WiiWare World
 - WiiWare
