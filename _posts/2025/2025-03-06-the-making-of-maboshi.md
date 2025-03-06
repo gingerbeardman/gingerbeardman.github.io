@@ -14,6 +14,7 @@ nouns:
 - Micky Albert
 - Mindware Corp
 - Mindware
+- ONION software
 - PlayStation Portable
 - Nintendo Life
 - Nintendo Europe
