@@ -117,7 +117,7 @@ These include the juicy fact that the game was initially green lit for the Game 
 
 ## Reading list
 - ["1001 Video Games You Must Play Before You Die"](https://archive.org/details/1001videogamesyo0000unse_s9o3/page/796/mode/2up) (Tony Mott, et al) right opposite Spelunky
-- [Tiny Cartridge guest review](https://tinycartridge.com/post/68430151/guest-review-maboshis-arcade) by Anna “Auntie” Anthropy
+- [Tiny Cartridge guest review](https://tinycartridge.com/post/68430151/guest-review-maboshis-arcade) by Anna Anthropy
 - [TV ad/commercial that inspired MaBoShi's effect system](https://www.youtube.com/watch?v=pDEPhAcwFlk)
 - [Patent application US20090093314](https://www.google.com/patents/US20090093314) describing MaBoShi's effect system
 - [Patent application US20110165940](https://www.google.com/patents/US20110165940) describing Flametail's power-up system
