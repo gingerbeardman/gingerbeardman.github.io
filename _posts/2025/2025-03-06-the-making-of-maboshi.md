@@ -44,6 +44,8 @@ nouns:
 - Wayback Machine
 - App Store
 - iPhone
+- BlitzMax
+- Love2D
 featured: false
 pinned: false
 
