@@ -36,6 +36,7 @@ nouns:
 - kuni
 - Flash Lite
 - Flash
+- HSP Program Contest 2004
 - HSP Program Contest
 - HSP
 - Ruffle
