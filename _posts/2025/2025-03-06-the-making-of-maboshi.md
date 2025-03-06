@@ -5,6 +5,7 @@ date: '2025-03-06T16:00+00:00'
 tags:
 - maboshi
 - wii
+- wiiware
 - videogame
 - history
 nouns:
