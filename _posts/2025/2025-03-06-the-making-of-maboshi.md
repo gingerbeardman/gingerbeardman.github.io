@@ -2,6 +2,7 @@
 layout: post
 title: "The making of MaBoShi"
 date: '2025-03-06T16:00+00:00'
+last_modified_at: '2025-03-07T08:15+00:00'
 tags:
 - maboshi
 - wii
@@ -67,7 +68,7 @@ As part of the release promotional campaign [Micky Albert](https://www.4gamer.ne
 
 Kuniaki Watanabe ("kuni") is probably best known for his PlayStation open world exploration and crafting game [Panekit](https://www.mobygames.com/game/109325/panekit/), released in 1999. This was a product of Sony's [ゲームやろうぜ!](https://ja.wikipedia.org/wiki/ゲームやろうぜ!) ["Game Yaroze!" development programme](https://game.watch.impress.co.jp/docs/20051026/game.htm) (not to be confused with PlayStation’s 「ネットやろうぜ」 "Net Yaroze" dev kit). Panekit offered the type of easy, freeform crafting that would later appear in [Banjo-Kazooie: Nuts & Bolts](https://www.mobygames.com/game/37770/banjo-kazooie-nuts-bolts/) and even later in [The Legend of Zelda: Tears of the Kingdom](https://www.mobygames.com/game/203119/the-legend-of-zelda-tears-of-the-kingdom/). Most famously Panekit [took 13 years to become profitable](https://www.siliconera.com/panekit-the-infinitive-crafting-toy-case-game-finally-sees-profits-after-13-years/).
 
-In more recent years he's written a book on game design, 組み立て×分解！ゲームデザイン ("Assembly × Disassembly! Game Design"), that goes into many of the mechanics that are used in his games. It's only available in Japanese but has a very friendly manga-style presentation and the game design techniques are easily understood.
+In more recent years he's written a [book on game design](http://gihyo.jp/book/2016/978-4-7741-7944-5/), 組み立て×分解！ゲームデザイン ("Assembly × Disassembly! Game Design"), that goes into the mechanics that are used in his games, including MaBoShi. It's only available in Japanese but has a very friendly manga-style presentation and the game design techniques are easily understood.
 
 Throughout the past 30 years kuni has been an indie developer, [developing for many platforms using a range of tools](https://k-u.hatenadiary.org/entries/1970/01/01). And this is where we pick up the origins of MaBoShi.
 
