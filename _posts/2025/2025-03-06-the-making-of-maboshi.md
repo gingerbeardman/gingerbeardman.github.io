@@ -76,9 +76,9 @@ Throughout the past 30 years kuni has been an indie developer, [developing for m
 
 ## Hot Soup Processor
 
-[HSP](https://en.wikipedia.org/wiki/Hot_Soup_Processor) is could be thought of as a Japanese equivalent to something like BlitzMax, given that it started life as a version of BASIC, or perhaps Love2D for its rough capabilities.
+[HSP](https://en.wikipedia.org/wiki/Hot_Soup_Processor) could be thought of as a Japanese equivalent to something like [BlitzMax](https://en.wikipedia.org/wiki/Blitz_BASIC), given that it started life as a version of BASIC, or perhaps [Love2D](https://love2d.org/) for a rough equivalent of its capabilities.
 
-[ONION software](https://ja.wikipedia.org/wiki/おにたま), creators of [HSP](http://www.onionsoft.net/hsp/), hold the annual HSP Program Contest and the results for all of these have been archived over the years. Nice work ONION! We can do a web search of that domain to find mentions of kuni.
+[ONION software](https://ja.wikipedia.org/wiki/おにたま), creators of [HSP](http://www.onionsoft.net/hsp/), hold the annual HSP Program Contest and the results for all of these have been archived over the years. Nice work, ONION! We can do a web search of that domain to find mentions of kuni.
 
 ## Mosser
 
