@@ -75,4 +75,4 @@ Oh, and all my Playdate games are currently on sale (until 20th March 2025):
   - read the [making of](/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/)
 - [play.date/games/icarus/](https://play.date/games/icarus/)
   - 50% off
-  - read about its [dynamic music](/2023/12/08/dynamic-music-and-sound-techniques-for-video-games/)
+  - read about its [dynamic music](/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)

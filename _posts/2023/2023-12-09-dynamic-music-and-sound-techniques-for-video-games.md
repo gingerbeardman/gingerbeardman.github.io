@@ -21,6 +21,8 @@ nouns:
 - YOYOZO
 - Fore! Track
 - Super ICARUS
+redirect_from:
+- /2023/12/08/dynamic-music-and-sound-techniques-for-video-games/
 comments: https://twitter.com/gingerbeardman/status/1733297871170961808
 
 ---
