@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Enhanced sfxr.lua for Lua"
+title: "Enhanced sfxr for Lua"
 date: '2025-03-11T18:23+00:00'
 tags:
 - love2d
