@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Enhanced sfxr for Lua"
+title: "Enhanced sfxr.lua for Lua"
 date: '2025-03-11T12:00+00:00'
 tags:
 - love2d
@@ -25,6 +25,8 @@ I made some usability and quality of life changes to the [sfxr.lua](https://love
 - fix: space bar was not playing sound
 - fix: selected wave form was being ignored (sounds were always square wave)
 - fix: loaded wave form not updating the interface (but sound was playing correctly)
+- add: clone method added to sfxr.lua
+- add: history with undo/redo
 - add: "auto play on changes" so that any time you adjust a slider the sound plays
 - add: keyboard navigation in file picker (a–z: jump to files, Enter: choose, Esc: close picker)
 
