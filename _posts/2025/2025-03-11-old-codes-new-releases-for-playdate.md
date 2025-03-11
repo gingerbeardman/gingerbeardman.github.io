@@ -61,18 +61,18 @@ It is a technology demo that was put together as part of a pitch for a game. Whi
 
 Oh, and all my Playdate games are currently on sale (until 20th March 2025):
 
-- [play.date/games/yoyozo/](https://play.date/games/yoyozo/)
-  - 50% off
+- [YOYOZO](https://play.date/games/yoyozo/)
   - read about it being a [GOTY 2023](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
-- [play.date/games/sparrow-solitaire/](https://play.date/games/sparrow-solitaire/)
-  - 30% off
+  - 50% off
+- [Sparrow Solitaire](https://play.date/games/sparrow-solitaire/)
   - read the [making of](/2023/04/13/sparrow-solitaire-for-playdate/)
-- [play.date/games/bender-2-bend-harder/](https://play.date/games/bender-2-bend-harder/)
-  - 50% off
+  - 30% off
+- [Bender 2: Bend Harder](https://play.date/games/bender-2-bend-harder/)
   - read the [making of](/2024/10/08/bender-2-bend-harder-for-playdate/)
-- [play.date/games/fore-track/](https://play.date/games/fore-track/)
   - 50% off
+- [Fore! Track](https://play.date/games/fore-track/)
   - read the [making of](/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/)
-- [play.date/games/icarus/](https://play.date/games/icarus/)
   - 50% off
+- [Super ICARUS](https://play.date/games/icarus/)
   - read about its [dynamic music](/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
+  - 50% off
