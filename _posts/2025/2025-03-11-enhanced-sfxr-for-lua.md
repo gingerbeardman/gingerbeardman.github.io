@@ -21,14 +21,14 @@ comments: https://twitter.com/gingerbeardman/status/
 Yesterday I made a bunch of usability and quality of life changes to the [sfxr.lua](https://love2d.org/wiki/sfxr.lua) demo app.
 
 - fix: getDirectoryItems (from a PR)
-- fix: off by one error sample length error (from a PR)
-- fix: space bar was not playing sound
+- fix: off by one sample length error (from a PR)
+- fix: space bar was not playing the sound
 - fix: selected wave form was being ignored (sounds were always square wave)
 - fix: loaded wave form not updating the interface (but sound was playing correctly)
 - add: clone method added to sfxr.lua
-- add: history with undo/redo
-- add: "auto play on changes" so that any time you adjust a slider the sound plays
-- add: keyboard navigation in file picker (a–z: jump to files, Enter: choose, Esc: close picker)
+- add: history form with list of previous sounds, save current, and undo/redo
+- add: "play on changes" so that any time you adjust a sound it plays automatically
+- add: keyboard navigation in file picker (A–Z: jump to files, Enter: choose, Esc: close picker)
 
 For now you can get the enhanced .love file at: [love2d.org/forums/viewtopic.php?p=262149#p262149](https://love2d.org/forums/viewtopic.php?p=262149#p262149)
 
