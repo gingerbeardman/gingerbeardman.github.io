@@ -9,8 +9,16 @@ tags:
 - music
 - bandkun
 nouns:
+- Playdate Catalog
+- Playdate
 - SameGame
-- Chain Shot
+- CHAIN SHOT
+- Tetris
+- YOYOZO
+- Fore! Track
+- Supoer ICARUS
+- 'Bender 2: Bend Harder'
+- Fujitsu FM-8
 image: /images/posts/
 featured: false
 pinned: false
@@ -19,7 +27,7 @@ comments: https://twitter.com/gingerbeardman/status/1899482960367169927
 
 ---
 
-As I move away from game development on Playdate, I've released a couple of interesting old things...
+As I sadly move away from game dev on Playdate, I've released a couple of interesting old things...
 
 ----
 
