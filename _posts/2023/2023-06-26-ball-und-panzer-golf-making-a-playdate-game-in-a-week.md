@@ -9,6 +9,7 @@ tags:
 - japanese
 - videogame
 - foretrack
+- gamedev
 nouns:
 - Ball und Panzer Golf
 - Girls und Panzer
