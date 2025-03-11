@@ -16,7 +16,8 @@ nouns:
 - Tetris
 - YOYOZO
 - Fore! Track
-- Supoer ICARUS
+- Super ICARUS
+- Sparrow Solitaire
 - 'Bender 2: Bend Harder'
 - Fujitsu FM-8
 image: /images/posts/
