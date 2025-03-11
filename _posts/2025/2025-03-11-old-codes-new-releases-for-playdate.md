@@ -33,7 +33,7 @@ As I sadly move away from game dev on Playdate, I've released a couple of intere
 
 ## NEW WORLD
 
-This is an interactive music track where you're the DJ. You control various instruments and vocals, doing live mixing of the track.
+This is an interactive music track where you're the DJ. You control various instruments and vocals, doing live mixing of the track. It's really fun to play with!
 
 It is a technology demo that was put together as part of a pitch for a game. Whilst the game never came to be, an improved version of this technology went on to be used in Bender 2: Bend Harder for the dynamic background patterns that animate to the beat of the music.
 
