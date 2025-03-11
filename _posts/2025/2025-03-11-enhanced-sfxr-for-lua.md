@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enhanced sfxr.lua for Lua"
-date: '2025-03-11T12:00+00:00'
+date: '2025-03-11T18:23+00:00'
 tags:
 - love2d
 - lua
@@ -18,7 +18,7 @@ comments: https://twitter.com/gingerbeardman/status/
 
 ---
 
-I made some usability and quality of life changes to the [sfxr.lua](https://love2d.org/wiki/sfxr.lua) demo app.
+Yesterday I made a bunch of usability and quality of life changes to the [sfxr.lua](https://love2d.org/wiki/sfxr.lua) demo app.
 
 - fix: getDirectoryItems (from a PR)
 - fix: off by one error sample length error (from a PR)
@@ -30,8 +30,9 @@ I made some usability and quality of life changes to the [sfxr.lua](https://love
 - add: "auto play on changes" so that any time you adjust a slider the sound plays
 - add: keyboard navigation in file picker (a–z: jump to files, Enter: choose, Esc: close picker)
 
-For now you can get it at: [love2d.org/forums/viewtopic.php?p=262149#p262149](https://love2d.org/forums/viewtopic.php?p=262149#p262149)
+For now you can get the enhanced .love file at: [love2d.org/forums/viewtopic.php?p=262149#p262149](https://love2d.org/forums/viewtopic.php?p=262149#p262149)
 
-At some point I'll fork the project and file some PRs with my changes.
+At some point I'll fork the project on GitHub and file some PRs with my changes.
 
-![IMG](/images/posts/sfxr-lua.png)
+![IMG](/images/posts/sfxr-lua.png "“Enhance”")
+{:.tofigure}
