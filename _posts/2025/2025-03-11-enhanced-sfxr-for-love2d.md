@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Enhanced sfxr for Lua"
+title: "Enhanced sfxr for Love2D"
 date: '2025-03-11T18:23+00:00'
 tags:
 - love2d
@@ -13,8 +13,9 @@ nouns:
 image: /images/posts/sfxr-lua.png
 featured: false
 pinned: false
-
-comments: https://twitter.com/gingerbeardman/status/
+redirect_from:
+- /2025/03/11/enhanced-sfxr-for-lua/
+comments: https://twitter.com/gingerbeardman/status/1899861471267299568
 
 ---
 
