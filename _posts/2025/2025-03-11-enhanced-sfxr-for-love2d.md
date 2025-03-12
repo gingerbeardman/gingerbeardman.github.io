@@ -19,7 +19,7 @@ comments: https://twitter.com/gingerbeardman/status/1899861471267299568
 
 ---
 
-Yesterday I made a bunch of usability and quality of life changes to the [sfxr.lua](https://love2d.org/wiki/sfxr.lua) demo app.
+I've made a bunch of usability and quality of life changes to the [sfxr.lua](https://love2d.org/wiki/sfxr.lua) demo app.
 
 - fix: getDirectoryItems (from a PR)
 - fix: off by one sample length error (from a PR)
@@ -31,9 +31,9 @@ Yesterday I made a bunch of usability and quality of life changes to the [sfxr.l
 - add: "play on changes" so that any time you adjust a sound it plays automatically
 - add: keyboard navigation in file picker (A–Z: jump to files, Enter: choose, Esc: close picker)
 
-For now you can get the enhanced .love file at: [love2d.org/forums/viewtopic.php?p=262149#p262149](https://love2d.org/forums/viewtopic.php?p=262149#p262149)
+You can get it at: [gingerbeardman.itch.io/enhanced-sfxr-for-love2d](https://gingerbeardman.itch.io/enhanced-sfxr-for-love2d)
 
-At some point I'll fork the project on GitHub and file some PRs with my changes.
+At some point I'll fork the project on GitHub and file some PRs with my changes, but the repo for it seems very dead so I'll wait until I hear back from the owner. Source code is at the above link.
 
-![IMG](/images/posts/sfxr-lua.png "“Enhance”")
+![IMG](/images/posts/sfxr-lua.png "“Enhance!”")
 {:.tofigure}
