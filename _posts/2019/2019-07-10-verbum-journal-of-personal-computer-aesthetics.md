@@ -16,7 +16,7 @@ nouns:
 image: /images/posts/verbum-the-journal-of-personal-computer-aesthetics.jpg
 
 ---
-Verbum "The Journal of Personal Computer-Aesthetics" (1986–1991) was an early personal computer and computer art magazine focusing on interactive art and computer graphics.
+Verbum "The Journal of Personal Computer-Aesthetics" (1986–1991) was an early computer lifestyle magazine focusing on interactive art and computer graphics.
 
 * All issues (well, except issue 4.3): [archive.org/details/verbummagazine?&sort=date](https://archive.org/details/verbummagazine?&sort=date)
 * Table of contents for all issues: [en.wikipedia.org/wiki/Verbum_(magazine)](https://en.wikipedia.org/wiki/Verbum_(magazine))
