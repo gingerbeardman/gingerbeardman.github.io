@@ -34,7 +34,7 @@ As I sadly move away from game dev on Playdate, I've released a couple of intere
 
 ## SHARK TURTLE
 
-This is a version of [SameGame](https://en.wikipedia.org/wiki/SameGame) (さめがめ) originally released under the name [CHAIN SHOT](https://blog.gingerbeardman.com/2023/05/24/ordering-photocopies-from-japans-national-library/) in 1985 by Kuniaki "Morisuke" Moribe for Fujitsu FM-8 home computer. The concept is as old as Tetris, perhaps even older, and at one time SameGame in its many guises was more popular than Tetris in Japan. One version had an active [modding scene](/2023/05/04/macigame-user-created-graphics/) and some had [strategy guide books](/2023/08/19/fake-steve-jobs-and-letters-from-bill-g/).
+This is a version of [SameGame](https://en.wikipedia.org/wiki/SameGame) (さめがめ) originally released under the name [CHAIN SHOT](https://blog.gingerbeardman.com/2023/05/24/ordering-photocopies-from-japans-national-library/) in 1985 by Kuniaki "Morisuke" Moribe for Fujitsu FM-8 home computer. The concept is as old as Tetris, perhaps even older, and at one time SameGame in its many guises was more popular than Tetris in Japan. One version had an active [modding scene](/2023/05/04/macigame-user-created-graphics/) and some had [strategy guide books](/2023/08/19/fake-steve-jobs-and-letters-from-bill-g/#samegame).
 
 It was submitted and rejected in the first wave of submissions to Playdate Catalog. At one point the plan was to wrap this in a theme/concept and give it the same sort of love that resulted in the great experiences of my other games like YOYOZO, Fore! Track, Bender 2: Bend Harder, but for one reason or another it never happened.
 

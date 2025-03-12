@@ -1,6 +1,8 @@
 ---
 layout: post
 title: MaciGame user created graphics
+date: '2023-05-04T12:00+00:00'
+last_modified_at: '2025-03-12T13:59+00:00'
 tags:
 - samegame
 - japanese
@@ -34,6 +36,14 @@ The user-created graphic sets were all sourced from the amazing [Vector.co.jp](h
 > Tips: you can browse the folder as a GraphicConverter slideshow to more quickly and easily figure out which you'd like to use or install. The easiest way of using a graphics set is to double click it and it will open MaciGame with the new graphics loaded. A few images may not have the correct `SaMe` creator code so may need to either have that set, or be loaded manually using the game menu.
 
 Thanks to [Izumi Okano](https://twitter.com/haeckel) for letting me know about this archive of user created graphics, and also [my Patreon supporters](https://www.patreon.com/gingerbeardman) for allowing me to preserve this type of content.
+
+----
+
+## DiscMaster
+
+User created graphics can be found and viewed in DiscMaster using this search: <a href="http://discmaster.textfiles.com/search?format=pict&detection=PICT%2FSaMe">http://discmaster.textfiles.com/search?format=pict&detection=PICT%2FSaMe</a> which indexes and makes browsable all of my Japanese CD-ROMs as well as many more uploaded by other people.
+
+----
 
 ## My Favourites
 
