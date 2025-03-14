@@ -42,7 +42,7 @@ I have a bunch of searches including [Hanafuda](/2021/10/31/hypercard-hanafuda/)
 
 So far the oldest thing of mine is Chaos Calc 2, my fractal explorer, this version from May 1993 when I was 16 years young! I have a pretty good memory and can tell you that I received zero registrations for that [shareware](https://en.wikipedia.org/wiki/Shareware) app, but I did get one call from somebody who wanted to be certain that their £5 GBP registration fee would absolutely definitely receive a floppy disk in return. I guess they were unconvinced because they never sent me any money!
 
-There are references to programs (this what apps were called back on the Atari ST) that I had forgotten about but after reading their names can now recall complete details of (palette manager, boot tools), some I can recall partial details (menu system), and programs that I have completely forgotten the details of (a front end for a ray tracing program). Curiously I see no mention of the apps I was most fond of at that time: a text file viewer, kids paint program, and my take on [Gorrilas](https://en.wikipedia.org/wiki/Gorillas_(video_game)).
+There are references to programs (this what apps were called on the Atari ST) that I had forgotten about but after reading their names can now recall completely (palette manager, boot tools), some I can recall partially (menu system), and others I have very little recollection of (a front end for a ray tracing program). Curiously I see no mention of the apps I was most fond of at that time: a text file viewer, kids paint program, and my take on [Gorrilas](https://en.wikipedia.org/wiki/Gorillas_(video_game)). Perhaps they came later?
 
 ----
 
