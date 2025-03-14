@@ -12,7 +12,7 @@ body.atarist {
 
   a, a:hover,
   .c-tags a:hover {
-    color: colors.$color-white;
+    color: colors.$color-white !important;
     background-color: transparent;
     transition: none;
   }
