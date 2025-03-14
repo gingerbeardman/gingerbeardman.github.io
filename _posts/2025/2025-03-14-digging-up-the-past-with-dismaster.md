@@ -29,7 +29,7 @@ style: |
 
 ---
 
-[DiscMaster](https://discmaster.textfiles.com) is an alternative interface for collections of software that have been uploaded to Internet Archive. It allows you to drill into disk images to a file level and preview them in-place, download individual folders, zips, images, or whatever you like. It's been around for a while but has become bigger and better with the introduction of DiscMaster 2, which is ingesting huge amounts of new files daily. But how to keep up with this firehose!?
+[DiscMaster](https://discmaster.textfiles.com) is an alternative interface for collections of software that have been uploaded to Internet Archive. It allows you to drill into disk images at the file level and preview the contents in-place, download individual folders, zips, images, or whatever you like. It's been around for a while but has become bigger and better with the introduction of DiscMaster 2, which is ingesting huge amounts of new files daily. But how to keep up with this firehose!?
 
 ## Automated Searching
 
