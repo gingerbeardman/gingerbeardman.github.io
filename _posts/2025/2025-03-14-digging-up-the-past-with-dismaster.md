@@ -47,6 +47,6 @@ There are references to programs (this what apps were called back on the Atari S
 
 ## Chaos Calc 2
 
-It's been 30 years but it only took a moment for me to recall how to use the app and what all the different menu options did, even without consulting the readme. This is running at 32MHz with maths co-processor (compared to stock 8MHz with no co-processor) as your time is valuable!
+It's been 32 years but it only took a moment for me to recall how to use the app and what all the different menu options did, even without consulting the readme. This is running at 32MHz with maths co-processor (compared to stock 8MHz with no co-processor) as your time is valuable!
 
 {% youtube fizIhUlmVXo 8/5 %}
