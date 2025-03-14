@@ -7,7 +7,6 @@ tags:
 - history
 - preservation
 - software
-- fractals
 nouns:
 - Atari ST
 - DiscMaster 2
