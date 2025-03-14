@@ -18,11 +18,15 @@ nouns:
 - Thoru Yamamoto
 - RSS
 - MaciGame
-image: /images/posts/
+image: /images/posts/chaos-calc-2.png
 featured: false
 pinned: false
 
 comments: https://twitter.com/gingerbeardman/status/1900565939751367132
+style: |
+  lite-youtube {
+    background-image: url("/images/posts/chaos-calc-2.png") !important;
+  }
 
 ---
 
@@ -46,5 +50,4 @@ There are references to programs (this what apps were called back on the Atari S
 
 It's been 30 years but it only took a moment for me to recall how to use the app and what all the different menu options did, even without consulting the readme. This is running at 32MHz with maths co-processor (compared to stock 8MHz with no co-processor) as your time is valuable!
 
-{% youtube fizIhUlmVXo %}
-
+{% youtube fizIhUlmVXo 8/5 %}
