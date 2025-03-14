@@ -19,6 +19,8 @@ nouns:
 - MaciGame
 - Gorillas
 image: /images/posts/chaos-calc-2.png
+redirect_from:
+- /2025/03/14/digging-up-the-past-with-dismaster/
 featured: false
 pinned: false
 
