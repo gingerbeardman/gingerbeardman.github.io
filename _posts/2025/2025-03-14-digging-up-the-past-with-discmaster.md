@@ -3,21 +3,22 @@ layout: post
 title: "Digging up the past with DiscMaster"
 date: '2025-03-14T22:58+00:00'
 tags:
-- atarist
 - history
 - preservation
 - software
+- archive
 nouns:
 - Atari ST
 - DiscMaster 2
 - DiscMaster
-- Chaos Calc 2
 - Internet Archive
 - Hanafuda
 - Thoru Yamamoto
 - RSS
 - MaciGame
 - Gorillas
+- Retro Gamer
+- Masaki Kobayashi
 image: /images/posts/chaos-calc-2.png
 redirect_from:
 - /2025/03/14/digging-up-the-past-with-dismaster/
@@ -42,7 +43,7 @@ I have a bunch of searches including [Hanafuda](/2021/10/31/hypercard-hanafuda/)
 
 ## Class of ’93
 
-So far the oldest thing of mine is Chaos Calc 2, my fractal explorer, this version from May 1993 when I was 16 years young! I have a pretty good memory and can tell you that I received zero registrations for that [shareware](https://en.wikipedia.org/wiki/Shareware) app, but I did get one call from somebody who wanted to be certain that their £5 GBP registration fee would absolutely definitely receive a floppy disk in return. I guess they were unconvinced because they never sent me any money!
+So far the oldest thing of mine is *Chaos Calc 2*, my fractal explorer, this version from May 1993 when I was 16 years young! I have a pretty good memory and can tell you that I received zero registrations for that [shareware](https://en.wikipedia.org/wiki/Shareware) app, but I did get one call from somebody who wanted to be certain that their £5 GBP registration fee would absolutely definitely receive a floppy disk in return. I guess they were unconvinced because they never sent me any money!
 
 There are references to programs (this what apps were called on the Atari ST) that I had forgotten about but after reading their names can now recall completely (palette manager, boot tools), some I can recall partially (menu system), and others I have very little recollection of (a front end for a ray tracing program). Curiously I see no mention of the apps I was most fond of at that time: a text file viewer, kids paint program, and my take on [Gorrilas](https://en.wikipedia.org/wiki/Gorillas_(video_game)). Perhaps they came later?
 
@@ -53,3 +54,12 @@ There are references to programs (this what apps were called on the Atari ST) th
 It's been 32 years but it only took a moment for me to recall how to use the app and what all the different menu options did, even without consulting the readme. This is running at 32MHz with maths co-processor (compared to stock 8MHz with no co-processor) as your time is valuable!
 
 {% youtube fizIhUlmVXo 8/5 %}
+
+----
+
+## Wire Hang Redux
+
+Also fun to see my game [*Wire Hang Redux*](https://gingerbeardman.itch.io/wire-hang-redux) was featured in Retro Gamer magazine issues 7 & 13, which totally passed me by in 2004/2005! No surprise as that game was featured in dozens of magazines around the world: Japan, USA, Sweden, Finland, Czech Republic, Germany... It being Big in Japan is fun because it is my remake of a Japanese game by "d2ac", [Masaki Kobayashi](https://www.mobygames.com/person/510170/masaki-kobayashi/).
+
+![IMG](/images/posts/wire-hang-redux-japanese-feature.jpg "I can't remember which Japanese Macintosh magazine this was from")
+{:.tofigure}
