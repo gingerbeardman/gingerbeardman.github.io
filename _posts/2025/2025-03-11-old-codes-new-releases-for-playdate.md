@@ -20,7 +20,7 @@ nouns:
 - Sparrow Solitaire
 - 'Bender 2: Bend Harder'
 - Fujitsu FM-8
-image: /images/posts/
+image: /images/posts/old-playdate-shark-turtle.gif
 featured: false
 pinned: false
 
