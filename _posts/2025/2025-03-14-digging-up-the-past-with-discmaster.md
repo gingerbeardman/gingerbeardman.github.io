@@ -55,8 +55,6 @@ It's been 32 years but it only took a moment for me to recall how to use the app
 
 {% youtube fizIhUlmVXo 8/5 %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fizIhUlmVXo?si=KY_OxtR5euHK2F2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ----
 
 ## Wire Hang Redux
