@@ -39,7 +39,7 @@ style: |
 
 One of the great things about DiscMaster is that you can subscribe to an RSS feed of any search result, which means you'll be notified of new matches as they are indexed without the need to manually search on the website.
 
-I have a bunch of searches including [Hanafuda](/2021/10/31/hypercard-hanafuda/), various computer artists and developers ([Thoru Yamamoto](/2023/12/16/see-the-sky-thoru-yamamoto-christmas-story-for-playdate/)), particular apps, specific file types (`PICT/SaMe` for [MaciGame tilesets](/2023/05/04/macigame-user-created-graphics/)), and for purely selfish reasons... searches for my own name. It's fun to see where my early software was distributed up to 30 years after the fact.
+I have a bunch of searches including [Hanafuda](/2021/10/31/hypercard-hanafuda/), various computer artists and developers ([Thoru Yamamoto](/2023/12/16/see-the-sky-thoru-yamamoto-christmas-story-for-playdate/)), particular apps, specific file types (`PICT/SaMe` for [MaciGame tilesets](/2023/05/04/macigame-user-created-graphics/)), and for purely selfish reasons... searches for my own name. It's fun to see where my early software was distributed decades after the it happened.
 
 ## Class of ’93
 
@@ -63,3 +63,9 @@ Also fun to see my game [*Wire Hang Redux*](https://gingerbeardman.itch.io/wire-
 
 ![IMG](/images/posts/wire-hang-redux-japanese-feature.jpg "I can't remember which Japanese Macintosh magazine this was from")
 {:.tofigure}
+
+----
+
+## FAQs
+
+The game guides I wrote and [published on GameFAQs](https://gamefaqs.gamespot.com/community/msephton/contributions) ended up on a number of different CD-ROMs. I love the idea of somebody using a disc full of text files as a resource when playing games in the mid-late 1990s.
