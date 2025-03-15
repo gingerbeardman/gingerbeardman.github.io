@@ -41,13 +41,13 @@ One of the great things about DiscMaster is that you can subscribe to an RSS fee
 
 I have a bunch of searches including [Hanafuda](/2021/10/31/hypercard-hanafuda/), various computer artists and developers ([Thoru Yamamoto](/2023/12/16/see-the-sky-thoru-yamamoto-christmas-story-for-playdate/)), particular apps, specific file types (`PICT/SaMe` for [MaciGame tilesets](/2023/05/04/macigame-user-created-graphics/)), and for purely selfish reasons... searches for my own name. It's fun to see where my early software was distributed decades after the it happened.
 
+----
+
 ## Class of ’93
 
 So far the oldest thing of mine is *Chaos Calc 2*, my fractal explorer, this version from May 1993 when I was 16 years young! I have a pretty good memory and can tell you that I received zero registrations for that [shareware](https://en.wikipedia.org/wiki/Shareware) app, but I did get one call from somebody who wanted to be certain that their £5 GBP registration fee would absolutely definitely receive a floppy disk in return. I guess they were unconvinced because they never sent me any money!
 
 There are references to programs (this is what apps were called on the Atari ST) that I had forgotten about but after reading their names can now recall completely (palette manager, boot tools), some I can recall partially (menu system), and others I have very little recollection of (a front end for a ray tracing program). Curiously I see no mention of the apps I was most fond of at that time: a text file viewer, kids paint program, and my take on [Gorrilas](https://en.wikipedia.org/wiki/Gorillas_(video_game)). Perhaps they came later?
-
-----
 
 ## Chaos Calc 2
 
