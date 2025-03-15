@@ -59,7 +59,7 @@ It's been 32 years but it only took a moment for me to recall how to use the app
 
 ## Wire Hang Redux
 
-Also fun to see my game [*Wire Hang Redux*](https://gingerbeardman.itch.io/wire-hang-redux) was featured in Retro Gamer magazine issues 7 & 13, which totally passed me by in 2004/2005! No surprise as that game was featured in dozens of magazines around the world: Japan, USA, Sweden, Finland, Czech Republic, Germany... It being Big in Japan is fun because it is my remake of a Japanese game by "d2ac", [Masaki Kobayashi](https://www.mobygames.com/person/510170/masaki-kobayashi/).
+Also fun to see my game [*Wire Hang Redux*](https://gingerbeardman.itch.io/wire-hang-redux) was featured in Retro Gamer magazine issues 7 & 13, which totally passed me by in 2004/2005! No surprise as that game was featured in dozens of magazines around the world: Japan, USA, Sweden, Finland, Czech Republic, Germany. It being [Big in Japan](http://www.forest.impress.co.jp/article/2004/07/06/wirehangredux.html) is fun because it is my remake of a Japanese game by "d2ac", [Masaki Kobayashi](https://www.mobygames.com/person/510170/masaki-kobayashi/).
 
 ![IMG](/images/posts/wire-hang-redux-japanese-feature.jpg "I can't remember which Japanese Macintosh magazine this was from")
 {:.tofigure}
