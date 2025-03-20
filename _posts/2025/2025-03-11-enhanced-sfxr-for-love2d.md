@@ -2,6 +2,7 @@
 layout: post
 title: "Enhanced sfxr for Love2D"
 date: '2025-03-11T18:23+00:00'
+last_modified_at: '2025-03-20T15:33+00:00'
 tags:
 - love2d
 - lua
@@ -30,6 +31,10 @@ I've made a bunch of usability and quality of life changes to the [sfxr.lua](htt
 - add: history form with list of previous sounds, save current, and undo/redo
 - add: "play on changes" so that any time you adjust a sound it plays automatically
 - add: keyboard navigation in file picker (A–Z: jump to files, Enter: choose, Esc: close picker)
+- add: window title reflects the most recent loaded/saved file
+- add: window title and filename reflects last operation
+- add: file selector shows data directory path
+- add: unified save directory across platforms
 
 You can get it at: [gingerbeardman.itch.io/enhanced-sfxr-for-love2d](https://gingerbeardman.itch.io/enhanced-sfxr-for-love2d)
 
