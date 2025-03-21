@@ -69,14 +69,6 @@ I wondered how feasible it is to make Love2D games "on the go" (on a train, in b
 
 ----
 
-## LÖVE JAM 2025
-
-The next LÖVE JAM starts on 14th March 2025 and runs for ~1 week!
-- [itch.io/jam/love2d-jam-2025](https://itch.io/jam/love2d-jam-2025)
-- #lovejam2025
-
-----
-
 ## Other Lua IDE
 
 If you're into Lua but not into Love2D then you might try [Codea for iPad](https://codea.io).
