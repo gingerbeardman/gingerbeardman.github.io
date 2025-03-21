@@ -9,11 +9,10 @@ tags:
 - setup
 nouns:
 - Apple
-image: /images/posts/
 featured: false
 pinned: false
 
-comments: https://twitter.com/gingerbeardman/status/1900565939751367132
+comments: https://twitter.com/gingerbeardman/status/1903148161687830964
 
 ---
 
@@ -27,9 +26,9 @@ Those I often need to interact with:
 - [Dato](https://sindresorhus.com/dato) (alt clock and calendar with timezones; old version)
 - [iStat Menus](https://bjango.com/mac/istatmenus/) (network speed; old version)
 - [xBar](https://xbarapp.com) (custom menu items powered by my own shell scripts)
-  - GitHub Issues
-  - Software Sales Stats
   - Proxy Status
+  - Software Sales Stats
+  - GitHub Issues
   - [Eject Volumes](/2025/02/08/automating-the-cleaning-of-macos-specific-files-on-eject/)
 - [Caffeine](https://www.caffeine-app.net) (used to set Mac not to sleep)
 
