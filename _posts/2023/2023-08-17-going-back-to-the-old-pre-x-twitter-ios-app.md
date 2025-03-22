@@ -2,7 +2,7 @@
 layout: post
 title: Going back to the old (pre-X) Twitter iOS app
 date: '2023-08-17T19:39+01:00'
-last_modified_at: '2024-05-15T01:13+01:00'
+last_modified_at: '2025-03-22T12:30+00:00'
 tags:
 - twitter
 - hack
@@ -49,6 +49,24 @@ style: |
   }
 ---
 
+There are two main ways to do this. As of 2025 I recommend the first one, using a tweaked app, but I'll leave the second one up for the sake of history as it still works, albeit more limited in use.
+
+----
+
+## Using a tweaked app
+
+My current recommended way of doing this to sideload a tweaked version of the Twitter/X app.
+
+You'll need a tweaked Twitter.ipa and the version I use is [a version by ghl3m0n](https://github.com/ghl3m0n/FuckElon) that also replaces all X branding with the bird.
+
+Tweaked apps have additional plugins and extensions added to them. The most common and useful tweak is BHTwitter, which will block ads and most bots whilst enabling some extra features. The only real downside to tweaked apps is that they don't support deep linking like the original apps, but you can use the bundled Safari extensions and/or [Opener app](https://www.opener.link) to work around that.
+
+Then you will need to pick a method of installing, using [AltStore](https://altstore.io), [appdb](https://appdb.to), [SideStore](https://sidestore.io), [Feather](https://github.com/khcrysalis/Feather), [Sideloadly](https://sideloadly.io), or similar. Depending which method you choose you may have to reinstall or reactivate the app from time to time.
+
+----
+
+## Using an old version of the app
+
 Here's how you can downgrade to an older version of Twitter (pre-X changes) and install it in a way that means _it will not be automatically updated_.
 
 <figure class="img-with-caption">
@@ -59,7 +77,7 @@ Here's how you can downgrade to an older version of Twitter (pre-X changes) and 
 </picture>
 <figcaption class="caption">Twitter 9.66 (858339189) running on an iPhone Xs just now</figcaption></figure>
 
-## Downloading the old version
+### Downloading the old version
 
 This is the trickiest part of the process as it requires installing some old software and following a guide. But don't worry — it's not that difficult! You'll need access to an old version of iTunes (so it's most easily done using Windows) and about 15 minutes to carry out the steps.
 
@@ -77,13 +95,13 @@ Notes:
 
 The result of this process is a completely legitimate .ipa file, tied to your Apple ID in exactly the same way that apps normally are. As such, the resulting file can be installed on your device and once installed would be no different to an app you've downloaded directly from the App Store. This also means that if you share your .ipa with somebody else they would need to log in to your account using your Apple ID to do so, which is undesirable. Best if they download their own! Send them this blog post.
 
-## Avoiding updates
+### Avoiding updates
 
 If you install the .ipa file onto your phone using Finder, iTunes, Apple Configurator it will install just fine. But, because of the metadata that is included the .ipa, it will be checked for updates and automatically updated soon after installation. We need to go deeper.
 
 There is a little-known method of installing apps on an iOS device which will prevent it from being checked for updates. I discovered this method [back in 2016](/2016/07/19/how-to-prevent-an-individual-ios-app-from-updating-forever/) when I used it to downgrade the eBay and Gmail Inbox apps.
 
-## Installing the app
+### Installing the app
 
 Before we begin, you don't need to remove the current app you're using. But best to make sure to backup any data you need from it regardless! You may, or may not, need to login once the old version of the app is reinstalled.
 
@@ -103,7 +121,7 @@ You’re done!
 ![PNG](/images/posts/twitter-old-payload.png "Locating the Twitter .ipa Payload")
 {:.tofigure}
 
-## Questions 
+### Questions 
 
 **Why can't I add the app to my phone?**
     Either you missed step 7, or you need to [use an older version of Apple Configurator](https://archive.org/details/apple-configurator).
