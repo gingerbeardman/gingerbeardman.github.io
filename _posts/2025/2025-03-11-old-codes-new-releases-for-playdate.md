@@ -2,6 +2,7 @@
 layout: post
 title: "Old Codes, New Releases for Playdate"
 date: '2025-03-11T16:24+00:00'
+last_modified_at: '2025-03-26T14:55+00:00'
 tags:
 - playdate
 - gamedev
@@ -58,22 +59,17 @@ It is a technology demo that was put together as part of a pitch for a game. Whi
 
 ----
 
-## On Sale!
+## More games!
 
-Oh, and all my Playdate games are currently on sale (until 20th March 2025):
+All my Playdate games:
 
 - [YOYOZO](https://play.date/games/yoyozo/)
   - read about it being a [GOTY 2023](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
-  - 50% off
 - [Sparrow Solitaire](https://play.date/games/sparrow-solitaire/)
   - read the [making of](/2023/04/13/sparrow-solitaire-for-playdate/)
-  - 30% off
 - [Bender 2: Bend Harder](https://play.date/games/bender-2-bend-harder/)
   - read the [making of](/2024/10/08/bender-2-bend-harder-for-playdate/)
-  - 50% off
 - [Fore! Track](https://play.date/games/fore-track/)
   - read the [making of](/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/)
-  - 50% off
 - [Super ICARUS](https://play.date/games/icarus/)
   - read about its [dynamic music](/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
-  - 50% off
