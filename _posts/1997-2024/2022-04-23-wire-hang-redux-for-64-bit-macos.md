@@ -29,7 +29,7 @@ style: |
 
 ---
 
-I just uploaded a 64-bit macOS version of my 2004 game [Wire Hang Redux](/2004/03/14/wire-hang-redux/) that I had forgotten all about. So now you can play it on your 64-bit Mac. This version built using BlitzMax. I'll try to build it for Apple Silicon some time this decade, but no promises!
+I just uploaded a 64-bit macOS version of my 2004 game [Wire Hang Redux](/2004/06/20/wire-hang-redux/) that I had forgotten all about. So now you can play it on your 64-bit Mac. This version built using BlitzMax. I'll try to build it for Apple Silicon some time this decade, but no promises!
 
 Read more about the game in the original [blog post](/2004/06/20/wire-hang-redux/).
 
