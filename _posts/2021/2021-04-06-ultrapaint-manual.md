@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UltraPaint Manual
-last_modified_at: '2024-07-14T16:53+01:00'
+last_modified_at: '2025-03-26T15:17+00:00'
 tags:
 - history
 - manual
@@ -15,18 +15,24 @@ nouns:
 - artWORKS
 - Deneba
 - Canvas
-image: /images/posts/ultrapaint-manual-1.jpg
+image: /images/posts/ultrapaint-manual-1.JPG
 featured: false
+carousels:
+  - images:
+    - image: https://cdn.gingerbeardman.com/images/posts/ultrapaint-manual-1.JPG
+    - image: https://cdn.gingerbeardman.com/images/posts/ultrapaint-manual-2.JPG
+    - image: https://cdn.gingerbeardman.com/images/posts/ultrapaint-manual-3.JPG
+    - image: https://cdn.gingerbeardman.com/images/posts/ultrapaint-manual-4.JPG
 
 ---
 
 I received a package from America: the 30-year-old manual for UltraPaint, Deneba Software's Macintosh graphics program. It doesn't get much more exciting for me than this!
 
-![JPG](/images/posts/ultrapaint-manual-1.jpg)
+{% include carousel_multi.html height="100" unit="%" duration="7" number="1" %}
 
 I love how the Option key in printed material from this era looks more like a 2-way switch symbol from an electrical circuit diagram than it does today.
 
-![JPG](/images/posts/ultrapaint-manual-option-key.jpg)
+![JPG](/images/posts/ultrapaint-manual-option-key.JPG)
 
 ## Similar Books
 
