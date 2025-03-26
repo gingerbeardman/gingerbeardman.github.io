@@ -13,6 +13,7 @@ tags:
 - hypercard
 - history
 - magazine
+- preservation
 nouns:
 - Macintosh
 featured: true

@@ -138,7 +138,7 @@ This one from I/O 1984 May issue was found through [Google](http://hirax.net/dia
 
 ## 1985
 
-> **Missing:** Weekly GENDAI 週刊現代 featured a map in issue 206, 13th July 1985. [Auction link](https://page.auctions.yahoo.co.jp/jp/auction/1067115599) and [image here](/images/posts/akihabara-1985-gendai.jpg).
+> **Missing:** Weekly GENDAI 週刊現代 featured a map in issue 206, 13th July 1985. [Auction link](https://page.auctions.yahoo.co.jp/jp/auction/1067115599) and [image here](/images/posts/akihabara-1985-gandai.jpg).
 
 This one [I found referenced on Twitter](https://twitter.com/yoshinokentarou/status/1578567956249706496), a lovely map from the April 1985 issue of POPCOM (complete with cover artwork by Hiroshi Okamoto)
 

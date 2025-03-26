@@ -9,6 +9,7 @@ tags:
 - patreon
 - history
 - hack
+- preservation
 nouns:
 - DiskCatalogMaker
 - HFSExplorer

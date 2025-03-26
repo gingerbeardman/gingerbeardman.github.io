@@ -7,6 +7,7 @@ tags:
 - macintosh
 - magazine
 - mmm
+- preservation
 nouns:
 - Windows
 image: /images/posts/mmm-redux.png
