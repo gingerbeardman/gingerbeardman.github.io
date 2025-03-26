@@ -15,10 +15,10 @@ nouns:
 - artWORKS
 - Deneba Systems
 - Deneba
+- 'Canvas 3.0: The Book'
 - Canvas
 - Macintosh
 - Deke McClelland
-- 'Canvas 3.0: The Book'
 - Internet Archive
 image: /images/posts/ultrapaint-manual-1.JPG
 featured: false
