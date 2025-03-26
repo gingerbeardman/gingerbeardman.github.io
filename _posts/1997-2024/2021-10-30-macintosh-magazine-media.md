@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I'm preserving vintage Macintosh magazine media"
-last_modified_at: '2024-07-29T11:08+01:00'
+last_modified_at: '2025-03-26T15:46+00:00'
 date: '2021-10-30T12:34+00:00'
 tags:
 - macintosh
@@ -25,15 +25,23 @@ For a while now I've been collecting CD-ROMs and Floppy Disks that came with Jap
 
 These magazines were released before widespread adoption of the internet, when it was tricky to discover new software and even more difficult to obtain it. Buying a magazine with a disc containing hundreds or sometimes thousands of files was an easy way of getting the latest software. Of course, more than twenty years have now passed and software that was once common has all but disappeared. These magazine discs provide time capsules inside which live many long forgotten secrets.
 
-This is such an amazing treasure trove of files, containing many long lost files of both English and Japanese origin. The scatter chart shows the range of date coverage of the collection, full file listings are searchable at [gingerbeardman.com/mmm/](https://www.gingerbeardman.com/mmm/) and all discs are uploaded to [Internet Archive](https://archive.org/details/@gingerbeardman).
+This is such an amazing treasure trove of files, containing many long lost files of both English and Japanese origin. The scatter chart shows the range of date coverage of the collection, full file listings are searchable by file/directory name, file type, creator code at [gingerbeardman.com/mmm/](https://www.gingerbeardman.com/mmm/), by content at [DiscMaster](https://discmaster.textfiles.com), and all files are uploaded to [Internet Archive](https://archive.org/details/@gingerbeardman).
 
 ## Archive status report
 
+The archive as it stands (updated March 2025):
+
+*   date range: 1991–2002
+*   total media: 496 discs
+*   total files: 1,073,286 files
+
+<!--
 The archive as it stands (updated July 2024):
 
 *   date range: 1991–2002
 *   total media: 461 discs
 *   total files: 998,512 files
+-->
 
 ![PNG](/images/posts/mmm-scatter.png "Distribution of discs by month")
 {:.tofigure}
