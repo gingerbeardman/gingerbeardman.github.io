@@ -23,13 +23,13 @@ Most music I was sent by the Apple Music algorithm continued to be Japanese, tha
 
 ## My first DJ mix
 
-I pruned 50 tracks down to about 30 and set to work sequencing the tracks so their key and BPM flowed nicely. Each transition became a puzzle, gamifying the whole process. I had been listening to a loosly arranged playlist of 26 tracks for about a week, and two of those didn't make the cut for the final mix.
+I pruned 50 tracks down to about 30 and set to work sequencing the tracks so their key and BPM flowed nicely. Each transition became a puzzle, gamifying the whole process. I had been listening to a loosely arranged playlist of 26 tracks for about a week, and two of those didn't make the cut for the final mix.
 
-It was possible for me to create my first ever DJ mix thanks to some fantastic called [DJ.Studio](https://dj.studio) that makes light work of some difficult and cumbersome process.
+It was possible for me to create my first ever DJ mix thanks to some fantastic called [DJ.Studio](https://dj.studio) that makes light work of some difficult and cumbersome process. [Listen on MixCloud](https://www.mixcloud.com/gingerbeardman/2024/).
 
 <iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fgingerbeardman%2F2024%2F" frameborder="0" ></iframe>
 
-24 tracks with a duration of 1h18m58s, a mere 12 seconds longer than last year. Bonus points for consistency. It also meant I could run off some CDs and MiniDiscs for friends and aquaintances.
+24 tracks with a duration of 1h18m58s, a mere 12 seconds longer than last year. Bonus points for consistency. It also meant I could run off some CDs and MiniDiscs for friends and acquaintances.
 
 <div class="table-wrapper" markdown="block">
 |Timestamp|Artist|Song (Video)|
