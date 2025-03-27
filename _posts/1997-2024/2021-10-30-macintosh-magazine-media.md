@@ -33,8 +33,8 @@ This is such an amazing treasure trove of files, containing many long lost files
 The archive as it stands (updated March 2025):
 
 *   date range: 1991–2002
-*   total media: 496 discs
-*   total files: 1,070,805 files
+*   total media: 500 discs
+*   total files: 1,086,536 files
 
 <!--
 The archive as it stands (updated July 2024):
