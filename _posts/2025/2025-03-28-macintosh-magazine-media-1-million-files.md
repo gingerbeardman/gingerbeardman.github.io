@@ -16,6 +16,7 @@ nouns:
 - Windows
 - Hybrid
 - Win/Mac
+image: /images/posts/mmm-scatter.png
 featured: false
 pinned: false
 
