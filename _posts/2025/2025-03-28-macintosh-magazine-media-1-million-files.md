@@ -23,7 +23,7 @@ comments: https://twitter.com/gingerbeardman/status/1905668214375219262
 
 ---
 
-I am proud to announce that my [Macintosh Magazine Media project](/2025/01/10/macintosh-magazine-media-search-engine-update/) has surpassed my self-imposed goal of 1 million files, an achievement that fills me with both immense satisfaction and slight bewilderment.
+I am proud to announce that my [Macintosh Magazine Media project](/2025/01/10/macintosh-magazine-media-search-engine-update/) has surpassed my self-imposed goal of 1 million files, an achievement that fills me with both satisfaction and bewilderment.
 
 ## Status report
 
