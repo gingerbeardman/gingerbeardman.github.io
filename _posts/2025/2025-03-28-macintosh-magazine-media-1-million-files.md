@@ -102,8 +102,8 @@ I'm not sure I'll buy any/many more discs, but never say never!
 
 ## Searching the collection
 
-All items are available for download at [Internet Archive](https://archive.org/details/@gingerbeardman), but wait a minute!
+All disc ISO with text listings are available for download at [Internet Archive](https://archive.org/details/@gingerbeardman), but wait a minute!
 
-Using my search engine ([read more](/2025/01/10/macintosh-magazine-media-search-engine-update/)) can search by file/directory name, file type, creator code: [gingerbeardman.com/mmm/](https://www.gingerbeardman.com/mmm/)
+Using my search engine ([read more](/2025/01/10/macintosh-magazine-media-search-engine-update/) about that) you can search by regex for file/directory name, file type, creator code: [gingerbeardman.com/mmm/](https://www.gingerbeardman.com/mmm/)
 
 Or you can use DiscMaster to search inside content and grab individual files without having to download the whole ISO: [discmaster.textfiles.com](https://discmaster.textfiles.com)
