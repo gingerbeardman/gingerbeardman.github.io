@@ -117,7 +117,7 @@ Or you can use DiscMaster to search inside content and grab individual files wit
 - [AsistantPickle desktop toy for Macintosh](https://blog.gingerbeardman.com/2021/11/20/asistantpickle-desktop-toy-for-macintosh/)
 - [IntelligentPad: component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
 - [“The Famous F40” vector illustration by David Rumfelt](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
-- [See the sky: Thoru Yamamoto’s Christmas story, for Playdate](https://blog.gingerbeardman.com/2023/12/16/see-the-sky-thoru-yamamoto-christmas-story-for-playdate/)
+- [See the sky: Thoru Yamamoto’s Christmas story](https://blog.gingerbeardman.com/2023/12/16/see-the-sky-thoru-yamamoto-christmas-story-for-playdate/)
 
 ## Further reading
 
