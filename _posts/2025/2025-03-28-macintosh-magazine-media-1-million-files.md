@@ -24,7 +24,7 @@ comments: https://twitter.com/gingerbeardman/status/1905668214375219262
 
 ---
 
-I am proud to announce that my [Macintosh Magazine Media project](/2021/10/30/macintosh-magazine-media/) has surpassed my self-imposed goal of 1 million files, an achievement that fills me with both immense satisfaction and slight bewilderment. Many thanks to [my Patreon subscribers](https://patreon.com/gingerbeardman) for their support!
+I am proud to announce that my [Macintosh Magazine Media project](/2021/10/30/macintosh-magazine-media/) has surpassed my self-imposed goal of 1 million files, an achievement that fills me with both immense satisfaction and slight bewilderment. If you've never heard of it before: it's an archive of vintage media containing mostly Macintosh files sourced from Japanese magazines, featuring files from all over the world. A time capsule for vintage Macintosh fans. Many thanks to [my Patreon subscribers](https://patreon.com/gingerbeardman) for their support!
 
 ## Status report
 
@@ -108,3 +108,20 @@ All disc ISO with text listings are available for download at [Internet Archive]
 Using my search engine ([read more](/2025/01/10/macintosh-magazine-media-search-engine-update/) about that) you can search by regex for file/directory name, file type, creator code: [gingerbeardman.com/mmm/](https://www.gingerbeardman.com/mmm/)
 
 Or you can use DiscMaster to search inside content and grab individual files without having to download the whole ISO: [discmaster.textfiles.com](https://discmaster.textfiles.com)
+
+## Interesting finds
+
+- [HyperCard Hanafuda](https://blog.gingerbeardman.com/2021/10/31/hypercard-hanafuda/)
+- [Mouse-controlled Super Mario Kart clone for classic Macintosh](https://blog.gingerbeardman.com/2021/10/31/mouse-controlled-super-mario-kart-clone-for-classic-macintosh/)
+- [Roly-Polys World Tour (Demo)](https://blog.gingerbeardman.com/2021/11/01/roly-polys-world-tour-demo/)
+- [AsistantPickle desktop toy for Macintosh](https://blog.gingerbeardman.com/2021/11/20/asistantpickle-desktop-toy-for-macintosh/)
+- [IntelligentPad: component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
+- [“The Famous F40” vector illustration by David Rumfelt](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
+- [See the sky: Thoru Yamamoto’s Christmas story, for Playdate](https://blog.gingerbeardman.com/2023/12/16/see-the-sky-thoru-yamamoto-christmas-story-for-playdate/)
+
+## Further reading
+
+- [I’m preserving vintage Macintosh magazine media](https://blog.gingerbeardman.com/2021/10/30/macintosh-magazine-media/)
+- [Macintosh Magazine Media: search engine update](https://blog.gingerbeardman.com/2025/01/10/macintosh-magazine-media-search-engine-update/)
+- [Working with classic Macintosh text encodings in the age of Unicode](https://blog.gingerbeardman.com/2022/03/31/working-with-classic-macintosh-text-encodings-in-the-age-of-unicode/)
+- [Japanese language support on Classic Macintosh](https://blog.gingerbeardman.com/2023/11/07/japanese-lanuage-support-on-classic-macintosh/)
