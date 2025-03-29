@@ -26,7 +26,7 @@ comments: https://twitter.com/gingerbeardman/status/1905668214375219262
 
 I am proud to announce that my [Macintosh Magazine Media project](/2021/10/30/macintosh-magazine-media/) has surpassed my self-imposed goal of 1 million files, an achievement that fills me with both immense satisfaction and slight bewilderment.
 
-If you've never heard of it before: it's an archive of vintage media containing mostly Macintosh files sourced from Japanese magazines, but featuring content from all over the world. A treasure trove time capsule for vintage Macintosh fans.
+If you've never heard of it before: it's an archive of vintage media containing mostly Macintosh files sourced from Japanese magazines, but featuring content from all over the world. A treasure trove time capsule for vintage computer nerds like myself.
 
 Many thanks to [my Patreon subscribers](https://patreon.com/gingerbeardman) for their support!
 
