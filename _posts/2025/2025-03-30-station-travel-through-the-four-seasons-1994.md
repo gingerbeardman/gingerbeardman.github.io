@@ -13,6 +13,7 @@ nouns:
 - Macintosh Magazine Media
 - Macintosh
 - Infinite Mac
+- Google Translate
 featured: false
 pinned: false
 image: /images/posts/station-2.png
