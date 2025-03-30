@@ -9,6 +9,7 @@ tags:
 - preservation
 nouns:
 - 'Station: Travel Through the Four Seasons'
+- Classic Macintosh
 - Macintosh Magazine Media
 - Macintosh
 - Infinite Mac
@@ -31,11 +32,13 @@ After reaching [1 million files](/2025/03/28/macintosh-magazine-media-1-million-
 
 It's a sweet little point and click adventure game for Classic Macintosh called "*Station: Travel Through the Four Seasons*" by Mitsuo Isaka, about taking train rides through the Japanese countryside. 
 
-It was found on CD2 マルチメディアチャレンジ '94 要賞作品篥 (Multimedia Challenge '94 Award Winning Works) of [MACLIFE Special Edition: Gokuraku Paradise Theater 1994](https://archive.org/details/gokuraku-paradise-theater-1994-10). You can download the ISO to explore that disc for yourself in an emulator or on a vintage Macintosh.
+It was found on CD2 マルチメディアチャレンジ '94 要賞作品篥 (Multimedia Challenge '94 Award Winning Works) of [MACLIFE Special Edition: Gokuraku Paradise Theater 1994](https://archive.org/details/gokuraku-paradise-theater-1994-10). You can download the ISO to explore that disc for yourself in an emulator or on a vintage Macintosh. I also uploaded [just the game to Macintosh Garden](https://macintoshgarden.org/games/station) so that you don't need to download the whole CD for just this game.
+
+## Play it in your browser
 
 But if you want to try it right now you can do so in your browser thanks to the Infinite Mac website, using this link: [KanjiTalk 7.5.3 with the Station disk image already mounted](https://infinitemac.org/1996/KanjiTalk%207.5.3?cdrom=https%3A%2F%2Fdownload.macintoshgarden.org%2Fgames%2FStation.ds62.img)
 
-The game is in Japanese and features mostly voiceover and a little on screen text. Google Translate can probably help with its Mic and Camera modes. *Ganbare!*
+The game is in Japanese and features mostly voiceover and a little on screen text. Google Translate can probably help with its mic (translate audio) and camera (translate visual) modes. *Ganbare!*
 
 ----
 
