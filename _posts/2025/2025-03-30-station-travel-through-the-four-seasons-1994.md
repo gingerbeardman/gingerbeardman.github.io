@@ -43,4 +43,24 @@ The game is in Japanese and features mostly voiceover and a little on screen tex
 
 ----
 
+## Introduction
+
+In Japanese, it says:
+
+> ここは“四季の里”といわれるとこる。昔から一両だけのディーゼル車がのんびりと走っているという。
+>
+> 駅は全部で四つの小さな鉄道だけれど不思議なことに、ひとつひとつの駅にそれぞれのきまった季節があるという。
+>
+> ぼくは、さっそくその鉄道に乗ってみようと春の季節をもっといわれる“桜ヶ丘”という駅を訪ねることにした・・・
+
+Translated into English:
+
+> This place is known as the 'Village of the Four Seasons'. A single diesel train has been running slowly and leisurely here for a long time.
+> 
+> There are four stations in total on this small railway, but strangely enough, each station has its own set season.
+> 
+> I decided to visit a station called ‘Sakuragaoka’, which is known more for its spring season, to try out the railway...
+
+----
+
 {% include carousel_multi.html height="75" unit="%" duration="7" number="1" %}
