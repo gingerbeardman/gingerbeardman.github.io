@@ -33,7 +33,7 @@ After reaching [1 million files](/2025/03/28/macintosh-magazine-media-1-million-
 
 It's a sweet little point and click adventure game for Classic Macintosh called "*Station: Travel Through the Four Seasons*" by Mitsuo Isaka, about taking train rides through the Japanese countryside. 
 
-It was found on CD2 マルチメディアチャレンジ ’94 要賞作品篥 (Multimedia Challenge ’94 Award Winning Works) of [MACLIFE Special Edition: Gokuraku Paradise Theater 1994](https://archive.org/details/gokuraku-paradise-theater-1994-10). You can download the ISO to explore that disc for yourself in an emulator or on a vintage Macintosh. I also uploaded [just the game to Macintosh Garden](https://macintoshgarden.org/games/station) so that you don't need to download the whole CD for just this game.
+It was found on CD2 マルチメディアチャレンジ ’94 要賞作品篥 (Multimedia Challenge ’94 Award Winning Works) of [MACLIFE Special: Gokuraku Paradise Theater 1994](https://archive.org/details/gokuraku-paradise-theater-1994-10). You can download the ISO to explore that disc for yourself in an emulator or on a vintage Macintosh. I also uploaded [just the game to Macintosh Garden](https://macintoshgarden.org/games/station) so that you don't need to download the whole CD for just this game.
 
 ## Play it in your browser
 
