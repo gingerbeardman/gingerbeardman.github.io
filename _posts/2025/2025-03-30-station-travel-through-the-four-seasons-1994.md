@@ -29,7 +29,7 @@ carousels:
 
 ---
 
-After reaching [1 million files](/2025/03/28/macintosh-magazine-media-1-million-files/) in my [Macintosh Magazine Media project](/2021/10/30/macintosh-magazine-media/), I thought it would be cool to post about something I found recently in amongst the files. I get a real buzz rediscovering something like this after more than 30 years have passed.
+After reaching [1 million files](/2025/03/28/macintosh-magazine-media-1-million-files/) in my [Macintosh Magazine Media project](/2021/10/30/macintosh-magazine-media/), I thought it would be cool to post about something I found recently in those discs. I get a real buzz rediscovering something like this after more than 30 years have passed.
 
 It's a sweet little point and click adventure game for Classic Macintosh called "*Station: Travel Through the Four Seasons*" by Mitsuo Isaka, about taking train rides through the Japanese countryside. 
 
