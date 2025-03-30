@@ -39,7 +39,7 @@ It was found on CD2 マルチメディアチャレンジ ’94 要賞作品篥 (
 
 But if you want to try it right now you can do so in your browser thanks to the Infinite Mac website, using this link: [KanjiTalk 7.5.3 with the Station disk image already mounted](https://infinitemac.org/1996/KanjiTalk%207.5.3?cdrom=https%3A%2F%2Fdownload.macintoshgarden.org%2Fgames%2FStation.ds62.img)
 
-The game is in Japanese and features mostly voiceover and a little on screen text. Google Translate can probably help with its mic (translate audio) and camera (translate visual) modes. *Ganbare!*
+The game is in Japanese and features mostly voiceover and a little on screen text. Google Translate can probably help with its conversation (audio) and camera (visual) translation modes. *Ganbare!*
 
 ----
 
