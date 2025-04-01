@@ -59,7 +59,7 @@ Perhaps the most well known version of the concept, [MaciGame](/2023/05/04/macig
 
 ## Recovering tile sets
 
-I'd previously recovered a range of tile sets for a download pack I uploaded to Macintosh Garden, but that was done in the Classic Macintosh environment so I needed to redo it on modern macOS to be able to extract the images easily.
+I'd previously recovered a range of tile sets for a download pack I uploaded to [Macintosh Garden](https://macintoshgarden.org/games/macigame), but that was done in the Classic Macintosh environment so I needed to redo it on modern macOS to be able to extract the images easily.
 
 MaciGame supported custom tile sets in three formats:
 
@@ -67,11 +67,11 @@ MaciGame supported custom tile sets in three formats:
 - SameGameFormat2 (192×64, includes additional background tiles)
 - MaruSameFormat (256×65, includes connected variations and alternate palettes)
 
-These tile sets were popular [user created content](/2023/05/04/macigame-user-created-graphics/) for 1990s Macintosh fans, given how easy it was to load up a paint app or ResEdit. They were made available for free download at online repositories like NIFTY-Serve, Info-Mac, and on magazine cover mounted media around the world. I found several unique tile sets in my [Macintosh Magazine Media](/2025/03/28/macintosh-magazine-media-1-million-files/) archive of vintage CD-ROMs.
+These tile sets were popular [user created content](/2023/05/04/macigame-user-created-graphics/) for 1990s Macintosh fans, given how easy it was to load up a paint app or ResEdit. They were made available for free download at online repositories like [NIFTY-Serve](https://en.wikipedia.org/wiki/Nifty_Corporation), [Info-Mac](https://en.wikipedia.org/wiki/Info-Mac), and on magazine cover mounted media around the world. I found several unique tile sets in my [Macintosh Magazine Media](/2025/03/28/macintosh-magazine-media-1-million-files/) archive of vintage CD-ROMs.
 
-The main online source of these is at: [vector.co.jp/vpack/filearea/osx/game/puzzle/makigame/](https://www.vector.co.jp/vpack/filearea/osx/game/puzzle/makigame/) and I automated the clicking of the download buttons using a [temporary user script](https://gist.github.com/gingerbeardman/47bfd8f6b76a7f33a6262b7998994416) (I use PageExtender for such things) to redirect to the download page and then click the button. I could have gone one level deep by automating the clicking of all the items on the list page, but I quite like clicking through long lists.
+The main online source of these is at: [vector.co.jp/vpack/filearea/osx/game/puzzle/makigame/](https://www.vector.co.jp/vpack/filearea/osx/game/puzzle/makigame/) and I automated the clicking of the download buttons using a [temporary user script](https://gist.github.com/gingerbeardman/47bfd8f6b76a7f33a6262b7998994416) (gist) to redirect to the download page and then click the button. I use [PageExtender](https://apps.apple.com/gb/app/pageextender-for-safari/id1457557274?mt=12) for such things. I could have gone one level deeper by automating the clicking of all the items on the list page, but I quite like clicking through long lists.
 
-We can expand these esoteric archives with The Unarchiver. I needed to confirm MacOS Japanese encoding for the filenames that it was unable to heuristically determine. Read more about the madness of classic Macintosh text encodings in the pre-Unicode age.
+We can expand these esoteric archives with [The Unarchiver](https://theunarchiver.com). I needed to confirm MacOS Japanese encoding for the filenames that it was unable to heuristically determine. Read more about the madness of [classic Macintosh text encodings in the pre-Unicode age](/2022/03/31/working-with-classic-macintosh-text-encodings-in-the-age-of-unicode/).
 
 Next we can convert the PICT resources we're after with [deark](https://github.com/jsummers/deark). Deark doesn't have a recursive mode, so we need to wrap it in a one-liner:
 
@@ -85,17 +85,13 @@ I got verified those and [found](https://discmaster.textfiles.com/search?family=
 
 It was obvious that there were some duplicates, so what to do? My first thought was to optimise all images equally, I used [ect](https://github.com/fhanau/Efficient-Compression-Tool) command line tool for this purpose. After that, still on the command line, we can do a quick de-dupe using the [fdupes](https://github.com/adrianlopezroche/fdupes) tool. This helped me get rid of a bunch, but there were still some hanging around.
 
-I wanted to compare files at a pixel level, so wrapped imagemagick in a shell script. We compare all. I tried adding pre-checks to the script but they slowed it down and removed the ability for it to run in parallel. Keep it simple wins again.
-
-{% gist 31c2eabf4c39ebad0ceb9c6265afd5a6 %}
+I wanted to compare files at a pixel level, so wrapped [imagemagick](https://github.com/ImageMagick/ImageMagick) in [a shell script](https://gist.github.com/gingerbeardman/31c2eabf4c39ebad0ceb9c6265afd5a6) (gist). We compare each image with every other image. I tried adding pre-checks to the script but they slowed it down and removed the ability for it to run in parallel. Keep it simple wins again.
 
 ----
 
 ## Organising
 
-For organisation sake I wanted to verify and categorise the dimensions of each image. I created a shell script to tag images of specific sizes with Finder colours. I noticed that some converted images were one pixel wider than expected, it turns out that this is a quirk in how those specific image were composed. So I coloured them red and edited them by hand after the fact.
-
-{% gist 99585e86d9a6ed321a73cc5f6ab247a2 %}
+For organisation sake I wanted to verify and categorise the dimensions of each image. I created [a shell script to tag images of specific sizes with Finder colours](https://gist.github.com/gingerbeardman/99585e86d9a6ed321a73cc5f6ab247a2) (gist). I noticed that some converted images were one pixel wider than expected, it turns out that this is a quirk in how those specific image were composed. So I coloured them red and edited them by hand after the fact.
 
 ----
 
