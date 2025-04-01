@@ -59,7 +59,7 @@ The only commercial result from this particular period at SEGA was a version of 
 
 You can grab Borkov and Triangle Magic at [palmdb.net/?s=sega](https://palmdb.net/?s=sega) 
 
-Columns for CLIÉ can be found in the All Games or GC10 downloads at [www.sonyclie.org/drivers.html](https://www.sonyclie.org/drivers.html) 
+Columns for CLIÉ can be found in the All Games or GC10 downloads at [sonyclie.org/drivers.html](https://www.sonyclie.org/drivers.html) 
 
 ### References
 

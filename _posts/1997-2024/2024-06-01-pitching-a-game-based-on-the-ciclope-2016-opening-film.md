@@ -29,7 +29,7 @@ Think of this as the game trailer. Watch it before or after reading.
 
 <iframe src="https://player.vimeo.com/video/190700988?h=adadcd17c5&title=0&byline=0&portrait=0" width="740" height="310" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-More information on the making of the animation at [www.thelineanimation.com/work/ciclope/](https://www.thelineanimation.com/work/ciclope/)
+More information on the making of the animation at [thelineanimation.com/work/ciclope/](https://www.thelineanimation.com/work/ciclope/)
 
 ----
 

@@ -7,6 +7,7 @@ tags:
 - playdate
 - gamedev
 - samegame
+- macigame
 - music
 - bandkun
 nouns:

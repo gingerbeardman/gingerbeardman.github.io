@@ -7,6 +7,8 @@ tags:
 - preservation
 - patreon
 - magazine
+- samegame
+- chainshot
 nouns:
 - National Diet Library
 - NDL
