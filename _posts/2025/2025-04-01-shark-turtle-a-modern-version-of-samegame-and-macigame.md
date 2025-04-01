@@ -47,7 +47,7 @@ I couldn't find the exact licence for Google's Emoji Kitchen, it's either [SIL a
 
 This concept was originally released as [Chain Shot!](https://web.archive.org/web/20230507124114/http://www.asahi-net.or.jp:80/~KY6K-MRB/chainsht.htm) in 1985 by 森辺訓章 Kuniaki Moribe "Morisuke" and went on to become very popular, mostly through a version known as さめがめ SameGame. The game was at one time [more popular than Tetris in Japan](/2023/08/19/fake-steve-jobs-and-letters-from-bill-g/#samegame) and even made its way onto consoles like the [Super Famicom](https://retro-gamer.jp/?p=10059) and even as recent as [Wii](https://www.mobygames.com/game/55440/pop-em-drop-em-samegame/).
 
-In English we pronounce that as it is spelled: same game. But in Japanese it sounds the same as the words "same" さめ (shark) and "game" がめ (sea turtle) and I make the small leap from SameGame to Shark Turtle.
+In English we pronounce that as it is spelled: same game. But in Japanese it sounds just like the words "same" さめ (shark) and "game" がめ (sea turtle) and I make the small leap from SameGame to Shark Turtle.
 
 Perhaps the most well known version of the concept, [MaciGame](/2023/05/04/macigame-user-created-graphics/) まきがめ also riffed on this. I'm not sure of the exact meaning, but I like to think it's a clever double meaning of something cool in Japanese and it also being a game for Macintosh.
 
