@@ -2,6 +2,7 @@
 layout: post
 title: "Shark Turtle: a modern version of SameGame/MaciGame"
 date: '2025-04-01T19:44+01:00'
+last_modified_at: '2025-04-01T23:41+01:00'
 tags:
 - macintosh
 - samegame
@@ -34,6 +35,15 @@ I'm releasing an expanded version of my game Shark Turtle for macOS and Windows.
 
 ----
 
+## About the icon
+
+I couldn't find the exact licence for Google's Emoji Kitchen, it's either [SIL as part of the Noto font](https://github.com/googlefonts/noto-emoji/blob/main/LICENSE) or [CC BY 4.0](https://developers.googleblog.com/en/updates-to-emoji-new-characters-new-animation-new-color-customization-and-more/). But I did find a [comment](https://github.com/googlefonts/noto-emoji/issues/151#issuecomment-318418911) by a Google staffer saying that it would be a good idea to draw a custom version that was less generic—I read that as unique and yours—so that's exactly what I did. There was no choice but to do this, as I needed a vector version to generate an 1024×1024px icon. I like to think that with the raised eyebrow and slight smirk there's a bit more personality in my version.
+
+![IMG](/images/posts/sharkturtle-icon.png "My vector version of Google Emoji Kitchen’s “Shark Turtle”")
+{:.tofigure}
+
+----
+
 ## What's in a name?
 
 This concept was originally released as [Chain Shot!](https://web.archive.org/web/20230507124114/http://www.asahi-net.or.jp:80/~KY6K-MRB/chainsht.htm) in 1985 by 森辺訓章 Kuniaki Moribe "Morisuke" and went on to become very popular, mostly through a version known as さめがめ SameGame. The game was at one time [more popular than Tetris in Japan](/2023/08/19/fake-steve-jobs-and-letters-from-bill-g/#samegame) and even made its way onto consoles like the [Super Famicom](https://retro-gamer.jp/?p=10059) and even as recent as [Wii](https://www.mobygames.com/game/55440/pop-em-drop-em-samegame/).
@@ -43,15 +53,6 @@ In English we pronounce that as it is spelled: same game. But in Japanese it sou
 Perhaps the most well known version of the concept, [MaciGame](/2023/05/04/macigame-user-created-graphics/) まきがめ also riffed on this. I'm not sure of the exact meaning, but I like to think it's a clever double meaning of something cool in Japanese and it also being a game for Macintosh.
 
 ![PNG](/images/posts/macigamekoma-01-usa-chan.png#pixel "MaciGame’s classic default usa-chan tileset")
-{:.tofigure}
-
-----
-
-## About the icon
-
-I couldn't find the exact licence for Google's Emoji Kitchen, it's either [SIL as part of the Noto font](https://github.com/googlefonts/noto-emoji/blob/main/LICENSE) or [CC BY 4.0](https://developers.googleblog.com/en/updates-to-emoji-new-characters-new-animation-new-color-customization-and-more/). But I did find a [comment](https://github.com/googlefonts/noto-emoji/issues/151#issuecomment-318418911) by a Google staffer saying that it would be a good idea to draw a custom version that was less generic—I read that as unique and yours—so that's exactly what I did. There was no choice but to do this, as I needed a vector version to generate an 1024×1024px icon. I like to think that with the raised eyebrow and slight smirk there's a bit more personality in my version.
-
-![IMG](/images/posts/sharkturtle-icon.png "My vector version of Google Emoji Kitchen’s “Shark Turtle”")
 {:.tofigure}
 
 ----
