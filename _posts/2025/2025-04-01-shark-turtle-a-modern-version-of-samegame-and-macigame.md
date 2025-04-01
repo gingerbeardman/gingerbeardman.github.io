@@ -24,7 +24,7 @@ featured: false
 pinned: false
 image: /images/posts/sharkturtle-icon.png
 
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1907140962653991086
 
 ---
 
