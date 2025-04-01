@@ -29,6 +29,8 @@ comments: https://twitter.com/gingerbeardman/status/
 
 I'm releasing an expanded version of my game Shark Turtle for macOS and Windows. Grab it at itch: [gingerbeardman.itch.io/shark-turtle-desktop/](https://gingerbeardman.itch.io/shark-turtle-desktop/)
 
+![IMG](/images/posts/sharkturtle-screen.png)
+
 ----
 
 ## About the icon
