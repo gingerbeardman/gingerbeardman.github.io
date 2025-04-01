@@ -20,9 +20,9 @@ nouns:
 - Chain Shot!
 - ChainShot!
 - Playdate
+image: /images/posts/sharkturtle-icon.png
 featured: false
 pinned: false
-image: /images/posts/sharkturtle-icon.png
 
 comments: https://twitter.com/gingerbeardman/status/1907140962653991086
 
@@ -30,7 +30,7 @@ comments: https://twitter.com/gingerbeardman/status/1907140962653991086
 
 I'm releasing an expanded version of my game Shark Turtle for macOS and Windows. Grab it at itch: [gingerbeardman.itch.io/shark-turtle-desktop/](https://gingerbeardman.itch.io/shark-turtle-desktop/)
 
-![IMG](/images/posts/sharkturtle-screen.png)
+![IMG](/images/posts/sharkturtle-macos-lite.png)
 
 ----
 
@@ -38,7 +38,7 @@ I'm releasing an expanded version of my game Shark Turtle for macOS and Windows.
 
 I couldn't find the exact licence for Google's Emoji Kitchen, it's either [SIL as part of the Noto font](https://github.com/googlefonts/noto-emoji/blob/main/LICENSE) or [CC BY 4.0](https://developers.googleblog.com/en/updates-to-emoji-new-characters-new-animation-new-color-customization-and-more/). But I did find a [comment](https://github.com/googlefonts/noto-emoji/issues/151#issuecomment-318418911) by a Google staffer saying that it would be a good idea to draw a custom version that was less generic—I read that as unique and yours—so that's exactly what I did. There was no choice but to do this, as I needed a vector version to generate an 1024×1024px icon. I like to think that with the raised eyebrow and slight smirk there's a bit more personality in my version.
 
-![IMG](/images/posts/sharkturtle-icon.png "My vector version of Google Emoji Kitchen's “Shark Turtle”")
+![IMG](/images/posts/sharkturtle-icon.png "My vector version of Google Emoji Kitchen’s “Shark Turtle”")
 {:.tofigure}
 
 ----
@@ -47,9 +47,12 @@ I couldn't find the exact licence for Google's Emoji Kitchen, it's either [SIL a
 
 This concept was originally released as [Chain Shot!](https://web.archive.org/web/20230507124114/http://www.asahi-net.or.jp:80/~KY6K-MRB/chainsht.htm) in 1985 by 森辺訓章 Kuniaki Moribe "Morisuke" and went on to become very popular, mostly through a version known as さめがめ SameGame. The game was at one time [more popular than Tetris in Japan](/2023/08/19/fake-steve-jobs-and-letters-from-bill-g/#samegame) and even made its way onto consoles like the [Super Famicom](https://retro-gamer.jp/?p=10059) and even as recent as [Wii](https://www.mobygames.com/game/55440/pop-em-drop-em-samegame/).
 
-In English we pronounce that as it is spelled: same game. But in Japanese it sounds just like the words "same" さめ (shark) and "game" がめ (sea turtle) and I make the small leap from SameGame to Shark Turtle.
+In English we pronounce that as it is spelled: same game. But in Japanese it sounds just like the words "same" さめ (shark) and "game" がめ (sea turtle). I make the leap from SameGame to Shark Turtle.
 
 Perhaps the most well known version of the concept, [MaciGame](/2023/05/04/macigame-user-created-graphics/) まきがめ also riffed on this. I'm not sure of the exact meaning, but I like to think it's a clever double meaning of something cool in Japanese and it also being a game for Macintosh.
+
+![PNG](/images/posts/macigamekoma-01-usa-chan.png#pixel "MaciGame’s classic default usa-chan tileset")
+{:.tofigure}
 
 ----
 
@@ -92,6 +95,14 @@ I wanted to compare files at a pixel level, so wrapped imagemagick in a shell sc
 For organisation sake I wanted to verify and categorise the dimensions of each image. I created a shell script to tag images of specific sizes with Finder colours. I noticed that some converted images were one pixel wider than expected, it turns out that this is a quirk in how those specific image were composed. So I coloured them red and edited them by hand after the fact.
 
 {% gist 99585e86d9a6ed321a73cc5f6ab247a2 %}
+
+----
+
+## All tile sets
+
+Here's a video of my 5 tile sets plus the 320 classic user created tile sets. *Gotta catch 'em all!*
+
+{% youtube AnIGqOFOWQg 5/3 %}
 
 ----
 
