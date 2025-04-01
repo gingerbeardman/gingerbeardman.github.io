@@ -66,7 +66,7 @@ MaciGame supported custom tile sets in three formats:
 - SameGameFormat2 (192×64, includes additional background tiles)
 - MaruSameFormat (256×65, includes connected variations and alternate palettes)
 
-These tile sets were popular [user generated content](/2023/05/04/macigame-user-created-graphics/) for 1990s Macintosh fans, given how easy it was to load up a paint app or ResEdit. They were made available for free download at online repositories like NIFTY-Serve, Info-Mac, and on magazine cover mounted media around the world. I found several unique tile sets in my [Macintosh Magazine Media](/2025/03/28/macintosh-magazine-media-1-million-files/) archive of vintage CD-ROMs.
+These tile sets were popular [user created content](/2023/05/04/macigame-user-created-graphics/) for 1990s Macintosh fans, given how easy it was to load up a paint app or ResEdit. They were made available for free download at online repositories like NIFTY-Serve, Info-Mac, and on magazine cover mounted media around the world. I found several unique tile sets in my [Macintosh Magazine Media](/2025/03/28/macintosh-magazine-media-1-million-files/) archive of vintage CD-ROMs.
 
 The main online source of these is at: [vector.co.jp/vpack/filearea/osx/game/puzzle/makigame/](https://www.vector.co.jp/vpack/filearea/osx/game/puzzle/makigame/) and I automated the clicking of the download buttons using a [temporary user script](https://gist.github.com/gingerbeardman/47bfd8f6b76a7f33a6262b7998994416) (I use PageExtender for such things) to redirect to the download page and then click the button. I could have gone one level deep by automating the clicking of all the items on the list page, but I quite like clicking through long lists.
 
