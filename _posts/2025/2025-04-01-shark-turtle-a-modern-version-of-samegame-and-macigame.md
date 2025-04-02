@@ -31,6 +31,8 @@ comments: https://twitter.com/gingerbeardman/status/1907140962653991086
 
 I'm releasing an expanded version of my game Shark Turtle for macOS and Windows. Grab it at itch: [gingerbeardman.itch.io/shark-turtle-desktop/](https://gingerbeardman.itch.io/shark-turtle-desktop/)
 
+The result is a feature-rich, native desktop version of SameGame with fast calculation, animated block removal, mouse/keyboard control, incremental scoring, variable grid sizes each with their own high score table, multi-level undo, lots of options, and great music. It's a lot of fun and ideal to play little-by-little when you have a spare moment, as you dictate the pace of the game turn-by-turn.
+
 ![IMG](/images/posts/sharkturtle-macos-lite.png)
 
 ----
