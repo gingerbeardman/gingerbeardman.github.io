@@ -14,9 +14,9 @@ nouns:
 - Macintosh
 - Infinite Mac
 - Google Translate
+image: /images/posts/station-2.png
 featured: false
 pinned: false
-image: /images/posts/station-2.png
 
 comments: https://twitter.com/gingerbeardman/status/1906041957668770237
 
