@@ -91,6 +91,7 @@ Eagle-eyed viewers may notice that this version of the F40 differs slightly from
 
 ## Further reading
 
+- [Driven by Design – David Rumfelt, Graphic Artist](https://www.canvasgfx.com/blog/driven-by-design-david-rumfelt-graphic-artist)
 - [Gallery: Ferrari F40 Prototype cutaway sketch by David Kimble](https://uk.motor1.com/news/462763/ferrari-f40-straight-piped-autobahn/)
 - [Some Ferrari F40 facts for car nerds only](https://motors.mega.mu/news/6-ferrari-f40-facts-car-nerds-only-20170303.html)
 
