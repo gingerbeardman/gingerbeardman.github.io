@@ -15,7 +15,7 @@ nouns:
 - Infinite Mac
 - Google Translate
 image: /images/posts/station-2.png
-featured: false
+featured: true
 pinned: false
 
 comments: https://twitter.com/gingerbeardman/status/1906041957668770237
