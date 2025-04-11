@@ -15,6 +15,7 @@ nouns:
 - Figma
 - Fireworks
 - Datto
+- D-DIN Condensed Bold
 - D-DIN
 image: /images/posts/amazfit-band-7-din.png
 featured: false
