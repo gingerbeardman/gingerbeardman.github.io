@@ -49,7 +49,7 @@ nouns:
 - BlitzMax
 - Love2D
 image: /images/posts/maboshi-2003-circular.png
-featured: false
+featured: true
 pinned: false
 
 comments: https://twitter.com/gingerbeardman/status/1897683578126831834

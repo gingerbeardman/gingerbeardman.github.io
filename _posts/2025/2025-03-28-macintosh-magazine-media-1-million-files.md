@@ -17,7 +17,7 @@ nouns:
 - Hybrid
 - Win/Mac
 image: /images/posts/mmm-scatter.png
-featured: false
+featured: true
 pinned: false
 
 comments: https://twitter.com/gingerbeardman/status/1905668214375219262
