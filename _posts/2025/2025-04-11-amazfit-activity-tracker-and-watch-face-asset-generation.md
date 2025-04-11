@@ -16,11 +16,11 @@ nouns:
 - Fireworks
 - Datto
 - D-DIN
-image: /images/posts/amazfit-din.png
+image: /images/posts/amazfit-band-7-din.png
 featured: false
 pinned: false
 
-comments: https://twitter.com/gingerbeardman/status/
+comments: https://twitter.com/gingerbeardman/status/1910820047242559569
 style: |
   p.screen img {
     width: 75%;
@@ -30,11 +30,11 @@ style: |
 
 ---
 
-I recently wanted to track my heart rate and sleeping patterns, but do not want an Apple Watch. So I ended up buying a cheap Amazfit Band 7 from Decathlon. It was reduced because of a damaged box and I love a bargain!
+I recently wanted to track my heart rate and sleeping patterns, but do not want an Apple Watch. So I ended up buying a cheap [Amazfit Band 7](https://uk.amazfit.com/products/amazfit-band-7) from [Decathlon](https://www.decathlon.co.uk/p/activity-tracker-band-7/_/R-p-349533?mc=8828106) sports store. The one I bought was reduced because of a damaged box—I love a good bargain!
 
-It's a cool little thing and goes for 18 days on a single charge with default settings. I've charged it once since I bought it! Even more amazing is that this little things runs apps and watch faces powered by JavaScript. And it still gets multiple weeks on a single charge!
+It's a cool little thing and goes for an unbelievable 18 days on a single charge with default settings. Since I bought it I've had to charge it once! Even more amazing is that this little things runs apps and watch faces powered by JavaScript, has an OLED screen, senses heart rate, step count, blood oxygen, and sleep patterns. And it still gets multiple weeks on a single charge! The app it comes with is fairly low-nag if you don't want to buy into the ecosystem.
 
-Anyway, I found some nice watch faces but they were all a little bit busy for me. But ideally I'd make my own and I put it on the rainy day list as I would need to create images for every digit at every size as well as any other things I want on the face.
+Anyway, I found some [nice watch faces](https://amazfitwatchfaces.com/amazfit-band/view/58) but if anything they were all a little bit busy for me. Ideally I'd make my own but it seemed like a lot of work—I would need to create images for every digit at every size as well as any other things I want on the face—so I put it on the rainy day list.
 
 ----
 
@@ -59,7 +59,7 @@ The web app tool is at [gingerbeardman.com/amazfit/](https://www.gingerbeardman.
 
 Here's the first face i created using it: DIN. I'm generating images of numbers, and a few other things, in two different sizes and colours. The darker text might look too dark on your display, but on the OLED display of the watch it's plenty bright enough for secondary information. 
 
-![IMG](/images/posts/amazfit-din.png "DIN looks super on OLED!")
+![IMG](/images/posts/amazfit-band-7-din.png "DIN looks super on OLED!")
 {:.tofigure}
 
-The typeface is [D-DIN](https://github.com/amcchord/datto-d-din)—a cool cut of [DIN](https://en.wikipedia.org/wiki/DIN_typeface) and it's free and released under [SIL Open Font License](https://en.wikipedia.org/wiki/SIL_Open_Font_License), Version 1.1. Thanks very much, Datto!
+The typeface is [D-DIN](https://github.com/amcchord/datto-d-din)—a cool cut of [DIN](https://en.wikipedia.org/wiki/DIN_typeface) and it's free and released under [SIL Open Font License](https://en.wikipedia.org/wiki/SIL_Open_Font_License). Thanks very much to Datto and to the typographer, Charles Nix at Monotype!
