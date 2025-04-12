@@ -2,6 +2,7 @@
 layout: post
 title: 'New 3D Golf Simulation (video game series)'
 date: '2024-11-09T20:00+00:00'
+last_modified_at: '2025-04-12T11:57+01:00'
 tags:
 - japanese
 - golf
@@ -183,6 +184,14 @@ The finale was somewhat of a surprise, with the DS getting [Touch Golf](https://
 The music in this series really is some of the best FM synth you'll hear. I can recommend this episode of the [Pixelated Audio podcast](https://pixelatedaudio.com) to bring you up to speed.
 
 {% youtube qPoc3Gk_KxM %}
+
+A bunch of these games share a common music track, arranged differently for the host sound system. 
+
+- Waialae no Kiseki (SFC)
+- Pebble Beach no Hatou (SFC)
+- Harukanaru Augusta (PC-98, X68000, FMT)
+
+[Here's a playlist](https://youtube.com/playlist?list=PLfF-zlMNYMd-C63YB4qP1FtJxXGWFwuJf) of the 5 versions.
 
 ----
 
