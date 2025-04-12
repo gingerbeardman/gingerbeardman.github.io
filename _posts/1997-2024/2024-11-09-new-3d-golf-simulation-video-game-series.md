@@ -185,7 +185,7 @@ The music in this series really is some of the best FM synth you'll hear. I can 
 
 {% youtube qPoc3Gk_KxM %}
 
-A bunch of these games share a common music track, arranged differently for the host sound system. 
+A bunch of these games share a common music track—I call it the "T&E SOFT Golf Theme"—arranged differently for the host sound system. 
 
 - Waialae no Kiseki (SFC)
 - Pebble Beach no Hatou (SFC)
