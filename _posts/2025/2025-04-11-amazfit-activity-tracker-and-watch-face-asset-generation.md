@@ -46,9 +46,9 @@ Today it isn't raining but I do have some time on my hands, which is the next be
 
 It was pretty straightforward and I ended up with what you see below, where you can customise: font, size, color, alignment, filename prefix, and required characters/phrases/symbols. And then you can download all the images in one click! *NICE.*
 
-There's nothing that ties the assets being generated to the Amazfit Band 7, so feel free to use the tool for other purposes if you want to just generate some text or symbols as images.
-
 I do my best to adhere to the specs required by the most common watch face building tools, and in almost all cases I've been able to use the images exactly as they come out of the tool. There is some extraneous padding, which means you have to use quite large negative spacing (equivalent to kerning) but it all works well in practice.
+
+There's nothing that ties the assets being generated to the Amazfit Band 7, so feel free to use the tool for other purposes if you want to just generate some text or symbols as images.
 
 The web app tool is at [gingerbeardman.com/amazfit/](https://www.gingerbeardman.com/amazfit/) if you want to try it out.
 
