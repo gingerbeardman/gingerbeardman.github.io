@@ -23,7 +23,7 @@ The games were adapted by refining one or more elements of the core gameplay to 
 
 I played through the _DSiWare_ version of this golf game some 10 years after it was released as I was intrigued how different it might be to the original cartridge release.
 
-The answer was a lot. And it turns out this _DSiWare_ version is a much better game as a result. It features a proper interactive tutorial rather than the still screens of the original, as well as a refined user interface with simpler power and putting display, an updated and improved version of the game engine with a higher frame-rate due do the increased CPU speed of the _Nintendo DSi_, and a all new Challenge mode.
+The answer was a lot. And it turns out this _DSiWare_ version is a much better game as a result. It features a proper interactive tutorial rather than the still screens of the original, as well as a refined user interface with simpler power and putting display, an updated and improved version of the game engine with a higher frame-rate due do the increased CPU speed of the _Nintendo DSi_, and an all new Challenge mode.
 
 Challenge mode, which replaces Championship Tour mode, introduces a method of levelling up that is focused on improving your golf technique. This adds a lot to the game and provides a method of increasing your player stats and unlocking additional courses. It includes 100 challenges at each of several different difficulty levels, totalling over 300 different challenges. They include such variations as: nearest to the pin, chip-in, limited strokes, single putt, total distance, limited time, competition (vs CPU), and limited clubs.
 
