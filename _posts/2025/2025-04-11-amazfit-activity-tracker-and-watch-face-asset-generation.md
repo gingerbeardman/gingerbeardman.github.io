@@ -44,7 +44,7 @@ Anyway, I found some [nice watch faces](https://amazfitwatchfaces.com/amazfit-ba
 
 Today it isn't raining but I do have some time on my hands, which is the next best thing. I didn't want to spend time in Figma exporting images over and over again. I get cold shivers thinking about slicing images in [Fireworks](https://en.wikipedia.org/wiki/Macromedia_Fireworks). So I wondered if I could create a tool that would make light work of generating the images I need from a font of my choosing.
 
-It was pretty straightforward and I ended up with what you see below, where you can customise: font family, font size, color, text alignment, filename prefix, and character/phrase set. And then you can download all the images in one click! *NICE.*
+It was pretty straightforward and I ended up with what you see below, where you can customise: font, size, color, alignment, filename prefix, and required characters/phrases/symbols. And then you can download all the images in one click! *NICE.*
 
 There's nothing that ties the assets being generated to the Amazfit Band 7, so feel free to use the tool for other purposes if you want to just generate some text or symbols as images.
 
