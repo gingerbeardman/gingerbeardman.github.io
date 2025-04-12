@@ -2,6 +2,7 @@
 layout: post
 title: "Amazfit activity tracker and watch face asset generation"
 date: '2025-04-11T23:05+01:00'
+last_modified_at: '2025-04-12T15:58+01:00'
 tags:
 - amazfit
 - hacking
@@ -10,7 +11,10 @@ tags:
 nouns:
 - Amazfit Band 7
 - Amazfit
+- AmazFaces
 - Apple Watch
+- iOS
+- Android
 - Decathlon
 - Figma
 - Fireworks
@@ -48,7 +52,7 @@ It was pretty straightforward and I ended up with what you see below, where you 
 
 I do my best to adhere to the specs required by the most common watch face building tools, and in almost all cases I've been able to use the images exactly as they come out of the tool. There is some extraneous padding, which means you have to use quite large negative spacing (equivalent to kerning) but it all works well in practice.
 
-There's nothing that ties the assets being generated to the Amazfit Band 7, so feel free to use the tool for other purposes if you want to just generate some text or symbols as images.
+There's nothing that ties the assets being generated to the Amazfit Band 7, so feel free to use the tool for other purposes if you want to just generate some digits, text, or symbols as images.
 
 The web app tool is at [gingerbeardman.com/amazfit/](https://www.gingerbeardman.com/amazfit/) if you want to try it out.
 
@@ -59,9 +63,9 @@ The web app tool is at [gingerbeardman.com/amazfit/](https://www.gingerbeardman.
 
 ## Here's one I made earlier
 
-This is the first face I created using the tool: DIN. I'm generating images of numbers, and a few other things, in a few different sizes and two colours. The darker text might look too dark on your display, but on the OLED display of the device it's plenty bright enough for secondary information. I used a [Windows tool](https://amazfitwatchfaces.com/forum/viewtopic.php?t=2743) to lay things out and generate the package, and [installed it locally](https://amazfitwatchfaces.com/forum/viewtopic.php?t=3873) in developer mode on my device. I'm not sure of the best way to distribute this more widely, but I'll look into it.
+This is the first face I created using the tool: DIN. I'm generating images of numbers, and a few other things, in a few different sizes and two colours. The darker text might look too dark on your display, but on the OLED display of the device it's plenty bright enough for secondary information. I used a [Windows tool](https://amazfitwatchfaces.com/forum/viewtopic.php?t=2743) to lay things out and generate the package, and [installed it locally](https://amazfitwatchfaces.com/forum/viewtopic.php?t=3873) in developer mode on my device. You can install [the watch face](https://amazfitwatchfaces.com/amazfit-band/view/353) using the [AmazFaces app](https://amazfitwatchfaces.com/awapp) on iOS or Android.
 
 ![IMG](/images/posts/amazfit-band-7-din.png "DIN looks super on OLED!")
 {:.tofigure}
 
-The typeface is [D-DIN Condensed Bold](https://github.com/amcchord/datto-d-din)—a cool cut of [DIN](https://en.wikipedia.org/wiki/DIN_typeface) and it's free and released under [SIL Open Font License](https://en.wikipedia.org/wiki/SIL_Open_Font_License). Thanks very much to Datto and to the type designer, Charles Nix at Monotype!
+The typeface is [D-DIN Condensed Bold](https://github.com/amcchord/datto-d-din)—a cool cut of [DIN](https://en.wikipedia.org/wiki/DIN_typeface) and it's free and released under [SIL Open Font License](https://en.wikipedia.org/wiki/SIL_Open_Font_License). Thanks very much to Datto and to the type designer, [Charles Nix](https://luc.devroye.org/showcase-charlesnix/) at [Monotype](https://www.monotype.com/studio/charles-nix)!
