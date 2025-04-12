@@ -59,7 +59,7 @@ The web app tool is at [gingerbeardman.com/amazfit/](https://www.gingerbeardman.
 
 ## Here's one I made earlier
 
-This is the first face I created using the tool: DIN. I'm generating images of numbers, and a few other things, in two different sizes and colours. The darker text might look too dark on your display, but on the OLED display of the device it's plenty bright enough for secondary information. I used a [Windows tool](https://amazfitwatchfaces.com/forum/viewtopic.php?t=2743) to lay things out and generate the package, and [installed it locally](https://amazfitwatchfaces.com/forum/viewtopic.php?t=3873) in developer mode on my device. I'm not sure of the best way to distribute this more widely, but I'll look into it.
+This is the first face I created using the tool: DIN. I'm generating images of numbers, and a few other things, in a few different sizes and two colours. The darker text might look too dark on your display, but on the OLED display of the device it's plenty bright enough for secondary information. I used a [Windows tool](https://amazfitwatchfaces.com/forum/viewtopic.php?t=2743) to lay things out and generate the package, and [installed it locally](https://amazfitwatchfaces.com/forum/viewtopic.php?t=3873) in developer mode on my device. I'm not sure of the best way to distribute this more widely, but I'll look into it.
 
 ![IMG](/images/posts/amazfit-band-7-din.png "DIN looks super on OLED!")
 {:.tofigure}
