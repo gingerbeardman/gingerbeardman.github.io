@@ -64,4 +64,4 @@ This is the first face I created using the tool: DIN. I'm generating images of n
 ![IMG](/images/posts/amazfit-band-7-din.png "DIN looks super on OLED!")
 {:.tofigure}
 
-The typeface is [D-DIN Condensed Bold](https://github.com/amcchord/datto-d-din)—a cool cut of [DIN](https://en.wikipedia.org/wiki/DIN_typeface) and it's free and released under [SIL Open Font License](https://en.wikipedia.org/wiki/SIL_Open_Font_License). Thanks very much to Datto and to the typographer, Charles Nix at Monotype!
+The typeface is [D-DIN Condensed Bold](https://github.com/amcchord/datto-d-din)—a cool cut of [DIN](https://en.wikipedia.org/wiki/DIN_typeface) and it's free and released under [SIL Open Font License](https://en.wikipedia.org/wiki/SIL_Open_Font_License). Thanks very much to Datto and to the type designer, Charles Nix at Monotype!
