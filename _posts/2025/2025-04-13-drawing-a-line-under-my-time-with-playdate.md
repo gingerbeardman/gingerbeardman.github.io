@@ -68,9 +68,9 @@ published: private
 
 ---
 
-I've been asked a bunch of times recently why I'm no longer actively developing for [Playdate](https://play.date) (a unique handheld console with crank control and 1-bit display). It's an understandable question because it must seem odd that somebody who lived and breathed a platform for almost 6 years could suddenly stop doing so.
+I've been asked a bunch of times recently why I'm no longer actively developing for [Playdate](https://play.date) (a unique handheld console with crank control and 1-bit display). It's an understandable question because it must seem odd that somebody who was perhaps the most prolific developer on the platform and who lived and breathed it for almost 6 years could suddenly stop doing so.
 
-My journey with Playdate began with excitement and innovation, leading to numerous released games and recognition within the community and wider industry. The process of creating games for Playdate was incredibly rewarding, with many high points, including award-winning projects and creative breakthroughs. Unfortunately, I also faced challenging interactions and a lack of support from the community, which took away from that enjoyment. These have ultimately led me to step away from the scene and channel my passion into other platforms.
+My journey with Playdate began with excitement and innovation, leading to numerous released games and recognition within the community and wider industry. The process of creating games for Playdate was incredibly rewarding, with many high points, including award-winning projects and creative breakthroughs. Unfortunately, I also faced challenging interactions and a lack of support from key members of the community, which took away from that enjoyment. These have ultimately led me to step away from the scene and channel my passion into other platforms.
 
 ----
 
@@ -106,7 +106,7 @@ I stayed busy, and had a lot of fun cranking out release after release:
 
 ## Timeline
 
-If you're interest in where and how things stack up:
+If you're interest in when and how things happened:
 
 - `2019-05` 📦 [Playdate is announced on the cover of EDGE magazine](https://x.com/gingerbeardman/status/1131583062607896576)
 - `2019-07` 🍒 Granted access to Panic/Playdate Slack channel and Playdate SDK
@@ -157,7 +157,7 @@ If you're interest in where and how things stack up:
 
 ## Postponed Projects
 
-I always say that nothing is ever wasted in game dev, but there's no denying I had works in progress:
+I always say that nothing is ever wasted in game dev, but there's no denying I had *works in progress*:
 
 - Aero Club — flight school simulation inspired by "Mode 7" and Pilotwings on SNES
 - Beatnik — rhythm game with innovative interactive music and dynamic beat-responsive visuals
