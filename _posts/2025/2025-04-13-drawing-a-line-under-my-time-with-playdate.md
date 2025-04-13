@@ -146,7 +146,7 @@ My journey with Playdate began with excitement and innovation, leading to numero
 
 I always say that nothing is ever wasted in game dev, but there's no denying I had works in progress:
 
-- Aero Club—a "mode 7"-style flight school game inspired by Pilotwings
+- Aero Club—a "mode 7"-style flight school game inspired by Pilotwings (SNES)
 - Beatnik—a rhythm game with innovative interactive music
 - Cosmic Trash—arcade action puzzle with real-time ray-traced graphics
 - Daily Driver—arcade racing with pre-rendered graphics running at 60fps (reborn as [Dream Ride](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/))
