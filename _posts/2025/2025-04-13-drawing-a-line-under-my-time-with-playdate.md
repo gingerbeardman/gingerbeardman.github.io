@@ -135,7 +135,7 @@ My journey with Playdate began with excitement and innovation, leading to numero
 
 ## 2025
 
-- `2025-01` 💤 Pulled out of giving a Playdate development talk at [Game Republic event](https://gamerepublic.net/news/creative-boost-at-game-republics-first-event-of-2025/) in York
+- `2025-01` 💤 Pulled out of giving a Playdate development talk at a [Game Republic event](https://gamerepublic.net/news/creative-boost-at-game-republics-first-event-of-2025/) in York
 - `2025-02` 🏆 [Bender 2](https://play.date/games/bender-2-bend-harder/) nominated for "Best Arcade game" in [Community Awards](https://playdate-wiki.com/wiki/The_2024_Playdate_Community_Awards)
 - `2025-03` 📅 My old game [Shark Turtle](https://gingerbeardman.itch.io/shark-turtle) released, originally created 2023-06
 - `2025-04` 😞 The issue of harassment remains unresolved
