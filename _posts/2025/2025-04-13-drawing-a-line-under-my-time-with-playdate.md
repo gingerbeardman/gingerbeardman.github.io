@@ -70,7 +70,7 @@ published: private
 
 I've been asked a bunch of times recently why I'm no longer actively developing for [Playdate](https://play.date) (a unique handheld console with crank control and 1-bit display). It's an understandable question because it must seem odd that somebody who lived and breathed a platform for almost 6 years could suddenly stop doing so.
 
-My journey with Playdate began with excitement and innovation, leading to numerous released games and recognition within the community and wider industry. The process of creating games for Playdate was incredibly rewarding, with many high points, including award-winning projects and creative breakthroughs. Unfortunately, I also faced challenging interactions and lack of support within the community, which took away from that enjoyment. These have ultimately led me to step away from the scene and channel my passion into other platforms.
+My journey with Playdate began with excitement and innovation, leading to numerous released games and recognition within the community and wider industry. The process of creating games for Playdate was incredibly rewarding, with many high points, including award-winning projects and creative breakthroughs. Unfortunately, I also faced challenging interactions and a lack of support from the community, which took away from that enjoyment. These have ultimately led me to step away from the scene and channel my passion into other platforms.
 
 ----
 
