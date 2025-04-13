@@ -18,8 +18,8 @@ nouns:
 - Panic/Playdate
 - Panic
 - EDGE magazine
-- Daily Driver Tech Demo
 - Daily Driver
+- Tech Demo
 - YOYOZO
 - Sparrow Solitaire
 - Fore! Track
@@ -75,11 +75,11 @@ My journey with Playdate began with excitement and innovation, leading to numero
 
 I stayed busy, and had a lot of fun cranking out release after release:
 
-- `2022-03` [Today](https://gingerbeardman.itch.io/today)
+- `2022-03` [Today](https://gingerbeardman.itch.io/today), the first Playdate software sold on itch.io
 - `2022-04` [Horse Race](https://gingerbeardman.itch.io/horse-race)
 - `2022-04` [Audition](https://gingerbeardman.itch.io/audition)
 - `2022-04` [Prototypes](https://gingerbeardman.itch.io/prototypes-for-playdate)
-- `2022-04` [Daily Driver Tech Demo](https://gingerbeardman.itch.io/daily-driver)
+- `2022-04` [Daily Driver](https://gingerbeardman.itch.io/daily-driver) Tech Demo
 - `2022-05` [Circular](https://gingerbeardman.itch.io/circular)
 - `2022-05` [ST-DIN](https://gingerbeardman.itch.io/st-din-playdate-font) and [Supermini](https://gingerbeardman.itch.io/supermini-playdate-font) fonts
 - `2023-04` [Sparrow Solitaire](https://play.date/games/sparrow-solitaire/) (with [Mac Vogelsang](https://vogelscript.itch.io))
@@ -159,12 +159,12 @@ If you're interest in where and how things stack up:
 
 I always say that nothing is ever wasted in game dev, but there's no denying I had works in progress:
 
-- Aero Club—a "mode 7"-style flight school game inspired by Pilotwings on SNES
-- Beatnik—a rhythm game with innovative interactive music and visual feedback
-- Cosmic Trash—arcade action puzzle with real-time ray-traced graphics
-- Daily Driver—arcade racing with pre-rendered graphics running at 60fps (reborn as [Dream Ride](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/))
-- Koatari—arcade game "pachinko with power-ups" and innovative pinball-inspired visual feedback
-- Mole Hole—modern version of the "escape room" maze experience by Thoru Yamamoto
+- Aero Club — a flight school game inspired by "Mode 7" and Pilotwings on SNES
+- Beatnik — a rhythm game with innovative interactive music and visual feedback
+- Cosmic Trash — arcade action puzzle with real-time ray-traced graphics
+- Daily Driver — arcade racing with pre-rendered graphics running at 60fps (reborn as [Dream Ride](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/))
+- Koatari — arcade game "pachinko with power-ups" and innovative pinball-inspired visual feedback
+- Mole Hole — modern version of the "escape room" maze experience by Thoru Yamamoto
 
 ![IMG](/images/posts/molehole.gif#playdate "Mole Hole (2023-08, originally 1995/7)")
 {:.tofigure}
