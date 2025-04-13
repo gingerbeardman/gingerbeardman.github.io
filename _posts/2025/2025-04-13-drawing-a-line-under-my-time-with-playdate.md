@@ -87,7 +87,7 @@ If you're interest in where and how things stack up:
 - `2020-03` 🍒 Receive pre-release Playdate hardware
 - `2020-03` 🦠 COVID-19 takes over the world
 - `2020-03` 💬 Official, private Playdate Discord server begins
-- `2020-04` 🚗 I begin development of prototypes, including [Daily Driver](/tag/dailydriver/)
+- `2020-04` 🚙 I begin development of prototypes, including [Daily Driver](/tag/dailydriver/)
 - `2020-05` 💬 [Playdate Dev Forum](https://devforum.play.date) opens
 - `2020-05` 💬 [Playdate Developer Preview](https://play.date/update-oct/) hardware access begins
 - `2020-07` 💬 [Playdate Squad Discord](https://www.reddit.com/r/PlaydateConsole/comments/hkjbjt/) server started
@@ -97,12 +97,12 @@ If you're interest in where and how things stack up:
 - `2021-05` 🤕 I resume Playdate development
 - `2021-07` 📦 [Playdate pre-orders begin](https://twitter.com/playdate/status/1418254540042764293)
 - `2021-08` 📝 [Aquaplus P/ECE (vs Panic Playdate)](/2021/08/19/aquaplus-piece-vs-panic-playdate/) blog post
-- `2021-08` 🚗 [Daily Driver teaser artwork](/2021/08/23/daily-driver-teaser-artwork/) revealed
+- `2021-08` 🚙 [Daily Driver teaser artwork](/2021/08/23/daily-driver-teaser-artwork/) revealed
 - `2021-08` ‼️ A developer expresses their intent to imitate my teaser artwork style
 
 - `2022-02` 📦 [Playdate SDK](https://news.play.date/news/sdk-now-available/) goes public
 - `2022-04` 📦 [Playdate begins shipping](https://news.play.date/news/now-shipping/)
-- `2022-08` 🚗 Late notice from Panic means I have to pass on them releasing [Daily Driver](https://gingerbeardman.itch.io/daily-driver)
+- `2022-08` 🚙 Late notice from Panic means I have to pass on them releasing [Daily Driver](https://gingerbeardman.itch.io/daily-driver)
 - `2022-10` 💤 I take 6 months away from Playdate development for health reasons
 - `2022-12` 🏆 [Daily Driver](https://gingerbeardman.itch.io/daily-driver) wins "Outstanding Technical Achievement (SDK)" at [Community Awards](https://playdate-wiki.com/wiki/The_2022_Playdate_Community_Awards)
 
