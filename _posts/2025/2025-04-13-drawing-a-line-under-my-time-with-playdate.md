@@ -85,7 +85,7 @@ If you're interest in where and how things stack up:
 - `2019-07` 🎴 Junior Hanafuda in the running for Playdate Season 1 (with [Louie Mantia](https://lmnt.me))
 
 - `2020-03` 🍒 Receive pre-release Playdate hardware
-- `2020-03` 🦠 COVID-19 takes over the world
+- `2020-03` 🦠 COVID-19 takes over the world and gives me a ton of free time
 - `2020-03` 💬 Official, private Playdate Discord server begins
 - `2020-04` 🚙 I begin development of prototypes, including [Daily Driver](/tag/dailydriver/)
 - `2020-05` 💬 [Playdate Dev Forum](https://devforum.play.date) opens
