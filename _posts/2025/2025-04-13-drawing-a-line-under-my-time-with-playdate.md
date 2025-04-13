@@ -159,8 +159,8 @@ If you're interest in where and how things stack up:
 
 I always say that nothing is ever wasted in game dev, but there's no denying I had works in progress:
 
-- Aero Club — a flight school game inspired by "Mode 7" and Pilotwings on SNES
-- Beatnik — a rhythm game with innovative interactive music and visual feedback
+- Aero Club — flight school simulation inspired by "Mode 7" and Pilotwings on SNES
+- Beatnik — rhythm game with innovative interactive music and visual feedback
 - Cosmic Trash — arcade action puzzle with real-time ray-traced graphics
 - Daily Driver — arcade racing with pre-rendered graphics running at 60fps (reborn as [Dream Ride](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/))
 - Koatari — arcade game "pachinko with power-ups" and innovative pinball-inspired visual feedback
