@@ -2,11 +2,11 @@
   "actions" : {
     "build" : {
       "enabled" : true,
-      "script" : "bundle exec jekyll serve --drafts --profile --open-url --livereload"
+      "script" : "bundle exec jekyll serve --profile --open-url --livereload"
     },
     "run" : {
       "enabled" : true,
-      "script" : "bundle exec jekyll serve --incremental --drafts --profile --open-url --livereload"
+      "script" : "bundle exec jekyll serve --incremental --profile --open-url --livereload"
     }
   },
   "openLogOnRun" : "start"
