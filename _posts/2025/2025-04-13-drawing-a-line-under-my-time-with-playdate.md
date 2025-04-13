@@ -54,13 +54,16 @@ nouns:
 - Aero Club
 - Super Mario Wonder
 - 'The Legend of Zelda: Tears of the Kingdom'
+- Pilotwings
 featured: false
 pinned: false
 published: private
 
 ---
 
-I've been asked a bunch of times recently why I'm no longer active in the Playdate scene. That is understandable because it must seem odd that somebody who lived and breathed a platform for almost 6 years could suddenly stop doing that. Hopefully this timeline will help clear things up a bit. It's mostly good, but there are some unfortunate things in the mix.
+I've been asked a bunch of times recently why I'm no longer actively developing for [Playdate](https://play.date) (a unique handheld console with crank control and 1-bit display). It's an understandable question because it must seem odd that somebody who lived and breathed a platform for almost 6 years could suddenly stop doing so. Hopefully this timeline will help clear things up a bit.
+
+My journey with Playdate began with excitement and innovation, leading to numerous released games and recognition within the community. While there were many high points, including award-winning projects and creative breakthroughs, I also faced several challenges that ultimately led to my decision to step back. This timeline captures both the achievements and difficulties that shaped my six-year experience with the platform.
 
 ## 2019
 
@@ -99,7 +102,7 @@ I've been asked a bunch of times recently why I'm no longer active in the Playda
 - `2022-05` 📅 [Circular](https://gingerbeardman.itch.io/circular) released
 - `2022-05` 📅 [ST-DIN](https://gingerbeardman.itch.io/st-din-playdate-font) and [Supermini](https://gingerbeardman.itch.io/supermini-playdate-font) fonts released
 - `2022-08` 🚗 Late notice from Panic means I have to pass on them releasing Daily Driver
-- `2022-10` 💤 I take 6 months away from Playdate development for personal reasons
+- `2022-10` 💤 I take 6 months away from Playdate development for personal health reasons
 - `2022-12` 🏆 Daily Driver wins "Outstanding Technical Achievement (SDK)" at [Community Awards](https://playdate-wiki.com/wiki/The_2022_Playdate_Community_Awards)
 
 ## 2023
@@ -119,7 +122,7 @@ I've been asked a bunch of times recently why I'm no longer active in the Playda
 
 ## 2024
 
-- `2024-01` 💤 I take 3 months away from Playdate development for personal reasons
+- `2024-01` 💤 I take 3 months away from Playdate development for personal health reasons
 - `2024-03` 📝 [22 projects for Playdate in a year](/2024/03/07/a-year-in-the-life-of-a-playdate-game-developer/) blog post
 - `2024-03` 🏆 [Sparrow Solitaire](https://play.date/games/sparrow-solitaire) and [YOYOZO](https://play.date/games/yoyozo/) win at [Community Awards](https://playdate-wiki.com/wiki/The_2023_Playdate_Community_Awards)
 - `2024-03` 🤕 I resume Playdate development
@@ -135,23 +138,27 @@ I've been asked a bunch of times recently why I'm no longer active in the Playda
 - `2025-01` 💤 Pulled out of giving a Playdate development talk at [Game Republic event](https://gamerepublic.net/news/creative-boost-at-game-republics-first-event-of-2025/) in York
 - `2025-02` 🏆 [Bender 2](https://play.date/games/bender-2-bend-harder/) nominated for "Best Arcade game" in [Community Awards](https://playdate-wiki.com/wiki/The_2024_Playdate_Community_Awards)
 - `2025-03` 📅 My old game [Shark Turtle](https://gingerbeardman.itch.io/shark-turtle) released, originally created 2023-06
-- `2025-04` 😞 No resolution from Panic or Community Mods regarding harassment
+- `2025-04` 😞 The issue of harassment remains unresolved
 
 ----
 
 ## Postponed Projects
 
-- Aero Club—"mode 7"-style flight school game inspired by Pilotwings
+I always say that nothing is ever wasted in game dev, but there's no denying I had works in progress:
+
+- Aero Club—a "mode 7"-style flight school game inspired by Pilotwings
 - Beatnik—a rhythm game with innovative interactive music
 - Cosmic Trash—arcade action puzzle with real-time ray-traced graphics
-- Daily Driver—arcade racing with pre-rendered graphics running at 60fps (but, see [Dream Ride](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/))
-- Koatari—arcade game pachinko with power-ups and innovative multi-layer graphics
-- Mole Hole—modern version of a classic interactive experience by Thoru Yamamoto
+- Daily Driver—arcade racing with pre-rendered graphics running at 60fps (reborn as [Dream Ride](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/))
+- Koatari—arcade game "pachinko with power-ups" and innovative pinball-inspired visual feedback
+- Mole Hole—modern version of a interactive experience by Thoru Yamamoto
+
+![IMG](/images/posts/molehole.gif#playdate)
 
 ----
 
 ## Takeaways
 
-My main takeaway is that the Playdate community and ecosystem is just like any other, warts and all.
+My main takeaway is that the Playdate community and ecosystem is just like any other, flaws and all.
 
 No matter what, seeing [YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/) listed among the 'Best Games of 2023'—alongside Super Mario Wonder and The Legend of Zelda: Tears of the Kingdom—is an honour that will stay with me forever.
