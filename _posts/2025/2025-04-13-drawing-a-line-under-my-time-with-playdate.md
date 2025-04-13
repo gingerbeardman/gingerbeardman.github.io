@@ -8,6 +8,7 @@ tags:
 - gamedev
 - soapbox
 nouns:
+- Piskel for Playdate
 - Playdate Developer Preview
 - Playdate Dev Forum
 - Playdate Squad
@@ -20,6 +21,8 @@ nouns:
 - EDGE magazine
 - Daily Driver
 - Tech Demo
+- ST-DIN
+- Supermini
 - YOYOZO
 - Sparrow Solitaire
 - Fore! Track
@@ -67,7 +70,7 @@ published: private
 
 I've been asked a bunch of times recently why I'm no longer actively developing for [Playdate](https://play.date) (a unique handheld console with crank control and 1-bit display). It's an understandable question because it must seem odd that somebody who lived and breathed a platform for almost 6 years could suddenly stop doing so.
 
-My journey with Playdate began with excitement and innovation, leading to numerous released games and recognition within the community. While there were many high points, including award-winning projects and creative breakthroughs, I also faced several challenges that ultimately led to my decision to step away from the scene.
+My journey with Playdate began with excitement and innovation, leading to numerous released games and recognition within the community and wider industry. The process of creating games for Playdate was incredibly rewarding, with many high points, including award-winning projects and creative breakthroughs. Unfortunately, I also faced challenging interactions within the developer community, which took away from that enjoyment. These have ultimately led me to step away from the scene and channel my passion into other platforms.
 
 ----
 
@@ -95,9 +98,6 @@ I stayed busy, and had a lot of fun cranking out release after release:
 - `2024-05` [Rorschach](https://gingerbeardman.itch.io/rorschach)
 - `2024-10` [Bender 2: Bend Harder](https://play.date/games/bender-2-bend-harder/)
 - `2025-03` [Shark Turtle](https://gingerbeardman.itch.io/shark-turtle), originally created `2023-06`
-
-
-----
 
 ![IMG](/images/posts/yoyozo-teaser.gif#playdate "YOYOZO (2023-09)")
 {:.tofigure}
@@ -143,7 +143,7 @@ If you're interest in where and how things stack up:
 - `2024-03` 📝 [22 projects for Playdate in a year](/2024/03/07/a-year-in-the-life-of-a-playdate-game-developer/) blog post
 - `2024-03` 🏆 [Sparrow Solitaire](https://play.date/games/sparrow-solitaire) and [YOYOZO](https://play.date/games/yoyozo/) win at [Community Awards](https://playdate-wiki.com/wiki/The_2023_Playdate_Community_Awards)
 - `2024-03` 🤕 I resume Playdate development
-- `2024-09` ‼️ Learned a developer intentionally imitated my teaser artwork style
+- `2024-09` ‼️ Learned another developer intentionally imitated my teaser artwork style
 - `2024-10` 🗓️ [Bender 2: Bend Harder](https://play.date/games/bender-2-bend-harder/) released
 - `2024-10` ‼️ Faced a targeted harassment campaign from another Playdate developer
 - `2024-10` 💤 I withdraw from Playdate development because of this, pending resolution
@@ -160,10 +160,10 @@ If you're interest in where and how things stack up:
 I always say that nothing is ever wasted in game dev, but there's no denying I had works in progress:
 
 - Aero Club — flight school simulation inspired by "Mode 7" and Pilotwings on SNES
-- Beatnik — rhythm game with innovative interactive music and visual feedback
-- Cosmic Trash — arcade action puzzle with real-time ray-traced graphics
+- Beatnik — rhythm game with innovative interactive music and dynamic beat-responsive visuals
+- Cosmic Trash — arcade action puzzle with real-time ray-traced graphics—yes, really!
 - Daily Driver — arcade racing with pre-rendered graphics running at 60fps (reborn as [Dream Ride](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/))
-- Koatari — arcade game "pachinko with power-ups" and innovative pinball-inspired visual feedback
+- Koatari — arcade game "pachinko with power-ups" and innovative pinball-inspired visuals
 - Mole Hole — modern version of the "escape room" maze experience by Thoru Yamamoto
 
 ![IMG](/images/posts/molehole.gif#playdate "Mole Hole (2023-08, originally 1995/7)")
