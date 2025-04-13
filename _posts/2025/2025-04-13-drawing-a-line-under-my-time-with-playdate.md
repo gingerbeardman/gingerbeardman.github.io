@@ -106,7 +106,7 @@ I stayed busy, and had a lot of fun cranking out release after release:
 
 ## Timeline
 
-If you're interested in when and how things happened:
+If you're interested in how and when things happened:
 
 - `2019-05` 📦 [Playdate is announced on the cover of EDGE magazine](https://x.com/gingerbeardman/status/1131583062607896576)
 - `2019-07` 🍒 Granted access to Panic/Playdate Slack channel and Playdate SDK
