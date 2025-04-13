@@ -55,6 +55,8 @@ nouns:
 - Super Mario Wonder
 - 'The Legend of Zelda: Tears of the Kingdom'
 - Pilotwings
+- Dream Ride
+- SNES
 featured: false
 pinned: false
 published: private
@@ -101,9 +103,9 @@ My journey with Playdate began with excitement and innovation, leading to numero
 - `2022-04` 📦 [Playdate begins shipping](https://news.play.date/news/now-shipping/)
 - `2022-05` 📅 [Circular](https://gingerbeardman.itch.io/circular) released
 - `2022-05` 📅 [ST-DIN](https://gingerbeardman.itch.io/st-din-playdate-font) and [Supermini](https://gingerbeardman.itch.io/supermini-playdate-font) fonts released
-- `2022-08` 🚗 Late notice from Panic means I have to pass on them releasing Daily Driver
-- `2022-10` 💤 I take 6 months away from Playdate development for personal health reasons
-- `2022-12` 🏆 Daily Driver wins "Outstanding Technical Achievement (SDK)" at [Community Awards](https://playdate-wiki.com/wiki/The_2022_Playdate_Community_Awards)
+- `2022-08` 🚗 Late notice from Panic means I have to pass on them releasing [Daily Driver](https://gingerbeardman.itch.io/daily-driver)
+- `2022-10` 💤 I take 6 months away from Playdate development for health reasons
+- `2022-12` 🏆 [Daily Driver](https://gingerbeardman.itch.io/daily-driver) wins "Outstanding Technical Achievement (SDK)" at [Community Awards](https://playdate-wiki.com/wiki/The_2022_Playdate_Community_Awards)
 
 ## 2023
 
@@ -122,7 +124,7 @@ My journey with Playdate began with excitement and innovation, leading to numero
 
 ## 2024
 
-- `2024-01` 💤 I take 3 months away from Playdate development for personal health reasons
+- `2024-01` 💤 I take 3 months away from Playdate development for health reasons
 - `2024-03` 📝 [22 projects for Playdate in a year](/2024/03/07/a-year-in-the-life-of-a-playdate-game-developer/) blog post
 - `2024-03` 🏆 [Sparrow Solitaire](https://play.date/games/sparrow-solitaire) and [YOYOZO](https://play.date/games/yoyozo/) win at [Community Awards](https://playdate-wiki.com/wiki/The_2023_Playdate_Community_Awards)
 - `2024-03` 🤕 I resume Playdate development
@@ -135,7 +137,7 @@ My journey with Playdate began with excitement and innovation, leading to numero
 
 ## 2025
 
-- `2025-01` 💤 Pulled out of giving a Playdate development talk at a [Game Republic event](https://gamerepublic.net/news/creative-boost-at-game-republics-first-event-of-2025/) in York
+- `2025-01` 💤 Pulled out of giving a talk about Playdate development at a [Game Republic event](https://gamerepublic.net/news/creative-boost-at-game-republics-first-event-of-2025/)
 - `2025-02` 🏆 [Bender 2](https://play.date/games/bender-2-bend-harder/) nominated for "Best Arcade game" in [Community Awards](https://playdate-wiki.com/wiki/The_2024_Playdate_Community_Awards)
 - `2025-03` 📅 My old game [Shark Turtle](https://gingerbeardman.itch.io/shark-turtle) released, originally created `2023-06`
 - `2025-04` 😞 The issue of harassment remains unresolved
@@ -146,7 +148,7 @@ My journey with Playdate began with excitement and innovation, leading to numero
 
 I always say that nothing is ever wasted in game dev, but there's no denying I had works in progress:
 
-- Aero Club—a "mode 7"-style flight school game inspired by Pilotwings (SNES)
+- Aero Club—a "mode 7"-style flight school game inspired by Pilotwings on SNES
 - Beatnik—a rhythm game with innovative interactive music
 - Cosmic Trash—arcade action puzzle with real-time ray-traced graphics
 - Daily Driver—arcade racing with pre-rendered graphics running at 60fps (reborn as [Dream Ride](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/))
@@ -161,4 +163,4 @@ I always say that nothing is ever wasted in game dev, but there's no denying I h
 
 My main takeaway is that the Playdate community and ecosystem is just like any other, flaws and all.
 
-No matter what, seeing [YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/) listed among the 'Best Games of 2023'—alongside Super Mario Wonder and The Legend of Zelda: Tears of the Kingdom—is an honour that will stay with me forever.
+No matter what, seeing [YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/) listed among the "Best Games of 2023"—alongside Super Mario Wonder and The Legend of Zelda: Tears of the Kingdom—is an honour that will stay with me forever.
