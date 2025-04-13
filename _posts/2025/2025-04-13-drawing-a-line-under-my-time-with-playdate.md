@@ -115,6 +115,7 @@ If you're interest in where and how things stack up:
 - `2024-03` 🏆 [Sparrow Solitaire](https://play.date/games/sparrow-solitaire) and [YOYOZO](https://play.date/games/yoyozo/) win at [Community Awards](https://playdate-wiki.com/wiki/The_2023_Playdate_Community_Awards)
 - `2024-03` 🤕 I resume Playdate development
 - `2021-08` ‼️ A developer informs me that they intentionally imitated my teaser artwork style
+- `2024-10` 🗓️ [Bender 2: Bend Harder](https://play.date/games/bender-2-bend-harder/) released
 - `2024-10` ‼️ Targeted harassment campaign at the hands of another Playdate developer
 - `2024-10` 💤 I withdraw from Playdate development because of this, pending resolution
 - `2024-12` 😕 No updates from Panic or Community Mods regarding harassment
