@@ -71,6 +71,34 @@ My journey with Playdate began with excitement and innovation, leading to numero
 
 ----
 
+## Released Projects
+
+I stayed busy, and had a lot of fun cranking out release after release:
+
+- `2022-03` [Today](https://gingerbeardman.itch.io/today)
+- `2022-04` [Horse Race](https://gingerbeardman.itch.io/horse-race)
+- `2022-04` [Audition](https://gingerbeardman.itch.io/audition)
+- `2022-04` [Prototypes](https://gingerbeardman.itch.io/prototypes-for-playdate)
+- `2022-04` [Daily Driver Tech Demo](https://gingerbeardman.itch.io/daily-driver)
+- `2022-05` [Circular](https://gingerbeardman.itch.io/circular)
+- `2022-05` [ST-DIN](https://gingerbeardman.itch.io/st-din-playdate-font) and [Supermini](https://gingerbeardman.itch.io/supermini-playdate-font) fonts
+- `2023-04` [Sparrow Solitaire](https://play.date/games/sparrow-solitaire/) (with [Mac Vogelsang](https://vogelscript.itch.io))
+- `2023-05` [Piskel for Playdate](/2023/05/10/piskel-for-playdate/)
+- `2023-07` [Mandala](https://github.com/gingerbeardman/mandala)
+- `2023-08` [Strategies](https://gingerbeardman.itch.io/strategies)
+- `2023-08` [DateDiff](https://gingerbeardman.itch.io/datediff)
+- `2023-08` [YOYOZO](https://play.date/games/yoyozo/)
+- `2023-10` [Kye](https://mouflon-cloud.itch.io/kye) (with [Jan Martinek](https://mouflon-cloud.itch.io))
+- `2023-10` [Super ICARUS](https://play.date/games/icarus/)
+- `2023-12` [Fore! Track](https://play.date/games/fore-track/)
+- `2023-12` [See the Sky](https://gingerbeardman.itch.io/see-the-sky) (with [Thoru Yamamoto](https://twitter.com/thoruman))
+- `2024-05` [Rorschach](https://gingerbeardman.itch.io/rorschach)
+- `2024-10` [Bender 2: Bend Harder](https://play.date/games/bender-2-bend-harder/)
+- `2025-03` [Shark Turtle](https://gingerbeardman.itch.io/shark-turtle), originally created `2023-06`
+
+
+----
+
 ![IMG](/images/posts/yoyozo-teaser.gif#playdate "YOYOZO (2023-09)")
 {:.tofigure}
 
@@ -108,49 +136,22 @@ If you're interest in where and how things stack up:
 
 - `2023-03` 🤕 I resume Playdate development
 - `2023-03` 📦 [Playdate Catalog opens](https://news.play.date/news/catalog-is-out/)
+- `2023-08` 🗓️ [YOYOZO](https://play.date/games/yoyozo/) released
 - `2023-12` 🏆 [YOYOZO named one of the "Best Games of 2023" by Ars Technica](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
 
 - `2024-01` 💤 I take 3 months away from Playdate development for health reasons
 - `2024-03` 📝 [22 projects for Playdate in a year](/2024/03/07/a-year-in-the-life-of-a-playdate-game-developer/) blog post
 - `2024-03` 🏆 [Sparrow Solitaire](https://play.date/games/sparrow-solitaire) and [YOYOZO](https://play.date/games/yoyozo/) win at [Community Awards](https://playdate-wiki.com/wiki/The_2023_Playdate_Community_Awards)
 - `2024-03` 🤕 I resume Playdate development
-- `2021-08` ‼️ A developer informs me that they intentionally imitated my teaser artwork style
+- `2024-09` ‼️ Learned a developer intentionally imitated my teaser artwork style
 - `2024-10` 🗓️ [Bender 2: Bend Harder](https://play.date/games/bender-2-bend-harder/) released
-- `2024-10` ‼️ Targeted harassment campaign at the hands of another Playdate developer
+- `2024-10` ‼️ Faced a targeted harassment campaign from another Playdate developer
 - `2024-10` 💤 I withdraw from Playdate development because of this, pending resolution
 - `2024-12` 😕 No updates from Panic or Community Mods regarding harassment
 
 - `2025-01` 💤 Pulled out of giving a talk about Playdate development at a [Game Republic event](https://gamerepublic.net/news/creative-boost-at-game-republics-first-event-of-2025/)
 - `2025-02` 🏆 [Bender 2](https://play.date/games/bender-2-bend-harder/) nominated for "Best Arcade game" in [Community Awards](https://playdate-wiki.com/wiki/The_2024_Playdate_Community_Awards)
 - `2025-04` 😞 The issue of harassment remains unresolved
-
-----
-
-## Released Projects
-
-I stayed busy, and had a lot of fun cranking out release after release:
-
-- `2022-03` [Today](https://gingerbeardman.itch.io/today)
-- `2022-04` [Horse Race](https://gingerbeardman.itch.io/horse-race)
-- `2022-04` [Audition](https://gingerbeardman.itch.io/audition)
-- `2022-04` [Prototypes](https://gingerbeardman.itch.io/prototypes-for-playdate)
-- `2022-04` [Daily Driver Tech Demo](https://gingerbeardman.itch.io/daily-driver)
-- `2022-05` [Circular](https://gingerbeardman.itch.io/circular)
-- `2022-05` [ST-DIN](https://gingerbeardman.itch.io/st-din-playdate-font) and [Supermini](https://gingerbeardman.itch.io/supermini-playdate-font) fonts
-- `2023-04` [Sparrow Solitaire](https://play.date/games/sparrow-solitaire/) (with [Mac Vogelsang](https://vogelscript.itch.io))
-- `2023-05` [Piskel for Playdate](/2023/05/10/piskel-for-playdate/)
-- `2023-07` [Mandala](https://github.com/gingerbeardman/mandala)
-- `2023-08` [Strategies](https://gingerbeardman.itch.io/strategies)
-- `2023-08` [DateDiff](https://gingerbeardman.itch.io/datediff)
-- `2023-08` [YOYOZO](https://play.date/games/yoyozo/)
-- `2023-10` [Kye](https://mouflon-cloud.itch.io/kye) (with [Jan Martinek](https://mouflon-cloud.itch.io))
-- `2023-10` [Super ICARUS](https://play.date/games/icarus/)
-- `2023-12` [Fore! Track](https://play.date/games/fore-track/)
-- `2023-12` [See the Sky](https://gingerbeardman.itch.io/see-the-sky)
-- `2024-05` [Rorschach](https://gingerbeardman.itch.io/rorschach)
-- `2024-10` [Bender 2: Bend Harder](https://play.date/games/bender-2-bend-harder/)
-- `2025-03` [Shark Turtle](https://gingerbeardman.itch.io/shark-turtle), originally created `2023-06`
-
 
 ----
 
@@ -175,6 +176,8 @@ I always say that nothing is ever wasted in game dev, but there's no denying I h
 My main takeaway is that the Playdate community and ecosystem is just like any other, flaws and all.
 
 No matter what, seeing [YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/) listed among the "Best Games of 2023"—alongside Super Mario Wonder and The Legend of Zelda: Tears of the Kingdom—is an honour that will stay with me forever.
+
+Be excellent to each other. And have fun.
 
 ----
 
