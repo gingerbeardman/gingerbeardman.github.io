@@ -70,18 +70,18 @@ published: private
 
 I've been asked a bunch of times recently why I'm no longer actively developing for [Playdate](https://play.date) (a unique handheld console with crank control and 1-bit display). It's an understandable question because it must seem odd that somebody who was perhaps the most prolific developer on the platform, most likely the only full-time developer on the platform, and who lived and breathed it for almost 6 years could suddenly stop doing so.
 
-My journey with Playdate began with excitement and innovation, leading to numerous released games and recognition within the community and wider industry. The process of creating games for Playdate was incredibly rewarding, with many high points, including award-winning projects and creative breakthroughs. Unfortunately, I also faced challenging interactions and a lack of support from key members of the community, which took away from that enjoyment. I reached out to Panic leadership and wrist they acknowledged the issue there has been no follow-up. These events have ultimately led me to step away from the scene and channel my passion into other platforms.
+My journey with Playdate began with excitement and innovation, leading to numerous released games and recognition within the community and wider industry. The process of creating games for Playdate was incredibly rewarding, with many high points, including award-winning projects and creative breakthroughs. Unfortunately, I also faced challenging interactions with other developers and a lack of support from key members of the community, which took away from that enjoyment. This culminated in a campaign of targeted harassment. I reached out to Panic leadership and whilst they acknowledged the issue there has been no follow-up. These events have ultimately led me to step away from the scene and channel my passion into other platforms.
 
 ----
 
 ## Released Projects
 
-I stayed busy, and had a lot of fun cranking out release after release:
+Over the years I remained busy, and had a lot of fun cranking out release after release:
 
 - `2022-03` [Today](https://gingerbeardman.itch.io/today), the first Playdate software sold on itch.io
 - `2022-04` [Horse Race](https://gingerbeardman.itch.io/horse-race)
 - `2022-04` [Audition](https://gingerbeardman.itch.io/audition)
-- `2022-04` [Prototypes](https://gingerbeardman.itch.io/prototypes-for-playdate)
+- `2022-04` [Prototypes](https://gingerbeardman.itch.io/prototypes-for-playdate) multi-pack
 - `2022-04` [Daily Driver](https://gingerbeardman.itch.io/daily-driver) Tech Demo
 - `2022-05` [Circular](https://gingerbeardman.itch.io/circular)
 - `2022-05` [ST-DIN](https://gingerbeardman.itch.io/st-din-playdate-font) and [Supermini](https://gingerbeardman.itch.io/supermini-playdate-font) fonts
@@ -126,7 +126,7 @@ If you're interested in how and when things happened:
 - `2021-07` 📦 [Playdate pre-orders begin](https://twitter.com/playdate/status/1418254540042764293)
 - `2021-08` 📝 [Aquaplus P/ECE (vs Panic Playdate)](/2021/08/19/aquaplus-piece-vs-panic-playdate/) blog post
 - `2021-08` 🚙 [Daily Driver teaser artwork](/2021/08/23/daily-driver-teaser-artwork/) revealed
-- `2021-08` ‼️ A developer expresses their intent to imitate my teaser artwork style
+- `2021-08` 👀 A developer expresses their intent to imitate my teaser artwork style
 
 - `2022-02` 📦 [Playdate SDK](https://news.play.date/news/sdk-now-available/) goes public
 - `2022-04` 📦 [Playdate begins shipping](https://news.play.date/news/now-shipping/)
@@ -143,10 +143,10 @@ If you're interested in how and when things happened:
 - `2024-03` 📝 [22 projects for Playdate in a year](/2024/03/07/a-year-in-the-life-of-a-playdate-game-developer/) blog post
 - `2024-03` 🏆 [Sparrow Solitaire](https://play.date/games/sparrow-solitaire) and [YOYOZO](https://play.date/games/yoyozo/) win at [Community Awards](https://playdate-wiki.com/wiki/The_2023_Playdate_Community_Awards)
 - `2024-03` 🤕 I resume Playdate development
-- `2024-09` ‼️ Learned another developer intentionally imitated my teaser artwork style
+- `2024-09` 👀 Learned another developer intentionally imitated my teaser artwork style
 - `2024-10` 🗓️ [Bender 2: Bend Harder](https://play.date/games/bender-2-bend-harder/) released
-- `2024-10` ‼️ Faced a targeted harassment campaign from another Playdate developer
-- `2024-10` 💤 I withdraw from Playdate development because of this, pending resolution
+- `2024-10` ‼️ Faced a targeted harassment campaign owned by another Playdate developer
+- `2024-10` 💤 I withdraw from Playdate development because of this, pending its resolution
 - `2024-12` 😕 No updates from Panic or Community Mods regarding harassment
 
 - `2025-01` 💤 Pulled out of giving a talk about Playdate development at a [Game Republic event](https://gamerepublic.net/news/creative-boost-at-game-republics-first-event-of-2025/)
