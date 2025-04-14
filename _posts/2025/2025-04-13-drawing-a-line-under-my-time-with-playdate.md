@@ -119,14 +119,14 @@ If you're interested in how and when things happened:
 - `2020-05` 💬 [Playdate Dev Forum](https://devforum.play.date) opens
 - `2020-05` 💬 [Playdate Developer Preview](https://play.date/update-oct/) hardware access begins
 - `2020-07` 💬 [Playdate Squad Discord](https://www.reddit.com/r/PlaydateConsole/comments/hkjbjt/) server started
-- `2020-11` 👀 A dev in Playdate Season 1 reveals they were making a game like Daily Driver
+- `2020-11` 🤦‍♂️ A dev in Playdate Season 1 reveals they were making a game like Daily Driver
 - `2020-11` 💤 I take 6 months away from Playdate development because of this
 
 - `2021-05` 🤕 I resume Playdate development
 - `2021-07` 📦 [Playdate pre-orders begin](https://twitter.com/playdate/status/1418254540042764293)
 - `2021-08` 📝 [Aquaplus P/ECE (vs Panic Playdate)](/2021/08/19/aquaplus-piece-vs-panic-playdate/) blog post
 - `2021-08` 🚙 [Daily Driver teaser artwork](/2021/08/23/daily-driver-teaser-artwork/) revealed
-- `2021-08` 👀 A developer expresses their intent to imitate my teaser artwork style
+- `2021-08` 🤦‍♂️ A developer expresses their intent to imitate my teaser artwork style
 
 - `2022-02` 📦 [Playdate SDK](https://news.play.date/news/sdk-now-available/) goes public
 - `2022-04` 📦 [Playdate begins shipping](https://news.play.date/news/now-shipping/)
@@ -143,7 +143,7 @@ If you're interested in how and when things happened:
 - `2024-03` 📝 [22 projects for Playdate in a year](/2024/03/07/a-year-in-the-life-of-a-playdate-game-developer/) blog post
 - `2024-03` 🏆 [Sparrow Solitaire](https://play.date/games/sparrow-solitaire) and [YOYOZO](https://play.date/games/yoyozo/) win at [Community Awards](https://playdate-wiki.com/wiki/The_2023_Playdate_Community_Awards)
 - `2024-03` 🤕 I resume Playdate development
-- `2024-09` 👀 Learned another developer intentionally imitated my teaser artwork style
+- `2024-09` 🤦‍♂️ Learned another developer intentionally imitated my teaser artwork style
 - `2024-10` 🗓️ [Bender 2: Bend Harder](https://play.date/games/bender-2-bend-harder/) released
 - `2024-10` ‼️ Faced a targeted harassment campaign owned by another Playdate developer
 - `2024-10` 💤 I withdraw from Playdate development because of this, pending its resolution
