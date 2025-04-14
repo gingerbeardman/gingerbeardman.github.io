@@ -175,6 +175,8 @@ I always say that nothing is ever wasted in game dev, but there's no denying I h
 
 My main takeaway is that the Playdate community and ecosystem is just like any other, flaws and all.
 
+Problems cannot be wished away. They require action, however uncomfortable that may be.
+
 No matter what, seeing [YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/) listed among the "Best Games of 2023"—alongside Super Mario Wonder and The Legend of Zelda: Tears of the Kingdom—is an honour that will stay with me forever.
 
 Be excellent to each other. And have fun.
