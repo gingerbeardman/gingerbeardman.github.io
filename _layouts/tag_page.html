@@ -13,15 +13,17 @@ layout: default
 
   <div class='o-grid'>
     {% for post in site.tags[page.tag] %}
-      {% include_cached post-card.html
-        pdate=post.date
-        pfeatured=post.featured
-        ppinned=post.pinned
-        precap=post.recap
-        ptags=post.tags
-        ptitle=post.title
-        purl=post.url
-        sbaseurl=site.baseurl %}
+      {% if post.published != 'private' %}
+        {% include_cached post-card.html
+          pdate=post.date
+          pfeatured=post.featured
+          ppinned=post.pinned
+          precap=post.recap
+          ptags=post.tags
+          ptitle=post.title
+          purl=post.url
+          sbaseurl=site.baseurl %}
+      {% endif %}
     {% endfor %}
   </div>
 

@@ -77,7 +77,7 @@ You can set the `title`, and the following optional fields `tags`, `nouns`, post
 
 - Excerpt display is currently disabled on postcards, but an excerpt_separator can be defined.
 
-- Posts can be marked as `published: private`, so they can be seen by anybody with the URL but are excluded from listings, sitemap, RSS feed.
+- Posts can be marked as `published: private`, so they can be seen by anybody with the URL but are excluded from listings, RSS feed. Also use `sitemap: false` to hide from sitemap.
 
 ## Images
 

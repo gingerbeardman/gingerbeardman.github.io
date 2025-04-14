@@ -1,4 +1,4 @@
-{% if page.previous.url %}
+{% if page.previous.url and page.previous.published != 'private' %}
   <div class='o-grid__col o-grid__col--1-2-s prevnext'>
     <a class='c-pagination' href='{{page.previous.url}}'>
       <div class='c-pagination__icon c-pagination__icon--prev' data-icon='ei-chevron-left'></div>
@@ -8,7 +8,7 @@
   </div>
 {% endif %}
 
-{% if page.next.url %}
+{% if page.next.url and page.next.published != 'private' %}
   <div class='o-grid__col o-grid__col--end o-grid__col--1-2-s prevnext u-text-right'>
     <a class='c-pagination' href='{{page.next.url}}'>
       <span class='c-pagination__text c-pagination__text--next'>Next Post</span>
