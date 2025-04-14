@@ -181,4 +181,4 @@ Be excellent to each other. And have fun.
 
 ----
 
-Thanks to JM, MR, SC and CS for feedback on this post ahead of publication.
+Thanks to JM, PP, MR and SC for feedback on this post ahead of publication.
