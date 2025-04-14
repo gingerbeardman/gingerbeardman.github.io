@@ -112,7 +112,7 @@ If you're interested in how and when things happened:
 - `2019-07` 🍒 Granted access to Panic/Playdate Slack channel and Playdate SDK
 - `2019-07` 🎴 Junior Hanafuda in the running for Playdate Season 1 (with [Louie Mantia](https://lmnt.me))
 
-- `2020-03` 🍒 Receive pre-release Playdate hardware
+- `2020-03` 🍒 Received pre-release Playdate hardware
 - `2020-03` 🦠 COVID-19 takes over the world and gives me a ton of free time
 - `2020-03` 💬 Official, private Playdate Discord server begins
 - `2020-04` 🚙 I begin development of prototypes, including [Daily Driver](/tag/dailydriver/)
