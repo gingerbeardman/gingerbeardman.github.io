@@ -119,7 +119,7 @@ If you're interested in how and when things happened:
 - `2020-05` 💬 [Playdate Dev Forum](https://devforum.play.date) opens
 - `2020-05` 💬 [Playdate Developer Preview](https://play.date/update-oct/) hardware access begins
 - `2020-07` 💬 [Playdate Squad Discord](https://www.reddit.com/r/PlaydateConsole/comments/hkjbjt/) server started
-- `2020-11` ‼️ A dev in Playdate Season 1 was planning to make a game like Daily Driver
+- `2020-11` 👀 A dev in Playdate Season 1 reveals they were making a game like Daily Driver
 - `2020-11` 💤 I take 6 months away from Playdate development because of this
 
 - `2021-05` 🤕 I resume Playdate development
