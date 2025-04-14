@@ -136,7 +136,7 @@ If you're interested in how and when things happened:
 
 - `2023-03` 🤕 I resume Playdate development
 - `2023-03` 📦 [Playdate Catalog opens](https://news.play.date/news/catalog-is-out/)
-- `2023-08` 🗓️ [YOYOZO](https://play.date/games/yoyozo/) released
+- `2023-11` 🗓️ [YOYOZO](https://play.date/games/yoyozo/) released
 - `2023-12` 🏆 [YOYOZO named one of the "Best Games of 2023" by Ars Technica](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
 
 - `2024-01` 💤 I take 3 months away from Playdate development for health reasons
