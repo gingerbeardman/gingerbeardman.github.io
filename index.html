@@ -7,7 +7,7 @@ layout: default
     {% if page.url == "/" %}
       {% for post in site.posts %}
         {% if post.pinned == true %}
-          {% if post.published != 'private' %}
+          {% if post.published != 'private' or jekyll.environment != 'production' %}
             {% include_cached post-card.html
                 pcontent=post.content
                 pdate=post.date
@@ -26,7 +26,7 @@ layout: default
 
     {% for post in paginator.posts %}
       {% unless post.pinned %}
-        {% if post.published != 'private' %}
+        {% if post.published != 'private' or jekyll.environment != 'production' %}
           {% include_cached post-card.html
               pcontent=post.content
               pdate=post.date

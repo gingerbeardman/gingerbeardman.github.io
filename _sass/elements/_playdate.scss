@@ -55,12 +55,12 @@ body.playdate {
   }
 
   blockquote {
-    color: colors.$color-darker;
-    border-color: colors.$color-darker;
+    color: colors.$playdate-color-darker;
+    border-color: colors.$playdate-color-darker;
   }
 
   .tablesorter-default th, .tablesorter-default td {
-    border-color: colors.$color-darker;
+    border-color: colors.$playdate-color-darker;
   }
   
   hr {
