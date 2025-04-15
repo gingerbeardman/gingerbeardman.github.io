@@ -20,6 +20,7 @@ nouns:
 - See the Sky
 - Kye
 - Strategies
+- Circular
 - Audition
 - DateDiff
 - Fonts
