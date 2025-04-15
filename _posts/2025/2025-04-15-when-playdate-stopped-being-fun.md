@@ -40,6 +40,7 @@ nouns:
 - Koatari
 - Mole Hole
 - Aero Club
+- Mode 7
 - Pilotwings
 - Dream Ride
 - Ars Technica
@@ -74,7 +75,7 @@ Be excellent to each other. And have fun.
 - `2023-07` [Mandala](https://github.com/gingerbeardman/mandala)
 - `2023-08` [Strategies](https://gingerbeardman.itch.io/strategies)
 - `2023-08` [DateDiff](https://gingerbeardman.itch.io/datediff)
-- `2023-08` [YOYOZO](https://play.date/games/yoyozo/) ("Best Games of 2023", [Ars Technica](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/))
+- `2023-08` [YOYOZO](https://play.date/games/yoyozo/) ("Best Games of 2023", [Ars Technica](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7))
 - `2023-10` [Kye](https://mouflon-cloud.itch.io/kye) (with [Jan Martinek](https://mouflon-cloud.itch.io))
 - `2023-10` [Super ICARUS](https://play.date/games/icarus/)
 - `2023-12` [Fore! Track](https://play.date/games/fore-track/)
@@ -90,7 +91,7 @@ Be excellent to each other. And have fun.
 
 ## Postponed Projects
 
-- **Aero Club** — Flight school simulation inspired by "Mode 7" and Pilotwings
+- **Aero Club** — Flight school simulation inspired by Mode 7 and Pilotwings
 - **Beatnik** — Rhythm game with interactive music and dynamic visuals
 - **Cosmic Trash** — Arcade action puzzle with realtime ray-traced graphics
 - **Daily Driver** — 60fps arcade racing with pre-rendered graphics (reborn as [Dream Ride](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/))
@@ -104,11 +105,11 @@ Be excellent to each other. And have fun.
 
 ## Notes
 
-- **Daily Driver** won “Outstanding Technical Achievement (SDK)” at the 2022 Community Awards
-- **YOYOZO** won “Best Arcade Game” at the 2023 Community Awards
-- **Sparrow Solitaire** won “Best Puzzle Game” at the 2023 Community Awards
-- **YOYOZO** was named one of the “Best Games of 2023” by Ars Technica
-- **Bender 2: Bend Harder** was nominated for “Best Arcade Game” in the 2024 Community Awards
+- **Daily Driver** won “Outstanding Technical Achievement (SDK)” at the[ 2022 Community Awards](https://playdate-wiki.com/wiki/The_2022_Playdate_Community_Awards)
+- **YOYOZO** won “Best Arcade Game” at the [2023 Community Awards](https://playdate-wiki.com/wiki/The_2023_Playdate_Community_Awards)
+- **Sparrow Solitaire** won “Best Puzzle Game” at the [2023 Community Awards](https://playdate-wiki.com/wiki/The_2023_Playdate_Community_Awards)
+- **YOYOZO** was named one of the “Best Games of 2023” by [Ars Technica](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7)
+- **Bender 2: Bend Harder** was nominated for “Best Arcade Game” at the [2024 Community Awards](https://playdate-wiki.com/wiki/The_2024_Playdate_Community_Awards)
 
 <br>
 *Thanks to JM, JS, MR, PP, SC for feedback on this post ahead of publication.*
