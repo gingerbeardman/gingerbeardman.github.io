@@ -106,8 +106,8 @@ Be excellent to each other. And have fun.
 ## Notes
 
 - **Daily Driver** won “Outstanding Technical Achievement (SDK)” at the[ 2022 Community Awards](https://playdate-wiki.com/wiki/The_2022_Playdate_Community_Awards)
-- **YOYOZO** won “Best Arcade Game” at the [2023 Community Awards](https://playdate-wiki.com/wiki/The_2023_Playdate_Community_Awards)
 - **Sparrow Solitaire** won “Best Puzzle Game” at the [2023 Community Awards](https://playdate-wiki.com/wiki/The_2023_Playdate_Community_Awards)
+- **YOYOZO** won “Best Arcade Game” at the [2023 Community Awards](https://playdate-wiki.com/wiki/The_2023_Playdate_Community_Awards)
 - **YOYOZO** was named one of the “Best Games of 2023” by [Ars Technica](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7)
 - **Bender 2: Bend Harder** was nominated for “Best Arcade Game” at the [2024 Community Awards](https://playdate-wiki.com/wiki/The_2024_Playdate_Community_Awards)
 
