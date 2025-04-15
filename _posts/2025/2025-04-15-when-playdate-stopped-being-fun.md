@@ -59,6 +59,7 @@ nouns:
 - Aero Club
 - Super Mario Wonder
 - 'The Legend of Zelda: Tears of the Kingdom'
+- 'Baldur’s Gate 3'
 - Pilotwings
 - Dream Ride
 - SNES
@@ -101,7 +102,7 @@ Over the years I remained busy, and had a lot of fun cranking out release after 
 - `2023-07` [Mandala](https://github.com/gingerbeardman/mandala)
 - `2023-08` [Strategies](https://gingerbeardman.itch.io/strategies)
 - `2023-08` [DateDiff](https://gingerbeardman.itch.io/datediff)
-- `2023-08` [YOYOZO](https://play.date/games/yoyozo/)
+- `2023-08` [YOYOZO](https://play.date/games/yoyozo/) "Best Games of 2023"
 - `2023-10` [Kye](https://mouflon-cloud.itch.io/kye) (with [Jan Martinek](https://mouflon-cloud.itch.io))
 - `2023-10` [Super ICARUS](https://play.date/games/icarus/)
 - `2023-12` [Fore! Track](https://play.date/games/fore-track/)
@@ -136,7 +137,7 @@ If you're interested in how and when things happened:
 - `2020-05` 💬 [Playdate Dev Forum](https://devforum.play.date) opens
 - `2020-05` 💬 [Playdate Developer Preview](https://play.date/update-oct/) hardware access begins
 - `2020-07` 💬 [Playdate Squad Discord](https://www.reddit.com/r/PlaydateConsole/comments/hkjbjt/) server started
-- `2020-11` 🤦‍♂️ A dev in Playdate Season 1 reveals they were making a game like Daily Driver
+- `2020-11` 🤬 A Playdate Season 1 dev reveals they were making a game inspired by Daily Driver
 - `2020-11` 💤 I take 6 months away from Playdate development because of this
 
 [expand]
@@ -148,11 +149,11 @@ If you're interested in how and when things happened:
 - `2021-05` 🤕 I resume Playdate development
 - `2021-07` 📦 [Playdate pre-orders begin](https://twitter.com/playdate/status/1418254540042764293)
 - `2021-08` 🚙 [Daily Driver teaser artwork](/2021/08/23/daily-driver-teaser-artwork/) revealed
-- `2021-08` 🤦‍♂️ A developer expresses their intent to imitate my teaser artwork style
+- `2021-08` 🤬 A developer expresses their intent to imitate my teaser artwork style
 
 [expand]
 
-> By 2021 it's still uncertain when Playdate will release, and if or how Daily Driver will release. I continue working on it and doing more prototypes on the side. I start to think about self-releasing Daily Driver and prototype a physical release in a MiniDisc jewel case with custom artwork and an SD card containing the game and a small manual. I commissioned artist Vxcl to render clay-style artwork inspired by the hand-made artwork on vintage Japanese game and computer magazines. Moments after I announce my teaser art style—at this point quite unique in the gaming sphere and totally unique in the Playdate scene—a developer tells me that they're intending to use that style for their Playdate game. Again, it seems a little bit too close to home to do the same as another developer in such a small scene. Thankfully never followed through with this intention.
+> By 2021 it's still uncertain when Playdate will release, and if or how Daily Driver will release. I continue working on it and doing more prototypes on the side. I start to think about self-releasing Daily Driver and prototype a physical release in a MiniDisc jewel case with custom artwork and an SD card containing the game and a small manual. I commissioned artist Vxcl to render clay-style artwork inspired by the hand-made artwork on vintage Japanese game and computer magazines. Moments after I announce [my teaser art style](/2021/08/23/daily-driver-teaser-artwork/)—at this point uncommon in the gaming sphere and unique in the Playdate scene—a developer tells me that they're intending to use that style for their Playdate game. Again, it seems a little bit too close to home to do the same as another developer in such a small scene. Thankfully never followed through with this intention.
 
 [/expand]
 
@@ -183,7 +184,7 @@ If you're interested in how and when things happened:
 - `2024-03` 📝 [22 projects for Playdate in a year](/2024/03/07/a-year-in-the-life-of-a-playdate-game-developer/) blog post
 - `2024-03` 🏆 [Sparrow Solitaire](https://play.date/games/sparrow-solitaire) and [YOYOZO](https://play.date/games/yoyozo/) win at [Community Awards](https://playdate-wiki.com/wiki/The_2023_Playdate_Community_Awards)
 - `2024-03` 🤕 I resume Playdate development
-- `2024-09` 🤦‍♂️ Learned another developer intentionally imitated my teaser artwork style
+- `2024-09` 🤬 Learned another developer intentionally imitated my teaser artwork style
 - `2024-10` 🗓️ [Bender 2: Bend Harder](https://play.date/games/bender-2-bend-harder/) released
 - `2024-10` ‼️ Faced a targeted harassment campaign owned by another Playdate developer
 - `2024-10` 💤 I withdraw from Playdate development because of this, pending its resolution
@@ -191,7 +192,7 @@ If you're interested in how and when things happened:
 
 [expand]
 
-> I'm not sure how you follow up a GOTY accolade, so I decided to just take it easy and see what came of it. It was nice to win some community awards, and although none of my games were selected for Season 2, I continued development of both old and new projects. I was shaken by developers continuing to imitate my vibe rather than coming up with one of their own. To scratch an itch I spent couple of weeks making a new version of one of my oldest games, Bender, eventually calling it Bender 2: Bend Harder. It was an expanded version of a concept I had made for the web back in 2012, itself based on a piece of artwork from the 2011 Famicase exhibition, with permission. I've always been open about my inspiration and sources and wrote a full history of Bender from 2012 to 2024 in a blog post and in the game manual.<br><br>Upon release the first message I received was from another developer who said (I'm paraphrasing) "I think this is based on an existing robot copyright; you might want change it, or watch out". Given that there are no robots in the game, and only implied in the story and teaser artwork, I thought this was a joke (I'm not great at subtlety). So, I went along with what I thought was a joke replying something vaguely affirmative. As this person went up a gear and became more intense I realised they were actually serious, so deleted my comment. Sadly, this person did not drop the issue and instead hounded and harassed me and eventually, apparently accidentally, recruited some people from outside the community to harass me. I know this because the person was happy to own and admit to the events.<br><br>At this point I felt quite unsafe so withdrew from all Playdate related socials and filed complaints with both Playdate Squad moderators and also with Panic/Playdate management. Surprisingly, even with written ownership/evidence, Playdate Squad mods decided that there was nothing to do. Panic acknowledged the issue, but I never heard anything more from them about it.<br><br>My issue is not with the how and why the harassment happened, I feel there is no place for harassment under any circumstances. But rather that it happened at all, and was subsequently decided not worth worrying about. The response I was hoping for was, without naming and shaming, letting the community know that a case of harassment had happened and that it is not acceptable. Which is basically why I'm writing this blog post 6 months after the fact.
+> I'm not sure how you follow up a GOTY accolade, so I decided to just take it easy and see what came of it. It was nice to win some community awards, and although none of my games were selected for Season 2, I continued development of both old and new projects. I was shaken by developers continuing to imitate my vibe rather than coming up with one of their own. To scratch an itch I spent couple of weeks making a new version of one of my oldest games, Bender, eventually calling it Bender 2: Bend Harder. It was an expanded version of a concept I had made for the web back in 2012, itself based on a piece of artwork from the 2011 Famicase exhibition, with permission. I've always been open about my inspiration and sources and wrote a full history of Bender from 2012 to 2024 in a [blog post](/2024/10/08/bender-2-bend-harder-for-playdate/) and in the game manual.<br><br>Upon release the first message I received was from another developer who said (I'm paraphrasing) "I think this is based on an existing robot copyright; you might want change it, or watch out". Given that there are no robots in the game, and only implied in the story and teaser artwork, I thought this was a joke (I'm not great at subtlety). So, I went along with what I thought was a joke replying something vaguely affirmative. As this person went up a gear and became more intense I realised they were actually serious, so deleted my comment. Sadly, this person did not drop the issue and instead hounded and harassed me and eventually, apparently accidentally, recruited some people from outside the community to harass me. I know this because the person was happy to own and admit to the events.<br><br>At this point I felt quite unsafe so withdrew from all Playdate related socials and filed complaints with both Playdate Squad moderators and also with Panic/Playdate management. Surprisingly, even with written ownership/evidence, Playdate Squad mods decided that there was nothing to do. Panic acknowledged the issue, but I never heard anything more from them about it.<br><br>My issue is not with the how and why the harassment happened, I feel there is no place for harassment under any circumstances. But rather that it happened at all, and was subsequently decided not worth worrying about. The response I was hoping for was, without naming and shaming, letting the community know that a case of harassment had happened and that it is not acceptable. Which is basically why I'm writing this blog post 6 months after the fact.
 
 [/expand]
 
@@ -221,7 +222,7 @@ I always say that nothing is ever wasted in game dev, but there's no denying I h
 
 My main takeaway is that the Playdate community and ecosystem is just like any other, flaws and all.
 
-Problems cannot be wished away. They require action, however uncomfortable that may be. Sweeping things under the rug, putting your fingers in your ears, or your head in the sand—or any other analogy about avoidance—don't make the problem go away but rather they let it sit in the dark and grow.
+Problems cannot be wished away. They require action, however uncomfortable that may be. Sweeping things under the rug, putting your fingers in your ears, or your head in the sand—or any other analogy about avoidance—doesn't make the problem go away but rather allows it to fester.
 
 No matter what, seeing [YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/) listed among the "Best Games of 2023"—alongside Super Mario Wonder and The Legend of Zelda: Tears of the Kingdom—is an honour that will stay with me forever.
 
