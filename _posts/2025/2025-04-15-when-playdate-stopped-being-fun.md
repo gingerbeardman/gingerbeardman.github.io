@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When Playdate Stopped Being Fun"
-date: '2025-04-15T20:03+01:00'
+date: '2025-04-15T22:00+01:00'
 tags:
 - playdate
 - timeline
@@ -44,10 +44,8 @@ nouns:
 - Pilotwings
 - Dream Ride
 - Ars Technica
-image: /images/posts/molehole.png
 featured: false
 pinned: false
-published: private
 
 ---
 
