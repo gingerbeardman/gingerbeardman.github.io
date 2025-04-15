@@ -79,7 +79,7 @@ Be excellent to each other. And have fun.
 - `2023-10` [Super ICARUS](https://play.date/games/icarus/)
 - `2023-12` [Fore! Track](https://play.date/games/fore-track/)
 - `2023-12` [See the Sky](https://gingerbeardman.itch.io/see-the-sky) (with [Thoru Yamamoto](https://twitter.com/thoruman))
-- `2024-05` [Rorschach](https://gingerbeardman.itch.io/rorschach) (with mouse control)
+- `2024-05` [Rorschach](https://gingerbeardman.itch.io/rorschach) (featuring mouse control)
 - `2024-10` [Bender 2: Bend Harder](https://play.date/games/bender-2-bend-harder/)
 - `2025-03` [Shark Turtle](https://gingerbeardman.itch.io/shark-turtle), originally created `2023-06`
 
