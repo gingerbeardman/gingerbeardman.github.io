@@ -80,9 +80,11 @@ published: private
 
 I've been asked a bunch of times recently why I'm no longer actively developing for [Playdate](https://play.date) (a unique handheld console with crank control and 1-bit display). It's an understandable question because it must seem odd that somebody who was perhaps the most prolific developer on the platform, most likely the only full-time developer on the platform, and who lived and breathed it for almost 6 years could suddenly stop doing so.
 
-My journey with Playdate began with excitement and innovation, leading to numerous released games and recognition within the community and wider industry. The process of creating games for Playdate was incredibly rewarding, with many high points, including award-winning projects and creative breakthroughs. Unfortunately, I also faced challenging interactions with other developers and a lack of support from key members of the community, which took away from that enjoyment. This culminated in a campaign of targeted harassment. I reached out to Panic leadership and whilst they acknowledged the issue there has been no further follow-up. These events have ultimately led me to step away from the scene and channel my passion into other platforms.
+My journey with Playdate began with excitement and innovation, leading to numerous released games and recognition within the community and wider industry. The process of creating games for Playdate was incredibly rewarding, with many high points, including award-winning projects and creative breakthroughs. 
 
-This post is purely to get what happened out in the open, and I've gone out of my way to not to name or shame any person or game. If you do manage to figure out who is who or what game is which in this story—well done!—but please don't harass anybody. It sucks, that's the point.
+Unfortunately, I also faced challenging interactions with other developers and a lack of support from key members of the community, which took away from that enjoyment. This culminated in a campaign of targeted harassment. I reached out to Panic leadership and whilst they acknowledged the issue there has been no further follow-up. These events have ultimately led me to step away from the scene and channel my passion into other platforms.
+
+This post is purely to get what happened out in the open, and I've gone out of my way to withhold the name of any person or game. If you do manage to figure out who is who or which game is which in this story—well done!—but please don't harass anybody. It sucks, that's the point.
 
 ----
 
@@ -186,7 +188,7 @@ If you're interested in how and when things happened:
 - `2024-03` 🤕 I resume Playdate development
 - `2024-09` 🤬 Learned another developer intentionally imitated my teaser artwork style
 - `2024-10` 🗓️ [Bender 2: Bend Harder](https://play.date/games/bender-2-bend-harder/) released
-- `2024-10` ‼️ Faced a targeted harassment campaign owned by another Playdate developer
+- `2024-10` ‼️ Faced a targeted harassment campaign at the hands of another Playdate developer
 - `2024-10` 💤 I withdraw from Playdate development because of this, pending its resolution
 - `2024-12` 😕 No updates from Panic or Community Mods regarding harassment
 
@@ -204,12 +206,12 @@ If you're interested in how and when things happened:
 
 ## Postponed Projects
 
-I always say that nothing is ever wasted in game dev, but there's no denying I had *works in progress*:
+I always say that nothing is ever wasted in game dev, but there's no denying I had *works* in progress:
 
 - Aero Club — flight school simulation inspired by "Mode 7" and Pilotwings on SNES
 - Beatnik — rhythm game with innovative interactive music and dynamic beat-responsive visuals
-- Cosmic Trash — arcade action puzzle with realtime ray-traced graphics—yes, really!
-- Daily Driver — arcade racing with pre-rendered graphics running at 60fps (reborn as [Dream Ride](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/))
+- Cosmic Trash — arcade action puzzle with realtime ray-traced graphics, yes, really!
+- Daily Driver — 60fps arcade racing with pre-rendered graphics (reborn as [Dream Ride](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/))
 - Koatari — 100fps arcade game "pachinko with power-ups" and innovative pinball-inspired visuals
 - Mole Hole — modern version of a pseudo-escape-room maze experience by Thoru Yamamoto
 
@@ -222,7 +224,7 @@ I always say that nothing is ever wasted in game dev, but there's no denying I h
 
 My main takeaway is that the Playdate community and ecosystem is just like any other, flaws and all.
 
-Problems cannot be wished away. They require action, however uncomfortable that may be. Sweeping things under the rug, putting your fingers in your ears, or your head in the sand—or any other analogy about avoidance—doesn't make the problem go away, but rather allows it to fester.
+Problems cannot be wished away. They require action, however uncomfortable that may be. Sweeping things under the rug, putting your fingers in your ears, or your head in the sand—or any other analogy about avoidance—doesn't make the problem go away but rather allows it to fester.
 
 No matter what, seeing [YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/) listed among the "Best Games of 2023"—alongside Super Mario Wonder and The Legend of Zelda: Tears of the Kingdom—is an honour that will stay with me forever.
 
