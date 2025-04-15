@@ -54,7 +54,7 @@ For almost six years, [Playdate](https://play.date) (a little handheld gaming de
 
 But over time, that feeling changed. After a difficult situation in October 2024 involving targeted harassment, and no meaningful follow-up from [Panic](https://www.panic.com) or community moderators, I started to feel disconnected from the scene. I gave it time, hoped things might shift, but ultimately the silence made it hard to keep building with the same heart.
 
-So, I’m stepping back. Not permanently, not dramatically—just with clarity. Right now, this isn’t the environment I can thrive in. If that changes, I’d be happy to return. For now, I want to leave a record of what I made. I’m proud of all of it.
+So, I’m stepping back. Not permanently, not dramatically—just with clarity. Right now, this isn’t the environment I can thrive in. If that changes, I’d be happy to return. For now, I want to leave a record of what I made. I’m proud of all of it. I'll continue as a full-time indie developer, but in another castle.
 
 Be excellent to each other. And have fun.
 
