@@ -8,18 +8,8 @@ tags:
 - gamedev
 nouns:
 - Piskel for Playdate
-- Playdate Developer Preview
-- Playdate Dev Forum
-- Playdate Squad
-- Playdate SDK
 - Playdate
-- Discord
-- Slack
-- Panic/Playdate
 - Panic
-- Developer Preview
-- EDGE magazine
-- EDGE
 - Daily Driver
 - ST-DIN
 - Supermini
@@ -37,19 +27,12 @@ nouns:
 - Horse Race
 - Today
 - Prototypes
-- Aquaplus P/ECE
 - 'Bender 2: Bend Harder'
 - Bender 2
 - Bender
 - Season 2
 - Season 1
 - Community Awards
-- Community Mods
-- Community
-- Panic
-- Game Republic
-- Junior Hanafuda
-- Hanafuda
 - Shark Turtle
 - Rorschach
 - Beatnik
@@ -57,20 +40,9 @@ nouns:
 - Koatari
 - Mole Hole
 - Aero Club
-- Super Mario Wonder
-- 'The Legend of Zelda: Tears of the Kingdom'
-- 'Baldur’s Gate 3'
 - Pilotwings
 - Dream Ride
-- SNES
-- COVID-19
-- Lua
-- PICO8
-- MiniDisc
-- Oom
-- Faraway Fairway
-- Sound Mind
-- Famicase
+- Ars Technica
 image: /images/posts/molehole.png
 featured: false
 pinned: false
@@ -78,9 +50,9 @@ published: private
 
 ---
 
-For almost six years, [Playdate](https://play.date) (a quirky little handheld gaming device with a crank input mechanism and 1-bit screen) was a space where I did some of my most creative and personal work. I embraced its quirks, shipped over twenty releases, and explored what a tiny, constrained device could do. It brought me joy, challenge, and a sense of purpose.
+For almost six years, [Playdate](https://play.date) (a little handheld gaming device with a crank input and 1-bit screen) was a space where I did some of my most creative and personal work. I embraced its quirks, shipped over twenty releases, and explored what a tiny, constrained device could do. It brought me joy, challenge, and a sense of purpose.
 
-But over time, that feeling changed. After a difficult situation involving targeted harassment, and no meaningful follow-up from Panic or community moderators, I started to feel disconnected from the scene. I gave it time, hoped things might shift, but ultimately the silence made it hard to keep building with the same heart.
+But over time, that feeling changed. After a difficult situation involving targeted harassment, and no meaningful follow-up from [Panic](https://www.panic.com) or community moderators, I started to feel disconnected from the scene. I gave it time, hoped things might shift, but ultimately the silence made it hard to keep building with the same heart.
 
 So, I’m stepping back. Not permanently, not dramatically—just with clarity. Right now, this isn’t the environment I can thrive in. If that changes, I’d be happy to return. For now, I want to leave a record of what I made. I’m proud of all of it.
 
@@ -125,19 +97,18 @@ Be excellent to each other. And have fun.
 - **Koatari** — Pachinko-style arcade game with pinball-inspired visuals running upto 100fps
 - **Mole Hole** — A modern remake of Thoru Yamamoto's escape-maze concept
 
-![IMG](/images/posts/molehole.gif#playdate "Mole Hole (2023, originally 1995/7)")
+![IMG](/images/posts/molehole.gif#playdate "Mole Hole (2023, originally 1995)")
 {:.tofigure}
 
 ----
 
 ## Notes
 
-- *Daily Driver* won “Outstanding Technical Achievement (SDK)” at the 2022 Community Awards
-- *YOYOZO* won “Best Arcade Game” at the 2023 Community Awards
-- *Sparrow Solitaire* won “Best Puzzle Game” at the 2023 Community Awards
-- *YOYOZO* was named one of Ars Technica’s “Best Games of 2023”
-- *Bender 2: Bend Harder* was nominated for “Best Arcade Game” in the 2024 Community Awards
+- **Daily Driver** won “Outstanding Technical Achievement (SDK)” at the 2022 Community Awards
+- **YOYOZO** won “Best Arcade Game” at the 2023 Community Awards
+- **Sparrow Solitaire** won “Best Puzzle Game” at the 2023 Community Awards
+- **YOYOZO** was named one of the “Best Games of 2023” by Ars Technica
+- **Bender 2: Bend Harder** was nominated for “Best Arcade Game” in the 2024 Community Awards
 
-----
-
+<br>
 *Thanks to JM, PP, JS, MR, SC for feedback on this post ahead of publication.*
