@@ -2,7 +2,7 @@
 layout: post
 title: "Amazfit activity tracker and watch face asset generation"
 date: '2025-04-11T23:05+01:00'
-last_modified_at: '2025-04-12T15:58+01:00'
+last_modified_at: '2025-04-16T09:18+01:00'
 tags:
 - amazfit
 - hacking
