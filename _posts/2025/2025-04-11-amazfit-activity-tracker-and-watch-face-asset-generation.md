@@ -65,7 +65,7 @@ The web app tool is at [gingerbeardman.com/amazfit/](https://www.gingerbeardman.
 
 This is the first face I created using the tool: DIN. I'm generating images of numbers, and a few other things, in a few different sizes and two colours. The darker text might look too dark on your display, but on the OLED display of the device it's plenty bright enough for secondary information. I used a [Windows tool](https://amazfitwatchfaces.com/forum/viewtopic.php?t=2743) to lay things out and generate the package, and [installed it locally](https://amazfitwatchfaces.com/forum/viewtopic.php?t=3873) in developer mode on my device.
 
-You can install [the watch face](https://amazfitwatchfaces.com/amazfit-band/view/353) using the [AmazFaces app](https://amazfitwatchfaces.com/awapp) on iOS or Android. It's also available on the official watch face store in the Zepp app.
+You can install [the watch face](https://amazfitwatchfaces.com/amazfit-band/view/353) using the [AmazFaces app](https://amazfitwatchfaces.com/awapp) on iOS or Android. It's also available on the official watch face store in the [Zepp app](https://apps.apple.com/gb/app/zepp/id1127269366).
 
 ![IMG](/images/posts/amazfit-band-7-din.png "DIN looks super on OLED!")
 {:.tofigure}
