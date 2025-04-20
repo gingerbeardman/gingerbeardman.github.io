@@ -134,7 +134,7 @@ But the bigger question is do I want it to be bigger than that? There are no sho
 
 ## Launched!
 
-My version of Ball und Panzer Golf was renamed Fore! Track and is available for Playdate via Catalog [play.date/games/fore-track/](https://play.date/games/fore-track/) or on [itch where there's a free demo a bargain offline version](https://gingerbeardman.itch.io/fore-track).
+My version of Ball und Panzer Golf was renamed Fore! Track and is available for Playdate via Catalog [play.date/games/fore-track/](https://play.date/games/fore-track/) or on [itch where there's a bargain offline version](https://gingerbeardman.itch.io/fore-track).
 
 ![GIF](/images/posts/ball-und-panzer-golf-fore-track.gif#playdate "Demonstration of the launch version of <em>Fore! Track</em>")
 {:.tofigure}
