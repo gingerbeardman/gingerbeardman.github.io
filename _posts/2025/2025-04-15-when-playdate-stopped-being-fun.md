@@ -52,7 +52,7 @@ pinned: false
 
 For almost six years, [Playdate](https://play.date) (a little handheld gaming device with a crank input and 1-bit screen) was a space where I did some of my most creative and personal work. I embraced its quirks, shipped over twenty releases, and explored what a tiny, constrained device could do. It brought me joy, challenge, and a sense of purpose.
 
-But over time, that feeling changed. Following a difficult incident in October 2024 involving targeted harassment—acknowledged by the person responsible but met with no meaningful response from [Panic](https://www.panic.com) or the community moderators—I began to feel increasingly disconnected from the scene. I gave it time, hoped things might shift, but ultimately the silence made it hard to keep building with the same heart.
+But over time, that feeling changed. Following a difficult incident in October 2024 involving targeted harassment—admitted to by the person responsible but met with no meaningful response from [Panic](https://www.panic.com) or the community moderators—I began to feel increasingly disconnected from the scene. I gave it time, hoped things might shift, but ultimately the silence made it hard to keep building with the same heart.
 
 So, I’m stepping back. Not permanently, not dramatically—just with clarity. Right now, this isn’t the environment I can thrive in. If that changes, I’d be happy to return. For now, I want to leave a record of what I made. I’m proud of all of it. I'll continue as a full-time indie developer, but in another castle.
 
