@@ -31,9 +31,9 @@ This one is a prototype for a "firework builder" puzzle game. I was calling it H
 
 It's a visual programming-based puzzle video game along the lines of [Human Resource Machine](https://en.wikipedia.org/wiki/Human_Resource_Machine) and influenced by block-based visual programming language [Scratch](https://en.wikipedia.org/wiki/Scratch_(programming_language)).
 
-I submitted it to the Draknek New Voices Puzzle Grant 2024, but was not selected. At the time of submission the core game logic had been proven, with a dozen or so block types supported, and I was learning how to program shaders as I had a very specific way I wanted to present the final firework animation. You can see the paper texture that I was generating using a shader in the video below. I had a dozen or so puzzles designed and sketched out, including a heart shape which takes some thinking and combining of logic blocks to achieve!
+I submitted it to the Draknek New Voices Puzzle Grant 2024, but was not selected. At the time of submission the core game logic had been proven, with a dozen or so block types supported, and I was learning how to program shaders as I had a very specific way I wanted to present the final firework animation. You can see the paper texture that I was generating using a shader in the video below. I had a dozen or so puzzles designed, including a heart shape which takes some thinking and combining of logic blocks to achieve!
 
-Whilst the prototype was an iOS app—mostly to benefit from rapid prototyping using SwiftUI and for the touch control and easy list management you get for free—the final game could have been on any platform. The challenge would be user interface, followed by puzzles and visual design.
+Whilst the prototype was an iOS app—mostly to benefit from rapid prototyping using SwiftUI and to get touch control and easy list management for free—the final game could have been on any platform. The challenge would be user interface, followed by puzzles and visual design.
 
 I gave up on the idea for a number of reasons, including but not limited to [harassment](/2025/04/15/when-playdate-stopped-being-fun/).
 
@@ -41,6 +41,6 @@ I gave up on the idea for a number of reasons, including but not limited to [har
 
 ## Video Demonstration
 
-Below is the video I submitted with my entry, dated 2024-10-07. I narrate and run through the concept of the app, complete some example puzzles, and talk about the "woodblock print" style of fireworks I was planning to implement.
+Below is the video I submitted with my entry, dated 2024-10-07. I narrate and run through the concept, complete example puzzles, and talk about the "woodblock print" style of fireworks I was planning and in the process of implementing.
 
 {% youtube APMvQ-jVTwM 1124/2436 %}
