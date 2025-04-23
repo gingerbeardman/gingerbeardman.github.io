@@ -57,7 +57,7 @@ layout: default
                 </a>{% unless forloop.last %}, {% endunless %}
               {% endfor %}
             {% else %}
-              <a href="{{ page.comments }}" target="comments">Twitter</a>
+              <a href="{{ page.comments }}" target="comments">@{{ site.twitter.username }}</a>
             {% endif %}
           </div>
         {% endif %}      </article>
