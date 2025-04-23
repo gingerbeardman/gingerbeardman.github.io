@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UltraPaint Manual
-last_modified_at: '2025-03-26T15:17+00:00'
+modified: '2025-03-26T15:17+00:00'
 tags:
 - history
 - manual

@@ -37,7 +37,7 @@ The following is a post file with different configurations you can add as an exa
 ---
 layout: post
 date: '2023-12-16T09:42+00:00'
-last_modified_at: '2024-06-08T00:37+01:00'
+modified: '2024-06-08T00:37+01:00'
 title: Welcome to Jekyll!
 tags: [frontpage, jekyll, blog]
 nouns: [list, keywords, for, emphasise]

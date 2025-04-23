@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Using game controllers and keyboards for custom shortcuts'
-last_modified_at: '2024-01-08T08:58+00:00'
+modified: '2024-01-08T08:58+00:00'
 date: '2023-12-23T23:06+00:00'
 tags:
 - hack

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Accessing Yahoo! Japan from Europe
-last_modified_at: '2024-05-18T22:38+01:00'
+modified: '2024-05-18T22:38+01:00'
 tags:
 - yahoo-japan
 - internet

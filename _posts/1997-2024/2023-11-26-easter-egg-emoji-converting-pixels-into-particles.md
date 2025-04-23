@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Easter egg emoji: converting pixels into particles"
-last_modified_at: '2023-12-10T00:31+00:00'
+modified: '2023-12-10T00:31+00:00'
 date: '2023-11-26T20:41+00:00'
 tags:
 - graphics

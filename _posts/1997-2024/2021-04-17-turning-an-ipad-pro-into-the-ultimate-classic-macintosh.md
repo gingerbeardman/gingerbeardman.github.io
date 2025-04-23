@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Turning an iPad Pro into the Ultimate Classic Macintosh
-last_modified_at: '2024-07-29T00:55+01:00'
+modified: '2024-07-29T00:55+01:00'
 tags:
 - system7
 - minivmac

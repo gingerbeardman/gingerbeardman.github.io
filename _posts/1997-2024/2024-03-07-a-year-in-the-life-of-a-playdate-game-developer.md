@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A year in the life of a Playdate game developer"
-last_modified_at: '2024-03-11T17:18+00:00'
+modified: '2024-03-11T17:18+00:00'
 date: '2024-03-07T19:44+00:00'
 tags:
 - playdate

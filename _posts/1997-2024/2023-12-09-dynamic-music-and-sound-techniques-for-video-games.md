@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dynamic music and sound techniques for video games"
-last_modified_at: '2024-03-02T18:09+00:00'
+modified: '2024-03-02T18:09+00:00'
 date: '2023-12-09T01:22+00:00'
 tags:
 - audio

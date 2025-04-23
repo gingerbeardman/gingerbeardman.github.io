@@ -2,7 +2,7 @@
 layout: post
 title: "When Playdate Stopped Being Fun"
 date: '2025-04-15T22:00+01:00'
-last_modified_at: '2025-04-21T04:12+01:00'
+modified: '2025-04-21T04:12+01:00'
 tags:
 - playdate
 - timeline

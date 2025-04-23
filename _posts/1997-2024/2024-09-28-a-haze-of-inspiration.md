@@ -2,7 +2,7 @@
 layout: post
 title: "A haze of inspiration"
 date: '2024-09-28T18:46+01:00'
-last_modified_at: '2024-10-20T15:04+01:00'
+modified: '2024-10-20T15:04+01:00'
 tags:
 - design
 - gamedev

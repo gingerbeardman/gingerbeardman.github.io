@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I'm preserving vintage Macintosh magazine media"
-last_modified_at: '2025-03-26T15:46+00:00'
+modified: '2025-03-26T15:46+00:00'
 date: '2021-10-30T12:34+00:00'
 tags:
 - macintosh

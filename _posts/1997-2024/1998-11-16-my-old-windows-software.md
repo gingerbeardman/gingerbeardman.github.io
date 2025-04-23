@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My old Windows software"
-last_modified_at: '2025-01-23T23:14+00:00'
+modified: '2025-01-23T23:14+00:00'
 date: '1998-11-16T12:00+00:00'
 tags:
 - early

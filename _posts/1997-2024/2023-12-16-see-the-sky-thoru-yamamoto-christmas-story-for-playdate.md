@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "See the sky: Thoru Yamamoto's Christmas story, for Playdate"
-last_modified_at: '2024-01-11T15:47+00:00'
+modified: '2024-01-11T15:47+00:00'
 date: '2023-12-16T00:00+00:00'
 tags:
 - hypercard

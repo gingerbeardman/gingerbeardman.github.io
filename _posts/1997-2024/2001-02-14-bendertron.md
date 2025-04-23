@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bendertron"
-last_modified_at: '2025-01-23T23:14+00:00'
+modified: '2025-01-23T23:14+00:00'
 date: '2001-02-14T14:11+00:00'
 tags:
 - gamedev

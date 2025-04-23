@@ -14,8 +14,8 @@ layout: default
           </h1>
         </a>
         <time class='c-post__date' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>
-          {{ page.last_modified_at | default: page.date | date: '%Y-%m-%d' }}
-          {% if page.last_modified_at %} &nbsp;•&nbsp; edited{% endif %}
+          {{ page.modified | default: page.date | date: '%Y-%m-%d' }}
+          {% if page.modified %} &nbsp;•&nbsp; edited{% endif %}
           &nbsp;•&nbsp; {% include_cached read-time.html pcontent=page.content %}
           {% if page.tags %}
             <span class='c-tags'>
@@ -35,9 +35,9 @@ layout: default
             {{ content }}
           {% endif %}
         </div>
-        {% if page.comments.size > 0 %}
+        {% if page.comments %}
           <div class='c-comments'>
-            {% if page.last_modified_at %}
+            {% if page.modified %}
               --<br>
               Originally published: {{ page.date | date: '%Y-%m-%d' }}
               <br>
@@ -45,10 +45,22 @@ layout: default
             --<br>
             {% include donation-prompt.html %}<br>
             --<br>
-            Comments: <a href="{{ page.comments }}" target="comments">@{{ site.twitter.username }}</a>
+            Comments: 
+            {% if page.comments.first.platform %}
+              {% for comment in page.comments %}
+                <a href="{{ comment.url }}" target="comments">
+                  {% case comment.platform %}
+                    {% when 'twitter' %}Twitter
+                    {% when 'bluesky' %}Bluesky
+                    {% when 'mastodon' %}Mastodon
+                  {% endcase %}
+                </a>{% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            {% else %}
+              <a href="{{ page.comments }}" target="comments">Twitter</a>
+            {% endif %}
           </div>
-        {% endif %}
-      </article>
+        {% endif %}      </article>
     </div>
   </div>
   <div class='o-grid'>

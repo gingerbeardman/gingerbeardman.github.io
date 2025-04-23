@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TETRIS: Heavenly Scrolls (1989)"
-last_modified_at: '2024-06-18T21:47+01:00'
+modified: '2024-06-18T21:47+01:00'
 date: '2024-06-18T15:47+01:00'
 tags:
 - tetris

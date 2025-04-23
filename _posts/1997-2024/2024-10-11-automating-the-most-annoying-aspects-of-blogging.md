@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automating the most annoying aspects of blogging
-last_modified_at: '2025-01-07T19:32+00:00'
+modified: '2025-01-07T19:32+00:00'
 date: '2024-10-11T17:42+01:00'
 tags:
 - nova

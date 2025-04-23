@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Post-processing Animated GIFs
-last_modified_at: '2023-09-24T14:37+01:00'
+modified: '2023-09-24T14:37+01:00'
 tags:
 - pico8
 - shell

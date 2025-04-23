@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ball und Panzer Golf: making a Playdate game in a week'
-last_modified_at: '2024-08-30T16:47+01:00'
+modified: '2024-08-30T16:47+01:00'
 date: '2023-06-26T22:11:00+00:00'
 tags:
 - x68000

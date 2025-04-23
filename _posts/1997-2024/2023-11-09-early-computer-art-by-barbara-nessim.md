@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early computer art by Barbara Nessim (1984)"
-last_modified_at: '2024-09-21T23:29+01:00'
+modified: '2024-09-21T23:29+01:00'
 date: '2023-11-09T01:25+00:00'
 tags:
 - graphics

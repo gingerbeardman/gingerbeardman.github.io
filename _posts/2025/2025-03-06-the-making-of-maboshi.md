@@ -2,7 +2,7 @@
 layout: post
 title: "The making of MaBoShi"
 date: '2025-03-06T16:00+00:00'
-last_modified_at: '2025-03-07T08:15+00:00'
+modified: '2025-03-07T08:15+00:00'
 tags:
 - maboshi
 - wii

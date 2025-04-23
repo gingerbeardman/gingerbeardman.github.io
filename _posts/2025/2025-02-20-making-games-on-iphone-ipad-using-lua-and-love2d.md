@@ -2,7 +2,7 @@
 layout: post
 title: "Making games on iPhone/iPad using Lua & Love2D"
 date: '2025-02-20T07:37+00:00'
-last_modified_at: '2025-02-21T18:43+00:00'
+modified: '2025-02-21T18:43+00:00'
 tags:
 - ios
 - iphone

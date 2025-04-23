@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Slugs on a Cube: interactive animation'
-last_modified_at: '2025-01-20T12:13+00:00'
+modified: '2025-01-20T12:13+00:00'
 date: '2025-01-16T17:43+00:00'
 tags:
 - animation

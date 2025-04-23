@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Taking command of the Context Menu in macOS"
-last_modified_at: '2024-08-04T16:30+01:00'
+modified: '2024-08-04T16:30+01:00'
 date: '2024-07-30T17:14+01:00'
 tags:
 - macos

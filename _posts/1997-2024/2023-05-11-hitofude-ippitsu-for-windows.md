@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 一筆 / Hitofude / Ippitsu Japanese puzzle game
-last_modified_at: '2024-04-13T21:33+01:00'
+modified: '2024-04-13T21:33+01:00'
 tags:
 - polarium
 - japanese

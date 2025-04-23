@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenSCAD to Sprite Sheet workflow'
-last_modified_at: '2023-10-04T16:41+01:00'
+modified: '2023-10-04T16:41+01:00'
 date: '2023-10-04T16:19+01:00'
 tags:
 - playdate

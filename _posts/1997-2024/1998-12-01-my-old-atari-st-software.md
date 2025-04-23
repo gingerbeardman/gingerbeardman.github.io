@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My old Atari ST software"
-last_modified_at: '2025-01-23T23:14+00:00'
+modified: '2025-01-23T23:14+00:00'
 date: '1998-12-01T12:00+00:00'
 tags:
 - atarist

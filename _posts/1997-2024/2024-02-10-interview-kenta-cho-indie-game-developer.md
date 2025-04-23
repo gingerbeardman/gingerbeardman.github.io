@@ -2,7 +2,7 @@
 layout: post
 title: 'Interview: Kenta Cho (Japanese indie game developer)'
 date: '2024-02-10T21:46+00:00'
-last_modified_at: '2024-02-11T15:08+00:00'
+modified: '2024-02-11T15:08+00:00'
 tags:
 - interview
 - qanda

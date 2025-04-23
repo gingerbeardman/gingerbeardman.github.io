@@ -1,7 +1,7 @@
 ---
 layout: post
 title: F-MIN INFINITY an obscure Japanese sprite-scaler racing game
-last_modified_at: '2023-09-16T14:04+01:00'
+modified: '2023-09-16T14:04+01:00'
 tags:
 - japanese
 - preservation

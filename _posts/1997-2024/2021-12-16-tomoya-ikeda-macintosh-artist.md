@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tomoya Ikeda - Macintosh Artist
-last_modified_at: '2024-02-01T22:55+00:00'
+modified: '2024-02-01T22:55+00:00'
 tags:
 - macintosh
 - artist

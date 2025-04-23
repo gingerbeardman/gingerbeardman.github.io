@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Using RSS to create saved searches for any website'
-last_modified_at: '2024-11-01T12:54+00:00'
+modified: '2024-11-01T12:54+00:00'
 tags:
 - rss
 - hack

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stapler: I remade a 32 year old classic Macintosh app"
-last_modified_at: '2024-09-04T16:20+01:00'
+modified: '2024-09-04T16:20+01:00'
 date: '2024-08-10T22:00+01:00'
 tags:
 - software

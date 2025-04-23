@@ -2,7 +2,7 @@
 layout: post
 title: 'New 3D Golf Simulation (video game series)'
 date: '2024-11-09T20:00+00:00'
-last_modified_at: '2025-04-12T11:57+01:00'
+modified: '2025-04-12T11:57+01:00'
 tags:
 - japanese
 - golf

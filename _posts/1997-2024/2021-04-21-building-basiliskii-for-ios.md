@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building BasiliskII for iOS
-last_modified_at: '2024-07-29T00:55+01:00'
+modified: '2024-07-29T00:55+01:00'
 tags:
 - basiliskii
 - emulation

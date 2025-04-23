@@ -2,7 +2,7 @@
 layout: post
 title: "Adding the “Move to Trash” function to System 7.1"
 date: '2024-04-12T23:08+01:00'
-last_modified_at: '2024-04-28T20:24+01:00'
+modified: '2024-04-28T20:24+01:00'
 tags:
 - hack
 - system7

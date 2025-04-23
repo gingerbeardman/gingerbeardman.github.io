@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "YOYOZO (or, how I made a Playdate game in 39KB)"
-last_modified_at: '2024-03-12T14:44+00:00'
+modified: '2024-03-12T14:44+00:00'
 date: '2023-11-21T23:59+00:00'
 tags:
 - graphics

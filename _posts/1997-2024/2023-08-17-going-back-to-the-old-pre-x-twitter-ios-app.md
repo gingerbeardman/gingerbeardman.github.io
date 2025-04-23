@@ -2,7 +2,7 @@
 layout: post
 title: Going back to the old (pre-X) Twitter iOS app
 date: '2023-08-17T19:39+01:00'
-last_modified_at: '2025-03-22T12:30+00:00'
+modified: '2025-03-22T12:30+00:00'
 tags:
 - twitter
 - hack

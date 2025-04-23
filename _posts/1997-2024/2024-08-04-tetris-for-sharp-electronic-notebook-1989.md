@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TETRIS for Sharp Electronic Notebook (1989)"
-last_modified_at: '2024-08-07T19:10+01:00'
+modified: '2024-08-07T19:10+01:00'
 date: '2024-08-04T17:47+01:00'
 tags:
 - tetris

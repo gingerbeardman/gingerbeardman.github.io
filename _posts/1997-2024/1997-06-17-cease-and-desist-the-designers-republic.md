@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cease & Desist: The Designers Republic'
-last_modified_at: '2025-03-21T18:23+00:00'
+modified: '2025-03-21T18:23+00:00'
 tags:
 - fonts
 - history

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pairing a Wii remote on macOS
-last_modified_at: '2024-02-22T14:22+00:00'
+modified: '2024-02-22T14:22+00:00'
 tags:
 - wii
 - guide

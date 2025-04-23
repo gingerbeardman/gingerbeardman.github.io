@@ -2,7 +2,7 @@
 layout: post
 title: "Automating the cleaning of macOS-specific files on Eject"
 date: '2025-02-08T20:45+00:00'
-last_modified_at: '2025-02-12T15:17+00:00'
+modified: '2025-02-12T15:17+00:00'
 tags:
 - hack
 - macos

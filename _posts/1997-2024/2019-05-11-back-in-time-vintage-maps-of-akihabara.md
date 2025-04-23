@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Back In Time: Vintage Maps of Akihabara (1976–2001)'
-last_modified_at: '2025-02-05T23:31+00:00'
+modified: '2025-02-05T23:31+00:00'
 tags:
 - history
 - japanese
