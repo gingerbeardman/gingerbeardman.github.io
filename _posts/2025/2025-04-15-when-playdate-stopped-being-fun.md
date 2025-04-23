@@ -7,6 +7,7 @@ tags:
 - playdate
 - timeline
 - gamedev
+- abandoned
 nouns:
 - Piskel for Playdate
 - Playdate
