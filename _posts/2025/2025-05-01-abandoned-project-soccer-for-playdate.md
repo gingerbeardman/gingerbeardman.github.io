@@ -8,6 +8,7 @@ tags:
 - videogame
 - abandoned
 - simplesoccer
+- sensiblesoccer
 nouns:
 - Talking Heads
 - Panic

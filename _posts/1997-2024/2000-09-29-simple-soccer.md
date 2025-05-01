@@ -9,6 +9,7 @@ tags:
 - early
 - videogame
 - simplesoccer
+- sensiblesoccer
 nouns:
 - Simple Soccer
 - Sensible Soccer
