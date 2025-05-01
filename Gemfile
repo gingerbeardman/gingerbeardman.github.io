@@ -24,6 +24,7 @@ group :jekyll_plugins do
   gem 'liquid'
   gem 'base64'
   gem 'csv'
+  gem 'logger'
 end
 
 gem "webrick"

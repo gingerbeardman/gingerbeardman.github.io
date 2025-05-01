@@ -2,6 +2,7 @@
 layout: post
 title: "Abandoned project: Soccer for Playdate"
 date: '2025-05-01T15:34+01:00'
+modified: '2025-05-01T20:40+01:00'
 tags:
 - playdate
 - games
@@ -34,7 +35,7 @@ On September 30th, 2023, I was sitting in the cinema [waiting for an anniversary
 
 Panic’s idea was to make a soccer game for [Playdate](https://play.date), tied in as a promotional companion to the soccer-infused first-person slice-of-life game [Despelote](https://en.wikipedia.org/wiki/Despelote) (out today—1st May, 2025). Very cool.
 
-I was super keen, as you’d imagine, and quickly got to work on a [prototype](https://gingerbeardman.itch.io/prototypes-for-playdate) (you can download it at the link). It let you move around the pitch, zoom in and out, and switch between different pitch surfaces. I sent it off and asked for a budget and scope. While waiting for a reply, I kept going: I got the ball moving (using the same sort of ball movement trick I first solved 25 years ago and more recently reused for [Fore! Track](/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/)), and had two AI-controlled teams running around the pitch, tracking the ball using the classic Sensible Soccer [grid system](https://readonlymemory.com/the-making-of-sensible-soccer/).
+I was super keen, as you’d imagine, and quickly got to work on a [prototype](https://gingerbeardman.itch.io/prototypes-for-playdate) (download at the link). It let you move around the pitch, zoom in and out, and switch between different pitch surfaces. I sent it off and asked for a budget and scope. With the expectation set that the project was going forwards and while waiting for a reply, I kept going: I got the ball moving (using the same sort of ball movement trick I first solved 25 years ago and more recently reused for [Fore! Track](/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/)), and had two AI-controlled teams running around the pitch, tracking the ball using the classic Sensible Soccer [grid system](https://readonlymemory.com/the-making-of-sensible-soccer/).
 
 But I never heard back about the budget. So I stopped—just before adding goal-scoring. It would’ve been so cool.
 
