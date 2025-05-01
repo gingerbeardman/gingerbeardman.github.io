@@ -9,9 +9,15 @@ tags:
 - videogame
 - review
 - tumblr
+- sensiblesoccer
 tumblr_url: https://dreampast.tumblr.com/post/1357929133/sensible-soccer
+style: |
+ img {
+   width: 640px;
+   height: auto;
+ }
 ---
-![Sensible Soccer](https://64.media.tumblr.com/tumblr_la4nmaT4lB1qbfpni.png)
+![Sensible Soccer](https://64.media.tumblr.com/tumblr_la4nmaT4lB1qbfpni.png#pixel)
 
 **The beautiful game.**
 
