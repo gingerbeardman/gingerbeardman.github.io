@@ -37,6 +37,6 @@ I was super keen, as you’d imagine, and quickly got to work on a [prototype](h
 
 But I never heard back about the budget. So I stopped—just before adding goal-scoring. It would’ve been so cool.
 
-As a result, I no longer do spec work. If a client wants me to build something, they need to commit upfront—and at the very least, meet me halfway.
+As a result, I no longer do spec work. If a client wants me to build something, they need to commit upfront—and at the very least, meet me on the half-way line.
 
 ![IMG](/images/posts/soccer-playdate.gif#playdate)
