@@ -8,6 +8,7 @@ tags:
 - blitz
 - early
 - videogame
+- simplesoccer
 nouns:
 - Simple Soccer
 - Sensible Soccer

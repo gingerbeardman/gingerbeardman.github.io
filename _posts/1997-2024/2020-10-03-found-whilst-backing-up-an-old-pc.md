@@ -6,6 +6,7 @@ tags:
 - gamedev
 - history
 - wirehang
+- simplesoccer
 nouns: []
 carousel: ''
 featured: false
