@@ -20,6 +20,7 @@ nouns:
 - Despelote
 featured: false
 pinned: false
+image: /images/posts/soccer-playdate.gif
 
 comments:
   - platform: twitter
