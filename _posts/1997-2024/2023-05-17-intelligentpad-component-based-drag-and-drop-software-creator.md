@@ -32,7 +32,7 @@ IntelligentPad was proposed in 1987 by Professor Yuzuru Tanaka 田中譲 of Know
 
 With it being a tool for [Rapid Application Development](https://en.wikipedia.org/wiki/Rapid_application_development) there are some similarities with Jean-Marie Hullot's [Interface Builder](https://en.wikipedia.org/wiki/Interface_Builder) (1986), Bill Atkinson's [HyperCard](https://en.wikipedia.org/wiki/HyperCard) (1987), Denison Bollay's [Action! (video)](https://vimeo.com/62618532) (1988), Fujitsu's [TownsGEAR](https://twitter.com/gingerbeardman/status/1574018275507412992) (1990), Microsoft's [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic_(classic)) (1991), Borland's [Delphi](https://en.wikipedia.org/wiki/History_of_Delphi_(software)) (1995), and also Apple Research Labs' [Squeak](https://web.archive.org/web/19970104030734/http://www.research.apple.com/research/proj/Learning_Concepts/squeak/intro.html) (1996, which also happened to be created using Smalltalk-80).
 
-IntelligentPad could be used to build a variety of software from a working calculators and digital clocks (as shown in the documentation/tutorials), through to fully blown applications to a [database of nuclear reactors](https://www.jcprg.org/ipad/). Examples quoted in early-1999 included a [Kyoto culture database "THE MIYAKO"][1] (pdf, p.13) and IntelligentPad's own "Piazza" project. But, both were still under development at that time.
+IntelligentPad could be used to build a variety of software from a working calculators and digital clocks (as shown in the documentation/tutorials), through to fully blown applications such as a [database of nuclear reactors](https://www.jcprg.org/ipad/). Examples quoted in early-1999 included a [Kyoto culture database "THE MIYAKO"][1] (pdf, p.13) and IntelligentPad's own "Piazza" project. But, both were still under development at that time.
 
 ![PNG](/images/posts/intelligentpad-about.png#pixel "IntelligentPad for Macintosh (1994, Hitachi)")
 {:.tofigure}
@@ -81,7 +81,7 @@ In 1995 the concept was reimagined as IntelligentBox, which added an extra dimen
 
 ### IntelligentPad today
 
-By now you might think IntelligentPad is long forgotten, but I'm here to blow your mind. The [IntelligentPad Museum/Palace](https://ipad.live7.jp) website is still being updated. The last time I checked there had been an update in April 2023.
+By now you might think IntelligentPad is long forgotten, but I'm here to blow your mind. The [IntelligentPad Museum/Palace](https://ipad.live7.jp) website is still being updated. At the time of writing it was most recently updated in April 2023.
 
 ----
 
