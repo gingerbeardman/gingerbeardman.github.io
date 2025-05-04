@@ -81,7 +81,7 @@ In 1995 the concept was reimagined as IntelligentBox, which added an extra dimen
 
 ### IntelligentPad today
 
-By now you might think IntelligentPad is long forgotten, but I'm here to blow your mind. The [IntelligentPad Museum/Palace](https://ipad.live7.jp) website is still being updated. At the time of writing it was most recently updated in April 2023.
+By now you might think IntelligentPad is long forgotten, but I'm here to blow your mind. The [IntelligentPad Museum/Palace](https://ipad.live7.jp) website is still being updated.
 
 ----
 
