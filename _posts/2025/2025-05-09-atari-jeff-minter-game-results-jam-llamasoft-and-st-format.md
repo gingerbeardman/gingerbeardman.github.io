@@ -27,7 +27,7 @@ nouns:
 - Little Green Selector
 - Universal Item Selector III
 image: /images/posts/st-format-24-disk.jpg
-featured: false
+featured: true
 pinned: false
 
 style: |
