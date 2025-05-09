@@ -54,6 +54,8 @@ So, my game [HERD NERD](https://gingerbeardman.itch.io/herd-nerd) took 3rd place
 
 *What an honour!*
 
+All three winners receive the same prize, but honestly I am more excited to hear why Jason, Jeff, and Giles thought my game was deserving of being a winner. So many nice words to spur me on!
+
 ----
 
 ## The Recap
