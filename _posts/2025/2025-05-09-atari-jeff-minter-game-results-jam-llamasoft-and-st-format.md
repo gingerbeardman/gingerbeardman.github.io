@@ -25,6 +25,7 @@ nouns:
 - Mandelbrot
 - Revenge
 - Little Green Selector
+- Universal Item Selector III
 image: /images/posts/st-format-24-disk.jpg
 featured: false
 pinned: false
@@ -88,6 +89,8 @@ But it wasn't just Llamatron that was so great in this issue, I also remember us
 Elsewhere in the magazine was a list of Jeff's favourite games of all time (as of mid-1991). I love that he put his own game at number 1. And then to also include 2 more of his games. What a rock star! Click the image to zoom. Below you'll find a full list of games with links to read more.
 
 [![IMG](/images/posts/st-format-24-yak-faves.jpg)](https://archive.org/details/atari-st-format-issue-024/page/74/mode/2up)
+
+----
 
 ## A yak's favourite games (of all time), 1991
 
