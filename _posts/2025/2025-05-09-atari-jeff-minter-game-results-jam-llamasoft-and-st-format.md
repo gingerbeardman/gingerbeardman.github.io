@@ -70,7 +70,7 @@ You can hear more about the game jam and the winning games on the latest Atari p
 
 ## HERD NERD
 
-You can download and play [HERD NERD](https://gingerbeardman.itch.io/herd-nerd) for free on Mac and PC. So check it out! Have fun.
+You can download and play [HERD NERD](https://gingerbeardman.itch.io/herd-nerd) for free/[PWYC](https://en.wikipedia.org/wiki/PWYC) on Mac and PC. So check it out! Have fun.
 
 {% youtube KfWiaGyMB24 %}
 
