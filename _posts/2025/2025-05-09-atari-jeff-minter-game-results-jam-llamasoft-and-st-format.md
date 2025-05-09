@@ -46,19 +46,19 @@ comments:
 
 ---
 
-So, my game [HERD NERD](https://gingerbeardman.itch.io/herd-nerd) took 3rd place in the "*I, REBEL*" game jam, hosted by Atari and Jeff Minter.
+So, my game [HERD NERD](https://gingerbeardman.itch.io/herd-nerd) is a winner in the "*I, REBEL*" game jam, hosted by Atari and Jeff Minter.
 
 > We are delighted to let you know after hours of play and deliberation - Jeff Minter himself chose your game as THIRD PLACE WINNER
 > 
 > Your game stood out in all the right ways: creative, clever, weird and totally nailing the theme. The team (and the judges!) were blown away by your take on the theme and your execution. 
 
-*What an honour!*
+✨ *What an honour!* ✨
 
-All three winners receive the same prize, but honestly I am more excited to hear why Jason, Jeff, and Giles thought my game was deserving of being a winner. So many nice words to spur me on!
+All three winners receive the same prize, but honestly I am more excited to hear why Jeff, Giles, and Jason thought my game was deserving of being a winner. So many nice words to spur me on!
 
 ----
 
-## The Recap
+## The Results
 
 You can hear more about the game jam and the winning games on the latest Atari podcast episode on YouTube or your favourite podcast listening point. You'll also learn a bit about the famous [Superlambanana](https://en.wikipedia.org/wiki/Superlambanana) sculpture and the infamous [Sven Bømwøllen](https://en.wikipedia.org/wiki/Sven_B%C3%B8mw%C3%B8llen) video game. You have been warned!
 
@@ -80,17 +80,17 @@ You can download and play [HERD NERD](https://gingerbeardman.itch.io/herd-nerd) 
 
 It's July 1991 and I've just walked back from Lewis Meeson's newsagent to my family home clutching [the latest monthly ST FORMAT](https://archive.org/details/atari-st-format-issue-024/page/1/mode/2up), issue 24. I'd browsed the magazine in-store to make sure it was worth £2.95 of my hard-earned pocket money, and was eager to try out the software included on the 3.5" floppy disk. This was pre-internet and that was the easiest way of getting hold of a selection of new software. The same thing applied to Amiga, [Macintosh](/2025/03/28/macintosh-magazine-media-1-million-files/), PC, and more.
 
-Today I dug out my actual magazine from storage and my nostalgia dial went all the way [up to 11](https://en.wikipedia.org/wiki/Up_to_eleven).
+Today I dug out *my actual magazine* from storage and my nostalgia dial went all the way [up to 11](https://en.wikipedia.org/wiki/Up_to_eleven).
 
 [![IMG](/images/posts/st-format-24-cover.jpg)](https://archive.org/details/atari-st-format-issue-024/page/1/mode/2up)
 
-[Llamatron](https://en.wikipedia.org/wiki/Llamatron) was my first encounter with Jeff Minter and his weird and wonderful type of game. I played it a lot, mostly player 2 as either the droid or members of my family. Enemies like sentient cans of cola or screaming Mandelbrot patterns are undoubtedly scorched into my memory forever more.
+[Llamatron](https://en.wikipedia.org/wiki/Llamatron) was my first encounter with Jeff Minter and his weird and wonderful type of game. I played it a lot, mostly in 2-player with the droid or other members of my family. Enemies like sentient cans of cola or screaming Mandelbrot patterns are scorched into my memory forever more.
 
-But it wasn't just Llamatron that was so great in this issue, I also remember using the [Revenge](https://www.atariuptodate.de/en/11414/revenge-document-display-system) document displayer (with no internet we used to read a lot of text files that were included on the disks) and also [Little Green Selector](https://www.atariuptodate.de/en/1562/little-green-selector) which replaced the standard file selector with one that had fully-featured file manager functionality. Though eventually I migrated to the even more amazing [Universal Item Selector III](https://www.atariuptodate.de/en/1564/universal-item-selector) which was [one of many such replacements](http://aicq.gokmase.com/file_sel/index.htm). It really was a different era.
+But it wasn't just Llamatron that was so great in this issue, I also remember using the [Revenge](https://www.atariuptodate.de/en/11414/revenge-document-display-system) document displayer (with no internet we used to read a lot of text files that were included on the disks, like the Llamatron manual and readme about it being distributed in a new-fangled way known as [Shareware](https://en.wikipedia.org/wiki/Shareware)). And also [Little Green Selector](https://www.atariuptodate.de/en/1562/little-green-selector) which replaced the standard file selector with one that had fully-featured file manager functionality, though eventually I migrated to the even more amazing [Universal Item Selector III](https://www.atariuptodate.de/en/1564/universal-item-selector) which was [one of many such replacements](http://aicq.gokmase.com/file_sel/index.htm). It really was a different era.
 
 [![IMG](/images/posts/st-format-24-disk-spread.jpg)](https://archive.org/details/atari-st-format-issue-024/page/38/mode/2up)
 
-Elsewhere in the magazine was a list of Jeff's favourite games of all time (as of mid-1991). I love that he put his own game at number 1. And then to also include 2 more of his games. What a rock star! Click the image to zoom. Below you'll find a full list of games with links to read more.
+Elsewhere in the magazine is a list of Jeff's favourite games of all time (as of mid-1991). I love that he put his own game at number 1. And then to also include 2 more of his games. What a rock star! Click the image to zoom. Below you'll find a full list of games with links to read more.
 
 [![IMG](/images/posts/st-format-24-yak-faves.jpg)](https://archive.org/details/atari-st-format-issue-024/page/74/mode/2up)
 
