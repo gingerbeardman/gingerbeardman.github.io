@@ -82,7 +82,7 @@ Today I dug out my actual magazine from storage and my nostalgia dial went all t
 
 [![IMG](/images/posts/st-format-24-cover.jpg)](https://archive.org/details/atari-st-format-issue-024/page/1/mode/2up)
 
-[Llamatron](https://en.wikipedia.org/wiki/Llamatron) was my first encounter with Jeff Minter and his weird and wonderful type of game. I played a lot of Llamatron, sometimes with player 2 as either the droid or members of my family. Enemies like sentient cans of cola or screaming Mandelbrot patterns are undoubtedly scorched into my memory forever more.
+[Llamatron](https://en.wikipedia.org/wiki/Llamatron) was my first encounter with Jeff Minter and his weird and wonderful type of game. I played it a lot, mostly player 2 as either the droid or members of my family. Enemies like sentient cans of cola or screaming Mandelbrot patterns are undoubtedly scorched into my memory forever more.
 
 But it wasn't just Llamatron that was so great in this issue, I also remember using the [Revenge](https://www.atariuptodate.de/en/11414/revenge-document-display-system) document displayer (with no internet we used to read a lot of text files that were included on the disks) and also [Little Green Selector](https://www.atariuptodate.de/en/1562/little-green-selector) which replaced the standard file selector with one that had fully-featured file manager functionality. Though eventually I migrated to the even more amazing [Universal Item Selector III](https://www.atariuptodate.de/en/1564/universal-item-selector) which was [one of many such replacements](http://aicq.gokmase.com/file_sel/index.htm). It really was a different era.
 
