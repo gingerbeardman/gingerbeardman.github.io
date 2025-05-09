@@ -76,15 +76,17 @@ You can download and play [HERD NERD](https://gingerbeardman.itch.io/herd-nerd) 
 
 ## Back in the day
 
-It's July 1991 and I've just walked back from Lewis Meeson's newsagent to my family home clutching [the latest monthly ST FORMAT](https://archive.org/details/atari-st-format-issue-024), issue 24. I'd browsed the magazine in-store to make sure it was worth £2.95 of my hard-earned pocket money, and was eager to try out the software included on the 3.5" floppy disk. This was pre-internet and that was the easiest way of getting hold of a selection of new software. The same thing applied to Amiga, [Macintosh](/2025/03/28/macintosh-magazine-media-1-million-files/), PC, and more.
+It's July 1991 and I've just walked back from Lewis Meeson's newsagent to my family home clutching [the latest monthly ST FORMAT](https://archive.org/details/atari-st-format-issue-024/page/1/mode/2up), issue 24. I'd browsed the magazine in-store to make sure it was worth £2.95 of my hard-earned pocket money, and was eager to try out the software included on the 3.5" floppy disk. This was pre-internet and that was the easiest way of getting hold of a selection of new software. The same thing applied to Amiga, [Macintosh](/2025/03/28/macintosh-magazine-media-1-million-files/), PC, and more.
 
 Today I dug out my actual magazine from storage and my nostalgia dial went all the way [up to 11](https://en.wikipedia.org/wiki/Up_to_eleven).
 
-[![IMG](/images/posts/st-format-24-disk-spread.jpg)](https://archive.org/details/atari-st-format-issue-024/page/38/mode/2up)
+[![IMG](/images/posts/st-format-24-cover.jpg)](https://archive.org/details/atari-st-format-issue-024/page/1/mode/2up)
 
 [Llamatron](https://en.wikipedia.org/wiki/Llamatron) was my first encounter with Jeff Minter and his weird and wonderful type of game. I played a lot of Llamatron, sometimes with player 2 as either the droid or members of my family. Enemies like sentient cans of cola or screaming Mandelbrot patterns are undoubtedly scorched into my memory forever more.
 
 But it wasn't just Llamatron that was so great in this issue, I also remember using the [Revenge](https://www.atariuptodate.de/en/11414/revenge-document-display-system) document displayer (with no internet we used to read a lot of text files that were included on the disks) and also [Little Green Selector](https://www.atariuptodate.de/en/1562/little-green-selector) which replaced the standard file selector with one that had fully-featured file manager functionality. Though eventually I migrated to the even more amazing [Universal Item Selector III](https://www.atariuptodate.de/en/1564/universal-item-selector) which was [one of many such replacements](http://aicq.gokmase.com/file_sel/index.htm). It really was a different era.
+
+[![IMG](/images/posts/st-format-24-disk-spread.jpg)](https://archive.org/details/atari-st-format-issue-024/page/38/mode/2up)
 
 Elsewhere in the magazine was a list of Jeff's favourite games of all time (as of mid-1991). I love that he put his own game at number 1. And then to also include 2 more of his games. What a rock star! Click the image to zoom. Below you'll find a full list of games with links to read more.
 
