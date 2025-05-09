@@ -54,7 +54,7 @@ So, my game [HERD NERD](https://gingerbeardman.itch.io/herd-nerd) is a winner in
 
 ✨ *What an honour!* ✨
 
-All three winners receive the same prize, but honestly I am more excited to hear why Jeff, Giles, and Jason thought my game was deserving of being a winner. So many nice words to spur me on!
+All three winners receive the same prize, but honestly I am more excited to hear why Jeff, Giles, and Jason liked my game. So many nice words to spur me on!
 
 ----
 
