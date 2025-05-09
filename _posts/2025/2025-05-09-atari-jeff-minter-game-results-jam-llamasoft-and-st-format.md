@@ -58,7 +58,7 @@ So, my game [HERD NERD](https://gingerbeardman.itch.io/herd-nerd) took 3rd place
 
 ## The Recap
 
-You can hear more about the game jam and the winning games on the latest Atari podcast episode on YouTube or your favourite podcast listening point. You'll also learn a bit about the famous [Superlambanana](https://en.wikipedia.org/wiki/Superlambanana) sculpture and the infamous [Sven Bømwøllen](https://en.wikipedia.org/wiki/Sven_B%C3%B8mw%C3%B8llen) video game. You've been warned!
+You can hear more about the game jam and the winning games on the latest Atari podcast episode on YouTube or your favourite podcast listening point. You'll also learn a bit about the famous [Superlambanana](https://en.wikipedia.org/wiki/Superlambanana) sculpture and the infamous [Sven Bømwøllen](https://en.wikipedia.org/wiki/Sven_B%C3%B8mw%C3%B8llen) video game. You have been warned!
 
 {% youtube GeHie-2Jvlw %}
 
