@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Abandoned project: multi-site shopping app"
-date: '2025-05-10T17:56+01:00'
+date: '2025-05-10T18:35+01:00'
 tags:
 - ios
 - app
@@ -13,11 +13,11 @@ pinned: false
 
 comments:
   - platform: twitter
-    url: https://twitter.com/gingerbeardman/status/
+    url: https://twitter.com/gingerbeardman/status/1921259219719737629
   - platform: bluesky
-    url: https://bsky.app/profile/gingerbeardman.com/post/
+    url: https://bsky.app/profile/gingerbeardman.com/post/3lotif25kks26
   - platform: mastodon
-    url: https://mastodon.gamedev.place/@gingerbeardman/
+    url: https://mastodon.gamedev.place/@gingerbeardman/114484765883064517
 
 ---
 
