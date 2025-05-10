@@ -30,7 +30,7 @@ comments:
 
 I order weird old stuff from Japan a few times a year: old magazines, CD-ROMs, digital watches, strategy guides, video games, playing cards, books, artwork and any other old tat that takes my fancy. The way this is usually done is by ordering through a proxy service that receives the goods on your behalf and combines and ships them to you at your convenience.
 
-There are many such proxy services, each with their own website and pros and cons. I grew tired of tabs from them all cluttering up my browser so I thought creating a bespoke app to manage them would be a nice idea. I couldn't find anything close, other than an app for Russians to more easily shop on AliExpress. So, in September 2024, I built the app I wanted as a rapid prototype and called it *Otaku!*
+There are many such proxy services, each with their own website, fee structure, shipping costs, and other pros and cons. I grew tired of tabs from these various sites cluttering up my browser, so I thought creating a bespoke app to manage them would be a nice idea. I couldn't find anything close, other than an app for Russians to more easily shop on AliExpress. So, in September 2024, I built the app I wanted as a rapid prototype and called it *Otaku!*
 
 ----
 
