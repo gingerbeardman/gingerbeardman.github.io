@@ -38,7 +38,7 @@ There are many such proxy services, each with their own website, fee structure, 
 
 ## Otaku!
 
-The app itself is a customisable set of tabs—one for each storefront—each containing a WebKit view, along with an editable list of search terms. So, you could easily do common searches and there was no need to repeatedly type searches terms into each site as they would be automatically be entered when you switch to the tab. Add to that Custom CSS to hide parts of the sites, Google Translate to view some sites in your native language rather than Japanese, currency converter, and several other useful related tools rounded out a comprehensive app.
+The app itself is a customisable set of tabs—one per site—each containing a WebKit view, along with a detailed settings interface that includes an editable list of search terms. So, you could easily do common searches and there was no need to repeatedly type searches terms into each site as they would be automatically be entered when you switch to the tab. Add to that Custom CSS to hide parts of the sites, Google Translate to view some sites in your native language rather than Japanese, currency converter, and several other useful related tools rounded out a comprehensive app.
 
 ----
 
