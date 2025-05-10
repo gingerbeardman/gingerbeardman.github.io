@@ -32,13 +32,13 @@ I order weird old stuff from Japan a few times a year: old magazines, CD-ROMs, d
 
 There are many such proxy services, each with their own website, fee structure, shipping costs, and other pros and cons. I grew tired of tabs from these various sites cluttering up my browser, so I thought creating a bespoke app to manage them would be a nice idea. I couldn't find anything close, other than an app for Russians to more easily shop on AliExpress. So, in September 2024, I built the app I wanted as a rapid prototype and called it *Otaku!*
 
+> **otaku** (n.) in Japan, a young person who is obsessed with computers or particular aspects of popular culture to the detriment of their social skills 🤓
+
 ----
 
 ## Otaku!
 
 The app itself is a customisable set of tabs—one for each storefront—each containing a WebKit view, along with an editable list of search terms. So, you could easily do common searches and there was no need to repeatedly type searches terms into each site as they would be automatically be entered when you switch to the tab. Add to that Custom CSS to hide parts of the sites, Google Translate to view some sites in your native language rather than Japanese, currency converter, and several other useful related tools rounded out a comprehensive app.
-
-> **otaku** (n.) in Japan, a young person who is obsessed with computers or particular aspects of popular culture to the detriment of their social skills 🤓
 
 ----
 
