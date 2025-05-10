@@ -29,7 +29,7 @@ There are many such proxy services, each with their own website and pros and con
 
 ## Otaku!
 
-The app itself is a customisable set of tabs—one for each storefront—each containing a WebKit view, along with an editable list of search terms. So, you could easily do common searches and there was no need to repeatedly type searches terms into each site as they would be automatically be entered when you switch to the tab. Add to that Custom CSS to hide parts of the sites, Google Translate to view some sites in your native language rather than Japanese, currency converter, and several other useful related tools.
+The app itself is a customisable set of tabs—one for each storefront—each containing a WebKit view, along with an editable list of search terms. So, you could easily do common searches and there was no need to repeatedly type searches terms into each site as they would be automatically be entered when you switch to the tab. Add to that Custom CSS to hide parts of the sites, Google Translate to view some sites in your native language rather than Japanese, currency converter, and several other useful related tools rounded out a comprehensive app.
 
 > **otaku** (n.) a young person who is obsessed with computers or particular aspects of popular culture to the detriment of their social skills 🤓
 
@@ -37,7 +37,7 @@ The app itself is a customisable set of tabs—one for each storefront—each co
 
 ## Postmortem
 
-It worked well, and I used it heavily for the duration of its development. My only criticism is that the specific design of the app and the unreliability of my naive WebKit implementation meant that whilst friction was removed by facilitating easier multi-site management, a different type of friction was introduced elsewhere in the user experience. A better solution would be somewhere in between, perhaps using a pover to switch between stores rather than the tab and navigation pairing.
+It worked well, and I used it heavily for the duration of its development. My only criticism is that the specific design of the app and the unreliability of my naive WebKit implementation meant that whilst friction was removed by facilitating easier multi-site management, a different type of friction was introduced elsewhere in the user experience. A better solution would be somewhere in between, perhaps using a more modern popover interface paradigm to switch between tabs rather than the back and forth of the navigation controller.
 
 SwiftUI is fun to work with, despite it throwing its hands up at several points and me having to revert to my last commit to get it back on track. I don't really enjoy building iOS and macOS apps at this point in time, so Xcode became a bit of a chore and took a lot of the fun out of the project.
 
