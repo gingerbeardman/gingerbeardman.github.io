@@ -8,6 +8,13 @@ tags:
 - japanese
 - abandoned
 nouns:
+- SwiftUI
+- Xcode
+- iOS
+- macOS
+- AliExpress
+- Google Translate
+- WebKit
 featured: false
 pinned: false
 
@@ -41,12 +48,12 @@ It worked well, and I used it heavily for the duration of its development. My on
 
 SwiftUI is fun to work with, despite it throwing its hands up at several points and me having to revert to my last commit to get it back on track. I don't really enjoy building iOS and macOS apps at this point in time, so Xcode became a bit of a chore and took a lot of the fun out of the project.
 
-After pushing several updates up to the [middle of October](/2025/04/15/when-playdate-stopped-being-fun/), i then let that final build expire and have never wanted to push any update or new version. EOF.
+After pushing several updates up to the [middle of October](/2025/04/15/when-playdate-stopped-being-fun/), I then let that final build expire and have never wanted to push any update or new version. EOF.
 
 ----
 
 ## Video Demonstration
 
-Below is a video of sample app usage.
+Below is a video of sample app usage. I select a search term (Hanafuda) and then use it on the different tabs along bottom of the screen. I then switch to a different search term (花札) and use that across the same set of tabs. Notice that at no point did anything need to be typed.
 
 {% youtube 2p0aM3QJ_rc 1124/2436 %}
