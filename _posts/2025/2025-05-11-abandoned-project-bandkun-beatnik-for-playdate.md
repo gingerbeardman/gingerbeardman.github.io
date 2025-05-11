@@ -48,7 +48,7 @@ comments:
 
 ---
 
-Back in November 2020 I was exploring the [PC-98](https://en.wikipedia.org/wiki/PC-98) back catalog, and stumbled across a strange game called [Band-kun](https://www.mobygames.com/game/155798/band-kun/). Strange in that it's a 1-bit black and white game on a platform that was capable of colour, and also strange as it was a hybrid adventure/management/music/rhythm game. I was smitten.
+Back in November 2020 I was exploring the [PC-98](https://en.wikipedia.org/wiki/PC-98) back catalog, and stumbled across a strange game called [Band-kun](https://www.mobygames.com/game/155798/band-kun/). Strange in that it's a 1-bit black and white game on a platform that was capable of colour, and also strange as it was a hybrid adventure/management/music/rhythm game. [I was smitten](/2020/12/16/band-kun-musician-simulator-1990-koei/).
 
 {% include carousel_multi.html height="62.5" unit="%" duration="7" number="1" %}
 
