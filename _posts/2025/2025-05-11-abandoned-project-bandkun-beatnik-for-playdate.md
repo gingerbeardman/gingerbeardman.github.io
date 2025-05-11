@@ -91,7 +91,7 @@ Not one to give up so easily I submitted the game twice, kind of, in pitches to 
 - a reimagining of the original game for a modern device
 - as a team effort with musician and tools programmers to hit a deadline
 - suggested budget was included
-- [pitch pdf](https://cdn.gingerbeardman.com/files/playdate-pitch-2022-band-kun.pdf) (191KB)
+- [pitch pdf](https://cdn.gingerbeardman.com/files/playdate-pitch-2022-band-kun.pdf) (191 KB)
 
 [![IMG](/images/posts/abandoned-playdate-band-kun.png)](https://cdn.gingerbeardman.com/files/playdate-pitch-2022-band-kun.pdf)
 
@@ -108,7 +108,7 @@ On 1st May 2024 I sent a message to Panic stating that I was still interested in
 - completely revised and redesigned
 - as a solo endeavour as I was confident I could complete the new scope myself
 - no budget was required
-- [pitch pdf](https://cdn.gingerbeardman.com/files/playdate-pitch-2024-beatnik.pdf) (185KB)
+- [pitch pdf](https://cdn.gingerbeardman.com/files/playdate-pitch-2024-beatnik.pdf) (185 KB)
 
 [![IMG](/images/posts/abandoned-playdate-beatnik.png)](https://cdn.gingerbeardman.com/files/playdate-pitch-2024-beatnik.pdf)
 
