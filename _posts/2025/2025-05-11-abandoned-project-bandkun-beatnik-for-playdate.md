@@ -60,7 +60,7 @@ I was already developing for the [Playdate](https://play.date/), a modern 1-bit 
 
 ![IMG](/images/posts/band-kun-playdate.gif#playdate)
 
-I published a thread about the game and my prototype [on Twitter](https://twitter.com/gingerbeardman/status/1339232766861451278), which became hugely popular and remains my most popular post and thread of all-time (~20 years, for me) at over 450K impressions. I also mirrored the thread as a [blog post](/2020/12/16/band-kun-musician-simulator-1990-koei/) which is no doubt an easier read.
+I published a thread about the game and my prototype [on Twitter](https://twitter.com/gingerbeardman/status/1339232766861451278), introducing the game to the West, which became hugely popular and remains my most popular post and thread of all-time (~20 years, for me) at over 450K impressions. I also mirrored the thread as a [blog post](/2020/12/16/band-kun-musician-simulator-1990-koei/) which is no doubt an easier read.
 
 The idea for the remaster was to not remake the original game at all, but rather to take the vibe and bring it into the modern era. So there were no plans to use the original music, or perhaps even the [original graphics](/2021/01/03/extracting-images-from-band-kun/). I would leverage modern device capabilities and input methods to create a totally new experience a million miles away from the limited original game from 1990.
 
