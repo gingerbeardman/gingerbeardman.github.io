@@ -85,7 +85,7 @@ The project then became in need of a budget to be set: for both the licence and 
 
 Not one to give up so easily I submitted the game twice, kind of, in pitches to Panic. 
 
-## Interim Pitch: Band-kun
+## Open Pitch: Band-kun
 
 - June 2022
 - to reignite the licence discussion
