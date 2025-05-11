@@ -37,14 +37,19 @@ module Jekyll
         key
       end
       
-      # Replace nouns - handling HTML entities, internal periods, and possessives
+      # Replace nouns - split into two passes to handle regular and possessive forms
       nouns.each do |noun|
         # Convert & to &amp; in the noun for HTML matching
         noun_html = noun.to_s.gsub('&', '&amp;')
         noun_str = Regexp.escape(noun_html)
         
-        # Match the noun followed by possessive forms ('s or 's) or standard word boundaries including punctuation
-        protected_content = protected_content.gsub(/(?<!<em>)(?<=^|\s|\(|>)#{noun_str}(?:['’]s)?(?=$|\s|\.|,|\)|<|—|-|!|\?|:|;)(?!<\/em>)/) do |match|
+        # First pass: Match the noun with possessive forms ('s or 's)
+        protected_content = protected_content.gsub(/(?<!<em>|\w)#{noun_str}['']s(?!<\/em>|\w)/) do |match|
+          "<em>#{match}</em>"
+        end
+        
+        # Second pass: Match the standalone noun
+        protected_content = protected_content.gsub(/(?<!<em>|\w)#{noun_str}(?!<\/em>|\w|['']s)/) do |match|
           "<em>#{match}</em>"
         end
       end
@@ -58,5 +63,4 @@ module Jekyll
     end
   end
 end
-
 Liquid::Template.register_filter(Jekyll::ReplaceNounsFilter)
