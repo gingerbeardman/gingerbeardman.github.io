@@ -93,7 +93,7 @@ Not one to give up so easily I submitted the game twice, kind of, in pitches to 
 - suggested budget was included
 - [pitch pdf](https://cdn.gingerbeardman.com/files/playdate-pitch-2022-band-kun.pdf)
 
-![IMG](/images/posts/abandoned-playdate-band-kun.png)
+[![IMG](/images/posts/abandoned-playdate-band-kun.png)](https://cdn.gingerbeardman.com/files/playdate-pitch-2022-band-kun.pdf)
 
 ----
 
@@ -109,7 +109,7 @@ On 1st May 2024 I sent a message to Panic stating that I was still interested in
 - as a solo endeavour as I was confident I could complete the new scope myself
 - [pitch pdf](https://cdn.gingerbeardman.com/files/playdate-pitch-2024-beatnik.pdf)
 
-![IMG](/images/posts/abandoned-playdate-beatnik.png)
+[![IMG](/images/posts/abandoned-playdate-beatnik.png)](https://cdn.gingerbeardman.com/files/playdate-pitch-2024-beatnik.pdf)
 
 ----
 
