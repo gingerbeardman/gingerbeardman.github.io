@@ -91,9 +91,9 @@ Not one to give up so easily I submitted the game twice, kind of, in pitches to 
 - a reimagining of the original game for a modern device
 - as a team effort with musician and tools programmers to hit a deadline
 - suggested budget was included
-- [pitch pdf](https://cdn.gingerbeardman.com/files/playdate-pitch-2022-band-kun.pdf)
+- [pitch pdf](https://cdn.gingerbeardman.com/files/playdate-pitch-2022-band-kun.pdf) (191KB)
 
-[![IMG](/images/posts/abandoned-playdate-band-kun.png)](https://cdn.gingerbeardman.com/files/playdate-pitch-2022-band-kun.pdf) (191KB)
+[![IMG](/images/posts/abandoned-playdate-band-kun.png)](https://cdn.gingerbeardman.com/files/playdate-pitch-2022-band-kun.pdf)
 
 ----
 
