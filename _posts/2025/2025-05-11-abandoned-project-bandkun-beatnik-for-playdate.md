@@ -88,6 +88,7 @@ Not one to give up so easily I submitted the game twice, kind of, in pitches to 
 ## Interim Pitch: Band-kun
 
 - June 2022
+- to ignite the licence discussion
 - a reimagining of the original game for a modern device
 - as a team effort with musician and tools programmers to hit a deadline
 - suggested budget was included
@@ -105,6 +106,7 @@ On 1st May 2024 I sent a message to Panic stating that I was still interested in
 
 - July 2024
 - an all-new game
+- to avoid the need for a licence
 - completely revised and redesigned
 - as a solo endeavour as I was confident I could complete the new scope myself
 - no budget was required
