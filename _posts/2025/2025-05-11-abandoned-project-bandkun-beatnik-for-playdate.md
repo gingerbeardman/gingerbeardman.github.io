@@ -106,7 +106,7 @@ On 1st May 2024 I sent a message to Panic stating that I was still interested in
 - July 2024
 - an all-new game
 - completely revised and redesigned
-- as a solo endeavour as I was confident I could do the new scope myself
+- as a solo endeavour as I was confident I could complete the new scope myself
 - [pitch pdf](https://cdn.gingerbeardman.com/files/playdate-pitch-2024-beatnik.pdf)
 
 ![IMG](/images/posts/abandoned-playdate-beatnik.png)
