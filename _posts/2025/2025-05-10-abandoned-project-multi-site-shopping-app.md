@@ -50,7 +50,7 @@ SwiftUI is fun to work with, despite it throwing its hands up at several points 
 
 After pushing several updates up to the [middle of October](/2025/04/15/when-playdate-stopped-being-fun/), I then let that final build expire and have never wanted to push any update or new version.
 
-Thanks to the users of this app for your valuable feedback.
+Thanks to all the users of this app for your valuable testing and feedback.
 
 ----
 
