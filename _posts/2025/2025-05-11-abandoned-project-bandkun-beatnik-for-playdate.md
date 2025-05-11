@@ -88,7 +88,7 @@ Not one to give up so easily I submitted the game twice, kind of, in pitches to 
 ## Interim Pitch: Band-kun
 
 - June 2022
-- to ignite the licence discussion
+- to reignite the licence discussion
 - a reimagining of the original game for a modern device
 - as a team effort with musician and tools programmers; to hit a deadline
 - suggested budget was included
