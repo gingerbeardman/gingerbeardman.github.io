@@ -56,7 +56,7 @@ Back in November 2020 I was exploring the [PC-98](https://en.wikipedia.org/wiki/
 
 ## The Idea
 
-I was already developing for the [Playdate](https://play.date/), a modern 1-bit platform, and it struck me as the perfect opportunity to create a remaster of the game. So, I set my sights on securing the license. The original title was developed by Koei—Japan’s equivalent to Electronic Arts—a giant now known as Koei Tecmo, whose owners are worth hundreds of billions. The game itself is credited to one of those owners: Yoichi Erikawa, who used the pen name Ko Shibusawa. I had a feeling this wasn’t going to be easy.
+I was already developing for the [Playdate](https://play.date/), a modern 1-bit platform, and it struck me as the perfect opportunity to create a remaster of the game. So, I set my sights on securing the licence. The original title was developed by Koei—Japan’s equivalent to Electronic Arts—a giant now known as Koei Tecmo, whose owners are worth hundreds of billions. The game itself is credited to one of those owners: Yoichi Erikawa, who used the pen name Ko Shibusawa. I had a feeling this wasn’t going to be easy.
 
 ![IMG](/images/posts/band-kun-playdate.gif#playdate)
 
