@@ -106,7 +106,7 @@ On 1st May 2024 I sent a message to Panic stating that I was still interested in
 
 - July 2024
 - an all-new game
-- to avoid the need for a licence
+- let's forget about the IP
 - completely revised and redesigned
 - as a solo endeavour; I was confident I could complete the new scope myself
 - no budget was required
