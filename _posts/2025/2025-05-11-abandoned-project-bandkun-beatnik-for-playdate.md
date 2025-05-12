@@ -60,7 +60,7 @@ I was already developing for the [Playdate](https://play.date/), a modern 1-bit 
 
 ![IMG](/images/posts/band-kun-playdate.gif#playdate)
 
-I published a thread about the game and my prototype [on Twitter](https://twitter.com/gingerbeardman/status/1339232766861451278), introducing the game to the West, which became hugely popular and remains my most popular post and thread of all-time (~20 years, for me) at over 450K impressions. I also mirrored the thread as a [blog post](/2020/12/16/band-kun-musician-simulator-1990-koei/) which is no doubt an easier read.
+I published a thread about the game and my prototype [on Twitter](https://twitter.com/gingerbeardman/status/1339232766861451278), introducing the game to the West, which remains my most popular post and thread of all-time (~20 years, for me) at over 450K impressions. I also mirrored the thread as a [blog post](/2020/12/16/band-kun-musician-simulator-1990-koei/) which is no doubt an easier read.
 
 The idea for the remaster was to not remake the original game at all, but rather to take the vibe and bring it into the modern era. So there were no plans to use the original music, or perhaps even the [original graphics](/2021/01/03/extracting-images-from-band-kun/). I would leverage modern device capabilities and input methods to create a totally new experience a million miles away from the limited original game from 1990.
 
@@ -68,11 +68,11 @@ The idea for the remaster was to not remake the original game at all, but rather
 
 ## Challenge Accepted
 
-A couple of days later, December 18th, [Cabel Sasser](https://cabel.com) of [Panic](https://panic.com) reached out:
+A couple of days later, 18th December 2020, [Cabel Sasser](https://cabel.com) of [Panic](https://panic.com) reached out:
 
 > "Hey Matt, I love a good challenge — do you want me to actually try to make contact with someone at Koei? Regarding Band-Kun? (Philosophically, the idea of reviving a long-forgotten PC Koei title is just enormously interesting to me ahhahah)".
 
-By 25th December—thanks Santa!—Panic's guy in Japan, Noby, had a breakthrough finding contact details and sent an email to Koei. Their reply came quickly on 27th December when a lovely person in Koei's IP management department replied:
+By 25th December 2020—thanks Santa!—Panic's guy in Japan, Noby, had a breakthrough finding contact details and sent an email to Koei. Their reply came quickly on 27th December 2020 when a lovely person in Koei's IP management department replied:
 
 - they knew of the Playdate and were waiting patiently to pre-order
 - they had the licence for the Band-kun game (music to my ears!)
