@@ -86,4 +86,4 @@ You can [subscribe to the blog using RSS](/feed.xml) and support it by [sending 
 
 ## Colophon
 
-This site is powered by Jekyll (but, I absolutely definitely *do not recommend it*), stored in source control on GitHub, deployed and hosted statically on Netlify, though images are served from a separate Oracle Cloud server to keep my costs down. I edit my posts as Markdown in the Nova editor on macOS. The site presentation is a heavily modified version of the "Type" theme.
+This site is powered by Jekyll (I recommend it only if you're familiar with Ruby and modern web dev), stored in source control on GitHub, deployed and hosted statically on Netlify, though images are served from a separate Oracle Cloud server to keep my costs down. I edit my posts as Markdown in the Nova editor on macOS. The site presentation is a heavily modified version of the "Type" theme.
