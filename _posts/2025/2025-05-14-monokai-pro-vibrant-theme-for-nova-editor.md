@@ -45,7 +45,7 @@ My fork has a few quality of life changes:
 - Colour tweaks improve contrast when highlighting found instances of search terms
 - Comments are now *italicised*
 
-I use the Spectrum variation of the them with the [IBM Plex Mono](https://github.com/IBM/plex/releases/tag/%40ibm%2Fplex-mono%401.1.0) font to great effect.
+I use the Spectrum variation of the theme with the [IBM Plex Mono](https://github.com/IBM/plex/releases/tag/%40ibm%2Fplex-mono%401.1.0) font to great effect.
 
 ![IMG](/images/posts/nova-monokai-pro-vibrant.png)
 
