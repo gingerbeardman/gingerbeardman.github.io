@@ -27,11 +27,11 @@ carousels:
 
 comments:
   - platform: twitter
-    url: https://twitter.com/gingerbeardman/status/1922524321034989582
+    url: https://twitter.com/gingerbeardman/status/1922745110539743556
   - platform: bluesky
-    url: https://bsky.app/profile/gingerbeardman.com/post/3lp4bcr6cik2s
+    url: https://bsky.app/profile/gingerbeardman.com/post/3lp5sdapgdc2m
   - platform: mastodon
-    url: https://mastodon.gamedev.place/@gingerbeardman/114504532901986274
+    url: https://mastodon.gamedev.place/@gingerbeardman/114507981043744973
 
 ---
 
