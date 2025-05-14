@@ -6,6 +6,9 @@ tags:
 - nova
 - monokai
 - theme
+- poweruser
+- software
+- tooling
 nouns:
 - Monokai Pro Vibrant
 - Monokai Pro
