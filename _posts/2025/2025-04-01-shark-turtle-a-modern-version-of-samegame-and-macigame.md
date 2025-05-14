@@ -81,7 +81,7 @@ Next we can convert the PICT resources we're after with [deark](https://github.c
 
 `find . -type f -print0 | xargs -0 -I {} deark {} -k -od /destination/`
 
-I got verified those and [found](https://discmaster.textfiles.com/search?family=image&amp;widthMin=160&amp;heightMin=64&amp;widthMax=160&amp;heightMax=64&amp;dedup=dedup&amp;sortBy=itemid&amp;pageNum=0) [some](https://discmaster.textfiles.com/search?family=image&amp;widthMin=192&amp;heightMin=64&amp;widthMax=192&amp;heightMax=64&amp;dedup=dedup&amp;sortBy=itemid&amp;pageNum=0) [others](https://discmaster.textfiles.com/search?family=image&amp;widthMin=256&amp;heightMin=65&amp;widthMax=256&amp;heightMax=65&amp;dedup=dedup&amp;sortBy=itemid&amp;pageNum=0) [using DiscMaster](https://discmaster.textfiles.com/search?family=image&amp;detection=PICT%2FSaMe&amp;dedup=dedup&amp;sortBy=itemid&amp;pageNum=0). A few stranglers found on the web brought the grand total to 320 tile sets.
+I verified those and [found](https://discmaster.textfiles.com/search?family=image&amp;widthMin=160&amp;heightMin=64&amp;widthMax=160&amp;heightMax=64&amp;dedup=dedup&amp;sortBy=itemid&amp;pageNum=0) [some](https://discmaster.textfiles.com/search?family=image&amp;widthMin=192&amp;heightMin=64&amp;widthMax=192&amp;heightMax=64&amp;dedup=dedup&amp;sortBy=itemid&amp;pageNum=0) [others](https://discmaster.textfiles.com/search?family=image&amp;widthMin=256&amp;heightMin=65&amp;widthMax=256&amp;heightMax=65&amp;dedup=dedup&amp;sortBy=itemid&amp;pageNum=0) [using DiscMaster](https://discmaster.textfiles.com/search?family=image&amp;detection=PICT%2FSaMe&amp;dedup=dedup&amp;sortBy=itemid&amp;pageNum=0). A few stranglers found on the web brought the grand total to 320 tile sets.
 
 ----
 
