@@ -47,11 +47,13 @@ My fork has a few quality of life changes:
 
 I use the Spectrum variation of the them with the [IBM Plex Mono](https://github.com/IBM/plex/releases/tag/%40ibm%2Fplex-mono%401.1.0) font to great effect.
 
+![IMG](/images/posts/nova-monokai-pro-vibrant.png)
+
 ----
 
 ## Monokai Pro
 
-The original Monokai Pro theme by Wimer Hazenberg is not free, so I would encourage you to buy a licence even if you're using an unofficial port or modification of the theme. It's only right to support software developers. You can get a licence to use Monokai Pro from the original creator: [monokai.pro](https://monokai.pro)
+The original [Monokai Pro](https://monokai.pro) theme by Wimer Hazenberg is not free, so I would encourage you to buy a licence even if you're using an unofficial port or modification of the theme. It's only right to support software developers. You can get a licence to use Monokai Pro from the original creator: [monokai.pro](https://monokai.pro)
 
 ----
 
@@ -60,6 +62,3 @@ The original Monokai Pro theme by Wimer Hazenberg is not free, so I would encour
 I filed a [PR for these changes](https://github.com/keisto/Monokai-Pro.novaextension/pull/9), but it has not yet been accepted. I'm not comfortable distributing this on the official extension gallery at this time. So grab it from GitHub:
 
 [github.com/gingerbeardman/Monokai-Pro-Vibrant.novaextension/releases/](https://github.com/gingerbeardman/Monokai-Pro-Vibrant.novaextension/releases/)
-
-![IMG](/images/posts/nova-monokai-pro-vibrant.png "This is a screenshot of the Tony's Monokai Pro, there's no screenshot of my changes")
-{:.tofigure}
