@@ -44,7 +44,9 @@ The app itself is a customisable set of tabs—one per site—each containing a 
 
 ## Postmortem
 
-It worked well, and I used it heavily for the duration of its development. it also gained a number of passionate users on TestFlight. My only criticism is that the specific design of the app and the unreliability of my naive WebKit implementation meant that whilst the existing friction was removed by facilitating easier multi-site management, new friction was introduced elsewhere in the user experience. A better solution might be somewhere in between, perhaps using a more modern popover interface paradigm to switch between tabs rather than the back and forth of the navigation controller.
+It worked well, and I used it heavily for the duration of its development. it also gained a number of passionate users on TestFlight. My only criticism is that the specific design of the app and the unreliability of my naive WebKit implementation meant that whilst the existing friction was removed by facilitating easier multi-site management, new friction was introduced elsewhere in the user experience, and at the end of the day you're still interacting with a bunch of websites of varying quality. 
+
+A better solution might be somewhere in between, perhaps using a more modern popover interface paradigm to switch between tabs rather than the back and forth of the navigation controller. Then there are options to capture the results via API and present them in a unified way, but this opens up more questions and friction at the point you want to buy something. In short, it's a difficult problem!
 
 SwiftUI is fun to work with, despite it throwing its hands up at several points and me having to revert to my last commit to get it back on track. I don't really enjoy building iOS and macOS apps at this point in time, so Xcode became a bit of a chore and took a lot of the fun out of the project.
 
