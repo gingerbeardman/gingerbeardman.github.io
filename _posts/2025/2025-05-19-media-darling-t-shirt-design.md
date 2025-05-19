@@ -8,7 +8,7 @@ tags:
 - tshirt
 nouns:
 - Comptiq
-image: /images/posts/
+image: /images/posts/media-darling-tee.jpg
 featured: true
 pinned: false
 comments:
