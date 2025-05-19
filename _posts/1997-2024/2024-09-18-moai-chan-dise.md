@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Moai-chan-dise"
+modified: '2025-05-19T16:00+01:00'
 date: '2024-09-18T20:19+01:00'
 tags:
 - moai
@@ -68,4 +69,14 @@ Various sizes and colours.
 
 - [gingerbeardman.creator-spring.com/listing/moai-relaxing-sticker](https://gingerbeardman.creator-spring.com/listing/moai-relaxing-sticker)
 
-![PNG](/images/posts/moai-games-sticker-relaxing.png)
+![PNG](/images/posts/moai-games-sticker-relaxing.png)
+
+----
+
+## Alt Store
+
+Some buyers may choose to buy from my alternate web store which ships from the UK.
+
+[www.tshirtstudio.com/marketplace/gingerbeardman](https://www.tshirtstudio.com/marketplace/gingerbeardman)
+
+This store has more limited colour choices, though you can edit that during checkout. YMMV.
