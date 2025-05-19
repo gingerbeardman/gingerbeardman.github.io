@@ -21,7 +21,7 @@ comments:
 
 ---
 
-I was looking through [Comptiq, Vol. 41, April 1988](https://archive.org/details/comptiq-vol.-41-april-1988/) and spotted [an illustration showing the relative size of 2" floppy disks](https://archive.org/details/comptiq-vol.-41-april-1988/Comptiq%20-%20Vol.%2041%20April%201988/page/n207/mode/2up)—used in some word processors at the time—compared to more common floppy disks: 8", 5", and 3.5".
+I was looking through [Comptiq, Vol. 41, April 1988](https://archive.org/details/comptiq-vol.-41-april-1988/) and spotted [an illustration showing the relative size of 2" floppy disks](https://archive.org/details/comptiq-vol.-41-april-1988/Comptiq%20-%20Vol.%2041%20April%201988/page/n207/mode/2up)—used in some word processors at the time—compared to more common floppy disk sizes at the time: 8", 5", and 3.5".
 
 Which got me thinking about the ever decreasing size of storage and how it might make for a nice illustration on a T-shirt. So I created technical drawings of the following media in decreasing size:
 
