@@ -49,7 +49,7 @@ Here's a 30 minute vocal drum'n'bass DJ Mix, all but one tracks are from Jan to 
 
 </div>
 
-8 tracks with a duration of 29m34s. Much like [my last mix](/2024/12/31/music-recommendations-2024/), this was produced using the DJ.Studio app.
+8 tracks with a duration of 29m35s. Much like [my last mix](/2024/12/31/music-recommendations-2024/), this was produced using the DJ.Studio app.
 
 ----
 
