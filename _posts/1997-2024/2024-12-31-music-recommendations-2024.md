@@ -7,6 +7,8 @@ tags:
 - summary
 - year
 - best
+- music
+- djmix
 nouns:
 - Apple Music
 - Spotify
@@ -60,6 +62,8 @@ It was possible for me to create my first ever DJ mix thanks to some fantastic c
 |01:15:16 |Lucky Kilimanjaro |[Koi AoAoto](https://www.youtube.com/watch?v=suzLEc9Q1fg) |
 
 </div>
+
+----
 
 ## Playlists
 
