@@ -35,7 +35,7 @@ Here's a 30 minute vocal drum'n'bass DJ Mix, all but one tracks are from Jan to 
 
 <iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fgingerbeardman%2Fdnb-2025%2F" frameborder="0" ></iframe>
 
-8 tracks with a duration of 29m37s.
+8 tracks with a duration of 29m37s. Much like [my last mix](/2024/12/31/music-recommendations-2024/), this was produced using the DJ.Studio app.
 
 <div class="table-wrapper" markdown="block">
 |Timestamp|Artist|Song (Video)|
@@ -57,8 +57,4 @@ Here's a 30 minute vocal drum'n'bass DJ Mix, all but one tracks are from Jan to 
 
 - [Apple Music](https://music.apple.com/gb/playlist/dnb-2025/pl.u-25vlyToGzxJ)
 - [Spotify](https://open.spotify.com/playlist/4O6arqpdWqqzrOgFCL45CV?si=6b30968e91924064)
-
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:740px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/gb/playlist/dnb-2025/pl.u-25vlyToGzxJ"></iframe>
-
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4O6arqpdWqqzrOgFCL45CV?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- [YouTube](https://www.youtube.com/playlist?list=PLfF-zlMNYMd9oKLTTDq9iTDLrldpWsh6w)
