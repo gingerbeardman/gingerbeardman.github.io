@@ -35,8 +35,6 @@ Here's a 30 minute vocal drum'n'bass DJ Mix, all but one tracks are from Jan to 
 
 <iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fgingerbeardman%2Fdnb-2025%2F" frameborder="0" ></iframe>
 
-8 tracks with a duration of 29m34s. Much like [my last mix](/2024/12/31/music-recommendations-2024/), this was produced using the DJ.Studio app.
-
 <div class="table-wrapper" markdown="block">
 |Timestamp|Artist|Song (Video)|
 |---------|----|------|
@@ -50,6 +48,8 @@ Here's a 30 minute vocal drum'n'bass DJ Mix, all but one tracks are from Jan to 
 |25:14 |London Elektricity |[Build A Better World (feat. Emer Dineen)](https://www.youtube.com/watch?v=7Xqtb6pqSGk) |
 
 </div>
+
+8 tracks with a duration of 29m34s. Much like [my last mix](/2024/12/31/music-recommendations-2024/), this was produced using the DJ.Studio app.
 
 ----
 
