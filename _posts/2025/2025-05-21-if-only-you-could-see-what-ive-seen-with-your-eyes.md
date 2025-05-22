@@ -57,4 +57,5 @@ Here's a 30 minute vocal drum'n'bass DJ Mix, all but one tracks are from Jan to 
 
 - [Apple Music](https://music.apple.com/gb/playlist/dnb-2025/pl.u-25vlyToGzxJ)
 - [Spotify](https://open.spotify.com/playlist/4O6arqpdWqqzrOgFCL45CV?si=6b30968e91924064)
-- [YouTube](https://www.youtube.com/playlist?list=PLfF-zlMNYMd9oKLTTDq9iTDLrldpWsh6w)
+- [YouTube](https://www.youtube.com/playlist?list=PLfF-zlMNYMd9oKLTTDq9iTDLrldpWsh6w) (playlist)
+- [YouTube](https://youtu.be/WsmotKF3KLY) (video)
