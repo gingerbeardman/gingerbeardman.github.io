@@ -59,9 +59,10 @@ So I find it delightfully circular that in 2025 I am using the "ai" benefits of 
 
 ----
 
-## Further Reading
+## Download
+- [Open Sesame! 1.1 at Macintosh Garden](https://macintoshgarden.org/apps/open-sesame-11)
 
-- [Download Open Sesame! 1.1 at Macintosh Garden](https://macintoshgarden.org/apps/open-sesame-11)
+## Further Reading
 - [MacWorld: MacBulletin](https://archive.org/details/MacWorld_9308_August_1993/page/n26/mode/2up?q=%22open+sesame%22) (August 1993)
 - [MacWorld: News](https://archive.org/details/MacWorld_9309_September_1993/page/n37/mode/2up?q=%22open+sesame%22) (September 1993)
 - [MacWorld: advertisement](https://archive.org/details/MacWorld_9312_December_1993/mode/2up?q=%22open+sesame%22) (December 1993)
