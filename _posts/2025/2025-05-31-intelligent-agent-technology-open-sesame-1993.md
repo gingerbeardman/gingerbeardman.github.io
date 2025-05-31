@@ -11,6 +11,13 @@ tags:
 - ai
 nouns:
 - Open Sesame!
+- MacWorld
+- NASA
+- ChatGPT
+- Google
+- Gemini
+- Macintosh Garden
+- Macintosh
 featured: false
 pinned: false
 image: /images/posts/open-sesame.jpg
@@ -61,5 +68,5 @@ So I find it delightfully circular that in 2025 I am using the "ai" benefits of 
 - [MacWorld: review of version 1.02](https://archive.org/details/MacWorld_9405_May_1994/page/n85/mode/2up?q=%22open+sesame%22) (May 1994)
 - [MacWorld: advertisement](https://archive.org/details/MacWorld_9406_June_1994/mode/2up?q=%22open+sesame%22) (June 1994)
 - [MacWorld: price of version 1.1](https://archive.org/details/MacWorld_9412_December_1994/mode/2up?q=%22open+sesame%22) (December 1994)
-- [MacWorld: get Open Sesame! free with an extended keyboard](https://archive.org/details/MacWorld_9508_August_1995/page/n203/mode/2up?q=%22open+sesame%22) (August 1995)
+- [MacWorld: get Open Sesame! free when buying a keyboard](https://archive.org/details/MacWorld_9508_August_1995/page/n203/mode/2up?q=%22open+sesame%22) (August 1995)
 - [NASA Spinoff: Intelligent Agent Technology](https://spinoff.nasa.gov/spinoff1996/56.html) ([scan](https://archive.org/details/1991_20210720_202107/1996/page/n96/mode/1up)) (1996)
