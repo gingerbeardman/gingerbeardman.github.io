@@ -35,7 +35,7 @@ After years of unsuccessful attempts to find the name of a long-forgotten app th
 
 > "Back in my teens I saw a software demo for a Mac/Windows app that tracked what you were doing and offered to complete repetitive tasks for you. Like renaming all files in a folder it would interrupt after a few and offer to do the rest. Maybe late 80s or early 90s."
 
-Gemini instantly responded with the app by name and with references. (out of all the services I tried, ChatGPT was the only other one to ID the app correctly.)
+Gemini instantly responded with the app by name and with references. (out of all the services I tried, ChatGPT was the only other one to identify the app correctly.)
 
 Open Sesame! was "the world's first intelligent software assistant for the Macintosh. It observes how you work, learns your repetitive patterns, and then offers to do them for you. Automatically."
 
