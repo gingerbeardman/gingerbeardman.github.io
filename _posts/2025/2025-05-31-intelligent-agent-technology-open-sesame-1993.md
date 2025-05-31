@@ -14,11 +14,13 @@ nouns:
 featured: false
 pinned: false
 image: /images/posts/open-sesame.jpg
-
-style: |
-  div.ad-wrapper img {
-    float: left:
-  }
+comments:
+  - platform: twitter
+    url: https://twitter.com/gingerbeardman/status/1928626970117505125
+  - platform: bluesky
+    url: https://bsky.app/profile/gingerbeardman.com/post/3lqgmfyrso22v
+  - platform: mastodon
+    url: https://mastodon.gamedev.place/@gingerbeardman/114599891452425698
 
 ---
 
