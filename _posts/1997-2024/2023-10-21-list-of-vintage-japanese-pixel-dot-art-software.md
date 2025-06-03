@@ -17,6 +17,7 @@ nouns:
 - Yahoo! Japan Auctions
 - YouTube
 - Twitter
+- Google Sheet
 - Google
 featured: true
 image: /images/posts/list-of-vintage-japanese-pixel-dot-art-software.jpg
