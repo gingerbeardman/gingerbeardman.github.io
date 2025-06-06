@@ -39,7 +39,7 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
-Total entries: 240
+Total entries: 241
 
 <div class="table-wrapper" markdown="block">
 | Platform | English | Japanese | Year | Developer |
@@ -258,6 +258,7 @@ Total entries: 240
 | X68000 | GLab | | 1992 | Ushi no shizuku |
 | X68000 | gm256.x | | 1993 | Kanzu |
 | X68000 | Graphics Editor ARTIST | | 1992 | T.Shimanuki/GCC |
+| X68000 | Magic Palette | マジックパレット | 1990 | Musical Plan Ltd |
 | X68000 | Matier | マチエール | 1992 | Meteor Art Tech |
 | X68000 | mfged.x | | 1988 | Mamiyu Yuuki |
 | X68000 | MONOCRAYON | ＭＯＮＯくれよん | 1990 | Yasuhiro Sasama |
