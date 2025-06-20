@@ -45,7 +45,7 @@ Here's a 30 minute vocal drum'n'bass DJ Mix, all but one tracks are from Jan to 
 |12:10 |London Elektricity |[Life Is But A Dream](https://www.youtube.com/watch?v=mCzq077fr7g) |
 |17:13 |London Elektricity, Anile & Zara Kershaw |[Unfrozen](https://www.youtube.com/watch?v=rWN9bzhRz-Y) |
 |21:45 |Vio.let, Lauren-Paige & Keeno |[Worlds Apart](https://www.youtube.com/watch?v=NYChqwZgLGc) |
-|25:14 |London Elektricity |[Build A Better World (feat. Emer Dineen)](https://www.youtube.com/watch?v=7Xqtb6pqSGk) |
+|25:14 |London Elektricity & Emer Dineen |[Build A Better World](https://www.youtube.com/watch?v=7Xqtb6pqSGk) |
 
 </div>
 
