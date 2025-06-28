@@ -13,11 +13,11 @@ pinned: false
 image: /images/posts/xcode-automatic-build-number-01.png
 comments:
   - platform: twitter
-    url: https://twitter.com/gingerbeardman/status/
+    url: https://twitter.com/gingerbeardman/status/1939003982124396856
   - platform: bluesky
-    url: https://bsky.app/profile/gingerbeardman.com/post/
+    url: https://bsky.app/profile/gingerbeardman.com/post/3lsomi5sdz22e
   - platform: mastodon
-    url: https://mastodon.gamedev.place/@gingerbeardman/
+    url: https://mastodon.gamedev.place/@gingerbeardman/114762023824620373
 style: |
   img {
     margin: 0 auto;
