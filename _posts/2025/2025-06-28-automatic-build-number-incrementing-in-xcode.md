@@ -31,7 +31,7 @@ There are many ways to do automatic build version number incrementing in Xcode. 
 
 ## 1. Create a .xcconfig
 
-- Add a file (eg, `YourProject/BuildNumber.xcconfig`) to your project
+- Add a file `BuildNumber.xcconfig` to your project
 - Add that file to your `.gitignore` because it will change frequently
 - Add a *Pre-Action Script* to your *Scheme*:
     - In Xcode, edit your scheme (*Product > Scheme > Edit Scheme*).
@@ -66,7 +66,7 @@ echo "Updated build number to: $BUILD_NUMBER"
 
 ## 3. Set the version to use the config variable
 
-- In the build settings, set: Current Project Version to: `$(CURRENT_PROJECT_VERSION)`
+In the target build settings, set: Current Project Version to: `$(CURRENT_PROJECT_VERSION)`
 - It will show the version number in place
 
 ![IMG](/images/posts/xcode-automatic-build-number-03.png)
