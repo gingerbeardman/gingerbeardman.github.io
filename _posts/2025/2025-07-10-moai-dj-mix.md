@@ -35,7 +35,7 @@ An hour of songs with “Moai” somewhere in the title ...for no reason other t
 <div class="table-wrapper" markdown="block">
 |Timestamp|Artist|Song (Link)|
 |---------|----|------|
-|00:00 |Maria Usbeck |[Moai Y Yo](https://www.youtube.com/watch?v=T6-iqQ7KAoU) |
+|00:00 |Maria Usbeck |[Moai y yo](https://www.youtube.com/watch?v=T6-iqQ7KAoU) |
 |03:03 |Saphileaum |[Moai](https://www.youtube.com/watch?v=dVv0K-dEhoo) |
 |07:27 |Seotaiji |[Moai](https://www.youtube.com/watch?v=uYfWxnu5NCw) |
 |10:40 |Fila Brazillia |[The Moai](https://www.youtube.com/watch?v=AczD9YVyaPw) |
