@@ -58,9 +58,11 @@ At this point, early 2017, I interviewed at Apple for the iOS design team but it
 
 ## 2020s
 
-By the end of COVID lockdown I had created a body of work—games, animations, fonts, and artwork—which was enough for me to secure a shared work space at a place called [Krowji](https://www.krowji.org.uk) in Cornwall.
+One of the games I made in September 2023, [YOYOZO, won a "Game of the Year" accolade](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/). Another of my Playdate games, [Sparrow Solitaire](/2023/04/13/sparrow-solitaire-for-playdate/) that I made with Mac Vogelsang, seems to be one of the [highest-rated games for the system](https://www.backloggd.com/games/lib/rating/release_platform:playdate). However, it is worth noting that as of 2025, after 6 years of being focussed solely on Playdate as the only developer doing so full-time: [I no longer develop games for Playdate](/2025/04/15/when-playdate-stopped-being-fun/) after to a targeted campaign of harassment was left unaddressed by both Panic and the community at large. I can't be a part of that kind of toxic environment.
 
-One of the games I made in September 2023, [YOYOZO, won a "Game of the Year" accolade](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/). Another of my Playdate games, [Sparrow Solitaire](/2023/04/13/sparrow-solitaire-for-playdate/) that I made with Mac Vogelsang, seems to be one of the [highest-rated games for the system](https://www.backloggd.com/games/lib/rating/release_platform:playdate). And in early-2024, whilst using an old pocket computer, [I randomly stumbled across the earliest digital emoji](/2024/05/10/emoji-history-the-missing-years/), which was another nice surprise. I've also recovered over [1 million files relating to classic Macintosh](/2025/03/28/macintosh-magazine-media-1-million-files/), which is an ongoing project that has recovered some software that was thought lost forever. As of 2025, after 6 years, due to a targeted campaign of harassment [I no longer develop games for Playdate](/2025/04/15/when-playdate-stopped-being-fun/).
+Since 2020 I've also preserved and recovered over [1 million files relating to classic Macintosh](/2025/03/28/macintosh-magazine-media-1-million-files/), which is an ongoing project that has recovered some software that was thought lost forever. In early-2024, whilst using an old pocket computer, [I randomly stumbled across the earliest digital emoji](/2024/05/10/emoji-history-the-missing-years/), which was another nice surprise.
+
+Since the start of 2025 I've been developing software for a range of platforms from [Sega Dreamcast](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/) to macOS, iOS, and more.
 
 And that brings us to the present. I hope you've enjoyed reading this page, and I'll be sure to update it as time goes on. Cheers!
 
@@ -86,4 +88,4 @@ You can [subscribe to the blog using RSS](/feed.xml) and support it by [sending 
 
 ## Colophon
 
-This site is powered by Jekyll (I recommend it only if you're familiar with Ruby and modern web dev), stored in source control on GitHub, deployed and hosted statically on Netlify, though images are served from a separate Oracle Cloud server to keep my costs down. I edit my posts as Markdown in the Nova editor on macOS. The site presentation is a heavily modified version of the "Type" theme.
+This site is powered by Jekyll (I recommend it only if you're familiar with Ruby and modern web dev), stored in source control on GitHub, deployed and hosted statically on Netlify, though images are served from a separate Oracle Cloud Infrastructure server to minimise my costs. I edit my posts as Markdown in the Nova text editor with [a bunch of custom extensions](/2024/10/17/extensions-for-nova-editor/). The site presentation is a heavily modified version of the "Type" theme.
