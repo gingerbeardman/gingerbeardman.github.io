@@ -20,6 +20,8 @@ nouns:
 image: /images/posts/yoyozo-teaser.gif
 featured: true
 pinned: true
+redirect_from:
+- /2023/11/21/yoyozo/
 comments: https://twitter.com/gingerbeardman/status/1727030817116053611
 ---
 
