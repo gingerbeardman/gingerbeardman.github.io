@@ -67,7 +67,7 @@ Some related non-Japanese tracks in there. 🔰
 |109:21 |Hiroshi Yoshimura |Clouds|
 |114:40 |Masakatsu Takagi |Marginalia #148|
 |119:28 |Shinsuke Honda |Summer Clouds|
-|124:08 |Junichi Kamiyama & La Muse d'etoile |Aquarius|
+|124:08 |Junichi Kamiyama |Aquarius|
 |126:35 |Haruomi Hosono |Talking|
 |129:06 |Masakatsu Takagi |River Returns (Overture)|
 |130:24 |Shinsuke Honda |Dreamland|
