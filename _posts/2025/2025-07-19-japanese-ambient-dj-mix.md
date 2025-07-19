@@ -24,11 +24,11 @@ comments:
 
 ---
 
-My latest mix comprises Japanese ambient and adjacent tracks.
+My latest mix comprises Japanese ambient music.
 
-Some related non-Japanese tracks in there. 🔰
+Some related non-Japanese tracks also in there, just for kicks. 🔰
 
-[Listen on MixCloud](https://www.mixcloud.com/gingerbeardman/ambientalmente/) or via the alternatives below.
+[Listen on MixCloud](https://www.mixcloud.com/gingerbeardman/ambientalmente/).
 
 ----
 

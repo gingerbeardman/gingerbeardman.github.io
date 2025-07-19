@@ -26,7 +26,7 @@ comments:
 
 An hour of songs with “Moai” somewhere in the title ...for no reason other than it sounded like a fun challenge. And because Moai are cool. Why? Why not? ✨🗿✨
 
-[Listen on MixCloud](https://www.mixcloud.com/gingerbeardman/moai/) or via the alternatives below.
+[Listen on MixCloud](https://www.mixcloud.com/gingerbeardman/moai/).
 
 ----
 
