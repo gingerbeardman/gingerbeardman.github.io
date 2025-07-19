@@ -12,7 +12,7 @@ nouns:
 - YouTube
 - Mixcloud
 image: /images/posts/moai.jpg
-featured: true
+featured: false
 pinned: false
 comments:
   - platform: twitter
