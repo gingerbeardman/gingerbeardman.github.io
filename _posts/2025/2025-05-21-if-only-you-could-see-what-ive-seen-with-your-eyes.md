@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "If only you could see what I've seen with your eyes"
+title: "If only you could see what I've seen with your eyes (DJ mix)"
 date: '2025-05-21T15:00+01:00'
 tags:
 - djmix
