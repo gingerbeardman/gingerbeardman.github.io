@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
-modified: '2025-06-06T11:49+01:00'
+modified: '2025-07-22T17:20+01:00'
 date: '2023-10-21T16:56+01:00'
 tags:
 - graphics
@@ -39,7 +39,7 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
-Total entries: 241
+Total entries: 246
 
 <div class="table-wrapper" markdown="block">
 | Platform | English | Japanese | Year | Developer |
@@ -47,7 +47,7 @@ Total entries: 241
 | FM-7, X1 | Art Creator | | 1984 | MDBA |
 | FM-7/8 | Graphic Editor | | 1983 | Hiroshi Ichikawa |
 | FM-7/8 | Super Graphic Editor | スーパーグラフィック エディター | 1983 | T&amp;E SOFT |
-| FM-77 | FM Graphic Editor | | 1986 | Fujitsu |
+| FM-77 | FM Graphic Editor | FMグラフィックエディタⅡ V1.0 | 1986 | Fujitsu |
 | FM-R50/60 | Z's STAFF Kid FP | | 1988 | Zeit |
 | FM-R60/70 | Z's STAFF Kid FP | | 1990 | Zeit |
 | FM-Towns | ARTemis | | 1993 | Ryosuke Matsuuchi |
@@ -132,8 +132,10 @@ Total entries: 241
 | PC-88 | Z's STAFF Kid VA | | 1987 | Zeit |
 | PC-88 | Z's STAFF Kid88 | | 1987 | Zeit |
 | PC-88, X1 | Ink Pot | | 1985 | H.Komatsu |
+| PC-98 | 256 Color Drawing Tool | 256色お 絵描きツール | 1994 | |
 | PC-98 | 6 Coloured Pencils | 6色鉛筆 | 1993 | tsutosan |
 | PC-98 | Actor98 | アクター98 | 1990 | Soft Studio Panther |
+| PC-98 | Adventure Maker 98 | アドベンチャー ツクール98 | 1992 | ASCII/LOGiN |
 | PC-98 | Akane | あかね | 1992 | Miruhi Takahara |
 | PC-98 | Art Frontier | アートフロンティア | 1991 | Bijutech |
 | PC-98 | ArtCore (Art/V?) | | 1992 | SystemSoft |
@@ -208,6 +210,7 @@ Total entries: 241
 | Windows 9x | FudeBoard | | 1998 | matumoto |
 | Windows 9x | Gpen96 | | 1999 | Hiroshi Igami |
 | Windows 9x | GraphicsGale | | 2004 | HUMANBALANCE |
+| Windows 9x | HappyPaint32R | | 1997 | Isao Maruoka |
 | Windows 9x | Hyper KiD | | 2000 | Fanfare |
 | Windows 9x | Hyper-Paint | | 2004 | kiriman |
 | Windows 9x | iDraw | | 1996 | hawk |
@@ -226,6 +229,7 @@ Total entries: 241
 | Windows 9x | PAL Paint 2 | | 2005 | Togura |
 | Windows 9x | PictBear | | 2000 | Yasuyuki Kashiwagi |
 | Windows 9x | PictBear 2 | | 2009 | Yasuyuki Kashiwagi |
+| Windows 9x | piroPaint | | 2011 | piroyan |
 | Windows 9x | Pixia | | 2000 | Isao Maruoka |
 | Windows 9x | Pointillist Feng Chu 3 | 点画師鳳雛３ | 2005 | Maya Takimoto |
 | Windows 9x | PRETTY ART | | 2000 | dmms_21 |
@@ -264,13 +268,14 @@ Total entries: 241
 | X68000 | MONOCRAYON | ＭＯＮＯくれよん | 1990 | Yasuhiro Sasama |
 | X68000 | MONOCRAYON Wide Edition | ワイド版 ＭＯＮＯくれよん | 1994 | Noboru Ishii |
 | X68000 | Monotone | | 1988 | GUNchan |
+| X68000 | Object Editor | オブジェクトエディタ | 1990 | Tonbe |
 | X68000 | Onazorikun | | 1990 | Muchi |
 | X68000 | Prism 68K | プリズム68K | 1989 | WOLF TEAM |
 | X68000 | RG | ＲＧ | 1992 | RERO2 |
 | X68000 | RGBP | | 1994 | Tetsuya Kimura |
 | X68000 | Usagi | うさぎ | 1992 | IKUTA |
 | X68000 | XGE | | 1995 | KYA!,CHIAKI |
-| X68000 | XPST | | 1991 | kenna &amp; PUNA |
+| X68000 | XPST | えせきーすX68 | 1991 | kenna &amp; PUNA |
 | X68000 | Z's STAFF Pro-68K | | 1987 | Zeit |
 | X68000 | Z's STAFF Pro-68K v2.0 | | 1989 | Zeit |
 | Zaurus | PetitPaint | | 2001 | TOK |
