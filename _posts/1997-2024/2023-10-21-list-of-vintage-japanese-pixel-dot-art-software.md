@@ -230,7 +230,7 @@ Total entries: 246
 | Windows 9x | PictBear | | 2000 | Yasuyuki Kashiwagi |
 | Windows 9x | PictBear 2 | | 2009 | Yasuyuki Kashiwagi |
 | Windows 9x | piroPaint | | 2011 | piroyan |
-| Windows 9x | Pixia | | 2000 | Isao Maruoka |
+| Windows 9x | Pixia | | 1998 | Isao Maruoka |
 | Windows 9x | Pointillist Feng Chu 3 | 点画師鳳雛３ | 2005 | Maya Takimoto |
 | Windows 9x | PRETTY ART | | 2000 | dmms_21 |
 | Windows 9x | SPED4 | | 2001 | TwinkleSoft |
