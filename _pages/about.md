@@ -58,13 +58,15 @@ At this point, early 2017, I interviewed at Apple for the iOS design team but it
 
 ## 2020s
 
-One of the games I made in September 2023, [YOYOZO, won a "Game of the Year" accolade](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/). Another of my Playdate games, [Sparrow Solitaire](/2023/04/13/sparrow-solitaire-for-playdate/) that I made with Mac Vogelsang, seems to be one of the [highest-rated games for the system](https://www.backloggd.com/games/lib/rating/release_platform:playdate). However, it is worth noting that as of 2025, after 6 years of being focussed solely on Playdate as the only developer doing so full-time: [I no longer develop games for Playdate](/2025/04/15/when-playdate-stopped-being-fun/) after to a targeted campaign of harassment was left unaddressed by both Panic and the community at large. I can't be a part of that kind of toxic environment.
+In September 2023, one of my games — [*YOYOZO* — was awarded a “Game of the Year” accolade](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/). Another of my Playdate titles, *Sparrow Solitaire* (made in collaboration with Mac Vogelsang), has become [one of the highest-rated games on the system](https://www.backloggd.com/games/lib/rating/release_platform:playdate).
 
-Since 2020 I've also preserved and recovered over [1 million files relating to classic Macintosh](/2025/03/28/macintosh-magazine-media-1-million-files/), which is an ongoing project that has recovered some software that was thought lost forever. In early-2024, whilst using an old pocket computer, [I randomly stumbled across the earliest digital emoji](/2024/05/10/emoji-history-the-missing-years/), which was another nice surprise.
+However, as of 2025 — after six years of being the only full-time developer focused solely on one platform — [I no longer create games for the Playdate](/2025/04/15/when-playdate-stopped-being-fun/). This decision came after a targeted campaign of harassment was left unaddressed by both Panic and the broader community. I can’t continue to be part of an environment that tolerates and enables that kind of toxicity.
 
-Since the start of 2025 I've been developing software for a range of platforms from [Sega Dreamcast](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/) to macOS, iOS, and more.
+Beyond game development, since 2020 I’ve been preserving and recovering classic Macintosh software, [rescuing over a million files](/2025/03/28/macintosh-magazine-media-1-million-files/) — including some previously thought lost forever. In early 2024, while using an old pocket computer, [I also happened to stumble upon what may be the earliest known digital emoji](/2024/05/10/emoji-history-the-missing-years/) — a pleasant surprise.
 
-And that brings us to the present. I hope you've enjoyed reading this page, and I'll be sure to update it as time goes on. Cheers!
+Since the start of 2025, I’ve been creating software for a wide range of platforms, from the [Sega Dreamcast](/2020/12/03/dreamcast-gdemu-installation/) to macOS, iOS, the Web, and beyond.
+
+And that brings us to the present. Thanks for reading — I’ll keep this page updated as things evolve. Cheers!
 
 ----
 
