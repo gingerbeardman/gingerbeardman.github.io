@@ -82,3 +82,5 @@ Some related non-Japanese tracks also in there, just for kicks. 🔰
 39 tracks with a duration of 2h29m18s. As always, this was produced using the DJ.Studio app. 
 
 Let me know what you think of the tunes!
+
+- [Download](https://mega.nz/folder/UkokGISS#zZHaUOzcD1KmNY_yNbzwXQ)

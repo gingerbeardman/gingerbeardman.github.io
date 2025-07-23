@@ -70,11 +70,7 @@ It was possible for me to create my first ever DJ mix thanks to some fantastic c
 - [Apple Music](https://music.apple.com/gb/playlist/japanese-best-of-2024/pl.u-KRzZBtDLoK2)
 - [Spotify](https://open.spotify.com/playlist/7ruaRCzShrcfzKsy4GaYzm)
 - [YouTube](https://www.youtube.com/playlist?list=PLfF-zlMNYMd9Vlb7l3uCwQO_eh2VTAtc_)
-
-
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:740px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/gb/playlist/japanese-best-of-2024/pl.u-KRzZBtDLoK2"></iframe>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7ruaRCzShrcfzKsy4GaYzm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- [Download](https://mega.nz/folder/UkokGISS#zZHaUOzcD1KmNY_yNbzwXQ)
 
 ----
 
