@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "YOYOZO (or, how I made a Playdate game in 39KB)"
-modified: '2024-03-12T14:44+00:00'
+modified: '2025-08-01T08:58+02:00'
 date: '2023-11-21T23:59+00:00'
 tags:
 - graphics
@@ -11,8 +11,6 @@ tags:
 - filesize
 - yoyozo
 nouns:
-- Playdate Squad Discord Server
-- Playdate Squad Testers
 - Playdate
 - Catalog
 - YOYOZO
@@ -43,13 +41,13 @@ If you own a Playdate you can buy the game now at [play.date/games/yoyozo/](http
 
 ## But...*why?*
 
-The drive to produce a small game started after I sent the first playable version to testers from the Playdate Squad Discord Server. Steve at [*Scenic Route Software*](http://scenicroutesoftware.com), purveyor of quality video games, commented how tiny the game was. At that point it was 18KiB, but had no music or sound effects or polish. There was a long way to go. 
+The drive to produce a small game started after I sent the first playable version to testers. Steve at [*Scenic Route Software*](http://scenicroutesoftware.com), purveyor of quality video games, commented how tiny the game was. At that point it was 18KiB, but had no music or sound effects or polish. There was a long way to go. 
 
 Even so, I wondered how doable it would be to build the game out with an eye on keeping file size "low". I thought back to the days of my youth where whole games would fit on a single floppy disk, with room to spare. If they could do it, shouldn't I give it a try?
 
 It's worth noting that even with this mindset, I didn't make a huge sustained effort to meet the goal. On the contrary, it was just something I simply kept in mind as development proceeded. For that reason, I'm sure there are more ways the game could be made even smaller than it is, with the exact same code and content. For example, I never tried finding the most optimal format for things like music and particle data which are the two largest sets of embedded data.
 
-Finally, this is not a challenge, or me throwing down the gauntlet in any way. It's easy enough to make a smaller game, be it similar or entirely different, you'd just have to make different choices along the way. This was just me doing something nerdy as an additional limitation on top of the already enjoyable limitations of developing for Playdate.
+Finally, this is not a challenge, or me throwing down the gauntlet in any way. It's easy enough to make a smaller game, be it similar or entirely different, you'd just have to make different choices along the way. This was just me doing something nerdy as an additional constraint on top of the already enjoyable constraints of developing for Playdate.
 
 That said, I think every game developer should regularly make a point of writing code for an underpowered device as part of their own personal development—there are so many lessons to learn.
 
@@ -87,14 +85,14 @@ I thought it would be cool to outline the main features and how each contributes
 |How to play instructions | 0.4| 1|
 |Custom soundtrack capability | 0.1| 0.25|
 
-"Main code" contains: physics simulation, game structure and state management, multi-layered scoring and bonus system, score/stat tracking, loading and saving stats and settings, path recording and playback, animated introduction, plus the following *dynamic* systems: scrolling starfield, screen shake, music system, sound effects system.
+"Main code" contains: physics simulation, game structure and state management, multi-layered scoring and bonus system, score/stat tracking, loading and saving stats and settings, path recording and playback, animated introduction, plus the following *dynamic* systems: scrolling starfield, screen shake, music system, sound effects system. All running at 40fps.
 
 ----
 
 ## Abandoned and removed features
 
 - I tried a bunch of stuff during development. Such as asteroid fields or meteor showers that introduced obstacles that needed to be avoided, and black holes that would magnetically attract the ball. But I felt they detracted from the pureness of the concept, so I didn't go any further with them.
-- The positions of stars are randomly generated, but I have implemented a fixed "daily" layout in the game, which is really fun. It's a different experience to be able to play the same layout over and over, improving your execution of the same moves and eking out higher and higher scores. I'll reintroduce that option when Playdate Catalog gets score boards that reset daily.
+- The positions of stars are randomly generated, but I have implemented a fixed "daily" layout in the game, which is really fun. It's a different experience to be able to play the same layout over and over, improving your execution of the same moves and eking out higher and higher scores. I did plan to reintroduce that option when Playdate Catalog got score boards that reset daily, but by the time that happened [I was no longer developing Playdate](/2025/04/15/when-playdate-stopped-being-fun/).
 
 ----
 
@@ -139,7 +137,7 @@ The purpose of this section is not to say that developing a game quickly is bett
 
 YOYOZO is a game by Matt Sephton, with music by Jamie Hamshere.
 
-Thanks to CANO-Lab and Playdate Squad Testers.
+Thanks to CANO-Lab and Testers.
 
 ----
 
