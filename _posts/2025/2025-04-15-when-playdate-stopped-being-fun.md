@@ -8,6 +8,8 @@ tags:
 - timeline
 - gamedev
 - abandoned
+- harassment
+- bullying
 nouns:
 - Piskel for Playdate
 - Playdate
