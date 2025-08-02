@@ -10,9 +10,9 @@ tags:
 - bullying
 nouns:
 - Panic
-- Spotify
-- YouTube
-- Mixcloud
+- Playdate
+- The Cybersmile Foundation
+- Cybersmile
 image: /images/posts/cybersmile.png
 featured: true
 pinned: false
