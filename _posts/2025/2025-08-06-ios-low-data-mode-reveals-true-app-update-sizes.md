@@ -19,10 +19,15 @@ comments:
     url: https://bsky.app/profile/gingerbeardman.com/post/3lvps7ajffs2z
   - platform: mastodon
     url: https://mastodon.gamedev.place/@gingerbeardman/114980843542253669
-  
+style: |
+  img {
+    height: 1218px;
+  }
 ---
 
 An interesting side-effect of iOS Low Data Mode is that it shows you the exact size of an app update for your device, often a tiny fraction of the listed app size.
+
+There are more screenshots at the comment links.
 
 ![IMG](/images/posts/low-data-mode.png "eBay update actual size")
 {:.tofigure}
