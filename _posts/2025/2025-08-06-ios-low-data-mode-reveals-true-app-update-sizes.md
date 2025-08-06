@@ -24,4 +24,5 @@ comments:
 
 An interesting side-effect of iOS Low Data Mode is that it shows you the exact size of an app update for your device, often a tiny fraction of the listed app size.
 
-![IMG](/images/posts/low-data-mode.png)
+![IMG](/images/posts/low-data-mode.png "eBay update actual size")
+{:.tofigure}
