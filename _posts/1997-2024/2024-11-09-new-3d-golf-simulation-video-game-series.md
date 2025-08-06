@@ -234,6 +234,6 @@ I don't have much knowledge of real life golf events but I managed to figure the
 
 ## Devil's Course (Wicked 18)
 
-![Devil's Course box art](/images/posts/new-3d-golf-simulation-devils-course.jpg#box "Devil's Course (Wicked 18) is a very difficuly fictional/fantasy course")
+![Devil's Course box art](/images/posts/new-3d-golf-simulation-devils-course.jpg#box "Devil's Course (Wicked 18) is a very difficult fictional/fantasy course")
 {:.tofigure}
 
