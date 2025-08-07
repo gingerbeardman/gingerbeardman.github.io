@@ -2,7 +2,7 @@
 layout: post
 title: 'New 3D Golf Simulation (video game series)'
 date: '2024-11-09T20:00+00:00'
-modified: '2025-04-12T11:57+01:00'
+modified: '2025-08-07T21:02+01:00'
 tags:
 - japanese
 - golf
@@ -116,7 +116,7 @@ Things got interesting later that year with the follow-up ３Ｄゴルフシミ�
 
 A break of 4 years should give you some idea as to the work that was going on behind the scenes, culminating in the 1989 release of Harukanaru Augusta for PC-9801. This was an official licensed representation of *Augusta National Golf Club*, also known as the location of the famous *Masters* tournament.
 
-This is where the series really hit its stride and made lasting impressions: high resolution graphics using a bespoke dithering system to make the most of the limited colour palette, digitised caddy images and sound effects, catchy music using FM synthesis, detailed real life golf courses, and an engaging control system. The 3DGOLF system software was upgraded a couple of times over the next few years, and a handful of add-on courses were released.
+This is where the series really hit its stride and made lasting impressions: high resolution graphics using a bespoke dithering system to make the most of the limited colour palette, digitised caddy images and sound effects, catchy music using FM synthesis, detailed real life golf courses, and an engaging control system. The 3DGOLF system software was upgraded a couple of times over the next few years, and [a handful of add-on courses were released](https://archive.org/details/oh-pc-issue-135-nov-15-1990/Oh%21%20PC%20Issue%20135%20%28Nov%2015%201990%29/page/68/mode/2up?view=theater).
 
 For PC-9801 the total list of available courses counted six:
 
@@ -138,7 +138,7 @@ For PC-9801 the total list of available courses counted six:
 
 {% youtube Yp3YpAc2PpM @310 %}
 
-Harukanaru Augusta and Eight Lakes G.C. were also [released on FM-TOWNS and Sharp X68000](https://archive.org/details/oh-pc-issue-137-dec-15-1990/Oh%21%20PC%20Issue%20137%20%28Dec%2015%201990%29/page/86/mode/2up?q=%22POLYSYS%22), but not the later courses. Maybe sales weren't good enough? Harukanaru Augusta would also see a re-release as a "HD" version, running System Disk 2.5, but this was not backwards compatible with the previous releases. At this point the engine powering the games had been rewritten and was referred to as [POLYSYS](https://archive.org/details/technopolis-1989-11/01_journal-1989-11/page/n13/mode/2up?q=%22POLYSYS%22) and made claims of being an "Integrated 3D Processor" or software DSP. The holes were designed in a [custom CAD package](https://archive.org/details/new-3-d-golf-simulation-pebble-beach-no-hatou-shvc-gb-sfc-jp-manual-600-dpi/page/n63/mode/2up?q=%22POLYSYS%22). IIRC each 3D hole consisted of a mere 256 points! I need to find the cite for that.
+Harukanaru Augusta and Eight Lakes G.C. were also [released on FM-TOWNS and Sharp X68000](https://archive.org/details/oh-pc-issue-137-dec-15-1990/Oh%21%20PC%20Issue%20137%20%28Dec%2015%201990%29/page/86/mode/2up?q=%22POLYSYS%22), but not the later courses. Maybe sales weren't good enough? Harukanaru Augusta would also see a re-release as a "HD" version, running System Disk 2.5, but [this was not backwards compatible with the previous releases](https://archive.org/details/oh-pc-issue-135-nov-15-1990/Oh%21%20PC%20Issue%20135%20%28Nov%2015%201990%29/page/68/mode/2up?view=theater). At this point the engine powering the games had been rewritten and was referred to as [POLYSYS](https://archive.org/details/technopolis-1989-11/01_journal-1989-11/page/n13/mode/2up?q=%22POLYSYS%22) and made claims of being an "Integrated 3D Processor" or software DSP. The holes were designed in a [custom CAD package](https://archive.org/details/new-3-d-golf-simulation-pebble-beach-no-hatou-shvc-gb-sfc-jp-manual-600-dpi/page/n63/mode/2up?q=%22POLYSYS%22). IIRC each 3D hole consisted of a mere 256 points! I need to find the cite for that.
 
 ![POLYSYS logo](/images/posts/new-3d-golf-simulation-polysys.png#smaller "Would look great on a T-shirt, right?")
 {:.tofigure}
