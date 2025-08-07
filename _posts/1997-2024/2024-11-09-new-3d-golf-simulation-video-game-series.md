@@ -2,7 +2,7 @@
 layout: post
 title: 'New 3D Golf Simulation (video game series)'
 date: '2024-11-09T20:00+00:00'
-modified: '2025-08-07T21:02+01:00'
+modified: '2025-08-07T21:15+01:00'
 tags:
 - japanese
 - golf
@@ -117,6 +117,9 @@ Things got interesting later that year with the follow-up ３Ｄゴルフシミ�
 A break of 4 years should give you some idea as to the work that was going on behind the scenes, culminating in the 1989 release of Harukanaru Augusta for PC-9801. This was an official licensed representation of *Augusta National Golf Club*, also known as the location of the famous *Masters* tournament.
 
 This is where the series really hit its stride and made lasting impressions: high resolution graphics using a bespoke dithering system to make the most of the limited colour palette, digitised caddy images and sound effects, catchy music using FM synthesis, detailed real life golf courses, and an engaging control system. The 3DGOLF system software was upgraded a couple of times over the next few years, and [a handful of add-on courses were released](https://archive.org/details/oh-pc-issue-135-nov-15-1990/Oh%21%20PC%20Issue%20135%20%28Nov%2015%201990%29/page/68/mode/2up?view=theater).
+
+![IMG](/images/posts/new-3d-golf-simulation-course-data.jpg "Course Data, Vol. 1–3 (Oh! PC Issue 135, Nov 15 1990)")
+{:.tofigure}
 
 For PC-9801 the total list of available courses counted six:
 
