@@ -12,7 +12,7 @@ nouns:
 - YouTube
 - Mixcloud
 image: /images/posts/ambientalmente.jpg
-featured: false
+featured: true
 pinned: false
 comments:
   - platform: twitter
