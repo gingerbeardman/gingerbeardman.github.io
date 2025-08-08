@@ -6,7 +6,9 @@ permalink: /wishlist.html
 ---
 
 <br>
-I'm looking for some hard-to-find stuff, please [get in touch](/support) if you can help!
+I'm looking for some hard-to-find stuff, please [get in touch](/support) if you can help! Thanks!
+
+入手困難なものを探しているんだ！ありがとう！
 
 ## Japan
 
