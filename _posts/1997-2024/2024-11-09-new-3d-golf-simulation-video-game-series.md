@@ -72,7 +72,13 @@ nouns:
 - Windows 9x
 - Windows
 image: /images/posts/new-3d-golf-simulation-teaser.jpg
-comments: https://twitter.com/gingerbeardman/status/1855353720910791105
+comments:
+  - platform: twitter
+    url: https://twitter.com/gingerbeardman/status/1855353720910791105
+  - platform: bluesky
+    url: https://bsky.app/profile/gingerbeardman.com/post/3lvqmdimyus2k
+  - platform: mastodon
+    url: https://mastodon.gamedev.place/@gingerbeardman/113454985730481396
 style: |
   img[src$='#box'] {
     margin-top: 2rem !important;
