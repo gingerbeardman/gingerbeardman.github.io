@@ -146,6 +146,8 @@ Harukanaru Augusta and Eight Lakes G.C. were also [released on FM-TOWNS and Shar
 ![POLYSYS logo](/images/posts/new-3d-golf-simulation-polysys.png#smaller "Would look great on a T-shirt, right?")
 {:.tofigure}
 
+Throughout this hugely productive Japanese PC period T&E SOFT published a printed newsletter for New 3D Golf imulation owners called "Top Spin", which I'm yet to see a copy of. Please do get in touch if you have any information! 
+
 ----
 
 ## 16-bit Consoles
@@ -169,6 +171,8 @@ PlayStation and N64, on the other hand, got real 3D versions of the game. Even t
 That said, the Saturn still had a trump up its sleeve. Perhaps because it was very popular in Japan it was the console T&E SOFT chose to release the final 32-bit version of the game, [*Waialae no Kiseki ~Extra 36 Holes~*](https://www.youtube.com/watch?v=PCV6EsVBlJo). As you might expect from its name there were two extra courses bundled with this game. Windy G.C. was a brand new ultra-difficult course, whilst Eight Lakes G.C. was a modernisation of the fictional course featured in the 1990 add-on disk for the original Harukanaru Augusta game for PC-98 and X68000 that released back in 1989. Full circle self-referencing from T&E SOFT — nice!
 
 {% youtube HMq_9W8OCOQ %}
+
+The engine also powered RPG [Virtual Hydlide on SEGA Saturn](https://www.mobygames.com/game/13525/virtual-hydlide/screenshots/).
 
 ----
 
