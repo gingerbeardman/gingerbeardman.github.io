@@ -17,4 +17,4 @@ I'm looking for some hard-to-find stuff, please [get in touch](/support) if you 
 
 ## Rest of World
 
-- Deneba Systems [artWORKS 1.x](https://macintoshgarden.org/apps/artworks-101) or [Canvas 3.x](https://macintoshgarden.org/apps/canvas-354), software with manual, ~1992–5
+- Deneba Systems [artWORKS 1.x](https://macintoshgarden.org/apps/artworks-101) or [Canvas 3.x](https://macintoshgarden.org/apps/canvas-354), Macintosh software with manual, ~1992–5
