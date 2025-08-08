@@ -72,7 +72,13 @@ nouns:
 - Windows 9x
 - Windows
 image: /images/posts/new-3d-golf-simulation-teaser.jpg
-comments: https://twitter.com/gingerbeardman/status/1855353720910791105
+comments:
+  - platform: twitter
+    url: https://twitter.com/gingerbeardman/status/1855353720910791105
+  - platform: bluesky
+    url: https://bsky.app/profile/gingerbeardman.com/post/3lvqmdimyus2k
+  - platform: mastodon
+    url: https://mastodon.gamedev.place/@gingerbeardman/113454985730481396
 style: |
   img[src$='#box'] {
     margin-top: 2rem !important;
@@ -141,10 +147,12 @@ For PC-9801 the total list of available courses counted six:
 
 {% youtube Yp3YpAc2PpM @310 %}
 
-Harukanaru Augusta and Eight Lakes G.C. were also [released on FM-TOWNS and Sharp X68000](https://archive.org/details/oh-pc-issue-137-dec-15-1990/Oh%21%20PC%20Issue%20137%20%28Dec%2015%201990%29/page/86/mode/2up?q=%22POLYSYS%22), but not the later courses. Maybe sales weren't good enough? Harukanaru Augusta would also see a re-release as a "HD" version, running System Disk 2.5, but [this was not backwards compatible with the previous releases](https://archive.org/details/oh-pc-issue-135-nov-15-1990/Oh%21%20PC%20Issue%20135%20%28Nov%2015%201990%29/page/68/mode/2up?view=theater). At this point the engine powering the games had been rewritten and was referred to as [POLYSYS](https://archive.org/details/technopolis-1989-11/01_journal-1989-11/page/n13/mode/2up?q=%22POLYSYS%22) and made claims of being an "Integrated 3D Processor" or software DSP. The holes were designed in a [custom CAD package](https://archive.org/details/new-3-d-golf-simulation-pebble-beach-no-hatou-shvc-gb-sfc-jp-manual-600-dpi/page/n63/mode/2up?q=%22POLYSYS%22). IIRC each 3D hole consisted of a mere 256 points! I need to find the cite for that.
+Harukanaru Augusta and Eight Lakes G.C. were also [released on FM-TOWNS and Sharp X68000](https://archive.org/details/oh-pc-issue-137-dec-15-1990/Oh%21%20PC%20Issue%20137%20%28Dec%2015%201990%29/page/86/mode/2up?q=%22POLYSYS%22), but not the later courses. Maybe sales weren't good enough? Harukanaru Augusta would also see a mail-in upgrade release as a "HD" hard disk installable version, running System Disk 2.5, but [this was not backwards compatible with the previous releases](https://archive.org/details/oh-pc-issue-135-nov-15-1990/Oh%21%20PC%20Issue%20135%20%28Nov%2015%201990%29/page/68/mode/2up?view=theater). At this point the engine powering the games had been rewritten and was referred to as [POLYSYS](https://archive.org/details/technopolis-1989-11/01_journal-1989-11/page/n13/mode/2up?q=%22POLYSYS%22) and made claims of being an "Integrated 3D Processor" or software DSP. The holes were designed in a [custom CAD package](https://archive.org/details/new-3-d-golf-simulation-pebble-beach-no-hatou-shvc-gb-sfc-jp-manual-600-dpi/page/n63/mode/2up?q=%22POLYSYS%22). IIRC each 3D hole consisted of a mere 256 points! I need to find the cite for that.
 
 ![POLYSYS logo](/images/posts/new-3d-golf-simulation-polysys.png#smaller "Would look great on a T-shirt, right?")
 {:.tofigure}
+
+Throughout this hugely productive Japanese PC period T&E SOFT published a printed newsletter for New 3D Golf imulation owners called "Top Spin", which I'm yet to see a copy of. Please do get in touch if you have any information! 
 
 ----
 
@@ -169,6 +177,8 @@ PlayStation and N64, on the other hand, got real 3D versions of the game. Even t
 That said, the Saturn still had a trump up its sleeve. Perhaps because it was very popular in Japan it was the console T&E SOFT chose to release the final 32-bit version of the game, [*Waialae no Kiseki ~Extra 36 Holes~*](https://www.youtube.com/watch?v=PCV6EsVBlJo). As you might expect from its name there were two extra courses bundled with this game. Windy G.C. was a brand new ultra-difficult course, whilst Eight Lakes G.C. was a modernisation of the fictional course featured in the 1990 add-on disk for the original Harukanaru Augusta game for PC-98 and X68000 that released back in 1989. Full circle self-referencing from T&E SOFT — nice!
 
 {% youtube HMq_9W8OCOQ %}
+
+The engine also powered RPG [Virtual Hydlide on SEGA Saturn](https://www.mobygames.com/game/13525/virtual-hydlide/screenshots/).
 
 ----
 
