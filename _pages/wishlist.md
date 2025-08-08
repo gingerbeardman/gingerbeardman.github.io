@@ -1,14 +1,14 @@
 ---
 layout: page_footerless
 title: Wishlist
-# published: private
+published: private
 permalink: /wishlist.html
 ---
 
 <br>
 I'm looking for some hard-to-find stuff, please [get in touch](/support) if you can help! Thanks!
 
-入手困難なものを探しているんだ！ありがとう！
+入手困難なものを探しているんだ。もし手伝えるなら連絡をくれ！ありがとう！
 
 ## Japan
 
