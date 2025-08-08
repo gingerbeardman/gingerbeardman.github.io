@@ -1,7 +1,7 @@
 ---
 layout: page_footerless
 title: Wishlist
-published: private
+#published: private
 permalink: /wishlist.html
 ---
 
