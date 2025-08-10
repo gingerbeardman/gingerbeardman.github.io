@@ -57,3 +57,11 @@ An hour of songs with “Moai” somewhere in the title ...for no reason other t
 Let me know what you think of the tunes!
 
 - [Download](https://mega.nz/folder/UkokGISS#zZHaUOzcD1KmNY_yNbzwXQ)
+
+----
+
+## "Moai" by Giorgio Poi (2021)
+
+If you want to listen to one track that gives the vibe of this mix it's this one:
+
+{% youtube 7COqF5F1KJg  %}
