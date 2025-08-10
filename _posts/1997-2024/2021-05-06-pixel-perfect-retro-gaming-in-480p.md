@@ -14,7 +14,14 @@ nouns:
 - MStar
 image: /images/posts/pixel-perfect-480p-edtv-4.jpg
 carousel: pixel-perfect-480p-edtv
-comments: https://twitter.com/gingerbeardman/status/1390306410617966592
+comments:
+  - platform: twitter
+    url: https://twitter.com/gingerbeardman/status/1390306410617966592
+  - platform: bluesky
+    url: https://bsky.app/profile/gingerbeardman.com
+  - platform: mastodon
+    url: https://mastodon.gamedev.place/@gingerbeardman/113300844168675738
+
 featured: true
 
 ---
