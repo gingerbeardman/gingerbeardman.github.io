@@ -33,22 +33,22 @@ An hour of songs with “Moai” somewhere in the title ...for no reason other t
 <iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fgingerbeardman%2Fmoai%2F" frameborder="0" ></iframe>
 
 <div class="table-wrapper" markdown="block">
-|Timestamp|Artist|Song (Link)|
-|---------|----|------|
-|00:00 |Maria Usbeck |[Moai y yo](https://www.youtube.com/watch?v=T6-iqQ7KAoU) |
-|03:03 |Saphileaum |[Moai](https://www.youtube.com/watch?v=dVv0K-dEhoo) |
-|07:27 |Seotaiji |[Moai](https://www.youtube.com/watch?v=uYfWxnu5NCw) |
-|10:40 |Fila Brazillia |[The Moai](https://www.youtube.com/watch?v=AczD9YVyaPw) |
-|13:54 |Bala |[Moai](https://www.youtube.com/watch?v=pWIl9gToL74) |
-|19:56 |Jestofunk |[Moai Message](https://www.youtube.com/watch?v=t6vYUZ-8lZY) |
-|26:41 |Yosuke Onuma |[Moai's Tihai](https://www.youtube.com/watch?v=S-UY1LycRK4) |
-|34:27 |Atiø |[moai](https://soundcloud.com/ati_o/moai) |
-|35:50 |Tora Gargallo |[Smoking Moai](https://www.youtube.com/watch?v=AAAnp2A3UbU) |
-|38:11 |Glåsbird |[Moai](https://whitelabrecs.bandcamp.com/track/moai) |
-|40:45 |Monica Ramos |[Moai](https://www.youtube.com/watch?v=WBUDLisG23s) |
-|44:22 |Urban Zakapa |[Moai](https://www.youtube.com/watch?v=CuFtHgjdCII) |
-|48:33 |Giorgio Poi |[Moai](https://www.youtube.com/watch?v=7COqF5F1KJg) |
-|51:45 |La Bergerie |[Moaï](https://specific.bandcamp.com/track/moa) |
+|Timestamp|Artist|Song (Link)|Year|
+|---------|------|-----------|----|
+|00:00 |Maria Usbeck |[Moai y yo](https://www.youtube.com/watch?v=T6-iqQ7KAoU) | 2016 |
+|03:03 |Saphileaum |[Moai](https://www.youtube.com/watch?v=dVv0K-dEhoo) | 2025 |
+|07:27 |Seotaiji |[Moai](https://www.youtube.com/watch?v=uYfWxnu5NCw) | 2008 |
+|10:40 |Fila Brazillia |[The Moai](https://www.youtube.com/watch?v=AczD9YVyaPw) | 1997 |
+|13:54 |Bala |[Moai](https://www.youtube.com/watch?v=pWIl9gToL74) | 2007 |
+|19:56 |Jestofunk |[Moai Message](https://www.youtube.com/watch?v=t6vYUZ-8lZY) | 1995 |
+|26:41 |Yosuke Onuma |[Moai's Tihai](https://www.youtube.com/watch?v=S-UY1LycRK4) | 2016 |
+|34:27 |Atiø |[moai](https://soundcloud.com/ati_o/moai) | 2022 |
+|35:50 |Tora Gargallo |[Smoking Moai](https://www.youtube.com/watch?v=AAAnp2A3UbU) | 2020 |
+|38:11 |Glåsbird |[Moai](https://whitelabrecs.bandcamp.com/track/moai) | 2023 |
+|40:45 |Monica Ramos |[Moai](https://www.youtube.com/watch?v=WBUDLisG23s) | 1997 |
+|44:22 |Urban Zakapa |[Moai](https://www.youtube.com/watch?v=CuFtHgjdCII) | 2017 |
+|48:33 |Giorgio Poi |[Moai](https://www.youtube.com/watch?v=7COqF5F1KJg) | 2021 |
+|51:45 |La Bergerie |[Moaï](https://specific.bandcamp.com/track/moa) | 2018 |
 
 </div>
 
