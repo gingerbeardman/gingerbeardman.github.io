@@ -53,7 +53,7 @@ Some related non-Japanese tracks also in there, just for kicks. 🔰
 |060:11 |Sawako |Tsubomi Saku|2008|
 |060:51 |Susumu Yokota |The Future of Ecstasy|2019|
 |063:55 |Mitsuhiro |Infinity|1995|
-|064:32 |Shinsuke Honda |Moonlight Night|199|
+|064:32 |Shinsuke Honda |Moonlight Night|1991|
 |068:41 |Takashi Kokubo |The Story of Calm Forest|1993|
 |076:20 |Takashi Kokubo |Catalyzer|1990|
 |082:14 |Mitsuhiro |Illusion|1995|
