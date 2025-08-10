@@ -18,7 +18,7 @@ comments:
   - platform: twitter
     url: https://twitter.com/gingerbeardman/status/1390306410617966592
   - platform: bluesky
-    url: https://bsky.app/profile/gingerbeardman.com
+    url: https://bsky.app/profile/gingerbeardman.com/post/3lw2d2z3nzk2v
   - platform: mastodon
     url: https://mastodon.gamedev.place/@gingerbeardman/113300844168675738
 
