@@ -16,7 +16,7 @@ style: |
 
 ![Photo of Matt Sephton](https://www.gingerbeardman.com/matt-256.jpg "Matt Sephton"){:class="profile"}
 
-My name is *Matt Sephton*. One interesting thing about me is that I prefer to write my first name in lower case, *matt*, for aesthetic reasons. I'm an independent video game developer working only on my own ideas, but that's just the tip of the iceberg that is my life and career.
+My name is *Matt Sephton*. One interesting thing about me is that I prefer to write my first name in lower case, *matt*, for aesthetic reasons. I'm an independent software developer working only on my own video game and app ideas, but that's just the tip of the iceberg that is my life and career.
 
 This blog documents my various interests, and I hope you enjoy reading it.
 
