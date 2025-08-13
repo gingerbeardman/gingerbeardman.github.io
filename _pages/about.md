@@ -62,7 +62,7 @@ In December 2023, one of my games—[*YOYOZO*—was awarded a “Game of the Yea
 
 However, as of 2025—after six years of being the only full-time developer focused solely on that platform—[I no longer create games for the Playdate](/2025/04/15/when-playdate-stopped-being-fun/). This decision came after a targeted campaign of harassment was left unaddressed by both Panic and the broader community. I can’t continue to be part of an environment that tolerates and enables that kind of toxicity.
 
-Beyond game development, since 2020 I’ve been preserving and recovering classic Macintosh software, [rescuing over a million files](/2025/03/28/macintosh-magazine-media-1-million-files/)—including some previously thought lost forever. In early 2024, while using an old pocket computer, [I also happened to stumble upon what may be the earliest known digital emoji](/2024/05/10/emoji-history-the-missing-years/)—a pleasant surprise.
+Beyond game development, since 2020 I’ve been preserving and recovering classic Macintosh software, [rescuing over a million files](/2025/03/28/macintosh-magazine-media-1-million-files/) (30 million files when decompressed)—including some previously thought lost forever. In early 2024, while using an old pocket computer, [I also happened to stumble upon what may be the earliest known digital emoji](/2024/05/10/emoji-history-the-missing-years/)—a pleasant surprise.
 
 Since the start of 2025, I’ve been creating software for a wide range of platforms, from the [Sega Dreamcast](/2020/12/03/dreamcast-gdemu-installation/) to macOS, iOS, the Web, and beyond.
 
