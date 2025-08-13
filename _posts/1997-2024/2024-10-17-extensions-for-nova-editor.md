@@ -86,7 +86,7 @@ Allows you to apply `.editorconfig` indent rules to the current file, or all fil
 
 Allows you to see the scrollbar at all times. This is useful because the scrollbar also contains source control change markers. With scrollbars always visible you can more easily locate changes across the entire length of your document.
 
-This has already saved me so much time and effort and I've only been using the editor this way for a few a week. So I thought I'd create an extension to make it easier for other people to enjoy this usability improvement.
+This has already saved me so much time and effort and I've only been using the editor this way for a week. So I thought I'd create an extension to make it easier for other people to enjoy this usability improvement.
 
 [extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.scrollbars/](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.scrollbars/)
 
