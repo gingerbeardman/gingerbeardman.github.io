@@ -64,3 +64,9 @@ By enabling OEM Unlock the FRP lock will also be switched off, which is very han
 ## Android update
 
 From here I installed [Lineage OS 20](https://xdaforums.com/t/unofficial-rom-alpha-lineageos-20-for-sm-t713-may-16-2024.4667460/) (Android 13) on the device, which would otherwise be limited to very old Android 6 or 7. Other options are [Lineage OS 17.1](https://xdaforums.com/t/rom-unofficial-10-lineageos-17-1-t713-t719-t813-t819.4070161/) (Android 10) [Stock Android 7 Lite](https://xdaforums.com/t/rom-7-0-nougat-abandoned-stock-lite-v8-t713-t813.3746583/).
+
+----
+
+## For Mac Users
+
+on macOS you can use Odin or SamFw Tool in a virtual machine, using the latest official Samsung Android USB drivers. I did it in VMware Fusion 13 running Windows 11 ARM on an M1 MacBook Pro running macOS Sonoma 14.
