@@ -46,11 +46,11 @@ This took the brief very literally and replaced Chrome Dino in size and scope. I
 
 Multiple members of the team independently proposed the idea of space golf/billiards, or snooker as I called it which raised a few eyebrows, by which time I had already prototyped it. The initial version proved to be fun, so it was full steam ahead. 
 
-I set out to refine the game feel and figure out game progress. I'd been reading about procedural generation in Elite (thanks to Mark Moxon) and Mario Kart World (thanks Nintendo) and created something similar for my game. A whole universe of galaxies and planets to conquer! It worked well, but the traversal between galaxies and the overall structure didn't add anything to the game. 
+I set out to refine the game feel and figure out game progress. I'd been reading about procedural generation in Elite (thanks to [Mark Moxon](https://elite.bbcelite.com)) and Mario Kart World (thanks Nintendo) and created something similar for my game. A whole universe of galaxies and planets to conquer! It worked well, but the traversal between galaxies and the overall structure didn't add anything to the game. 
 
 ## Prototype 3
 
-So, I started the galaxy generation again from scratch. At this point I had the feeling of existential dread that all developers are probably familiar with. I wanted to trash it all and start again, but instead I went out for dinner and talked it over with a friend and fellow developer (thanks Dave).
+So, I started the galaxy generation again from scratch. At this point I had the feeling of existential dread that all developers are probably familiar with. I wanted to trash it all and start again, but instead I went out for dinner and talked it over with a close friend and fellow developer (thanks [Dave](https://bsky.app/profile/daveroberts.dev)).
 
 Eventually I calmed down and settled on a never-ending belt of galaxies. The transitions became much shorter and sweeter, and the game feel was better than ever. At this point I think I was still coding in [love2d](https://love2d.org). Things were locked down, so I ported the game to JavaScript using the [LittleJS](https://github.com/KilledByAPixel/LittleJS) framework. According to my notes the prototype was about 300 lines of code before I began the hard work of rounding it out into a game.
 
@@ -62,7 +62,7 @@ Without giving too much away, the galaxies are procedurally generated with a han
 
 Planets can either attract and repel, gravity varies, slingshots are possible, trick shots are possible, hole-in-one is possible. Wormholes can help or hinder.
 
-The deterministic nature of the game means that everybody plays the same series of galaxies but at their own pace. And you can watch a replay of your shot if you get a suitably amazing black-hole-in-one, with a quick press of the R key (thanks Sensible Soccer). The game is theoretically never-ending, and the difficulty comes with carefully balanced stepped progression and cyclical repeating of the various game properties (thanks Philip Glass).
+The deterministic nature of the game means that everybody plays the same series of galaxies but at their own pace. And you can watch a replay of your shot if you get a suitably amazing black-hole-in-one, with a quick press of the R key (thanks [Sensible Soccer](https://readonlymemory.com/the-making-of-sensible-soccer/)). The game is theoretically never-ending, and the difficulty comes with carefully balanced stepped progression and cyclical repeating of the various game properties (thanks [Steve Reich](https://en.wikipedia.org/wiki/Music_for_18_Musicians)).
 
 ----
 
