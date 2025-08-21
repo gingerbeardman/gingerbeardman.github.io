@@ -48,7 +48,7 @@ This took the brief very literally and replaced Chrome Dino in size and scope. I
 
 Multiple members of the team independently proposed the idea of space golf/billiards, or snooker as I called it which raised a few eyebrows, by which time I had already prototyped it. The initial version proved to be fun, so it was full steam ahead. 
 
-I set out to refine the game feel and figure out game progress. I'd been reading about procedural generation in Elite (thanks to [Mark Moxon](https://elite.bbcelite.com)) and Mario Kart World (thanks Nintendo) and created something similar for my game. A whole universe of galaxies and planets to conquer! It worked well, but the traversal between galaxies and the overall structure didn't add anything to the game. 
+I set out to refine the game feel and figure out game progress. I'd been reading about procedural generation in Elite (thanks [Mark Moxon](https://elite.bbcelite.com)) and Mario Kart World (thanks Nintendo) and created something similar for my game. A whole universe of galaxies and planets to conquer! It worked well, but the traversal between galaxies and the overall structure didn't add anything to the game. 
 
 ## Prototype 3
 
