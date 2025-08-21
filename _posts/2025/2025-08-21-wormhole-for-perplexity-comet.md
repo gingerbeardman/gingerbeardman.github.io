@@ -29,7 +29,7 @@ comments:
 
 Surprise! My latest game, Wormhole, is included in the [Comet web browser](https://www.perplexity.ai/comet) from [Perplexity](https://www.perplexity.ai). It started as an idea to replace the [Chrome Dino game](https://en.wikipedia.org/wiki/Dinosaur_Game) and grew into something a bit more sophisticated and fun, and a lot more on brand.
 
-Big love to Henry Modis and many others on the great team over at Perplexity. And to Soleio for the hookup—thanks sensei! 🙌
+Big love to [Henry Modisett](https://x.com/henrymodis) and many others on the great team over at Perplexity. And to [Soleio](https://x.com/soleio) for the hookup—thanks sensei! 🙌
 
 ![IMG](/images/posts/perplexity-comet.jpg)
 
@@ -75,11 +75,11 @@ So it's fun to mention some things that never made it. As well as the realistic 
 
 ## Finishing touches
 
-During prototyping I use geometric shapes: circles, rectangles, lines, and so on. The team at Perplexity then worked up visual designs and I implemented them as a combination of bitmaps, SVG for noise texture, CSS for round rects, and there are still arcs, circles, lines, and various fill types punching well above their weight. LittleJS (thanks Frank) is a fantastic and very well optimised framework that I encourage all game devs to check out.
+During prototyping I use geometric shapes: circles, rectangles, lines, and so on. The team at Perplexity then worked up visual designs and I implemented them as a combination of bitmaps, SVG for noise texture, CSS for round rects, and there are still arcs, circles, lines, and various fill types punching well above their weight. LittleJS (thanks [Frank](https://x.com/KilledByAPixel)) is a fantastic and very well optimised framework that I encourage all game devs to check out.
 
-Sound was initially synthesised using [ZzFX](https://github.com/KilledByAPixel/ZzFX) (thanks again Frank), given LittleJS has built-in support, but they were eventually replaced with digital audio and music (thanks neso).
+Sound was initially synthesised using [ZzFX](https://github.com/KilledByAPixel/ZzFX) (thanks again [Frank](https://x.com/KilledByAPixel)), given LittleJS has built-in support, but they were eventually replaced with digital audio and music (thanks [neso](https://x.com/nesodude)).
 
-The Comet launch page was designed by Escha Diol, product designer on Comet, who has been very supportive during this project. She's a pleasure to work alongside.
+The Comet launch page was designed by [Escha Diol](https://x.com/eschadiol), product designer on Comet, who has been very supportive during this project. She's a pleasure to work alongside.
 
 There are lots of details and a high level of polish in the game that are easily overlooked but are essential to the final feel: particles, parallax, keyboard control, replay, and more.
 
