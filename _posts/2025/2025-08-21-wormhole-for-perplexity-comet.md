@@ -29,7 +29,7 @@ comments:
 
 Surprise! My latest game, Wormhole, is included in the [Comet web browser](https://www.perplexity.ai/comet) from [Perplexity](https://www.perplexity.ai). It started as an idea to replace the [Chrome Dino game](https://en.wikipedia.org/wiki/Dinosaur_Game) and grew into something a bit more sophisticated and fun, and a lot more on brand.
 
-Big love to [Henry Modisett](https://x.com/henrymodis) and many others on the great team over at Perplexity. And to [Soleio](https://x.com/soleio) for the hookup—thanks sensei! 🙌
+Big love to [Henry Modisett](https://x.com/henrymodis) and the great team over at Perplexity. And to [Soleio](https://x.com/soleio) for the hookup—thanks sensei! 🙌
 
 ![IMG](/images/posts/perplexity-comet.jpg)
 
