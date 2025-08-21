@@ -12,7 +12,9 @@ nouns:
 - Chrome
 - Dino
 - LittleJS
+- ZzFX
 - Wormhole
+- love2d
 image: /images/posts/wormhole-perplexity-comet.png
 featured: true
 pinned: false
