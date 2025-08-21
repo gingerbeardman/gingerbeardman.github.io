@@ -13,25 +13,26 @@ nouns:
 - Dino
 - LittleJS
 - Wormhole
-image: /images/posts/comet.png
+image: /images/posts/wormhole-perplexity-comet.png
 featured: true
 pinned: false
-published: private
 comments:
   - platform: twitter
-    url: https://twitter.com/gingerbeardman/status/
+    url: https://twitter.com/gingerbeardman/status/1958591259402281063
   - platform: bluesky
-    url: https://bsky.app/profile/gingerbeardman.com/post/
+    url: https://bsky.app/profile/gingerbeardman.com/post/3lwwjuaa5is2l
   - platform: mastodon
-    url: https://mastodon.gamedev.place/@gingerbeardman/
+    url: https://mastodon.gamedev.place/@gingerbeardman/115068083056077870
 
 ---
 
 Surprise! My latest game, Wormhole, is included in the [Comet web browser](https://www.perplexity.ai/comet) from [Perplexity](https://www.perplexity.ai). It started as an idea to replace the [Chrome Dino game](https://en.wikipedia.org/wiki/Dinosaur_Game) and grew into something a bit more sophisticated and fun, and a lot more on brand.
 
-Big love to [Henry Modisett](https://x.com/henrymodis) and the great team over at Perplexity. And to [Soleio](https://x.com/soleio) for the hookup—thanks sensei! 🙌
+Big love to [Henry Modisett](https://x.com/henrymodis) and the great team over at Perplexity.
 
-![IMG](/images/posts/perplexity-comet.jpg)
+And to [Soleio](https://x.com/soleio) for the hookup—thanks sensei! 🙌
+
+![IMG](/images/posts/wormhole-perplexity-comet.jpg)
 
 ----
 
