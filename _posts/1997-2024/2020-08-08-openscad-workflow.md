@@ -33,7 +33,7 @@ I love building 3D this way, it’s kind of like LEGO. I use basic geometric bui
 
 In the image 2 you can see what the model looks like with all the blocks I have used to make it visible at once.
 
-My particular approach is _subtractive_— kind of like sculpting — I start with large blocks and cut away at them using other shapes and the _difference_ function. When finding the exact placement for a block I use the _#_ precedent which makes the blocks show up as semi-opaque red blocks. See main image.
+My particular approach is _subtractive_— kind of like sculpting—I start with large blocks and cut away at them using other shapes and the _difference_ function. When finding the exact placement for a block I use the _#_ precedent which makes the blocks show up as semi-opaque red blocks. See main image.
 
 I colour each block in a one or two shades of grey, black and white. This is to help with the conversion to 1-bit later on. It’s not so obvious here as the lighting makes the colours look many different shades - for example the wheels are black with white centre but look grey here. See image 3.
 

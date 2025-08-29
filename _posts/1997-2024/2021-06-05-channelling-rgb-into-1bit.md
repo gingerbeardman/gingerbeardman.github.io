@@ -67,4 +67,4 @@ Here are some example hi-res images showing the journey from initial render to f
 
 ## Elsewhere
 
-* 2021-06-06 — [Hacker News](https://news.ycombinator.com/item?id=27409371)
+* 2021-06-06—[Hacker News](https://news.ycombinator.com/item?id=27409371)

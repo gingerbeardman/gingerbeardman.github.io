@@ -39,7 +39,7 @@ TM: It was 1970.
 
 _BM: Are you freelance?_
 
-TM: I am; I do a lot for Scepter — and they've done a lot for me. They gave me my first chance at something like this, with the BT Express.
+TM: I am; I do a lot for Scepter—and they've done a lot for me. They gave me my first chance at something like this, with the BT Express.
 
 _BM: What is the appeal of discos?_
 

@@ -94,12 +94,12 @@ Be excellent to each other. And have fun.
 
 ## Postponed Projects
 
-- **Aero Club** — Flight school simulation inspired by Mode 7 and Pilotwings
-- **Beatnik** — Rhythm game with interactive music and beat-matched dynamic visuals
-- **Cosmic Trash** — Arcade action puzzle with realtime ray-traced graphics
-- **Daily Driver** — 60fps arcade racing with pre-rendered graphics (reborn as [Dream Ride](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/))
-- **Koatari** — Pachinko-style arcade game with pinball-inspired visuals, running up to 120fps
-- **Mole Hole** — A modern remake of Thoru Yamamoto's escape-maze concept
+- **Aero Club**—Flight school simulation inspired by Mode 7 and Pilotwings
+- **Beatnik**—Rhythm game with interactive music and beat-matched dynamic visuals
+- **Cosmic Trash**—Arcade action puzzle with realtime ray-traced graphics
+- **Daily Driver**—60fps arcade racing with pre-rendered graphics (reborn as [Dream Ride](/2025/01/05/dream-ride-for-sega-dreamcast-and-emulators/))
+- **Koatari**—Pachinko-style arcade game with pinball-inspired visuals, running up to 120fps
+- **Mole Hole**—A modern remake of Thoru Yamamoto's escape-maze concept
 
 ![IMG](/images/posts/molehole.gif#playdate "Mole Hole (2023, originally 1995)")
 {:.tofigure}

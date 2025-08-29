@@ -20,7 +20,7 @@ The hard work is done with a shell script, as I’m quite comfortable writing th
 5. create new folder
 6. move matching file into new folder
 
-This means that the folder name will change based on the render settings in the file — perfect!
+This means that the folder name will change based on the render settings in the file—perfect!
 
 I still have to make 9 small sets of manual text changes to render each car pose, so that’s the next thing I’ll try to automate by running OpenSCAD from the command line.
 

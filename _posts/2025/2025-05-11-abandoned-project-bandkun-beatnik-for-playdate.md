@@ -70,7 +70,7 @@ The idea for the remaster was to not remake the original game at all, but rather
 
 A couple of days later, 18th December 2020, [Cabel Sasser](https://cabel.com) of [Panic](https://panic.com) reached out:
 
-> "Hey Matt, I love a good challenge — do you want me to actually try to make contact with someone at Koei? Regarding Band-Kun? (Philosophically, the idea of reviving a long-forgotten PC Koei title is just enormously interesting to me ahhahah)".
+> "Hey Matt, I love a good challenge—do you want me to actually try to make contact with someone at Koei? Regarding Band-Kun? (Philosophically, the idea of reviving a long-forgotten PC Koei title is just enormously interesting to me ahhahah)".
 
 By 25th December 2020—thanks Santa!—Panic's guy in Japan, Noby, had a breakthrough finding contact details and sent an email to Koei. Their reply came quickly on 27th December 2020 when a lovely person in Koei's IP management department replied:
 

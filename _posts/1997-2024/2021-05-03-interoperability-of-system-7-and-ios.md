@@ -122,22 +122,22 @@ From there you can use Files to copy the file into BasiliskII's File Sharing fol
 
 Some file formats you are likely to come across:
 
-- **.hqx** — BinHex file
-- **.bin** — MacBinary file
-- **.sit** — StuffIt archive
-- **.cpt** — CompactPro archive
-- **.sea** — self-extracting archive
+- **.hqx**—BinHex file
+- **.bin**—MacBinary file
+- **.sit**—StuffIt archive
+- **.cpt**—CompactPro archive
+- **.sea**—self-extracting archive
 
 The above files can be converted or extracted using StuffIt, MindExpander, or CompactPro. You might also see files with more than one extension, in which case don't worry the file has been treated twice for good measure, you may have to open it twice in System 7 to get it into its final/original form.
 
-- **.dsk** — disk image
-- **.img** — disk image
-- **.smi** — self-mounting disk image
+- **.dsk**—disk image
+- **.img**—disk image
+- **.smi**—self-mounting disk image
 
 The above disk images can be mounted using StuffIt, ShrinkWrap, DiskCopy 6. You could also mount them in the BasiliskII interface, but I tend not to do so for disk images that I won't have mounted for very long.
 
-- **.iso** — standard CD-ROM disk image
-- **.toast** — proprietary CD-ROM disk image
+- **.iso**—standard CD-ROM disk image
+- **.toast**—proprietary CD-ROM disk image
 
 The above optical disk images should be mounted using the BasiliskII settings interface (shown at first launch, or whenever you shake your device). Disks mounted in this way will be available at every boot, and can only be removed by shutting down the system and restarting the emulator.
 

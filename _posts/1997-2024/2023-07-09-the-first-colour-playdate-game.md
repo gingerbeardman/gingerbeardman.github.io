@@ -59,7 +59,7 @@ This means I can draw debug info about a thing from the same code and logic resp
 
 After debugging the positions of everything during my collision logic, it occurred to me that I could abuse this system to give the game a colour overlay. 
 
-I do this by using the debug draw in the opposite way to how it's supposed to be used. Instead of drawing just the debug information, I set the hole screen to draw in colour and then — in the same way as above — at various points in my code *I punch out areas of the screen I do not want drawn in colour*. 
+I do this by using the debug draw in the opposite way to how it's supposed to be used. Instead of drawing just the debug information, I set the hole screen to draw in colour and then—in the same way as above—at various points in my code *I punch out areas of the screen I do not want drawn in colour*. 
 
 I'm not quite drawing everything twice, as the areas that are punched out are simple shapes approximating the elements in my game. Plus, this is made easier for me because everything in the game is already being drawn only with filled shapes.
 

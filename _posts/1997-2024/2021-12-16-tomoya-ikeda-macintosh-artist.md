@@ -110,7 +110,7 @@ Below are some of my personal favourites.
 
 ## Mandala
 
-From 1988 Ikeda-san became fascinated with mandala — the circular figures representing the universe in Hindu and Buddhist symbolism — and would go on to draw many of them. A handful have survived in print, scattered across Macintosh graphics books published at the time. I've scanned those that I've found so far.
+From 1988 Ikeda-san became fascinated with mandala—the circular figures representing the universe in Hindu and Buddhist symbolism—and would go on to draw many of them. A handful have survived in print, scattered across Macintosh graphics books published at the time. I've scanned those that I've found so far.
 
 ![JPG](/images/posts/tomoya-ikeda-mandala-88.jpg "Manadala 88. From <a href="https://archive.org/details/verbum203unse/page/8/mode/2up">Verbum 2.3 (Fall '88).</a><br>Created using clipart from the Scroll "Heaven" collection, assembled and coloured in PixelPaint. ")
 {:.tofigure}

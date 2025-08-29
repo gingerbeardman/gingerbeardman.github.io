@@ -23,11 +23,11 @@ To install: double click the file after it has downloaded.
 Why?
 ----
 
-Recently my buddy and fellow Former Apple Technology Evangelist @[TDRBY](https://medium.com/u/35a6b2e3855b?source=post_page-----c19f3d74f728--------------------------------) asked if there was an extension available for rendering Markdown files in Safari. I had a quick look — there wasn’t — and that got me thinking.
+Recently my buddy and fellow Former Apple Technology Evangelist @[TDRBY](https://medium.com/u/35a6b2e3855b?source=post_page-----c19f3d74f728--------------------------------) asked if there was an extension available for rendering Markdown files in Safari. I had a quick look—there wasn’t—and that got me thinking.
 
 On macOS you can use Quick Look plugins to add support for new file types to Finder’s Quick Look preview popup. These plugins are great, I use a bunch of them, but they only apply in Finder and not in Safari. Maybe I could do something similar?
 
-So, knowing that Safari renders plain text files by wrapping them in simple _HTML_ > _BODY_ > _PRE_ markup, I thought that an extension should be able to modify such files. That was enough to pique my interest — so I got to work!
+So, knowing that Safari renders plain text files by wrapping them in simple _HTML_ > _BODY_ > _PRE_ markup, I thought that an extension should be able to modify such files. That was enough to pique my interest—so I got to work!
 
 How?
 ----
@@ -36,8 +36,8 @@ The extension took less than an hour to put together. This blog post took me a l
 
 1.  Create new extension using _Safari_ > _Develop_ > _Extension Builder_ > _\+ button_
 2.  Set website access level to _All_
-3.  Confirm extensions run on plain text files in Safari by adding a CSS file containing only _body { background-color: red !important; }_ — success, they do!
-4.  Find a suitable JavaScript Markdown to HTML converter [showdown.js](https://github.com/showdownjs/showdown) — this ticks two important boxes: it is easy to use, and is still being actively developed
+3.  Confirm extensions run on plain text files in Safari by adding a CSS file containing only _body { background-color: red !important; }_—success, they do!
+4.  Find a suitable JavaScript Markdown to HTML converter [showdown.js](https://github.com/showdownjs/showdown)—this ticks two important boxes: it is easy to use, and is still being actively developed
 5.  Write a few lines of JavaScript to run _showdown.js_ on the page text and replace it with the generated HTML
 6.  Add [github-markdown.css](https://github.com/sindresorhus/github-markdown-css) and apply the _markdown-body_ class to make things look better
 7.  Configure the extension to run only on URLs ending in [common Markdown file extensions](http://superuser.com/a/285878)
@@ -45,7 +45,7 @@ The extension took less than an hour to put together. This blog post took me a l
 9.  Edit the .map file reference out of the minimised _showdown.js_ to avoid a runtime access warning
 10.  Build the release package
 
-At this point I’d like to mention a couple of great open-source projects that made this task so much easier: [github-markdown.css](https://github.com/sindresorhus/github-markdown-css) by _Sindre Sorhus_, and [showdown.js](https://github.com/showdownjs/showdown) by _Estevão Soares dos Santos_ — nice work guys!
+At this point I’d like to mention a couple of great open-source projects that made this task so much easier: [github-markdown.css](https://github.com/sindresorhus/github-markdown-css) by _Sindre Sorhus_, and [showdown.js](https://github.com/showdownjs/showdown) by _Estevão Soares dos Santos_—nice work guys!
 
 Testing
 -------

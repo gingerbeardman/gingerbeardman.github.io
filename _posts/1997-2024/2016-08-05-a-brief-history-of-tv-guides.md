@@ -18,7 +18,7 @@ _Disclaimer: whilst I am a former Apple employee, I know of less than nothing ab
 I get my kicks on Channel 6
 ---------------------------
 
-For a long time in the UK — during the pre-internet era, when computers loaded their software from tape cassettes and floppy disks — the Great British public turned to their Televisions for more than just TV shows. We had teletext information services which were kind of like having a limited but nonetheless powerful intranet built into your TV.
+For a long time in the UK—during the pre-internet era, when computers loaded their software from tape cassettes and floppy disks—the Great British public turned to their Televisions for more than just TV shows. We had teletext information services which were kind of like having a limited but nonetheless powerful intranet built into your TV.
 
 The BBC had what they called [Ceefax](https://en.wikipedia.org/wiki/Ceefax) (cf. “See facts”) whilst their main competitor ITV had [Oracle](https://en.wikipedia.org/wiki/ORACLE_(teletext)), which was eventually replaced by a service called Teletext (with a capital T) run by [Teletext Limited](https://en.wikipedia.org/wiki/Teletext_Ltd.) that went on to become a hugely popular service that dwarfed even the BBC’s offering.
 
@@ -52,14 +52,14 @@ Even though this was only 5 years ago, it was still a time where the remote cont
 Knowing Me, Knowing You
 -----------------------
 
-Today Freeview continues in one form or another. There are a small number of middleware providers that have made the MHEG headaches largely disappear. But Freeview now has a number of competitors, the most interesting of which — when it comes to TV Guides at least — is [YouView](https://en.wikipedia.org/wiki/YouView). YouView is both the name of the platform and the partnership that own it.
+Today Freeview continues in one form or another. There are a small number of middleware providers that have made the MHEG headaches largely disappear. But Freeview now has a number of competitors, the most interesting of which—when it comes to TV Guides at least—is [YouView](https://en.wikipedia.org/wiki/YouView). YouView is both the name of the platform and the partnership that own it.
 
 The most interesting feature of YouView, as a platform, is the way it combines catch-up content with scheduled content in its EPG. This allows you to [scroll backwards through the timeline to get to the tv shows you’ve missed](http://www.youview.com/features/). But it seems that making a longer timeline isn’t the solution to the problem of there being too much on TV.
 
 Oranges and Apples
 ------------------
 
-So what’s next? Apple seems to think that the days of scheduled content are over. They probably have a point. The rise of on-demand services from Netflix, Hulu, Amazon, HBO, BBC — and almost every other TV programmer — means that it’s no longer as simple as putting all available channels on a timeline. Sky TV has an interface that has been struggling under the weight of this problem for decades, and their latest [Sky Q](http://www.sky.com/shop/tv/sky-q/overview/) product doesn’t do much to ease the problem, let alone solve it.
+So what’s next? Apple seems to think that the days of scheduled content are over. They probably have a point. The rise of on-demand services from Netflix, Hulu, Amazon, HBO, BBC—and almost every other TV programmer—means that it’s no longer as simple as putting all available channels on a timeline. Sky TV has an interface that has been struggling under the weight of this problem for decades, and their latest [Sky Q](http://www.sky.com/shop/tv/sky-q/overview/) product doesn’t do much to ease the problem, let alone solve it.
 
 ![](https://miro.medium.com/max/1400/1*2eklqpXtNnroW_oQ9AhZIA.jpeg "TV Guide: Sky Q")
 {:.tofigure}
@@ -71,9 +71,9 @@ A better approach would be to make the TV guide more intelligent. Categorising a
 
 My guess is that Apple’s intentions for a TV Guide can be summed up in one word: Siri.
 
-Already present on the current Apple TV software, tvOS has added content providers to Siri’s knowledge at an increasing rate — as long as you live in the USA. The rest of us are stuck being able to search only iTunes and Netflix. Regardless, the Siri efforts in the USA could be seen as laying the groundwork for a unified TV Guide feature.
+Already present on the current Apple TV software, tvOS has added content providers to Siri’s knowledge at an increasing rate—as long as you live in the USA. The rest of us are stuck being able to search only iTunes and Netflix. Regardless, the Siri efforts in the USA could be seen as laying the groundwork for a unified TV Guide feature.
 
-However, asking Siri to show you the latest episode of Stranger Things, a movie starring Peter Dinklage, or a movie featuring a VW Beetle, can only go so far. More often than not I find myself looking at my Apple TV home screen clutching the Siri remote — a thing of beautiful symmetry and dubious usability — with no idea what I should watch, and fearful that the brief window of time that I have will be over before it’s even begun. Why can’t Siri decide?
+However, asking Siri to show you the latest episode of Stranger Things, a movie starring Peter Dinklage, or a movie featuring a VW Beetle, can only go so far. More often than not I find myself looking at my Apple TV home screen clutching the Siri remote—a thing of beautiful symmetry and dubious usability—with no idea what I should watch, and fearful that the brief window of time that I have will be over before it’s even begun. Why can’t Siri decide?
 
 ![](https://miro.medium.com/max/1400/1*1w4mMS-TuykT96eTqumcdQ.jpeg)
 

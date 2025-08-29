@@ -124,5 +124,5 @@ I'd love to hear about other methods of achieving dynamic music and sound in vid
 
 ### Elsewhere
 
-* 2023-11-22 — [Hacker News](https://news.ycombinator.com/item?id=38584336)
-* 2023-11-22 — [Tildes](https://tildes.net/~games/1crg/dynamic_music_and_sound_techniques_for_video_games)
+* 2023-11-22—[Hacker News](https://news.ycombinator.com/item?id=38584336)
+* 2023-11-22—[Tildes](https://tildes.net/~games/1crg/dynamic_music_and_sound_techniques_for_video_games)

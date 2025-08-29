@@ -27,11 +27,11 @@ The headphones have a companion app that you can do a hearing test with, and you
 
 After three years the expected battery life was down from around 6 hours to perhaps 2 or 3 hours at best. To give you an idea of what an inconvenience this is: I'd have to go into a movie with a full charge or they'd run out part way through. I looked around for a replacement set but they're hard to come by and I don't like the design of the 2nd generation model so I decided to see if I could change the batteries myself. I watched some YouTube videos and it seemed doable!
 
-I couldn't find any direct replacements, the *3.7V VDL 53mAh 410920 lithium-ion* seem unobtainable in 2023 and I needed two of them. I eventually settled on two *3.7V 80mAh 401119 lithium-polymer* batteries, of no particular brand, but from a reputable eBay seller. They are pretty much identical sizes — roughly 2cm x 1cm x 0.4cm — and are a straight swap. The new batteries have a higher power rating so I'm hoping to get longer usage between charges: we'll see.
+I couldn't find any direct replacements, the *3.7V VDL 53mAh 410920 lithium-ion* seem unobtainable in 2023 and I needed two of them. I eventually settled on two *3.7V 80mAh 401119 lithium-polymer* batteries, of no particular brand, but from a reputable eBay seller. They are pretty much identical sizes—roughly 2cm x 1cm x 0.4cm—and are a straight swap. The new batteries have a higher power rating so I'm hoping to get longer usage between charges: we'll see.
 
 ## Let's do this!
 
-The battery cover compartments separate by pulling apart — carefully — perpendicular to the seam (so, each half directly away from each other and the line of the wire). One battery, I think the furthest from the remote, has two wires: ground and positive. The other battery, I think closest to the remote, has three wires: ground, positive and negative. Just desolder the existing batteries and solder the new batteries in their place.
+The battery cover compartments separate by pulling apart—carefully—perpendicular to the seam (so, each half directly away from each other and the line of the wire). One battery, I think the furthest from the remote, has two wires: ground and positive. The other battery, I think closest to the remote, has three wires: ground, positive and negative. Just desolder the existing batteries and solder the new batteries in their place.
 
 > Warning: the remote itself doesn't need to be opened, as it contains only a small circuit board with surface mounted buttons, the USB-C charging socket, and related bluetooth electronics. It opens with a similar process to the battery covers, but I found that it is more easily damaged (and I did damage mine) so I would recommend leaving well enough alone!
 

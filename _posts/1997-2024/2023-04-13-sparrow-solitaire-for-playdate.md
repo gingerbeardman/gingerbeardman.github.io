@@ -38,7 +38,7 @@ This post is a continuation of the history of the development of the game, going
 
 This type of game is commonly called Mahjong Solitaire, because it uses mahjong tiles to form the layouts and it's usually a single-player game. But the traditional tiles are somewhat inscrutable to newcomers. They are from a totally different game that goes by the name of _Mahjong_, which further confuses the situation. For this reason most Mahjong Solitaire games use alternative, more recognisable and approachable tile patterns.
 
-Whilst reading about the history of mahjong, I discovered that in Chinese the game was originally called 麻雀 (pinyin: máquè) — meaning *sparrow*. This seemed like a nice alternative name for the game, allowing me to use alliteration, and avoiding the complexity that comes with the traditional mahjong tiles, and of course having cultural sensitivity top of mind.
+Whilst reading about the history of mahjong, I discovered that in Chinese the game was originally called 麻雀 (pinyin: máquè)—meaning *sparrow*. This seemed like a nice alternative name for the game, allowing me to use alliteration, and avoiding the complexity that comes with the traditional mahjong tiles, and of course having cultural sensitivity top of mind.
 
 ## A brief history of Mahjong Solitaire
 
@@ -121,4 +121,4 @@ Less than two weeks after version 1.0 we released an update to address a few sma
 
 ### Elsewhere
 
-* 2024-03-08 — [Playdate Community Awards 2023: Best Puzzle Game](https://play.date/games/community-awards-2023/)
+* 2024-03-08—[Playdate Community Awards 2023: Best Puzzle Game](https://play.date/games/community-awards-2023/)

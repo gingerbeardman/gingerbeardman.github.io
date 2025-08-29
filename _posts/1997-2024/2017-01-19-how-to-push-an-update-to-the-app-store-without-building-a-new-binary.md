@@ -12,7 +12,7 @@ comments: https://twitter.com/gingerbeardman/status/1517897365373571073
 
 ---
 
-This post details how to easily deal with a request from Apple to update an old app that is still working perfectly — without having to setup a development environment to build it from source.
+This post details how to easily deal with a request from Apple to update an old app that is still working perfectly—without having to setup a development environment to build it from source.
 
 ## TL;DR
 
@@ -67,7 +67,7 @@ Uploading to iTunes Connect outside of Xcode requires Application Loader. I trie
 ![PNG](/images/posts/update-app-no-new-binary-app-loader-1.png "Error: The Info.plist indicates a iOS app, but submitting a pkg or mpkg.")
 {:.tofigure}
 
-![PNG](/images/posts/update-app-no-new-binary-app-loader-2.png "Error: No version found for ‘adamId — platform’ (485354734 — iOS App). If this problem persists for more than 24 hours, please contact your Apple representative.")
+![PNG](/images/posts/update-app-no-new-binary-app-loader-2.png "Error: No version found for ‘adamId—platform’ (485354734—iOS App). If this problem persists for more than 24 hours, please contact your Apple representative.")
 {:.tofigure}
 
 Some Googling found a [StackOverflow post](http://stackoverflow.com/questions/32659970/upload-to-app-store-failed-no-version-found-for-adamid-platform) that recommended using [Application Loader 3.0](https://itunesconnect.apple.com/apploader/ApplicationLoader_3.0.dmg). After downloading this older version (interestingly it’s the one Apple link to from iTunes Connect) everything went smoothly!

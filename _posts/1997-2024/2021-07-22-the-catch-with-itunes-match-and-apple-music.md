@@ -31,7 +31,7 @@ I play most music through the Music app on my Mac or iPhone, new releases throug
 
 Apple introduced iTunes Match in 2011 and year or so later I signed up for the yearly subscription to enable me to sync my music library to the cloud and be able to play my collection from other devices than my Mac. And when Apple Music was introduced in 2015 I subscribed so I could more easily access both new music releases and their entire library that is far larger than my own collection. And that brings us to the present.
 
-So! Where where we? Ah, yes, I was chatting to a friend — lamenting MiniDisc and explaining how I access my music in the year 2021. I was about to send a link to explain iTunes Match and there on the page I noticed [a pullout mentioning Apple Music](https://support.apple.com/en-us/HT204146) (emphasis mine):
+So! Where where we? Ah, yes, I was chatting to a friend—lamenting MiniDisc and explaining how I access my music in the year 2021. I was about to send a link to explain iTunes Match and there on the page I noticed [a pullout mentioning Apple Music](https://support.apple.com/en-us/HT204146) (emphasis mine):
 
 > **If you have an Apple Music membership, you get all of the benefits of iTunes Match**, plus access to the entire Apple Music catalog. You can also get a Family Membership to share the catalog with your family members. Learn more about joining Apple Music.
 

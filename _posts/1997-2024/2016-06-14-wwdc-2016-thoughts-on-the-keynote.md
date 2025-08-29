@@ -21,7 +21,7 @@ If you missed it you can watch a recording of the keynote at [www.apple.com/appl
 Fast and fun
 ------------
 
-For me that was a markedly better keynote than last year. More focussed, more features, more new faces. Some really great presenters appeared on stage — other than [Craig Federighi](http://www.apple.com/uk/pr/bios/craig-federighi.html), of course — I remember at least five that really made an impression. I hope that trend continues as the old guard make way for the new.
+For me that was a markedly better keynote than last year. More focussed, more features, more new faces. Some really great presenters appeared on stage—other than [Craig Federighi](http://www.apple.com/uk/pr/bios/craig-federighi.html), of course—I remember at least five that really made an impression. I hope that trend continues as the old guard make way for the new.
 
 watchOS
 -------
@@ -44,20 +44,20 @@ Name change! But for those of us who have been around the block a few times, eve
 
 Universal Clipboard, for me as a heavy user of a clipboard management app (Alfred) is a real killer feature that only the OS can provide at the level of integration it needs to be done. I thought the demo of this was great. Craig was excellent once again. Apple Pay in Safari, huge news that didn’t raise many eyebrows. A tool to help people free up space on their Mac, I suspect a reaction to the glut of mediocre apps that proclaim to do similar tasks filling up the Mac App Store charts.
 
-Tabs everywhere — done at an OS-level so multi-window apps get the feature for free — my hunch is that this, along with PiP, is the start of a push to get more users using full screen mode. But why might that be? Hmm.
+Tabs everywhere—done at an OS-level so multi-window apps get the feature for free—my hunch is that this, along with PiP, is the start of a push to get more users using full screen mode. But why might that be? Hmm.
 
 Siri! Very impressive demos. Let’s see if I’m ready to talk to my machine.
 
 iOS
 ---
 
-Less than half way into the keynote and we are already at iOS. This reaffirmed the sheer amount of new stuff in iOS — let’s not forget that it’s the most important platform by far for Apple.
+Less than half way into the keynote and we are already at iOS. This reaffirmed the sheer amount of new stuff in iOS—let’s not forget that it’s the most important platform by far for Apple.
 
 The new lock screen and associated integration looks exactly what it should have been all along. Sliding to the right to get to Camera might take a bit of getting used to, but I appreciate the issue that TouchID now being so fast that something had to change with the lock screen UI.
 
 Developers now get API hooks into more of iOS, which can only be a good thing to herald in new types of apps. I’m excited to see what might come of an API that can search through the objects found in photos.
 
-Apple Music — what a demo! I loved Boz’s style. Interesting new design language being used in Music and News, perhaps trying to adjust the target audience to a younger demographic? Certainly made both apps feel less stuffy to me. Big changes after only a year.
+Apple Music—what a demo! I loved Boz’s style. Interesting new design language being used in Music and News, perhaps trying to adjust the target audience to a younger demographic? Certainly made both apps feel less stuffy to me. Big changes after only a year.
 
 The demo of Messages was another favourite, despite the technical hiccups half way through. Cupertino looking firmly and squarely at Menlo Park. Integration with extensions mean stock apps like Maps and Messages stand a good chance at becoming real competition to Facebook’s [Messenger](https://itunes.apple.com/gb/app/messenger/id454638411?mt=8) and [Snapchat](https://itunes.apple.com/gb/app/snapchat/id447188370?mt=8) apps.
 
@@ -70,9 +70,9 @@ More…
 
 Other things I spotted that weren’t called out in the keynote but that I’ll be looking into over the course of the week:
 
-*   [Apple File System](https://developer.apple.com/library/prerelease/content/documentation/FileManagement/Conceptual/APFS_Guide/Introduction/Introduction.html) — a Next-Generation File System for Apple Products, replaces HFS and optimised for current and future technologies.
-*   [Removal of stock apps](http://techcrunch.com/2016/06/13/apple-unbundles-its-native-apps-like-mail-maps-music-and-more-puts-them-in-the-app-store/) — more control for the user, and more frequent updates from Apple.
-*   [Safari Extensions on the Mac App Store](https://developer.apple.com/safari/) — very cool new avenue for developers to make money.
+*   [Apple File System](https://developer.apple.com/library/prerelease/content/documentation/FileManagement/Conceptual/APFS_Guide/Introduction/Introduction.html)—a Next-Generation File System for Apple Products, replaces HFS and optimised for current and future technologies.
+*   [Removal of stock apps](http://techcrunch.com/2016/06/13/apple-unbundles-its-native-apps-like-mail-maps-music-and-more-puts-them-in-the-app-store/)—more control for the user, and more frequent updates from Apple.
+*   [Safari Extensions on the Mac App Store](https://developer.apple.com/safari/)—very cool new avenue for developers to make money.
 *   I’m sure more new features will come to light this week.
 
 Teaser websites

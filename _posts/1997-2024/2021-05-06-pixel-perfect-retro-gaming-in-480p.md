@@ -62,8 +62,8 @@ I'm yet to find a 16:9 aspect LCD 480p EDTV with PC input. Though I continue to 
 | Philips | 20HF5474 | EU | LC4.1HE | Y | Genesis | Y | DVI | 2006 |
 | Philips | 20PF4110 | EU | LC4.1E | Y | Genesis | Y | DVI | 2005 |
 | Philips | 20HF5473 | EU | LC4.1E | Y | Genesis | Y | DVI | 2005 |
-| Toshiba | 20LS30 | JP | — | Y | Genesis | Y | VGA, D2 | 2005 |
-| Toshiba | 20DL75 | US | — | Y | Genesis | Y | VGA | 2005 |
+| Toshiba | 20LS30 | JP |—| Y | Genesis | Y | VGA, D2 | 2005 |
+| Toshiba | 20DL75 | US |—| Y | Genesis | Y | VGA | 2005 |
 
 Note: three Philips EDTV available in the USA have been removed from this list as they only offer processed YPbPr over the VGA connector via a cinch to VGA cable.
 

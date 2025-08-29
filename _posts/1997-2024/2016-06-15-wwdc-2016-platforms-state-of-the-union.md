@@ -41,7 +41,7 @@ Swift Playgrounds
 
 Learn to program the easy way. These interactive programming tutorials are the sort of thing I wish I had age 12. The best news about this is that the playgrounds can be shared with Xcode on a Mac, and Apple is releasing theirs under a reuse licence so people can create more tutorials in the same style. It has a really great interface that is capable of so much without the need to actually type anything. So cool.
 
-It’s similar to third-party app [Codea](http://twolivesleft.com/Codea/), but as Playgrounds is made by Apple it’s so much better. I do hope that — eventually — apps can be created or published from Playgrounds.
+It’s similar to third-party app [Codea](http://twolivesleft.com/Codea/), but as Playgrounds is made by Apple it’s so much better. I do hope that—eventually—apps can be created or published from Playgrounds.
 
 Xcode
 -----
@@ -82,6 +82,6 @@ macOS
 
 Better inegration with watchOS, including the ability to unlock your Mac by just being nearby. Window tabs for free in mukti-document apps. Picture in Picture for video playback. The same changes to Messages, Photos and Apple Music that we see on iOS.
 
-LZFSE — Apple’s more efficient and less power-hungry compression library has gone Open Source.
+LZFSE—Apple’s more efficient and less power-hungry compression library has gone Open Source.
 
-Apple File System — a Next-Generation File System for Apple Products optimised for current and future technologies, replaces 18-year-old HFS that was built when we all carried around floppy disks.
+Apple File System—a Next-Generation File System for Apple Products optimised for current and future technologies, replaces 18-year-old HFS that was built when we all carried around floppy disks.

@@ -48,7 +48,7 @@ User created graphics can be found and viewed in DiscMaster using this search: <
 
 ## My Favourites
 
-As well as recovering the infamous _[Panty](https://web.archive.org/web/20241218105633/http://hp.vector.co.jp/authors/VA001976/index_e.html) [Cat](https://web.archive.org/web/20051229121318/http://www.kibo.com/exegesis/panty_cat.shtml)_ graphics set — which was removed after version 1.74 of MaciGame — I also discovered all manner of beautiful, clever, and some times brain-melting graphics. 
+As well as recovering the infamous _[Panty](https://web.archive.org/web/20241218105633/http://hp.vector.co.jp/authors/VA001976/index_e.html) [Cat](https://web.archive.org/web/20051229121318/http://www.kibo.com/exegesis/panty_cat.shtml)_ graphics set—which was removed after version 1.74 of MaciGame—I also discovered all manner of beautiful, clever, and some times brain-melting graphics. 
 
 Tile sets with 16 cells allow tiles that change their appearance based on matching neighbours. That means melting faces, multi-headed xenomorph, water pipes, DNA sequences, impossible key chains, mutant fish bones, weird blobs with faces, intertwining branches, mole burrows and more.
 

@@ -42,6 +42,6 @@ It’s also worth remembering that most users will already be close to capacity 
 Turn Back Time
 --------------
 
-The enhancement request I would file — where I still working at Apple — would be to increase the storage each user gets, make it so that backups do not take up any storage space and of course switch on iCloud Photos by default so free space is regained.
+The enhancement request I would file—where I still working at Apple—would be to increase the storage each user gets, make it so that backups do not take up any storage space and of course switch on iCloud Photos by default so free space is regained.
 
 But why stop there? Apple could implement a sort of [Time Machine](https://en.wikipedia.org/wiki/Time_Machine_%28OS_X%29) feature for iOS, with the option to restore the whole device or individual apps, with or without their data. That would be very cool.

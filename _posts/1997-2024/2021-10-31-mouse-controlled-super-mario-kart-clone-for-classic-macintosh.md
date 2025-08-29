@@ -30,7 +30,7 @@ It doesn't get much more Japanese Macintosh than this!
 
 There were [only](https://www.vector.co.jp/soft/mac/edu/se067380.html) [two](http://neconocone.cocolog-nifty.com/blog/201/index.html) mentions of this game on Google at the time of writing, and only one [screenshot](http://neconocone.cocolog-nifty.com/.shared/image.html?/photos/uncategorized/2012/09/12/emo01.jpg). So I felt it was worthwhile documenting the game in some detail.
 
-My copy of the game, version 1.0, came on [CD-ROM MacLife No. 161](http://redump.org/disc/74826/). This disc was included with the January 2002 issue of the Japanese magazine MacLife. This specific issue was released 9 months after the launch of OS X, so it's interesting to see the magazine staff providing content - a folder labelled "Vintage" — for users of the older Mac OS, whether that was using the Classic environment of OS X or on legacy hardware.
+My copy of the game, version 1.0, came on [CD-ROM MacLife No. 161](http://redump.org/disc/74826/). This disc was included with the January 2002 issue of the Japanese magazine MacLife. This specific issue was released 9 months after the launch of OS X, so it's interesting to see the magazine staff providing content - a folder labelled "Vintage"—for users of the older Mac OS, whether that was using the Classic environment of OS X or on legacy hardware.
 
 ![GIF](/images/posts/emora-kart.gif#pixel "えもらのカート (Emora Kart)")
 {:.tofigure}
@@ -41,7 +41,7 @@ My copy of the game, version 1.0, came on [CD-ROM MacLife No. 161](http://redump
 
 The game starts with a short qualifying course, which doubles as a tutorial. Finishing first on this course will unlock four further courses that are substantially bigger and more challenging. Finishing first on all courses unlocks a special course. Whilst the speed of the game is limited by the performance of the host computer you should be able to find a speed that is neither too slow nor too fast and have an enjoyable time with the game.
 
-Your character automatically accelerates and you use the mouse to influence its direction. If the mouse pointer is too far away then it will have no effect, so it's better if you trail the mouse pointer in front of the character at a short distance — a bit like a carrot on a stick - which gives the feeling that you're almost pulling them around the track. The player can only move in straight lines and at 45-degrees which affects possible driving lines. And just like in Super Mario Kart there are coins littered around the track and they can be collected, not only by driving over them but also by clicking on them with the mouse pointer.
+Your character automatically accelerates and you use the mouse to influence its direction. If the mouse pointer is too far away then it will have no effect, so it's better if you trail the mouse pointer in front of the character at a short distance—a bit like a carrot on a stick - which gives the feeling that you're almost pulling them around the track. The player can only move in straight lines and at 45-degrees which affects possible driving lines. And just like in Super Mario Kart there are coins littered around the track and they can be collected, not only by driving over them but also by clicking on them with the mouse pointer.
 
 It's interesting to note that this type of pointer control feels very much like a Wii game, which was a nice surprise. In particular I'm thinking of the way you guide your player in Pro Evolution Soccer, and the way you pick up things with the pointer in Super Mario Galaxy.
 

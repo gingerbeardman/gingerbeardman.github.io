@@ -23,7 +23,7 @@ redirect_from:
 comments: https://twitter.com/gingerbeardman/status/1727030817116053611
 ---
 
-> 2023-12-27 — [Ars Technica: YOYOZO wins GOTY accolade!](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7) almost unbelievable to be listed alongside such games as: Chants of Sennaar, Cocoon, Dave the Diver, Humanity, The Legend of Zelda: Tears of the Kingdom, Pikmin 4, Puzzmo, Super Mario Bros. Wonder, Venba and Viewfinder.
+> 2023-12-27—[Ars Technica: YOYOZO wins GOTY accolade!](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7) almost unbelievable to be listed alongside such games as: Chants of Sennaar, Cocoon, Dave the Diver, Humanity, The Legend of Zelda: Tears of the Kingdom, Pikmin 4, Puzzmo, Super Mario Bros. Wonder, Venba and Viewfinder.
 
 A game I made for the Playdate handheld was released today! [Go buy it](https://play.date/games/yoyozo/) and then come back to read this blog post.
 
@@ -110,24 +110,24 @@ I worked on YOYOZO from September 5th to 27th, submitting it to Catalog on 21st 
 
 The purpose of this section is not to say that developing a game quickly is better than developing one slowly, or vice versa, but rather to show the importance of scoping a game well and then sticking to the plan.
 
-- 2023-09-05 — [initial prototype](https://twitter.com/gingerbeardman/status/1699108587732119834)
-- 2023-09-07 — [playable prototype](https://twitter.com/gingerbeardman/status/1699784106505290093) (3 days)
-- 2023-09-07 — [quick progress](https://twitter.com/gingerbeardman/status/1699890693366517890) (3 days)
-- 2023-09-09 — [came up with the name](https://twitter.com/gingerbeardman/status/1700612152707461396) (5 days)
-- 2023-09-14 — [polishing and balancing](https://twitter.com/gingerbeardman/status/1702103698749505670) (10 days)
-- 2023-09-20 — [revelatory physics tweak](https://twitter.com/gingerbeardman/status/1704608465522487681) (16 days)
-- 2023-09-21 — [addicted to my own game](https://twitter.com/gingerbeardman/status/1704991183573831711) (17 days)
-- 2023-09-21 — submitted to Catalog (17 days)
-- 2023-09-23 — [game over replay](https://twitter.com/gingerbeardman/status/1705676134245875750) (19 days)
-- 2023-09-26 — [layout design using spreadsheet](https://twitter.com/gingerbeardman/status/1706765228879253972) (22 days)
-- 2023-09-26 — [game over stats screen](https://twitter.com/gingerbeardman/status/1706772586510643560) (22 days)
-- 2023-09-27 — final version (23 days)
+- 2023-09-05—[initial prototype](https://twitter.com/gingerbeardman/status/1699108587732119834)
+- 2023-09-07—[playable prototype](https://twitter.com/gingerbeardman/status/1699784106505290093) (3 days)
+- 2023-09-07—[quick progress](https://twitter.com/gingerbeardman/status/1699890693366517890) (3 days)
+- 2023-09-09—[came up with the name](https://twitter.com/gingerbeardman/status/1700612152707461396) (5 days)
+- 2023-09-14—[polishing and balancing](https://twitter.com/gingerbeardman/status/1702103698749505670) (10 days)
+- 2023-09-20—[revelatory physics tweak](https://twitter.com/gingerbeardman/status/1704608465522487681) (16 days)
+- 2023-09-21—[addicted to my own game](https://twitter.com/gingerbeardman/status/1704991183573831711) (17 days)
+- 2023-09-21—submitted to Catalog (17 days)
+- 2023-09-23—[game over replay](https://twitter.com/gingerbeardman/status/1705676134245875750) (19 days)
+- 2023-09-26—[layout design using spreadsheet](https://twitter.com/gingerbeardman/status/1706765228879253972) (22 days)
+- 2023-09-26—[game over stats screen](https://twitter.com/gingerbeardman/status/1706772586510643560) (22 days)
+- 2023-09-27—final version (23 days)
 
 ...and then some waiting until:
 
-- 2023-10-10 — approved for Catalog (36 days)
-- 2023-11-19 — added online scoreboards (76 days)
-- 2023-11-21 — [released on Catalog](https://twitter.com/gingerbeardman/status/1727030817116053611) (78 days)
+- 2023-10-10—approved for Catalog (36 days)
+- 2023-11-19—added online scoreboards (76 days)
+- 2023-11-21—[released on Catalog](https://twitter.com/gingerbeardman/status/1727030817116053611) (78 days)
 
 ...so that is 78 days (11 weeks) from initial prototype to being live on the Catalog store!
 
@@ -149,11 +149,11 @@ Thanks to CANO-Lab and Testers.
 
 ### Elsewhere
 
-* 2024-10-16 — [Game Republic 2024 Awards: Best Indie Game Made in the North of England](https://gamerepublic.net/news/best-indie-game-made-in-the-north-of-england-2024-award/)
-* 2024-03-08 — [Playdate Community Awards 2023: Best Arcade Game](https://play.date/games/community-awards-2023/)
-* 2023-12-27 — [Ars Technica: YOYOZO wins GOTY accolade!](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7)
-* 2023-11-30 — [Ars Technica](https://arstechnica.com/gaming/2023/11/my-long-quest-to-revive-a-90s-windows-gaming-cult-classic/)
-* 2023-11-24 — [Hacker Newsletter](http://eepurl.com/iEHB8M)
-* 2023-11-23 — [Time Extension](https://www.timeextension.com/news/2023/11/yoyozo-is-a-new-playdate-game-inspired-by-the-japanese-cult-classic-pendulumania)
-* 2023-11-22 — [Hacker News](https://news.ycombinator.com/item?id=38372936)
-* 2023-11-22 — [Tildes](https://tildes.net/~games/1cbz/yoyozo_or_how_i_made_a_playdate_game_in_39kb)
+* 2024-10-16—[Game Republic 2024 Awards: Best Indie Game Made in the North of England](https://gamerepublic.net/news/best-indie-game-made-in-the-north-of-england-2024-award/)
+* 2024-03-08—[Playdate Community Awards 2023: Best Arcade Game](https://play.date/games/community-awards-2023/)
+* 2023-12-27—[Ars Technica: YOYOZO wins GOTY accolade!](https://arstechnica.com/gaming/2023/12/ars-technicas-best-video-games-of-2023/7)
+* 2023-11-30—[Ars Technica](https://arstechnica.com/gaming/2023/11/my-long-quest-to-revive-a-90s-windows-gaming-cult-classic/)
+* 2023-11-24—[Hacker Newsletter](http://eepurl.com/iEHB8M)
+* 2023-11-23—[Time Extension](https://www.timeextension.com/news/2023/11/yoyozo-is-a-new-playdate-game-inspired-by-the-japanese-cult-classic-pendulumania)
+* 2023-11-22—[Hacker News](https://news.ycombinator.com/item?id=38372936)
+* 2023-11-22—[Tildes](https://tildes.net/~games/1cbz/yoyozo_or_how_i_made_a_playdate_game_in_39kb)

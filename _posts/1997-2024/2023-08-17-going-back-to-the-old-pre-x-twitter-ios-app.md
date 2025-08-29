@@ -79,7 +79,7 @@ Here's how you can downgrade to an older version of Twitter (pre-X changes) and 
 
 ### Downloading the old version
 
-This is the trickiest part of the process as it requires installing some old software and following a guide. But don't worry — it's not that difficult! You'll need access to an old version of iTunes (so it's most easily done using Windows) and about 15 minutes to carry out the steps.
+This is the trickiest part of the process as it requires installing some old software and following a guide. But don't worry—it's not that difficult! You'll need access to an old version of iTunes (so it's most easily done using Windows) and about 15 minutes to carry out the steps.
 
 [Follow this great step-by-step tutorial](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy). It might seem complicated but it is quite easy. A high level summary of what is involved in the guide is as follows:
 

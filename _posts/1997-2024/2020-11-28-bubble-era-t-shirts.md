@@ -21,7 +21,7 @@ Retro games, computers, scooters and other cool logos on your favourite colour T
 
 ![](https://pbs.twimg.com/media/En7hM0SXMAMs_g8.jpg)
 
-These T-shirts have been a side-project of mine for many years — I redraw old logos as vector art, just for kicks! The oldest designs — CHOP and SPRINT — date back over 15 years to the time when I realised how easy it was to get T-shirts printed
+These T-shirts have been a side-project of mine for many years—I redraw old logos as vector art, just for kicks! The oldest designs—CHOP and SPRINT—date back over 15 years to the time when I realised how easy it was to get T-shirts printed
 
 ![](https://pbs.twimg.com/media/En7hzWRWMAQZBL4.jpg)
 
