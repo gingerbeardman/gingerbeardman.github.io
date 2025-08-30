@@ -47,6 +47,8 @@ As with all the macOS apps I build, they start with a personal need. This one wa
 
 I've been into pixel art since [Deluxe Paint ST](/about) (yes, on Atari ST not Commodore Amiga!), and of course on the classic Macintosh. I also collect [information about the multitude of Japanese "dot art" pixel art apps](/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/), which are quite different to the apps that I grew up with. All this to say that I already had a list of features I missed, pined for, or otherwise thought should make a return. [Naturally](/2024/07/14/shibuya-pixel-art-contest-2024/#bonus), dithering should be a tent pole feature affecting all tools.
 
+A dither smudge like the one shown below was last seen by me in 1992's Multi Paint System (PC-98).
+
 {% youtube XKyDG7aF3xU 320/243 %}
 
 ----
