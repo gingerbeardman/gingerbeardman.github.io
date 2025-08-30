@@ -39,29 +39,29 @@ This week, I released major updates to many of them containing enhancing and new
 
 ## Bookmarks
 
-- [Version 2.0.0](https://extensions.panic.com/extensions/com.gingerbeardman/)
+- [Version 2.0.0](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.Bookmarks/)
 - Adds sorting, the ability to bookmark folders, marking of missing items, and other improvements.
 
 ## Markdown File Linker
 
-- [Version 2.0.0](https://extensions.panic.com/extensions/com.gingerbeardman/)
+- [Version 2.0.0](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.MarkdownFileLinker/)
 - Results in the choice palette are now sorted by default using dates found in filenames.
 - Along wither other filtering improvements.
 
 ## Unwrap Paragraph
 
-- [Version 2.0.0](https://extensions.panic.com/extensions/com.gingerbeardman/)
+- [Version 2.0.0](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.unwraptext/)
 - You can no unwrap the text surrounding cursor, which removes from friction.
 - Multiple paragraphs will be unwrapped individually when working on selected text.
 
 ## Word Counter
 
-- [Version 2.0.0](https://extensions.panic.com/extensions/com.gingerbeardman/)
+- [Version 2.0.0](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.wordcounter/)
 - Watched words can be managed through the sidebar, adding from selected text or user input. 
 
 ## YAML Tag Picker
 
-- [Version 2.0.0](https://extensions.panic.com/extensions/com.gingerbeardman/)
+- [Version 2.0.0](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.YAMLTagPicker/)
 - You can quickly insert or update the creation/modified ISO date in your front matter.
 
 ----
