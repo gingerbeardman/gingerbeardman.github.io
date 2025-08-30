@@ -35,7 +35,7 @@ In late 2024, I spent some time improving my tools by [building a set of extensi
 
 ----
 
-This week, I released major updates to many of them with enhanements and new features:
+This week, I released major updates to many of them with enhancements and new features:
 
 ## Bookmarks
 
