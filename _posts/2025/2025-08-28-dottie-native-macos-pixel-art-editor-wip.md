@@ -55,7 +55,7 @@ A dither smudge like the one shown below was last seen by me in 1992's Multi Pai
 
 ## Look, Ma—no dependencies!
 
-And as an additional constraint—[which you may know I love to set for myself](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)—I decided that I would use no packages or external dependencies, just system frameworks. Yes, that means I had to write my own colour picket (but, that's my idea of a good time!) and some things took longer than just adding a package, but I can say that there is precious little wasted code inside this app. In fact, at the time of writing a single-architecture distribution build of the app still fits on a [3.5" 2HD floppy disk](/2025/05/19/media-darling-t-shirt-design/)!
+And as an additional constraint—[which you may know I love to set for myself](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)—I decided that I would use no packages or external dependencies, just system frameworks. Yes, that means I had to write my own colour picker (but, that's my idea of a good time!) and some things took longer than just adding a package, but I can say that there is precious little wasted code inside this app. In fact, at the time of writing a single-architecture build of the app that has been readied for distribution still fits on a [3.5" 2HD floppy disk](/2025/05/19/media-darling-t-shirt-design/)!
 
 ----
 
