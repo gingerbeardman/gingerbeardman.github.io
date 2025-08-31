@@ -68,7 +68,7 @@ The trickiest parts of development so far:
 - figuring out the intricacies of the document-based application model
 - trying to get the "New Document" button to appear on the file selector that appears at app launch (in fact this one still evades me for reasons I can't figure out, [get in touch if you can help](/support)!)
 - automating help book compilation ([thanks Mario](https://marioaguzman.wordpress.com/2020/09/12/auth/)!)
-- performance bottlenecks with some aspects of SwiftUI (thanks WWDC!)
+- performance bottlenecks with some aspects of SwiftUI (thanks [WWDC Lab](https://developer.apple.com/wwdc25/labs/overview/)!)
 - surprise performance gains from using AppKit for better gestures
 - selections and marching ants
 - dealing with some bad early decisions (tech debt)
@@ -80,6 +80,9 @@ The most fun aspects so far:
 - implementing a custom colour picker, twice
 - drawing the various tool and app icons
 - getting to a point where it feels done and every new feature is icing on the cake
+
+One interesting thing about the app:
+- there is no settings window
 
 ----
 
