@@ -34,27 +34,25 @@ Big love to [Henry Modisett](https://x.com/henrymodis) and the great team over a
 
 And to [Soleio](https://x.com/soleio) for the hookup—thanks sensei! 🙌
 
-![IMG](/images/posts/wormhole-perplexity-comet.jpg)
-
-----
+{% youtube IbDfo3bKvjo 2560/1896 %}
 
 The development of this game was very typical for me and my process: rapid prototyping, careful scoping, and focus on the central mechanic. Let's dive in!
 
 ## Prototype 1
 
-This took the brief very literally and replaced Chrome Dino in size and scope. It fitted in the same area of the page and had a similar one button interaction. So, it was a simple game where you controlled the speed of a comet and had to avoid incoming space debris for as long as possible by using a dash mechanic. You could chain dashes and therefore control your acceleration and deceleration whilst balancing risk and reward. It was fun, but the team had bigger ideas.
+This took the brief very literally and replaced Chrome Dino in size and scope. It fitted in the same area of the page and had a similar one button interaction. So, it was a simple game where you controlled the speed of a comet and had to avoid incoming space debris for as long as possible by using a dash mechanic. You could chain dashes and therefore control your acceleration and deceleration whilst balancing risk and reward. It was fun, but the team had bigger ideas. [Video of first prototype](https://youtu.be/qk7J0CLwX80).
 
 ## Prototype 2
 
 Multiple members of the team independently proposed the idea of space golf/billiards, or snooker as I called it which raised a few eyebrows, by which time I had already prototyped it. The initial version proved to be fun, so it was full steam ahead. 
 
-I set out to refine the game feel and figure out game progress. I'd been reading about procedural generation in Elite (thanks [Mark Moxon](https://elite.bbcelite.com)) and Mario Kart World (thanks Nintendo) and created something similar for my game. A whole universe of galaxies and planets to conquer! It worked well, but the traversal between galaxies and the overall structure didn't add anything to the game. 
+I set out to refine the game feel and figure out game progress. I'd been reading about procedural generation in Elite (thanks [Mark Moxon](https://elite.bbcelite.com)) and Mario Kart World (thanks Nintendo) and created something similar for my game. A whole universe of galaxies and planets to conquer! It worked well, but the traversal between galaxies and the overall structure didn't add anything to the game, but zooming through the universe looked super cool. [Video of second prototype](https://youtu.be/CQR4NPkDQ18).
 
 ## Prototype 3
 
 So, I started the galaxy generation again from scratch. At this point I had the feeling of existential dread that all developers are probably familiar with. I wanted to trash it all and start again, but instead I went out for dinner and talked it over with a close friend and fellow developer (thanks [Dave](https://bsky.app/profile/daveroberts.dev)).
 
-Eventually I calmed down and settled on a never-ending belt of galaxies. The transitions became much shorter and sweeter, and the game feel was better than ever. At this point I think I was still coding in [love2d](https://love2d.org). Things were locked down, so I ported the game to JavaScript using the [LittleJS](https://github.com/KilledByAPixel/LittleJS) framework. According to my notes the prototype was about 300 lines of code before I began the hard work of rounding it out into a game.
+Eventually I calmed down and settled on a never-ending belt of galaxies. The transitions became much shorter and sweeter, and the game feel was better than ever. At this point I think I was still coding in [love2d](https://love2d.org). Things were locked down, so I ported the game to JavaScript using the [LittleJS](https://github.com/KilledByAPixel/LittleJS) framework. According to my notes the prototype was about 300 lines of code before I began the hard work of rounding it out into a game. [Video of third prototype](https://youtu.be/H_5MYCft1-I).
 
 ----
 
