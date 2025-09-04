@@ -51,13 +51,13 @@ This week, I released major updates to many of them with enhancements and new fe
 ## Unwrap Paragraph
 
 - [Version 2.0.0](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.unwraptext/)
-- You can no unwrap the text surrounding cursor, which removes from friction.
-- Multiple paragraphs will be unwrapped individually when working on selected text.
+- You can now unwrap the text surrounding cursor, which removes some friction.
+- In selected text multiple paragraphs will be unwrapped individually.
 
 ## Word Counter
 
 - [Version 2.0.0](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.wordcounter/)
-- Watched words can be managed through the sidebar, adding from selected text or user input. 
+- Watched words can be managed through the sidebar, added from selected text, or via typing. 
 
 ## YAML Tag Picker
 
