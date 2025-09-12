@@ -2,7 +2,7 @@
 layout: post
 title: "Automatic build number incrementing in Xcode"
 date: '2025-06-28T17:01+01:00'
-modified: '2025-09-05T15:06+01:00'
+modified: '2025-09-12T15:24+01:00'
 tags:
 - tools
 - xcode
@@ -33,7 +33,6 @@ There are many ways to do automatic build version number incrementing in Xcode. 
 ## 1. Create a .xcconfig
 
 - Add a file `BuildNumber.xcconfig` to your project
-- Add that file to your `.gitignore` because it will change frequently
 - Add a *Pre-Action Script* to your *Scheme*:
     - In Xcode, edit your scheme (*Product > Scheme > Edit Scheme*).
     - For both "Run" and "Archive" actions, add a *Pre-action* with a script like the one below
