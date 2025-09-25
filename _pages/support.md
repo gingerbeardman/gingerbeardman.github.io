@@ -22,3 +22,7 @@ And you can always reach out to me on social media:
 - [Bluesky](https://bsky.app/profile/gingerbeardman.com)
 - [Mastodon](https://mastodon.gamedev.place/@gingerbeardman)
 - [Twitter](https://twitter.com/{{ site.twitter.username }})
+
+**Email as a last resort**
+
+You can email me, first name at this domain, but—fair warning—I don't check my emails that much.
