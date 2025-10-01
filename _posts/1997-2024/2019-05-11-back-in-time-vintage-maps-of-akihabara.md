@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Back In Time: Vintage Maps of Akihabara (1976–2001)'
-modified: '2025-02-05T23:31+00:00'
+modified: '2025-10-01T21:41+01:00'
 tags:
 - history
 - japanese
@@ -102,6 +102,12 @@ Here's a map from the [January 1982 issue of I/O](https://archive.org/details/io
 - [archive.org/details/io-198203/page/326/mode/1up](https://archive.org/details/io-198203/page/326/mode/1up?view=theater)
 
 [![Akihabara, January 1982](/images/posts/akihabara-1982-01.jpg){:width="740" height="490"}](https://archive.org/details/io-198201/page/316/mode/1up?view=theater){:target="_blank"}
+
+The first ever issue of Technopolis, in August 1982, featured a lovely map.
+
+* [archive.org/details/technopolis-volume-1-august-1982/Technopolis%20-%20Volume%201%20-%20August%201982/page/154/mode/2up](https://archive.org/details/technopolis-volume-1-august-1982/Technopolis%20-%20Volume%201%20-%20August%201982/page/154/mode/2up)
+
+[![Akihabara, August 1982](/images/posts/akihabara-1982-technopolis.jpg){:width="740" height="490"}](https://archive.org/details/technopolis-volume-1-august-1982/Technopolis%20-%20Volume%201%20-%20August%201982/page/154/mode/2up?view=theater){:target="_blank"}
 
 This map is from a [scan of Technopolis magazine on the Internet Archive, dated November 1982](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up). Given its illustrated nature the map is somewhat stylised but the landmarks are easily recognised.
 
