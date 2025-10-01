@@ -109,7 +109,7 @@ The first ever issue of Technopolis, in August 1982, featured a lovely map.
 
 [![Akihabara, August 1982](/images/posts/akihabara-1982-technopolis.jpg){:width="740" height="490"}](https://archive.org/details/technopolis-volume-1-august-1982/Technopolis%20-%20Volume%201%20-%20August%201982/page/154/mode/2up?view=theater){:target="_blank"}
 
-This map is from a [scan of Technopolis magazine on the Internet Archive, dated November 1982](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up). Given its illustrated nature the map is somewhat stylised but the landmarks are easily recognised.
+Such maps make frequent appearances in Technopolis [the one below is from an issue dated November 1982](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up). Given its illustrated nature the map is somewhat stylised but the landmarks are easily recognised.
 
 * [archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up](https://archive.org/details/technopolis-volume-4-november-1982/page/101/mode/2up)
 
