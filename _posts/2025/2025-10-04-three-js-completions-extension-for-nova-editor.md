@@ -35,4 +35,4 @@ The coolest thing about this extension is that most of the code is automatically
 
 [extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.ThreeJS/](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.ThreeJS/)
 
-You might be quick deduce that—yes—I'm making a 3D game. 😘
+You might be quick to deduce that—yes—I'm making a 3D game. 😘
