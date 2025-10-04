@@ -19,11 +19,11 @@ featured: false
 pinned: false
 comments:
   - platform: twitter
-    url: https://twitter.com/gingerbeardman/status/
+    url: https://twitter.com/gingerbeardman/status/1974495507977220127
   - platform: bluesky
-    url: https://bsky.app/profile/gingerbeardman.com/post/
+    url: https://bsky.app/profile/gingerbeardman.com/post/3m2ev7fwaec2n
   - platform: mastodon
-    url: https://mastodon.gamedev.place/@gingerbeardman/
+    url: https://mastodon.gamedev.place/@gingerbeardman/115316576818330790
 
 ---
 
