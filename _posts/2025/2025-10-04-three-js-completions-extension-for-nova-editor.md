@@ -15,6 +15,8 @@ nouns:
 - Nova Extensions
 - Nova editor
 - Nova
+- Three.js
+- TypeScript
 featured: false
 pinned: false
 comments:
