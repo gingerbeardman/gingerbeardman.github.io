@@ -17,7 +17,6 @@ nouns:
 - Microsoft Excel
 - "Lotus 1-2-3"
 - SmoothCSV
-- YOYOZO
 - SwiftUI
 - Mario Kart
 - Mario
@@ -28,7 +27,9 @@ nouns:
 - Ars Technica
 - Love2D
 - macOS
+- Macintosh
 - Mac
+- sfxr
 - iPhone
 - The Computer Chronicles
 - Figma
@@ -81,7 +82,7 @@ Here are some examples of layouts I've solved using a spreadsheet.
 
 ## YOYOZO
 
-Perhaps my most famous example is the stats screen of [my hit game YOYOZO](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/). With this one I already had a TTF font file that I'd created for the manual, so I went the extra mile and planned a pixel perfect layout in the right colours and everything. A fun fact you might not know: YOYOZO was featured in Ars Technica's "Best Games of 2023" list, alongside Mario and Zelda. This spreadsheet thing is great!
+Perhaps my most famous example is the stats screen of [my hit game *YOYOZO*](/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/). With this one I already had a TTF font file that I'd created for the manual, so I went the extra mile and planned a pixel perfect layout in the right colours and everything. A fun fact you might not know: *YOYOZO* was featured in Ars Technica's "Best Games of 2023" list, alongside Mario and Zelda. This spreadsheet thing is great!
 
 ![IMG](/images/posts/spreadsheet-ui-yoyozo.png "Pixel perfect precision using the exact font")
 {:.tofigure}
