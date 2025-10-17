@@ -41,6 +41,8 @@ Of course, there's no fun in keeping this to myself so I put together a website 
 
 As well as checking the website you can also subscribe to its RSS feed, so you'll also receive those lovely surprise notifications! Both the web page and RSS feed are automatically generated.
 
+> Thanks to [Soleio](https://twitter.com/soleio) for thinking of such a great domain name!
+
 ### Final thoughts
 
 Please do let me know if this project helps you see an early impression of Hokusai's Great Wave. 
