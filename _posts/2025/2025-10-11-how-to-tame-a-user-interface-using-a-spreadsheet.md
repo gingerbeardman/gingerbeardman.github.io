@@ -34,6 +34,9 @@ nouns:
 - Figma
 - Sketch
 - Photoshop
+- Car Play
+- Apple
+- WWDC
 featured: false
 pinned: false
 comments:
