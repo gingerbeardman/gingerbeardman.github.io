@@ -31,6 +31,9 @@ nouns:
 - Mac
 - iPhone
 - The Computer Chronicles
+- Figma
+- Sketch
+- Photoshop
 featured: false
 pinned: false
 comments:
