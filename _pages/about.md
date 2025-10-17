@@ -1,7 +1,7 @@
 ---
 layout: page_footerless
 title: About
-date: '2024-05-28T22:00+01:00'
+date: '2025-10-17T02:35+01:00'
 published: private
 permalink: /about.html
 style: |
@@ -64,7 +64,7 @@ However, as of 2025—after six years of being the only full-time developer focu
 
 Beyond game development, since 2020 I’ve been preserving and recovering classic Macintosh software, [rescuing over a million files](/2025/03/28/macintosh-magazine-media-1-million-files/) (30 million files when decompressed)—including some previously thought lost forever. In early 2024, while using an old pocket computer, [I also happened to stumble upon what may be the earliest known digital emoji](/2024/05/10/emoji-history-the-missing-years/)—a pleasant surprise.
 
-Since the start of 2025, I’ve been creating software for a wide range of platforms, from the [Sega Dreamcast](/2020/12/03/dreamcast-gdemu-installation/) to macOS, iOS, the Web, and beyond.
+For the first half of 2025, I was busy creating software for a wide range of platforms, from the [Sega Dreamcast](/2020/12/03/dreamcast-gdemu-installation/) to macOS, iOS, the [Web](https://blog.gingerbeardman.com/2025/08/21/wormhole-for-perplexity-comet/), and beyond. Since May 2025 I've been building games and a new studio at [Perplexity](https://www.perplexity.ai).
 
 And that brings us to the present. Thanks for reading—I’ll keep this page updated as things evolve. Cheers!
 
