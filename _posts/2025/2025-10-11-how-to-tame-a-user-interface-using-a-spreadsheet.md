@@ -2,6 +2,7 @@
 layout: post
 title: "How to tame a user interface using a spreadsheet"
 date: '2025-10-11T01:03+01:00'
+modified: '2025-10-17T01:00+01:00'
 tags:
 - spreadsheet
 - ux
@@ -69,7 +70,7 @@ Perhaps my most famous example is the stats screen of [my hit game YOYOZO](/2023
 
 ## Enhanced sfxr
 
-This year I've made two enhanced versions of sfxr—[one for Love2D](https://gingerbeardman.itch.io/enhanced-sfxr-for-love2d) and [one for macOS](https://twitter.com/search?q=from%3Agingerbeardman%20sfxr&src=typed_query&f=live)—and I can't remember which one this was done for. Regardless, whilst it might not look like much this sort of pre-planning and organisation saved a ton of time when I was working on the app. It involved no code and was done in a minute or two!
+This year I've made two enhanced versions of sfxr—[one for Love2D](https://gingerbeardman.itch.io/enhanced-sfxr-for-love2d) and [one for macOS](https://twitter.com/search?q=from%3Agingerbeardman%20sfxr&src=typed_query&f=live)—and I can't remember which one this was done for. I usually get rid of the header rows and columns but in this instance they acted as sidebar and title bar. Regardless, whilst it might not look like much this sort of pre-planning and organisation saved a ton of time when I was working on the app. It involved no code and was done in a minute or two!
 
 ![IMG](/images/posts/spreadsheet-ui-sfxr.png "Organising the large components that make up the window")
 {:.tofigure}
