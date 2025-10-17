@@ -17,6 +17,20 @@ nouns:
 - Microsoft Excel
 - "Lotus 1-2-3"
 - SmoothCSV
+- YOYOZO
+- SwiftUI
+- Mario Kart
+- Mario
+- Zelda
+- F-Zero
+- Colin McRae Rally
+- WipEout
+- Ars Technica
+- Love2D
+- macOS
+- Mac
+- iPhone
+- The Computer Chronicles
 featured: false
 pinned: false
 comments:
