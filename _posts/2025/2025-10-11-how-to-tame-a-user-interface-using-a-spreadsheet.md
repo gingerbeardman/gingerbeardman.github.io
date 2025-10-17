@@ -24,6 +24,7 @@ nouns:
 - Macintosh
 - Mac
 - SwiftUI
+- iPhone
 - Mario Kart
 - Mario
 - Zelda
@@ -33,7 +34,6 @@ nouns:
 - Ars Technica
 - Love2D
 - sfxr
-- iPhone
 - The Computer Chronicles
 - Figma
 - Sketch
