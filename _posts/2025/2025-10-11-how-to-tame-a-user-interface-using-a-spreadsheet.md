@@ -12,6 +12,9 @@ tags:
 - poweruser
 - software
 nouns:
+- Apple
+- WWDC
+- Car Play
 - Apple Numbers
 - Google Sheets
 - Microsoft Excel
@@ -35,9 +38,6 @@ nouns:
 - Figma
 - Sketch
 - Photoshop
-- Car Play
-- Apple
-- WWDC
 featured: false
 pinned: false
 comments:
