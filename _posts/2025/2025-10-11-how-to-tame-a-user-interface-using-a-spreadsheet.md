@@ -20,6 +20,9 @@ nouns:
 - Microsoft Excel
 - "Lotus 1-2-3"
 - SmoothCSV
+- macOS
+- Macintosh
+- Mac
 - SwiftUI
 - Mario Kart
 - Mario
@@ -29,9 +32,6 @@ nouns:
 - WipEout
 - Ars Technica
 - Love2D
-- macOS
-- Macintosh
-- Mac
 - sfxr
 - iPhone
 - The Computer Chronicles
