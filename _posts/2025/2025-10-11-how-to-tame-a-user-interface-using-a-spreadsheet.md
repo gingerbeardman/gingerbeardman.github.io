@@ -60,7 +60,7 @@ In my opinion, spreadsheets are one of the greatest user interface design tools 
 
 Before you have time to load up Figma, Sketch, Photoshop, or any other design software, I’ll have already typed in my content placeholders in a spreadsheet and be most of my way towards a solution. I’ll be merging and moving cells at lightning speed—rationalising layouts, determining the optimal use of space, and creating order out of chaos.
 
-The purpose of using a tool that may seem ill-suited to the task at hand—designing user interfaces—is to liberate yourself from the clutter or baggage of content and style. This allows you to focus solely on layout, positioning, and hierarchy. You don’t have to worry about type sizes, or get bogged down with software choices. With a spreadsheet, it’s just the keyboard between you and the perfect layout.
+The purpose of using a tool that may seem ill-suited to the task at hand—designing user interfaces—is to liberate yourself from the clutter or baggage of content and style. This allows you to focus solely on layout, positioning, and hierarchy. You don’t have to worry about type sizes, or get bogged down with software choices. You can quickly adjust the size or structure of the screen by adding/removing rows/columns. With a spreadsheet, it’s just the keyboard between you and the perfect layout.
 
 ----
 
