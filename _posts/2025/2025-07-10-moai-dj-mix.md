@@ -11,6 +11,7 @@ nouns:
 - Spotify
 - YouTube
 - Mixcloud
+- DJ Studio
 image: /images/posts/moai.jpg
 featured: false
 pinned: false

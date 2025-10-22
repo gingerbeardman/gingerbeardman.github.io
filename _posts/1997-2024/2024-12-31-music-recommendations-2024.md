@@ -14,6 +14,7 @@ nouns:
 - Spotify
 - YouTube
 - Mixcloud
+- DJ Studio
 recap: true
 comments: https://twitter.com/gingerbeardman/status/1865066603399835846
 

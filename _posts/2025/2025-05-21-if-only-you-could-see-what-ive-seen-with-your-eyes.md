@@ -10,6 +10,7 @@ nouns:
 - Spotify
 - YouTube
 - Mixcloud
+- DJ Studio
 - Blade Runner
 image: /images/posts/dnb-2025.jpg
 featured: true

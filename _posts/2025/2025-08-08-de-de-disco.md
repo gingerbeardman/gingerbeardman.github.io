@@ -11,6 +11,7 @@ nouns:
 - Spotify
 - YouTube
 - Mixcloud
+- DJ Studio
 image: /images/posts/dedemouse.jpg
 featured: true
 pinned: false
