@@ -37,10 +37,10 @@ A little DJ mix of music and collabs by one of my favourite Japanese electronic 
 |Timestamp|Artist|Song (Link)|Release|Year|
 |---------|------|-----------|-------|----|
 | 00:00 | Mameyudoufu | [Starting Up](https://www.youtube.com/watch?v=uri55qjjzc4) | Boot Loader | 2021 |
-| 01:23 | Mameyudoufu & 藍月なくる | [One Step Closer ](https://www.youtube.com/watch?v=thJ1y6q7TvU)| Single | 2022 |
-| 04:34 | Mameyudoufu | [Safe Space](https://www.youtube.com/watch?v=Ykv3UPNiBU8) | Single | 2024 |
+| 01:23 | Mameyudoufu & 藍月なくる | [One Step Closer ](https://www.youtube.com/watch?v=thJ1y6q7TvU)| single | 2022 |
+| 04:34 | Mameyudoufu | [Safe Space](https://www.youtube.com/watch?v=Ykv3UPNiBU8) | single | 2024 |
 | 07:53 | Mameyudoufu | [Approximation](https://www.youtube.com/watch?v=g1kJ-ZvgUb8) | Stream Friendly 01 | 2022 |
-| 12:25 | Mameyudoufu feat. Exobolt | [Everyday Things](https://www.youtube.com/watch?v=LpSs3PLw-78) | Single | 2023 |
+| 12:25 | Mameyudoufu feat. Exobolt | [Everyday Things](https://www.youtube.com/watch?v=LpSs3PLw-78) | single | 2023 |
 | 16:26 | Mameyudoufu feat. Such | [Reminisce](https://www.youtube.com/watch?v=vnH8cLE_TfY) | Encore | 2020 |
 | 19:05 | Mameyudoufu feat. yoei. | [Hello and Goodbye](https://www.youtube.com/watch?v=KGoj-jDgw7k) | Spd Gar 04 | 2020 |
 | 21:23 | Mameyudoufu | [Retrospectives](https://www.youtube.com/watch?v=so_MKT2hEY0) | Stream Friendly 03 | 2025 |
