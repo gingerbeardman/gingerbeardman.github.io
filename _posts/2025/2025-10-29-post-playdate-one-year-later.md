@@ -17,6 +17,13 @@ nouns:
 - Comet
 featured: false
 pinned: false
+comments:
+  - platform: twitter
+    url: https://twitter.com/gingerbeardman/status/1983549554277404874
+  - platform: bluesky
+    url: https://bsky.app/profile/gingerbeardman.com/post/3m4dpnbkldc2w
+  - platform: mastodon
+    url: https://mastodon.gamedev.place/@gingerbeardman/115458052335112834
 
 ---
 
