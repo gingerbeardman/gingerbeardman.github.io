@@ -12,7 +12,7 @@ I'm looking for some hard-to-find stuff, please [get in touch](/support) if you 
 
 ## Japan
 
-- [Gravis Metro Mini](https://ogmblog.exblog.jp/11222120/), daypack/backpack, ~2010
+- ~~[Gravis Metro Mini](https://ogmblog.exblog.jp/11222120/), daypack/backpack, ~2010~~ purchased October 2025
 - [T&E SOFT "Top Spin"](/2024/11/09/new-3d-golf-simulation-video-game-series/#16-bit-computers), printed newsletters, ~1990
 
 ## Rest of World
