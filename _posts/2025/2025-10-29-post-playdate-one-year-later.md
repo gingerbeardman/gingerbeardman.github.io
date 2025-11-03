@@ -27,7 +27,7 @@ comments:
 
 ---
 
-It's been a year since October 2024, when I released [my last game on the Playdate Catalog](/2024/10/08/bender-2-bend-harder-for-playdate/). Over the course of that month, I became increasingly concerned about an undercurrent of threatening and antisocial behaviour from one particular member of the community—my frequent reports of which went unanswered. Eventually—exactly a year ago today—that tension surfaced as a campaign of targeted harassment. I was assured something would be done about it, but sadly, nothing ever was.
+It's been a year since October 2024, when I released [my last game on the Playdate Catalog](/2024/10/08/bender-2-bend-harder-for-playdate/). Over the course of that month, I became increasingly concerned about an undercurrent of threatening and antisocial behaviour from one particular developer in the community—my frequent reports of which went unanswered. Eventually—exactly a year ago today—that tension surfaced as a campaign of targeted harassment. I was assured something would be done about it, but sadly, nothing ever was.
 
 [So I left the Playdate community](/2025/04/15/when-playdate-stopped-being-fun/). Over the following months, I faced various forms of harassment: doxxing, unsavoury DMs, spam campaigns targeting my email, cell phone, and social media accounts, unfounded accusations—the list goes on. I can tell you, *this is not my idea of a fun time.*
 
