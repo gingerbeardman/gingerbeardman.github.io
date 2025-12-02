@@ -33,7 +33,7 @@ comments:
 
 As we complete another lap around the sun, I take stock of what has happened this year and collect together my favourite music from the thousands of tracks I've listened in 2025. Let's go!
 
-## DJ mix madness
+## Suspended in a beam of sunlight
 
 After my [2024 year end DJ mix](/2024/12/31/music-recommendations-2024/) (which listen to a lot and am still really proud of!) I produced [a handful of other mixes throughout the year](/tag/djmix). I use the fantastic [DJ.Studio](https://dj.studio) app and a few other tools.
 
