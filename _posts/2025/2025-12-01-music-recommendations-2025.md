@@ -31,7 +31,7 @@ comments:
 
 ---
 
-As we complete another lap around the sun, I take stock of what has happened this year and collect together my favourite music from the thousands of tracks I've listened in 2025. Let's go!
+As we complete another lap around the sun, I take stock of what has happened this year and filter my favourite music from the thousands of tracks I've listened to throughout 2025. Let's go!
 
 ## Suspended in a beam of sunlight
 
