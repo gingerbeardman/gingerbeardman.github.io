@@ -77,6 +77,9 @@ To get the vocal samples I saved the audio from YouTube, split it into stems to 
 
 </div>
 
+<br>
+![IMG](/images/posts/2025-dj-studio.png)
+
 ----
 
 ## Playlists
