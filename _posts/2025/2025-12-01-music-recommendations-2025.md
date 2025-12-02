@@ -37,7 +37,7 @@ As we complete another lap around the sun, I take stock of what has happened thi
 
 After my [2024 year end DJ mix](/2024/12/31/music-recommendations-2024/) (which listen to a lot and am still really proud of!) I produced [a handful of other mixes throughout the year](/tag/djmix). I use the fantastic [DJ.Studio](https://dj.studio) app and a few other tools.
 
-This mix saw me start out with 82 tracks totalling over 5 hours of music, which over the course of a few days were whittled down to the final running order. I wanted to use samples to add some extra vibes, similar to [my "Blade Runner" dnb mix](/2025/05/21/if-only-you-could-see-what-ive-seen-with-your-eyes/). After a bit of back and forth I settled on Carl Sagan talking wistfully about the cosmos and our place within it, taken from ["Pale Blue Dot"](https://www.youtube.com/watch?v=GO5FwsblpT8) and ["Cosmos"](https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage).
+This mix saw me start out with [82 tracks totalling over 5 hours of music](https://music.apple.com/gb/playlist/picks-2025/pl.u-WMGxat5epGr), which over the course of a few days were whittled down to the final running order. I wanted to use samples to add some extra vibes, similar to [my "Blade Runner" dnb mix](/2025/05/21/if-only-you-could-see-what-ive-seen-with-your-eyes/). After a bit of back and forth I settled on Carl Sagan talking wistfully about the cosmos and our place within it, taken from ["Pale Blue Dot"](https://www.youtube.com/watch?v=GO5FwsblpT8) and ["Cosmos"](https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage).
 
 To get the vocal samples I saved the audio from YouTube, split it into stems to isolate the vocals, then cut and arranged them in DJ Studio taking care to either quantise, or not, to get a specific pacing of delivery. I ended up going with the more philosophical and . The most difficult aspect was the need to tweak the EQ of samples from different sources so they sounded like the same person.
 
@@ -77,16 +77,14 @@ To get the vocal samples I saved the audio from YouTube, split it into stems to 
 
 </div>
 
-<!--
 ----
 
 ## Playlists
 
-- [Apple Music](https://music.apple.com/gb/playlist/japanese-best-of-2024/pl.u-KRzZBtDLoK2)
-- [Spotify](https://open.spotify.com/playlist/7ruaRCzShrcfzKsy4GaYzm)
-- [YouTube](https://www.youtube.com/playlist?list=PLfF-zlMNYMd9Vlb7l3uCwQO_eh2VTAtc_)
+- [Apple Music](https://music.apple.com/gb/playlist/best-of-2025/pl.u-gymPDc4bE7D)
+- [Spotify](https://open.spotify.com/playlist/1nXjqETOrhwm3igdqhAX0T)
+- [YouTube](https://www.youtube.com/playlist?list=PLfF-zlMNYMd9IWzFDdf6WyBq1EAwdXhos)
 - [Download](https://mega.nz/folder/UkokGISS#zZHaUOzcD1KmNY_yNbzwXQ)
--->
 
 ----
 
