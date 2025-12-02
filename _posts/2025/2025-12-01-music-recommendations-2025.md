@@ -39,7 +39,9 @@ After my [2024 year end DJ mix](/2024/12/31/music-recommendations-2024/) (which 
 
 This mix saw me start out with 82 tracks totalling over 5 hours of music, which over the course of a few days were whittled down to the final running order. I wanted to use samples to add some extra vibes, similar to [my "Blade Runner" dnb mix](/2025/05/21/if-only-you-could-see-what-ive-seen-with-your-eyes/). After a bit of back and forth I settled on Carl Sagan talking wistfully about the cosmos and our place within it, taken from ["Pale Blue Dot"](https://www.youtube.com/watch?v=GO5FwsblpT8) and ["Cosmos"](https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage).
 
-To get the vocal samples I saved the audio from YouTube, split it into stems to isolate the vocals, then cut and arranged them in DJ Studio taking care to either quantise, or not, to get a specific pacing of delivery. I ended up going with the more philosophical and . The most difficult aspect was the need to tweak the EQ of samples from different sources so they sounded like the same person. [Listen on MixCloud](https://www.mixcloud.com/gingerbeardman/2025/).
+To get the vocal samples I saved the audio from YouTube, split it into stems to isolate the vocals, then cut and arranged them in DJ Studio taking care to either quantise, or not, to get a specific pacing of delivery. I ended up going with the more philosophical and . The most difficult aspect was the need to tweak the EQ of samples from different sources so they sounded like the same person.
+
+[Listen on MixCloud](https://www.mixcloud.com/gingerbeardman/2025/).
 
 <iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fgingerbeardman%2F2025%2F" frameborder="0" ></iframe>
 
