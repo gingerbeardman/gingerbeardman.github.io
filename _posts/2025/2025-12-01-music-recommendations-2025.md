@@ -92,11 +92,11 @@ To get the vocal samples I saved the audio from YouTube, split it into stems to 
 
 If you want to listen to a couple of tracks that gives the vibe of this mix try these:
 
-"Music For Tonight" by MPC GIRL USAGI (2025)
+**"Music For Tonight"** by MPC GIRL USAGI (2025)
 
 {% youtube s5m6X0sCag0 %}
 
-"Diamonds" by B FROM E (2025)
+**"Diamonds"** by B FROM E (2025)
 
 {% youtube 9uZkR7UR6WY %}
 
