@@ -2,6 +2,7 @@
 layout: post
 title: 'Music recommendations (2025)'
 date: '2025-12-01T23:00+00:00'
+modified: '2025-12-06T15:50+00:00'
 tags:
 - recap
 - summary
@@ -36,6 +37,8 @@ As we complete another lap around the sun, I take stock of what has happened thi
 ## Suspended in a beam of sunlight
 
 After my [2024 year end DJ mix](/2024/12/31/music-recommendations-2024/) (which I listen to a lot and am really proud of!) I produced [a handful of other mixes throughout the year](/tag/djmix). I use the fantastic [DJ.Studio](https://dj.studio) app and a few other tools.
+
+> 2025: over 4,000 tracks from over 600 releases, with a total listening time of over 30,000 minutes. 
 
 This mix saw me start out with [82 tracks totalling more than 5 hours of music](https://music.apple.com/gb/playlist/picks-2025/pl.u-WMGxat5epGr), which over the course of a few days were whittled down to the final running order. I wanted to use samples to add some vibes, similar to [my "Blade Runner" dnb mix](/2025/05/21/if-only-you-could-see-what-ive-seen-with-your-eyes/). After a bit of back and forth I settled on Carl Sagan talking wistfully about the cosmos and our place within it, taken from ["Pale Blue Dot"](https://www.youtube.com/watch?v=GO5FwsblpT8) and ["Cosmos"](https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage).
 
