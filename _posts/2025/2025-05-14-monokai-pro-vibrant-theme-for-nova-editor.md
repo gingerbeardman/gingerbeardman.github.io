@@ -2,6 +2,7 @@
 layout: post
 title: "Monokai Pro Vibrant theme for Nova editor"
 date: '2025-05-14T20:50+01:00'
+modified: '2025-12-16T00:00+00:00'
 tags:
 - nova
 - monokai
@@ -13,6 +14,7 @@ nouns:
 - Monokai Pro Vibrant
 - Monokai Pro
 - IBM Plex Mono
+- MD IO Trial
 - Nova
 - Spectrum
 featured: false
@@ -48,7 +50,7 @@ My fork has a few quality of life changes:
 - Colour tweaks improve contrast when highlighting found instances of search terms
 - Comments are now *italicised*
 
-I use the Spectrum variation of the theme with the [IBM Plex Mono](https://github.com/IBM/plex/releases/tag/%40ibm%2Fplex-mono%401.1.0) font to great effect.
+I use the Spectrum variation of the theme with the [IBM Plex Mono](https://github.com/IBM/plex/releases/tag/%40ibm%2Fplex-mono%401.1.0) font to great effect. Since late-2025 I'm now using font [MD IO Trial](https://mass-driver.com/trial-fonts) (free for personal use).
 
 ![IMG](/images/posts/nova-monokai-pro-vibrant.png)
 
