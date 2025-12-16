@@ -50,7 +50,9 @@ My fork has a few quality of life changes:
 - Colour tweaks improve contrast when highlighting found instances of search terms
 - Comments are now *italicised*
 
-I use the Spectrum variation of the theme with the [IBM Plex Mono](https://github.com/IBM/plex/releases/tag/%40ibm%2Fplex-mono%401.1.0) font to great effect. Since late-2025 I'm now using font [MD IO Trial](https://mass-driver.com/trial-fonts) (free for personal use).
+I use the Spectrum variation of the theme with the [IBM Plex Mono](https://github.com/IBM/plex/releases/tag/%40ibm%2Fplex-mono%401.1.0) font to great effect.
+
+Since late-2025 I'm now using font [MD IO Trial](https://mass-driver.com/trial-fonts) (free for personal use).
 
 ![IMG](/images/posts/nova-monokai-pro-vibrant.png)
 
