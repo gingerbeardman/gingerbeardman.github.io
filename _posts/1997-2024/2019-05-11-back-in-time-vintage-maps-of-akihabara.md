@@ -209,7 +209,9 @@ Whilst searching my ever-growing archive of [Japanese Macintosh Media](https://w
 
 「ボーナスは大切にネ！!　秋葉原を上手に歩こう」 ("Take care of your bonus! Walk well in Akihabara.") is a copy of the Akiba website dated June 1996, some four months before [the earliest version in the Wayback Machine](https://web.archive.org/web/19961029015522/http://www.akiba.or.jp/). A lot of the files that comprise the website are dated 1993, which I assume is when the site was first created. This sort of hand-built site really brings back some fond memories of the websites I built in the mid-90s: image maps, optimised GIFs, no content management system. Ah! The good old days.
 
-The 250+ maps it contains are hyperlinked in a multitude of ways and the website navigates quite well considering its age. I've had most luck browsing using Netscape Navigator 3.01 (ja). The whole thing is quite comprehensive: maps are split into geographical zones and are detailed to a building floor level. Alternative lists by category and product type are also included. There are a total of 221 stores, of which 68 are member stores and receive more in-depth coverage with their own page and photos.Check out screenshots of the website [home page](/images/posts/akihabara-1996-home.png) and [main map page](/images/posts/akihabara-1996-map.png).
+The 250+ maps it contains are hyperlinked in a multitude of ways and the website navigates quite well considering its age. I've had most luck browsing using Netscape Navigator 3.01 (ja). The whole thing is quite comprehensive: maps are split into geographical zones and are detailed to a building floor level. Alternative lists by category and product type are also included. There are a total of 221 stores, of which 68 are member stores and receive more in-depth coverage with their own page and photos.
+
+Check out screenshots of the website [home page](/images/posts/akihabara-1996-home.png) and [main map page](/images/posts/akihabara-1996-map.png).
 
 [![PNG](/images/posts/akihabara-1996.png)](/images/posts/akihabara-1996.png)
 
