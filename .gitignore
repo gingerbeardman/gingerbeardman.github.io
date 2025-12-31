@@ -5,6 +5,7 @@
 _site
 _posts/todo
 .nova/Configuration.json
+*.faf
 
 # Local Netlify folder
 .netlify
