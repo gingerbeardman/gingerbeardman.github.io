@@ -126,11 +126,11 @@ If you want to listen to a couple of tracks that gives the vibe of this mix try 
 <div class="table-wrapper" markdown="block">
 |Type|Artist|Title|
 |----|------|-----|
-|Song|iri|*[otozure](https://song.link/https://music.apple.com/gb/album/seek-ep/1810649068)*|
-|Song|bane & Grooveman Spot|*[Pluto](https://song.link/https://music.apple.com/gb/album/contrast-ep/1799907903)*|
-|Song|Egoism|*Getting Older*|
-|Song|Etherwood feat. Grace Barton|*[Where The River Meets The Sea](https://song.link/https://music.apple.com/gb/album/where-the-river-meets-the-sea-feat-grace-barton-single/1834103686)*|
-|Song|Tokyo Prose feat. Jolliffe & Ruby Wood|*[Embrace](https://song.link/https://music.apple.com/gb/album/embrace-single/1824700666)*|
+|Single|iri|[otozure](https://song.link/https://music.apple.com/gb/album/seek-ep/1810649068)|
+|Single|bane & Grooveman Spot|[Pluto](https://song.link/https://music.apple.com/gb/album/contrast-ep/1799907903)|
+|Single|Egoism|[Getting Older](https://song.link/https://music.apple.com/gb/album/and-go-nowhere/1794434702)|
+|Single|Etherwood feat. Grace Barton|[Where The River Meets The Sea](https://song.link/https://music.apple.com/gb/album/where-the-river-meets-the-sea-feat-grace-barton-single/1834103686)|
+|Single|Tokyo Prose feat. Jolliffe & Ruby Wood|[Embrace](https://song.link/https://music.apple.com/gb/album/embrace-single/1824700666)|
 |Album|Winston Surfshirt|[Winston](https://song.link/https://music.apple.com/gb/album/winston/1815171198)|
 |Album|Egoism|[And Go Nowhere](https://song.link/https://music.apple.com/gb/album/and-go-nowhere/1794434702)|
 |Album|Twin Shadow|[Georgie](https://song.link/https://music.apple.com/gb/album/georgie/1783029153)|
