@@ -23,7 +23,7 @@ Some topics people have discussed with me:
 - Software development & tools
 - Mentoring & work ethic
 - Music & video games
-- Any topics in my [blog posts](/tags)
+- [Any topics featured on my blog](/tags)
 - Life, the Universe and Everything
 
 ---
