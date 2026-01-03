@@ -2,7 +2,7 @@
 layout: post
 title: 'Music recommendations (2025)'
 date: '2025-12-01T23:00+00:00'
-modified: '2025-12-06T15:50+00:00'
+modified: '2026-01-03T23:05+00:00'
 tags:
 - recap
 - summary
@@ -38,7 +38,9 @@ As we complete another lap around the sun, I take stock of what has happened thi
 
 After my [2024 year end DJ mix](/2024/12/31/music-recommendations-2024/) (which I listen to a lot and am really proud of!) I produced [a handful of other mixes throughout the year](/tag/djmix). I use the fantastic [DJ.Studio](https://dj.studio) app and a few other tools.
 
-> 2025: over 4,000 tracks from over 600 releases, with a total listening time of over 30,000 minutes. Over 700 artists, 60% of which were new to me.
+> 2025: over 4,000 tracks from over 600 releases, with a total listening time of over 30,000 minutes.
+
+<!-- Over 700 artists, 60% of which were new to me. -->
 
 This mix saw me start out with [82 tracks totalling more than 5 hours of music](https://music.apple.com/gb/playlist/picks-2025/pl.u-WMGxat5epGr), which over the course of a few days were whittled down to the final running order. I wanted to use samples to add some vibes, similar to [my "Blade Runner" dnb mix](/2025/05/21/if-only-you-could-see-what-ive-seen-with-your-eyes/). After a bit of back and forth I settled on Carl Sagan talking wistfully about the cosmos and our place within it, taken from ["Pale Blue Dot"](https://www.youtube.com/watch?v=GO5FwsblpT8) and ["Cosmos"](https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage).
 
@@ -87,10 +89,15 @@ To get the vocal samples I saved the audio from YouTube, split it into stems to 
 
 ## Playlists
 
-- [Apple Music](https://music.apple.com/gb/playlist/best-of-2025/pl.u-gymPDc4bE7D)
-- [Spotify](https://open.spotify.com/playlist/1nXjqETOrhwm3igdqhAX0T)
-- [YouTube](https://www.youtube.com/playlist?list=PLfF-zlMNYMd9IWzFDdf6WyBq1EAwdXhos)
-- [Download](https://mega.nz/folder/UkokGISS#zZHaUOzcD1KmNY_yNbzwXQ)
+<div class="table-wrapper" markdown="block">
+|Platform|Link|
+|--------|----|
+|Apple Music|[Listen](https://music.apple.com/gb/playlist/best-of-2025/pl.u-gymPDc4bE7D)|
+|Spotify|[Listen](https://open.spotify.com/playlist/1nXjqETOrhwm3igdqhAX0T)|
+|YouTube|[Watch](https://www.youtube.com/playlist?list=PLfF-zlMNYMd9IWzFDdf6WyBq1EAwdXhos)|
+|Download|[Grab](https://mega.nz/folder/UkokGISS#zZHaUOzcD1KmNY_yNbzwXQ)|
+
+</div>
 
 ----
 
@@ -106,41 +113,40 @@ If you want to listen to a couple of tracks that gives the vibe of this mix try 
 
 {% youtube 9uZkR7UR6WY %}
 
+...and my song of the year:
+
+**"otozure"** by iri (2025)
+
+{% youtube yp2VPXNcJvY %}
+
 ----
+
+## Bonus: songs of the year
+
+<div class="table-wrapper" markdown="block">
+|Artist|Song|
+|------|----|
+|iri|*[otozure](https://song.link/https://music.apple.com/gb/album/seek-ep/1810649068)*|
+|bane & Grooveman Spot|*[Pluto](https://song.link/https://music.apple.com/gb/album/contrast-ep/1799907903)*|
+|Egoism|*Getting Older*|
+|Etherwood feat. Grace Barton|*[Where The River Meets The Sea](https://song.link/https://music.apple.com/gb/album/where-the-river-meets-the-sea-feat-grace-barton-single/1834103686)*|
+|Tokyo Prose feat. Jolliffe & Ruby Wood|*[Embrace](https://song.link/https://music.apple.com/gb/album/embrace-single/1824700666)*|
+
+</div>
 
 ## Bonus: albums of the year
 
 <div class="table-wrapper" markdown="block">
 |Artist|Album|
 |------|-----|
-|Winston Surfshirt |Winston|
-|Egoism |And Go Nowhere|
-|Twin Shadow |Georgie|
-|Small Circle of Friends |Slow|
-|Your Smith |The Rub|
-|Yuki Kawamura |Love Forever|
-|Osamu Fukuzawa & Kazuki Isogai |Inner Orchid|
-|Doja Cat |Vie|
-|Antony Szmierek |Service Sttation at the End of the Universe|
+|Winston Surfshirt |[Winston](https://song.link/https://music.apple.com/gb/album/winston/1815171198)|
+|Egoism |[And Go Nowhere](https://song.link/https://music.apple.com/gb/album/and-go-nowhere/1794434702)|
+|Twin Shadow |[Georgie](https://song.link/https://music.apple.com/gb/album/georgie/1783029153)|
+|Antony Szmierek |[Service Station At The End Of The Universe](https://song.link/https://music.apple.com/gb/album/service-station-at-the-end-of-the-universe/1767590949)|
+|Your Smith |[The Rub](https://song.link/https://music.apple.com/gb/album/the-rub/1815952643)|
+|Yuki Kawamura |[Love Forever](https://song.link/https://music.apple.com/gb/album/love-forever/1825060989)|
+|Osamu Fukuzawa & Kazuki Isogai |[Inner Orchid](https://song.link/https://music.apple.com/gb/album/inner-orchid/1828301887)|
+|Small Circle of Friends |[Slow](https://song.link/https://music.apple.com/gb/album/slow/1825352962)|
+|Doja Cat |[Vie](https://song.link/https://music.apple.com/gb/album/vie/1834042903)|
 
 </div>
-
-### Singles that stuck
-
-- iri — *otizure*
-- bane & roovemand spot — *Pluto*
-- Egoism — *Getting Older*
-- Etherwood feat. Grace Barton — *Where The River Meets The Sea*
-- Tokyo Prose, Jolliffe & Ruby Wood — *Embrace*
-
-### From last year, still on repeat
-
-- Macaroom — *Burning Chrome*
-- leift — *Citrus*
-- Hazel English — *Real Life*
-- Jack Penate — *Wondrous Strange*
-
-### From forever ago, freshly rediscovered
-
-- China Crisis — *Flaunt the Imperfection*
-- The Painted Word — *Lovelife*
