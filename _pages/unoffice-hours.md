@@ -13,8 +13,8 @@ Fancy a chat? I keep a few 30-minute slots most weeks—no agenda required, we'l
 Notes:
 - I'm using Google Calendar & Meet for this
 - [London time](https://www.worldtimebuddy.com/?pl=1&lid=2644210,2643743,0&h=2644210&hf=1)—please check that works for you before booking
-- I reserve the right to cancel/rearrange, but I'll give plenty of notice.
-- I'd appreciate the same!
+- I reserve the right to cancel/rearrange, but I'll give plenty of notice
+- I'd appreciate it if you could do the same! I'll wait on the call for 5 minutes
 
 Some topics people have discussed with me:
 
