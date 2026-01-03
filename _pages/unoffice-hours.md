@@ -12,7 +12,7 @@ Fancy a chat? I keep a few 30-minute slots most weeks—no agenda required, we'l
 
 Notes:
 - I'm using Google Calendar & Meet for this
-- [London time](https://www.worldtimebuddy.com/?pl=1&lid=5856195,5391959,5128581,2643743,100,658225,1850147,2158177&h=2643743&hf=1)—please check that works for you before booking
+- [London time](https://www.worldtimebuddy.com/?qm=1&lid=5856195,5391959,5128581,2643743,100,658225,1850147,2158177&h=2643743&date=2026-1-3&sln=17-19&hf=1)—please check that works for you before booking
 - I reserve the right to cancel/rearrange, but I'll give plenty of notice
 - I'd appreciate it if you could do the same! I'll wait on the call for 5 minutes
 
