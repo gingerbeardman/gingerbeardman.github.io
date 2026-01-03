@@ -21,6 +21,7 @@ Some topics people have discussed with me:
 - Game design & development
 - Creative process & workflows
 - Software development & tools
+- Mentoring and work ethic
 - Music & video games
 - Any topics in my [blog posts](/tags)
 - Life, the Universe and Everything
