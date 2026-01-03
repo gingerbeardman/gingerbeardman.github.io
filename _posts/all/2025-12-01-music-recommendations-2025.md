@@ -38,7 +38,7 @@ As we complete another lap around the sun, I take stock of what has happened thi
 
 After my [2024 year end DJ mix](/2024/12/31/music-recommendations-2024/) (which I listen to a lot and am really proud of!) I produced [a handful of other mixes throughout the year](/tag/djmix). I use the fantastic [DJ.Studio](https://dj.studio) app and a few other tools.
 
-> 2025: over 4,000 tracks from over 600 releases, with a total listening time of over 30,000 minutes. 
+> 2025: over 4,000 tracks from over 600 releases, with a total listening time of over 30,000 minutes. Over 700 artists, 60% of which were new to me.
 
 This mix saw me start out with [82 tracks totalling more than 5 hours of music](https://music.apple.com/gb/playlist/picks-2025/pl.u-WMGxat5epGr), which over the course of a few days were whittled down to the final running order. I wanted to use samples to add some vibes, similar to [my "Blade Runner" dnb mix](/2025/05/21/if-only-you-could-see-what-ive-seen-with-your-eyes/). After a bit of back and forth I settled on Carl Sagan talking wistfully about the cosmos and our place within it, taken from ["Pale Blue Dot"](https://www.youtube.com/watch?v=GO5FwsblpT8) and ["Cosmos"](https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage).
 
@@ -106,27 +106,41 @@ If you want to listen to a couple of tracks that gives the vibe of this mix try 
 
 {% youtube 9uZkR7UR6WY %}
 
-<!--
 ----
 
 ## Bonus: albums of the year
 
 <div class="table-wrapper" markdown="block">
-|Artist|Album|Release Date|
-|------|-----|----|
-|Yo Irie |[Love Affair](https://song.link/https://music.apple.com/gb/album/%E6%81%8B%E6%84%9B/1728000159) | 2024-02-14 |
-|The Painted Word |[Lovelife](https://song.link/https://music.apple.com/gb/album/lovelife/1730037254) (reissue) | 2024-02-14 (prev. 1989) |
-|macaroom |[Burning Chrome](https://song.link/https://music.apple.com/gb/album/burning-chrome/1752999536) | 2024-07-10 |
-|Hazel English |[Real Life](https://song.link/https://music.apple.com/gb/album/real-life/1757810351) (compilation) | 2024-08-16 |
-|leift |[Citrus](https://song.link/https://music.apple.com/gb/album/citrus/1735442359) | 2024-04-03 |
-|Fabiana Palladino |[Fabiana Palladino](https://song.link/https://music.apple.com/gb/album/fabiana-palladino/1722064179) | 2024-04-05 |
-|bog band |[Vanity Project](https://song.link/https://music.apple.com/gb/album/vanity-project-ep/1733626092) (EP) | 2024-06-12 |
-|showmore |[Liquid City](https://song.link/https://music.apple.com/gb/album/liquid-city/1763795260) | 2024-09-11 |
-|Sabrina Carpenter |[Short 'n Sweet](https://song.link/https://music.apple.com/gb/album/short-n-sweet/1750307020) | 2024-08-23 |
-|Betty Boo |[Rip Up The Rulebook](https://song.link/https://music.apple.com/gb/album/rip-up-the-rulebook/1751768472) | 2024-08-30 |
+|Artist|Album|
+|------|-----|
+|Winston Surfshirt |Winston|
+|Egoism |And Go Nowhere|
+|Twin Shadow |Georgie|
+|Small Circle of Friends |Slow|
+|Your Smith |The Rub|
+|Yuki Kawamura |Love Forever|
+|Osamu Fukuzawa & Kazuki Isogai |Inner Orchid|
+|Doja Cat |Vie|
+|Antony Szmierek |Service Sttation at the End of the Universe|
 
 </div>
 
-- [Apple Music](https://music.apple.com/gb/playlist/albums-2024/pl.u-NPjBpI04jA1)
-- [Spotify](https://open.spotify.com/playlist/1xCNxwzvSnV6EUIdcYtc3N?si=6LBNJrmVRE6nTPfJJdoHsQ&pi=e-VbDFOL0PR2GH) (missing my number one album)
--->
+### Singles that stuck
+
+- iri — *otizure*
+- bane & roovemand spot — *Pluto*
+- Egoism — *Getting Older*
+- Etherwood feat. Grace Barton — *Where The River Meets The Sea*
+- Tokyo Prose, Jolliffe & Ruby Wood — *Embrace*
+
+### From last year, still on repeat
+
+- Macaroom — *Burning Chrome*
+- leift — *Citrus*
+- Hazel English — *Real Life*
+- Jack Penate — *Wondrous Strange*
+
+### From forever ago, freshly rediscovered
+
+- China Crisis — *Flaunt the Imperfection*
+- The Painted Word — *Lovelife*
