@@ -34,6 +34,8 @@ I currently use it with Three.js, and this demo has it running with just a 2D ca
 
 It's optimised to run well on as far back as iPhone XS, though I'm certain it can be optimised even further. PRs welcome! The easiest optimisation would be removing processing of unused parameters.
 
+Is it scientifically correct? *Hell no.* Does it look good? *Yes.* Does it give you the feels? *Absolutely.*
+
 [github.com/gingerbeardman/glsl-web-crt-shader/](https://github.com/gingerbeardman/glsl-web-crt-shader/)
 
 ----
