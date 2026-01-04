@@ -6,6 +6,8 @@ tags:
 - crt
 - tv
 - opensource
+- software
+- web
 nouns:
 - Love2D
 - Three.js
