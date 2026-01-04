@@ -35,7 +35,11 @@ It's optimised to run well on as far back as iPhone XS. Though I'm certain it ca
 
 ----
 
+## Live Demo
+
+Reach for the sliders!
+
 <iframe src="https://gingerbeardman.github.io/glsl-web-crt-shader/" width="740" height="740">
 </iframe>
 
-The game shown is Pico-8 classic [Worm Nom Nom](https://www.lexaloffle.com/bbs/?tid=3547) by Tic Tac Toad (kometbomb + iLKke) 🍏🎩🐛
+The game shown is Pico-8 classic [Worm Nom Nom](https://www.lexaloffle.com/bbs/?tid=3547) by Tic Tac Toad (kometbomb + iLKke) 🌼🍏🎩🐛
