@@ -1,7 +1,7 @@
 ---
 layout: page_footerless
 title: Unoffice Hours
-published: private
+published: public
 permalink: /unoffice-hours.html
 ---
 
@@ -25,7 +25,7 @@ Some topics people have discussed with me:
 - Architecture & design
 - Music & video games
 - Neurodiversity
-- [Any topics featured on my blog](/tags)
+- [Topics featured on my blog](/tags)
 - Life, the Universe and Everything
 
 ---
