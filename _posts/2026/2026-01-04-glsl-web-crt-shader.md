@@ -32,7 +32,7 @@ This began as a [shader for Love2D](https://bsky.app/profile/gingerbeardman.com/
 
 I currently use it with Three.js, and this demo has it running with just a 2D canvas.
 
-It's optimised to run well on as far back as iPhone XS, though I'm certain it can be optimised even further. PRs welcome! The easiest optimisation would be removing processing of unused parameters.
+It's optimised to run well on as far back as iPhone XS, though I'm certain it can be optimised even further. [PRs welcome](https://github.com/gingerbeardman/glsl-web-crt-shader/pulls)! The easiest optimisation would be removing processing of unused parameters.
 
 Is it scientifically correct? *Hell no.* Does it look good? *Yes.* Does it give you the feels? *Absolutely.*
 
