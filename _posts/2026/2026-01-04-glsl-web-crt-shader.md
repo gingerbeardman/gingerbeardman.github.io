@@ -10,6 +10,7 @@ nouns:
 - Love2D
 - Three.js
 - Pico-8
+- iPhone XS
 image: /images/posts/glsl-web-crt-shader.png
 featured: false
 pinned: false
@@ -29,7 +30,7 @@ This began as a shader for Love2D in early 2025 (I'll try to release that versio
 
 I've currently use it with Three.js, and this demo has it running with just a 2D canvas.
 
-It's optimised to run well on as far back as iPhone XS. Though I'm certain it can be optimised even further. The easiest optimisation would be removing processing for unused parameters.
+It's optimised to run well on as far back as iPhone XS, though I'm certain it can be optimised even further. PRs welcome! The easiest optimisation would be removing processing of unused parameters.
 
 [github.com/gingerbeardman/glsl-web-crt-shader/](https://github.com/gingerbeardman/glsl-web-crt-shader/)
 
