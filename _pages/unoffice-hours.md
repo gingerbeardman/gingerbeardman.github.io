@@ -1,7 +1,7 @@
 ---
 layout: page_footerless
 title: Unoffice Hours
-published: private
+published: public
 permalink: /unoffice-hours.html
 ---
 
