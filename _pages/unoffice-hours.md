@@ -22,7 +22,9 @@ Some topics people have discussed with me:
 - Creative process & workflows
 - Software development & tools
 - Mentoring & work ethic
+- Architecture & design
 - Music & video games
+- Neurodiversity
 - [Any topics featured on my blog](/tags)
 - Life, the Universe and Everything
 

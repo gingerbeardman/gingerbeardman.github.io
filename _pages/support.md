@@ -15,7 +15,7 @@ You can show your appreciation for the blog, or a post, using the links below—
 
 Any money raised is very much appreciated! It goes towards web hosting and bandwidth costs, buying old books, magazines, CD-ROMs, or gadgets, with the only goal being continued research into pre-internet happenings in the early digital world.
 
-**Say "hi!" on social media**
+## Contact
 
 And you can always reach out to me on social media:
 
