@@ -46,7 +46,7 @@ It's optimised to run well on low power devices as far back as iPhone XS, though
 
 Is it scientifically correct? *Hell no.* Does it look good? *Yes.* Does it give you the feels? *Absolutely.*
 
-[github.com/gingerbeardman/glsl-web-crt-shader/](https://github.com/gingerbeardman/glsl-web-crt-shader/)
+[github.com/gingerbeardman/webgl-crt-shader/](https://github.com/gingerbeardman/webgl-crt-shader/)
 
 ----
 
