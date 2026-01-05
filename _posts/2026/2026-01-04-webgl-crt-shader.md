@@ -2,6 +2,7 @@
 layout: post
 title: "WebGL CRT Shader"
 date: '2026-01-04T17:44+00:00'
+modified: '2026-01-05T11:58+00:00'
 tags:
 - crt
 - tv
@@ -44,7 +45,7 @@ Is it scientifically correct? *Hell no.* Does it look good? *Yes.* Does it give 
 
 ## History
 
-It began as a [shader for Love2D](https://bsky.app/profile/gingerbeardman.com/post/3lk2arnt4rc2o) in early 2025 (I'll try to release that version at some point). At the end of 2025 I ported it to GLSL for a personal work-in-progress web game.
+It began as a [shader for Love2D](https://bsky.app/profile/gingerbeardman.com/post/3lk2arnt4rc2o) at the beginning of 2025 ([here's a gist of that one](https://gist.github.com/gingerbeardman/7392ee84fdb2e405d7437b5b12e4c12d)) and by the end of 2025 I had ported it to GLSL for a personal work-in-progress web game.
 
 ----
 
