@@ -28,7 +28,9 @@ comments:
 
 I'm releasing my WebGL CRT Shader as open source.
 
-It is a WebGL shader, so runs on the device’s hardware GPU in the browser and renders to a \<canvas\> (or offscreen canvas). It is not limited to games.
+It creates a CRT/vintage TV effect on the canvas.
+
+As a WebGL shader, it runs on the device’s hardware GPU in the browser and renders to a \<canvas\> (or offscreen canvas). It is not limited to games.
 
 ----
 
@@ -36,7 +38,7 @@ It is a WebGL shader, so runs on the device’s hardware GPU in the browser and 
 
 It began as a [shader for Love2D](https://bsky.app/profile/gingerbeardman.com/post/3lk2arnt4rc2o) in early 2025 (I'll try to release that version at some point). Later in 2025 I ported it to GLSL for a personal work-in-progress web game.
 
-I currently use it with Three.js, and this demo has it running with just a 2D canvas.
+I currently use it with Three.js, and this demo has it running with just a 2D canvas. Useful for games, apps, demos, visualisations, etc.  
 
 It's optimised to run well on low power devices as far back as iPhone XS, though I'm certain it can be optimised even further. [PRs welcome](https://github.com/gingerbeardman/glsl-web-crt-shader/pulls)! The easiest optimisation would be removing processing of unused parameters.
 
