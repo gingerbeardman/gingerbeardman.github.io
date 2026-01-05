@@ -53,6 +53,8 @@ It began as a [shader for Love2D](https://bsky.app/profile/gingerbeardman.com/po
 
 Reach for the sliders!
 
+(You can scroll the demo horizontally on mobile)
+
 <div class="table-wrapper" markdown="block">
 
 <iframe src="https://gingerbeardman.github.io/webgl-crt-shader/" width="740" height="740">
