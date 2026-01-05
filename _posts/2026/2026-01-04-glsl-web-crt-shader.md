@@ -16,6 +16,8 @@ nouns:
 image: /images/posts/glsl-web-crt-shader.png
 featured: false
 pinned: false
+redirect_from:
+- /2026/01/04/glsl-web-crt-shader/
 comments:
   - platform: twitter
     url: https://twitter.com/gingerbeardman/status/2007880011064484084
