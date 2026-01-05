@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GLSL Web CRT Shader"
+title: "WebGL CRT Shader"
 date: '2026-01-04T17:44+00:00'
 tags:
 - crt
@@ -26,7 +26,7 @@ comments:
 
 ---
 
-I'm releasing my GLSL Web CRT Shader as open source.
+I'm releasing my WebGL CRT Shader as open source.
 
 It is a WebGL shader, so runs on the device’s hardware GPU in the browser and renders to a <canvas> (or offscreen canvas). It is not limited to games.
 
