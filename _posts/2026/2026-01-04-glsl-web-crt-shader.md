@@ -28,7 +28,13 @@ comments:
 
 I'm releasing my GLSL Web CRT Shader as open source.
 
-This began as a [shader for Love2D](https://bsky.app/profile/gingerbeardman.com/post/3lk2arnt4rc2o) in early 2025 (I'll try to release that version at some point). Later in 2025 I ported it to GLSL for a personal work-in-progress web game.
+Note: This is a WebGL shader. It runs on the device’s hardware GPU in the browser and renders to a <canvas> (or offscreen canvas). It is not limited to games.
+
+----
+
+## History
+
+It began as a [shader for Love2D](https://bsky.app/profile/gingerbeardman.com/post/3lk2arnt4rc2o) in early 2025 (I'll try to release that version at some point). Later in 2025 I ported it to GLSL for a personal work-in-progress web game.
 
 I currently use it with Three.js, and this demo has it running with just a 2D canvas.
 
