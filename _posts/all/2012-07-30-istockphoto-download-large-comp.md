@@ -57,8 +57,3 @@ Final thoughts
 --------------
 
 I have a lot of fun building extensions. Not just because it involves programming, DOM manipulation using JavaScript, and some HTML and CSS for styling. For me, the real fun comes out of deconstructing the inner workings of the webpage—I guess you could call it reverse engineering—and then implementing a solution that will not only work well, but be resistant to breaking at the slightest changes to the page it is modifying.
-
-Contact
--------
-
-[Get in touch](http://www.gingerbeardman.com) if your projects that require ex-Apple-level attention to detail.
