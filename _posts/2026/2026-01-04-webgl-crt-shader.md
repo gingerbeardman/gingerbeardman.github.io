@@ -35,7 +35,7 @@ It creates a CRT/vintage TV effect so could be used in games, emulators, apps, d
 
 As a WebGL shader, it runs on the device’s hardware GPU in the browser and renders to a \<canvas\> (or offscreen canvas). I currently use it with Three.js, and the demo below uses just a 2D canvas.
 
-It's optimised to run well on low power devices as far back as iPhone XS, though I'm certain it can be optimised even further. [PRs welcome](https://github.com/gingerbeardman/glsl-web-crt-shader/pulls)! The easiest optimisation would be removing processing of unused parameters.
+It's optimised to run well on low power devices as far back as iPhone XS, though I'm certain it can be optimised even further. [PRs welcome](https://github.com/gingerbeardman/webgl-crt-shader/pulls)! The easiest optimisation would be removing processing of unused parameters.
 
 Is it scientifically correct? *Hell no.* Does it look good? *Yes.* Does it give you the feels? *Absolutely.*
 
