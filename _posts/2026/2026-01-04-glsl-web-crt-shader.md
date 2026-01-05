@@ -44,7 +44,12 @@ Is it scientifically correct? *Hell no.* Does it look good? *Yes.* Does it give 
 
 Reach for the sliders!
 
+<div class="table-wrapper" markdown="block">
+
 <iframe src="https://gingerbeardman.github.io/glsl-web-crt-shader/" width="740" height="740">
+![screenshot](/images/posts/glsl-web-crt-shader.png)
 </iframe>
+
+</div>
 
 ^ Screenshot is Pico-8 classic [Worm Nom Nom](https://www.lexaloffle.com/bbs/?tid=3547) by Tic Tac Toad (kometbomb + iLKke) 🌸🍏🎩🐛💩
