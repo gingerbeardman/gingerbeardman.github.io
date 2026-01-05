@@ -56,7 +56,7 @@ Reach for the sliders!
 
 <div class="table-wrapper" markdown="block">
 
-<iframe src="https://gingerbeardman.github.io/glsl-web-crt-shader/" width="740" height="740">
+<iframe src="https://gingerbeardman.github.io/webgl-crt-shader/" width="740" height="740">
 ![screenshot](/images/posts/glsl-web-crt-shader.png)
 </iframe>
 
