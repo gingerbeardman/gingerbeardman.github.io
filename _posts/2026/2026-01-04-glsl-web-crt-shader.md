@@ -28,7 +28,7 @@ comments:
 
 I'm releasing my GLSL Web CRT Shader as open source.
 
-Note: This is a WebGL shader. It runs on the device’s hardware GPU in the browser and renders to a <canvas> (or offscreen canvas). It is not limited to games.
+It is a WebGL shader, so runs on the device’s hardware GPU in the browser and renders to a <canvas> (or offscreen canvas). It is not limited to games.
 
 ----
 
