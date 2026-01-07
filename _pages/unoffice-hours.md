@@ -8,7 +8,7 @@ permalink: /unoffice-hours.html
 <br>
 Fancy a chat? I keep a few 30-minute slots most weeks—no agenda required, we'll figure it out.
 
-- [**Book a slot**](https://calendar.app.google/GmZWHKfwUM7TajAU9)
+- [**Book a slot**](https://calendar.app.google/NGGuUkBseGfNgrJK6)
 
 Notes:
 - I'm using Google Calendar & Meet for this
