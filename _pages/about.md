@@ -65,9 +65,9 @@ In December 2023, one of my games—[*YOYOZO*—was awarded a “Game of the Yea
 
 However, as of 2025—after six years of being the only full-time developer focused solely on that platform—[I no longer create games for the Playdate](/2025/04/15/when-playdate-stopped-being-fun/). This decision came after a targeted campaign of harassment was left unaddressed by both Panic and the broader community. I can’t continue to be part of an environment that tolerates and enables that kind of toxicity.
 
-For the first half of 2025, I was busy creating software for a wide range of platforms, from the [Sega Dreamcast](/2020/12/03/dreamcast-gdemu-installation/) to macOS, iOS, the [Web](https://blog.gingerbeardman.com/2025/08/21/wormhole-for-perplexity-comet/), and beyond. The later half of 2025 saw me build a games studio at [Perplexity](https://www.perplexity.ai).
+For the first half of 2025, I was busy creating software for a wide range of platforms, from the [Sega Dreamcast](/2020/12/03/dreamcast-gdemu-installation/) to macOS, iOS, the [Web](https://blog.gingerbeardman.com/2025/08/21/wormhole-for-perplexity-comet/), and beyond. The later half of 2025 saw me build a games studio at [Perplexity](https://www.perplexity.ai)—great to see how fast I could run and how high I could fly when the limits were removed.
 
-Since January 2026 I've [opened up my calendar to a couple of 30-minute calls a week](/unoffice-hours) if you fancy chatting about anything—no strings attached.
+Since late-2025 I've [opened up my calendar to a couple of 30-minute calls a week](/unoffice-hours) if you fancy chatting about anything—no strings attached.
 
 And that brings us to the present. Thanks for reading—I’ll keep this page updated as things evolve. Cheers!
 
