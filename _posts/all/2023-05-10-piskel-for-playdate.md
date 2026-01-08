@@ -7,6 +7,7 @@ tags:
 - playdate
 - pixelart
 - art
+- opensource
 nouns:
 - Playdate
 - Piskel
