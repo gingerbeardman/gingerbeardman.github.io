@@ -10,6 +10,7 @@ tags:
 - poweruser
 - software
 - tooling
+- opensource
 nouns:
 - Monokai Pro Vibrant
 - Monokai Pro

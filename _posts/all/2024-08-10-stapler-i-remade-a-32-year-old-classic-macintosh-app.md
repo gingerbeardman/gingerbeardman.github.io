@@ -11,6 +11,7 @@ tags:
 - workflow
 - swift
 - swiftui
+- opensource
 nouns:
 - Stapler Document
 - Stapler.app

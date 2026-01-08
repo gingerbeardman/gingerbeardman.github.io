@@ -8,6 +8,7 @@ tags:
 - nintendo
 - iwata
 - patreon
+- opensource
 nouns:
 - Iwata Asks
 featured: true
