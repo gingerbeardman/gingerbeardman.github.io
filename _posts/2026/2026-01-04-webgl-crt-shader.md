@@ -31,7 +31,7 @@ comments:
 
 I'm releasing my WebGL CRT Shader as open source.
 
-It creates a CRT/vintage TV effect so could be used in games, emulators, apps, demos, visuals, etc. It's not a simulator jut something to give the general old school vibe.
+It creates a CRT/vintage TV effect so could be used in games, emulators, apps, demos, visuals, etc. It's not a simulator just something that gives the same general old school vibe.
 
 As a WebGL shader, it runs on the device’s hardware GPU in the browser and renders to a \<canvas\> (or offscreen canvas). I currently use it with Three.js, and the demo below uses just a 2D canvas.
 
