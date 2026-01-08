@@ -15,6 +15,7 @@ Notes:
 - [London time](https://www.worldtimebuddy.com/?qm=1&lid=5856195,5391959,5128581,2643743,100,658225,1850147,2158177&h=2643743&date=2026-1-3&sln=17-19&hf=1)—please check that works for you before booking
 - I reserve the right to cancel/rearrange, but I'll give plenty of notice
 - I'd appreciate it if you could do the same! I'll wait on the call for 5 minutes
+- [Unoffice Hours explained](https://interconnected.org/home/2020/09/24/unoffice_hours)
 
 Some topics people have discussed with me:
 
