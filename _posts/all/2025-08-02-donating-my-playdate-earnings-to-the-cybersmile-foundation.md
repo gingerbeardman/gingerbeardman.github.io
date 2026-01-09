@@ -2,7 +2,7 @@
 layout: post
 title: "Donating my Playdate earnings to The Cybersmile Foundation"
 date: '2025-08-02T14:18+03:00'
-modified: '2025-11-28T08:24+00:00'
+modified: '2026-01-09T11:42+00:00'
 tags:
 - playdate
 - gamedev
@@ -41,9 +41,3 @@ matt
 ----
 
 ![IMG](/images/posts/cybersmile.png "Receipt for donation to The Cybersmile Foundation")
-
-----
-
-## Donations
-
-- 2025: July, August, September, October
