@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PNGenie"
+title: "PNGenie image optimiser"
 date: '2009-07-03T12:00+00:00'
 tags:
 - software
