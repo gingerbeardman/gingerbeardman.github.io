@@ -28,4 +28,5 @@ This application will seamlessly clean your photos of extraneous exif data prior
 
 ## Download
 
+- [www.gingerbeardman.com/exifcleaner/](http://www.gingerbeardman.com/exifcleaner/)
 - [Version Tracker](https://web.archive.org/web/20061029083354/http://www.versiontracker.com/dyn/moreinfo/macosx/28734)

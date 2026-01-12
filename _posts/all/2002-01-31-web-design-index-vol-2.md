@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Web Design Index 2"
+date: '2002-01-31T12:00+00:00'
+tags:
+- web
+- design
+- work
+nouns:
+- Rankin
+- Form
+- Web Design Index 2
+- Pepin Press
+featured: false
+pinned: false
+
+---
+
+A couple of websites I've built: one for photographer Rankin and the other for my former employer Form, made during my time working for them in 1998/9, are featured in the book Web Design Index 2 and on the accompanying CD. Published by Pepin Press. 
+
+## View
+
+- [www.amazon.co.uk/Web-Design-Index-Paperback-CD-Rom/dp/9057680262](https://www.amazon.co.uk/Web-Design-Index-Paperback-CD-Rom/dp/9057680262)
+- [archive.org/details/webdesignindex2w0000pepi/page/336/mode/2up](https://archive.org/details/webdesignindex2w0000pepi/page/336/mode/2up?q=rankin)
