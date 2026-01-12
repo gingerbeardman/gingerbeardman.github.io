@@ -26,6 +26,8 @@ However some brands of cameras also attach a lot of extraneous data. This is inc
 
 This application will seamlessly clean your photos of extraneous exif data prior to importing into iPhoto. This utility does not delete all exif data, just the extraneous MakerNote section and any blank sections. All remaining, standard exif data is left intact.
 
+![Remote](https://www.gingerbeardman.com/exifcleaner/screenshot.png)
+
 ## Download
 
 - [www.gingerbeardman.com/exifcleaner/](http://www.gingerbeardman.com/exifcleaner/)
