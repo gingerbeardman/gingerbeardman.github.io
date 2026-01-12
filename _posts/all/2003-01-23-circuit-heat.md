@@ -3,9 +3,11 @@ layout: post
 title: "Circuit Heat"
 date: '2003-01-23T12:00+00:00'
 tags:
-- game
-- finepix
-- photo
+- gamedev
+- blitz
+- early
+- wirehang
+- videogame
 nouns:
 - Circuit Heat
 - Pipes
