@@ -17,6 +17,14 @@ module Jekyll
         protection_count += 1
         key
       end
+
+      # Protect image paths and file paths
+      protected_content = protected_content.gsub(%r{(?:src=["']|!\[.*?\]\(|image:\s*)/[^\s<>")\]]+}) do |match|
+        key = "[[PATH#{protection_count}]]"
+        protections[key] = match
+        protection_count += 1
+        key
+      end
       
       # Protect YAML front matter
       if protected_content.start_with?("---")
