@@ -42,7 +42,7 @@ The plugin allows you to:
 
 ## Example config
 
-In the config file we set the starting `SERVER_PORT`, followed by one or more `SERVER_DIR` for each project. We can temporarily comment out projects to prevent them from appearing in the menu.
+In the config file we set the starting `SERVER_PORT`, followed by one or more `SERVER_DIR` for as many projects as you might want servers. We can temporarily comment out those server lines to prevent projects from appearing in the menu.
 
 ```sh
 # .xbar_httpd_config
