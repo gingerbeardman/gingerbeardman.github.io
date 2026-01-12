@@ -23,5 +23,6 @@ Compiled by Günter Beer, and published by The Pepin Press/Agile Rabbit Editions
 
 ## Links
 
+- [www.webdesignindex.org](https://web.archive.org/web/20020401235422/http://www.webdesignindex.org/)
 - [www.amazon.co.uk/Web-Design-Index-Paperback-CD-Rom/dp/9057680262](https://www.amazon.co.uk/Web-Design-Index-Paperback-CD-Rom/dp/9057680262)
 - [archive.org/details/webdesignindex2w0000pepi/page/336/mode/2up](https://archive.org/details/webdesignindex2w0000pepi/page/336/mode/2up?q=rankin)
