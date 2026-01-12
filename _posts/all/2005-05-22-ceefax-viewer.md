@@ -6,6 +6,7 @@ tags:
 - software
 - poweruser
 - dashboard
+- widget
 nouns:
 - Ceefax Viewer
 - Ceefax

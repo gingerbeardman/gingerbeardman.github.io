@@ -5,10 +5,12 @@ date: '2008-07-01T12:00+00:00'
 tags:
 - software
 - chumby
+- iot
 - widget
 nouns:
 - Chumby
 - Radio Paradise
+- Flash Lite
 featured: false
 pinned: false
 
