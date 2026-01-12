@@ -11,7 +11,7 @@ nouns:
 - Form
 - Web Design Index 2
 - The Pepin Press
-- Agile Rabbit
+- Agile Rabbit Editions
 featured: false
 pinned: false
 
