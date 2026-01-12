@@ -21,25 +21,25 @@ GEM
     ffi (1.17.3-x86_64-linux-gnu)
     ffi (1.17.3-x86_64-linux-musl)
     forwardable-extended (2.6.0)
-    google-protobuf (4.33.2)
+    google-protobuf (4.33.3)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.33.2-aarch64-linux-gnu)
+    google-protobuf (4.33.3-aarch64-linux-gnu)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.33.2-aarch64-linux-musl)
+    google-protobuf (4.33.3-aarch64-linux-musl)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.33.2-arm64-darwin)
+    google-protobuf (4.33.3-arm64-darwin)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.33.2-x86_64-darwin)
+    google-protobuf (4.33.3-x86_64-darwin)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.33.2-x86_64-linux-gnu)
+    google-protobuf (4.33.3-x86_64-linux-gnu)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.33.2-x86_64-linux-musl)
+    google-protobuf (4.33.3-x86_64-linux-musl)
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.1)
@@ -195,13 +195,13 @@ CHECKSUMS
   ffi (1.17.3-x86_64-linux-gnu) sha256=3746b01f677aae7b16dc1acb7cb3cc17b3e35bdae7676a3f568153fb0e2c887f
   ffi (1.17.3-x86_64-linux-musl) sha256=086b221c3a68320b7564066f46fed23449a44f7a1935f1fe5a245bd89d9aea56
   forwardable-extended (2.6.0) sha256=1bec948c469bbddfadeb3bd90eb8c85f6e627a412a3e852acfd7eaedbac3ec97
-  google-protobuf (4.33.2) sha256=748150d6c642fd655ef39efa23ecf2abe6d616020039a6d1c1764be1da530315
-  google-protobuf (4.33.2-aarch64-linux-gnu) sha256=822b2dcb707e94e652cd994642c31035935fca021adfac6164772c511eb7acd4
-  google-protobuf (4.33.2-aarch64-linux-musl) sha256=c4b64428183cfd1953ec8c37beec1036668c8ec0865cfb0b18df21181ca397ee
-  google-protobuf (4.33.2-arm64-darwin) sha256=6d0ac185fed18768e5f16338455b1e4b7c38a97fc46f352e709f7a3007b64e1d
-  google-protobuf (4.33.2-x86_64-darwin) sha256=87cde586234674562cf099e2b708a65e376e2d39b0f0f48281f4b4ea182b47f8
-  google-protobuf (4.33.2-x86_64-linux-gnu) sha256=73cba041477afcac92ff383fcbdec195ea28d96b994876d1deaa944d18f91786
-  google-protobuf (4.33.2-x86_64-linux-musl) sha256=97cdf4f772c5540f9274603b00f1474ed5e6e2238b1d8b1585e77f941a36bd2c
+  google-protobuf (4.33.3) sha256=be0db83fad895c30ea02304ea5575185bf672dfe6f4edb54cfdf1fe87a1f81da
+  google-protobuf (4.33.3-aarch64-linux-gnu) sha256=2a6b1cdc9f2d71877e937711f275abbcff1b7791f3607072a17ec6bbab51e393
+  google-protobuf (4.33.3-aarch64-linux-musl) sha256=9b0eda00320abe2ffd4e6f524137660773fbc14e064cd704423f26151b5be15a
+  google-protobuf (4.33.3-arm64-darwin) sha256=e6b0c98392a92a4f678a0ba8c60346c18a70afbaf76850e0e156139750369c7e
+  google-protobuf (4.33.3-x86_64-darwin) sha256=85d167754a02f38ba4aead98a374fd84f006be9902999882320eaf712acfc133
+  google-protobuf (4.33.3-x86_64-linux-gnu) sha256=50cd377faf94537babd1e46105ce698ba1488627cea1b868fbdd066a195eefc3
+  google-protobuf (4.33.3-x86_64-linux-musl) sha256=bf67663b2aa13317392e04197b43476b50fed45ce6fe9d94fb66124c3f6aeff7
   http_parser.rb (0.8.1) sha256=9ae8df145b39aa5398b2f90090d651c67bd8e2ebfe4507c966579f641e11097a
   i18n (1.14.8) sha256=285778639134865c5e0f6269e0b818256017e8cde89993fdfcbfb64d088824a5
   jekyll (4.4.1) sha256=4c1144d857a5b2b80d45b8cf5138289579a9f8136aadfa6dd684b31fe2bc18c1
