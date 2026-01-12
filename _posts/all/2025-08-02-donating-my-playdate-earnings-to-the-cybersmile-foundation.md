@@ -2,7 +2,11 @@
 layout: post
 title: "Donating my Playdate earnings to The Cybersmile Foundation"
 date: '2025-08-02T14:18+03:00'
+<<<<<<< HEAD
 modified: '2026-01-12T12:46+00:00'
+=======
+modified: '2026-01-09T11:42+00:00'
+>>>>>>> 43ec67e2c6d9caca283fe24150f74419e800dd95
 tags:
 - playdate
 - gamedev
