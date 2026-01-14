@@ -2,6 +2,7 @@
 layout: post
 title: "Controlling local web servers using xbar"
 date: '2026-01-12T20:57+00:00'
+modified: '2026-01-14T00:40+00:00'
 tags:
 - hack
 - software
@@ -22,6 +23,8 @@ comments:
     url: https://mastodon.gamedev.place/@gingerbeardman/115884324962767854
 
 ---
+
+> Note: an enhanced and native macOS version of this tool will be on the Mac App Store very soon!
 
 Sometimes I want to run local web servers for projects I'm working on. Usually more than one at a time, or at least over a short space of time.
 
