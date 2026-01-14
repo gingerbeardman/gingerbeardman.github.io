@@ -34,6 +34,7 @@ So I thought it would be cool to have a controller for those local servers in my
 
 The plugin allows you to:
 - toggle servers on and off
+- open in browser
 - view ports
 - view paths
 - view log sizes
