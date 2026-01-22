@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "See the sky: Thoru Yamamoto's Christmas story, for Playdate"
-modified: '2024-01-11T15:47+00:00'
+modified: '2026-01-22T21:56+00:00'
 date: '2023-12-16T00:00+00:00'
 tags:
 - hypercard
@@ -39,7 +39,11 @@ I've created a new version of *See the sky* for [Playdate](https://play.date). T
 
 ## Extracting the original images
 
-I used [HyperCardPreview](https://github.com/PierreLorenzi/HyperCardPreview) to export the assets from the original [HyperCard](https://en.wikipedia.org/wiki/HyperCard) stack. I did this back in October 2022, and had to use an old MacBook Pro running Mojave to do it. Just today, whilst writing this blog post, I figured out that HyperCardPreview will refuse to open stacks if the app Stacksmith is also present on your Mac!? As soon as I deleted Stacksmith, HyperCardPreview opened the files just fine. It seems to be some sort of issue with them competing for control of the `com.apple.hypercard.stack` uti. Anyway, *See the sky* consists of just over 500 full screen card images. For other stacks, you might get a combination of background images and card images that would need re-compositing - it really depends on the stack.
+I used [HyperCardPreview](https://github.com/PierreLorenzi/HyperCardPreview) to export the assets from the original [HyperCard](https://en.wikipedia.org/wiki/HyperCard) stack. I did this back in October 2022, and had to use an old MacBook Pro running Mojave to do it. 
+
+> Just today, whilst writing this blog post, I figured out that HyperCardPreview will refuse to open stacks if the app Stacksmith is also present on your Mac!? As soon as I deleted Stacksmith, HyperCardPreview opened the files just fine. It seems to be some sort of issue with them competing for control of the `com.apple.hypercard.stack` uti. Weird.
+
+Anyway, *See the sky* consists of just over 500 full screen card images. For other stacks, you might get a combination of background images and card images that would need re-compositing - it really depends on the stack.
 
 Thoru told me that when he first started out with HyperCard he wasn't aware of the benefits of using a common background card and different foreground cards, which is why *See the sky* consists of only foreground cards. For this reason it was very difficult for him to upload the files, which were rather large for the time. Later productions would make more effective use of background cards to keep the file size as small as possible.
 
