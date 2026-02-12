@@ -16,7 +16,7 @@ nouns:
 - Electroplankton
 - Flower
 - Journey
-- Jumping Flash
+- Jumping Flash!
 - Panekit
 - Proteus
 - Tiny Wings
@@ -57,7 +57,7 @@ Later that day I was emailing the musicians I was working with, [Nova Sphere](ht
 
 From that point on I put all my spare time into the game and by Boxing Day I had finished what I would consider the MVP, vertical slice, or whatever you want to call it. That's essentially what this demo is. You can [read a sort of director's commentary of the game development and my philosophy](https://bsky.app/profile/gingerbeardman.com/post/3maw3yoo5q22d) in a thread on Bluesky. I signed up to Steam, paid my fee, and submitted to Steam Next Fest: February 2026 Edition. I thought it would be fun to release the demo ahead of that event because I'm travelling to Japan for the Tokyo Design Forum between now and then.
 
-This demo is a snapshot from early January and the game has been refined and improved in countless ways since. So, please go easy on the demo and look forward to the final version. Visually, it's obviously inspired by Tranquility but given that I was creating it with little more than a memory of how that game felt to play back in the day, it contains a lot more. Depending on your point of view, it might strike you as a *3D* Electroplankton, Jumping Flash crossed with Zarch, Tiny Wings in space, Proteus without the trees, or Journey set in the Matrix. My list of influences is wide and varied—not just for the game but also for the procedurally generated levels and music. And of course there is a lot of what I like to think only I can bring to the table. I hope you enjoy it.
+This demo is a snapshot from early January and the game has been refined and improved in countless ways since. So, please go easy on the demo and look forward to the final version. Visually, it's obviously inspired by Tranquility but given that I was creating it with little more than a memory of how that game felt to play back in the day, it contains a lot more. Depending on your point of view, it might strike you as a *3D* Electroplankton, Jumping Flash! crossed with Zarch, Tiny Wings in space, Proteus without the trees, or Journey set in the Matrix. My list of influences is wide and varied—not just for the game but also for the procedurally generated levels and music. And of course there is a lot of what I like to think only I can bring to the table. I hope you enjoy it.
 
 ----
 
@@ -82,7 +82,7 @@ I'm still working hard on the final game, which will release later in 2026. I'm 
 
 I'll be sure to write more about the game as it gets closer to the finish line, but the current development version has better onboarding, improved music, even higher performance (the demo is 60fps, but the final version is more adaptive). There's a lot to talk about, but if you're hungry for more, [check out my director's commentary thread](https://bsky.app/profile/gingerbeardman.com/post/3maw3yoo5q22d).
 
-In the short term I'll be showing Serenity at Tokyo Indies on 18th February. I'd love to see you there.
+In the short term I'll be showing Serenity at [Tokyo Indies](https://www.tokyoindies.com/en/) on 18th February. I'd love to see you there.
 
 ----
 
