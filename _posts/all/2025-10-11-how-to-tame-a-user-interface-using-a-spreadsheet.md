@@ -38,7 +38,7 @@ nouns:
 - Figma
 - Sketch
 - Photoshop
-featured: false
+featured: true
 pinned: false
 comments:
   - platform: twitter
