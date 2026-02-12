@@ -39,7 +39,7 @@ Today I'm releasing a demo of my new game: Serenity.
 
 It's available for both Mac and Windows, and the final game will also support Linux.
 
-[store.steampowered.com/app/4309910/Serenity_Demo/](https://store.steampowered.com/app/4309910/Serenity_Demo/?beta=1)
+Download: [store.steampowered.com/app/4309910/Serenity_Demo/](https://store.steampowered.com/app/4309910/Serenity_Demo/?beta=1)
 
 ![IMG](/images/posts/serenity-gameplay.png)
 
