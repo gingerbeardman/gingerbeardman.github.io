@@ -83,3 +83,9 @@ I'm still working hard on the final game, which will release later in 2026. I'm 
 I'll be sure to write more about the game as it gets closer to the finish line, but the current development version has better onboarding, improved music, even higher performance (the demo is 60fps, but the final version is more adaptive). There's a lot to talk about, but if you're hungry for more, [check out my director's commentary thread](https://bsky.app/profile/gingerbeardman.com/post/3maw3yoo5q22d).
 
 In the short term I'll be showing Serenity at Tokyo Indies on 18th February. I'd love to see you there.
+
+----
+
+## The Trailer
+
+{% youtube 6kuETNxSWVM 71/51 %}
