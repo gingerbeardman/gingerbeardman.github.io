@@ -4,6 +4,8 @@ title: "Serenity: zen gliding to the sound of procedurally generated music"
 date: '2026-02-12T17:53+00:00'
 tags:
 - game
+- gamedev
+- demo
 nouns:
 - Serenity
 - "Steam Next Fest: February 2026 Edition"
@@ -21,7 +23,7 @@ nouns:
 - Tranquility
 - Zarch
 image: /images/posts/serenity-title-screen.png
-featured: false
+featured: true
 pinned: false
 comments:
   - platform: twitter
