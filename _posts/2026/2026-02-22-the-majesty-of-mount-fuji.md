@@ -65,7 +65,7 @@ If you've ever wondered about the sheer size and majesty of Mount Fuji, I took t
 
 ----
 
-![IMG](/images/posts/the-majesty-of-mount-fuji.jpg){:width="740" height="987"}
+![IMG](/images/posts/the-majesty-of-mount-fuji.jpg)
 
 ----
 
