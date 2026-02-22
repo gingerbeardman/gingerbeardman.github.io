@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Majesty of Mount Fuji
-date: '2026-02-22T13:16+00:00'
+date: '2026-02-22T14:25+00:00'
 tags:
 - japan
 - conference
