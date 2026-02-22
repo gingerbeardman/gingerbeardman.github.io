@@ -11,6 +11,7 @@ tags:
 nouns:
 - Mount Fuji
 - Tokyo Design Forum
+- Tokyo Indies
 - Electroplankton
 - teamLAB×Planets
 - Serenity
