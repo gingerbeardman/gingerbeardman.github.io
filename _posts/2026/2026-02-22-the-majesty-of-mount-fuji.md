@@ -67,7 +67,7 @@ If you've ever wondered about the sheer size and majesty of Mount Fuji, I took t
 
 ----
 
-I've just spent a week in Japan for [Tokyo Design Forum](https://www.tokyodesignforum.com), and to give my eldest a memorable first trip outside of Europe. Our time away delivered on both counts: we both returned home hugely inspired and in awe of what we saw there. I'd last visited Japan in 2004, which was pre-iPhone and I needed a combination of paper map, guide book, and friends to find my way around. This time, we just searched Google maps and tapped Start and found our way there without much stress.
+I've just spent a week in Japan for [Tokyo Design Forum](https://www.tokyodesignforum.com), and to give my eldest a memorable first trip outside of Europe. Our time away delivered on both counts: we returned home hugely inspired and in awe of what we saw there. I'd last visited Japan in 2004, which was pre-iPhone and I needed a combination of paper map, guide book, and friends to find my way around. This time, we just searched Google maps and tapped Start and found our way there without much stress.
 
 The city had changed a lot, not just architecturally and technologically, but also culturally. And of course in terms of there being far less video game arcades and retro games being much more difficult to find. We had more luck outside of Tokyo city centre, but it was still relatively slim pickings compared to the suitcase full of WonderSwan hardware and games I brought back in 2004.
 
