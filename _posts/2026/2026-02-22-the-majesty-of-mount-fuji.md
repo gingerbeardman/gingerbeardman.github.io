@@ -7,7 +7,26 @@ tags:
 - conference
 - photo
 nouns:
+- Mount Fuji
 - Tokyo Design Forum
+- Electroplankton
+- teamLAB×Planets
+- Serenity
+- WonderSwan
+- iPhone
+- Sanrio Puroland
+- café capyba
+- Kamakura
+- Kōtoku-in
+- Daibutsu
+- picopico café
+- Lexaloffle Games
+- PICO-8
+- Nakano Broadway
+- Hands
+- Loft
+- Itesan
+- Kawase
 image: /images/posts/the-majesty-of-mount-fuji.jpg
 featured: true
 pinned: false
@@ -46,9 +65,13 @@ If you've ever wondered about the sheer size and majesty of Mount Fuji, I took t
 
 ----
 
-I'd just spent a week in Japan for Tokyo Design Forum, and to give my eldest a memorable first trip outside of Europe. Our time away delivered on both counts: we both returned home hugely inspired and in awe of what we saw there. I'd last visited Japan in 2004, which was pre-iPhone and I needed a combination of paper map, guide book, and friend as a personal guide to find my way around. This time, we just searched Google maps and tapped Start and found our way there without much stress.
+I'd just spent a week in Japan for [Tokyo Design Forum](https://www.tokyodesignforum.com), and to give my eldest a memorable first trip outside of Europe. Our time away delivered on both counts: we both returned home hugely inspired and in awe of what we saw there. I'd last visited Japan in 2004, which was pre-iPhone and I needed a combination of paper map, guide book, and friends to find my way around. This time, we just searched Google maps and tapped Start and found our way there without much stress.
 
-The city had changed a lot, not just architecturally and technologically, but also culturally and in terms of there being far less video game arcades and retro games being much more difficult to find. We had more luck outside of Tokyo city centre, but it was still relatively slim pickings compared to the suitcase full of WonderSwan hardware and games I brought back in 2004.
+The city had changed a lot, not just architecturally and technologically, but also culturally. And of course in terms of there being far less video game arcades and retro games being much more difficult to find. We had more luck outside of Tokyo city centre, but it was still relatively slim pickings compared to the suitcase full of WonderSwan hardware and games I brought back in 2004.
+
+In the short week I managed to fit in the 2-day conference, presenting my latest game [Serenity](https://blog.gingerbeardman.com/2026/02/12/serenity-demo/) at [Tokyo Indies](https://www.tokyoindies.com/en/), and we got in trips to [Sanrio Puroland](https://en.puroland.jp/language/), [café capyba](https://cspace.co.jp/en/home_english/), [teamLAB×Planets](https://www.teamlab.art/e/planets/) (which could easily pass as [Electroplankton](https://en.wikipedia.org/wiki/Electroplankton): The Exhibition), a day trip to Kamakura to see [Kōtoku-in and the Daibutsu](https://en.wikipedia.org/wiki/Kōtoku-in) Kawase-style, a pilgrimage to [picopico café](https://www.picopicocafe.com/index_en.html) home of [Lexaloffle Games and PICO-8](https://www.lexaloffle.com/pico-8.php) (especially meaningful to me as I'm the longest active user! bbs?uuid=6), toy hunting at Nakano Broadway, stationery and stickers at [Hands](https://info.hands.net/en/) and [Loft](https://www.loft.co.jp/en/), the most impressive shopping experience of my entire life buying 3D-printed homeware at [Itesan Shinjuku](https://cp.mistore.jp/global/en/shinjuku.html), and buying far too many capsule toys. A successful trip as any otaku would surely agree!
+
+## RFA
 
 So I've decided that this year I'm going to take advantage of the generous UK-Japan visa agreement and live in Japan for a while. Please get in touch if you think you might be able to assist in some way. ありがとうございます！
 
