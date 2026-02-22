@@ -6,6 +6,8 @@ tags:
 - japan
 - conference
 - photo
+- travel
+- otaku
 nouns:
 - Mount Fuji
 - Tokyo Design Forum
