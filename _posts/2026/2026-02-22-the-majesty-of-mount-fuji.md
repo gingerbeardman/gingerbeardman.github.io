@@ -30,6 +30,7 @@ nouns:
 - Itesan
 - Kawase
 - Katamari
+- otaku
 image: /images/posts/the-majesty-of-mount-fuji.jpg
 featured: true
 pinned: false
@@ -72,7 +73,7 @@ I've just spent a week in Japan for [Tokyo Design Forum](https://www.tokyodesign
 
 The city had changed a lot, not just architecturally and technologically, but also culturally. And of course in terms of there being far less video game arcades and retro games being much more difficult to find. We had more luck outside of Tokyo city centre, but it was still relatively slim pickings compared to the suitcase full of WonderSwan, Katamari, and other game stuff I brought back in 2004.
 
-In the short week I managed to fit in the 2-day conference, presenting my latest game [Serenity](https://blog.gingerbeardman.com/2026/02/12/serenity-demo/) at [Tokyo Indies](https://www.tokyoindies.com/en/), and we got in trips to [Sanrio Puroland](https://en.puroland.jp/language/), [café capyba](https://cspace.co.jp/en/home_english/), [teamLAB×Planets](https://www.teamlab.art/e/planets/) (which could easily pass as [Electroplankton](https://en.wikipedia.org/wiki/Electroplankton): The Exhibition), a Kawase-style day trip to Kamakura to see [Kōtoku-in and the Daibutsu](https://en.wikipedia.org/wiki/Kōtoku-in), a pilgrimage to [picopico café](https://www.picopicocafe.com/index_en.html) home of [Lexaloffle Games and PICO-8](https://www.lexaloffle.com/pico-8.php) (especially meaningful to me as I'm the longest active user! I'm `bbs?uuid=6`), toy hunting at [Nakano Broadway](https://en.wikipedia.org/wiki/Nakano_Broadway), stationery and stickers at [Hands](https://info.hands.net/en/) and [Loft](https://www.loft.co.jp/en/), and witnessing the most impressive shopping experience of my entire life buying 3D-printed homeware at [Itesan Shinjuku](https://cp.mistore.jp/global/en/shinjuku.html), and naturally buying far too many capsule toys. A successful trip as any otaku would surely agree!
+In the short week I managed to fit in the 2-day conference, presented my latest game [Serenity](https://blog.gingerbeardman.com/2026/02/12/serenity-demo/) at [Tokyo Indies](https://www.tokyoindies.com/en/), made new friends, and we managed to fit in trips to [Sanrio Puroland](https://en.puroland.jp/language/), [café capyba](https://cspace.co.jp/en/home_english/), [teamLAB×Planets](https://www.teamlab.art/e/planets/) (which could easily pass as [Electroplankton](https://en.wikipedia.org/wiki/Electroplankton): The Exhibition), a Kawase-style day trip to Kamakura to see [Kōtoku-in and the Daibutsu](https://en.wikipedia.org/wiki/Kōtoku-in), a pilgrimage to [picopico café](https://www.picopicocafe.com/index_en.html) home of [Lexaloffle Games and PICO-8](https://www.lexaloffle.com/pico-8.php) (especially meaningful to me as I'm the longest active user! `bbs?uuid=6`), toy hunting at [Nakano Broadway](https://en.wikipedia.org/wiki/Nakano_Broadway), UFO stationery and stickers at [Hands](https://info.hands.net/en/) and [Loft](https://www.loft.co.jp/en/), and witnessing the most impressive shopping experience of my entire life buying 3D-printed homeware at [Itesan](https://cp.mistore.jp/global/en/shinjuku.html) Shinjuku, and naturally buying far too many capsule toys. A successful trip as any otaku would surely agree!
 
 ## RFA
 
