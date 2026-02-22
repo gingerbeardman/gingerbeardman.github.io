@@ -21,16 +21,6 @@ nouns:
 featured: false
 pinned: false
 image: /images/posts/nova-monokai-pro-vibrant.png
-carousels:
-  - images:
-    - image: https://cdn.gingerbeardman.com/images/posts/band-kun-01.png
-    - image: https://cdn.gingerbeardman.com/images/posts/band-kun-02.png
-    - image: https://cdn.gingerbeardman.com/images/posts/band-kun-03.png
-    - image: https://cdn.gingerbeardman.com/images/posts/band-kun-04.png
-    - image: https://cdn.gingerbeardman.com/images/posts/band-kun-05.png
-    - image: https://cdn.gingerbeardman.com/images/posts/band-kun-06.png
-    - image: https://cdn.gingerbeardman.com/images/posts/band-kun-07.png
-
 comments:
   - platform: twitter
     url: https://twitter.com/gingerbeardman/status/1922745110539743556
