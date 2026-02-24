@@ -46,7 +46,7 @@ The default file sidebar in an editor shows *everything*, which in a large proje
 
 ## How it works
 
-In Git repositories, Fresh Files uses `git status` and `git log` to figure out what's changed. In non-Git workspaces it falls back to filesystem modification times, so it works in any folder. It shares some functionality with the Git Sidebar but I've been careful to not duplicate too much functionality.
+In Git repositories, Fresh Files uses `git status` and `git log` to figure out what's changed. In non-Git workspaces it falls back to filesystem modification times, so it works in any folder. It shares some functionality with the built-in Git Sidebar but I've been careful to not duplicate too much.
 
 There are two modes:
 
