@@ -135,6 +135,7 @@ If you want to listen to a couple of tracks that gives the vibe of this mix try 
 |Album|Egoism|[And Go Nowhere](https://song.link/https://music.apple.com/gb/album/and-go-nowhere/1794434702)|
 |Album|Twin Shadow|[Georgie](https://song.link/https://music.apple.com/gb/album/georgie/1783029153)|
 |Album|Antony Szmierek|[Service Station At The End Of The Universe](https://song.link/https://music.apple.com/gb/album/service-station-at-the-end-of-the-universe/1767590949)|
+|Album|Balance|[MPC GIRL USAGI](https://song.link/https://music.apple.com/gb/album/balance/1844547763)|
 |Album|Your Smith|[The Rub](https://song.link/https://music.apple.com/gb/album/the-rub/1815952643)|
 |Album|Yuki Kawamura|[Love Forever](https://song.link/https://music.apple.com/gb/album/love-forever/1825060989)|
 |Album|Osamu Fukuzawa & Kazuki Isogai|[Inner Orchid](https://song.link/https://music.apple.com/gb/album/inner-orchid/1828301887)|
