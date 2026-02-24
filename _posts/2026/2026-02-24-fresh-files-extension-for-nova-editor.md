@@ -39,14 +39,14 @@ comments:
 
 I spotted [Fresh File Explorer](https://github.com/FreHu/vscode-fresh-file-explorer), a VS Code extension, [on Hacker News](https://github.com/FreHu/vscode-fresh-file-explorer) and loved the idea—a file sidebar that only shows recently modified files.
 
-The default file sidebar in Nova shows *everything*, which in a large project is mostly noise. I thought it would be fun to have something like this for [Nova](https://nova.app), so I reimplemented the concept from scratch using only the OG repo readme as a reference. No code is shared, it's a completely new extension built against Nova's API. That means I can't do as much as the VS Code extension, but it's still quite useful.
+The default file sidebar in an editor shows *everything*, which in a large project is mostly noise. I thought it would be fun to have something like this for [Nova](https://nova.app), so I reimplemented the concept from scratch using only the OG repo readme as a reference. No code is shared, it's a completely new extension built against Nova's API. That means I can't do as much as the VS Code extension, but it's still quite useful.
 
 ![PNG](/images/posts/fresh-files-extension-for-nova.png "Fresh Files showing pinned files and recent changes")
 {:.tofigure}
 
 ## How it works
 
-In Git repositories, Fresh Files uses `git status` and `git log` to figure out what's changed. In non-Git workspaces it falls back to filesystem modification times, so it works in any folder. So, it shares some functionality with the Git Sidebar but I've been careful to not duplicate too much functionality.
+In Git repositories, Fresh Files uses `git status` and `git log` to figure out what's changed. In non-Git workspaces it falls back to filesystem modification times, so it works in any folder. It shares some functionality with the Git Sidebar but I've been careful to not duplicate too much functionality.
 
 There are two modes:
 
