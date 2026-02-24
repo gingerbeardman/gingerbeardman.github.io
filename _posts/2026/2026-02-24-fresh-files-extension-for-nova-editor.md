@@ -79,6 +79,6 @@ Other things worth mentioning:
 
 Right-click gives you New File, Show in Finder, Copy Path, Copy Relative Path, Move to Trash, Pin/Unpin, Show File History, Diff Search, and Exhume/Resurrect for deleted files.
 
-## Downloads
+## Get it now
 
-You can download it at: [extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.FreshFiles/](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.FreshFiles/)
+You can install it at: [extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.FreshFiles/](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.FreshFiles/)
