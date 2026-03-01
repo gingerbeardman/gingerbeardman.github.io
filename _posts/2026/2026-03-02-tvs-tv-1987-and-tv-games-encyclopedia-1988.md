@@ -10,6 +10,7 @@ tags:
 - japan
 - history
 - book
+- tv
 nouns:
 - TV's TV
 - TV’s TV
