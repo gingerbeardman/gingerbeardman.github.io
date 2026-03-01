@@ -20,7 +20,7 @@ nouns:
 - The Pokémon Company
 - SEDIC
 - UPU
-- TV Game Encyclopedia
+- TV Games Encyclopedia
 image: /images/posts/tv-games-encyclopedia.jpg
 featured: true
 pinned: false
@@ -62,7 +62,7 @@ This was the era when Japanese corporations bought Rockefeller Center and Columb
 
 The cultural side-effects were extraordinary. [Bubble-era](https://archive.is/https://www.nytimes.com/2018/04/06/business/japan-1980s-bubble-era.html) money funded some of the most ambitious, beautiful, and outright weird creative projects Japan has ever produced. [Architecture](https://text-bin.blogspot.com/2017/04/architecture-of-japanese-bubble.html), [graphic design](https://nostos.jp/archives/114901), [magazines](https://mouldmap.tumblr.com/post/152559790016/magazines-of-the-japanese-bubble-economy), [vehicles](https://petrolblog.com/articles/bubble-cars-brief-history-nissan-pike-factory), [music](https://www.japanhouselondon.uk/read-and-watch/city-pop-japans-bubble-era-soundtrack-thats-more-popular-than-ever/), [fashion](https://www.yumeiorigin.com/articles-en/a-glimpse-into-japans-bubble-economy-wealth-and-illusion), [animation](https://www.youtube.com/watch?v=YIi_MGNW6Q0)—everything was touched by the sense that budgets were infinite and ambition should match. It's no coincidence that this period overlaps with the golden age of Japanese game development, or that Fuji TV was handing late-night airtime to young experimentalists, or that someone thought a four-hour TV program about Western computer games was a good idea.
 
-The TV Game Encyclopedia is very much a product of this moment. Its lavish physical production—the frosted plastic slipcase, the variety of paper stocks, the multiple print techniques and finishes—reflects the kind of excess that was not only possible but expected. A book about video games had no business being this beautifully made. And yet here it was, priced at ¥3,500, with the ambition and budget of an art object. When the bubble burst in 1991—ushering in what became known as the Lost Decades—this kind of thing simply stopped being made.
+The TV Games Encyclopedia is very much a product of this moment. Its lavish physical production—the frosted plastic slipcase, the variety of paper stocks, the multiple print techniques and finishes—reflects the kind of excess that was not only possible but expected. A book about video games had no business being this beautifully made. And yet here it was, priced at ¥3,500, with the ambition and budget of an art object. When the bubble burst in 1991—ushering in what became known as the Lost Decades—this kind of thing simply stopped being made.
 
 ### The object
 
