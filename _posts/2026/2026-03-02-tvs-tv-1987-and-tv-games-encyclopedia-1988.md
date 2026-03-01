@@ -20,15 +20,17 @@ nouns:
 - SEDIC
 - UPU
 - TV Game Encyclopedia
+image: /images/posts/tv-games-encyclopedia.jpg
 featured: true
+pinned: false
 carousel: tv-games
 comments:
   - platform: twitter
-    url: https://twitter.com/gingerbeardman/status/
+    url: https://twitter.com/gingerbeardman/status/2028253799584796678
   - platform: bluesky
-    url: https://bsky.app/profile/gingerbeardman.com/post/
+    url: https://bsky.app/profile/gingerbeardman.com/post/3mfzw5touq22z
   - platform: mastodon
-    url: https://mastodon.gamedev.place/@gingerbeardman/
+    url: https://mastodon.gamedev.place/@gingerbeardman/116156566254863901
 
 ---
 
