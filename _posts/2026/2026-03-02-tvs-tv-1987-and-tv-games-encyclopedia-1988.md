@@ -52,7 +52,7 @@ But don't watch the 4 hours yet! Read on.
 
 ---
 
-## テレビゲーム―電視遊戯大全 / TV Game Encyclopedia (1988)
+## テレビゲーム―電視遊戯大全 / TV Games Encyclopedia (1988)
 
 The following year, the team behind TV's TV channelled that same energy into print. The result might be described as a book, but it's much more than that. テレビゲーム―電視遊戯大全 (*TV GAMES: Denshi Yūgi Taizen*; *TV Games Encyclopedia*), published in May 1988 by UPU, ISBN4-946432-31-0, was a seminal encyclopaedia of video game history—and perhaps the single most ambitious book about games ever produced.
 
