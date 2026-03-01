@@ -5,6 +5,7 @@ date: '2026-03-01T23:34+00:00'
 tags:
 - macintosh
 - amiga
+- atari
 - computers
 - japan
 - history
