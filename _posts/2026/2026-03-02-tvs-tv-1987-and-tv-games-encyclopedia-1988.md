@@ -14,9 +14,6 @@ tags:
 nouns:
 - TV's TV
 - TV’s TV
-- Amiga
-- Apple
-- Atari
 - Fuji TV
 - The Pokémon Company
 - SEDIC
