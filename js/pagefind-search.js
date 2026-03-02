@@ -28,23 +28,25 @@ document.addEventListener("DOMContentLoaded", async function () {
   if (!resultsEl || !queryEl || !clearEl) return;
 
   const params = new URLSearchParams(window.location.search);
-  const sortMode = params.get("sort") === "oldest" ? "oldest" : "newest";
+  const legacySort = params.get("sort") === "oldest" ? "oldest" : "newest";
   const viewMode = params.get("view") === "simple" ? "simple" : "full";
-  const orderMode = params.get("order") === "rank" ? "rank" : "date";
+  const rawOrder = params.get("order");
+  const orderMode = rawOrder === "oldest" || rawOrder === "best"
+    ? rawOrder
+    : (rawOrder === "newest" ? "newest" : legacySort);
   const initialQuery = (params.get("q") || "").trim();
 
-  const buildUrl = (query, sort, view, order) => {
+  const buildUrl = (query, view, order) => {
     const next = new URLSearchParams();
     if (query) next.set("q", query);
-    if (sort !== "newest") next.set("sort", sort);
     if (view !== "full") next.set("view", view);
-    if (order === "rank") next.set("order", "rank");
+    if (order !== "newest") next.set("order", order);
     const qs = next.toString();
     return qs ? "/search/?" + qs : "/search/";
   };
 
-  const buildLink = (query, nextSort, nextView, nextOrder) => {
-    return buildUrl(query, nextSort, nextView, nextOrder);
+  const buildLink = (query, nextView, nextOrder) => {
+    return buildUrl(query, nextView, nextOrder);
   };
 
   const updateClearVisibility = () => {
@@ -75,7 +77,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     const query = rawQuery.trim();
     updateClearVisibility();
 
-    const nextUrl = buildUrl(query, sortMode, viewMode, orderMode);
+    const nextUrl = buildUrl(query, viewMode, orderMode);
     history.replaceState({}, "", nextUrl);
     document.title = query
       ? 'Searching "' + query + '" ⌘I  Get Info'
@@ -127,10 +129,10 @@ document.addEventListener("DOMContentLoaded", async function () {
         return;
       }
 
-      // Date order toggle (newest/oldest) vs default Pagefind ranking.
-      if (orderMode === "date") {
+      // Date order (newest/oldest) vs best match ranking.
+      if (orderMode === "newest" || orderMode === "oldest") {
         items.sort((a, b) => {
-          return sortMode === "oldest"
+          return orderMode === "oldest"
             ? a.url.localeCompare(b.url)
             : b.url.localeCompare(a.url);
         });
@@ -144,23 +146,23 @@ document.addEventListener("DOMContentLoaded", async function () {
       };
 
       const newestOrderLabel = controlLabel(
-        orderMode === "date" && sortMode === "newest" ? "newest first" : "switch to newest",
-        orderMode === "date" && sortMode === "newest",
-        buildLink(query, "newest", viewMode, "date")
+        orderMode === "newest" ? "newest first" : "switch to newest",
+        orderMode === "newest",
+        buildLink(query, viewMode, "newest")
       );
       const oldestOrderLabel = controlLabel(
-        orderMode === "date" && sortMode === "oldest" ? "oldest first" : "switch to oldest",
-        orderMode === "date" && sortMode === "oldest",
-        buildLink(query, "oldest", viewMode, "date")
+        orderMode === "oldest" ? "oldest first" : "switch to oldest",
+        orderMode === "oldest",
+        buildLink(query, viewMode, "oldest")
       );
       const bestMatchOrderLabel = controlLabel(
-        orderMode === "rank" ? "best match" : "switch to best match",
-        orderMode === "rank",
-        buildLink(query, sortMode, viewMode, "rank")
+        orderMode === "best" ? "best match" : "switch to best match",
+        orderMode === "best",
+        buildLink(query, viewMode, "best")
       );
       const viewToggleLabel = viewMode === "simple"
-        ? controlLabel("show detailed", false, buildLink(query, sortMode, "full", orderMode))
-        : controlLabel("show simple", false, buildLink(query, sortMode, "simple", orderMode));
+        ? controlLabel("show detailed", false, buildLink(query, "full", orderMode))
+        : controlLabel("show simple", false, buildLink(query, "simple", orderMode));
 
       const list = items.map((item) => {
         const metadata = [item.date, item.readTime].filter(Boolean).join("  •  ");
