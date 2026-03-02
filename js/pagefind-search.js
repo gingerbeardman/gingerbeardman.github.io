@@ -88,6 +88,8 @@ document.addEventListener("DOMContentLoaded", async function () {
       return;
     }
 
+    resultsEl.innerHTML = "<p>…</p>";
+
     try {
       const parsed = parseQuery(query);
       if (!parsed.includeQuery) {
