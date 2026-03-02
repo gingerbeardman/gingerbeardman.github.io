@@ -32,6 +32,7 @@ layout: default
           {% assign words = page.content | strip_html | number_of_words %}
           {% assign read_time = words | divided_by: 200 | at_least: 1 %}
           <span data-pagefind-meta="read_time" hidden>{{ read_time }} min{% if read_time != 1 %}s{% endif %} read</span>
+          <span data-pagefind-meta="featured" hidden>{% if page.featured %}true{% else %}false{% endif %}</span>
           {% include page-image.html %}
           {% if page.nouns %}
             {{ content | replace_nouns: page.nouns }}

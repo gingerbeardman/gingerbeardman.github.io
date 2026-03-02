@@ -18,6 +18,10 @@ document.addEventListener("DOMContentLoaded", async function () {
     };
   }
 
+  function normalizeResultTitle(title) {
+    return (title || "").replace(/\s*♥\s*$/, "").trim();
+  }
+
   const resultsEl = document.getElementById("search-results");
   const queryEl = document.getElementById("query");
   const clearEl = document.getElementById("clear-query");
@@ -109,9 +113,10 @@ document.addEventListener("DOMContentLoaded", async function () {
           const data = await result.data();
           return {
             url: data.url,
-            title: (data.meta && data.meta.title) ? data.meta.title : data.url,
+            title: normalizeResultTitle((data.meta && data.meta.title) ? data.meta.title : data.url),
             date: (data.meta && data.meta.date) ? data.meta.date : "",
             readTime: (data.meta && data.meta.read_time) ? data.meta.read_time : "",
+            featured: (data.meta && data.meta.featured) ? data.meta.featured === "true" : false,
             excerpt: data.excerpt || ""
           };
         })
@@ -168,7 +173,9 @@ document.addEventListener("DOMContentLoaded", async function () {
         }
         return (
           '<li class="c-search-result"><div class="c-search-result__inner">' +
-            '<div class="c-search-result__title"><a href="' + escapeHtml(item.url) + '">' + escapeHtml(item.title) + "</a></div>" +
+            '<div class="c-search-result__title"><a href="' + escapeHtml(item.url) + '">' + escapeHtml(item.title) + "</a>" +
+            (item.featured ? '<span class="c-search-result__fave" aria-label="Featured"> ♥</span>' : "") +
+            "</div>" +
             (metadata ? '<div class="c-search-result__meta">' + escapeHtml(metadata) + "</div>" : "") +
             '<div class="c-search-result__excerpt">' + item.excerpt + "</div>" +
           "</div></li>"
