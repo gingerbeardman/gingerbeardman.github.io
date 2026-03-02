@@ -37,6 +37,8 @@ The following posts keep on truckin' (most popular first):
 ## Blog changelog
 - Added Unoffice Hours page (3 Jan)
 - Protect filenames when doing noun replacement (12 Jan)
+- Add niconico video embed (26 Feb)
+- Full-text search powered by pagefind (2 Mar)
 
 ## Previous years
 - [My most popular posts of 2025](/2025/12/31/my-most-popular-posts-of-the-year/)

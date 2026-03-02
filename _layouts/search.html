@@ -18,7 +18,10 @@ layout: default
 
           <form action="/search/" method="get" autocomplete="off">
             <label for="q">Search blog:</label>
-            <input type="search" name="q" id="query" placeholder="type something here">
+            <div class="c-search-field">
+              <input type="search" name="q" id="query" placeholder="type something here">
+              <button type="button" id="clear-query" aria-label="Clear search">Clear</button>
+            </div>
           </form>
           
           <br>

@@ -3,16 +3,28 @@
 \*------------------------------------*/
 
 form {
-  
+  label {
+    display: none;
+  }
+
+  .c-search-field {
+    position: relative;
+  }
+
   input[type="search"] {
     -webkit-appearance: none;
-    padding: 0.25rem 0.5rem;
+    padding: 0.25rem 3.25rem 0.25rem 0.5rem;
     width: 100%;
   }
 
-  label {
-    display: none;
-  }  
+  button {
+    position: absolute;
+    top: 50%;
+    right: 0.25rem;
+    transform: translateY(-50%);
+    padding: 0.1rem 0.4rem;
+    line-height: 1.3;
+  }
 
 }
 
