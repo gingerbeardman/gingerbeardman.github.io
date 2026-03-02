@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class='o-wrapper' {% if paginator and paginator.page > 1 %}data-pagefind-ignore="all"{% else %}data-pagefind-body{% endif %}>
+<div class='o-wrapper' data-pagefind-ignore="all">
   <div class='o-grid'>
     {% if page.url == "/" %}
       {% for post in site.posts %}
