@@ -37,7 +37,7 @@ comments:
 
 The program comprised 100 TV spots, presented as a wall of TVs, showcasing a range of video games from around the world. For many Japanese viewers, it was their first encounter with the *Amiga*, *Apple II*, and *Atari*.
 
-The creative credits read like a who's who of future Japanese media innovators. [Toshio Iwai](https://en.wikipedia.org/wiki/Toshio_Iwai) (*Otocky*, *SimTunes*, *Electroplankton*, *Tenori-on*) created the CG using an Amiga. [Masaya Matsuura](https://en.wikipedia.org/wiki/Masaya_Matsuura) (*The Seven Colors: Legend of PSY·S City*, *PaRappa the Rapper*, *Vib-Ribbon*) composed the music. The show's production was overseen by [Tsunekazu Ishihara](https://en.wikipedia.org/wiki/Tsunekazu_Ishihara)—now president of *The Pokémon Company*—who would go on to direct the book that followed.
+The creative credits read like a who's who of future Japanese media innovators. [Toshio Iwai](https://en.wikipedia.org/wiki/Toshio_Iwai) (*Otocky*, *SimTunes*, *Electroplankton*, *Tenori-on*) created the CG using an *Amiga*. [Masaya Matsuura](https://en.wikipedia.org/wiki/Masaya_Matsuura) (*The Seven Colors: Legend of PSY·S City*, *PaRappa the Rapper*, *Vib-Ribbon*) composed the music. The show's production was overseen by [Tsunekazu Ishihara](https://en.wikipedia.org/wiki/Tsunekazu_Ishihara)—now president of *The Pokémon Company*—who would go on to direct the book that followed.
 
 TV's TV ushered in a new way of looking at television, not only because it introduced Western computers and games to a Japanese audience, but because it did so in a format that was itself playful and game-like.
 
@@ -52,7 +52,7 @@ But don't watch the 4 hours yet! Read on.
 
 ## テレビゲーム―電視遊戯大全 / TV Games Encyclopedia (1988)
 
-The following year, the team behind TV's TV channelled that same energy into print. The result might be described as a book, but it's much more than that. テレビゲーム―電視遊戯大全 (*TV GAMES: Denshi Yūgi Taizen*; *TV Games Encyclopedia*), published in May 1988 by UPU, ISBN4-946432-31-0, was a seminal encyclopaedia of video game history—and perhaps the single most ambitious book about games ever produced.
+The following year, the team behind TV's TV channelled that same energy into print. The result might be described as a book, but it's much more than that. テレビゲーム―電視遊戯大全 (*TV GAMES: Denshi Yūgi Taizen*; *TV Games Encyclopedia*), published in May 1988 by UPU, ISBN4-946432-31-0, was a seminal encyclopedia of video game history—and perhaps the single most ambitious book about games ever produced.
 
 It arrived right in the middle of [Japan's bubble economy](https://en.wikipedia.org/wiki/Japanese_asset_price_bubble). Between roughly 1986 and 1991, a combination of rock-bottom interest rates and rampant speculation sent asset prices into the stratosphere. [Money was everywhere](https://archive.is/ecDHb) and it was looking for things to be spent on.
 
