@@ -40,7 +40,7 @@ comments:
 
 The program comprised 100 TV spots, presented as a wall of TVs, showcasing a range of video games from around the world. For many Japanese viewers, it was their first encounter with the *Amiga*, *Apple II*, and *Atari*.
 
-The creative credits read like a who's who of future Japanese media innovators. [Toshio Iwai](https://en.wikipedia.org/wiki/Toshio_Iwai) (*Otocky*, *SimTunes*, *Electroplankton*, *Tenori-on*) created the CG using an Amiga. [Masaya Matsuura](https://en.wikipedia.org/wiki/Masaya_Matsuura) (*The Seven Colors: Legend of PSY·S City*, *PaRappa the Rapper*, *Vib-Ribbon*) composed the music. The show's production was overseen by [Tsunekazu Ishihara](https://en.wikipedia.org/wiki/Tsunekazu_Ishihara)—now president of The Pokémon Company—who would go on to direct the book that followed.
+The creative credits read like a who's who of future Japanese media innovators. [Toshio Iwai](https://en.wikipedia.org/wiki/Toshio_Iwai) (*Otocky*, *SimTunes*, *Electroplankton*, *Tenori-on*) created the CG using an Amiga. [Masaya Matsuura](https://en.wikipedia.org/wiki/Masaya_Matsuura) (*The Seven Colors: Legend of PSY·S City*, *PaRappa the Rapper*, *Vib-Ribbon*) composed the music. The show's production was overseen by [Tsunekazu Ishihara](https://en.wikipedia.org/wiki/Tsunekazu_Ishihara)—now president of *The Pokémon Company*—who would go on to direct the book that followed.
 
 TV's TV ushered in a new way of looking at television, not only because it introduced Western computers and games to a Japanese audience, but because it did so in a format that was itself playful and game-like.
 
@@ -100,9 +100,9 @@ All contemporary platforms of 1988 are covered, and crucially the focus is world
 
 ### The people behind it
 
-The book was planned and directed by Tsunekazu Ishihara (石原恒和), now president of The Pokémon Company, and produced by the company SEDIC—the same outfit that developed the musical-platform game [*Otocky*](https://en.wikipedia.org/wiki/Otocky) (1987), designed by Toshio Iwai. The creative thread connecting TV's TV, *Otocky*, and this book is SEDIC and Ishihara's circle: a group of people at the intersection of games, art, and media who understood video games not as disposable entertainment but as a cultural form worth documenting seriously. The team were also featured in the [*Tetris: Heavenly Scrolls*](/2024/06/18/tetris-heavenly-scrolls/) book in 1989.
+The book was planned and directed by Tsunekazu Ishihara (石原恒和), now president of *The Pokémon Company*, and produced by the company SEDIC—the same outfit that developed the musical-platform game [*Otocky*](https://en.wikipedia.org/wiki/Otocky) (1987), designed by Toshio Iwai. The creative thread connecting TV's TV, *Otocky*, and this book is SEDIC and Ishihara's circle: a group of people at the intersection of games, art, and media who understood video games not as disposable entertainment but as a cultural form worth documenting seriously. The team were also featured in the [*Tetris: Heavenly Scrolls*](/2024/06/18/tetris-heavenly-scrolls/) book in 1989.
 
-Among the book's contributors was Satoshi Tajiri (田尻智), who later created Pokémon and is currently president of Game Freak. Tajiri had already established himself through his *Game Freak* fanzine as one of Japan's most dedicated game critics, and his presence here—alongside Ishihara—prefigures the partnership that would eventually produce the world's largest media franchise.
+Among the book's contributors was Satoshi Tajiri (田尻智), who later created *Pokémon* and is currently president of Game Freak. Tajiri had already established himself through his *Game Freak* fanzine as one of Japan's most dedicated game critics, and his presence here—alongside Ishihara—prefigures the partnership that would eventually produce the world's largest media franchise.
 
 This is also the book that [Tetsuya Mizuguchi cites as the genesis of his career in video games](https://web.archive.org/web/20170619183013/https://news.denfaminicogamer.jp/english/170612). Mizuguchi would go on to create *Sega Rally Championship*, *Rez*, *Lumines*, and *Tetris Effect*—a body of work deeply concerned with synesthesia, music, and the sensory experience of play. It's not hard to see how a book this alive to the artistic possibilities of games might have lit that fuse.
 
@@ -192,8 +192,8 @@ The interview section is the book's crown jewel. It contains what are believed t
 | KI | <span title="いとう・けい">伊藤 桂</span> | Kei Itō | AV planner, editor of CAFE Magazine |
 | KK | <span title="くらしげ・こうすけ">倉繁宏輔</span> | Kōsuke Kurashige | SEDIC, CG engineer |
 | MT | <span title="たきもと・まさし">瀧本雅志</span> | Masashi Takimoto | I&S, SEDIC. Now Professor, [Osaka University of Arts](https://www.grad.osaka-geidai.ac.jp/academics/arts/takimoto-masashi) |
-| ST | <span title="たじり・さとし">田尻 智</span> | Satoshi Tajiri | Writer, Game Freak fanzine. Creator of Pokémon ([MobyGames](https://www.mobygames.com/person/128020/satoshi-tajiri/)) |
-| TI | <span title="いしはら・つねかず">石原恒和</span> | Tsunekazu Ishihara | SEDIC, I&S. Now President, The Pokémon Company ([MobyGames](https://www.mobygames.com/person/149103/tsunekazu-ishihara/)) |
+| ST | <span title="たじり・さとし">田尻 智</span> | Satoshi Tajiri | Writer, Game Freak fanzine. Creator of *Pokémon* ([MobyGames](https://www.mobygames.com/person/128020/satoshi-tajiri/)) |
+| TI | <span title="いしはら・つねかず">石原恒和</span> | Tsunekazu Ishihara | SEDIC, I&S. Now President, *The Pokémon Company* ([MobyGames](https://www.mobygames.com/person/149103/tsunekazu-ishihara/)) |
 | TT | <span title="たなか・としあき">田中利昭</span> | Toshiaki Tanaka | PC game reviewer for Bug News, Comptiq ([MobyGames](https://www.mobygames.com/person/1327944/toshiaki-tanaka/)) |
 | YI | <span title="いしい・やすふみ">石井康文</span> | Yasufumi Ishii | Student, Gamer |
 | YK | <span title="こんの・ゆういち">今野裕一</span> | Yūichi Konno | Editor, Peyotl Kōbō (夜想, 銀星倶楽部, WAVE) |
