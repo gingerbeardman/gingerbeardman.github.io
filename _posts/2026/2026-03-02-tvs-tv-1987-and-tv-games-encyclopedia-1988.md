@@ -36,7 +36,7 @@ comments:
 
 ---
 
-[TV's TV](https://ja.wikipedia.org/wiki/TV%27s_TV) was a four-hour late-night television program broadcast in Japan on Fuji TV from 01:55 to 05:55 on Saturday, March 14, 1987. It was a televisual predecessor to a book that I also discuss below, and an early sign of the experimental programming that Fuji TV would formalise later that year with its [JOCX-TV2](https://en.wikipedia.org/wiki/Fuji_Television) late-night brand—a slot explicitly created to give young creators room to experiment.
+[TV's TV](https://ja.wikipedia.org/wiki/TV%27s_TV) was a four-hour late-night television program broadcast in Japan on Fuji TV from 01:55 to 05:55 on Saturday, March 14, 1987. It was a televisual predecessor to a book that I also discuss below, and an early sign of the experimental programming that Fuji TV would formalise later that year with its [*JOCX-TV2*](https://en.wikipedia.org/wiki/Fuji_Television) late-night brand—a slot explicitly created to give young creators room to experiment.
 
 The program comprised 100 TV spots, presented as a wall of TVs, showcasing a range of video games from around the world. For many Japanese viewers, it was their first encounter with the *Amiga*, *Apple II*, and *Atari*.
 
@@ -100,9 +100,9 @@ All contemporary platforms of 1988 are covered, and crucially the focus is world
 
 ### The people behind it
 
-The book was planned and directed by Tsunekazu Ishihara (石原恒和), now president of The Pokémon Company, and produced by the company SEDIC—the same outfit that developed the musical-platform game [Otocky](https://en.wikipedia.org/wiki/Otocky) (1987), designed by Toshio Iwai. The creative thread connecting TV's TV, Otocky, and this book is SEDIC and Ishihara's circle: a group of people at the intersection of games, art, and media who understood video games not as disposable entertainment but as a cultural form worth documenting seriously. The team were also featured in the [Tetris: Heavenly Scrolls](/2024/06/18/tetris-heavenly-scrolls/) book in 1989.
+The book was planned and directed by Tsunekazu Ishihara (石原恒和), now president of The Pokémon Company, and produced by the company SEDIC—the same outfit that developed the musical-platform game [*Otocky*](https://en.wikipedia.org/wiki/Otocky) (1987), designed by Toshio Iwai. The creative thread connecting TV's TV, *Otocky*, and this book is SEDIC and Ishihara's circle: a group of people at the intersection of games, art, and media who understood video games not as disposable entertainment but as a cultural form worth documenting seriously. The team were also featured in the [*Tetris: Heavenly Scrolls*](/2024/06/18/tetris-heavenly-scrolls/) book in 1989.
 
-Among the book's contributors was *Satoshi Tajiri* (田尻智), who later created Pokémon and is currently president of Game Freak. Tajiri had already established himself through his *Game Freak* fanzine as one of Japan's most dedicated game critics, and his presence here—alongside Ishihara—prefigures the partnership that would eventually produce the world's largest media franchise.
+Among the book's contributors was Satoshi Tajiri (田尻智), who later created Pokémon and is currently president of Game Freak. Tajiri had already established himself through his *Game Freak* fanzine as one of Japan's most dedicated game critics, and his presence here—alongside Ishihara—prefigures the partnership that would eventually produce the world's largest media franchise.
 
 This is also the book that [Tetsuya Mizuguchi cites as the genesis of his career in video games](https://web.archive.org/web/20170619183013/https://news.denfaminicogamer.jp/english/170612). Mizuguchi would go on to create *Sega Rally Championship*, *Rez*, *Lumines*, and *Tetris Effect*—a body of work deeply concerned with synesthesia, music, and the sensory experience of play. It's not hard to see how a book this alive to the artistic possibilities of games might have lit that fuse.
 
