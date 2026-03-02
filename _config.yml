@@ -64,6 +64,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+keep_files:
+  - pagefind
+
 # Paginate
 paginate:  10
 paginate_path: "/page/:num/"

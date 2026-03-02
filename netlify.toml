@@ -1,0 +1,3 @@
+[build]
+  command = "bundle exec jekyll build && rm -rf _site/pagefind && npx --yes pagefind --site _site"
+  publish = "_site"

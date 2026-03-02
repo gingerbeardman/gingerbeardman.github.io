@@ -2,7 +2,7 @@
   "actions" : {
     "build" : {
       "enabled" : true,
-      "script" : "bundle exec jekyll serve --profile --open-url --livereload"
+      "script" : "bundle exec jekyll serve --profile --open-url --livereload\nnpx --yes pagefind --site _site"
     },
     "run" : {
       "enabled" : true,

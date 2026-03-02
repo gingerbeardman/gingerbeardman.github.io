@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class='o-wrapper'>
+<div class='o-wrapper' data-pagefind-ignore="all">
 
   <div class='o-grid'>
     <div class='o-grid__col'>
@@ -15,14 +15,14 @@ layout: default
           <p>
           {{ content }}
           </p>
-          
-          <form action="/search/" autocomplete="off">
+
+          <form action="/search/" method="get" autocomplete="off">
             <label for="q">Search blog:</label>
             <input type="search" name="q" id="query" placeholder="type something here">
           </form>
           
           <br>
-          <span id="search-results"><span>
+          <div id="search-results"></div>
           
         </div>
       </article>
@@ -30,4 +30,4 @@ layout: default
   </div>
 </div>
 
-<script src="/js/search.js"></script>
+<script type="module" src="/js/pagefind-search.js"></script>

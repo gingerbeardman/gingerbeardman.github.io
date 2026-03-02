@@ -15,3 +15,50 @@ form {
   }  
 
 }
+
+#search-results {
+  .c-search-control {
+    text-decoration: underline;
+    text-decoration-skip-ink: auto;
+  }
+
+  .c-search-control--active {
+    text-decoration: none;
+  }
+
+  .c-search-results--full {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+  .c-search-result {
+    margin-bottom: 1.25rem;
+  }
+
+  .c-search-results--simple {
+    list-style: disc;
+    padding-left: 1rem;
+    margin-left: 1rem;
+  }
+
+  .c-search-result--simple {
+    margin-bottom: 0;
+  }
+
+  .c-search-result__title {
+    font-weight: 600;
+  }
+
+  .c-search-result__meta {
+    font-size: 12px;
+    font-weight: 600;
+    color: #999;
+  }
+
+  .c-search-result__excerpt mark {
+    font-weight: 600;
+    background: transparent;
+    color: inherit;
+  }
+}

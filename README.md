@@ -27,6 +27,23 @@ I use [Netlify](https://www.netlify.com) to deploy the site as it enables me to 
 
 I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
 
+Search is powered by [Pagefind](https://pagefind.app). After building with Jekyll, run:
+
+```sh
+npx --yes pagefind --site _site
+```
+
+This generates the `/pagefind/` assets and index inside `_site`.
+
+For local development with `jekyll serve`, run Pagefind after Jekyll has built `_site`:
+
+```sh
+npx --yes pagefind --site _site
+```
+
+This creates `_site/pagefind/pagefind-ui.css` and `_site/pagefind/pagefind-ui.js` locally.
+`_site/pagefind` is kept between Jekyll rebuilds for local development.
+
 ## Posts
 
 To create a new post, you can create a new markdown file inside the `_posts` directory by following the [recommended file structure](https://jekyllrb.com/docs/posts/#creating-post-files).
