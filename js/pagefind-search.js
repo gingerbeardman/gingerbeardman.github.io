@@ -31,16 +31,16 @@ document.addEventListener("DOMContentLoaded", async function () {
   const legacySort = params.get("sort") === "oldest" ? "oldest" : "newest";
   const viewMode = params.get("view") === "simple" ? "simple" : "full";
   const rawOrder = params.get("order");
-  const orderMode = rawOrder === "oldest" || rawOrder === "best"
+  const orderMode = rawOrder === "oldest" || rawOrder === "newest"
     ? rawOrder
-    : (rawOrder === "newest" ? "newest" : legacySort);
+    : "best";
   const initialQuery = (params.get("q") || "").trim();
 
   const buildUrl = (query, view, order) => {
     const next = new URLSearchParams();
     if (query) next.set("q", query);
     if (view !== "full") next.set("view", view);
-    if (order !== "newest") next.set("order", order);
+    if (order !== "best") next.set("order", order);
     const qs = next.toString();
     return qs ? "/search/?" + qs : "/search/";
   };
@@ -191,7 +191,7 @@ document.addEventListener("DOMContentLoaded", async function () {
         : "c-search-results c-search-results--full";
       const resultLabel = items.length === 1 ? "result" : "results";
       resultsEl.innerHTML =
-        "<p>" + items.length + " " + resultLabel + " (" + newestOrderLabel + ", " + oldestOrderLabel + ", " + bestMatchOrderLabel + "; " + viewToggleLabel + "):</p><ul class=\"" + listClass + "\">" + list + "</ul>";
+        "<p>" + items.length + " " + resultLabel + " (" + bestMatchOrderLabel + ", " + newestOrderLabel + ", " + oldestOrderLabel + "; " + viewToggleLabel + "):</p><ul class=\"" + listClass + "\">" + list + "</ul>";
     } catch (error) {
       resultsEl.innerHTML = "<p>Search failed to load.</p>";
     }

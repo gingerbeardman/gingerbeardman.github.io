@@ -47,9 +47,9 @@ layout: default
               Originally published: {{ page.date | date: '%Y-%m-%d' }}
               <br>
             {% endif %}
-            --<br>
+            {% unless page.donate == false %}--<br>
             {% include donation-prompt.html %}<br>
-            --<br>
+            {% endunless %}--<br>
             Comments: 
             {% if page.comments.first.platform %}
               {% for comment in page.comments %}
