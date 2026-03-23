@@ -87,8 +87,7 @@ Be excellent to each other. And have fun.
 - `2024-10` [Bender 2: Bend Harder](https://play.date/games/bender-2-bend-harder/)
 - `2025-03` [Shark Turtle](https://gingerbeardman.itch.io/shark-turtle), originally created `2023-06`
 
-![IMG](/images/posts/yoyozo-teaser.gif#playdate "YOYOZO (2023)")
-{:.tofigure}
+![IMG](/images/posts/yoyozo-teaser.gif#playdate)
 
 ----
 
@@ -101,8 +100,7 @@ Be excellent to each other. And have fun.
 - **Koatari**—Pachinko-style arcade game with pinball-inspired visuals, running up to 120fps
 - **Mole Hole**—A modern remake of Thoru Yamamoto's escape-maze concept
 
-![IMG](/images/posts/molehole.gif#playdate "Mole Hole (2023, originally 1995)")
-{:.tofigure}
+![IMG](/images/posts/molehole.gif#playdate)
 
 ----
 
