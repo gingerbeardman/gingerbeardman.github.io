@@ -115,6 +115,6 @@ Be excellent to each other. And have fun.
 - **Bender 2: Bend Harder** was nominated for “Best Arcade Game” at the [2024 Community Awards](https://playdate-wiki.com/wiki/The_2024_Playdate_Community_Awards)
 
 <br>
-*Thanks to JM, JS, MR, PP, SC for feedback on various versions of this post.*
+*Thanks to JM, JS, MR, PP, SC for feedback on versions of this post.*
 <br>
 *Panic were sent a draft of this post ahead of publication.*
