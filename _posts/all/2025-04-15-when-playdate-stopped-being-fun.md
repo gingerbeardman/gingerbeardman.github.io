@@ -92,7 +92,7 @@ Be excellent to each other. And have fun.
 
 ----
 
-## Postponed Projects
+## Cancelled Projects
 
 - **Aero Club**—Flight school simulation inspired by Mode 7 and Pilotwings
 - **Beatnik**—Rhythm game with interactive music and beat-matched dynamic visuals
