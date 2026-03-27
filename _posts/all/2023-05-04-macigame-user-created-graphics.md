@@ -30,7 +30,7 @@ I recently collected over 250(!) sets of user created graphics for [MaciGame](ht
 
 > まきがめ (MaciGame) was a wildly popular game worldwide in the mid-to-late 1990s, and there was even a play guide book published about it in its native Japan! The game is a variation of さめがめ ([SameGame](https://gamicus.fandom.com/wiki/SameGame)) by Eiji "Kyoto" Fukumoto, which is in turn a variation of the original game in the genre: [Chain Shot](https://www.asahi-net.or.jp/~ky6k-mrb/chainsht.htm) by Kuniaki "Morisuke" Moribe.
 > 
-> The goal of this type of game is to clear the board of blocks by clicking on groups of two or more, empty space is then removed vertical by the remaining blocks dropping down and horizontally by empty columns being replaced by their rightmost column. This means that over time blocks converge in the lower left of the play area.
+> The goal of this type of game is to clear the board of blocks by clicking on groups of two or more, empty space is then removed vertically by the remaining blocks dropping down and horizontally by empty columns being replaced by their rightmost column. This means that over time blocks converge in the lower left of the play area.
 
 The user-created graphic sets were all sourced from the amazing [Vector.co.jp](https://www.vector.co.jp/vpack/filearea/osx/game/puzzle/makigame/), extracted from all manner of esoteric vintage archives, organised and packaged as a single compressed disk image to make using them much quicker and easier. [Download it at Macintosh Garden](https://macintoshgarden.org/games/macigame).
 
