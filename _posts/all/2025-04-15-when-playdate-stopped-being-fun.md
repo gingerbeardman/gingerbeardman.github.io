@@ -2,7 +2,7 @@
 layout: post
 title: "When Playdate Stopped Being Fun"
 date: '2025-04-15T22:00+01:00'
-modified: '2025-04-21T04:12+01:00'
+modified: '2026-03-23T12:24+00:00'
 tags:
 - playdate
 - timeline
@@ -56,9 +56,9 @@ pinned: false
 
 For almost six years, [Playdate](https://play.date) (a little handheld gaming device with a crank input and 1-bit screen) was a space where I did some of my most creative and personal work. I embraced its quirks, shipped over twenty releases, and explored what a tiny, constrained device could do. It brought me joy, challenge, and a sense of purpose.
 
-But over time, that feeling changed. Following a difficult incident in October 2024 involving targeted harassment—admitted to by the developer responsible, but met with no meaningful follow-up from the community moderators and no reply at the time of writing from [Panic](https://www.panic.com)—I began to feel increasingly disconnected from the scene. I gave it time, hoped things might shift, but ultimately the silence made it hard to keep building with the same heart.
+But over time, that feeling changed. Following a difficult incident in October 2024 involving targeted harassment—admitted to by <!-- Scizzorz -->the developer responsible, but met with no meaningful follow-up from the community moderators and no reply at the time of writing from [Panic](https://www.panic.com)—I began to feel increasingly disconnected from the scene. I gave it time, hoped things might shift, but ultimately the silence made it hard to keep building with the same heart.
 
-So, I’m stepping back. Not permanently, not dramatically—just with clarity. Right now, this isn’t the environment I can thrive in. If that changes, I’d be happy to return. For now, I want to leave a record of what I made. I’m proud of all of it. I'll continue as a full-time indie developer, but in another castle.
+So, I’m stepping back. Not dramatically—just with clarity. Right now, this isn’t the environment I can thrive in. If that changes, I’d be happy to return. For now, I want to leave a record of what I made. I’m proud of all of it. I'll continue as a full-time indie developer, but in another castle.
 
 Be excellent to each other. And have fun.
 
@@ -87,12 +87,11 @@ Be excellent to each other. And have fun.
 - `2024-10` [Bender 2: Bend Harder](https://play.date/games/bender-2-bend-harder/)
 - `2025-03` [Shark Turtle](https://gingerbeardman.itch.io/shark-turtle), originally created `2023-06`
 
-![IMG](/images/posts/yoyozo-teaser.gif#playdate "YOYOZO (2023)")
-{:.tofigure}
+![IMG](/images/posts/yoyozo-teaser.gif#playdate)
 
 ----
 
-## Postponed Projects
+## Cancelled Projects
 
 - **Aero Club**—Flight school simulation inspired by Mode 7 and Pilotwings
 - **Beatnik**—Rhythm game with interactive music and beat-matched dynamic visuals
@@ -101,8 +100,7 @@ Be excellent to each other. And have fun.
 - **Koatari**—Pachinko-style arcade game with pinball-inspired visuals, running up to 120fps
 - **Mole Hole**—A modern remake of Thoru Yamamoto's escape-maze concept
 
-![IMG](/images/posts/molehole.gif#playdate "Mole Hole (2023, originally 1995)")
-{:.tofigure}
+![IMG](/images/posts/molehole.gif#playdate)
 
 ----
 
@@ -115,6 +113,6 @@ Be excellent to each other. And have fun.
 - **Bender 2: Bend Harder** was nominated for “Best Arcade Game” at the [2024 Community Awards](https://playdate-wiki.com/wiki/The_2024_Playdate_Community_Awards)
 
 <br>
-*Thanks to JM, JS, MR, PP, SC for feedback on various versions of this post.*
+*Thanks to JM, JS, MR, PP, SC for feedback on versions of this post.*
 <br>
 *Panic were sent a draft of this post ahead of publication.*
