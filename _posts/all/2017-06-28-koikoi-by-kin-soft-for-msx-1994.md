@@ -19,7 +19,7 @@ nouns:
 - libretro
 - fmsx-libretro
 - RetroArch
-image: /images/posts/msx-koikoi-by-kin-soft-1994
+image: /images/posts/msx-koikoi-by-kin-soft-1994.jpg
 comments: 
 
 ---
