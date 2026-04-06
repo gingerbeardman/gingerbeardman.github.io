@@ -71,9 +71,26 @@ After all this I had a test build of the fmsx-libretro core for 3DS that I could
 
 ### The Game
 
-The game is really interesting because of the yaku (card combos) it contains, and the fact that it has a Shop where you can use points to buy Special cards for cheating in imaginative ways against the CPU.
+The game is really interesting because of the yaku (card combos) it contains, and the fact that it has a Special Card Shop where you can use points to buy Special cards for cheating in imaginative ways against the CPU.
 
-Download a .zip of both the .dsk and .rom file: [koikoi-kin-soft-1994.zip](https://cdn.gingerbeardman.com/files/koikoi-kin-soft-1994.zip) (247 KB)
+- Peek at Deck: Check the next card in the deck
+- Peek at Opponent: View the opponent’s hand
+- Card Explosion: Destroy a card on the table + force the opponent to skip a turn
+- Card Swap: Swap cards in your hand
+- Landmine Card: Explodes if the opponent takes it
+- Deck Collapse: Turn over two cards from the deck consecutively
+- Time Reversal: Reset the game
+- Lightning Card: Prioritise acquiring 20-point cards
+- Electric Vortex Card: Makes it easier to take 20-point cards from the board
+- Storm: Swap the cards you are about to take
+- Bamboo Cutter Card: Probability effect allowing you to acquire any card
+- Atomic Bomb Card: Significantly reduces the opponent’s available cards
+
+## Download
+
+- A .zip of both the .dsk and .rom file: [koikoi-kin-soft-1994.zip](https://cdn.gingerbeardman.com/files/koikoi-kin-soft-1994.zip) (247 KB)
+
+*If you are interested in Hanafuda video games or cards, why not join the [Hanafuda Discord server](/2019/02/28/hanafuda-discord/)?*
 
 ![IMG](/images/posts/msx-koikoi-by-kin-soft-1994.jpg "Koi-Koi by KIN SOFT (1994) running in fmsx-libretro on Nintendo 3DS (2017)")
 {:.tofigure}
