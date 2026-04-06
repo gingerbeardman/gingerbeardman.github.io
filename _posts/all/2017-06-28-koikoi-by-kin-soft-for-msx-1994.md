@@ -39,7 +39,7 @@ Firstly, the game came with [MSX・FAN Issue 26](https://archive.org/details/MSX
 
 ## dsk2rom
 
-After some thought I figured out that using the Windows tool dsk2rom.exe I could convert the .dsk into a .rom file that would boot up straight into the game in fMSX. 
+After some thought I figured out that using the Windows tool [dsk2rom.exe](https://github.com/joyrex2001/dsk2rom) I could convert the .dsk into a .rom file that would boot straight into the game when using fMSX. 
 
 ```
 dsk2rom.exe -6d blank.dsk boot.rom
