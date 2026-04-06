@@ -31,7 +31,7 @@ comments:
 
 ---
 
-I [read about an old doujin user-created Koi-Koi game](https://msx-fan-wiki.appspot.com/view/1099) made by KIN SOFT in 1994. This is my document of the hunt I went on to be able to find and play it!
+I [read about an old doujin user-created Koi-Koi game](https://msx-fan-wiki.appspot.com/view/1099) 花札こいこい made by KIN SOFT in 1994. This is my document of the hunt I went on to be able to find and play it!
 
 ## MSX・FAN
 
