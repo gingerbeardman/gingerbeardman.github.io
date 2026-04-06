@@ -20,7 +20,14 @@ nouns:
 - fmsx-libretro
 - RetroArch
 image: /images/posts/msx-koikoi-by-kin-soft-1994.jpg
-comments: 
+featured: true
+comments:
+  - platform: twitter
+    url: https://twitter.com/gingerbeardman/status/2041199956153847874
+  - platform: bluesky
+    url: https://bsky.app/profile/gingerbeardman.com/post/3mitqlf33r22h
+  - platform: mastodon
+    url: https://mastodon.gamedev.place/@gingerbeardman/116358838740319164
 
 ---
 
@@ -28,7 +35,7 @@ I [read about an old doujin user-created Koi-Koi game](https://msx-fan-wiki.apps
 
 ## MSX・FAN
 
-Firstly, the game came with [MSX・FAN Issue 26](https://archive.org/details/MSXFAN199406/page/n29/mode/2up) (1994/06) and by that I mean in the pages and on one of the two cover disks. So I had to find them in the existing archives. I found them on a Spanish website that I've since lost the link to. The game could be installed on a blank .dsk, which of course you have to [generate and format](https://www.msx.org/wiki/How_to_make_a_floppy_disk_image). The resulting .dsk played OK in OpenMSX but not fMSX (more about that later).
+Firstly, the game came with [MSX・FAN Issue 26](https://archive.org/details/MSXFAN199406/page/n29/mode/2up) (1994/06) and by that I mean in the pages and on one of the two cover disks. So I had to find them in the existing archives. I found them on a Spanish website that I've since lost the link to. The game could be installed on a blank .dsk, which of course you have to [generate and format](https://www.msx.org/wiki/How_to_make_a_floppy_disk_image). The resulting .dsk played just fine in OpenMSX but not fMSX. 🤔
 
 ## dsk2rom
 
