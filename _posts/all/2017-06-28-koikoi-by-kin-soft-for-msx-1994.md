@@ -12,7 +12,6 @@ nouns:
 - OpenMSX
 - fMSX
 - MSX Turbo R
-- MSX
 - TurboR
 - MSXDOS2
 - doujin
@@ -48,7 +47,7 @@ But there were still some errors in certain situations:
 - without MSXDOS2 or TurboR: `"Syntax error in 40"`
 - with fMSX in RetroArch: `"Disk full in 40"`
 
-With [some help from my MSX friends](https://www.msx.org/forum/msx-talk/emulation/help-running-converted-dsk-as-rom-in-retroarch-fmsx) it became clear the game required:
+With [some help from my *MSX* friends](https://www.msx.org/forum/msx-talk/emulation/help-running-converted-dsk-as-rom-in-retroarch-fmsx) it became clear the game required:
 
 - `RAMDISK` command (part of MSXDOS2)
 - 256KB RAM
@@ -57,7 +56,7 @@ Note: I think I had to create a .dsk containing both MSXDOS2 and then install th
 
 ## RetroArch
 
-But fMSX in RetroArch doesn't allow you to set RAM and VRAM and in fact its defaults for those were wrong for some types of MSX. I [made some changes to fmsx-libretro core](https://github.com/libretro/fmsx-libretro/pull/14) and whilst I was in there made [several more improvements](https://github.com/libretro/fmsx-libretro/pulls?q=is%3Apr+author%3Agingerbeardman+is%3Aclosed+is%3Amerged). I even [updated the core to fMSX version 4.9](https://github.com/libretro/fmsx-libretro/pull/25) for all RetroArch users. I'm skipping over the huge effort that all these changes took, but it was fun hacking on libretro!
+But fMSX in RetroArch doesn't allow you to set RAM and VRAM and in fact its defaults for those were wrong for some types of *MSX*. I [made some changes to fmsx-libretro core](https://github.com/libretro/fmsx-libretro/pull/14) and whilst I was in there made [several more improvements](https://github.com/libretro/fmsx-libretro/pulls?q=is%3Apr+author%3Agingerbeardman+is%3Aclosed+is%3Amerged). I even [updated the core to fMSX version 4.9](https://github.com/libretro/fmsx-libretro/pull/25) for all RetroArch users. I'm skipping over the huge effort that all these changes took, but it was fun hacking on libretro!
 
 After all this I had a test build of the fmsx-libretro core for 3DS that I could use to play the game. 🎴
 
