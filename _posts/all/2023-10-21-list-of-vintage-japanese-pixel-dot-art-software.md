@@ -95,7 +95,6 @@ Total entries: 266
 | MSX | Graphic Artist | グラフィックアーティスト | 1985 | YAMAHA |
 | MSX | Graphic Editor | グラフィックエディター | 1984 | HAL Laboratory |
 | MSX | Graphic Editor ANGLE | グラフィック エディタ アングル | 1985 | Hiroshi Ichikawa |
-| MSX | (Graphic Editor) Sha Ga Raku | 写・画・楽 | 1988 | Victor |
 | MSX | Graphic Editor XV | グラフィックエディター | 1988 | HAL Laboratory? |
 | MSX | Graphic Master Lab | グラフィックマスターラボ | 1985 | HAL Laboratory |
 | MSX | Graphic Studio Pro | カラー・グラフィック・エディター | 1985 | HAL Laboratory |
@@ -114,6 +113,7 @@ Total entries: 266
 | MSX | Pattern Editor Robin | パターンエディターRobin | 1985 | Hirohumi Ino |
 | MSX | Pixel 2 | ピクセル２ | 1985 | T&E SOFT |
 | MSX | Pixel 3 | ピクセル３ | 1988 | T&E SOFT |
+| MSX | (Graphic Editor) Sha Ga Raku | 写・画・楽 | 1988 | Victor |
 | MSX | UniPaint | ユニペイント | 1986 | Matsushita |
 | MSX | Video Graphics | ビデオグラフィックス | 1986 | Matsushita |
 | MSX, WAVY | Light Pen Graphics | ライトペングラフィックス | 1984 | Sanyo |
