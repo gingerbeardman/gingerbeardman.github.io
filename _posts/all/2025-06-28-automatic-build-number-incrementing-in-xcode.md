@@ -2,7 +2,7 @@
 layout: post
 title: "Automatic build number incrementing in Xcode"
 date: '2025-06-28T17:01+01:00'
-modified: '2025-09-12T15:24+01:00'
+modified: '2026-04-16T13:28+01:00'
 tags:
 - tools
 - xcode
@@ -25,6 +25,8 @@ style: |
   }
 
 ---
+
+Note: these days I mostly let App Store Connect manage version numbers.
 
 There are many ways to do automatic build version number incrementing in Xcode. I don't know of any really easy universal way of doing it, so this is simply my preferred way of doing it. I just added it to a new project so thought I'd document if only for my own future reference!
 
