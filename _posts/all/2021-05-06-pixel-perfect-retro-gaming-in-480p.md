@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Pixel-Perfect retro gaming on LCD 480p EDTVs
+date: '2021-05-06T12:00+01:00'
+modified: '2026-04-17T11:25+01:00'
 tags:
 - 480p
 - retrogaming
@@ -132,3 +134,9 @@ To improve deinterlacing for 480i content (eg. PS2) you might consider using a s
 ## Alignment of multiple sources
 
 A scaler such as the Extron DVS 304 is useful when using a [VGA KVM Switch](https://en.wikipedia.org/wiki/KVM_switch) as it will align the position of all different inputs, so you will not have to do Auto Adjust on the EDTV to centre the display when switching from system to system.
+
+## Video
+
+April 2026: check out this great video by @f4mi for a quick recap!
+
+{% youtube Z5139M4IeZU %}
