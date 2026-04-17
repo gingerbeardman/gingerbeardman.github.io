@@ -44,11 +44,11 @@ style: |
   .chip-free { background: #fff4e0; color: #9a6b00; }
 comments:
   - platform: twitter
-    url: https://twitter.com/gingerbeardman/status/
+    url: https://twitter.com/gingerbeardman/status/2045209283776696751
   - platform: bluesky
-    url: https://bsky.app/profile/gingerbeardman.com/post/
+    url: https://bsky.app/profile/gingerbeardman.com/post/3mjpktohqzs2f
   - platform: mastodon
-    url: https://mastodon.gamedev.place/@gingerbeardman/
+    url: https://mastodon.gamedev.place/@gingerbeardman/116421478469452030
 
 ---
 
