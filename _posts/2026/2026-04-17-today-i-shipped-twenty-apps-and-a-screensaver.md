@@ -106,9 +106,9 @@ Read the full manifesto at [fitsonafloppy.com](https://fitsonafloppy.com) and *s
 
 ## The App List
 
-These apps were all built to fill personal needs, but friends have encouraged me to release them for others to use. This is the bit where I was about to claim oldest was about 8 years old, while the newest is about 8 days old. But sadly App Store Review got in the way of that claim, by rejecting my oldest app that I've had installed on my own phone since 2019, and they took longer to review the newest app than it did for me to develop it. But you get the idea: these apps have taken a while to arrive.
+These apps were all built to fill personal needs, but friends have encouraged me to release them for others to use. This is the bit where I was set to claim oldest app was about 8 years old, while the newest apps was about 8 days old. But sadly App Store Review got in the way, by rejecting my oldest app that I've had installed on my own phone since 2019 for being "too derivative" (I'll revisit that and launch it another time), and they took longer to review the newest app than it did for me to develop it. Other fun rejections along the way: inappropriate use of the word "Safari" in an app for managing Safari browser tabs and bookmarks, and use of web server entitlements in a web server app. But you get the idea: these apps have taken a while to arrive.
 
-Anyway, here they are:
+Anyway, here they are, have fun with them:
 
 ### [Barfly](https://www.gingerbeardman.com/apps/barfly/) <span class="chip chip-macos">macOS</span>
 
