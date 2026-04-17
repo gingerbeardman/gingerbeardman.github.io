@@ -66,6 +66,8 @@ I must have missed the memo because I'm shipping 20 apps and a screensaver…*to
 - 1 × macOS app (GitHub download)
 - 1 × macOS screensaver (Web download)
 
+Get them at [gingerbeardman.com/apps/](https://www.gingerbeardman.com/apps/)
+
 ----
 
 [![IMG](/images/posts/wall-of-apps.png)](https://www.gingerbeardman.com/apps/)
