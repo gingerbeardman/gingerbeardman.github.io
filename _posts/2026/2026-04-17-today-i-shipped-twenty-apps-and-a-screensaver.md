@@ -132,7 +132,7 @@ Removes macOS metadata junk from external drives before you eject them. No more 
 
 ### [EQer](https://www.gingerbeardman.com/apps/eqer/) <span class="chip chip-macos">macOS</span>
 
-A system-wide 10-band equaliser that processes every app on your Mac in real time. Pick a preset, drag the curve, or paste your audiogram and let it calculate the right listening curve for your hearing. Includes per-app control and dynamic range compression.
+A system-wide 10-band equaliser that processes every app on your Mac in real time. Pick a preset, drag the curve, or paste your Audiogram and let it calculate the right listening curve for your hearing. Includes per-app control and dynamic range compression.
 
 ### [Feedit](https://www.gingerbeardman.com/apps/feedit/) <span class="chip chip-macos">macOS</span>
 
@@ -184,7 +184,7 @@ Quick access bookmarking for self-hosted services. A global hotkey captures the 
 
 ### [Vanishing Point](https://www.gingerbeardman.com/apps/vanishing-point/) <span class="chip chip-macos">macOS</span>
 
-Perspective correction for photos and images. Four correction tools with Apple Vision auto-detection, 256+ aspect ratio presets, background removal via Vision framework, colour sampling, plus levels, brightness, contrast, and sharpness adjustments. Export as PNG, JPG, or TIFF. QuickLook and Finder Thumbnails are supported.
+Perspective correction for photos and images. Four correction tools with Apple Vision auto-detection, 256+ aspect ratio presets, background removal via Vision framework, colour sampling, plus image adjustments. Export as PNG, JPG, or TIFF. QuickLook and Finder Thumbnails are supported.
 
 ### [Wavelet](https://www.gingerbeardman.com/apps/wavelet/) <span class="chip chip-macos">macOS</span>
 
