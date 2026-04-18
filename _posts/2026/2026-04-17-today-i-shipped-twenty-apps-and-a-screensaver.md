@@ -192,6 +192,6 @@ Sound effect generator powered by synthesis, based on classic sfxr. One-click pr
 
 ----
 
-### ["Fits on a Floppy" Screensaver](https://www.gingerbeardman.com/apps/fits-on-a-floppy/) <span class="chip chip-macos">macOS</span> <span class="chip chip-direct">download</span> <span class="chip chip-free">free</span>
+### ["Fits on a Floppy" Screensaver](https://fitsonafloppy.com) <span class="chip chip-macos">macOS</span> <span class="chip chip-direct">download</span> <span class="chip chip-free">free</span>
 
 And finally, technically, the 21st release: a macOS screen saver inspired by *After Dark* and its classic *Flying&nbsp;Toasters*. It features flying disks that do barrel rolls and spins as they drift across your screen. Thanks to my friend [Jason Morley](https://jbmorley.co.uk/about/) for the idea, which I built while waiting for App Store Review to finish processing the rest. To make this easier, I upgraded the old test harness I built for my [*Today* screensaver](/2009/04/09/today-screensaver/) back in 2009.
