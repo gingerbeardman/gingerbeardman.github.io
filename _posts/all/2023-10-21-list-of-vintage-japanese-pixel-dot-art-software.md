@@ -86,7 +86,7 @@ Total entries: 266
 | MSX | Da Vinci | ダ・ビンチ | 1988 | Shinkikakusha Corp |
 | MSX | Dot Designers Club | ＤＤ倶楽部 | 1989 | T&E SOFT |
 | MSX | Dream Block | ドリームブロック | 1989 | Nikkoh Thinking |
-| MSX | EDDY II | エティー2 | 1984 | HAL Laboratory |
+| MSX | EDDY II | エディー2 | 1984 | HAL Laboratory |
 | MSX | Gaban | がばん | 1988 | Micronet |
 | MSX | Garakuta | 画楽多 | 1988 | Southern Create |
 | MSX | Graph Saurus 1 | グラフサウルス | 1989 | Bit² |
