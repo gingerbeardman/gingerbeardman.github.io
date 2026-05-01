@@ -16,7 +16,7 @@ recap: true
 
 2021 was the year I got serious about blogging.
 
-Thanks to [Louie Mantia](http://lmnt.me) for the encouragement to do so! I set up this current incarnation of my blog on a software stack I dislike (ruby & jekyll), but I probably won't change things until it breaks beyond repair. Anyway, I (re)launched the blog filled with my collected writings spanning the past ~20 years.
+Thanks to friends for the encouragement to do so! I set up this current incarnation of my blog on a software stack I dislike (ruby & jekyll), but I probably won't change things until it breaks beyond repair. Anyway, I (re)launched the blog filled with my collected writings spanning the past ~20 years.
 
 ## How many posts?
 - [55 blog posts](/search/?q=2021) (up from 42 in 2020)
