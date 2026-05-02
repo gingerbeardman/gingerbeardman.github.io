@@ -13,7 +13,6 @@ nouns:
 title: My System 7 software choices
 comments: https://twitter.com/gingerbeardman/status/1388119568162377728
 featured: false
-carousel: ''
 
 ---
 System 7 is a great operating system. The experience using it today remains very close to modern macOS. It's surprising how little has changed on our Desktop in the 30 years since. That said, the experience can be improved with the judicious use of additional software.

@@ -20,9 +20,7 @@ nouns:
 - Apple One
 - Messages
 title: The catch with iTunes Match and Apple Music
-comments: ''
 featured: false
-carousel: ''
 
 ---
 Last week I briefly entertained buying a MiniDisc bookshelf system, before I came to my senses. These days all my music playback happens digitally so, as much as a MiniDisc system would look cool and fill me with warmth and light, I know I would never use it.

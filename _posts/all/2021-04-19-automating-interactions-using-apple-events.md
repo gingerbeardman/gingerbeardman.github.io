@@ -21,7 +21,6 @@ nouns:
 - QuicKeys
 - KeyQuencer
 - Apple Events
-carousel: ''
 featured: false
 comments: https://twitter.com/gingerbeardman/status/1384486144784490498
 style: |

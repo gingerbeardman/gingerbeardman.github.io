@@ -18,7 +18,6 @@ nouns:
 title: Interest-specific Search Engines
 comments: https://twitter.com/gingerbeardman/status/1384801041359724544
 featured: false
-carousel: ''
 
 ---
 One of my favourite Google products is their Custom Search Engine (CSE) feature. It allows you to create walled-garden search engines that return results only for chosen selection of websites. This is ideal for creating interest-specific search engines.

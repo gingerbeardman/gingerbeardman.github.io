@@ -9,7 +9,6 @@ tags:
 - simplesoccer
 - sensiblesoccer
 nouns: []
-carousel: ''
 featured: false
 comments: https://twitter.com/gingerbeardman/status/1312397376926216193
 

@@ -13,7 +13,6 @@ nouns:
 title: Macintosh drawing software compared
 comments: https://twitter.com/gingerbeardman/status/1385985050479677445
 featured: false
-carousel: ''
 style: |
   table#macintosh-drawing-software th:nth-last-child(-n+1),
   table#macintosh-drawing-software td:nth-last-child(-n+1) {

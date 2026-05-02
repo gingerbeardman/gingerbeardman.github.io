@@ -9,7 +9,6 @@ tags:
 - history
 nouns:
 - BeOS
-carousel: ''
 featured: true
 
 ---

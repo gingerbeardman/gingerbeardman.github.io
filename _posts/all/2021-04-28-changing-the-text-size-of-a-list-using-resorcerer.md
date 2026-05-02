@@ -14,9 +14,7 @@ nouns:
 - System
 image: /images/posts/changing-textsize-1.png
 title: Changing the text size of a list using Resorcerer
-comments: ''
 featured: false
-carousel: ''
 
 ---
 I sometimes use an app called KeyQuencer Launcher that is part of the KeyQuencer software. The app presents a simple window containing a list of macros allowing quick and easy access.

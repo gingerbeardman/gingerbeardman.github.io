@@ -10,7 +10,6 @@ tags:
 nouns:
 - 1-bit Woodblocks
 image: /images/posts/1bit-asanegami.png
-carousel: ''
 featured: false
 
 ---

@@ -17,6 +17,7 @@ nouns:
 - Video Audio Input Output
 featured: true
 comments: https://twitter.com/gingerbeardman/status/1666465968766197760
+carousel: sony-playstation-facts
 
 ---
 
@@ -35,4 +36,4 @@ Some things you probably didn’t realise about the design of the original *[Son
 
 Taken from *[Digital Dreams: The Work of the Sony Design Center](https://www.worldcat.org/title/1050032044)* (1999, Paul Kunkel)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Br09AXj"  ><a href="//imgur.com/a/Br09AXj">Some things you probably didn’t realise about the design of the original PlayStation... from the book &quot;Purple Power&quot; from Digital Dreams: The Work of the Sony Design Center (1999, Paul Kunkel)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+{% include carousel.html height="75" unit="%" duration="7" %}

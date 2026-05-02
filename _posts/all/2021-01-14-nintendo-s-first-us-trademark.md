@@ -6,7 +6,6 @@ tags:
 - nintendo
 nouns:
 - Nintendo
-carousel: ''
 featured: false
 
 ---

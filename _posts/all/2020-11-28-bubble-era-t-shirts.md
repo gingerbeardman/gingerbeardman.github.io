@@ -10,7 +10,6 @@ tags:
 - magazine
 nouns:
 - Bubble Era
-carousel: ''
 featured: false
 comments: https://twitter.com/gingerbeardman/status/1332759398528200704
 

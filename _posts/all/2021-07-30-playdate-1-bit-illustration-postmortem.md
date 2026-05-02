@@ -29,7 +29,6 @@ image: /images/posts/playdate-during.jpg
 title: Playdate 1-bit illustration postmortem
 comments: https://twitter.com/gingerbeardman/status/1421091701763055621
 featured: false
-carousel: ''
 
 ---
 Yesterday saw the opening of pre-orders for [Playdate](https://play.date), a new handheld gaming device that I'm developing some games for. To celebrate the occasion I drew an illustration in 1-bit with dither patterns using Macintosh System 7.

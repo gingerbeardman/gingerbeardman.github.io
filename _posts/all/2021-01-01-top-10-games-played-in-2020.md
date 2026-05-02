@@ -5,7 +5,6 @@ tags:
 - review
 - videogame
 nouns: []
-carousel: ''
 featured: false
 comments: https://twitter.com/gingerbeardman/status/1345155321803714561
 

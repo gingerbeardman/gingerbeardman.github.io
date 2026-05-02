@@ -26,7 +26,6 @@ nouns:
 - Monitors
 - Mini vMac
 - BasiliskII
-carousel: ''
 featured: true
 pinned: 
 image: /images/posts/ultimate-classic-macintosh-1.jpg

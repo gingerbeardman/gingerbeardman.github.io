@@ -10,7 +10,6 @@ nouns:
 - Barco
 - Hitachi
 - Sony
-carousel: ''
 featured: false
 
 ---

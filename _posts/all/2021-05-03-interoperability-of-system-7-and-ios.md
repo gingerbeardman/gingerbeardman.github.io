@@ -41,7 +41,6 @@ nouns:
 - Microsoft
 - Word
 - Excel
-carousel: ''
 featured: false
 pinned: false
 comments: https://twitter.com/gingerbeardman/status/1389342826597699587

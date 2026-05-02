@@ -11,7 +11,6 @@ nouns:
 - Dogtown
 - Internet Archive
 - SkateBoarder Magazine
-carousel: ''
 featured: false
 
 ---

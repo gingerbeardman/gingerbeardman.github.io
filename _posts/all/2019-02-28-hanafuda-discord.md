@@ -6,7 +6,6 @@ tags:
 - hanafuda
 - discord
 nouns: []
-carousel: ''
 featured: false
 
 ---

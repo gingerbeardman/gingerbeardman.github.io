@@ -6,7 +6,6 @@ tags:
 - dithering
 - 1bit
 nouns: []
-carousel: ''
 featured: false
 
 ---
