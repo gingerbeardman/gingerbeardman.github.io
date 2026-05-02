@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Five interesting facts about the design of the original PlayStation'
+modified: '2026-05-02T16:24+01:00'
 tags:
 - japanese
 - software
