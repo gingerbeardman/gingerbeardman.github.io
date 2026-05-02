@@ -4,6 +4,8 @@ title: 'Sony Reader "Exceptional internal memory state: formatting" workaround'
 tags:
 - workaround
 - sonyreader
+- sony
+- reader
 nouns:
 - Sony
 - Reader

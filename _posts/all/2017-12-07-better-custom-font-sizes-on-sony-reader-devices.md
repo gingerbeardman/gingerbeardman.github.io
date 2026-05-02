@@ -4,6 +4,8 @@ title: 'Better custom font sizes on Sony Reader devices'
 tags:
 - sonyreader
 - fonts
+- sony
+- reader
 nouns:
 - Sony
 - Reader
