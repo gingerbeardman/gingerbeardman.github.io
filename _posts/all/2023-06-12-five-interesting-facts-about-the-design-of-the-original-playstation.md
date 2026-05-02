@@ -8,6 +8,9 @@ tags:
 - preservation
 - patreon
 - history
+- sony
+- vaio
+- playstation
 nouns:
 - PlayStation
 - Sony
@@ -17,8 +20,12 @@ nouns:
 - Apple
 - Video Audio Input Output
 featured: true
-comments: https://twitter.com/gingerbeardman/status/1666465968766197760
 carousel: sony-playstation-facts
+comments:
+  - platform: twitter
+    url: https://twitter.com/gingerbeardman/status/1666465968766197760
+  - platform: mastodon
+    url: https://mastodon.gamedev.place/@gingerbeardman/110503619515985946
 
 ---
 
