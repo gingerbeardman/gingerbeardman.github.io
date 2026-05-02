@@ -44,4 +44,4 @@ Some things you probably didn’t realise about the design of the original *[Son
 
 Taken from *[Digital Dreams: The Work of the Sony Design Center](https://www.worldcat.org/title/1050032044)* (1999, Paul Kunkel)
 
-{% include carousel.html height="133" unit="%" duration="7" %}
+{% include carousel.html height="133" unit="%" duration="60" %}
