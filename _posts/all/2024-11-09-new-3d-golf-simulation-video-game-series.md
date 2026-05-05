@@ -189,7 +189,7 @@ The engine also powered RPG [Virtual Hydlide on SEGA Saturn](https://www.mobygam
 
 T&E SOFT kind of ceased to exist at some point after this, though they managed to spit out a few golf games under one name or another to mixed reviews. Windows 9x got a proper version of the game in Harukanaru Augusta for Windows, which is great. PS2 got [Golf Paradise](https://www.youtube.com/watch?v=Xxsg_6UerW8) (Swing Away Golf) and a Disney-branded version called [Disney Golf Classic](https://www.youtube.com/watch?v=6gwh3pMIAl8&list=PL2HDVv5AFKLEIn3ZzOtg6_DNVikSU3Yby) (Disney Golf) which are somewhat souless games that really don't excite me.
 
-The finale was somewhat of a surprise, with the DS getting [Touch Golf](https://en.wikipedia.org/wiki/True_Swing_Golf) (True Swing Golf) in 2005, and a DSi version in 2009 as [A Little Bit of Nintendo Touch Golf](/2021/02/08/a-little-bit-of-nintendo-touch-golf/). These are both truly great games, though if I had to choose I'd pick the DSi version as it trims some fat and focuses the game and experience perfectly: a real treat! You can [read my review of the DSi verison in an older blog post](/2021/02/08/a-little-bit-of-nintendo-touch-golf/).
+The finale was somewhat of a surprise, with the DS getting [Touch Golf](https://en.wikipedia.org/wiki/True_Swing_Golf) (True Swing Golf) in 2005, and a DSi version in 2009 as [A Little Bit of Nintendo Touch Golf](/2021/02/08/a-little-bit-of-nintendo-touch-golf/). These are both truly great games, though if I had to choose I'd pick the DSi version as it trims some fat and focuses the game and experience perfectly: a real treat! You can [read my review of the DSi version in an older blog post](/2021/02/08/a-little-bit-of-nintendo-touch-golf/).
 
 {% youtube X4ylR2b8uMA %}
 
