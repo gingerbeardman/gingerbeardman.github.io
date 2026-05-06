@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
-modified: '2026-04-12T13:00+01:00'
+modified: '2026-05-06T18:51+01:00'
 date: '2023-10-21T16:56+01:00'
 tags:
 - graphics
@@ -39,7 +39,7 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
-Total entries: 266
+Total entries: 267
 
 <div class="table-wrapper" markdown="block">
 | Platform | English | Japanese | Year | Developer |
@@ -86,7 +86,7 @@ Total entries: 266
 | MSX | Da Vinci | ダ・ビンチ | 1988 | Shinkikakusha Corp |
 | MSX | Dot Designers Club | ＤＤ倶楽部 | 1989 | T&E SOFT |
 | MSX | Dream Block | ドリームブロック | 1989 | Nikkoh Thinking |
-| MSX | EDDY II | エディー2 | 1984 | HAL Laboratory |
+| MSX | EDDY II | エディー | 1984 | HAL Laboratory |
 | MSX | Gaban | がばん | 1988 | Micronet |
 | MSX | Garakuta | 画楽多 | 1988 | Southern Create |
 | MSX | Graph Saurus 1 | グラフサウルス | 1989 | Bit² |
@@ -199,6 +199,7 @@ Total entries: 266
 | TRON-OS | Pelistina 2 |  | 2005 | KAENRYUU Koutoku |
 | TRON-OS | Sketchbook | 楽描き帳 | 2011 | Satoshi Sera |
 | TRON-OS | Xbrush for Chokanji | Xbrush for 超漢字 | 2013 | Akira Tasaki |
+| Twin Famicom | Game Maker | ゲームメーカー | 1989 | HAL Laboratory |
 | Windows 2K | 4thPaint | よつばペイント | 2007 | 4th Paint Project |
 | Windows 2K | Let's Draw F |  | 2007 | Oscar Creation |
 | Windows 3.1 | Daisy Art | デイジーアート | 1995 | Ichikawa Soft Labratory |
