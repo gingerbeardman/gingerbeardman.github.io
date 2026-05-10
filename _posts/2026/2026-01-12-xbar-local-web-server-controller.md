@@ -7,6 +7,7 @@ tags:
 - hack
 - software
 - xbar
+- script
 - poweruser
 - web
 nouns:
