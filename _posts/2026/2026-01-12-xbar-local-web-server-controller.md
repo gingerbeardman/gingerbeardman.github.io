@@ -2,7 +2,7 @@
 layout: post
 title: "Controlling local web servers using xbar"
 date: '2026-01-12T20:57+00:00'
-modified: '2026-01-14T23:20+00:00'
+modified: '2026-05-10T21:17+01:00'
 tags:
 - hack
 - software
@@ -24,7 +24,7 @@ comments:
 
 ---
 
-> Note: an enhanced and native macOS version is headed to the Mac App Store! [It's already finished](https://twitter.com/gingerbeardman/status/2011578649087263204).
+> I've released a native macOS app that does all this script can do *and much more!*<br>Read all about it: [gingerbeardman.com/apps/driveaway/](https://www.gingerbeardman.com/apps/localmost/)
 
 Sometimes I want to run local web servers for projects I'm working on. Usually more than one at a time, or at least over a short space of time.
 
