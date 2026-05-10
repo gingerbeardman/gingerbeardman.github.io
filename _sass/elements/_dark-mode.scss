@@ -3,123 +3,170 @@
 /*------------------------------------*\
   Elements > Dark Mode
 
-  Applies only when the page is not themed
-  (atarist / playdate / macintosh / windows / piece).
+  Applies to non-themed pages plus the atarist / macintosh / piece
+  themes. Playdate and Windows keep their existing light themed look.
 \*------------------------------------*/
 
 $dark-bg:           #1a1a1a;
-$dark-bg-elevated:  #242428;
+$dark-bg-themed:    #262626;  // slightly lighter, used for atarist/macintosh/piece
 $dark-text:         #e6e6e6;
 $dark-muted:        #9a9a9a;
 $dark-border:       #2e2e33;
 $dark-code-bg:      #242428;
 
-@media (prefers-color-scheme: dark) {
-  body:not(.atarist):not(.playdate):not(.macintosh):not(.windows):not(.piece) {
-    background-color: $dark-bg;
-    color: $dark-text;
+@mixin dark-mode-styles($bg) {
+  background-color: $bg !important;
+  color: $dark-text;
+
+  a {
+    color: $dark-text !important;
+    background-color: transparent;
+  }
+
+  blockquote {
+    color: $dark-muted !important;
+    border-left-color: $dark-muted;
 
     a {
-      color: $dark-text;
+      color: $dark-muted !important;
     }
+  }
 
-    blockquote {
-      color: $dark-muted;
-      border-left-color: $dark-muted;
+  pre,
+  code,
+  .highlighter-rouge {
+    background-color: $dark-code-bg;
+  }
 
-      a {
-        color: $dark-muted;
-      }
-    }
+  .highlight,
+  .highlighter-rouge .highlight {
+    background: $dark-code-bg;
+  }
 
-    pre,
-    code,
-    .highlighter-rouge {
-      background-color: $dark-code-bg;
-    }
+  // Syntax highlighting tweaks for dark backgrounds.
+  .highlight {
+    .c, .cm, .c1 { color: #8a8a78; }    // Comments — lift off the dark bg.
+    .cp, .cs    { color: #9a9a9a; }
+    .gd         { color: #f88; background-color: #3a1f1f; }
+    .gd .x      { color: #fbb; background-color: #5a2424; }
+    .gi         { color: #8f8; background-color: #1f3a1f; }
+    .gi .x      { color: #bfb; background-color: #245a24; }
+    .err        { color: #f88; background-color: #3a1f1f; }
+    .kt, .nc    { color: #7aa6e0; }     // Type / class.
+    .nt         { color: #7aa6e0; }     // Tag.
+    .nb         { color: #4ec9b0; }     // Builtin.
+    .na, .no, .nv, .vc, .vg, .vi { color: #4ec9b0; }
+    .nf, .ne    { color: #ff9d7a; }     // Function / exception.
+    .nn, .gp    { color: #b0b0b0; }
+    .gh, .gu    { color: #9a9a9a; }
+    .s, .sb, .sc, .sd, .s2, .se, .sh, .si, .sx, .s1 { color: #f08a8a; }
+    .sr         { color: #7ec07e; }
+    .ss         { color: #c98ad6; }
+    .m, .mf, .mh, .mi, .mo, .il { color: #6cc8c8; }
+    .w          { color: #444; }
+    .gr, .gt    { color: #f88; }
+    .go         { color: #b0b0b0; }
+  }
 
-    .c-header__inner {
-      border-bottom-color: $dark-border;
-    }
+  .c-header__inner {
+    border-bottom-color: $dark-border;
+  }
 
-    .c-post-card {
-      border-bottom-color: $dark-border;
-    }
+  .c-post-card {
+    border-bottom-color: $dark-border;
+  }
 
-    .c-post-card:hover {
-      color: $dark-text;
-    }
+  .c-post-card:hover,
+  .c-post-card:hover .c-post-card__title {
+    color: $dark-text !important;
+  }
 
-    .c-post__date,
-    .c-post-card__date {
-      color: $dark-muted;
-    }
+  .c-post__date,
+  .c-post-card__date,
+  .c-logo__link span,
+  .c-byline__desc,
+  .c-byline__desc a,
+  figcaption,
+  .caption {
+    color: $dark-muted !important;
+  }
 
-    .c-tags a {
-      color: $dark-text;
-    }
+  .c-tags a {
+    color: $dark-text !important;
+  }
 
-    .c-off-canvas-content {
-      background-color: $dark-bg;
-    }
+  .c-off-canvas-content {
+    background-color: $bg;
+  }
 
-    .c-off-canvas-toggle__icon {
-      background-color: $dark-text;
-    }
+  .c-off-canvas-toggle__icon {
+    background-color: $dark-text;
+  }
 
-    .c-off-canvas-toggle--close .c-off-canvas-toggle__icon {
-      background-color: transparent;
-    }
+  .c-off-canvas-toggle--close .c-off-canvas-toggle__icon {
+    background-color: transparent;
+  }
 
-    .c-off-canvas-toggle--close .c-off-canvas-toggle__icon:before,
-    .c-off-canvas-toggle--close .c-off-canvas-toggle__icon:after {
-      background: $dark-text;
-    }
+  .c-off-canvas-toggle--close .c-off-canvas-toggle__icon:before,
+  .c-off-canvas-toggle--close .c-off-canvas-toggle__icon:after {
+    background: $dark-text;
+  }
 
-    hr {
-      background-color: $dark-border;
-      border-top-color: $dark-border;
-    }
+  hr {
+    background-color: $dark-border;
+    border-top: 1px solid $dark-border;
+  }
 
-    .tablesorter-default,
-    .tablesorter-default th,
-    .tablesorter-default td,
-    .tablesorter-default tbody > tr:hover > td,
-    .tablesorter-default tbody > tr.odd:hover > td,
-    .tablesorter-default tbody > tr.even:hover > td {
-      color: $dark-text;
-      border-color: $dark-border;
-    }
+  .tablesorter-default,
+  .tablesorter-default th,
+  .tablesorter-default td,
+  .tablesorter-default tbody > tr:hover > td,
+  .tablesorter-default tbody > tr.odd:hover > td,
+  .tablesorter-default tbody > tr.even:hover > td {
+    color: $dark-text;
+    border-color: $dark-border;
+  }
 
-    .tablesorter-default tr.odd > td,
-    .tablesorter-default tr.even > td {
-      background-color: transparent !important;
-    }
+  .tablesorter-default tr.odd > td,
+  .tablesorter-default tr.even > td {
+    background-color: transparent !important;
+  }
 
-    table.donotsort th,
-    table.donotsort td {
-      color: $dark-muted;
-    }
+  table.donotsort th,
+  table.donotsort td {
+    color: $dark-muted;
+  }
 
-    // Replace the tablesorter sort-indicator GIFs (which are dark-on-light)
-    // with light SVG arrows so they're visible on dark backgrounds.
-    .tablesorter-default .header,
-    .tablesorter-default .tablesorter-header {
-      background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='9' height='9' viewBox='0 0 9 9'><path fill='%23e6e6e6' d='M4.5 0L0 4h9zM4.5 9L0 5h9z'/></svg>");
-    }
+  // Replace the tablesorter sort-indicator GIFs (which are dark-on-light)
+  // with light SVG arrows so they're visible on dark backgrounds.
+  .tablesorter-default .header,
+  .tablesorter-default .tablesorter-header {
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='9' height='9' viewBox='0 0 9 9'><path fill='%23e6e6e6' d='M4.5 0L0 4h9zM4.5 9L0 5h9z'/></svg>");
+  }
 
-    .tablesorter-default thead .headerSortUp,
-    .tablesorter-default thead .tablesorter-headerAsc,
-    .tablesorter-default thead .tablesorter-headerSortUp {
-      background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='9' height='4' viewBox='0 0 9 4'><path fill='%23e6e6e6' d='M4.5 0L0 4h9z'/></svg>");
-      border-bottom-color: $dark-text;
-    }
+  .tablesorter-default thead .headerSortUp,
+  .tablesorter-default thead .tablesorter-headerAsc,
+  .tablesorter-default thead .tablesorter-headerSortUp {
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='9' height='4' viewBox='0 0 9 4'><path fill='%23e6e6e6' d='M4.5 0L0 4h9z'/></svg>");
+    border-bottom-color: $dark-text;
+  }
 
-    .tablesorter-default thead .headerSortDown,
-    .tablesorter-default thead .tablesorter-headerDesc,
-    .tablesorter-default thead .tablesorter-headerSortDown {
-      background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='9' height='4' viewBox='0 0 9 4'><path fill='%23e6e6e6' d='M4.5 4L0 0h9z'/></svg>");
-      border-bottom-color: $dark-text;
-    }
+  .tablesorter-default thead .headerSortDown,
+  .tablesorter-default thead .tablesorter-headerDesc,
+  .tablesorter-default thead .tablesorter-headerSortDown {
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='9' height='4' viewBox='0 0 9 4'><path fill='%23e6e6e6' d='M4.5 4L0 0h9z'/></svg>");
+    border-bottom-color: $dark-text;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body:not(.atarist):not(.playdate):not(.macintosh):not(.windows):not(.piece) {
+    @include dark-mode-styles($dark-bg);
+  }
+
+  body.atarist,
+  body.macintosh,
+  body.piece {
+    @include dark-mode-styles($dark-bg-themed);
   }
 }

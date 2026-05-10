@@ -4,6 +4,24 @@ table {
   font-size: type.$font-size-medium !important;
 }
 
+// Replace tablesorter's bundled GIF sort indicators with crisper SVG triangles.
+.tablesorter-default .header,
+.tablesorter-default .tablesorter-header {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='9' height='9' viewBox='0 0 9 9'><path fill='%23323232' d='M4.5 0L0 4h9zM4.5 9L0 5h9z'/></svg>");
+}
+
+.tablesorter-default thead .headerSortUp,
+.tablesorter-default thead .tablesorter-headerAsc,
+.tablesorter-default thead .tablesorter-headerSortUp {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='9' height='4' viewBox='0 0 9 4'><path fill='%23323232' d='M4.5 0L0 4h9z'/></svg>");
+}
+
+.tablesorter-default thead .headerSortDown,
+.tablesorter-default thead .tablesorter-headerDesc,
+.tablesorter-default thead .tablesorter-headerSortDown {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='9' height='4' viewBox='0 0 9 4'><path fill='%23323232' d='M4.5 4L0 0h9z'/></svg>");
+}
+
 th {
   font-weight: normal;
   outline: none;
