@@ -2,6 +2,7 @@
 layout: post
 title: "Today I shipped 20 apps and a screensaver"
 date: '2026-04-17T19:00+01:00'
+modified: '2026-05-10T16:22+01:00'
 tags:
 - software
 - macos
@@ -106,7 +107,7 @@ Read the full manifesto at [fitsonafloppy.com](https://fitsonafloppy.com) and *s
 
 ## The App List
 
-These apps were all built to fill personal needs, but friends have encouraged me to release them for others to use. This is the bit where I was set to claim oldest app was about 8 years old, while the newest apps was about 8 days old. But sadly App Store Review got in the way, by rejecting my oldest app that I've had installed on my own phone since 2019 for being "too derivative" (I'll revisit that and launch it another time), and they took longer to review the newest app than it did for me to develop it. Other fun rejections along the way: inappropriate use of the word "Safari" in an app for managing Safari browser tabs and bookmarks, and use of web server entitlements in a web server app. But you get the idea: these apps have taken a while to arrive.
+These apps were all built to fill personal needs, but friends have encouraged me to release them for others to use. This is the bit where I was set to claim oldest app was about 8 years old, while the newest apps was about 8 days old. But sadly App Store Review got in the way, by rejecting my oldest app that I've had installed on my own phone since 2019 for being "too derivative" (I'll revisit that and launch it another time), and they took longer to review the newest app than it did for me to develop it. Other fun rejections along the way: inappropriate use of the word "Safari" in an app for managing Safari browser tabs and bookmarks, and use of web server entitlements in a web server app, sending a video of me ejecting a physical CD-ROM drive, the list goes on. But you get the idea: these apps have taken a while to arrive.
 
 Anyway, here they are, have fun with them:
 
