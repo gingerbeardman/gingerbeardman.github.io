@@ -81,9 +81,45 @@ $dark-code-bg:      #242428;
       border-top-color: $dark-border;
     }
 
+    .tablesorter-default,
     .tablesorter-default th,
-    .tablesorter-default td {
+    .tablesorter-default td,
+    .tablesorter-default tbody > tr:hover > td,
+    .tablesorter-default tbody > tr.odd:hover > td,
+    .tablesorter-default tbody > tr.even:hover > td {
+      color: $dark-text;
       border-color: $dark-border;
+    }
+
+    .tablesorter-default tr.odd > td,
+    .tablesorter-default tr.even > td {
+      background-color: transparent !important;
+    }
+
+    table.donotsort th,
+    table.donotsort td {
+      color: $dark-muted;
+    }
+
+    // Replace the tablesorter sort-indicator GIFs (which are dark-on-light)
+    // with light SVG arrows so they're visible on dark backgrounds.
+    .tablesorter-default .header,
+    .tablesorter-default .tablesorter-header {
+      background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='9' height='9' viewBox='0 0 9 9'><path fill='%23e6e6e6' d='M4.5 0L0 4h9zM4.5 9L0 5h9z'/></svg>");
+    }
+
+    .tablesorter-default thead .headerSortUp,
+    .tablesorter-default thead .tablesorter-headerAsc,
+    .tablesorter-default thead .tablesorter-headerSortUp {
+      background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='9' height='4' viewBox='0 0 9 4'><path fill='%23e6e6e6' d='M4.5 0L0 4h9z'/></svg>");
+      border-bottom-color: $dark-text;
+    }
+
+    .tablesorter-default thead .headerSortDown,
+    .tablesorter-default thead .tablesorter-headerDesc,
+    .tablesorter-default thead .tablesorter-headerSortDown {
+      background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='9' height='4' viewBox='0 0 9 4'><path fill='%23e6e6e6' d='M4.5 4L0 0h9z'/></svg>");
+      border-bottom-color: $dark-text;
     }
   }
 }
