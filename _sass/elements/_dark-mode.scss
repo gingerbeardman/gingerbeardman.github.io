@@ -1,0 +1,89 @@
+@use "../settings/colors";
+
+/*------------------------------------*\
+  Elements > Dark Mode
+
+  Applies only when the page is not themed
+  (atarist / playdate / macintosh / windows / piece).
+\*------------------------------------*/
+
+$dark-bg:           #1a1a1a;
+$dark-bg-elevated:  #242428;
+$dark-text:         #e6e6e6;
+$dark-muted:        #9a9a9a;
+$dark-border:       #2e2e33;
+$dark-code-bg:      #242428;
+
+@media (prefers-color-scheme: dark) {
+  body:not(.atarist):not(.playdate):not(.macintosh):not(.windows):not(.piece) {
+    background-color: $dark-bg;
+    color: $dark-text;
+
+    a {
+      color: $dark-text;
+    }
+
+    blockquote {
+      color: $dark-muted;
+      border-left-color: $dark-muted;
+
+      a {
+        color: $dark-muted;
+      }
+    }
+
+    pre,
+    code,
+    .highlighter-rouge {
+      background-color: $dark-code-bg;
+    }
+
+    .c-header__inner {
+      border-bottom-color: $dark-border;
+    }
+
+    .c-post-card {
+      border-bottom-color: $dark-border;
+    }
+
+    .c-post-card:hover {
+      color: $dark-text;
+    }
+
+    .c-post__date,
+    .c-post-card__date {
+      color: $dark-muted;
+    }
+
+    .c-tags a {
+      color: $dark-text;
+    }
+
+    .c-off-canvas-content {
+      background-color: $dark-bg;
+    }
+
+    .c-off-canvas-toggle__icon {
+      background-color: $dark-text;
+    }
+
+    .c-off-canvas-toggle--close .c-off-canvas-toggle__icon {
+      background-color: transparent;
+    }
+
+    .c-off-canvas-toggle--close .c-off-canvas-toggle__icon:before,
+    .c-off-canvas-toggle--close .c-off-canvas-toggle__icon:after {
+      background: $dark-text;
+    }
+
+    hr {
+      background-color: $dark-border;
+      border-top-color: $dark-border;
+    }
+
+    .tablesorter-default th,
+    .tablesorter-default td {
+      border-color: $dark-border;
+    }
+  }
+}

@@ -39,6 +39,7 @@ The following posts keep on truckin' (most popular first):
 - Protect filenames when doing noun replacement (12 Jan)
 - Add niconico video embed (26 Feb)
 - Full-text search powered by pagefind (2 Mar)
+- Added dark-mode styles (10 May)
 
 ## Previous years
 - [My most popular posts of 2025](/2025/12/31/my-most-popular-posts-of-the-year/)
