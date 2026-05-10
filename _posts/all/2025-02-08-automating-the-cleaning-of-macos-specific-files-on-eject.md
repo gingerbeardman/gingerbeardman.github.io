@@ -2,7 +2,7 @@
 layout: post
 title: "Automating the cleaning of macOS-specific files on Eject"
 date: '2025-02-08T20:45+00:00'
-modified: '2025-02-12T15:17+00:00'
+modified: '2026-05-10T21:15+01:00'
 tags:
 - hack
 - macos
@@ -17,6 +17,8 @@ pinned: false
 comments: https://twitter.com/gingerbeardman/status/1888328802889257317
 
 ---
+
+> I've released a native macOS app that does all this script can do *and much more!*<br>Read all about it: [gingerbeardman.com/apps/driveaway/](https://www.gingerbeardman.com/apps/driveaway/)
 
 Dot underscore `._` and `.DS_Store` files are macOS-specific metadata cruft generated for foreign filesystems (like FAT32 or exFAT) that are not usually needed for disks that are mainly used on other platforms. Digital cameras, music players, e-book readers, and handheld gaming devices can get confused when they encounter these odd files during file system parsing and directory listing. The problem is compounded if the devices naïvely process files by looking only at the file extension as they will then see the dot underscore version of a file as a duplicate and try to preview/play/open it.
 
