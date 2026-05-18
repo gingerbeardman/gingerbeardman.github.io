@@ -69,7 +69,7 @@ However, as of 2025—after six years of being the only full-time developer focu
 
 For the first half of 2025, I was busy creating software for a wide range of platforms, from the [Sega Dreamcast](/2020/12/03/dreamcast-gdemu-installation/) to macOS, iOS, the [Web](https://blog.gingerbeardman.com/2025/08/21/wormhole-for-perplexity-comet/), and beyond. The later half of 2025 saw me build a games studio at [Perplexity](https://www.perplexity.ai)—great to see how fast I could run and how high I could fly when the limits were removed.
 
-2026 start with a bang, [I launched a game](/2026/02/12/serenity-demo/), [went to Tokyo](/2026/02/22/the-majesty-of-mount-fuji/), and I decided to finish off some apps I had built for myself and release them to the public. This process took a few months but I eventually [released 20 apps (and a screensaver) on the same day](/2026/04/17/today-i-shipped-twenty-apps-and-a-screensaver/) in April 2026.
+2026 start with a bang, [I launched a game](/2026/02/12/serenity-demo/), [went to Tokyo](/2026/02/22/the-majesty-of-mount-fuji/), and I decided to finish off some apps I had built for myself and release them to the public. This process took a few months but I eventually [released 20 apps (and a screensaver) on the same day](/2026/04/17/today-i-shipped-twenty-apps-and-a-screensaver/) in April 2026, a process about which [I was interviewed by Adam Engst of the venerable TidBITS](https://tidbits.com/2026/04/20/vidbits-matt-sephtons-wall-of-tiny-apps/).
 
 I've [opened up my calendar to some 30-minute calls every week](/unoffice-hours) if you fancy chatting about anything.
 

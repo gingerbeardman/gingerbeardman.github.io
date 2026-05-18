@@ -1,6 +1,17 @@
-import * as pagefind from "/pagefind/pagefind.js";
+let pagefindModulePromise = null;
 
-document.addEventListener("DOMContentLoaded", async function () {
+function loadPagefind() {
+  if (!pagefindModulePromise) {
+    pagefindModulePromise = import("/pagefind/pagefind.js").catch((error) => {
+      // Reset so a transient failure (blocked/stale fetch) can retry next time.
+      pagefindModulePromise = null;
+      throw error;
+    });
+  }
+  return pagefindModulePromise;
+}
+
+function init() {
   function escapeHtml(value) {
     return value
       .replaceAll("&", "&amp;")
@@ -89,6 +100,14 @@ document.addEventListener("DOMContentLoaded", async function () {
     }
 
     resultsEl.innerHTML = "<p>…</p>";
+
+    let pagefind;
+    try {
+      pagefind = await loadPagefind();
+    } catch (error) {
+      resultsEl.innerHTML = "<p>Search engine failed to load — please reload the page.</p>";
+      return;
+    }
 
     try {
       const parsed = parseQuery(query);
@@ -214,4 +233,12 @@ document.addEventListener("DOMContentLoaded", async function () {
   queryEl.value = initialQuery;
   updateClearVisibility();
   runSearch(initialQuery);
-});
+}
+
+// Module scripts are deferred; if the DOM is already parsed by the time this
+// runs, the DOMContentLoaded event has passed and a listener would never fire.
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", init);
+} else {
+  init();
+}
