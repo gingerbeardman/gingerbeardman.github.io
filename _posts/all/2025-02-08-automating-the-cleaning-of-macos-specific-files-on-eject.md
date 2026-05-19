@@ -9,6 +9,7 @@ tags:
 - automation
 - script
 - software
+- xbar
 nouns:
 image: /images/posts/xbar-volumes.png
 featured: false
