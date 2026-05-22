@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Shinji and Good Friends: Second Hanafuda Impact'
+modified: '2026-05-22T13:40+01:00'
 tags:
 - hanafuda
 - hack
@@ -34,3 +35,7 @@ Whilst doing this hacking, I found a debug mode (dialog/speech tester) which is 
 
 ![PNG](/images/posts/shinji-hacked.png "Hacked save game file contents")
 {:.tofigure}
+
+## Download
+
+Grab the ISO at [archive.org/details/shinji-and-good-friends-second-hanafuda-impact](https://archive.org/details/shinji-and-good-friends-second-hanafuda-impact)
