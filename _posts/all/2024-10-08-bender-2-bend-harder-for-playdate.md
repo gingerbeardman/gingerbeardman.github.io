@@ -53,7 +53,7 @@ Seeing as original Bender web game used CSS for all graphics and animation, and 
 
 Each side of the bar is a thick line, with "butt" cap-style. To give the illusion of the bar bending I draw a circle at the origin or common point of both lines. A little bit of trigonometry was all that was needed to get the lines bending correctly. The benefits to this approach are many, such as: no images, no sprites, always smooth edges, better performance. Animation also does not use the Playdate SDK, but rather I track the positions of screen elements and move them based on some rules and algorithms.
 
-I use dithering to provide visual effects: a animation of snapping and motion blur of the moving line. There's also a zen mode that disables visual effects and the toasting words (which are randomised from large lists).
+I use dithering to provide visual effects: animation of snapping and motion blur of the moving line. There's also a zen mode that disables visual effects and the toasting words (which are randomised from large lists).
 
 ![IMG](/images/posts/bender-2-playdate-2022.gif#playdate)
 
