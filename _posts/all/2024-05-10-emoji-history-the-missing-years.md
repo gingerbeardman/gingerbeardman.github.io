@@ -259,6 +259,9 @@ The word kept showing up in places I wasn't expecting:
 
 What DoCoMo's 1999 set did was become the international reference point — which is why English borrowed 絵文字 as "emoji" rather than Sharp's or Toshiba's or Sanyo's much earlier sets. The word's invention is fiction. Its globalisation via DoCoMo is real, but only in English. 🌍
 
+![IMG](/images/posts/emoji-wapuro-toshiba-jw95f.png "絵文字 as column header in Toshiba's Rupo JW95F word processor manual")
+{:.tofigure}
+
 ----
 
 ## Conclusion
