@@ -178,7 +178,7 @@ Around the same time, the day after I published this post, I did a Twitter searc
 
 The earliest I tracked down was the [Sanyo SWP-M21 "Sanword mini S"](https://archive.org/details/sanword-mini-s-swp-m21-portable-word-processor/), a budget personal word processor from 1986. It has the usual cast — smiley face, snowman, fleur-de-lis, pointing finger, weather symbols, faces, hand gestures — but the genuinely fun bit is its 外字 editor. Sanyo let users design up to 94 of their own 24×24 dot characters and save them out to floppy. Build-your-own-emoji on a 1986 home appliance. 🎨
 
-![Show Image](/images/posts/sanyo-swp-m21-brochure-emoji.jpg "Emoji as shown on a brochure for SANWORD mini S [SWP-M21]")
+![Emoji on SANWORD mini S](/images/posts/sanyo-swp-m21-brochure-emoji.jpg "Emoji as shown on a brochure for SANWORD mini S [SWP-M21]")
 {:.tofigure}
 
 The manual shows off the kinds of things you could make: a cat, a turtle, a mushroom, an elephant, a ship, a hand making a peace sign, a heart with an arrow through it, an orca. The accompanying copy brags 「とてもワープロとは思えないような、ユニークな印刷を楽しむことができます」 — "you can enjoy unique printing you'd hardly think a word processor could do."
@@ -244,7 +244,7 @@ I was interested in how the emoji that I have redrawn compared to the 1997 SoftB
 
 A side discovery: the word 絵文字 (emoji) itself has a much longer paper trail. The earliest citation I've found is [Kenkyūsha's New Japanese-English Dictionary](https://archive.org/details/kenkyushasnewjap0000unse_h0k7/page/228/mode/2up?q=絵文字), 1954—the standard postwar bilingual reference. It defines:
 
-![IMG](/images/posts/kenkyushas-new-japanese-english-dictionary-1954.png "e'-mo'ji 絵文字 n. a picture word; a pictorial symbol; picture writing; a pictograph; hieroglyphics (象形文字). 1954.")
+![e'-mo'ji 絵文字 n. a picture word; a pictorial symbol; picture writing; a pictograph; hieroglyphics (象形文字). 1954.](/images/posts/kenkyushas-new-japanese-english-dictionary-1954.png "e'-mo'ji 絵文字 n. a picture word; a pictorial symbol; picture writing; a pictograph; hieroglyphics (象形文字). 1954.")
 
 A settled dictionary headword forty-five years before DoCoMo. "Pictorial symbol" is the second listed sense — more central, by lexicographers' ordering convention, than "hieroglyphics."
 
