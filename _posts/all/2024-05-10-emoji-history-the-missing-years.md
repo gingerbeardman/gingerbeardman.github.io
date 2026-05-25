@@ -2,7 +2,7 @@
 layout: post
 title: "Emoji history: the missing years"
 date: '2024-05-10T21:00+01:00'
-modified: '2024-06-04T17:32+01:00'
+modified: '2026-05-25T18:18+01:00'
 tags:
 - japanese
 - emoji
@@ -16,6 +16,14 @@ nouns:
 - Sharp PA-8500
 - Sharp MZ-80K
 - Sharp
+- Sanword mini S
+- SANWORD mini S
+- SANWORD
+- SWP-M21
+- Sanyo
+- Toshiba
+- Rupo JW95F
+- DoCoMo
 - PI-4000
 - PI-3000
 - PA-8500
@@ -156,11 +164,26 @@ Thanks to a collector, [Akuji](https://www.reddit.com/r/OldHandhelds/comments/sr
 
 ## How old is an emoji?
 
-At this point we've wiped almost a decade off the creation date of emoji, but can we go further? Is there a way to date a set of emoji? In Japanese 絵文字 means emoji. 
+At this point we've wiped almost a decade off the creation date of emoji, but can we go further? Is there a way to date a set of emoji? In Japanese 絵文字 means emoji — and it turns out that word has its own surprisingly long history, which I'll come back to at the end of this post.
 
 If we think about the PA line of devices, the PA-8500 was released in 1988, and it's predecessor the (emoji-less) PA-7000 was released in 1987. So maybe the emoji set was created around this time? We can get closer by looking at a couple of characters present in the emoji that give us [a clue to the date of creation](https://srad.jp/~yasuoka/journal/495877/). That is indeed the case with the Sharp PI-4000 and WD-A521.
 
 The characters [○金 and ○ビ](https://ja.wikipedia.org/wiki/渡辺和博#○金・○ビ) (*maru-kin* meaning rich/successful/winner and *maru-bi* meaning poor/unsuccessful/loser) were invented by the author [Kazuhiro Watanabe](https://ja.wikipedia.org/wiki/渡辺和博#○金・○ビ) in 1984 in his book [Kinkonkan](https://www.amazon.co.jp/dp/4072734365) which was later [made into a movie](https://www.nikkatsu.com/movie/26211.html). These were quickly accepted into Japanese vocabulary, winning the 84年の日本流行語 (Japanese Buzzwords Award 1984). And they are right there in the Sharp PI-4000 emoji, represented as characters enclosed in circles. They were in common use throughout Japan's bubble-era, 1986-1991, but eventually fell out of fashion and are now considered obsolete. It's interesting to note that they are not featured in either the [1997 SoftBank](https://emojipedia.org/softbank/1997) or [1999 NTT DoCoMo](https://emojipedia.org/docomo/1999) emoji sets.
+
+----
+
+## 1986
+
+Around the same time, the day after I published this post, I did a Twitter search and found an [image of the November 1987 issue of ラジオの製作 ("Radio Production") magazine](https://x.com/NagoyaAB388/status/1789249098379575319/photo/1), which featured a full page on a Sanyo SANWORD personal word processor and its emoji table. That sent me hunting for Sanyo manuals.
+
+The earliest I tracked down was the [Sanyo SWP-M21 "Sanword mini S"](https://archive.org/details/sanword-mini-s-swp-m21-portable-word-processor/), a budget personal word processor from 1986. It has the usual cast — smiley face, snowman, fleur-de-lis, pointing finger, weather symbols, faces, hand gestures — but the genuinely fun bit is its 外字 editor. Sanyo let users design up to 94 of their own 24×24 dot characters and save them out to floppy. Build-your-own-emoji on a 1986 home appliance. 🎨
+
+![Show Image](/images/posts/sanyo-swp-m21-brochure-emoji.jpg "Emoji as shown on a brochure for SANWORD mini S [SWP-M21]")
+{:.tofigure}
+
+The manual shows off the kinds of things you could make: a cat, a turtle, a mushroom, an elephant, a ship, a hand making a peace sign, a heart with an arrow through it, an orca. The accompanying copy brags 「とてもワープロとは思えないような、ユニークな印刷を楽しむことができます」 — "you can enjoy unique printing you'd hardly think a word processor could do."
+
+Somewhere out there, there were Japanese homes in the late 80s with floppy disks full of personal pictographic vocabulary — family crests, drawings of pets, in-joke symbols between friends. Almost all of those floppies are presumably long gone now. If anyone has one in a drawer, I'd love to see it. 💾
 
 ----
 
@@ -214,6 +237,27 @@ I was interested in how the emoji that I have redrawn compared to the 1997 SoftB
 |Resolution|16×16|16×16 |12×12|5×7 |12×12 |12×12|
 
 <br>
+
+----
+
+## A word about the word
+
+A side discovery: the word 絵文字 (emoji) itself has a much longer paper trail. The earliest citation I've found is [Kenkyūsha's New Japanese-English Dictionary](https://archive.org/details/kenkyushasnewjap0000unse_h0k7/page/228/mode/2up?q=絵文字), 1954—the standard postwar bilingual reference. It defines:
+
+![IMG](/images/posts/kenkyushas-new-japanese-english-dictionary-1954.png "e'-mo'ji 絵文字 n. a picture word; a pictorial symbol; picture writing; a pictograph; hieroglyphics (象形文字). 1954.")
+
+A settled dictionary headword forty-five years before DoCoMo. "Pictorial symbol" is the second listed sense — more central, by lexicographers' ordering convention, than "hieroglyphics."
+
+The word kept showing up in places I wasn't expecting:
+
+- 1975: [A Sony catalogue describes its ETV-4010 school AV mixing console](https://archive.org/details/sony-system-equipment-handbook/Sony%20System%20Equipment%20Handbook?q=絵文字) as having 「パネル面の絵文字、色分け表示」 — "emoji on the panel face, colour-coded indicators". The 絵文字 are the small pictographic labels on the control panel. Same functional concept as digital emoji, applied to industrial hardware, twenty-four years before i-mode.
+- 1984: The graphic designer [Kuwayama Yasaburō publishes a 431-page reference book](https://archive.org/details/trademarkssymbol00kuwa) titled simply 『世界の絵文字』 (Sekai no Emoji / "Emoji of the World") on global logos, pictograms, and trademark design, spanning the years 1970–1983.
+- 1984: [ASCII magazine reviews the Canon PW-10 word processor](https://archive.org/details/ascii-august-1984/ASCII_August_1984?q=絵文字) in its August news section, noting that "各種記号、絵文字をワンタッチで表示することができる" — "various symbols and emoji can be displayed at the touch of a button". No gloss, no scare quotes.
+- 1985: [MSX Magazine's MSX 豆辞典 pocket dictionary supplement](https://archive.org/details/ascii-msx-magazine-supplement-198510/ASCII%20MSX%20Magazine%20supplement%20198510-MsxBeanDictionary?q=絵文字), distributed via Japan National Railways station kiosks, uses 絵文字 as the umbrella term in its entry for アイコン (icon), and gently complains that American influence has wrongly promoted "icon" into the same umbrella role.
+- 1988: [Toshiba's Rupo JW95F word processor manual uses 絵文字](/images/posts/emoji-wapuro-toshiba-jw95f.png) as a column header in its emoji-input reference table, no gloss whatsoever — the most casual possible use of a technical term.
+- 1993: Nojima Hisao publishes "絵文字の心理的効果" ("Psychological Effects of Emoji") in the intellectual monthly 現代のエスプリ. By January 1994 it was being cited internationally in the [Pacific Telecommunications Council conference proceedings](https://archive.org/details/ERIC_ED370541?q=emoji) in Honolulu.
+
+What DoCoMo's 1999 set did was become the international reference point — which is why English borrowed 絵文字 as "emoji" rather than Sharp's or Toshiba's or Sanyo's much earlier sets. The word's invention is fiction. Its globalisation via DoCoMo is real, but only in English. 🌍
 
 ----
 
