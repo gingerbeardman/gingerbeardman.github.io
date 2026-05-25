@@ -3,7 +3,8 @@ layout: post
 title: "Emoji history: the missing years"
 date: '2024-05-10T21:00+01:00'
 modified: '2026-05-25T21:20+01:00'
-tags:- japanese
+tags:
+- japanese
 - emoji
 - design
 - art
