@@ -57,7 +57,7 @@ nouns:
 - SSI/Victor
 image: /images/posts/emoji-history-sharp-pa-8500-emoji-table-20-20.png
 featured: true
-pinned: false
+pinned: true
 comments: https://twitter.com/gingerbeardman/status/1789027585713639563
 style: |
   img[src$='#pi4000'] {
