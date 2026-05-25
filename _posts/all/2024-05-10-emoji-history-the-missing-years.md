@@ -3,8 +3,7 @@ layout: post
 title: "Emoji history: the missing years"
 date: '2024-05-10T21:00+01:00'
 modified: '2026-05-25T21:20+01:00'
-tags:
-- japanese
+tags:- japanese
 - emoji
 - design
 - art
@@ -259,7 +258,7 @@ The word kept showing up in places I wasn't expecting:
 
 What DoCoMo's 1999 set did was become the international reference point — which is why English borrowed 絵文字 as "emoji" rather than Sharp's or Toshiba's or Sanyo's much earlier sets. The word's invention is fiction. Its globalisation via DoCoMo is real, but only in English. 🌍
 
-![IMG](/images/posts/emoji-wapuro-toshiba-jw95f.png "絵文字 as column header in Toshiba's Rupo JW95F word processor manual")
+![IMG](/images/posts/emoji-wapuro-toshiba-jw95f.png "絵文字 as column header in Toshiba's Rupo JW95F word processor manual (1988)")
 {:.tofigure}
 
 ----
