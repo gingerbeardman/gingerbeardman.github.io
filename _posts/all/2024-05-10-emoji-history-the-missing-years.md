@@ -160,6 +160,11 @@ Thanks to a collector, [Akuji](https://www.reddit.com/r/OldHandhelds/comments/sr
 ![PNG](/images/posts/emoji-history-sharp-pa-8500-emoji-table-20-20.png#pa8500 "Emoji present on Sharp PA-8500 (1988)")
 {:.tofigure}
 
+And if you need to see the word 絵文字 (emoji) next to these symbols to be satisfied, then look no further than this table column header in the manual of 1988's Toshiba Rupo JW95F word processor.
+
+![IMG](/images/posts/emoji-wapuro-toshiba-jw95f.png "絵文字 as column header in Toshiba's Rupo JW95F word processor manual (1988)")
+{:.tofigure}
+
 ----
 
 ## How old is an emoji?
@@ -258,9 +263,6 @@ The word kept showing up in places I wasn't expecting:
 - 1993: Nojima Hisao publishes "絵文字の心理的効果" ("Psychological Effects of Emoji") in the intellectual monthly 現代のエスプリ. By January 1994 it was being cited internationally in the [Pacific Telecommunications Council conference proceedings](https://archive.org/details/ERIC_ED370541?q=emoji) in Honolulu.
 
 What DoCoMo's 1999 set did was become the international reference point — which is why English borrowed 絵文字 as "emoji" rather than Sharp's or Toshiba's or Sanyo's much earlier sets. The word's invention is fiction. Its globalisation via DoCoMo is real, but only in English. 🌍
-
-![IMG](/images/posts/emoji-wapuro-toshiba-jw95f.png "絵文字 as column header in Toshiba's Rupo JW95F word processor manual (1988)")
-{:.tofigure}
 
 ----
 
