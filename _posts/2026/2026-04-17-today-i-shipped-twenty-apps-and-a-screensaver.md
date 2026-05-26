@@ -19,7 +19,7 @@ nouns:
 - App Store Connect
 image: /images/posts/wall-of-apps.png
 featured: true
-pinned: false
+pinned: true
 donate: false
 style: |
   .chip {
