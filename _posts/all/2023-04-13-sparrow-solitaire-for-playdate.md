@@ -54,7 +54,7 @@ An interesting point about the first two versions of the computer game: they bot
 
 My initial explorations around 1-bit graphics happened on Macintosh, long before I had ever held a Playdate in my hands. I explored fill patterns, dithering algorithms (eventually discovering and popularising a [little known algorithm](https://hbfs.wordpress.com/2013/12/31/dithering/)), old drawing software optimised for 1-bit graphics, and diving head first into old clip art collections. Sparrow Solitaire could be considered the culmination of all of this exploration and gathered knowledge presented in a single game.
 
-Once I got hold of a Playdate (eternal thanks, [Louie](http://lmnt.me)!) I started thinking about implementation details. Coding prototypes, figuring out sizes, textures, shadows, frame rate, tricks, optimisations, but with no particular game in mind. Just sailing free across a sea of ideas.
+Once I got hold of a Playdate I started thinking about implementation details. Coding prototypes, figuring out sizes, textures, shadows, frame rate, tricks, optimisations, but with no particular game in mind. Just sailing free across a sea of ideas.
 
 I struck upon a novel way to generate patterns of dots. Instead of using organised Beyer dither patterns, I used error diffusion dithering and fed it a solid colour. When a shade of grey is run through Burkes dithering algorithm it produces organic-looking patterns of dots that are ever so pleasing to the eye. Interestingly, other dithering algorithms don't exhibit the same result. This image became a catalyst and the core of Sparrow Solitaire.
 
