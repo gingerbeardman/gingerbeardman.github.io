@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
-modified: '2026-05-06T18:51+01:00'
+modified: '2026-05-28T18:26+01:00'
 date: '2023-10-21T16:56+01:00'
 tags:
 - graphics
@@ -39,7 +39,7 @@ The table below is a snapshot of [selected columns of a Google Sheet](https://do
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
-Total entries: 267
+Total entries: 272
 
 <div class="table-wrapper" markdown="block">
 | Platform | English | Japanese | Year | Developer |
@@ -161,6 +161,7 @@ Total entries: 267
 | PC-98 | ArtCore (Art/V?) |  | 1992 | SystemSoft |
 | PC-98 | Assist Art | アシストアート | 1991 | Assist Co., Ltd. |
 | PC-98 | Ayako | 彩子 | 1988 | Art Function |
+| PC-98 | Camel | キャメル | ? | Nazca Corporation |
 | PC-98 | CANDY |  | 1984 | ASCII |
 | PC-98 | CANDY2 |  | 1985 | ASCII |
 | PC-98 | Character Maker 98 | キャラクターツクール98 | 1994 | Pegasus Japan |
@@ -183,11 +184,14 @@ Total entries: 267
 | PC-98 | Monopen | ものぺん | 1995 | OEAO |
 | PC-98 | Multi Paint System / MPS | マルチペイントシステム | 1992 | C-Lab |
 | PC-98 | Paint System Tool / PST | 似非キース | 1990 | hironon |
+| PC-98 | Paper | 紙 | ? | Irem |
 | PC-98 | Penta-kun | ぺん太くん | 1994 | NEG |
+| PC-98 | Sadayan Paint | さだやんペイント | ? | Irem |
 | PC-98 | SANDY |  | 1994 | Wataru Ishihara |
 | PC-98 | Small CANDY |  | 1984 | ASCII |
 | PC-98 | Super Tableau | スーパータブロー | 1987 | SAPIENCE |
 | PC-98 | Tableau |  | 1987 | SAPIENCE |
+| PC-98 | Tetsujin | 鉄人 | ? | Irem |
 | PC-98 | TrueLine |  | 1996 | OEAO |
 | PC-98 | Z's STAFF |  | 1985 | Zeit |
 | PC-98 | Z's STAFF Kid |  | 1986 | Zeit |
@@ -217,6 +221,7 @@ Total entries: 267
 | Windows 9x | ArtistX Labolt |  | 2005 | ARINOKI |
 | Windows 9x | AZPainter |  | 2006 | Azel |
 | Windows 9x | AZPainter2 |  | 2009 | Azel |
+| Windows 9x | Camel2 | キャメル2 | 1995 | Nazca Corporation |
 | Windows 9x | D-Pixed |  | 2000 | Jun Doi |
 | Windows 9x | DoggyPaint |  | 2000 | HKR.Jon |
 | Windows 9x | Dot Art Kakiko | ドット絵カキコ | 2000 | YUUKI |
