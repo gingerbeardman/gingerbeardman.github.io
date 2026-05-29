@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
-modified: '2026-05-28T18:26+01:00'
+modified: '2026-05-29T14:04+01:00'
 date: '2023-10-21T16:56+01:00'
 tags:
 - graphics
@@ -20,6 +20,7 @@ nouns:
 - Google Sheet
 - Google
 featured: true
+pinned: true
 image: /images/posts/list-of-vintage-japanese-pixel-dot-art-software.jpg
 comments: https://twitter.com/gingerbeardman/status/1714384114684416041
 
@@ -27,7 +28,7 @@ comments: https://twitter.com/gingerbeardman/status/1714384114684416041
 
 For a while now I've been collecting references to old Japanese pixel/dot art software. My main sources of information are the treasure trove of scanned magazines on Internet Archive, Twitter archives, YouTube videos, Yahoo! Japan Auctions listings, and Google search. I've been keeping this list for a while, and the release of [*16bit Sensation: Another Layer*](https://myanimelist.net/anime/54041/16bit_Sensation__Another_Layer) and its inclusion of [*Multi Paint System*](https://www.youtube.com/watch?v=nIdFor2WOnw) made me realise I should make the list public.
 
-A long term goal would be to find files for each of these so they can be actively used and documented more fully. But that might never happen if it's left to just me...so feel free to get involved!
+A long term goal would be to find files for each of these so they can be actively used and documented more fully. Most have them can be found in archives of preserved software, with clues in the spreadsheet below, and you can try them using emulation or [Virtual Machines](https://virtualosmuseum.org).
 
 [![Funny (pixel art software) & CANDY (technical drawing software)](/images/posts/list-of-vintage-japanese-pixel-dot-art-software.jpg)](https://archive.org/details/login-march-1985/LOGiN%20-%20March%201985/page/n75/mode/2up)
 
@@ -35,7 +36,7 @@ A long term goal would be to find files for each of these so they can be activel
 
 The table below is a snapshot of [selected columns of a Google Sheet](https://docs.google.com/spreadsheets/d/17RhWfM2wXW4A-MkQdC6W-w00zHM2tbLfpzuSTD8woMs/edit#gid=0) that I'm updating over time. The full spreadsheet contains links to downloads, videos, web pages, magazine mentions, and many other references. So be sure to check, bookmark or subscribe to that link for the very latest information. Since January 2024 I've been adding some non-Japanese software that was "big in Japan".
 
- Regarding the empty cells: software missing a Japanese name was mostly referred to only by an English title. The rest of the missing information is TBC.
+Regarding the empty cells: software missing a Japanese name was mostly referred to only by an English title. The rest of the missing information is TBC.
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
