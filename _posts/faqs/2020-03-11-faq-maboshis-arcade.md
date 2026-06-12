@@ -5,6 +5,7 @@ date: '2020-03-11T00:00:00Z'
 tags:
 - faq
 - guide
+- maboshi
 ---
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
