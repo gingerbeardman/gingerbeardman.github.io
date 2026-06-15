@@ -6,6 +6,8 @@ tags:
 - poweruser
 - web
 - captcha
+- hack
+- workaround
 nouns:
 - Cloudflare
 - Turnstile
