@@ -32,6 +32,10 @@
     border-bottom: 0;
   }
 
+  &--pinned {
+    border-bottom-width: 2px;
+  }
+
   &--post {
     padding: 0;
   }

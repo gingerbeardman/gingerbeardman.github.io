@@ -1,7 +1,7 @@
 {% if include.published != 'private' %}
 <div class='o-grid__col--full o-grid__col--final'>
 
-  <a href='{{ include.purl | prepend: include.sbaseurl }}' class='c-post-card'>
+  <a href='{{ include.purl | prepend: include.sbaseurl }}' class='c-post-card{% if include.ppinned %} c-post-card--pinned{% endif %}'>
     <h3 class='c-post-card__title'>
       {{ include.ptitle }}
       <span class="u-right">
