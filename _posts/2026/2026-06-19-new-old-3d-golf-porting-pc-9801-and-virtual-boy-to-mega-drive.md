@@ -62,7 +62,7 @@ I guess T&E SOFT used the same POLYSYS CAD software to design all the courses ov
 
 ----
 
-That last part is the really fun bit. (Can this even be more fun?)
+That last part is the really fun bit. (Can this even *be* more fun?)
 
 Here are three courses running on real Mega Drive hardware for the first time:
 
