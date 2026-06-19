@@ -104,4 +104,4 @@ It would be possible to release a small script which given both original games w
 
 I'd love to [see these ported courses released officially](https://bsky.app/profile/gingerbeardman.com/post/3mnhbioqr4s2f) some day—the series IP lives on with D4 Enterprise—so if you know anybody there please hook us up!
 
-But for now it's just me, a bunch of disassembly files, rizin and vasmm68k, blastem emulator, and a lifelong soft spot for blue skies and FM synth. 👌
+But for now it's just me, a pile of disassembly files, rizin and vasmm68k, the BlastEm emulator, and a soft spot for blue skies and FM synth — still trying to get the ball in the hole. 👌
