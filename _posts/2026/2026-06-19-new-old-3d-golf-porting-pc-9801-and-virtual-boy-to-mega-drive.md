@@ -2,7 +2,7 @@
 layout: post
 title: "New (Old) 3D Golf: porting PC-9801 & Virtual Boy to Mega Drive"
 date: '2026-06-19T17:26+01:00'
-modified: '2026-06-19T22:19+01:00'
+modified: '2026-06-19T22:30+01:00'
 tags:
 - japanese
 - golf
@@ -55,9 +55,14 @@ Once that was sorted, I gave the 32-year-old game some [brand new, custom user i
 
 Next I wondered if the course data was the same across all of the four Mega Drive games, could it be the same across the games on other platforms? The answer is yes: [the same course data format](https://bsky.app/profile/gingerbeardman.com/post/3ml2k552qis2f) turns out to be used right across the series, from the original PC-9801 games (and almost certainly X68000 and FM Towns) through to the Mega Drive and even the Virtual Boy. If my (little-endian) maths is correct that's a total of 7 unique courses, all sharing one format. And since I could already read the courses, I could write them too—patching the games to pick a course at random, or to load one that was never available on the Mega Drive in the first place.
 
-That last part is the really fun bit. (Can this even be more fun?)
+I guess T&E SOFT used the same POLYSYS CAD software to design all the courses over several years? I love that such a tool could have that sort of longevity.
+
+![IMG](/images/posts/new-old-golf-polysyscad.jpg "ポリシスCAD (POLYSYS CAD) PC software used to design hole topology mesh of only ~256 points")
+{:.tofigure}
 
 ----
+
+That last part is the really fun bit. (Can this even be more fun?)
 
 Here are three courses running on real Mega Drive hardware for the first time:
 
@@ -76,9 +81,12 @@ Extracted from the PC-9801 add-on course disk:
 
 Also extracted from PC-9801 add-on course disk:
 
+{% youtube J0PliXErDNU 4/3 %}
+
 > A fact perhaps only I care about: [during development, prior to Feb 1990, it was *Seven Lakes G.C.*](https://bsky.app/profile/gingerbeardman.com/post/3mmmt2mkrzc2z)
 
-{% youtube J0PliXErDNU 4/3 %}
+![Seven Lakes G.C.](/images/posts/new-old-golf-seven-lakes.webp "Seven Lakes G.C., as seen in Comptiq Vol. 63 & Oh! PC Issue 117")
+{:.tofigure}
 
 ----
 
