@@ -42,7 +42,7 @@ comments:
 
 The Japanese Mega Drive ports of T&E SOFT's [New 3D Golf Simulation](/2024/11/09/new-3d-golf-simulation-video-game-series/) series are my favourite golf games, and recently I've been living inside their ROMs.
 
-As with all the craziest ideas, it began with a "I wonder if I could"… In the early hours of one April morning I managed to pull a single course out of the game—its terrain and flyby data—and reimplement it in a viewer of my own, written in Three.js. Over the following week or so of continued reverse engineering, that viewer quietly grew into a pretty much complete 3D golf game running in the browser.
+As with all the craziest ideas, it began with a "I wonder if I could"… In the early hours of one April morning I managed to pull a single course out of the game—its terrain and flyby data—and reimplement it in a viewer of my own, written in Three.js. Over the following week or so of continued reverse engineering, that viewer quietly grew into something resembling a 3D golf game running in the browser.
 
 Understanding the data that well meant I could go the other way, too—[back into the original Mega Drive games](https://bsky.app/profile/gingerbeardman.com/post/3mkgnbdzljc2o) themselves. First I added a terrain modifier. To test it I [flattened the entire course as flat as a pancake](https://bsky.app/profile/gingerbeardman.com/post/3mkkxeaebm22c) to check it was working, then cranked it up to 11 into a sort of ["Hyperactive Terrain Mode"](https://bsky.app/profile/gingerbeardman.com/post/3mkpwexii4c2t) that warps the fairways into something wild.
 
