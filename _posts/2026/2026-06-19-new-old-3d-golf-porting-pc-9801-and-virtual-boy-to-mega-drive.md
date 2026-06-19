@@ -2,7 +2,7 @@
 layout: post
 title: "New (Old) 3D Golf: porting PC-9801 & Virtual Boy to Mega Drive"
 date: '2026-06-19T17:26+01:00'
-modified: '2026-06-19T22:04+01:00'
+modified: '2026-06-19T22:19+01:00'
 tags:
 - japanese
 - golf
@@ -66,7 +66,7 @@ Here are three courses running on real Mega Drive hardware for the first time:
 Extracted from the PC-9801 add-on course disk:
 
 > This course is somewhat unique as it has messages spelled using coloured topology:  
-> the first hole has "GO!" and the last hole has "T&E"
+> the 1st has "GO!" by the tee position; the 18th has "T&E" just beyond the final green
 
 {% youtube duXwfq-F-CA 4/3 %}
 
