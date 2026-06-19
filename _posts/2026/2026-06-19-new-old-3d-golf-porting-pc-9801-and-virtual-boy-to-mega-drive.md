@@ -50,7 +50,7 @@ An early attempt changed its mind on every run; turned out I was seeding it from
 
 Once that was sorted, I gave the 32-year-old game some [brand new, custom user interface](https://bsky.app/profile/gingerbeardman.com/post/3mkt6k57nlc2e) to match.
 
-{% youtube HHbEVRtbw7Q %}
+{% youtube HHbEVRtbw7Q 4/3 %}
 
 Next I wondered if the course data was the same across all of the four Mega Drive games, could it be the same across the games on other platforms? The answer is yes: [the same course data format](https://bsky.app/profile/gingerbeardman.com/post/3ml2k552qis2f) turns out to be used right across the series, from the original PC-9801 games (and almost certainly X68000 and FM Towns) through to the Mega Drive and even the Virtual Boy. If my (little-endian) maths is correct that's a total of 7 unique courses, all sharing one format. And since I could already read the courses, I could write them too—patching the games to pick a course at random, or to load one that was never available on the Mega Drive in the first place.
 
@@ -67,7 +67,7 @@ Extracted from the PC-9801 add-on course disk:
 > This course is somewhat unique as it has messages spelled using coloured topology:  
 > the first hole has "GO!" and the last hole has "T&E"
 
-{% youtube duXwfq-F-CA %}
+{% youtube duXwfq-F-CA 4/3 %}
 
 ----
 
@@ -77,7 +77,7 @@ Also extracted from PC-9801 add-on course disk:
 
 > A fact perhaps only I care about: [during development, prior to Feb 1990, it was *Seven Lakes G.C.*](https://bsky.app/profile/gingerbeardman.com/post/3mmmt2mkrzc2z)
 
-{% youtube J0PliXErDNU %}
+{% youtube J0PliXErDNU 4/3 %}
 
 ----
 
@@ -87,7 +87,7 @@ Extracted from the Virtual Boy game *T&E Virtual Golf*:
 
 > It's called Papillon—the French word for butterfly—because the course holes were laid out in the shape of a butterfly. Which was surely a nod to the shape of the Virtual Boy controller.
 
-{% youtube 8Hpnm4w4EDU %}
+{% youtube 8Hpnm4w4EDU 4/3 %}
 
 That last one needed a little extra work. T&E Golf on Virtual Boy doesn't have a hole flyby, so I had to generate the camera path myself: a bezier curve from tee to pin, nudged towards the centre point of the visible course as it appears on the mini-map.
 
