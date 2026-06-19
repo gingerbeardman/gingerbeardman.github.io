@@ -5,6 +5,7 @@ tags:
 - golf
 - scans
 - patreon
+- tesoft
 nouns:
 - T&E SOFT
 - Harukanaru Augusta

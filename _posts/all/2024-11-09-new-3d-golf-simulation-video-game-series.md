@@ -8,7 +8,7 @@ tags:
 - golf
 - videogame
 - history
-- tandesoft
+- tesoft
 nouns:
 - World Class Leader Board
 - Microprose Golf

@@ -8,7 +8,7 @@ tags:
 - videogame
 - review
 - '2009'
-- tandesoft
+- tesoft
 - golf
 - tumblr
 tumblr_url: https://dreampast.tumblr.com/post/642594822932299776/less-is-more-a-little-bit-of-was-series-of
