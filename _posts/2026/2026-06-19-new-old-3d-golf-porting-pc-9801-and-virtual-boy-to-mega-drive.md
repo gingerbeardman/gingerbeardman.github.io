@@ -2,6 +2,7 @@
 layout: post
 title: "New (Old) 3D Golf: porting PC-9801 & Virtual Boy to Mega Drive"
 date: '2026-06-19T17:26+01:00'
+modified: '2026-06-19T22:04+01:00'
 tags:
 - japanese
 - golf
@@ -97,6 +98,10 @@ Playing these on Mega Drive is truly special and the effort was very much worthw
 
 ## What Next?
 
-I'd love to [see them released officially](https://bsky.app/profile/gingerbeardman.com/post/3mnhbioqr4s2f) some day—the series IP lives on with D4 Enterprise—so if you know anybody there please hook us up!
+There's an extra bit of hacking I'm working on but am unsure if it will lead to anything, but if it does it will need a post all of its own. Hold your thumbs. Fingers crossed. 🤞
+
+It would be possible to release a small script which given both original games would do the extraction and patching, but for now I don't feel comfortable doing that. I still need to figure out the correct tree mapping for each game, decide which of the four Mega Drive games is most suited to each of the three new courses, add new title screens and a few more bits of detail work.
+
+I'd love to [see these ported courses released officially](https://bsky.app/profile/gingerbeardman.com/post/3mnhbioqr4s2f) some day—the series IP lives on with D4 Enterprise—so if you know anybody there please hook us up!
 
 But for now it's just me, a bunch of disassembly files, rizin and vasmm68k, blastem emulator, and a lifelong soft spot for blue skies and FM synth. 👌
