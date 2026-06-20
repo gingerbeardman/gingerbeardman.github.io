@@ -21,8 +21,10 @@ nouns:
 - Eight Lakes G.C.
 - Seven Lakes G.C.
 - Papillon C.C.
+- NEC PC-9801
 - PC-9801
 - PC-98
+- Nintendo Virtual Boy
 - Virtual Boy
 - T&E Golf
 - Sega Mega Drive
@@ -68,7 +70,7 @@ Here are three courses running on the Mega Drive for the first time:
 
 ## T&E Selection
 
-Extracted from the [PC-9801 add-on course disk](https://www.mobygames.com/game/102547/new-3d-golf-simulation-te-selection/):
+Extracted from the [NEC PC-9801 add-on course disk](https://www.mobygames.com/game/102547/new-3d-golf-simulation-te-selection/):
 
 > This course is somewhat unique as it has messages spelled using coloured topology:  
 > the 1st has "GO!" by the tee position; the 18th has "T&E" just beyond the final green
@@ -79,7 +81,7 @@ Extracted from the [PC-9801 add-on course disk](https://www.mobygames.com/game/1
 
 ## Eight Lakes G.C.
 
-Also extracted from [PC-9801 add-on course disk](https://www.mobygames.com/game/71396/new-3d-golf-simulation-eight-lakes-gc/):
+Also extracted from [NEC PC-9801 add-on course disk](https://www.mobygames.com/game/71396/new-3d-golf-simulation-eight-lakes-gc/):
 
 {% youtube J0PliXErDNU 4/3 %}
 
@@ -92,7 +94,7 @@ Also extracted from [PC-9801 add-on course disk](https://www.mobygames.com/game/
 
 ## Papillon C.C.
 
-Extracted from the Virtual Boy game [T&E Virtual Golf](https://www.mobygames.com/game/15306/golf/):
+Extracted from the Nintendo Virtual Boy game [T&E Virtual Golf](https://www.mobygames.com/game/15306/golf/):
 
 > It's called Papillon—the French word for butterfly—because the course holes were laid out in the shape of a butterfly. Which was surely a nod to the shape of the Virtual Boy controller.
 
