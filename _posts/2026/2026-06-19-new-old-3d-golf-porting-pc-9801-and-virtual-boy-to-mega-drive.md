@@ -2,7 +2,7 @@
 layout: post
 title: "New (Old) 3D Golf: porting PC-9801 & Virtual Boy to Mega Drive"
 date: '2026-06-19T17:26+01:00'
-modified: '2026-06-20T01:17+01:00'
+modified: '2026-06-20T11:27+01:00'
 tags:
 - japanese
 - golf
@@ -43,9 +43,9 @@ comments:
 
 The Japanese Mega Drive ports of T&E SOFT's [New 3D Golf Simulation](/2024/11/09/new-3d-golf-simulation-video-game-series/) series are my favourite golf games, and recently I've been living inside their ROMs.
 
-As with all the craziest ideas, it began with a "I wonder if I could"… In the early hours of one April morning I managed to pull a single course out of the game—its terrain and flyby data—and reimplement it in a viewer of my own, written in Three.js. Over the following week or so of continued reverse engineering, that viewer quietly grew into something resembling a 3D golf game running in the browser.
+As with all the craziest ideas, it began with a "I wonder if I could"… In the early hours of one April morning I managed to pull a single course out of the game—its terrain and flyby data—and reimplement it in a viewer of my own, written in Three.js. Over the following week or so of continued reverse engineering, that viewer quietly grew into something resembling a 3D golf game running in the browser. Finding the data had some big clues: we know that there are 18 holes, the distances of each hole and their sequence order, and I'd read the courses were made of ~256 points, so adding all these heuristics together meant it was much easier to find the data than finding a needle in a haystack.
 
-Understanding the data that well meant I could go the other way, too—[back into the original Mega Drive games](https://bsky.app/profile/gingerbeardman.com/post/3mkgnbdzljc2o) themselves. First I added a terrain modifier. To test it I [flattened the entire course as flat as a pancake](https://bsky.app/profile/gingerbeardman.com/post/3mkkxeaebm22c) to check it was working, then cranked it up to 11 into a sort of ["Hyperactive Terrain Mode"](https://bsky.app/profile/gingerbeardman.com/post/3mkpwexii4c2t) that warps the fairways into something wild.
+Understanding the data that well meant I could go the other way, too—[back into the original Mega Drive games](https://bsky.app/profile/gingerbeardman.com/post/3mkgnbdzljc2o) themselves. First I added a terrain modifier. To test it I [flattened the entire course like a pancake](https://bsky.app/profile/gingerbeardman.com/post/3mkkxeaebm22c) to confirm my understanding was correct, and then cranked it up to 11 into a sort of ["Hyperactive Terrain Mode"](https://bsky.app/profile/gingerbeardman.com/post/3mkpwexii4c2t) that warps the fairways into something wild. Both worked well.
 
 An early attempt changed its mind on every run; turned out I was seeding it from an uninitialised memory location. 🤦 With no debugger console to hand, I'd been hunting bugs like this the crude way—scribbling values into the cartridge's SRAM (its battery-backed save memory) and reading them back out, a poor man's `printf`. So it wasn't exactly straightforward.
 
@@ -53,11 +53,11 @@ Once that was sorted, I gave the 32-year-old game some [brand new, custom user i
 
 {% youtube HHbEVRtbw7Q 4/3 %}
 
-Next I wondered if the course data was the same across all of the four Mega Drive games, could it be the same across the games on other platforms? The answer is yes: [the same course data format](https://bsky.app/profile/gingerbeardman.com/post/3ml2k552qis2f) turns out to be used right across the series, from the original PC-9801 games (and almost certainly X68000 and FM Towns) through to the Mega Drive and even the Virtual Boy. If my (little-endian) maths is correct that's a total of 7 unique courses, all sharing one format. And since I could already read the courses, I could write them too—patching the games to pick a course at random, or to load one that was never available on the Mega Drive in the first place.
+Next I wondered if the course data was the same across all of the four Mega Drive games, could it be the same across the games on other platforms? The answer is yes: [the same course data format](https://bsky.app/profile/gingerbeardman.com/post/3ml2k552qis2f) turns out to be used right across the series, from the original PC-9801 games (and almost certainly X68000 and FM Towns) through to the Mega Drive and even the Virtual Boy. If my (little-endian) maths is correct that's a total of 7 unique courses, all sharing one format. There's some reformatting that needs to be done, but the data structure is the same. And since I could already read the courses, I could write them too—patching the games to pick a course at random, or to load one that was never available on the Mega Drive in the first place. PC-9801 to Mega Drive required sorting the polygons to match how they were expected to be stored.
 
-I guess T&E SOFT used the same POLYSYS CAD software to design all the courses over several years? I love that such a tool could have that sort of longevity.
+But I guess T&E SOFT used the same POLYSYS-CAD software to design all the courses over several years? I love how such a tool could have that sort of longevity.
 
-![IMG](/images/posts/new-old-golf-polysyscad.jpg "ポリシスCAD (POLYSYS CAD) PC software used to design hole topology mesh of only ~256 points")
+![IMG](/images/posts/new-old-golf-polysyscad.jpg "ポリシスCAD (POLYSYS-CAD) PC software used to design hole topology mesh of only ~256 points")
 {:.tofigure}
 
 ----
@@ -124,6 +124,7 @@ Reverse engineering only tells you *what* the games do; for the *why*, I went di
 - **The 3D engine came first.** T&E's POLYSYS pre-dated the golf games by a couple of years, already appearing—only in the 3D intro logos, as far as I can tell—in *DAIVA STORY 7: Light of Kali Yuga* and *Psy-O-Blade*.
 - **Trees were nearly real 3D.** They tried modelling trees as polygons, leaves and all—but one tree took as long to draw as a whole screen. So scaled sprites were used instead.
 - **The first game had no hills.** T&E's *3-D Golf Simulation*, written in BASIC six years earlier, had no terrain undulation at all—and on the Sharp X1, 18 holes took *half a day* to play through.
+- **POLYSYS was meant to be general-purpose:** swap the data and it renders anything. T&E planned an RPG and a shooter on it and intended to license it to other software houses.
 - One programmer, mostly: **Eiji Kato** (加藤英治).
 
 And the *Augusta* course itself came with a wonderful backstory:
@@ -142,6 +143,8 @@ There's an extra bit of hacking I'm working on but am unsure if it will lead to 
 
 It would be possible to release a small script which given both original games would do the extraction and patching, but for now I don't feel comfortable doing that. I still need to figure out the correct tree mapping for each game, decide which of the four Mega Drive games is most suited to each of the three new courses, add new title screens and a few more bits of detail work.
 
-I'd love to [see these ported courses released officially](https://bsky.app/profile/gingerbeardman.com/post/3mnhbioqr4s2f) some day—the series IP lives on with D4 Enterprise—so if you know anybody there please hook us up!
+I'd love to [see these ported courses released officially](https://bsky.app/profile/gingerbeardman.com/post/3mnhbioqr4s2f) some day—the series IP is now owned and managed by D4 Enterprise—so if you know anybody there please hook us up! If you are an employee of D4 Enterprise then please check my request to licence the IP. 🙏
+
+There are more period games in the series that I'd like to take a look at to see if they use the same data format, or modify it in any specific way. SNES and 3DO seem to be the most interesting. 🧐
 
 But for now it's just me, a pile of disassembly files, rizin and vasmm68k, the BlastEm emulator, and a soft spot for blue skies and FM synth — still trying to get the ball in the hole. ⛳️🏌️‍♂️
