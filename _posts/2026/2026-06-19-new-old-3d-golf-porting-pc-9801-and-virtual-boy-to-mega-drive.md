@@ -104,6 +104,38 @@ Playing these on Mega Drive is truly special and the effort was very much worthw
 
 ----
 
+## A few things I learned along the way
+
+Living inside the disassembly for weeks, I kept tripping over the little decisions T&E SOFT made all those years ago. Some are clever, some are quietly bonkers, and all of them made me grin:
+
+- **The hole is three times too big.** The cup grabs any ball within ~6.7 inches—triple a real hole's radius—so balls drop from further out than they look. A fudge for the 320×224 screen, where ball and cup were both sub-pixel.
+- **The polygons pre-sort themselves.** No depth buffer on the Mega Drive, so the draw order is baked into the course data, back-to-front (the painter's algorithm). The giveaway: it doesn't match the original PC-9801 CAD order.
+- **Backspin can reverse a putt.** Spin isn't cosmetic: it's fed back into the roll and can make the ball check up and trickle backwards. Real ballistic physics in a 1993 cartridge. Love it!
+- **Water isn't a hazard—just very sticky.** There's no "in the water" state; water polygons carry friction so high it kills the ball in one frame. The penalty falls out of the ordinary maths.
+- **Wind is a real force, not an aim fudge.** It becomes a horizontal acceleration applied every frame of flight, exactly like gravity.
+- **Augusta's wind never actually changes.** The direction is never written—only strength varies. The arrow only seems to swing because it's drawn relative to the camera.
+
+----
+
+## What the old magazines turned up
+
+Reverse engineering only tells you *what* the games do; for the *why*, I went digging through a stack of Japanese computer magazines from the era, OCRing the scans to pull out the text. A 1989 developer interview about *Harukanaru Augusta* (遙かなるオーガスタ)—the PC-9801 original that kicked off the series—turned out to be a goldmine:
+
+- **The 3D engine came first.** T&E's POLYSYS pre-dated the golf games by a couple of years, already appearing—only in the 3D intro logos, as far as I can tell—in *DAIVA STORY 7: Light of Kali Yuga* and *Psy-O-Blade*.
+- **Trees were nearly real 3D.** They tried modelling trees as polygons, leaves and all—but one tree took as long to draw as a whole screen. So scaled sprites were used instead.
+- **The first game had no hills.** T&E's *3-D Golf Simulation*, written in BASIC six years earlier, had no terrain undulation at all—and on the Sharp X1, 18 holes took *half a day* to play through.
+- One programmer, mostly: **Eiji Kato** (加藤英治).
+
+And the *Augusta* course itself came with a wonderful backstory:
+
+- **They licensed the real thing.** An official contract with Augusta National, working from the club's blueprints. Staff visited, didn't play, but "rubbed their cheeks on the grass."
+- **Augusta sent back ~60 corrections:** eg. pine trees too short and too spread out, flowers too pink, bunker sand the wrong colour.
+- **No do-overs, by design.** You could save mid-round, but loading erased the save data—so no replaying holes to pad your score.
+- **Best of all:** the dev build's four caddies were all women. Augusta's are all men, so the final game swapped them. The ladies returned in the expansion courses and Mega Drive games.
+- **The T&E Selection caddies are real people:** four women who worked at **Brother Industries**—whose **TAKERU** software vending machines sold these add-on course disks.
+
+----
+
 ## What Next?
 
 There's an extra bit of hacking I'm working on but am unsure if it will lead to anything, but if it does it will need a post all of its own. Hold your thumbs. Fingers crossed. 🤞
