@@ -2,7 +2,7 @@
 layout: post
 title: "New (Old) 3D Golf: porting PC-9801 & Virtual Boy to Mega Drive"
 date: '2026-06-19T17:26+01:00'
-modified: '2026-06-19T22:30+01:00'
+modified: '2026-06-20T01:17+01:00'
 tags:
 - japanese
 - golf
