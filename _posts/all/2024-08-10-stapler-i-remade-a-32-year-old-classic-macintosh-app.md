@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stapler: I remade a 32 year old classic Macintosh app"
-modified: '2024-09-04T16:20+01:00'
+modified: '2026-06-20T12:10+01:00'
 date: '2024-08-10T22:00+01:00'
 tags:
 - software
@@ -35,6 +35,9 @@ pinned: false
 comments: https://twitter.com/gingerbeardman/status/1821978186433097812
 
 ---
+
+> The latest version of this app is now available as a free download on the Mac App Store.  
+> More info on my apps website at: [gingerbeardman.com/apps/stapler/](https://www.gingerbeardman.com/apps/stapler)
 
 A couple of days ago I was [reading on Hacker News about a feature in some *Linux* window managers where they allow collections of tabs from different apps](https://news.ycombinator.com/item?id=41192547).
 
