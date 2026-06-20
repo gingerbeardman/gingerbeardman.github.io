@@ -47,8 +47,6 @@ So over the past day or so I built my own take on this concept for modern macOS!
 
 Whilst my app is inspired by both Stapler (right down to the name) and LaunchList, my app adds improvements and features of its own and is more of a hybrid of both. For example, Stapler didn't have drag and drop and LaunchList didn't have zero-click auto-launch. My goal was to keep it as simple as possible, but no simpler. To that end, there are no preferences or settings in the app.
 
-Full details, download, and usage are at the GitHub repo: [github.com/gingerbeardman/stapler](https://github.com/gingerbeardman/stapler)
-
 ----
 
 ![PNG](/images/posts/stapler.png "Stapler, for modern macOS (12.0 or newer)")
@@ -79,10 +77,6 @@ I store the items as JSON in the saved file, simply because I prefer it to XML (
 The files are launched using the default app specified by that file, so it can be changed on a per-file basis. Individual images might open in an image editor, image viewer, app to run OCR, script to run OCR on it, etc.
 
 Dealing with files was both cool and annoying, cool that you can get the bookmarks to files so easily, but annoying that you have to jump through so many hoops to work around the security and sandbox protections and end up having to do file requests in a long-winded way, and then there's having to tweak plist entries to give the app just the right permissions. I'm using some features of SwiftUI that mean the app can't run on anything before macOS 14 Sonoma. All-in-all I'd say modern macOS development is a bit of a mixed bag. Take it or leave it.
-
-## Icon
-
-Given that this was a quick weekend project, I kind of lost steam when it came to the icon. I'd love a better app icon, as well as a specific document icon, so [new icons are being worked on by a designer](https://github.com/gingerbeardman/stapler/discussions/24).
 
 ## Bonus tip
 
