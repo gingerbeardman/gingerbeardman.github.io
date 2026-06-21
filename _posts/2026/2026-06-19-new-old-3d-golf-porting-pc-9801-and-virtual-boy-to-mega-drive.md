@@ -145,7 +145,7 @@ There's an extra bit of hacking I'm working on but am unsure if it will lead to 
 
 It would be possible to release a small script which given both original games would do the extraction and patching, but for now I don't feel comfortable doing that. I still need to figure out the correct tree mapping for each game, decide which of the four Mega Drive games is most suited to each of the three new courses, add new title screens and a few more bits of detail work.
 
-I'd love to [see these ported courses released officially](https://bsky.app/profile/gingerbeardman.com/post/3mnhbioqr4s2f) some day—the series IP is now owned and managed by D4 Enterprise—so if you know anybody there please hook us up! If you are an employee of D4 Enterprise then please check my request to licence the IP. 🙏
+I'd love to [see these ported courses released officially](https://bsky.app/profile/gingerbeardman.com/post/3mnhbioqr4s2f) some day—the series IP is now owned and managed by D4 Enterprise—so if you know anybody there please hook us up! If you are an employee of D4 Enterprise then please check my request to license the IP. 🙏
 
 There are more period games in the series that I'd like to take a look at to see if they use the same data format, or modify it in any specific way. SNES and 3DO seem to be the most interesting. 🧐
 
