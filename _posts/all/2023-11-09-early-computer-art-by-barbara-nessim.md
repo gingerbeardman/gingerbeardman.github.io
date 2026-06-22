@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early computer art by Barbara Nessim (1984)"
-modified: '2024-09-21T23:29+01:00'
+modified: '2026-06-22T13:59+01:00'
 date: '2023-11-09T01:25+00:00'
 tags:
 - graphics
@@ -55,7 +55,7 @@ Barbara was one of few people to embrace computers for art in the early-1980s, w
 
 ## Further reading (chronological)
 
-- [U&lc (Upper & Lower Case) Magazine, Vol. 10, No. 4 (1983)](https://archive.org/details/ulc-magazine/Volume%2010-4/page/36/mode/2up) **Essential reading.** "From pencils to pixels: artist Barbara Nessim explores the new tool" by *Marion Muller*. Published at a time when there was great unease about the arrival of computers in the world of graphics. This is a fantastic piece that goes into how the works were created, even down to which tools or shapes were used to draw particular aspects of a drawing and how they were layered, and mostly shows Barbara's love for the arc tool! It also describes the IPS-2 computer system. and look at that page layout!
+- [U&lc (Upper & Lower Case) Magazine, Vol. 10, No. 4 (1983)](https://archive.org/details/volume-7-2_202511/Volume%2010-4/page/36/mode/2up) **Essential reading.** "From pencils to pixels: artist Barbara Nessim explores the new tool" by *Marion Muller*. Published at a time when there was great unease about the arrival of computers in the world of graphics. This is a fantastic piece that goes into how the works were created, even down to which tools or shapes were used to draw particular aspects of a drawing and how they were layered, and mostly shows Barbara's love for the arc tool! It also describes the IPS-2 computer system. and look at that page layout!
 - [BYTE magazine, Vol. 08, No. 07 - Videotex (July 1983)](https://drive.google.com/file/d/12QcmZ0Z0srtZBkNTvh5p36En71lSUOXi/view) 49 pages on Videotex and NAPLPS graphics. Excerpted PDF provided by the [Telidon Art Project](https://sites.google.com/view/telidonartproject/). Full magazine available at [archive.org](https://archive.org/details/byte-magazine-1983-07-rescan/page/n85/mode/2up).
 - [Graphis 232 (1984)](https://store.graphis.com/products/issue-232-digital-version) "Computer Images" Barbara writes a small introduction to a selection of computer art created by other artists. Notable for her description of how a Video Image Recorder works.
 - Video: [Face To Face (1984)](https://www.youtube.com/watch?v=vAKWR2b6yB8) a video made to document her work on the last night of her residency at Time Life, featuring the images loading and displaying in real-time. Very cool!
