@@ -7,6 +7,7 @@
   <meta name='description' content="{% if include.pexcerpt %}{{ include.pexcerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ include.sdescription }}{% endif %}">
   <link rel="search" type="application/opensearchdescription+xml" href="/search.xml" title="{{ include.stitle }}">
   <link rel='canonical' href="{{ include.purl | replace:'index.html','' | prepend: include.sbaseurl | prepend: include.surl }}">
+  {% if include.ptag %}<link rel='alternate' type='application/rss+xml' title='#{{ include.ptag }} — {{ include.stitle }}' href="{{ include.purl | replace:'index.html','' | append: 'index.xml' | prepend: include.sbaseurl | prepend: include.surl }}">{% endif %}
   <link rel='alternate' type='application/rss+xml' title='{{ include.stitle }}' href="{{ '/feed.xml' | prepend: include.sbaseurl | prepend: include.surl }}">
   <link rel="stylesheet" href="{{ '/js/tablesorter.theme.default.min.css' | prepend: include.sbaseurl }}">
   <link rel="stylesheet" href="{{ '/js/lite-yt-embed.css' | prepend: include.sbaseurl }}">

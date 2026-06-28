@@ -1,0 +1,29 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | xml_escape }}: #{{ page.tag | xml_escape }}</title>
+    <description>Posts tagged “{{ page.tag | xml_escape }}” — {{ site.description | xml_escape }}</description>
+    <link>{{ page.url | replace: 'index.xml', '' | prepend: site.baseurl | prepend: site.url }}</link>
+    <atom:link href="{{ page.url | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+
+    {% for post in page.posts %}
+      {% if post.published != 'private' %}
+        <item>
+          <title>{{ post.title | xml_escape }}</title>
+          <description>{{ post.content | xml_escape }}</description>
+          <author>by {{ site.author | xml_escape }}</author>
+          <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+          <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+          <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        </item>
+      {% endif %}
+    {% endfor %}
+
+  </channel>
+</rss>

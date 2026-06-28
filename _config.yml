@@ -74,6 +74,8 @@ paginate_path: "/page/:num/"
 # Tags
 tag_page_dir:         tag
 tag_page_layout:      tag_page
+tag_feed_dir:         tag
+tag_feed_layout:      tag_feed
 tag_permalink_style:  pretty
 
 # Defaults
