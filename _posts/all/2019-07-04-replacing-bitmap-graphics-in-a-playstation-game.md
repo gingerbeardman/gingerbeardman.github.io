@@ -7,6 +7,7 @@ tags:
 - playstation
 - hanafuda
 - patreon
+- videogame
 nouns: [Koikoi Komachi, Tim2View, PlayStation, Youkai Hana Asobi, Adobe Photoshop, Hanafuda, Koi-Koi]
 image: /images/posts/hanafuda-card-transplant-3.png
 comments: https://twitter.com/gingerbeardman/status/1146859337169739777

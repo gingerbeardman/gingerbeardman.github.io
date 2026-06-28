@@ -4,11 +4,11 @@ title: "Abandoned project: Band-kun/Beatnik for Playdate"
 date: '2025-05-11T17:58+01:00'
 tags:
 - playdate
-- games
 - videogame
 - abandoned
 - bandkun
 - beatnik
+- gamedev
 nouns:
 - Koei Tecmo
 - Koei

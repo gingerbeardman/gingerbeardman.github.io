@@ -4,9 +4,8 @@ title: "Talking about Moai in Games on Tokyo Game Life podcast"
 date: '2025-04-20T21:56+01:00'
 tags:
 - moai
-- games
-- history
 - videogame
+- history
 nouns:
 - Moai
 - Tokyo Game Life

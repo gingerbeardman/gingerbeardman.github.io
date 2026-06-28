@@ -5,6 +5,8 @@ date: '1996-08-06T00:00:00Z'
 tags:
 - faq
 - guide
+- videogame
+
 ---
 
 > This might be the first entry on this blog, but it's not quite my oldest content on the internet. For that you'll need to check out the archive linked to from the bottom of the [about page](/about#history-repeating).

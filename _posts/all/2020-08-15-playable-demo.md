@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Daily Driver: Playable Demo'
-tags: [dailydriver, playdate, software]
+tags: [dailydriver, playdate, software, gamedev]
 nouns: [Daily Driver, Playdate, SDK, 60fps]
 image: /images/posts/daily-driver-playable-demo.gif
 ---

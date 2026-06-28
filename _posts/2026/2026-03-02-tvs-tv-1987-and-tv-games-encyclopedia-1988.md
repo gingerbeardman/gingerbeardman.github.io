@@ -11,6 +11,7 @@ tags:
 - history
 - book
 - tv
+- videogame
 nouns:
 - TV's TV
 - TV’s TV

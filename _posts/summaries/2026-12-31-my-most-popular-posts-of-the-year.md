@@ -40,6 +40,8 @@ The following posts keep on truckin' (most popular first):
 - Add niconico video embed (26 Feb)
 - Full-text search powered by pagefind (2 Mar)
 - Added dark-mode styles (10 May)
+- Added per-tag RSS feeds (28 Jun)
+- Tag rationalisation and cleanup (28 Jun)
 
 ## Previous years
 - [My most popular posts of 2025](/2025/12/31/my-most-popular-posts-of-the-year/)

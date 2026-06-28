@@ -6,6 +6,7 @@ tags:
 - guide
 - translation
 - patreon
+- videogame
 nouns:
 - GameFAQs
 comments: https://twitter.com/gingerbeardman/status/1131305169340256257

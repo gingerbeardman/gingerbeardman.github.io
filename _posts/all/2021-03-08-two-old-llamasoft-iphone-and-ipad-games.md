@@ -8,6 +8,7 @@ tags:
 - preservation
 - history
 - llamasoft
+- videogame
 nouns:
 - iPad mini
 - iPad

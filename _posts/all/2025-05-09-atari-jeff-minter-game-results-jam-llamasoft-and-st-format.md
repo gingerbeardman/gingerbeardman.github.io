@@ -4,11 +4,11 @@ title: "Atari/Jeff Minter game jam results, Llamasoft, and ST Format"
 date: '2025-05-09T18:03+01:00'
 tags:
 - atari
-- games
 - videogame
 - gamejam
 - llamasoft
 - atarist
+- gamedev
 nouns:
 - ST Format
 - ST FORMAT

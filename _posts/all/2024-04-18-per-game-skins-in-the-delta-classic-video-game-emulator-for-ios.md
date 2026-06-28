@@ -9,6 +9,7 @@ tags:
 - ios
 - maboshi
 - nintendods
+- videogame
 nouns:
 - MaBoShi
 - Delta

@@ -6,6 +6,7 @@ tags:
 - hypercard
 - patreon
 - history
+- videogame
 nouns:
 - HyperCard
 - Super Mario Kart

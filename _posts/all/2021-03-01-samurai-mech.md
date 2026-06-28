@@ -7,6 +7,7 @@ tags:
 - macintosh
 - patreon
 - playstation
+- videogame
 nouns:
 - Samurai Mech II: Heaven
 - Samurai Mech II

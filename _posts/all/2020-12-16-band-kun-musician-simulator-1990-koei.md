@@ -8,6 +8,8 @@ tags:
 - bandkun
 - バンドくん
 - birthday
+- videogame
+- gamedev
 nouns:
 - Band-kun
 - バンドくん

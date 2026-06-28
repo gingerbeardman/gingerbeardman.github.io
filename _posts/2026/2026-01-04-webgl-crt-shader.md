@@ -9,6 +9,7 @@ tags:
 - opensource
 - software
 - web
+- gamedev
 nouns:
 - Love2D
 - Three.js

@@ -6,6 +6,8 @@ tags:
 - faq
 - guide
 - maboshi
+- videogame
+
 ---
 
 I wrote a video game FAQ and uploaded it to GameFAQs:

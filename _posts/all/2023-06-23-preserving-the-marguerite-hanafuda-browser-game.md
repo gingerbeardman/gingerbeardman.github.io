@@ -3,11 +3,11 @@ layout: post
 title: Preserving the Marguerite Hanafuda browser game
 tags:
 - hanafuda
-- koikoi
 - japanese
 - preservation
 - patreon
 - hack
+- videogame
 nouns:
 - Marguerite
 - Wayback Machine

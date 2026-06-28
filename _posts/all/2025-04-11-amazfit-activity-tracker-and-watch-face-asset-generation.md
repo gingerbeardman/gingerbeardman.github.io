@@ -5,7 +5,7 @@ date: '2025-04-11T23:05+01:00'
 modified: '2025-04-16T09:18+01:00'
 tags:
 - amazfit
-- hacking
+- hack
 - tooling
 - watches
 nouns:

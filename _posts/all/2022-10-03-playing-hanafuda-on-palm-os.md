@@ -6,6 +6,7 @@ tags:
 - solitaire
 - patreon
 - software
+- videogame
 nouns:
   - Palm OS
   - iPhone

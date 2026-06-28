@@ -5,6 +5,8 @@ date: '2009-02-25T00:00:00Z'
 tags:
 - faq
 - guide
+- videogame
+
 ---
 
 I translated the Mission Mode screens:

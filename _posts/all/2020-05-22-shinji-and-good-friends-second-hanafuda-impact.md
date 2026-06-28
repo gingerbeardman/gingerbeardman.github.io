@@ -8,6 +8,7 @@ tags:
 - save
 - patreon
 - reverseengineering
+- videogame
 nouns:
 - Gainax
 - 'Shinji and Good Friends: Second Hanafuda Impact'

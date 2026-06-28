@@ -6,8 +6,8 @@ modified: '2025-03-20T15:33+00:00'
 tags:
 - love2d
 - lua
-- sounds
-- sfx
+- audio
+- gamedev
 nouns:
 - Love2D
 - Lua

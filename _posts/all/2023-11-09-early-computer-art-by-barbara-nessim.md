@@ -6,7 +6,7 @@ date: '2023-11-09T01:25+00:00'
 tags:
 - graphics
 - history
-- artist
+- art
 - pixelart
 - vectorart
 - videotex

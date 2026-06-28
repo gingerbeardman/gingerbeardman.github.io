@@ -6,6 +6,7 @@ tags:
 - playdate
 - cars
 - graphics
+- gamedev
 nouns:
 - Makefile
 - imagemagick

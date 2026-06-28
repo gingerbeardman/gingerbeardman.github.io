@@ -7,6 +7,7 @@ tags:
 - hammerspoon
 - hack
 - mouse
+- gamedev
 nouns:
 - Playdate
 - SDK

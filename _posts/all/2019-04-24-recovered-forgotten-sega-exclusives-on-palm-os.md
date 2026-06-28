@@ -6,6 +6,7 @@ tags:
 - sega
 - palmos
 - patreon
+- videogame
 nouns:
 - Smilebit
 - SEGA

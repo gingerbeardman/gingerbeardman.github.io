@@ -10,6 +10,7 @@ tags:
 - preservation
 - patreon
 - history
+- videogame
 nouns:
 - Macintosh Garden
 - Macintosh

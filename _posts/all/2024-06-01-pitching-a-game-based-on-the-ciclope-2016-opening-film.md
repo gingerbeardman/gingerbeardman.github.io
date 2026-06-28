@@ -7,6 +7,7 @@ tags:
 - pitch
 - animation
 - videogame
+- gamedev
 nouns:
 - CICLOPE Festival
 - THE LINE

@@ -8,6 +8,7 @@ tags:
 - credits
 - gba
 - patreon
+- videogame
 nouns:
 - Kururin Paradise
 - Kuru Kuru Kururin

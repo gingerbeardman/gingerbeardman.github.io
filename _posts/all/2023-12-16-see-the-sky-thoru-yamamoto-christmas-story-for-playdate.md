@@ -10,6 +10,7 @@ tags:
 - port
 - japanese
 - birthday
+- gamedev
 nouns:
 - Playdate SDK
 - Playdate

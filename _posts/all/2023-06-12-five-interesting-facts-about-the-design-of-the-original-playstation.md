@@ -11,6 +11,7 @@ tags:
 - sony
 - vaio
 - playstation
+- videogame
 nouns:
 - PlayStation
 - Sony

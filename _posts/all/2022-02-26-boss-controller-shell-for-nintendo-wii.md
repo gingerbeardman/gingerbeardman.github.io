@@ -5,6 +5,7 @@ tags:
 - wii
 - controller
 - patreon
+- videogame
 nouns:
 - Nintendo
 - Wii

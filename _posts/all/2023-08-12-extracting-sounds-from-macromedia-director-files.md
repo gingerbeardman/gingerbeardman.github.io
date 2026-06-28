@@ -6,7 +6,6 @@ tags:
 - hack
 - macintosh
 - audio
-- sfx
 - script
 - history
 nouns:

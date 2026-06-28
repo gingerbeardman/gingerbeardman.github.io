@@ -5,6 +5,7 @@ tags:
 - dailydriver
 - playdate
 - videogame
+- gamedev
 nouns:
 - Daily Driver
 - Playdate

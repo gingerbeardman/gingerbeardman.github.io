@@ -7,6 +7,7 @@ tags:
 - playdate
 - hack
 - colour
+- gamedev
 nouns:
 - Ball und Panzer Golf
 - Playdate Simulator

@@ -6,6 +6,7 @@ tags:
 - playdate
 - japanese
 - hardware
+- videogame
 nouns:
 - Playdate
 - Panic

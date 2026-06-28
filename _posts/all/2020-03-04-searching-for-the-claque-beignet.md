@@ -7,6 +7,7 @@ tags:
 - history
 - searching
 - patreon
+- videogame
 nouns:
 - The Claque Baignet
 - Raoul Sinier

@@ -8,10 +8,10 @@ tags:
 - music
 - playdate
 - loops
-- sounds
 - yoyozo
 - foretrack
 - icarus
+- gamedev
 nouns:
 - Playdate SDK
 - Playdate

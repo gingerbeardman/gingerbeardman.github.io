@@ -3,10 +3,10 @@ layout: post
 title: Usajong gaiden ore ga kirifuda! (Game Soundtrack Rip)
 tags:
 - hanafuda
-- koikoi
 - japanese
 - preservation
 - patreon
+- videogame
 nouns:
 - COMPILE
 - Gamerip

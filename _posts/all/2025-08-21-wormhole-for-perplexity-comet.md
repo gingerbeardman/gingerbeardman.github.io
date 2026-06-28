@@ -3,7 +3,7 @@ layout: post
 title: "Wormhole for Perplexity Comet"
 date: '2025-08-21T17:00+01:00'
 tags:
-- game
+- videogame
 - gamedev
 - postmortem
 nouns:

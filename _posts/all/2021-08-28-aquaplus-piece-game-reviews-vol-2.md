@@ -7,6 +7,7 @@ tags:
 - playdate
 - hardware
 - patreon
+- videogame
 nouns:
 - P/ECE
 - Aquaplus

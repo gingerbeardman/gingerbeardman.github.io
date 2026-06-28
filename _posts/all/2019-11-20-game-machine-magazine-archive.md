@@ -7,6 +7,7 @@ tags:
 - patreon
 - history
 - magazine
+- videogame
 nouns:
 - Game Machine
 - ONION Software

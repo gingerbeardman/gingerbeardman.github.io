@@ -4,7 +4,7 @@ title: "Automatic build number incrementing in Xcode"
 date: '2025-06-28T17:01+01:00'
 modified: '2026-04-16T13:28+01:00'
 tags:
-- tools
+- tooling
 - xcode
 - software
 nouns:

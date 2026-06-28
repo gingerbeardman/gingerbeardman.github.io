@@ -9,6 +9,7 @@ tags:
 - mahjong
 - hanafuda
 - controller
+- videogame
 nouns:
 - Famicom
 - Capcom

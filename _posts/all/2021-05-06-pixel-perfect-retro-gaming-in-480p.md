@@ -8,6 +8,7 @@ tags:
 - retrogaming
 - recommendations
 - tv
+- videogame
 nouns:
 - Philips
 - Sharp

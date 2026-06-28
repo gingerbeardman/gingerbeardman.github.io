@@ -5,6 +5,7 @@ tags:
 - pang
 - nintendods
 - reverseengineering
+- videogame
 nouns:
 - Pang
 - Nintendo DS

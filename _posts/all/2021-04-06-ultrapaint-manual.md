@@ -8,7 +8,6 @@ tags:
 - ultrapaint
 - deneba
 - macintosh
-- history
 nouns:
 - Option
 - UltraPaint

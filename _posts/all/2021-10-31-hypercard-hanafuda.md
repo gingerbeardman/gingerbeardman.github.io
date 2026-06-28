@@ -7,6 +7,7 @@ tags:
 - hanafuda
 - patreon
 - history
+- videogame
 nouns:
 - HyperCard
 - Hanafuda Stack

@@ -6,6 +6,7 @@ tags:
 - scans
 - patreon
 - tesoft
+- videogame
 nouns:
 - T&E SOFT
 - Harukanaru Augusta

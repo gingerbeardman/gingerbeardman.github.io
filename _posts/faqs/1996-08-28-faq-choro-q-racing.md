@@ -5,6 +5,8 @@ date: '1996-08-28T00:00:00+00:00'
 tags:
 - faq
 - guide
+- videogame
+
 ---
 
 I wrote a video game FAQ and uploaded it to GameFAQs:

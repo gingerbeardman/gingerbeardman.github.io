@@ -5,7 +5,7 @@ date: '2024-02-15T23:22+00:00'
 tags:
 - graphics
 - history
-- artist
+- art
 - pixelart
 - japan
 - barbaranessim

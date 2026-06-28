@@ -7,6 +7,7 @@ tags:
 - history
 - marchintosh
 - preservation
+- videogame
 nouns:
 - 'Station: Travel Through the Four Seasons'
 - Classic Macintosh

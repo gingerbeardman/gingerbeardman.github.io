@@ -8,7 +8,6 @@ tags:
 - macos
 - screensaver
 - app
-- macos
 nouns:
 - Today
 - On Kawara

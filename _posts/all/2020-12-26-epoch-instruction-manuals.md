@@ -5,6 +5,7 @@ tags:
 - scans
 - preservation
 - patreon
+- videogame
 nouns:
 - Internet Archive
 - EPOCH

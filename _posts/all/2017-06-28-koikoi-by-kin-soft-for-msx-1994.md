@@ -6,8 +6,8 @@ modified: '2026-04-06T17:33+01:00'
 tags:
 - hack
 - hanafuda
-- koikoi
 - msx
+- videogame
 nouns:
 - OpenMSX
 - fMSX

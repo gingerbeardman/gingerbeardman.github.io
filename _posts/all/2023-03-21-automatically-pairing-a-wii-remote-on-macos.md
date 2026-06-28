@@ -5,6 +5,7 @@ modified: '2024-02-22T14:22+00:00'
 tags:
 - wii
 - guide
+- videogame
 nouns:
 - Wii remotes
 - Wii remote

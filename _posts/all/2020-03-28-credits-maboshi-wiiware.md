@@ -8,6 +8,7 @@ tags:
 - maboshi
 - wiiware
 - wii
+- videogame
 nouns:
 - WiiWare
 - MaBoShi

@@ -3,7 +3,7 @@ layout: post
 title: "Serenity: zen gliding to the sound of procedurally generated music"
 date: '2026-02-12T17:53+00:00'
 tags:
-- game
+- videogame
 - gamedev
 - demo
 nouns:

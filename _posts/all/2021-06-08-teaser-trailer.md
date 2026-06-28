@@ -4,6 +4,7 @@ title: 'Daily Driver: Teaser Trailer'
 tags:
 - dailydriver
 - playdate
+- gamedev
 nouns:
 - Playdate
 - Daily Driver

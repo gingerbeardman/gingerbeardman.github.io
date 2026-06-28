@@ -4,7 +4,8 @@ title: 'Daily Driver: Teaser Artwork'
 tags:
 - dailydriver
 - playdate
-- artwork
+- art
+- gamedev
 nouns:
 - Playdate
 - Daily Driver

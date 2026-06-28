@@ -6,6 +6,7 @@ tags:
 - hack
 - patreon
 - software
+- videogame
 nouns:
   - Palm OS
   - Palm

@@ -4,6 +4,7 @@ title: 'Redumping Discs'
 tags:
 - preservation
 - patreon
+- videogame
 nouns:
 - Redump
 - Disc Preservation Project

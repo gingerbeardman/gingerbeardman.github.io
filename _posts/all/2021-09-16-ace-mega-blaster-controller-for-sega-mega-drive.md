@@ -4,6 +4,7 @@ title: 'Ace Mega Blaster controller for Sega Mega Drive'
 tags:
 - megadrive
 - controller
+- videogame
 nouns:
 - Mega Drive
 - Sega

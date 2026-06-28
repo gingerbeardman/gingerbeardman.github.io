@@ -10,6 +10,7 @@ tags:
 - history
 - preservation
 - hardware
+- videogame
 nouns:
 - Casio CALEID XM-700 Mobile Navigator
 - DATA IMPRESSION for CALEID

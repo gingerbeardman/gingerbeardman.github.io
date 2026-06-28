@@ -7,6 +7,7 @@ tags:
 - patreon
 - history
 - magazine
+- videogame
 nouns:
 - Roly-Polys World Tour
 - ローリーポーリーズの世界旅行

@@ -8,6 +8,7 @@ tags:
 - qanda
 - profile
 - gamedev
+- videogame
 featured: true
 image: /images/posts/dev2dev-kenta-cho.jpg
 comments: https://twitter.com/gingerbeardman/status/1756438410938454240

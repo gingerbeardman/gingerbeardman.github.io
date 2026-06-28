@@ -7,6 +7,7 @@ tags:
 - patreon
 - history
 - magazine
+- videogame
 nouns:
 - PC Engine Fanatics
 - Console Ma'zine

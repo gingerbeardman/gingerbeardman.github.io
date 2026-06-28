@@ -5,11 +5,11 @@ date: '2025-05-01T15:34+01:00'
 modified: '2025-05-01T20:40+01:00'
 tags:
 - playdate
-- games
 - videogame
 - abandoned
 - simplesoccer
 - sensiblesoccer
+- gamedev
 nouns:
 - Talking Heads
 - Panic

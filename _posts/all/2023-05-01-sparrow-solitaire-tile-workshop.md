@@ -6,6 +6,7 @@ tags:
 - mahjong
 - solitaire
 - sparrowsolitaire
+- gamedev
 nouns:
 - Sparrow Solitaire
 - Mahjong Solitaire

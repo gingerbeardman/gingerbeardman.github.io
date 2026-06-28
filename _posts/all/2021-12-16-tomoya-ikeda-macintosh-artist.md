@@ -4,7 +4,7 @@ title: Tomoya Ikeda - Macintosh Artist
 modified: '2024-02-01T22:55+00:00'
 tags:
 - macintosh
-- artist
+- art
 - patreon
 - history
 - birthday

@@ -5,6 +5,7 @@ tags:
 - dailydriver
 - playdate
 - graphics
+- gamedev
 nouns:
 - Playdate
 - SDK

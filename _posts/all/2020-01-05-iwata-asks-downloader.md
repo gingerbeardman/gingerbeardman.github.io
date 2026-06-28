@@ -9,6 +9,7 @@ tags:
 - iwata
 - patreon
 - opensource
+- videogame
 nouns:
 - Iwata Asks
 featured: true

@@ -6,7 +6,7 @@ date: '2024-09-18T20:19+01:00'
 tags:
 - moai
 - chile
-- games
+- videogame
 - design
 - tshirt
 nouns:

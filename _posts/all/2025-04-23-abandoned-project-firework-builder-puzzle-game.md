@@ -4,9 +4,9 @@ title: "Abandoned project: firework builder puzzle game"
 date: '2025-04-23T22:39+01:00'
 tags:
 - ios
-- games
 - videogame
 - abandoned
+- gamedev
 nouns:
 - Hanabi
 - Draknek New Voices Puzzle Grant 2024
