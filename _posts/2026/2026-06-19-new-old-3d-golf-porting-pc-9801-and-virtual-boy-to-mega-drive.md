@@ -2,18 +2,19 @@
 layout: post
 title: "New (Old) 3D Golf: porting PC-9801 & Virtual Boy to Mega Drive"
 date: '2026-06-19T17:26+01:00'
-modified: '2026-06-20T11:27+01:00'
+modified: '2026-06-29T12:46+01:00'
 tags:
 - japanese
 - golf
 - videogame
 - tesoft
-- hacking
+- hack
 - megadrive
 - virtualboy
 - pc98
 - reverseengineering
 - romhack
+- gamedev
 nouns:
 - T&E SOFT
 - New 3D Golf Simulation
@@ -55,7 +56,7 @@ Once that was sorted, I gave the 32-year-old game some [brand new, custom user i
 
 {% youtube HHbEVRtbw7Q 4/3 %}
 
-Next I wondered if the course data was the same across all of the four Mega Drive games, could it be the same across the games on other platforms? The answer is yes: [the same course data format](https://bsky.app/profile/gingerbeardman.com/post/3ml2k552qis2f) turns out to be used right across the series, from the original PC-9801 games (and almost certainly X68000 and FM Towns) through to the Mega Drive and even the Virtual Boy. If my (little-endian) maths is correct that's a total of 7 unique courses, all sharing one format. There's some reformatting that needs to be done, but the data structure is the same. And since I could already read the courses, I could write them too—patching the games to pick a course at random, or to load one that was never available on the Mega Drive in the first place. PC-9801 to Mega Drive required sorting the polygons to match how they were expected to be stored.
+Next I wondered if the course data was the same across all of the four Mega Drive games, could it be the same across the games on other platforms? The answer is **yes**: [the same course data format](https://bsky.app/profile/gingerbeardman.com/post/3ml2k552qis2f) turns out to be used right across the series, from the original PC-9801 games (and almost certainly X68000 and FM Towns) through to the Mega Drive and even the Virtual Boy. If my (little-endian) maths is correct that's a total of 7 unique courses, all sharing one format. There's some reformatting that needs to be done, but the data structure is the same. And since I could already read the courses, I could write them too—patching the games to pick a course at random, or to load one that was never available on the Mega Drive in the first place. PC-9801 to Mega Drive required sorting the polygons to match how they were expected to be stored.
 
 But I guess T&E SOFT used the same POLYSYS-CAD software to design all the courses over several years? I love how such a tool could have that sort of longevity.
 
@@ -100,9 +101,9 @@ Extracted from the Nintendo Virtual Boy game [T&E Virtual Golf](https://www.moby
 
 {% youtube 8Hpnm4w4EDU 4/3 %}
 
-That last one needed a little extra work. T&E Golf on Virtual Boy doesn't have a hole flyby, so I had to generate the camera path myself: a bezier curve from tee to pin, nudged towards the centre point of the visible course as it appears on the mini-map.
+That last one needed a little extra work. T&E Golf on Virtual Boy doesn't have a hole flyby, so I had to generate the camera path myself: a bezier curve from tee to pin, nudged towards the centre point of the visible course as it appears on the mini-map. The flyby path in this video was about half way to my final solution.
 
-Playing these on Mega Drive is truly special and the effort was very much worthwhile. 
+Playing these courses on Mega Drive is truly special and the effort was very much worthwhile. 🥰
 
 ----
 
@@ -116,6 +117,82 @@ Living inside the disassembly for weeks, I kept tripping over the little decisio
 - **Water isn't a hazard—just very sticky.** There's no "in the water" state; water polygons carry friction so high it kills the ball in one frame. The penalty falls out of the ordinary maths.
 - **Wind is a real force, not an aim fudge.** It becomes a horizontal acceleration applied every frame of flight, exactly like gravity.
 - **Augusta's wind never actually changes.** The direction is never written—only strength varies. The arrow only seems to swing because it's drawn relative to the camera.
+- **Bunkers plug, cart paths kick.** Every surface has its own bounce coefficient. The fairway hands back a healthy ~40% of the ball's speed; a bunker returns only ~10%, so the ball plugs where it lands; a cart path or rock fires it back at ~75% for that horrible hard skip.
+- **Your lie quietly rolls the dice.** On every stroke the game picks a random number from a per-(lie, club) range and folds it into your swing power. A clean fairway lie uses a narrow range; a bad lie widens it—so the rough genuinely makes your shots less predictable. The ranges live in a 17×17 table, one entry per lie-and-club combination.
+
+----
+
+## Four volumes, one evolving engine
+
+It's tempting to treat the four Mega Drive games as a single engine with interchangeable courses. They're not, and the very first line of the cross-volume notes I kept is a warning to myself: ⚠️ *never assume all four ROMs share code or data layouts.* T&E SOFT kept tinkering release to release, and you only catch it by dumping the same region in all four disassemblies and diffing.
+
+The ROM headers number them *New 3D Golf Simulation* Vol.1–4, and each header also carries a build date stamped in `YYYY.MMM` form. Here's the curiosity: the volume numbers track the **build** dates, not the retail release dates. Vol.2 *Devil's Course* was finished a month before Vol.3 *Augusta*—but reached the shops a month after it:
+
+| Vol | Title | Japanese | ROM build | Retail release |
+|-----|-------|----------|-----------|----------------|
+| 1 | Pebble Beach no Hatou | ペブルビーチの波濤 | 1993-07 | 1993-10-29 |
+| 2 | Devil's Course | デビルズコース | 1993-08 | 1994-01-28 |
+| 3 | Harukanaru Augusta | 遙かなるオーガスタ | 1993-09 | 1993-12-17 |
+| 4 | Waialae no Kiseki | ワイアラエの奇蹟 | 1993-09 | 1994-02-25 |
+
+A couple of header quirks fell out of this. Pebble's stamp reads `1993.JLY`—Sega's own oddball abbreviation for July. And while three of the carts credit `SEGA`, *Augusta* credits T&E Soft's Sega licensee code `T-114` instead—a clue that it alone was self-published by T&E SOFT rather than by Sega. The boxes agree: Augusta's isn't Sega-branded either.
+
+Two places they genuinely diverge, each confirmed by dumping the same region in all four:
+
+- **Colour isn't a plain palette lookup—and the recipe is per-game.** A surface byte runs through a little chain of lookup tables before it becomes a pen colour, and those tables aren't shared: Pebble grades several surfaces differently and even reorders two entries, while Devil's Course carries its own darker, redder palette. Waialae, charmingly, reuses a single palette three times where its siblings have three distinct ones.
+- **A decoder bug only Pebble could trigger.** In the polygon stream, vertex indices are single bytes, with `0xFF` acting as an escape prefix—the byte after it encodes a higher index (`0xE0 + xx`), so a hole can point past the ~254 vertices a lone byte can name. My extractor mishandled that escaped range, but only Pebble's holes are dense enough to actually *use* it—so the bug sailed through the other three games and only fell over when I reached Pebble. Same encoding in every cart; one course's data was all it took to expose the flaw in my reader.
+
+There's also the US release, *Pebble Beach Golf Links* (header stamped 1993-11, likely on shelves 1994-04): the same course data on a larger ROM, with English strings present where the Japanese Vol.1 zeroed them. That parallel made a useful "Rosetta Stone" for decoding menus and text.
+
+----
+
+## Inside Waialae
+
+Waialae was my primary reference—1,572,864 bytes, header `NEW 3D GOLF SIMULATION Vol.4 Waialae C.C.`, serial `GM G-5529`.
+
+Each hole is reached through four ROM pointers, one per data block, and they're wildly different sizes. Block 0 is the vertex list—244 XYZ points, the ~256-point mesh, about 1.5 KB. Block 1 is the bulk of it: sixteen view-order streams (one draw order per camera angle) that bake in the back-to-front sorting—around 5.5 KB, bigger than the geometry it orders. Block 2 holds the mesh and sprites themselves (230 polygons plus 54 sprites), ~1.8 KB. Block 3 is just the flyby keyframes, a slim ~0.7 KB. For Waialae's first hole that comes to about 9.2 KB, split like this:
+
+<svg viewBox="0 0 740 94" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="holeDesc" style="display:block;margin:0 auto;width:100%;max-width:740px;height:auto;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  <desc id="holeDesc">One bar representing a hole's data for Waialae hole 1, split into four segments by size: Block 0 vertex list 1,466 bytes; Block 1 view-order streams 5,490 bytes; Block 2 mesh and sprites 1,758 bytes; Block 3 flyby keyframes 666 bytes.</desc>
+  <rect x="12" y="8" width="112" height="78" fill="#c5e0b4" stroke="#2f5e22"/>
+  <rect x="124" y="8" width="419" height="78" fill="#538135" stroke="#2f5e22"/>
+  <rect x="543" y="8" width="134" height="78" fill="#70ad47" stroke="#2f5e22"/>
+  <rect x="677" y="8" width="51" height="78" fill="#a9d18e" stroke="#2f5e22"/>
+  <text x="22" y="28" font-size="12" font-weight="700" fill="#1f3b14">Block 0</text>
+  <text x="22" y="46" font-size="11" fill="#33521f">Vertex list</text>
+  <text x="22" y="64" font-size="11" fill="#33521f">1,466 B</text>
+  <text x="134" y="28" font-size="12" font-weight="700" fill="#ffffff">Block 1 · View-order streams</text>
+  <text x="134" y="46" font-size="11" fill="#e7f2dd">one draw order per camera angle (×16)</text>
+  <text x="134" y="64" font-size="11" fill="#e7f2dd">5,490 B</text>
+  <text x="553" y="28" font-size="12" font-weight="700" fill="#14300a">Block 2</text>
+  <text x="553" y="46" font-size="11" fill="#14300a">Mesh + sprites</text>
+  <text x="553" y="64" font-size="11" fill="#14300a">1,758 B</text>
+  <text x="683" y="28" font-size="12" font-weight="700" fill="#1f3b14">Block 3</text>
+  <text x="683" y="46" font-size="11" fill="#1f3b14">Flyby</text>
+  <text x="683" y="64" font-size="11" fill="#1f3b14">666 B</text>
+</svg><br>
+
+A couple more structural quirks:
+
+- **A spatial grid, decades early.** Immediately after the vertex pool sits a `count` followed by `count × 16` word offsets into the face section—a two-level spatial grid (cell → faces) so the engine can look up the relevant polygons from the ball's (x, z) without walking the whole hole.
+- **Why the SRAM debugging hurt.** Waialae's battery-backed save RAM is odd-lane only, from `$200001`. Byte writes have to land on odd Mega Drive addresses; even-address writes to `$200000` simply disappear. That's the real reason scribbling values into SRAM as a `printf` substitute was so finicky—half my early writes were going into the void. (BlastEm helpfully flushes SRAM to disk on quit, so I could read it back from the host.)
+
+----
+
+## Variable zoom
+
+The shared course format is what let me move holes between platforms, but each machine scales the world differently. The proven case: Waialae hole 1 from the PC-9801 drops into the Mega Drive after a fixed **1.6× rescale on X and Z** (Y untouched), plus a **little-endian → big-endian flip** on the flyby path records.
+
+Lining those transplanted polygons up against the stock Mega Drive ones is also what *proved* the rendering trick I mentioned earlier: the Mega Drive packs faces in descending max-Z order—back to front, the painter's algorithm—and the original PC-9801 face id survives the journey as the Mega Drive's `attr1` byte.
+
+----
+
+## Two deeper cuts
+
+- **The flyby camera, decoded by statistics.** Each flyby keyframe carries two mystery bytes. With no documentation, I histogrammed 4,723 of them across every hole and the shape gave it away: one byte is an 8-bit angle (256 units = 360°) for yaw, the other a signed pitch clamped to about ±40, positive meaning the camera looks down. Educated guessing, with visuals.
+- **The Virtual Boy world is built at a different scale.** The Virtual Boy stores its courses at 32 raw units per yard, where the Mega Drive works in 17—so Papillon has to be shrunk by exactly `17/32` (0.53) to sit correctly on the Mega Drive, otherwise every club hits too short for the hole. (My first attempt used the wrong unit and reported hole 1 as 321 yards instead of its true 360.) It's the same idea as the 1.6× I needed coming the other way from the PC-9801—one shared format, but every machine measures its yards differently.
+
+The whole thing ran on rizin and vasmm68k with BlastEm for execution—though frame-time profiling had to move to Genesis Plus GX, because BlastEm freezes the VDP's HV counter during the long rendering routines I was trying to measure.
 
 ----
 
