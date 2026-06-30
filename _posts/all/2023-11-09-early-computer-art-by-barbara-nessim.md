@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Early computer art by Barbara Nessim (1984)"
-modified: '2026-06-22T13:59+01:00'
+modified: '2026-06-30T12:50+01:00'
 date: '2023-11-09T01:25+00:00'
 tags:
 - graphics
@@ -48,7 +48,7 @@ Whilst I had seen other early computer work by Barbara - [portraits](https://col
 
 The chunky scan-line gaps in between the rows of pixels are the result of these images being photographs of the monitor on which they were displayed. Screenshots had existed since the 1960s but in the 1980s getting such an image off a mainframe was not yet easy or universal. Instead images were saved by pointing a camera at the screen, in this case a Polaroid Palette Video Image Recorder, capturing the image on 35mm slide film, and printing them by [cibachrome process](https://www.npg.org.uk/collections/explore/glossary-of-art-terms/cibachrome-print). Which is really saying something! Of course, I think the photos are much better than screenshots because of the scan-lines, the phosphor glow, the bleeding of colours, and the general analog feel to the whole thing.
 
-Barbara was one of few people to embrace computers for art in the early-1980s, when the rest of the art world considered them at best a "fad" and at worst a threat to their existence. Before and after the 1980s Barbara carved out a hugely successful career for herself, encompassing many different forms of [art, teaching and activism](https://www.printmag.com/culturally-related-design/gloria-steinem-barbara-nessim-writers-artists-role-models/). She continues to [create and exhibit her art](http://www.barbaranessim.com).
+Barbara was one of few people to embrace computers for art in the early-1980s, when the rest of the art world considered them at best a "fad" and at worst a threat to their existence. The dismissal was near-total: she [couldn't persuade a single one of her artist friends](https://youtu.be/--BAMGqbb8c?t=1115) to come and try the computer with her, and was left wondering whether she was the only one who wanted to. That attitude held for around a decade. It wasn't until the mid-1990s — when affordable colour arrived and [Photoshop went mainstream](https://en.wikipedia.org/wiki/Adobe_Photoshop#History) — that the resistance finally broke and, as Barbara puts it, "[that's when the change happened, and then it was all over](https://bgccraftartdesign.org/items/show/29)". Before and after the 1980s Barbara carved out a hugely successful career for herself, encompassing many different forms of [art, teaching and activism](https://www.printmag.com/culturally-related-design/gloria-steinem-barbara-nessim-writers-artists-role-models/). She continues to [create and exhibit her art](http://www.barbaranessim.com).
 
 ![WEBP](/images/posts/barbara-nessim-portrait.webp "Barbara Nessim at the <em>School of Visual Arts</em>, 1986. Photographed by Seiji Kakizaki. <a href=https://www.printmag.com/culturally-related-design/gloria-steinem-barbara-nessim-writers-artists-role-models/>Source</a>")
 {:.tofigure}
