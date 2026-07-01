@@ -85,7 +85,7 @@ on run {input, parameters}
 end run
 ```
 
-Save (`Cmd + S`) as something like "Auto-compress", drop a few files into the folder, and macOS shrinks them behind the scenes. Pretty easy!
+Save (`Cmd + S`) as something descriptive like "Compress", drop a few files into the folder, and macOS shrinks them behind the scenes. Pretty easy!
 
 Just for you, here's one I made earlier: [Compress.workflow.zip](https://cdn.gingerbeardman.com/files/Compress.workflow.zip) (93 KB)
 
