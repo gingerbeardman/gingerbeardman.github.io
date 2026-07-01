@@ -122,7 +122,7 @@ And `applesauce info <path>` will report the ratio and algorithm any file ended 
 
 ----
 
-## Managing it later
+## Managing setup
 
 Saving from Automator attaches the action to the folder you chose, but you can wire the same "Compress" action to more folders—or check it's switched on if nothing's happening—from the *Folder Actions Setup* dialog. Right-click any folder in Finder and choose *Services → Folder Actions Setup…*
 
