@@ -32,7 +32,7 @@ style: |
 
 ---
 
-I just wired this up for my own `build` folder—where Xcode quietly piles up derived data and archives that eat gigabytes—and figured it was worth writing down. The same trick works on any big codebase, a pile of assets, or a crowded `/Applications` folder.
+I just wired this up for my own `build` folder—where my current project is quietly piling up data—and figured it was worth writing down. The same trick works on any big codebase, a pile of assets, or a crowded `/Applications` folder. I generally use it on folders that don't have frequent churn, but do have large or compressible things added to them often enough.
 
 It relies on *transparent file system compression* (sometimes called AFSC), which has been built into macOS for years. It's nothing like a zip archive: files aren't bundled up or locked away—they keep their names, stay right where they are, and every app opens them as normal. macOS simply stores them compressed on disk and unpacks them on the fly as they're read. The only thing that changes is the *size on disk*—often dramatically. Apps can even launch more quickly, which is why all Mac App Store downloads already have this sort of filesystem compression applied.
 
