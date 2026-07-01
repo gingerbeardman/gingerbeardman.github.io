@@ -118,7 +118,7 @@ Force one with `-c`:
 do shell script "/opt/homebrew/bin/applesauce compress -c LZVN " & quoted form of (POSIX path of theItem)
 ```
 
-And `applesauce info <path>` will report the ratio and algorithm any file ended up with. Powerful stuff!
+And `applesauce info <path>` will report the ratio and algorithm any file ended up with. You beauty!
 
 ----
 
