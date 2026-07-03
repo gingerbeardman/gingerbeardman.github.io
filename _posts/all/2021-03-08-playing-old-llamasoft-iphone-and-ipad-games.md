@@ -50,15 +50,15 @@ I'm still hoping for an easy way to play these on modern devices, so let me know
 
 | # | Game Archive | Genre | Release date | Web |
 |--:|------|-------|--------------|-----|
-| 1 | [Minotaur Rescue](https://archive.org/details/mino-rescue-ios) | Twin-stick shooter | 2011-01-05 | [Website](http://minotaurproject.co.uk/Minotaur/minorescue.php) |
-| 2 | [Minotron: 2112](https://archive.org/details/minotron-2112) | Twin-stick shooter | 2011-02-23 | [Website](http://minotaurproject.co.uk/Minotaur/minotron.php) |
-| 3 | [Deflex](https://archive.org/details/deflex-ios) | Action puzzle | 2011-07-08 | [Website](http://minotaurproject.co.uk/Minotaur/deflex.php) |
-| 4 | [Goat Up](https://archive.org/details/goat-up-ios) | Platformer | 2011-09-06 | [Website](http://minotaurproject.co.uk/Minotaur/goatup.php) |
-| 5 | [Caverns of Minos](https://archive.org/details/minos-ios) | Cave shooter | 2012-01-19 | [Website](http://minotaurproject.co.uk/Minotaur/caves.php) |
-| 6 | [Gridrunner](https://archive.org/details/gridrunner-ios) | Shoot 'em up | 2012-02-17 | [Website](http://minotaurproject.co.uk/Minotaur/gridrunner.php) |
-| 7 | [Five a Day](https://archive.org/details/five-a-day-ios) | Multidirectional shooter | 2012-04-02 | [Website](http://minotaurproject.co.uk/Minotaur/fiveaday.php) |
-| 8 | [Super Ox Wars](https://archive.org/details/super-ox-wars-ios) | Vertical shoot 'em up | 2012-06-24 | [Website](http://minotaurproject.co.uk/Minotaur/superox.php) |
-| 9 | [Goat Up 2](https://archive.org/details/goat-up-2-ios) | Platformer | 2013-03-06 | [Website](http://minotaurproject.co.uk/Minotaur/goatup2.php) |
+| 1 | [Minotaur Rescue](https://archive.org/details/mino-rescue-ios) | Twin-stick shooter | 2011-01-05 | [website](http://minotaurproject.co.uk/Minotaur/minorescue.php) |
+| 2 | [Minotron: 2112](https://archive.org/details/minotron-2112) | Twin-stick shooter | 2011-02-23 | [website](http://minotaurproject.co.uk/Minotaur/minotron.php) |
+| 3 | [Deflex](https://archive.org/details/deflex-ios) | Action puzzle | 2011-07-08 | [website](http://minotaurproject.co.uk/Minotaur/deflex.php) |
+| 4 | [Goat Up](https://archive.org/details/goat-up-ios) | Platformer | 2011-09-06 | [website](http://minotaurproject.co.uk/Minotaur/goatup.php) |
+| 5 | [Caverns of Minos](https://archive.org/details/minos-ios) | Cave shooter | 2012-01-19 | [website](http://minotaurproject.co.uk/Minotaur/caves.php) |
+| 6 | [Gridrunner](https://archive.org/details/gridrunner-ios) | Shoot 'em up | 2012-02-17 | [website](http://minotaurproject.co.uk/Minotaur/gridrunner.php) |
+| 7 | [Five a Day](https://archive.org/details/five-a-day-ios) | Multidirectional shooter | 2012-04-02 | [website](http://minotaurproject.co.uk/Minotaur/fiveaday.php) |
+| 8 | [Super Ox Wars](https://archive.org/details/super-ox-wars-ios) | Vertical shoot 'em up | 2012-06-24 | [website](http://minotaurproject.co.uk/Minotaur/superox.php) |
+| 9 | [Goat Up 2](https://archive.org/details/goat-up-2-ios) | Platformer | 2013-03-06 | [website](http://minotaurproject.co.uk/Minotaur/goatup2.php) |
 
 Most games work on iPhone, iPod touch & iPad. Some game pages also include beta PC versions.
 
