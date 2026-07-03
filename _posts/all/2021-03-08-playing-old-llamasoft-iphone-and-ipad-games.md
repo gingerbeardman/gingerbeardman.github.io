@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Playing Old Llamasoft iPhone & iPad games
-modified: '2025-02-06T17:16+00:00'
+modified: '2026-07-03T20:45+01:00'
 tags:
 - ios
 - patreon
