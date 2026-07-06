@@ -10,7 +10,7 @@ You can show your appreciation for the blog, or a post, using the links below—
 
 - [Ko-fi]({{ site.donate.kofi }}) (one-off or recurring, recommended)
 - [Patreon]({{ site.donate.patreon }}) (one-off or recurring, not recommended)
-- [PayPal]({{ site.donate.paypalme }}) (one-off donation, recommended)
+- [PayPal]({{ site.donate.paypalme }}) (one-off donation)
 - [Stripe]({{ site.donate.stripe }}) (one-off donation)
 
 Any money raised is very much appreciated! It goes towards web hosting and bandwidth costs, buying old books, magazines, CD-ROMs, or gadgets, with the only goal being continued research into pre-internet happenings in the early digital world.
