@@ -6,7 +6,7 @@ permalink: /newsletter.html
 ---
 
 <br>
-I send around one newsletter per month with updates on blog posts, app releases and other news.
+I send one newsletter per month with a recap of blog posts, app releases/updates, and other news.
 
 The list is double-opt-in and you can unsubscribe at any time. Your email will not be shared.
 
