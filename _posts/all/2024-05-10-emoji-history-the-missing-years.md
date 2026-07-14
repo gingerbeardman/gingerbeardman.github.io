@@ -162,7 +162,7 @@ Thanks to a collector, [Akuji](https://www.reddit.com/r/OldHandhelds/comments/sr
 
 And if you need to see the word 絵文字 (emoji) next to these symbols to be satisfied, then look no further than this table column header in the manual of 1988's Toshiba Rupo JW95F word processor. My manual is dated 1989 and [scans of it can be found here](https://www.dropbox.com/scl/fo/qkb7folgi29jog0z4cp61/ANxuI4hyWdC2ioD3Bcw1aUA?rlkey=3b14cbx7zwh8xc8hzkij81uwu&st=wy63ddt7&dl=0).
 
-![IMG](/images/posts/emoji-wapuro-toshiba-jw95f.png "絵文字 ("emoji") as column header in Toshiba's Rupo JW95F word processor manual (1988)")
+![IMG](/images/posts/emoji-wapuro-toshiba-jw95f.png "絵文字 (“emoji”) as column header in Toshiba's Rupo JW95F word processor manual (1988)")
 {:.tofigure}
 
 ----
