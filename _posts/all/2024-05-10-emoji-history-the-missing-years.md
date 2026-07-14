@@ -2,7 +2,7 @@
 layout: post
 title: "Emoji history: the missing years"
 date: '2024-05-10T21:00+01:00'
-modified: '2026-07-14T15:04+01:00'
+modified: '2026-07-14T15:35+01:00'
 tags:
 - japanese
 - emoji
@@ -160,7 +160,7 @@ Thanks to a collector, [Akuji](https://www.reddit.com/r/OldHandhelds/comments/sr
 ![PNG](/images/posts/emoji-history-sharp-pa-8500-emoji-table-20-20.png#pa8500 "Emoji present on Sharp PA-8500 (1988)")
 {:.tofigure}
 
-And if you need to see the word 絵文字 (emoji) next to these symbols to be satisfied, then look no further than this table column header in the manual of 1988's Toshiba Rupo JW95F word processor. My manual is dated 1989 and [scans of it can be found here](https://www.dropbox.com/scl/fo/qkb7folgi29jog0z4cp61/ANxuI4hyWdC2ioD3Bcw1aUA?rlkey=3b14cbx7zwh8xc8hzkij81uwu&st=wy63ddt7&dl=0).
+And if you need to see the word 絵文字 (emoji) next to these symbols to be satisfied, then look no further than this table column header in the manual of 1988's Toshiba Rupo JW95F word processor. My manual is dated 1989 and [scans of it can be found here](https://www.dropbox.com/scl/fo/qkb7folgi29jog0z4cp61/ANxuI4hyWdC2ioD3Bcw1aUA?rlkey=3b14cbx7zwh8xc8hzkij81uwu&st=wy63ddt7&dl=0). Note the inclusion of a *seahorse* emoji!
 
 ![IMG](/images/posts/emoji-wapuro-toshiba-jw95f.png "絵文字 (“emoji”) as column header in Toshiba's Rupo JW95F word processor manual (1988)")
 {:.tofigure}
