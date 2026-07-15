@@ -2,7 +2,7 @@
 layout: post
 title: "Emoji history: the missing years"
 date: '2024-05-10T21:00+01:00'
-modified: '2026-07-14T15:35+01:00'
+modified: '2026-07-15T18:32+01:00'
 tags:
 - japanese
 - emoji
@@ -22,7 +22,7 @@ nouns:
 - SWP-M21
 - Sanyo
 - Toshiba
-- Rupo JW95F
+- Rupo JW 95F
 - DoCoMo
 - PI-4000
 - PI-3000
@@ -160,9 +160,9 @@ Thanks to a collector, [Akuji](https://www.reddit.com/r/OldHandhelds/comments/sr
 ![PNG](/images/posts/emoji-history-sharp-pa-8500-emoji-table-20-20.png#pa8500 "Emoji present on Sharp PA-8500 (1988)")
 {:.tofigure}
 
-And if you need to see the word 絵文字 (emoji) next to these symbols to be satisfied, then look no further than this table column header in the manual of 1988's Toshiba Rupo JW95F word processor. My manual is dated 1989 and [scans of it can be found here](https://www.dropbox.com/scl/fo/qkb7folgi29jog0z4cp61/ANxuI4hyWdC2ioD3Bcw1aUA?rlkey=3b14cbx7zwh8xc8hzkij81uwu&st=wy63ddt7&dl=0). Note the inclusion of a *seahorse* emoji!
+And if you need to see the word 絵文字 (emoji) next to these symbols to be satisfied, then look no further than this table column header in the manual of 1988's Toshiba Rupo JW 95F word processor. My manual is dated 1989 and [scans of it can be found here](https://www.dropbox.com/scl/fo/qkb7folgi29jog0z4cp61/ANxuI4hyWdC2ioD3Bcw1aUA?rlkey=3b14cbx7zwh8xc8hzkij81uwu&st=wy63ddt7&dl=0). Note the inclusion of a *seahorse* emoji!
 
-![IMG](/images/posts/emoji-wapuro-toshiba-jw95f.png "絵文字 (“emoji”) as column header in Toshiba's Rupo JW95F word processor manual (1988)")
+![IMG](/images/posts/emoji-wapuro-toshiba-jw95f.png "絵文字 (“emoji”) as column header in Toshiba's Rupo JW 95F word processor manual (1988)")
 {:.tofigure}
 
 ----
@@ -259,7 +259,7 @@ The word kept showing up in places I wasn't expecting:
 - 1984: The graphic designer [Kuwayama Yasaburō publishes a 431-page reference book](https://archive.org/details/trademarkssymbol00kuwa) titled simply 『世界の絵文字』 (Sekai no Emoji / "Emoji of the World") on global logos, pictograms, and trademark design, spanning the years 1970–1983.
 - 1984: [ASCII magazine reviews the Canon PW-10 word processor](https://archive.org/details/ascii-august-1984/ASCII_August_1984?q=絵文字) in its August news section, noting that "各種記号、絵文字をワンタッチで表示することができる" — "various symbols and emoji can be displayed at the touch of a button". Here are [some great photos thanks to Marcin Wichary](https://newsletter.shifthappens.site/archive/new-in-the-collection-pt-3-canon-pw-101530/).
 - 1985: [MSX Magazine's MSX 豆辞典 pocket dictionary supplement](https://archive.org/details/ascii-msx-magazine-supplement-198510/ASCII%20MSX%20Magazine%20supplement%20198510-MsxBeanDictionary?q=絵文字), distributed via Japan National Railways station kiosks, uses 絵文字 as the umbrella term in its entry for アイコン (icon), and gently complains that American influence has wrongly promoted "icon" into the same umbrella role.
-- 1988: [Toshiba's Rupo JW95F word processor manual uses 絵文字](/images/posts/emoji-wapuro-toshiba-jw95f.png) as a column header in its emoji-input reference table, no gloss whatsoever — the most casual possible use of a technical term.
+- 1988: [Toshiba's Rupo JW 95F word processor manual uses 絵文字](/images/posts/emoji-wapuro-toshiba-jw95f.png) as a column header in its emoji-input reference table, no gloss whatsoever — the most casual possible use of a technical term.
 - 1993: Nojima Hisao publishes "絵文字の心理的効果" ("Psychological Effects of Emoji") in the intellectual monthly 現代のエスプリ. By January 1994 it was being cited internationally in the [Pacific Telecommunications Council conference proceedings](https://archive.org/details/ERIC_ED370541?q=emoji) in Honolulu.
 
 What DoCoMo's 1999 set did was become the international reference point — which is why English borrowed 絵文字 as "emoji" rather than Sharp's or Toshiba's or Sanyo's much earlier sets. The word's invention is fiction. Its globalisation via DoCoMo is real, but only in English. 🌍
