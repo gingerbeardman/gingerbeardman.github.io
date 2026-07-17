@@ -15,7 +15,9 @@ layout: default
         </a>
         <time class='c-post__date' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>
           {{ page.modified | default: page.date | date: '%Y-%m-%d' }}
-          {% if page.modified %} &nbsp;•&nbsp; edited{% endif %}
+          {% assign published_day = page.date | date: '%Y-%m-%d' %}
+          {% assign modified_day = page.modified | date: '%Y-%m-%d' %}
+          {% if page.modified and modified_day != published_day %} &nbsp;•&nbsp; edited{% endif %}
           &nbsp;•&nbsp; {% include_cached read-time.html pcontent=page.content %}
           {% if page.tags %}
             <span class='c-tags'>
