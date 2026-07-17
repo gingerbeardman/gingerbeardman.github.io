@@ -160,7 +160,7 @@ Thanks to a collector, [Akuji](https://www.reddit.com/r/OldHandhelds/comments/sr
 ![PNG](/images/posts/emoji-history-sharp-pa-8500-emoji-table-20-20.png#pa8500 "Emoji present on Sharp PA-8500 (1988)")
 {:.tofigure}
 
-And if you need to see the word 絵文字 (emoji) next to these symbols to be satisfied, then look no further than this table column header in the manual of 1988's Toshiba Rupo JW 95F word processor. My manual is dated 1989 and [scans of it can be found here](https://www.dropbox.com/scl/fo/qkb7folgi29jog0z4cp61/ANxuI4hyWdC2ioD3Bcw1aUA?rlkey=3b14cbx7zwh8xc8hzkij81uwu&st=wy63ddt7&dl=0). Note the inclusion of a *seahorse* emoji!
+And if you need to see the word 絵文字 (emoji) next to these symbols to be satisfied, then look no further than this table column header in the manual of 1988's Toshiba Rupo JW 95F word processor. My manual is dated 1989 and [scans of it can be found here](https://www.dropbox.com/scl/fo/qkb7folgi29jog0z4cp61/ANxuI4hyWdC2ioD3Bcw1aUA?rlkey=tpx0amsdf9bwfplmh7qjf8g86&st=r7rt4nth&dl=0). Note the inclusion of a *seahorse* emoji!
 
 ![IMG](/images/posts/emoji-wapuro-toshiba-jw95f.png "絵文字 (“emoji”) as column header in Toshiba's Rupo JW 95F word processor manual (1988)")
 {:.tofigure}
