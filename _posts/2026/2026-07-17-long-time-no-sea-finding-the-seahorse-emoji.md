@@ -35,7 +35,7 @@ Happy [World Emoji Day](https://worldemojiday.com)! 🎉
 
 It's celebrated on 17th July because that's the date shown on the calendar emoji. 📅 
 
-To mark the occasion, a fun one: lots of people are *certain* they remember a seahorse emoji. They can describe it in detail—small, curled tail, usually facing left. But there has never been one. Not in Unicode, not in the famous [SoftBank (1997)](https://emojipedia.org/softbank/1997) or [NTT DoCoMo (1999)](https://emojipedia.org/docomo/1999) sets or [any of the three earlier sets I previously uncovered (1988–1994)](/2024/05/10/emoji-history-the-missing-years/). It's become a textbook [Mandela Effect](https://www.reddit.com/r/MandelaEffect/search/?q=seahorse+emoji), complete with Reddit threads—and lately AI chatbots—spiralling over an emoji that doesn't exist. 🤖
+To mark the occasion, a fun one: lots of people are *certain* they remember a seahorse emoji. They can describe it in detail—small, curled tail, usually facing left. But there has never been one. Not in Unicode, not in the famous [SoftBank (1997)](https://emojipedia.org/softbank/1997) or [NTT DoCoMo (1999)](https://emojipedia.org/docomo/1999) sets, or [any of the three earlier sets I previously uncovered (1988–1994)](/2024/05/10/emoji-history-the-missing-years/). It's become a textbook [Mandela Effect](https://www.reddit.com/r/MandelaEffect/search/?q=seahorse+emoji), complete with Reddit threads—and lately AI chatbots—spiralling over an emoji that doesn't exist. 🤖
 
 Except it did exist. Everybody was just looking a decade too late. 🔰
 
