@@ -50,4 +50,4 @@ So if you remember a seahorse emoji, you're not imagining things. You might simp
 
 There's still no seahorse in Unicode, though. I'd sign off with one, but… 🐠
 
-> My copy of the Toshiba Rupo JW 95F manual is dated 1989 and [selected scans can be found here](https://www.dropbox.com/scl/fo/qkb7folgi29jog0z4cp61/ANxuI4hyWdC2ioD3Bcw1aUA?rlkey=3b14cbx7zwh8xc8hzkij81uwu&st=wy63ddt7&dl=0).
+> My copy of the Toshiba Rupo JW 95F manual is dated 1989 and [selected scans can be found here](https://www.dropbox.com/scl/fo/qkb7folgi29jog0z4cp61/ANxuI4hyWdC2ioD3Bcw1aUA?rlkey=tpx0amsdf9bwfplmh7qjf8g86&st=r7rt4nth&dl=0).
