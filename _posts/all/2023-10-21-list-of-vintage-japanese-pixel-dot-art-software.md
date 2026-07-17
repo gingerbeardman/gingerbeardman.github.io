@@ -20,7 +20,7 @@ nouns:
 - Google Sheet
 - Google
 featured: true
-pinned: true
+pinned: false
 image: /images/posts/list-of-vintage-japanese-pixel-dot-art-software.jpg
 comments: https://twitter.com/gingerbeardman/status/1714384114684416041
 
