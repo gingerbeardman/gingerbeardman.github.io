@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Long time no sea: the seahorse emoji"
+title: "Long time no sea: finding the seahorse emoji"
 date: '2026-07-17T02:30+01:00'
 tags:
 - art
