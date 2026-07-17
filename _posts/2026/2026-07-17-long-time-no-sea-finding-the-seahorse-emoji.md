@@ -2,7 +2,7 @@
 layout: post
 title: "Long time no sea: finding the seahorse emoji"
 date: '2026-07-17T02:30+01:00'
-modified: '2026-07-17T15:10+01:00'
+modified: '2026-07-17T20:49+01:00'
 tags:
 - art
 - design
@@ -38,7 +38,7 @@ Did you know it's celebrated on 17th July because it's the date shown on the cal
 
 To mark the occasion, something fun: lots of people are *certain* they remember a seahorse emoji. They can describe it in detail—small, with a curled tail, usually facing left. But there has never been an official one. Not in Unicode, not in the famous [SoftBank (1997)](https://emojipedia.org/softbank/1997) or [NTT DoCoMo (1999)](https://emojipedia.org/docomo/1999) sets, or [any of the three earlier sets I previously uncovered (1988–1994)](/2024/05/10/emoji-history-the-missing-years/). It's become a textbook [Mandela Effect](https://www.reddit.com/r/MandelaEffect/search/?q=seahorse+emoji), complete with Reddit threads—and lately AI chatbots—spiralling over an emoji that doesn't exist. 🤖
 
-It turns out it did exist—people have just been looking a decade too late. 🕰️
+It turns out it did exist—people have just been looking a decade too late. 🔰
 
 As part of my ongoing research into [emoji history](/2024/05/10/emoji-history-the-missing-years/), I recently got hold of the manual for the Toshiba Rupo JW 95F, a Japanese word processor from 1988, which has a [full set](/images/posts/emoji-wapuro-toshiba-jw95f.png) of built-in 絵文字 ("emoji", in what is currently the earliest use of the word next to a set of recognisable emoji). And there, swimming amongst the animals, was a cute little seahorse! 🥹
 
