@@ -39,7 +39,7 @@ To mark the occasion, a fun one: lots of people are *certain* they remember a se
 
 Except it did exist. Everybody was just looking a decade too late. 🔰
 
-As part of my ongoing research into [emoji history](/2024/05/10/emoji-history-the-missing-years/), I recently got hold of the manual for the Toshiba Rupo JW 95F, a Japanese word processor from 1988 with a full set of built-in 絵文字 ("emoji", in what is currently the earliest use of the word next to a set of recognisable emoji). And there, swimming amongst the animals: a cute little seahorse! 🥹
+As part of my ongoing research into [emoji history](/2024/05/10/emoji-history-the-missing-years/), I recently got hold of the manual for the Toshiba Rupo JW 95F, a Japanese word processor from 1988 with a [full set](/images/posts/emoji-wapuro-toshiba-jw95f.png) of built-in 絵文字 ("emoji", in what is currently the earliest use of the word next to a set of recognisable emoji). And there, swimming amongst the animals: a cute little seahorse! 🥹
 
 ![IMG](/images/posts/emoji-wapuro-toshiba-jw95f-seahorse.png "Spot the seahorse emoji! Toshiba Rupo JW 95F word processor (1988)")
 {:.tofigure}
