@@ -32,7 +32,7 @@ To test my new system I've been recreating many old arcade games to see how easi
 
 Here's an arcade-faithful version of Asteroids, in only 475 lines! 
 
-> First playable version was 360 lines but I wanted it more authentic, which meant 115 extra lines
+> First playable version was 360 lines but I wanted it more authentic, which meant an 115 extra lines
 
 I'll be sharing more details about this wonderful new system over the coming weeks and months.
 
