@@ -28,7 +28,7 @@ I forced myself to think about the future and asked "how might games be made in 
 
 It took a lot of work but I've done it!
 
-To test my new system I've been recreating many old arcade games to see how easily and succinctly these classics sit and fit in my new system. 
+Since then I've been recreating many old arcade games to see how easily and succinctly these classics sit and fit in my new system. 
 
 Here's an arcade-faithful version of Asteroids, in only 475 lines! 
 
