@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
-modified: '2026-05-29T14:04+01:00'
 date: '2023-10-21T16:56+01:00'
+modified: '2026-07-24T09:08+01:00'
 tags:
 - graphics
 - pixelart
@@ -40,7 +40,7 @@ Regarding the empty cells: software missing a Japanese name was mostly referred 
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
-Total entries: 272
+Total entries: 273
 
 <div class="table-wrapper" markdown="block">
 | Platform | English | Japanese | Year | Developer |
@@ -75,6 +75,7 @@ Total entries: 272
 | Macintosh | SketchBook 68K |  | 2000 | Shibutaro Kimura |
 | Macintosh | Solid Paint |  | 1996 | Masatoshi Utashiro |
 | Macintosh | WishDraw |  | 1998 | Motoo Tanaka |
+| Mega Drive | Art Alive! | アート・アライブ | 1991 | Western Technologies |
 | MPC-X | MPC-X Lightpen Graphics |  | 1984 | Sanyo |
 | MSX | ACE-tools DRAW-SET |  | 1997 | Akio Hiramatsu |
 | MSX | Animation editor EDDY | アニメエディタＥＤＤＹ | 1984 | HAL Laboratory |
