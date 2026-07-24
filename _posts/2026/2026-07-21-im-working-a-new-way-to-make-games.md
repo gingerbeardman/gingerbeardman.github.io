@@ -10,7 +10,7 @@ tags:
 nouns:
 - Asteroids
 image: /images/posts/jinksgg-asteroids.jpg
-featured: true
+featured: false
 pinned: false
 comments:
   - platform: twitter

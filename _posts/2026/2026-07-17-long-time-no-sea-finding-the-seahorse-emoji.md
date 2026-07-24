@@ -21,7 +21,7 @@ nouns:
 - World Emoji Day
 image: /images/posts/emoji-wapuro-toshiba-jw95f-seahorse.png
 featured: true
-pinned: true
+pinned: false
 comments:
   - platform: twitter
     url: https://twitter.com/gingerbeardman/status/2077933936852758942
