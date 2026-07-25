@@ -2,7 +2,7 @@
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
 date: '2023-10-21T16:56+01:00'
-modified: '2026-07-24T09:08+01:00'
+modified: '2026-07-25T02:22+01:00'
 tags:
 - graphics
 - pixelart
@@ -40,7 +40,7 @@ Regarding the empty cells: software missing a Japanese name was mostly referred 
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
-Total entries: 273
+Total entries: 275
 
 <div class="table-wrapper" markdown="block">
 | Platform | English | Japanese | Year | Developer |
@@ -124,6 +124,7 @@ Total entries: 273
 | MZ-2500 | Palette | ぱれっと | 1987 | Dynaware |
 | MZ-2500 | Quick MZ Paint |  | 1987 | Minoru Morinaka |
 | MZ-2500 | Super Paint |  | 1987 | S.B.C Software |
+| N64 | Mario Artist | マリオアーティスト | 1999 | Nintendo |
 | Newton | HexPaint |  | 1997 | HexDump |
 | Newton | NewtPaint |  | 1995 | Glen Raphael |
 | OS/2 | QueenCy |  | 2000 | masami |
@@ -200,6 +201,7 @@ Total entries: 273
 | PC-98 | Z's STAFF Kid98 |  | 1988 | Zeit |
 | PC-98 | Z's STAFF Kid98 v3.0 |  | 1990 | Zeit |
 | PS-55 | Z's STAFF TRAD |  | 1989 | Zeit |
+| SFC | Mario Paint | マリオペイント | 1992 | Nintendo |
 | SMC | Graphic Editor | グラフィックエディター | 1984 | Sony |
 | TRON-OS | Pelistina |  | 2005 | KAENRYUU Koutoku |
 | TRON-OS | Pelistina 2 |  | 2005 | KAENRYUU Koutoku |
