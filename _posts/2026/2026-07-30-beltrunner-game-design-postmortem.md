@@ -32,7 +32,8 @@ This post is a game design postmortem for BELTRUNNER, an original game built fro
 
 What I *do* want to talk about are the design methods that made it in, the ones that didn't, and the bits the system had to grow so the game could exist. A lot of the methods are old, which is the point.
 
-----
+[![BELTRUNNER](/images/posts/jinksgg-beltrunner.png "Play BELTRUNNER in your browser at my page on itch.io")](https://gingerbeardman.itch.io/beltrunner)
+{:.tofigure}
 
 <iframe height="167" frameborder="0" src="https://itch.io/embed/4820811" width="552" style="max-width:100%;display:block;margin:1.5rem auto"><a href="https://gingerbeardman.itch.io/beltrunner">BELTRUNNER by gingerbeardman</a></iframe>
 
@@ -92,11 +93,11 @@ Pac-Man's patterns. Donkey Kong's fixed barrel logic. Flicky's routes. What I lo
 
 Beltrunner leans into that approach.
 
-Every "random" draw—rock spawn edges and headings, gate placement, powerup scatter—comes from one seeded stream. A single number *is* the layout. Restart it and run 1 of a session matches run 1 of the next under the same inputs. Change the seed and you get a completely different, equally fair course from the same rules.
+Every "random" draw—rock spawn edges and headings, gate placement, power-up scatter—comes from one seeded stream. A single number *is* the layout. Restart it and run 1 of a session matches run 1 of the next under the same inputs. Change the seed and you get a completely different, equally fair course from the same rules.
 
 That matters for learning (the field is a place you can know), for replays (a recording only works if the stream matches), and for tuning (you're adjusting rules and a seed, not praying to chance).
 
-Powerup drops are on a fixed cadence too: every eighth rock kill arms one, cycling [T] → [I] → [S]. No "1-in-8 chance" fudge like the diamond drop in Flicky. The gun still *feels* generous; the schedule is learnable and predictable.
+Power-up drops are on a fixed cadence too: every eighth rock kill arms one, cycling `[T]` → `[I]` → `[S]`. No "1-in-8 chance" fudge like the diamond drop in Flicky. The gun still *feels* generous; the schedule is learnable and predictable.
 
 ----
 
@@ -108,9 +109,9 @@ I've applied something similar to the rock field.
 
 From stage 2 on, one large rock is highlighted at a time. Split it in-sequence and a sustained voice joins a chord: root, third, fifth, octave. Split a sequenced rock out of turn and the voices cut. You notice you've done something wrong when the choir is no longer singing—a missing pip is easy to miss, a chord that *stops* is not.
 
-Follow the lights faithfully and the last stop is always the **clover**: a rock that is visually reminiscent of a lucky four-leaf clover, hiding in plain sight among ordinary rocks of the same shape. Complete the ladder on it and it drops **[E]**, the secret jackpot—time, invincibility and freeze, all at once. Take the risk and you will be rewarded.
+Follow the lights faithfully and the last stop is always the **clover**: a rock that is visually reminiscent of a lucky four-leaf clover, hiding in plain sight among ordinary rocks of the same shape. Complete the ladder on it and it drops **`[E]`**, the secret jackpot—time, invincibility and freeze, all at once. Take the risk and you will be rewarded.
 
-Never explained on screen. The powerups legend reads `????` until you've found it once; after that it says `EXTRA` as a badge of honour. You found a secret.
+Never explained on screen. The power-ups legend reads `????` until you've found it once; after that it says `EXTRA` as a badge of honour. You found a secret.
 
 One thing to note: I tried putting numbers on the rocks themselves at some point, but it was too cluttered. It was only after trying this that I landed on highlighting the rocks.
 
@@ -118,22 +119,22 @@ There's a second secret one layer up: finish all 16 waves and attract mode unloc
 
 ----
 
-## Loose collectable powerups (the Pang way)
+## Loose collectable power-ups (the Pang way)
 
 Not menu upgrades. Not locked loadouts. Tokens in the field.
 
-Pang (and a long line of arcade games before and after it) understood that a powerup you have to *go and get* is a decision, not a buff popup. Beltrunner uses the same idiom: stroked ring, coloured letter, slow drift, and an accelerating blink in the last two seconds so expiry reads as a countdown you lost rather than a vanish the game cheated with.
+Pang (and a long line of arcade games before and after it) understood that a power-up you have to *go and get* is a decision, not a buff popup. Beltrunner uses the same idiom: stroked ring, coloured letter, slow drift, and an accelerating blink in the last two seconds so expiry reads as a countdown you lost rather than a vanish the game cheated with.
 
 **Drops**—the gun mints tools while it raises the stakes:
 
-- **[T] TIME**—clock +10. The game's main currency.
-- **[I] INVINCIBLE**—a few seconds of ramming without dying; rocks split on contact like billiard balls.
-- **[S] STOP**—rocks freeze *and* the race clock freezes. A real breather. (An early version froze only the rocks and left the clock running—quietly mean during the one window that was supposed to be a breather.)
+- **`[T]` TIME**—clock +10. The game's main currency.
+- **`[I]` INVINCIBLE**—a few seconds of ramming without dying; rocks split on contact like billiard balls.
+- **`[S]` STOP**—rocks freeze *and* the race clock freezes. A real breather. (An early version froze only the rocks and left the clock running—quietly mean during the one window that was supposed to be a breather.)
 
 **Placed**—field knowledge, not luck:
 
-- **[E] EXTRA**—the clover ritual above. For a while it paid only "a bit more time than [T]", which is an anticlimax for a secret. Now it's the jackpot: time + invincibility + freeze together.
-- **[W] WARP**—only on the last wave of acts I–III, once that act's mechanic has actually been taught. Orbits a host rock as a satellite; claim it by shaving past. Shoot the host and the token knocks loose to drift. Effect: open the black hole *now*, forfeit remaining gates, bank the clock. The escape hatch for a field gone wrong—never on wave 16, because there is nothing left to escape into. (An earlier cadence put the escape on the wave that *introduced* a mechanic, definitely the wrong place for it.)
+- **`[E]` EXTRA**—the clover ritual above. For a while it paid only "a bit more time than `[T]`", which is an anticlimax for a secret. Now it's the jackpot: time + invincibility + freeze together.
+- **`[W]` WARP**—only on the last wave of acts I–III, once that act's mechanic has actually been taught. Orbits a host rock as a satellite; claim it by shaving past. Shoot the host and the token knocks loose to drift. Effect: open the black hole *now*, forfeit remaining gates, bank the clock. The escape hatch for a field gone wrong—never on wave 16, because there is nothing left to escape into. (An earlier cadence put the escape on the wave that *introduced* a mechanic, definitely the wrong place for it.)
 
 The loop I care about: crowd the field for fatter gates, fish a drop, cash the route while protected. Tools and risk sit happily alongside each other.
 
@@ -147,7 +148,7 @@ A non-exhaustive tour of other bits that survived the cut:
 
 **Wrap-edge racing.** The torus is real—rocks and ship straddle both sides of a wrap, collisions reach across. Contrast this approach to original Asteroids where rocks teleport to the other side when their centre-point crosses the edge, before and after which you can't see upto half the rock. The fast route to the next gate is often through the screen edge. Classic Asteroids geometry, read as a race line.
 
-**Black hole sun.** Pull across the arena; a tiny event horizon at the centre. You can fly *by* the hole, feel the tug, graze the rings, and only warp if you thread the eye. Perhaps there's still a loose powerup to grab, worthwhile as their effects last across wave transitions. The open sound climbs to a hanging dominant; the dive resolves it. Musical design, not just VFX.
+**Black hole sun.** Pull across the arena; a tiny event horizon at the centre. You can fly *by* the hole, feel the tug, graze the rings, and only warp if you thread the eye. Perhaps there's still a loose power-up to grab, worthwhile as their effects last across wave transitions. The open sound climbs to a hanging dominant; the dive resolves it. Musical design, not just VFX.
 
 **Attract mode.** I checked the original Asteroids: it's one continuous simulation, rocks drifting under swappable text overlays, no ship while idle, no self-play, high-score table not drawn while empty. Beltrunner adopts that approach. The world never stops.
 
@@ -157,7 +158,7 @@ A non-exhaustive tour of other bits that survived the cut:
 
 **Audio as teaching.** Greenwich Time Signal pips on the last six seconds (B5 is near enough 1000Hz, and also the tonic of the bed). A drone bed that borrows a well-used chord progression—voiced as cabinet hum, not soundtrack. The lit-sequence chord uses the one sustained timbre the bed deliberately never uses, so it colours rather than buries.
 
-**Invincible ram as snooker.** While [I] is up, ramming splits the rock and both bodies leave along the contact—bounce off the big one, plough through the small one. The ladder of feel falls out of the shapes. Earlier versions either didn't bounce at all or sent the ship flying off uncontrollably.
+**Invincible ram as snooker.** While `[I]` is up, ramming splits the rock and both bodies leave along the contact—bounce off the big one, plough through the small one. The ladder of feel falls out of the shapes. Earlier versions either didn't bounce at all or sent the ship flying off uncontrollably.
 
 ----
 
@@ -191,7 +192,7 @@ Beltrunner runs on all of them. Not a port, not a rebuild: the same 1,300 lines,
 
 That is the whole game.
 
-Same spirit as the Asteroids cart: not a prototype with the "real" code elsewhere, not a thin shell over a bespoke mode. The whole loop lives in one place—waves, attract, high scores, powerups, sounds, victory, the secret unlock of its own ancestor—and it shares its bones with the rest of the collection. The system features above are the shared bones; the 1,400 lines are how Beltrunner arranges them.
+Same spirit as the Asteroids cart: not a prototype with the "real" code elsewhere, not a thin shell over a bespoke mode. The whole loop lives in one place—waves, attract, high scores, power-ups, sounds, victory, the secret unlock of its own ancestor—and it shares its bones with the rest of the collection. The system features above are the shared bones; the 1,400 lines are how Beltrunner arranges them.
 
 Beltrunner starts like Asteroids, becomes a countdown race, teaches like Nintendo, hides like Bomb Jack, drops like Pang, and ends—actually ends—after sixteen waves you can learn by heart.
 
