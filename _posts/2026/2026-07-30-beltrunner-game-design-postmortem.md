@@ -20,7 +20,7 @@ nouns:
 - Phoenix
 - Wii
 - Dreamcast
-image: /images/posts/jinksgg-asteroids.jpg
+image: /images/posts/jinksgg-beltrunner.png
 featured: true
 pinned: false
 
