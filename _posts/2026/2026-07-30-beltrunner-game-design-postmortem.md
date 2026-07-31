@@ -35,7 +35,7 @@ comments:
 
 Last week I [shared a look at an arcade-faithful version of Asteroids](/2026/07/21/im-working-a-new-way-to-make-games/) to demonstrate the totally new way of making games that I've been working on. It's called [Jinks](/2026/07/30/hi-jinks/) and it's a lightweight game-engine, interactive development environment, and a language of sorts.
 
-This post is a game design postmortem for BELTRUNNER, an original game built from the same bones of Asteroids. Roughly 1,300 lines for a whole game you can finish. Built on the same system, in same succinct language, with all the same nicities, though I'll continue to stay a little coy about the machinery for now, mostly because things are still changing so much every day. Things need to settle down so I can describe what it is rather than what it used to be.
+This post is a game design postmortem for BELTRUNNER, an original game built from the same bones of Asteroids, and my entry into #GMTKjam 2026. Roughly 1,300 lines for a whole game you can finish. Built on the same system, in same succinct language, with all the same nicities, though I'll continue to stay a little coy about the machinery for now, mostly because things are still changing so much every day. Things need to settle down so I can describe what it is rather than what it used to be.
 
 What I *do* want to talk about are the design methods that made it in, the ones that didn't, and the bits the system had to grow so the game could exist. A lot of the methods are old, which is the point.
 
