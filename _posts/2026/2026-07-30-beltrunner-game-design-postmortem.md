@@ -60,9 +60,9 @@ I then had the idea to pivot back towards Asteroids, but making the numbered pic
 
 Stage 1 is pure Asteroids: one large rock, classic thrust-and-drift, classic splits, classic death-and-respawn. The only tell is a race clock that appears on first hit. The first clue that things are not how they seem. Clear the field and instead of "next wave of rocks," a black hole tears open at screen centre. Gravity pulls you in, and you can do a little dash to help it along.
 
-From stage 2 the real game reveals itself. Numbered gates are scattered through the same drifting rock field, taken in **descending** order—5… 4… 3… 2… 1…—so the race chants a countdown as you fly it. Take the last gate and the zero opens again. Warp. Change. Rinse. Repeat.
+From stage 2 the real game reveals itself. Numbered gates are scattered through the same drifting rock field, taken in **descending** order—5… 4… 3… 2… 1…—so the race chants a countdown as you fly it. Take the last gate and the zero opens again. Warp. Rinse. Repeat.
 
-Teach the chassis first, then recontextualise it. If you already know Asteroids you can fly stage 1 on muscle memory. If you don't, you still learn the only movement model that matters before the race asks you to thread it.
+Teach the chassis first, then recontextualise it. If you already know Asteroids you can fly stage 1 on muscle memory. If you don't, you still learn the only movement model that matters before the race asks you to master it.
 
 Two countdowns converge on zero:
 
