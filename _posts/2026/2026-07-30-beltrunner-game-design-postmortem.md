@@ -23,6 +23,13 @@ nouns:
 image: /images/posts/jinksgg-beltrunner.png
 featured: true
 pinned: false
+comments:
+  - platform: twitter
+    url: https://twitter.com/gingerbeardman/status/2082982312304627857
+  - platform: bluesky
+    url: https://bsky.app/profile/gingerbeardman.com/post/3mrvo54opts2q
+  - platform: mastodon
+    url: https://mastodon.gamedev.place/@gingerbeardman/117011688514871946
 
 ---
 
