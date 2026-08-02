@@ -39,6 +39,8 @@ style: |
   @media (prefers-color-scheme: dark) {
     blockquote em { color: #cccccc; }
   }
+  /* Pull each English line up half a line so it groups with the Japanese above it */
+  blockquote p:has(em) { margin-top: -1rem; }
 
 ---
 
