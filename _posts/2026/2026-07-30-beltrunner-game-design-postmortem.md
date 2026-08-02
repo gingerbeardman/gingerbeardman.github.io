@@ -9,6 +9,7 @@ tags:
 - videogame
 - arcade
 - postmortem
+- gmtkjam
 nouns:
 - Beltrunner
 - Asteroids
