@@ -26,6 +26,13 @@ nouns:
 image: /images/posts/mtj-gamest-31-prediction.jpg
 featured: false
 pinned: false
+comments:
+  - platform: twitter
+    url: https://twitter.com/gingerbeardman/status/2084009628929597921
+  - platform: bluesky
+    url: https://bsky.app/profile/gingerbeardman.com/post/3ms4sa5uzbc2y
+  - platform: mastodon
+    url: https://mastodon.gamedev.place/@gingerbeardman/117027739762876046
 style: |
   /* Bilingual quotes: lift the English (italic) lines toward the body-text colour so they read more easily than the muted Japanese */
   blockquote em { color: #555555; }
