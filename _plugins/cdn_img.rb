@@ -13,10 +13,17 @@ module Jekyll
     end
 
     def process(item)
-      item.content = item.content.gsub(/!\[(.*?)\]\((\/images\/.*?)\)/) do |match|
+      item.content = item.content.gsub(/!\[(.*?)\]\((\/images\/[^\s)]*)/) do |match|
         alt_text = $1
         image_path = $2
-        "![#{alt_text}](#{@cdn_url}#{image_path})"
+        "![#{alt_text}](#{@cdn_url}#{image_path}"
+      end
+
+      item.content = item.content.gsub(/(src|srcset)=(["'])(\/images\/[^"']*)\2/) do |match|
+        attribute = $1
+        quote = $2
+        image_path = $3
+        "#{attribute}=#{quote}#{@cdn_url}#{image_path}#{quote}"
       end
     end
   end
