@@ -94,7 +94,7 @@ Then, to show where that road leads, he writes a little scene of science fiction
 >
 > *"IT'S DONE!! A MASTERPIECE. A MASTERPIECE OF A… COPY GAME. Our company's going to clean up with this one."*
 
-A game, generated in moments, from a prompt. In 1989.
+A game, generated in moments, from a prompt. In 1989. I don't think this was clairvoyance—MTJ was simply so immersed in the game industry that he could see where it was heading.
 
 (In the original, the robot speaks entirely in katakana, its speech wobbling between Kansai, Kyushu, and Hiroshima dialects with the odd flourish of archaic courtly Japanese—エランデタモレ, "pray choose". English can't really reproduce that, so here it's an over-formal servant whose register keeps slipping.)
 
