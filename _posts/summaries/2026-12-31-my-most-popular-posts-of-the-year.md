@@ -42,6 +42,7 @@ The following posts keep on truckin' (most popular first):
 - Added dark-mode styles (10 May)
 - Added per-tag RSS feeds (28 Jun)
 - Tag rationalisation and cleanup (28 Jun)
+- Update CDN plugin to work with image sets (2 Aug)
 
 ## Previous years
 - [My most popular posts of 2025](/2025/12/31/my-most-popular-posts-of-the-year/)
