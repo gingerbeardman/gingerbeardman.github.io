@@ -34,7 +34,7 @@ comments:
   - platform: mastodon
     url: https://mastodon.gamedev.place/@gingerbeardman/117027739762876046
 style: |
-  /* Bilingual quotes: lift the English (italic) lines toward the body-text colour so they read more easily than the muted Japanese */
+  /* Bilingual quotes: lift the English lines toward the body-text colour so they read more easily than the muted Japanese */
   blockquote em { color: #555555; }
   @media (prefers-color-scheme: dark) {
     blockquote em { color: #cccccc; }
