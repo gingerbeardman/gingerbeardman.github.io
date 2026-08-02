@@ -2,6 +2,7 @@
 layout: post
 title: "BELTRUNNER: game design postmortem"
 date: '2026-07-30T23:34+01:00'
+modified: '2026-08-02T11:47+01:00'
 tags:
 - gamedev
 - design
@@ -158,6 +159,8 @@ A non-exhaustive tour of other bits that survived the cut:
 **Black hole sun.** Pull across the arena; a tiny event horizon at the centre. You can fly *by* the hole, feel the tug, graze the rings, and only warp if you thread the eye. Perhaps there's still a loose power-up to grab, worthwhile as their effects last across wave transitions. The open sound climbs to a hanging dominant; the dive resolves it. Musical design, not just VFX.
 
 **Attract mode.** I checked the original Asteroids: it's one continuous simulation, rocks drifting under swappable text overlays, no ship while idle, no self-play, high-score table not drawn while empty. Beltrunner adopts that approach. The world never stops.
+
+**Design system.** Instances of HUD text with the same intent always appear at the same y-position and in the same size, with three distinct sizes creating additional hierarchy. This allows players to learn meaning and structure without realising it.
 
 **High scores that know the economy.** The attract high score table isn't ten numbers typed in by hand and left to go stale. It derives from what the game can actually pay—retune a gate or a warp bank and the whole table moves with it. Cold ranks still look like clean arcade scores, not arithmetic leftovers. Jinks IDE surfaces theoretical maximum score in its inspector.
 
