@@ -19,6 +19,7 @@ nouns:
 - Donkey Kong
 - Flicky
 - Nintendo
+- Arcade
 - Phoenix
 - Wii
 - Dreamcast
@@ -69,9 +70,9 @@ Starting this way lets the player learn the controls before the race asks them t
 Two countdowns converge on zero:
 
 1. **The gate count**, which you drive.
-2. **The race clock**, which drives you—every gate feeds it a few seconds and rock collision depletes it.
+2. **The race clock**, which drives you—every gate feeds it and every collision depletes it.
 
-There are no lives, so time becomes the only resource. This got rid of a lot of classic arcade bookkeeping and left me with one thing that can be read at a glance. It worked well and stuck through every playtest.
+There are no lives, so time becomes the only resource. This got rid of a lot of classic arcade bookkeeping and left me with one thing that can be read at a glance. It worked well and stuck through every play-test.
 
 ----
 
@@ -83,22 +84,22 @@ Each act teaches **one** new gate behaviour, then spends three more waves lettin
 
 | Act | Waves | What it teaches |
 |---|---|---|
-| I | 1–4 | The reveal—pure Asteroids—then elliptical gates |
-| II | 5–8 | Directional (one-way) gates—a routing problem |
-| III | 9–12 | Spinning gates—a timing problem |
-| IV | 13–16 | Both at once—asks for everything, then ends |
+| I | 1–4 | The reveal—pure Asteroids, black hole, elliptical gates—introduces pathfinding skill |
+| II | 5–8 | Directional (one-way) gates—introduces routing skill |
+| III | 9–12 | Spinning gates—introduces timing skill |
+| IV | 13–16 | Both at once—everything all at once, then ends |
 
 I think of that "introduce → practice → practice → close" cadence as a very Nintendo way of doing things. A mechanic shown once and then immediately buried under the next one was never really taught. Four waves gives you enough time to notice it, get caught by it, and then start planning around it.
 
 In the game code I only write down what *changes* from one wave to the next. A practice wave that keeps the previous setup is empty on purpose. Introductory text appears only when something new is actually on screen. It isn't a tutorial, just a small toast that gives you enough of a clue.
 
-Early gates were round rings. Side-on grazes felt wrong, so elliptical slots became the baseline after the first playtest. Directional and spinning came later as routing and timing problems, not as decoration.
+Early gates were round rings. Side-on grazes felt wrong, so elliptical slots became the baseline after the first play-test. Directional and spinning came later as routing and timing problems, not as decoration.
 
 ----
 
 ## Deterministic gameplay (the Arcade way)
 
-I love learning the patterns in Pac-Man, the barrel logic in Donkey Kong, and the routes through Flicky. Those games feel like **courses**: learn the layout and your knowledge begins to compound. Beltrunner leans into the same approach.
+I love learning the patterns in Pac-Man, the barrel logic in Donkey Kong, and the routes through Flicky. Those games feel like *courses*: learn the layout and your knowledge begins to compound. Beltrunner leans into the same approach.
 
 Every "random" draw—rock spawn edges and headings, gate placement, power-up scatter—comes from one seeded stream. A single number describes the whole layout. Restart the game and the first run of one session will match the first run of the next, given the same inputs. Change the seed and you get a completely different but equally fair course from the same rules.
 
@@ -114,7 +115,7 @@ Bomb Jack has a sequential bonus that rewards you for collecting the lit targets
 
 From wave 2 onwards, one large rock is highlighted at a time. Split it in sequence and a sustained voice joins a chord: root, third, fifth, octave. Split one out of turn and the voices cut. You notice you've done something wrong because the choir is no longer singing. A missing pip is easy to miss, but a chord that suddenly stops is not.
 
-Follow the lights and the last stop is always the **clover**, a rock shaped a little like a lucky four-leaf clover and hiding in plain sight among the others. Complete the sequence and it drops **`[E]`**, the secret jackpot containing time, invincibility and freeze all at once.
+Follow the lights and the last stop is always the *clover*, a rock shaped a little like a lucky four-leaf clover and hiding in plain sight among the others. Complete the sequence and it drops *`[E]`*, the secret jackpot containing time, invincibility and freeze all at once.
 
 None of this is explained on screen. The power-ups legend reads `????` until you've found it once; after that it says `EXTRA` as a small badge of honour.
 
@@ -199,4 +200,4 @@ I like that it begins as Asteroids, turns into a countdown race, borrows ideas f
 
 I'll write more about how games are authored in Jinks once the system has stopped changing quite so quickly. 
 
-Until then: have fun!
+Until then…have fun!
