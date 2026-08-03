@@ -94,7 +94,7 @@ Then, to show where that road leads, he writes a little scene of science fiction
 >
 > *"IT'S DONE!! A MASTERPIECE. A MASTERPIECE OF A… COPY GAME. Our company's going to clean up with this one."*
 
-Reading it now, the resemblance to today's game-generating tools is hard to miss. I don't think this was clairvoyance—MTJ was simply so immersed in the game industry that he could see where it was heading.
+Reading it now, the resemblance to today's generative-ai tools is hard to miss. I don't think this was clairvoyance—MTJ’s deep immersion in the Japan's 1980s game industry allowed him to see the outcome as an inevitability.
 
 (In the original, the robot speaks entirely in katakana, its speech wobbling between Kansai, Kyushu, and Hiroshima dialects with the odd flourish of archaic courtly Japanese—エランデタモレ, "pray choose". English can't really reproduce that, so here it's an over-formal servant whose register keeps slipping.)
 
