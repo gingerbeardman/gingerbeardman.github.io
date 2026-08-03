@@ -12,6 +12,7 @@ tags:
 nouns:
 - Blueberry
 - Blueberry.Net
+- Magic Button
 - Apple
 - Power Mac G4
 - iMac
@@ -47,22 +48,22 @@ style: |
 
 ---
 
-[back in 2024 I posted a few of these on Twitter](https://twitter.com/gingerbeardman/status/1823639267425354226) ([thread reader](https://twitter-thread.com/t/1823639267425354226)) after digging out old photos from the Y2K [dot-com boom](https://en.wikipedia.org/wiki/Dot-com_bubble). I was working in London at a digital agency called [Blueberry](https://www.campaignlive.co.uk/search/articles?KeyWords=blueberry.net). Please take a seat for peak translucent plastic aesthetic and some period flashbacks.
+[Back in 2024 I posted a few of these on Twitter](https://twitter.com/gingerbeardman/status/1823639267425354226) ([thread reader](https://twitter-thread.com/t/1823639267425354226)) after digging out old photos from the [dot-com boom](https://en.wikipedia.org/wiki/Dot-com_bubble). I was working in London at a digital agency called [Blueberry](https://www.campaignlive.co.uk/search/articles?KeyWords=blueberry.net). Please take a seat for peak translucent plastic frutiger aero aesthetic, long before the term was coined, and some period flashbacks if you were working on the web at this time.
 
-I'd come from graphic design agency [Form](https://www.form.uk.com). Blueberry was more like a social club than a job, and we still shipped a lot of work for clients like Laura Ashley, Ben & Jerry's, Ted Baker, The Times. Everything hand-coded in [HomeSite](https://en.wikipedia.org/wiki/Macromedia_HomeSite#history): HTML, JS, CSS. Table layouts with single pixel spacer gifs: good times!
-
-How crazy were those days? At one point they asked me to work a weekend and I already had plans, so they asked what it would take. I wanted a [classic FIAT 500](https://en.wikipedia.org/wiki/Fiat_500#500_L_or_Lusso_(1968—1972)), so I named the price of the car: multiple thousands of pounds. That's what I got paid for a weekend building a site nobody else could get done.
+I'd come from graphic design agency [Form](https://www.form.uk.com), but wanted somewhere to do bigger web projects with other likeminded souls. Blueberry was more like a social club than a job, and we still shipped a lot of work for clients like Laura Ashley, Ben & Jerry's, Ted Baker, The Times, Boo.com, Snow24, and many more I forget. Everything I produced was hand-coded in [HomeSite](https://en.wikipedia.org/wiki/Macromedia_HomeSite#history): HTML, JS, CSS. This was before browser CSS support came of age, so it was all table layouts with single pixel spacer gifs: good times!
 
 ![IMG](/images/posts/y2k/blueberry-net-logo.png "My favourite workplace, before or since")
 {:.tofigure}
+
+If you'd like to know how crazy those days were: at one point they asked me to work a weekend and I already had plans, so they asked what it would take. I wanted a [classic FIAT 500](https://en.wikipedia.org/wiki/Fiat_500#500_L_or_Lusso_(1968—1972)), so I named the price of the car: multiple thousands of pounds. The management said yes, it was their only option. So that's what I got paid for a weekend building a site nobody else could get done.
 
 ----
 
 ## Home & Away 
 
-That's me on the left of the first shot, chin on hand, curling my bottom lip when I'm deep in thought, as I still do today. I must be 23 or 24 years of age. [HomeSite](https://en.wikipedia.org/wiki/Macromedia_HomeSite#history) undoubtedly open somewhere in Windows. The reindeer on my monitor pooped little brown jelly beans when you pressed down on its rear end, a gift from my girlfriend at the time.
+That's me on the left of the first shot, curling my bottom lip when I'm deep in thought as I still do today. I must be 23 or 24 years of age. [HomeSite](https://en.wikipedia.org/wiki/Macromedia_HomeSite#history) undoubtedly open somewhere in Windows. The reindeer on my monitor pooped little brown jelly beans when you pressed down on its rear end, a gift from my girlfriend at the time.
 
-On the desk facing the camera, my good friend Morgan's Graphite [Power Mac G4](https://en.wikipedia.org/wiki/Power_Mac_G4) tower, Apple CRT, Pro Keyboard, translucent Pro Mouse, Sony headphones, stickers, promotional postcards: *Phwoar! G4*, some Renault Clio Cup car porn, and of course a nice cup of tea. His desktop wallpaper is [Quake III](https://en.wikipedia.org/wiki/Quake_III_Arena), which we all used to play over the LAN "...in your face!". There's an official [Dreamcast](https://en.wikipedia.org/wiki/Dreamcast) magazine in the corner featuring Crazy Taxi, which dates it around March 2000. I also spy a Bowser wrist rest in front of the keyboard, an Apple mouse mat with rainbow logo, and an Iomega Zip drive just to its right.
+On the desk facing the camera, my good friend [Morgan Gibbons](https://www.linkedin.com/in/morgangibbons/)' Graphite [Power Mac G4](https://en.wikipedia.org/wiki/Power_Mac_G4) tower, Apple CRT, translucent Pro Keyboard and Mouse, Sony headphones, promotional postcards: *Phwoar! G4*, some Renault Clio car porn, and of course a nice cup of tea. His desktop wallpaper is [Quake III](https://en.wikipedia.org/wiki/Quake_III_Arena), which we all used to play over the LAN "...in your face!". There's an official [Dreamcast](https://en.wikipedia.org/wiki/Dreamcast) magazine in the corner featuring Crazy Taxi, which dates this photo to March 2000. I also spy a Bowser wrist rest in front of the keyboard, an Apple mouse mat with rainbow logo, and an Iomega Zip drive just to its right.
 
 ![IMG](/images/posts/y2k/gear-desk-g4-dreamcast.jpg "Me on the left, Morgan's G4 and CRT — Quake III wallpaper, Dreamcast mag, etc")
 {:.tofigure}
@@ -76,12 +77,12 @@ Later I moved upstairs onto a secret project and upgraded to a [Sony VAIO PCG-Z6
 ![IMG](/images/posts/y2k/gear-bondi-imac-side.jpg "Test iMac, FIAT stickers, Zip disks, paper everywhere")
 {:.tofigure}
 
-For some reason I'm sat at somebody else's desk, sizing up the height and fir of the chair. Diesel jumper, Deliverance food box on the partition (decades before Deliveroo, Just Eat, Uber Eats, etc). I guess we must have been working late one night.
+For some reason I'm sat at somebody else's desk, sizing up the height and fit of the chair. Diesel jeans and jumper, Deliverance food box on the partition (decades before Deliveroo, Just Eat, Uber Eats, etc). I guess we must have been working late one night.
 
-![IMG](/images/posts/y2k/gear-desk-fit.jpg "It's all about the correct posture")
+![IMG](/images/posts/y2k/gear-desk-fit.jpg "Good posture is all about the correct chair height")
 {:.tofigure}
 
-After that I think I complained and got moved downstairs again, sitting next to the legend that is Shaun Jackson, who I am still in touch with. He's probably sitting with me to get something done ASAP!
+After that I think I complained and got moved downstairs again, sitting next to the legend that is Shaun Jackson, who I am still in touch with. IIRC I'm helping him out with a tricky bit of page layout!
 
 ![IMG](/images/posts/y2k/gear-matt-shaun-metro-nokia.jpg "Nokia 3310 and Microsoft Intellimouse crew represent!")
 {:.tofigure}
@@ -116,14 +117,14 @@ The entrance from the corridor: frosted *Blueberry* doors, glass wall looking in
 
 Inside, reception had chrome stools and a bar-height counter. Visitors could surf the web sat in dentist chairs with iMacs on swing arms. Naturally!
 
-![IMG](/images/posts/y2k/gear-dentist-chairs.jpg "Dentist chair with a bubblegum iMac on an arm, the one missing was in another castle")
+![IMG](/images/posts/y2k/gear-dentist-chairs.jpg "Dentist chair with a bubblegum iMac on an arm, the one missing is in another castle (my house)")
 {:.tofigure}
 
 ----
 
 ## Backroom
 
-There was a proper server cabinet too: rackmount drives, a switch with a bird's nest of blue patch cables, a CRT console in the middle of the stack, and a beige tower on the floor beside it.
+There was servers cabinet in most rooms, and we had a dedicated server room: rackmount drives, a switch with a bird's nest of blue patch cables, a CRT console in the middle of the stack, and a beige tower on the floor beside it. It was in the server room that unwitting people were first subjected to Goatse (do *not* search this) and were cries would echo around the building as one of the network guys lost a game of Quake III or Unreal Tournament.
 
 ![IMG](/images/posts/y2k/gear-server-rack.jpg "Servers in every room")
 {:.tofigure}
@@ -132,7 +133,7 @@ There was a proper server cabinet too: rackmount drives, a switch with a bird's 
 
 ## Todo
 
-And a whiteboard that still has Thursday's tickets:
+This whiteboard has my name next to some of Thursday's tickets:
 
 - *Finish Instant Win — Matt*
 - *All other graphic changes — Matt*
