@@ -94,7 +94,7 @@ Then, to show where that road leads, he writes a little scene of science fiction
 >
 > *"IT'S DONE!! A MASTERPIECE. A MASTERPIECE OF A… COPY GAME. Our company's going to clean up with this one."*
 
-A game, generated in moments, from a prompt. In 1989. I don't think this was clairvoyance—MTJ was simply so immersed in the game industry that he could see where it was heading.
+Reading it now, the resemblance to today's game-generating tools is hard to miss. I don't think this was clairvoyance—MTJ was simply so immersed in the game industry that he could see where it was heading.
 
 (In the original, the robot speaks entirely in katakana, its speech wobbling between Kansai, Kyushu, and Hiroshima dialects with the odd flourish of archaic courtly Japanese—エランデタモレ, "pray choose". English can't really reproduce that, so here it's an over-formal servant whose register keeps slipping.)
 
@@ -112,7 +112,7 @@ MTJ even gives his machine a name: the パクリングロボット (*Pakuringu R
 >
 > *Robots can do imitation too!—don't you agree? Let's put our heads and our hearts into the sort of original work that only humans can do.*
 
-He was out by a couple of decades on the date, but the shape of the thing is exactly right: a machine that can produce a passable derivative work at the press of a button, and the question of what that leaves for the people who used to make them. His answer is the thesis of the whole column, emphasised in the original:
+He was out by a couple of decades on the date, but much of it feels familiar: a machine that can produce a passable derivative work at the press of a button, followed by the question of what that leaves for the people who used to make them. His answer is the thesis of the whole column, emphasised in the original:
 
 > 「ゲームは行きつくところアイデアだ！」
 >
@@ -134,7 +134,7 @@ There's a poignant footnote to the page. Osamu Tezuka, the "god of manga", had d
 >
 > *Will the Osamu Tezuka of the game world ever appear?…*
 
-Which is, really, the same question as the Rip-O-Bot's, asked in the opposite direction. The machine sets the floor: imitation is free. A Tezuka sets the ceiling: the original work that only a human—head and heart—can do.
+To me, this is the same question as the Rip-O-Bot's, approached from the other direction: if imitation becomes easy, where will the next genuinely original designer come from?
 
 MTJ died in 2008, at the age of 48, long before the arrival of the Rip-O-Bots. But he'd already written the response, thirty-something years early: robots can do imitation too. So don't compete with them there.
 
@@ -142,9 +142,9 @@ MTJ died in 2008, at the age of 48, long before the arrival of the Rip-O-Bots. B
 
 ## Fuel for Jinks
 
-This page is one of the things that fuelled the creation of [Jinks](/2026/07/30/hi-jinks/), my new way to make games. Because MTJ's question is now *the* question: if a game can be made at the click of a button, how do we more easily make novel, unique, or better games in this new world?
+This page is one of the things that fuelled the creation of [Jinks](/2026/07/30/hi-jinks/), my new way to make games. It sharpened a question I was already thinking about: if a game can be made at the click of a button, where should the human effort go?
 
-My answer is the same as his. Move the focus towards the ideas, and towards a better way to represent them: the gameplay, the systems, the mechanics, the rules, the scoring. Those are the parts of a game that are actually fun to work on—and the parts that make it *yours*—so that's where your time should go, rather than into reinventing the wheel and reimplementing the same boilerplate code over and over.
+With Jinks, I'm trying to spend less time reimplementing input, scoring, display, and other boilerplate, and more time experimenting with gameplay, systems, and rules. That doesn't guarantee originality—Jinks could be used to make a copycat game too—but it gives me more time to work on the parts that can make a game *mine*.
 
 The Rip-O-Bots can make copycat games. The idea is still the weapon.
 
@@ -154,4 +154,4 @@ The Rip-O-Bots can make copycat games. The idea is still the weapon.
 
 - [*GAMEST* No. 31, April 1989, page 74, on the Internet Archive](https://archive.org/details/gamest0031/page/n77/mode/2up)
 
-> The Japanese text is my own transcription from the scan, converted from the original vertical right-to-left layout. For the English, I ran the page through multiple machine translators—the irony is not lost on me—and compared and combined the results. Only one caught that インカム ("income") is arcade-trade jargon for a machine's coin takings. All this to say: the quotes above are machine translations, lightly edited by me.
+> The Japanese text is my own transcription from the scan, converted from the original vertical right-to-left layout. For the English, I ran the page through multiple machine translators—the irony is not lost on me—and compared and combined the results. Only one caught that インカム ("income") is arcade-trade jargon for a machine's coin takings. All this to say: the English quotes are machine-assisted translations assembled and lightly edited by me, rather than professional translations.

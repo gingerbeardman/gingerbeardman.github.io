@@ -35,11 +35,11 @@ comments:
 
 ---
 
-Last week I [shared a look at an arcade-faithful version of Asteroids](/2026/07/21/im-working-a-new-way-to-make-games/) to demonstrate the totally new way of making games that I've been working on. It's called [Jinks](/2026/07/30/hi-jinks/) and it's a lightweight game-engine, interactive development environment, and a language of sorts.
+Last week I [shared a look at an arcade-faithful version of Asteroids](/2026/07/21/im-working-a-new-way-to-make-games/) to demonstrate the totally new way of making games that I've been working on. It's called [Jinks](/2026/07/30/hi-jinks/) and it's a lightweight game engine, interactive development environment, a language of sorts, and more.
 
-This post is a game design postmortem for BELTRUNNER, an original game built from the same bones of Asteroids, and my entry into #GMTKjam 2026. Roughly 1,300 lines for a whole game you can finish. Built on the same system, in same succinct language, with all the same nicities, though I'll continue to stay a little coy about the machinery for now, mostly because things are still changing so much every day. Things need to settle down so I can describe what it is rather than what it used to be.
+BELTRUNNER is an original game built from the same bones as Asteroids, and was my entry into #GMTKjam 2026. The whole thing is roughly 1,300 lines and, importantly, it is a complete game that you can finish. It uses the same system and succinct language as my Asteroids recreation, though I'm going to remain a little coy about the machinery for now because it is still a work in progress and changing every day. I need it to settle down enough that I can describe what it *is*, rather than what it used to be.
 
-What I *do* want to talk about are the design methods that made it in, the ones that didn't, and the bits the system had to grow so the game could exist. A lot of the methods are old, which is the point.
+For now I want to talk about how the game developed: which ideas made it in, which ones didn't, and what Jinks had to learn along the way. Many of the design methods are adapted from lessons learned playing old games, which is how I like to approach game design.
 
 [![BELTRUNNER](/images/posts/jinksgg-beltrunner.png "Play BELTRUNNER in your browser at my page on itch.io")](https://gingerbeardman.itch.io/beltrunner)
 {:.tofigure}
@@ -50,34 +50,34 @@ What I *do* want to talk about are the design methods that made it in, the ones 
 
 ## Explorations
 
-The prototype was nothing like Asteroids at all. I built an orbital shooter perhaps more like Space Duel: numbered targets on fixed shells around a central sun. As with everything made in Jinks it was quick to bring up, but playing it just wasn't fun. I had to decided whether it showed promise, and I don't think it did.
+The first prototype was nothing like Asteroids. I built an orbital shooter, perhaps more like Space Duel, with numbered targets on fixed shells around a central sun. As with everything made in Jinks it was quick to get up and running, but playing it just wasn't fun. I had to decide whether it showed enough promise to keep going, and I don't think it did. I always say that no work is truly wasted; it’s simply put aside until it usefulness or suitability becomes apparent.
 
-Deterministic orbits are sitting ducks. Asteroids' fun is its unpredictable rock drift—the dodging, not the shooting gallery. Lesson kept: motion chaos is the fun engine; target arrangement is not. Salvage kept: numbered targets, the highlight, the chain, and it got me thinking about the song "Countdown" by Phoenix (Bankrupt!, 2013).
+The fixed orbits made the targets into sitting ducks. What I missed from Asteroids was the unpredictable drift of the rocks and the dodging that comes with it. I discarded the orbital structure but kept the numbered targets, the highlight, and the idea of a chain. It also got me thinking about the song "Countdown" by Phoenix (*Bankrupt!*, 2013).
 
-I then had the idea to pivot back towards Asteroids, but making the numbered pickups kind of like the rings in Pilotwings or the gates in Wave Race 64. And to dress it all behind a Donkey Kong '94 masquerade.
+So I moved back towards Asteroids and turned the numbered pickups into something more like the rings in Pilotwings or the gates in Wave Race 64. I also borrowed a trick from Donkey Kong '94: initially pretend to be an old, familiar game, then reveal that something different and new has been hiding behind it.
 
 ----
 
 ## Masquerade
 
-Stage 1 is pure Asteroids: one large rock, classic thrust-and-drift, classic splits, classic death-and-respawn. The only tell is a race clock that appears on first hit. The first clue that things are not how they seem. Clear the field and instead of "next wave of rocks," a black hole tears open at screen centre. Gravity pulls you in, and you can do a little dash to help it along.
+Wave 1 is pure Asteroids: one large rock, classic thrust-and-drift, classic splits, classic death-and-respawn. The only clue that things are not quite as they seem is a race clock that appears when you make the first hit, and no lives to be lost on your first collision. Clear the field and, instead of another wave of rocks, a black hole tears open at the centre of the screen. Gravity pulls you in, and you can do a little dash to help it along.
 
-From stage 2 the real game reveals itself. Numbered gates are scattered through the same drifting rock field, taken in **descending** order—5… 4… 3… 2… 1…—so the race chants a countdown as you fly it. Take the last gate and the zero opens again. Warp. Rinse. Repeat.
+From wave 2 the real game reveals itself. Numbered gates are scattered through the same drifting rock field and must be taken in **descending** order—5… 4… 3… 2… 1…—so the race chants a countdown as you fly it. Take the last gate and the black hole opens again, then you warp to the next wave.
 
-Teach the chassis first, then recontextualise it. If you already know Asteroids you can fly stage 1 on muscle memory. If you don't, you still learn the only movement model that matters before the race asks you to master it.
+Starting this way lets the player learn the controls before the race asks them to do something more involved. If you already know Asteroids you can fly the first wave on muscle memory. If you don't, you still get some time with the central game mechanic.
 
 Two countdowns converge on zero:
 
 1. **The gate count**, which you drive.
-2. **The race clock**, which drives you—every gate feeds it a few seconds; rocks tax it.
+2. **The race clock**, which drives you—every gate feeds it a few seconds and rock collision depletes it.
 
-There are no lives. Time is the only resource. That single decision collapsed a lot of classic arcade bookkeeping into one stake you can read at a glance—and it stuck through every playtest.
+There are no lives, so time becomes the only resource. This got rid of a lot of classic arcade bookkeeping and left me with one thing that can be read at a glance. It worked well and stuck through every playtest.
 
 ----
 
 ## Waves with stepped difficulty (the Nintendo way)
 
-Sixteen waves. Four acts of four. Not an endless ramp that quietly plateaus—a game you can actually finish.
+The game has sixteen waves arranged as four acts of four. I didn't want an endless difficulty ramp that quietly plateaus; I wanted to make a game you can actually finish.
 
 Each act teaches **one** new gate behaviour, then spends three more waves letting it bed in:
 
@@ -88,9 +88,9 @@ Each act teaches **one** new gate behaviour, then spends three more waves lettin
 | III | 9–12 | Spinning gates—a timing problem |
 | IV | 13–16 | Both at once—asks for everything, then ends |
 
-That "introduce → practice → practice → close" cadence is The Nintendo Way. A mechanic shown once and immediately buried under the next one was never really taught. Four waves is enough to notice it, get caught by it once, and start planning around it.
+I think of that "introduce → practice → practice → close" cadence as a very Nintendo way of doing things. A mechanic shown once and then immediately buried under the next one was never really taught. Four waves gives you enough time to notice it, get caught by it, and then start planning around it.
 
-In the game code I only write down what *changes* from wave to wave. A practice wave that keeps last wave's setup is empty on purpose. Intro text only appears when something new is actually on screen—it's not a tutorial but a toast and enough to clue you in.
+In the game code I only write down what *changes* from one wave to the next. A practice wave that keeps the previous setup is empty on purpose. Introductory text appears only when something new is actually on screen. It isn't a tutorial, just a small toast that gives you enough of a clue.
 
 Early gates were round rings. Side-on grazes felt wrong, so elliptical slots became the baseline after the first playtest. Directional and spinning came later as routing and timing problems, not as decoration.
 
@@ -98,113 +98,105 @@ Early gates were round rings. Side-on grazes felt wrong, so elliptical slots bec
 
 ## Deterministic gameplay (the Arcade way)
 
-Pac-Man's patterns. Donkey Kong's fixed barrel logic. Flicky's routes. What I love about those games is that they were **courses**. Learn the layout and skill compounds.
+I love learning the patterns in Pac-Man, the barrel logic in Donkey Kong, and the routes through Flicky. Those games feel like **courses**: learn the layout and your knowledge begins to compound. Beltrunner leans into the same approach.
 
-Beltrunner leans into that approach.
-
-Every "random" draw—rock spawn edges and headings, gate placement, power-up scatter—comes from one seeded stream. A single number *is* the layout. Restart it and run 1 of a session matches run 1 of the next under the same inputs. Change the seed and you get a completely different, equally fair course from the same rules.
+Every "random" draw—rock spawn edges and headings, gate placement, power-up scatter—comes from one seeded stream. A single number describes the whole layout. Restart the game and the first run of one session will match the first run of the next, given the same inputs. Change the seed and you get a completely different but equally fair course from the same rules.
 
 That matters for learning (the field is a place you can know), for replays (a recording only works if the stream matches), and for tuning (you're adjusting rules and a seed, not praying to chance).
 
-Power-up drops are on a fixed cadence too: every eighth rock kill arms one, cycling `[T]` → `[I]` → `[S]`. No "1-in-8 chance" fudge like the diamond drop in Flicky. The gun still *feels* generous; the schedule is learnable and predictable.
+Power-up drops are on a fixed cadence too. Every eighth rock kill arms one, cycling `[T]` → `[I]` → `[S]`, rather than using a "1-in-8 chance" fudge like the diamond drop in Flicky. The gun still *feels* generous, but the schedule is learnable and predictable.
 
 ----
 
 ## Discoverable hidden things (the Bomb Jack way)
 
-Bomb Jack's sequential bonus—achieved when you collect the lit targets in order, rewarding you for paying attention—is still one of the best "the game teaches without a manual" systems ever shipped.
+Bomb Jack has a sequential bonus that rewards you for collecting the lit targets in order. I think it is still one of the best examples of a game teaching something without using a manual, so I applied a similar idea to the rock field.
 
-I've applied something similar to the rock field.
+From wave 2 onwards, one large rock is highlighted at a time. Split it in sequence and a sustained voice joins a chord: root, third, fifth, octave. Split one out of turn and the voices cut. You notice you've done something wrong because the choir is no longer singing. A missing pip is easy to miss, but a chord that suddenly stops is not.
 
-From stage 2 on, one large rock is highlighted at a time. Split it in-sequence and a sustained voice joins a chord: root, third, fifth, octave. Split a sequenced rock out of turn and the voices cut. You notice you've done something wrong when the choir is no longer singing—a missing pip is easy to miss, a chord that *stops* is not.
+Follow the lights and the last stop is always the **clover**, a rock shaped a little like a lucky four-leaf clover and hiding in plain sight among the others. Complete the sequence and it drops **`[E]`**, the secret jackpot containing time, invincibility and freeze all at once.
 
-Follow the lights faithfully and the last stop is always the **clover**: a rock that is visually reminiscent of a lucky four-leaf clover, hiding in plain sight among ordinary rocks of the same shape. Complete the ladder on it and it drops **`[E]`**, the secret jackpot—time, invincibility and freeze, all at once. Take the risk and you will be rewarded.
+None of this is explained on screen. The power-ups legend reads `????` until you've found it once; after that it says `EXTRA` as a small badge of honour.
 
-Never explained on screen. The power-ups legend reads `????` until you've found it once; after that it says `EXTRA` as a badge of honour. You found a secret.
+I tried putting numbers on the rocks themselves, but the result was much too cluttered. Highlighting them was the simpler solution I arrived at afterwards.
 
-One thing to note: I tried putting numbers on the rocks themselves at some point, but it was too cluttered. It was only after trying this that I landed on highlighting the rocks.
-
-There's a second secret one layer up: finish all 16 waves and attract mode unlocks the ancestor game. PUSH START becomes a Beltrunner / Asteroids selector. The descendant teaches you its own origin story.
+There's a second secret one layer up. Finish all sixteen waves and attract mode unlocks the ancestor game, turning PUSH START into a Beltrunner/Asteroids selector. I like that the reward for finishing the game is being able to play the game it came from.
 
 ----
 
 ## Loose collectable power-ups (the Pang way)
 
-Not menu upgrades. Not locked loadouts. Tokens in the field.
+Pang, and a long line of arcade games before and after it, understood that a power-up you have to *go and get* is a decision in itself. Beltrunner follows the same tradition, placing tokens directly into the playfield. Each one has a stroked ring, coloured letter, slow drift, and an accelerating blink during its final two seconds, so you get fair warning that it is about to disappear.
 
-Pang (and a long line of arcade games before and after it) understood that a power-up you have to *go and get* is a decision, not a buff popup. Beltrunner uses the same idiom: stroked ring, coloured letter, slow drift, and an accelerating blink in the last two seconds so expiry reads as a countdown you lost rather than a vanish the game cheated with.
-
-**Drops**—the gun mints tools while it raises the stakes:
+**Drops**—the gun creates these while you play:
 
 - **`[T]` TIME**—clock +10. The game's main currency.
 - **`[I]` INVINCIBLE**—a few seconds of ramming without dying; rocks split on contact like billiard balls.
-- **`[S]` STOP**—rocks freeze *and* the race clock freezes. A real breather. (An early version froze only the rocks and left the clock running—quietly mean during the one window that was supposed to be a breather.)
+- **`[S]` STOP**—rocks freeze *and* the race clock freezes. An early version froze only the rocks and left the clock running, which was quietly mean during the one window that was supposed to be a breather.
 
-**Placed**—field knowledge, not luck:
+**Placed**—these always appear under specific conditions:
 
-- **`[E]` EXTRA**—the clover ritual above. For a while it paid only "a bit more time than `[T]`", which is an anticlimax for a secret. Now it's the jackpot: time + invincibility + freeze together.
-- **`[W]` WARP**—only on the last wave of acts I–III, once that act's mechanic has actually been taught. Orbits a host rock as a satellite; claim it by shaving past. Shoot the host and the token knocks loose to drift. Effect: open the black hole *now*, forfeit remaining gates, bank the clock. The escape hatch for a field gone wrong—never on wave 16, because there is nothing left to escape into. (An earlier cadence put the escape on the wave that *introduced* a mechanic, definitely the wrong place for it.)
+- **`[E]` EXTRA**—the clover sequence described above. For a while it paid only a little more time than `[T]`, which was an anticlimax for a secret. Now it gives you time, invincibility and freeze together.
+- **`[W]` WARP**—appears only on the last wave of acts I–III, once that act's mechanic has been taught. It orbits a host rock as a satellite and can be claimed by shaving past it. Shoot the host and the token breaks loose and begins to drift. Collecting it opens the black hole immediately, forfeiting the remaining gates and banking the clock. An earlier version placed it on the wave that *introduced* a mechanic, which was definitely the wrong time to offer an escape. There is no warp on wave 16 because there is nothing left to escape into.
 
-The loop I care about: crowd the field for fatter gates, fish a drop, cash the route while protected. Tools and risk sit happily alongside each other.
+The loop I was aiming for was to crowd the field for more valuable gates, fish for a drop, and then take the route while protected. The tools are useful, but obtaining them also raises the risk.
 
 ----
 
-## And many more…
+## Other things that survived
 
-A non-exhaustive tour of other bits that survived the cut:
+Here are some of the other details that made it through:
 
-**FIELD as risk throttle.** Every rock carries an invisible weight (large 1 / medium 2 / small 3). FIELD is the live sum—how crowded and dangerous the screen is. Gate payouts scale with it. Splitting rocks *raises* FIELD, so the gun is not lane-clearing hygiene; it's a deliberate stake-raise. Hit a rock and it still splits (authentic to Asteroids), so a careless bounce is an accidental raise too. FIELD widens the base; COMBO multiplies it. Two different jobs, both on the HUD.
+**FIELD as a measure of risk.** Every rock carries an invisible weight (large 1 / medium 2 / small 3), and FIELD is the live sum of those values. Gate payouts scale with it. Splitting rocks *raises* FIELD, so shooting is not simply a way to clear a lane; it also raises the stakes. Hit a rock by accident and it still splits, as it would in Asteroids, so a careless bounce can make the field more valuable too. FIELD increases the base score while COMBO multiplies it, giving the two values separate jobs on the HUD.
 
-**Wrap-edge racing.** The torus is real—rocks and ship straddle both sides of a wrap, collisions reach across. Contrast this approach to original Asteroids where rocks teleport to the other side when their centre-point crosses the edge, before and after which you can't see upto half the rock. The fast route to the next gate is often through the screen edge. Classic Asteroids geometry, read as a race line.
+**Wrap-edge racing.** The playfield is a real torus: rocks and the ship can straddle both sides of a wrap, and collisions reach across it. In the original Asteroids, rocks teleport when their centre point crosses an edge, before and after which up to half of the rock is invisible. In Beltrunner the fastest route to the next gate is often through the edge of the screen, so the wrap needs to be something the player can trust.
 
-**Black hole sun.** Pull across the arena; a tiny event horizon at the centre. You can fly *by* the hole, feel the tug, graze the rings, and only warp if you thread the eye. Perhaps there's still a loose power-up to grab, worthwhile as their effects last across wave transitions. The open sound climbs to a hanging dominant; the dive resolves it. Musical design, not just VFX.
+**Black hole sun.** The black hole pulls from across the arena but has a tiny event horizon at its centre. You can fly past it, feel the tug, graze the rings, and warp only when you pass through the eye. This leaves room to grab a loose power-up before leaving, which can be worthwhile because its effects carry into the next wave. The opening sound climbs to a hanging dominant and the dive resolves it.
 
-**Attract mode.** I checked the original Asteroids: it's one continuous simulation, rocks drifting under swappable text overlays, no ship while idle, no self-play, high-score table not drawn while empty. Beltrunner adopts that approach. The world never stops.
+**Attract mode.** I checked the original Asteroids and found one continuous simulation: rocks drift underneath changing text overlays, there is no ship or self-play while idle, and the high-score table is not drawn while empty. Beltrunner adopts the same approach, so the world never stops.
 
-**Design system.** Instances of HUD text with the same intent always appear at the same y-position and in the same size, with three distinct sizes creating additional hierarchy. This allows players to learn meaning and structure without realising it.
+**Design System.** HUD text with the same intent always appears at the same y-position and size, allowing the player to learn its meaning through familiarity. Three different text sizes further reinforce the hierarchy. Tables are described using a top position and a step, so moving the high-score block is one decision rather than ten. The BELTRUNNER logo is even hand-kerned because L+T leaves a gaping hole in the vector monospaced font.
 
-**High scores that know the economy.** The attract high score table isn't ten numbers typed in by hand and left to go stale. It derives from what the game can actually pay—retune a gate or a warp bank and the whole table moves with it. Cold ranks still look like clean arcade scores, not arithmetic leftovers. Jinks IDE surfaces theoretical maximum score in its inspector.
+**High scores that understand the economy.** The attract-mode high-score table is not ten numbers typed in by hand and left to go stale. It is derived from what the game can actually pay, so retuning a gate or warp bank moves the whole table with it. The Jinks IDE also shows the theoretical maximum score in its inspector.
 
-**Typographic grid system.** Four sizes, role-based baselines so that text with the same intent appears at the same place on screen, and the player can learn through familiarity. Tables described as a top and a step. Moving the high-score block is one decision, not ten. The BELTRUNNER logo is even hand-kerned (L+T has a gaping hole with the vector monospaced font).
+**Audio as teaching.** Greenwich Time Signal pips play during the final six seconds. B5 is near enough to 1000Hz and is also the tonic of the audio bed. The lit-rock sequence uses the one sustained timbre that the bed deliberately avoids, helping it to stand out rather than become buried.
 
-**Audio as teaching.** Greenwich Time Signal pips on the last six seconds (B5 is near enough 1000Hz, and also the tonic of the bed). A drone bed that borrows a well-used chord progression—voiced as cabinet hum, not soundtrack. The lit-sequence chord uses the one sustained timbre the bed deliberately never uses, so it colours rather than buries.
-
-**Invincible ram as snooker.** While `[I]` is up, ramming splits the rock and both bodies leave along the contact—bounce off the big one, plough through the small one. The ladder of feel falls out of the shapes. Earlier versions either didn't bounce at all or sent the ship flying off uncontrollably.
+**Invincible ramming.** While `[I]` is active, ramming splits the rock and sends both bodies away from the point of contact. You bounce off a large rock but can plough through a small one. Earlier versions either did not bounce at all or sent the ship flying off uncontrollably. The rebound is yet another fun surprise hidden in the game systems.
 
 ----
 
 ## What the game forced into the system
 
-Beltrunner did not come for free. Whilst Asteroids already sat comfortably in the Jinks engine; making a *race* through that field meant the system had to grow in a few places. Everything below is general—named after the mechanic, not the game—so the next game that needs it gets it for free.
+Asteroids already sat comfortably in the Jinks engine, but making a *race* through the same field meant that the system had to grow in a few places. I tried to make each addition general enough that the next game needing the same feature will also benefit from it.
 
-**Better vector support.** Beltrunner is a white-on-black vector game, not a raster game wearing a CRT filter. That forced real work on the vector face: stroke glyphs that every shell draws the same way, a proper beam (intensity is a property of the *display*, not something you pre-dim by hand on every shape), bolder lines that survive the phosphor bloom, and adding missing characters as I went. Other vector games got brighter and more honest as a side effect. Everybody is a winner.
+**Better vector support.** Beltrunner is a white-on-black vector game rather than a raster game wearing a CRT filter. It needed stroke glyphs that every shell draws in the same way, a proper beam, bolder lines that survive the phosphor bloom, and several missing characters added as I went. Intensity is now a property of the *display*, rather than something that has to be reduced by hand on every shape. Other vector games became brighter as a side effect. Everybody is a winner!
 
-**Torus wrapping that tells the truth.** Classic wrap is "teleport to the other side." Fine for most games. Not fine when the fast line to the next gate *is* the screen edge. The world can now opt into a real torus: an entity straddling a seam draws on both sides (up to four copies in a corner), and collisions reach across the boundary with a shortest-wrap contact instead of snapping you across the map. Beltrunner and Asteroids both flipped it on. Suddenly wrap-edge racing is a real skill, not a visual glitch you hope the player doesn't notice.
+**Torus wrapping that tells the truth.** The usual screen wrap teleports an object to the other side, which is fine for many games but not when the fastest line to a gate passes through the screen edge. A world can now opt into a real torus: an entity straddling a seam is drawn on both sides (up to four copies in a corner), and collisions reach across the boundary using the shortest wrapped distance. Beltrunner and my version of Asteroids both use it, whereas the original Asteroids wrapped rocks when their midpoint origin crossed the screen edge.
 
-**Colliders that match what you see.** Circles are my first port of call for collision, and the game jam version shipped with them, but extended play showed that they were not accurate enough and resulted in some unfair collisions. The ship was a slender dart wearing a fat disc; the gates are thin ellipses that used to collide from too far away. So the system learned polygon colliders (real concave decomposition, not a convex hull that fills in the tail notch) and oriented ellipse colliders that rotate with heading. Then it had to learn ellipse-versus-polygon contact, because the moment the ship dropped its circle radius the gates fell through every narrow-phase branch and became oversized AABBs again—players were taking gates they had flown nowhere near.
+**Colliders that match what you see.** Circles are my first port of call for collision, and the game jam version shipped with them, but extended play showed that they caused unfair collisions. The ship was a slender dart wearing a fat disc, while the thin elliptical gates collided from too far away. I added polygon colliders with real concave decomposition, rather than a convex hull that fills in the tail notch, and oriented ellipse colliders that rotate with their heading. The system also needed ellipse-versus-polygon contact. Without it, the gates fell through every narrow-phase branch and became oversized AABBs again, allowing players to take gates they had flown nowhere near.
 
-**A real deflect.** This is another one added post-jam. Ramming rocks whilst invincible should feel like snooker: glancing blows turn you, head-ons bounce you, small rocks yield, big rocks don't. So the system got a proper 2D elastic deflect along the contact normal, both bodies updated, mass from geometry. Bounce off the large, plough through the small—no magic knockback table. Other games will surely benefit from this now being a built-in.
+**A real deflect.** I added this after the jam. Ramming rocks whilst invincible should feel like snooker: glancing blows turn you, head-on collisions bounce you, small rocks yield, and big rocks don't. The system now performs a proper 2D elastic deflection along the contact normal, updating both bodies and deriving mass from their geometry. There is no magic knockback table, and I'm sure other games will benefit from it being built in.
 
-**A few smaller necessities.** Grace that *blinks* so you can see the respawn shield, while pickups still pierce it (invincible to rocks, not blind to gifts). Tokens that accelerate their blink as they expire. A satellite that can detach and drift when its host dies. Point gravity for the black hole, strong enough to feel from the edge of the arena and small enough at the eye that you can still fly past. Dual bindings so thrust can be d-pad *or* a face button. And the quiet one: beating the game can unlock its ancestor in attract mode—one cart, two games, a CRT power-off between them so the swap itself is invisible.
+**A few smaller necessities.** Grace time—the moment of temporary invincibility after a respawn—now *blinks* so you can see the respawn shield, while pickups can still pass through it. Tokens blink more quickly as they near their expiration. A satellite power-up can detach and drift when its host dies. Point gravity makes the black hole strong enough to feel from the edge of the arena, whilst keeping its eye small enough that you can still fly past. Thrust can be bound to either the d-pad or a face button. Finally, beating the game can unlock Asteroids—its ancestor—selectable in attract mode, with a CRT power-off shrink-to-a-dot hiding the switch between the two games.
 
-None of that is Beltrunner-only code. It's the recipe book getting a few more ingredients because this one game's design and implementation was versatile enough to be generalised.
+None of that is Beltrunner-only code. It has all become part of Jinks because the design and implementation were useful enough to be generalised.
 
 ----
 
 ## New homes, post-jam
 
-None of the above is platform work, and that's deliberate—but the platform work has kept going too. Since the jam, a second engine shell (SDL2 and GLES2, rather than the native macOS/iOS path or the raylib desktop shell) has taken the same core, unmodified, across Linux—desktops and handhelds alike, including those running muOS—and further back still, onto the Nintendo Wii and the Sega Dreamcast.
+None of the above is platform work, and that's deliberate, but that side of the project has kept going too. Since the jam, a second engine shell using SDL2 and GLES2 has taken the same unmodified core across Linux desktops and handhelds, including those running muOS, and further back onto the Nintendo Wii and Sega Dreamcast. This sits alongside the native macOS/iOS path and a raylib desktop shell.
 
-Beltrunner runs on all of them. Not a port, not a rebuild: the same 1,300 lines, the same tick loop, the same deterministic seed stream, reading the same per-frame contract a new shell just has to satisfy. That's the whole bet behind keeping the core platform-ignorant—every machine that learns to speak that contract inherits the entire library for free, this game included.
+Beltrunner runs on all of them without being ported or rebuilt. It uses the same 1,300 lines, tick loop and deterministic seed stream, reading the same per-frame contract that each new shell has to satisfy. This is why I have tried to keep the core unaware of any specific platform: once a machine can satisfy that contract, it gets the whole library, including this game.
 
 ----
 
-## ~1,300 active lines
+## About 1,300 lines
 
-That is the whole game.
+That is the whole game, rather than a prototype with the "real" code somewhere else or a thin shell over a bespoke mode. Waves, attract mode, high scores, power-ups, sounds, victory, and the secret unlock of Asteroids all live in one place. The engine features are the shared bones; the 1,300 lines are how Beltrunner arranges them.
 
-Same spirit as the Asteroids cart: not a prototype with the "real" code elsewhere, not a thin shell over a bespoke mode. The whole loop lives in one place—waves, attract, high scores, power-ups, sounds, victory, the secret unlock of its own ancestor—and it shares its bones with the rest of the collection. The system features above are the shared bones; the 1,400 lines are how Beltrunner arranges them.
+I like that it begins as Asteroids, turns into a countdown race, borrows ideas from Nintendo, Bomb Jack and Pang, and then actually ends after sixteen waves that can be learnt by heart.
 
-Beltrunner starts like Asteroids, becomes a countdown race, teaches like Nintendo, hides like Bomb Jack, drops like Pang, and ends—actually ends—after sixteen waves you can learn by heart.
+I'll write more about how games are authored in Jinks once the system has stopped changing quite so quickly. 
 
-I'll keep being a little coy about how a game is authored in this system. The design methods—and what they forced the machine to learn—are the point of this postmortem. Until next time: have fun!
+Until then: have fun!
