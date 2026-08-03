@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's all meet up in the year 2000"
+title: "Let's all meet up in the Y2K"
 date: '2026-08-03T18:56+01:00'
 tags:
 - history
@@ -27,6 +27,8 @@ nouns:
 image: /images/posts/y2k/gear-desk-g4-dreamcast.jpg
 featured: true
 pinned: false
+redirect_from:
+- /2026/08/03/lets-all-meet-up-in-the-year-2000/
 published: private
 style: |
   .c-content img {
@@ -81,7 +83,7 @@ For some reason I'm sat at somebody else's desk, sizing up the height and fir of
 
 After that I think I complained and got moved downstairs again, sitting next to the legend that is Shaun Jackson, who I am still in touch with. He's probably sitting with me to get something done ASAP!
 
-![IMG](/images/posts/y2k/gear-matt-shaun-metro-nokia.jpg "Nokia 3310 crew represent!")
+![IMG](/images/posts/y2k/gear-matt-shaun-metro-nokia.jpg "Nokia 3310 and Microsoft Intellimouse crew represent!")
 {:.tofigure}
 
 ----
