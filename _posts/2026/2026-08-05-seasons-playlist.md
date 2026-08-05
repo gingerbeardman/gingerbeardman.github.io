@@ -36,7 +36,7 @@ comments:
 
 A playlist for all seasons, just for kicks. 🌱☀️🍂❄️
 
-feat. Cassius, Silvetti, Phoenix, The Blue Nile, Cocteau Twins, XTC, The Style Council, Chicane, Tears For Fears, Lifeformed, Josh Rouse, Guillemots, Prince, and Merz.
+feat. Cassius, Bebu Silvetti, Phoenix, The Blue Nile, Cocteau Twins, XTC, The Style Council, Chicane feat. Justine Suissa, Tears For Fears, Lifeformed, Josh Rouse, Guillemots, Prince, and Merz.
 
 ----
 
