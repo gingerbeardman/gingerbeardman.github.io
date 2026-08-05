@@ -8,7 +8,7 @@ permalink: /newsletter.html
 <br>
 I send one newsletter per month with a recap of blog posts, app releases/updates, and other news.
 
-The list is double-opt-in and you can unsubscribe at any time. Your email will not be shared.
+The list is *double-opt-in*, which means you need to confirm your subscription by clicking a link in an email sent by the form below, and you can unsubscribe at any time. Your email will not be shared.
 
 There is an archive of past emails [here](https://news.gingerbeardman.com/archive).
 
