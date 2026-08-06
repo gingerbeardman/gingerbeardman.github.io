@@ -2,7 +2,7 @@
 layout: post
 title: "Let's all meet up in the Y2K"
 date: '2026-08-06T07:38+01:00'
-modified: '2026-08-06T13:59+01:00'
+modified: '2026-08-06T15:27+01:00'
 tags:
 - history
 - photo
@@ -29,6 +29,13 @@ nouns:
 image: /images/posts/y2k/gear-desk-g4-dreamcast.jpg
 featured: true
 pinned: false
+comments:
+  - platform: twitter
+    url: https://twitter.com/gingerbeardman/status/2085371863715209481
+  - platform: bluesky
+    url: https://bsky.app/profile/gingerbeardman.com/post/3msgaqrokws2x
+  - platform: mastodon
+    url: https://mastodon.gamedev.place/@gingerbeardman/117049025743814350
 style: |
   .c-content img {
     width: 100%;
