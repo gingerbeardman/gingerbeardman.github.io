@@ -2,7 +2,7 @@
 layout: post
 title: "BELTRUNNER: game design postmortem"
 date: '2026-07-30T23:34+01:00'
-modified: '2026-08-02T11:47+01:00'
+modified: '2026-08-06T14:28+01:00'
 tags:
 - gamedev
 - design
@@ -201,3 +201,17 @@ I like that it begins as Asteroids, turns into a countdown race, borrows ideas f
 I'll write more about how games are authored in Jinks once the system has stopped changing quite so quickly. 
 
 Until then…have fun!
+
+----
+
+## Post Postmortem
+
+The game is now available for:
+
+- Nintendo Wii
+- Linux (handhelds like the Anbernic RG35XXH)
+
+Still to come:
+
+- standalone desktop releases for macOS, Linux, and Windows— which I just need to package up correctly
+- and Dreamcast, if I can squeeze a little more performance out of it
