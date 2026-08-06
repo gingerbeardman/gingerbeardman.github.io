@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Let's all meet up in the Y2K"
-date: '2026-08-03T18:56+01:00'
+date: '2026-08-06T05:27+01:00'
 tags:
 - history
 - photo
