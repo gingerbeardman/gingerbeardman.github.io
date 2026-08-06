@@ -2,6 +2,7 @@
 layout: post
 title: "Let's all meet up in the Y2K"
 date: '2026-08-06T07:38+01:00'
+modified: '2026-08-06T13:59+01:00'
 tags:
 - history
 - photo
@@ -65,7 +66,7 @@ On the desk facing the camera, my good friend [Morgan Gibbons](https://www.linke
 ![IMG](/images/posts/y2k/gear-desk-g4-dreamcast.jpg "Me on the left, Morgan's G4 and CRT — Quake III wallpaper, Dreamcast mag, etc")
 {:.tofigure}
 
-Bubblegum [iMacs](https://en.wikipedia.org/wiki/IMac_(1998–2003)) were everywhere on the floor. One sat dark among paper trays; another was on with Aqua-era desktop art and a purple translucent mouse.
+Bubblegum [iMacs](https://en.wikipedia.org/wiki/IMac_(1998–2003)) were everywhere on the floor. My one sat dark among paper trays; another was sitting pretty on with Mac OS X Aqua-era desktop art, with a mismatched purple translucent mouse. Cold Fusion was the hottest back end programming language at the time, and Mark Stradling was our guy for that. I seem to remember he drove a classic Triumph Spitfire car during his time off.
 
 ![IMG](/images/posts/y2k/gear-bondi-imac-on.jpg)
 
