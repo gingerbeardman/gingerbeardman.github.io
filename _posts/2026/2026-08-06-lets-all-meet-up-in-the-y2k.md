@@ -28,8 +28,6 @@ nouns:
 image: /images/posts/y2k/gear-desk-g4-dreamcast.jpg
 featured: true
 pinned: false
-redirect_from:
-- /2026/08/03/lets-all-meet-up-in-the-year-2000/
 published: private
 style: |
   .c-content img {
