@@ -2,7 +2,7 @@
 layout: post
 title: "BELTRUNNER: game design postmortem"
 date: '2026-07-30T23:34+01:00'
-modified: '2026-08-06T14:28+01:00'
+modified: '2026-08-12T02:28+01:00'
 tags:
 - gamedev
 - design
@@ -35,6 +35,8 @@ comments:
     url: https://mastodon.gamedev.place/@gingerbeardman/117011688514871946
 
 ---
+
+> This blog post assumes you have played BELTRUNNER, the game whose design it discusses in detail, or are familiar with video game design and history that you don't need to play it.
 
 Last week I [shared a look at an arcade-faithful version of Asteroids](/2026/07/21/im-working-a-new-way-to-make-games/) to demonstrate the totally new way of making games that I've been working on. It's called [Jinks](/2026/07/30/hi-jinks/) and it's a lightweight game engine, interactive development environment, a language of sorts, and more.
 
