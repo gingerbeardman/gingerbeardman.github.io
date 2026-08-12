@@ -2,7 +2,7 @@
 layout: post
 title: "BELTRUNNER: game design postmortem"
 date: '2026-07-30T23:34+01:00'
-modified: '2026-08-12T02:28+01:00'
+modified: '2026-08-13T00:31+01:00'
 tags:
 - gamedev
 - design
@@ -212,8 +212,9 @@ The game is now available for:
 
 - Nintendo Wii
 - Linux (handhelds like the Anbernic RG35XXH)
+- standalone desktop releases for macOS and Linux
+- and Dreamcast
 
 Still to come:
 
-- standalone desktop releases for macOS, Linux, and Windows— which I just need to package up correctly
-- and Dreamcast, if I can squeeze a little more performance out of it
+- standalone desktop releases Windows— which I just need to package up correctly
