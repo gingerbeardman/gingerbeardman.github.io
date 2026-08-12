@@ -3,6 +3,39 @@ $(document).ready(function() {
   'use strict';
 
   // =================
+  // Localhost → production banner
+  // =================
+
+  (function showLocalhostBanner() {
+    var host = window.location.hostname;
+    var isLocal = host === 'localhost'
+      || host === '127.0.0.1'
+      || host === '0.0.0.0'
+      || host === '[::1]'
+      || host.endsWith('.local');
+
+    if (!isLocal) {
+      return;
+    }
+
+    var productionOrigin = 'https://blog.gingerbeardman.com';
+    var productionUrl = productionOrigin
+      + window.location.pathname
+      + window.location.search
+      + window.location.hash;
+
+    var banner = document.createElement('a');
+    banner.className = 'c-localhost-banner';
+    banner.href = productionUrl;
+    banner.target = '_blank';
+    banner.rel = 'noopener noreferrer';
+    banner.title = 'Open this page on ' + productionOrigin.replace(/^https?:\/\//, '');
+    banner.textContent = 'localhost — open production version';
+
+    document.body.insertBefore(banner, document.body.firstChild);
+  })();
+
+  // =================
   // Off Canvas menu
   // =================
 

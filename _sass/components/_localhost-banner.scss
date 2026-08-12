@@ -1,0 +1,50 @@
+@use "../settings/colors";
+@use "../settings/type";
+
+/*------------------------------------*\
+  Components > Localhost banner
+
+  Injected by js/app.js when viewing a local build.
+  Uses !important so theme link styles (transparent backgrounds)
+  cannot wash out the solid bar.
+\*------------------------------------*/
+
+a.c-localhost-banner {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0.4em 1em;
+  border: 0;
+  border-radius: 0;
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background-color: colors.$color-brand !important;
+  color: colors.$color-white !important;
+  font-family: type.$font-base;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  line-height: 1.4;
+  text-align: center;
+  text-decoration: none !important;
+  cursor: pointer;
+
+  &:hover,
+  &:focus,
+  &:active {
+    background-color: colors.$color-brand !important;
+    color: colors.$color-white !important;
+    text-decoration: underline !important;
+    outline: none;
+  }
+
+  &:focus-visible {
+    outline: 2px solid colors.$color-white;
+    outline-offset: -2px;
+  }
+}
