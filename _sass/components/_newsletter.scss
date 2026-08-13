@@ -77,6 +77,10 @@ $nl-field-height: 2.75rem;
     max-width: 100% !important;
     border-radius: 0.65rem !important;
   }
+  
+  .altcha-main label {
+    display: inline !important;
+  }
 }
 
 // Match the apps-site dark palette so the card reads well in dark mode.
