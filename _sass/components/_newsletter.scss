@@ -71,6 +71,11 @@ $nl-field-height: 2.75rem;
       transform: scale(.96);
     }
   }
+
+  div.altcha {
+    margin-bottom: 1rem;
+    max-width: 100% !important;
+  }
 }
 
 // Match the apps-site dark palette so the card reads well in dark mode.

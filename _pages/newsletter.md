@@ -14,15 +14,22 @@ There is an archive of past emails [here](https://news.gingerbeardman.com/archiv
 
 <form method="post" action="https://news.gingerbeardman.com/subscription/form" class="listmonk-form">
   <div>
+    <h3>Subscribe</h3>
     <input type="hidden" name="nonce" />
+    <input type="hidden" name="next" value="https://news.gingerbeardman.com" />
 
     <p><input type="email" name="email" required placeholder="E-mail" /></p>
     <p><input type="text" name="name" placeholder="Name (optional)" /></p>
 
     <p class="u-hidden">
       <input id="48672" type="checkbox" name="l" checked value="486725f7-9afe-409a-9112-17913623c971" />
-      <label for="48672">Get Info Newsletter</label>
+      <label for="48672">Get Info Newsletter by Matt Sephton</label>
+      <br />
+      <span>This is the Get Info Newsletter by Matt Sephton</span>
     </p>
+
+    <altcha-widget challengeurl="https://news.gingerbeardman.com/api/public/captcha/altcha"></altcha-widget>
+    <script type="module" src="https://news.gingerbeardman.com/public/static/altcha.umd.js" async defer></script>
 
     <input type="submit" value="Subscribe " />
   </div>
