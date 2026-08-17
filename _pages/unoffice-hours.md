@@ -29,6 +29,12 @@ Some topics people have discussed with me:
 - [Topics featured on my blog](/tags)
 - Life, the Universe and Everything
 
+Topics I don't generally talk about:
+
+- Religion
+- Politics
+- AI
+
 ---
 
 ## Unoffice Hours Webring
