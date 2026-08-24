@@ -40,7 +40,7 @@ comments:
 
 Last week I [shared a look at an arcade-faithful version of Asteroids](/2026/07/21/im-working-a-new-way-to-make-games/) to demonstrate the totally new way of making games that I've been working on. It's called [Jinks](/2026/07/30/hi-jinks/) and it's a lightweight game engine, interactive development environment, a language of sorts, and more.
 
-BELTRUNNER is an original game built from the same bones as Asteroids, and was my entry into #GMTKjam 2026. The whole thing is roughly 1,300 lines and, importantly, it is a complete game that you can finish. It uses the same system and succinct language as my Asteroids recreation, though I'm going to remain a little coy about the machinery for now because it is still a work in progress and changing every day. I need it to settle down enough that I can describe what it *is*, rather than what it used to be.
+[BELTRUNNER](https://gingerbeardman.itch.io/beltrunner) is an original game built from the same bones as Asteroids, and was my entry into #GMTKjam 2026. The whole thing is roughly 1,300 lines and, importantly, it is a complete game that you can finish. It uses the same system and succinct language as my Asteroids recreation, though I'm going to remain a little coy about the machinery for now because it is still a work in progress and changing every day. I need it to settle down enough that I can describe what it *is*, rather than what it used to be.
 
 For now I want to talk about how the game developed: which ideas made it in, which ones didn't, and what Jinks had to learn along the way. Many of the design methods are adapted from lessons learned playing old games, which is how I like to approach game design.
 
