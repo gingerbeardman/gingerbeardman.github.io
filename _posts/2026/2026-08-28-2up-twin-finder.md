@@ -24,7 +24,7 @@ nouns:
 - Get Info
 - Twin Finder
 image: /images/posts/2up-grid-light.png
-featured: true
+featured: false
 pinned: false
 donate: false
 

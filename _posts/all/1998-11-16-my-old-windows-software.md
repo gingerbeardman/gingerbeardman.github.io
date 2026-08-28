@@ -12,6 +12,17 @@ nouns:
 - Windows
 - Euphoria!
 - Visual Basic
+- Quick Paths
+- SaveAble!
+- WINotes
+- Stars!
+- Wobble!
+- Light!
+- Ghost
+- Day
+- MsgBoxer
+- Messages
+- Tektonix Menu 2
 featured: false
 pinned: false
 
@@ -24,6 +35,18 @@ After moving to Windows PC from Atari ST I discovered Visual Basic and my mind w
 I also made fun stuff like screensavers and [videogames](/2004/06/20/wire-hang-redux/), as well as more utilitarian software "apps". In addition, I played around with a really cool and very fast interpreted language called [Euphoria!](https://en.wikipedia.org/wiki/Euphoria_(programming_language))—whose claim to fame was that it had a reference-counting garbage collector—and I'm surprised to read that it is still around over 30 years later!
 
 Archived web page: [gingerbeardman.com/archive/tektonix/](https://www.gingerbeardman.com/archive/tektonix/)
+
+- [Tektonix Menu 2](/1995/10/05/tektonix-menu-2/) — DOS launcher, 1995
+- [Light!](/1996/06/13/light-screensaver/) — trailing-beam screen saver, 1996
+- [MsgBoxer](/1996/10/06/msgboxer/) — Visual Basic MsgBox code generator, 1996
+- [Messages](/1996/10/06/messages/) — notes for other users of the same PC, 1996
+- [Ghost](/1996/10/12/ghost/) — hide and show windows, 1996
+- [Day](/1996/11/24/day/) — alarms and reminders, 1996
+- [Stars!](/1997/08/21/stars-screensaver/) — starfield screen saver, 1997
+- [WINotes](/1998/04/26/winotes/) — sticky desktop notes, 1998
+- [Wobble!](/1998/04/27/wobble-screensaver/) — jelly screen saver, 1998
+- [SaveAble!](/1998/04/27/saveable/) — hot corners for the screen saver, 1998
+- [Quick Paths](/1998/11/16/quick-paths/) — favourite folders in any file selector, 1998
 
 ![IMG](/images/posts/tektonix-software.png "HTML Image Map navigation menu on my website, ~1996")
 {:.tofigure}
