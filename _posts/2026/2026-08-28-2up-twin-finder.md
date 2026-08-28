@@ -41,7 +41,7 @@ Today I'm shipping [2UP](https://www.gingerbeardman.com/apps/2up/), a Mac-assed 
 
 Think "Twin Finder", not Midnight Commander.
 
-Most dual-pane file managers take their cues from Norton Commander and its descendants. 2UP starts somewhere different: two familiar Finder windows joined into one focused, keyboard-first workspace. It aims to do everything "The Finder Way" and behave as much of a good Mac citizen as possible. I worked hard to get it on the Mac App Store, and it does a bunch of stuff you might not expect to be possible for an app adhering to those rules.
+Most dual-pane file managers take their cues from Norton Commander and its descendants. 2UP starts somewhere different: two familiar Finder windows joined into one focused, keyboard-first workspace. It aims to do everything "The Finder Way" and behave as much of a good Mac citizen as possible. I worked hard to get it on the Mac App Store, and it does a bunch of stuff you might not expect to be possible in an app adhering to those rules.
 
 It's less like learning a different file manager and more like giving Finder a twin with superpowers.
 
@@ -67,11 +67,11 @@ Copy, move, rename (the while basename, which is more reliable than Finder's app
 
 Adopt your open Finder windows over as panes or tabs, selections intact and including hidden items. Optionally adopt new Finder windows automatically. Choose to focus 2UP when you click Finder in the Dock. Both of these features allow you to effectively replace Finder for all common functions, and can be temporarily disabled by holding the Option key.
 
-## Tools in place
+## Tools built-in
 
 Convert and edit images, merge and split PDFs, transcode audio and video, extract frames, build contact sheets, recognise text, read barcodes, strip metadata, checksums.
 
-## Your Mac, your way
+## Have it your way
 
 Custom scripts, macOS Services, your own list of Open With apps. An alternate Happy Mac icon. Native SwiftUI, no third-party frameworks.
 
