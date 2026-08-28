@@ -61,7 +61,7 @@ Switch panes, jump to a path with completion, bookmarks, history, recursive file
 
 ## Serious file work
 
-Copy, move, rename (the while basename, which is more reliable than Finder's approach), batch rename, duplicate, compress, alias, symlink, hard link, delete. Undo and redo. Live transfer progress on the file's own row, and a bar across the Dock icon. Manage conflicts: replace, keep both, or skip.
+Copy, move, rename (the whole basename, which is more reliable than Finder's approach), batch rename, duplicate, compress, alias, symlink, hard link, delete. Undo and redo. Live transfer progress on the file's own row, and a bar across the Dock icon. Manage conflicts: replace, keep both, or skip.
 
 ## Finder adoption
 
