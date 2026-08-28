@@ -88,6 +88,6 @@ No network code, no accounts, no subscriptions, no analytics, no ads. Just a 2.2
 
 # Launch Sale
 
-*2UP* is on a launch sale until 14th September 2026 on the [Mac App Store](https://apps.apple.com/app/6790582006) (usually $10). macOS 14 Sonoma or later.
+*2UP* is on a launch sale until 14th September 2026 on the [Mac App Store](https://apps.apple.com/app/6790582006). 
 
-More at [gingerbeardman.com/apps/2up/](https://www.gingerbeardman.com/apps/2up/?new)
+More information, full feature list, and comparison with other similar apps at [gingerbeardman.com/apps/2up/](https://www.gingerbeardman.com/apps/2up/)
