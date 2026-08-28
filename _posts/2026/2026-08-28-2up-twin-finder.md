@@ -65,7 +65,7 @@ Copy, move, rename (the whole basename, which is more reliable than Finder's app
 
 ## Finder adoption
 
-Adopt your open Finder windows over as panes or tabs, selections intact and including hidden items. Optionally adopt new Finder windows automatically. Choose to focus 2UP when you click Finder in the Dock. Both of these features allow you to effectively replace Finder for all common functions, and can be temporarily disabled by holding the Option key.
+Adopt your open Finder windows as panes or tabs, with selections intact. Optionally adopt new Finder windows automatically. Choose to focus 2UP when you click Finder in the Dock. Both of these features allow you to effectively replace Finder for all common functions, and can be temporarily disabled by holding the Option key.
 
 ## Tools built-in
 
