@@ -73,11 +73,11 @@ Convert and edit images, merge and split PDFs, transcode audio and video, extrac
 
 ## Have it your way
 
-Custom scripts, macOS Services, your own list of Open With apps. An alternate Happy Mac icon. Native SwiftUI, no third-party frameworks.
+Custom scripts, macOS Services, your own list of Open With apps. An alternate Happy Mac icon. 
 
 ## Offline and sandboxed
 
-No network code, no accounts, no subscriptions, no analytics, no ads. Just a 2.2 MB download.
+No network code, no accounts, no subscriptions, no analytics, no ads. Native SwiftUI, no third-party frameworks. Just a 2.2 MB download.
 
 <p style="text-align:center;margin:0 0 1.5rem">
 <img src="/images/posts/2up-icon.png" alt="2UP icon" width="128" height="128" style="display:inline-block;margin:0 0.5rem">
