@@ -69,7 +69,7 @@ Adopt your open Finder windows as panes or tabs, with selections intact. Optiona
 
 ## Tools built-in
 
-Convert and edit images, merge and split PDFs, transcode audio and video, extract frames, build contact sheets, recognise text, read barcodes, strip metadata, checksums.
+Convert and edit images, merge and split PDFs, transcode audio and video, extract frames, build contact sheets, recognise text, read barcodes, strip metadata, calculate checksums.
 
 ## Have it your way
 
