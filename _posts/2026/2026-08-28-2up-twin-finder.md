@@ -12,6 +12,7 @@ tags:
 - swiftui
 nouns:
 - 2UP
+- Twin Finder
 - Finder
 - Midnight Commander
 - Norton Commander
@@ -22,11 +23,17 @@ nouns:
 - Put Back
 - Open With
 - Get Info
-- Twin Finder
 image: /images/posts/2up-grid-light.png
 featured: false
 pinned: false
 donate: false
+comments:
+  - platform: twitter
+    url: https://twitter.com/gingerbeardman/status/2093282277488775462
+  - platform: bluesky
+    url: https://bsky.app/profile/gingerbeardman.com/post/3mu556sjo522g
+  - platform: mastodon
+    url: https://mastodon.gamedev.place/@gingerbeardman/117172625184283048
 
 ---
 
