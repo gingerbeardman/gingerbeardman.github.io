@@ -61,23 +61,23 @@ Switch panes, jump to a path with completion, bookmarks, history, recursive file
 
 ## Serious file work
 
-Copy, move, rename (the while basename, which is more reliable than Finder's approach), batch rename, duplicate, compress, alias, symlink, hard link, delete. Undo and redo. Live transfer progress on the file's own row, and a bar across the Dock icon. Manage conflicts: replace, keep both, or skip.
+Copy, move, rename (the whole basename, which is more reliable than Finder's approach), batch rename, duplicate, compress, alias, symlink, hard link, delete. Undo and redo. Live transfer progress on the file's own row, and a bar across the Dock icon. Manage conflicts: replace, keep both, or skip.
 
 ## Finder adoption
 
-Adopt your open Finder windows over as panes or tabs, selections intact and including hidden items. Optionally adopt new Finder windows automatically. Choose to focus 2UP when you click Finder in the Dock. Both of these features allow you to effectively replace Finder for all common functions, and can be temporarily disabled by holding the Option key.
+Adopt your open Finder windows as panes or tabs, with selections intact. Optionally adopt new Finder windows automatically. Choose to focus 2UP when you click Finder in the Dock. Both of these features allow you to effectively replace Finder for all common functions, and can be temporarily disabled by holding the Option key.
 
 ## Tools built-in
 
-Convert and edit images, merge and split PDFs, transcode audio and video, extract frames, build contact sheets, recognise text, read barcodes, strip metadata, checksums.
+Convert and edit images, merge and split PDFs, transcode audio and video, extract frames, build contact sheets, recognise text, read barcodes, strip metadata, calculate checksums.
 
 ## Have it your way
 
-Custom scripts, macOS Services, your own list of Open With apps. An alternate Happy Mac icon. Native SwiftUI, no third-party frameworks.
+Custom scripts, macOS Services, your own list of Open With apps. An alternate Happy Mac icon. 
 
 ## Offline and sandboxed
 
-No network code, no accounts, no subscriptions, no analytics, no ads. Just a 2.2 MB download.
+No network code, no accounts, no subscriptions, no analytics, no ads. Native SwiftUI, no third-party frameworks. Just a 2.2 MB download.
 
 <p style="text-align:center;margin:0 0 1.5rem">
 <img src="/images/posts/2up-icon.png" alt="2UP icon" width="128" height="128" style="display:inline-block;margin:0 0.5rem">
