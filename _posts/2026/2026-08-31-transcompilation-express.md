@@ -27,12 +27,19 @@ nouns:
 - Nintendo Wii
 - Wii
 - llvm-mos
-- 65816
-- 6502
+- "65816"
+- "6502"
 - w2c2
 - transpiled
 featured: false
 pinned: false
+comments:
+  - platform: twitter
+    url: https://twitter.com/gingerbeardman/status/2094535658878407003
+  - platform: bluesky
+    url: https://bsky.app/profile/gingerbeardman.com/post/3muftiqinoc2j
+  - platform: mastodon
+    url: https://mastodon.gamedev.place/@gingerbeardman/117192211404728046
 
 ---
 
