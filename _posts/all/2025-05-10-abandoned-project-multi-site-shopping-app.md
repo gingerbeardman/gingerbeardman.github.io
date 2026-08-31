@@ -5,6 +5,8 @@ date: '2025-05-10T18:35+01:00'
 tags:
 - ios
 - app
+- swift
+- swiftui
 - japanese
 - abandoned
 nouns:

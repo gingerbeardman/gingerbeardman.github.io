@@ -11,6 +11,8 @@ tags:
 - workflow
 - poweruser
 - software
+- swift
+- swiftui
 nouns:
 - Apple
 - WWDC

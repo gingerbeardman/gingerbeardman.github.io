@@ -8,6 +8,8 @@ tags:
 - macos
 - ios
 - app
+- swift
+- swiftui
 - flex
 - shipping
 - optimisation
