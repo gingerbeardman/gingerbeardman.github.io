@@ -29,6 +29,8 @@ nouns:
 - llvm-mos
 - "65816"
 - "6502"
+- SH4
+- PPC
 - w2c2
 - transpiled
 featured: false
