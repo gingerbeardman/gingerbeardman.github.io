@@ -9,6 +9,8 @@ tags:
 - arcade
 nouns:
 - Asteroids
+redirect_from:
+- /2026/07/21/im-working-a-new-way-to-make-games/
 image: /images/posts/jinksgg-asteroids.jpg
 featured: false
 pinned: false
