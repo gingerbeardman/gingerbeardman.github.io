@@ -2,7 +2,7 @@
 layout: post
 title: "List of vintage Japanese pixel/dot art software"
 date: '2023-10-21T16:56+01:00'
-modified: '2026-07-25T02:22+01:00'
+modified: '2026-09-06T15:53+01:00'
 tags:
 - graphics
 - pixelart
@@ -40,7 +40,7 @@ Regarding the empty cells: software missing a Japanese name was mostly referred 
 
 ドット絵（ドットえ）作成に使えるビンテージ日本語ソフトの一覧です。
 
-Total entries: 275
+Total entries: 276
 
 <div class="table-wrapper" markdown="block">
 | Platform | English | Japanese | Year | Developer |
@@ -124,7 +124,7 @@ Total entries: 275
 | MZ-2500 | Palette | ぱれっと | 1987 | Dynaware |
 | MZ-2500 | Quick MZ Paint |  | 1987 | Minoru Morinaka |
 | MZ-2500 | Super Paint |  | 1987 | S.B.C Software |
-| N64 | Mario Artist | マリオアーティスト | 1999 | Nintendo |
+| N64 | Mario Artist | マリオアーティスト | 1999 | Software Creations |
 | Newton | HexPaint |  | 1997 | HexDump |
 | Newton | NewtPaint |  | 1995 | Glen Raphael |
 | OS/2 | QueenCy |  | 2000 | masami |
@@ -161,7 +161,7 @@ Total entries: 275
 | PC-98 | Adventure Maker 98 | アドベンチャー ツクール98 | 1992 | ASCII/LOGiN |
 | PC-98 | Akane | あかね | 1992 | Miruhi Takahara |
 | PC-98 | Art Frontier | アートフロンティア | 1991 | Bijutech |
-| PC-98 | ArtCore (Art/V?) |  | 1992 | SystemSoft |
+| PC-98 | ArtMaster Core | アートマスターコア | 1992 | SystemSoft |
 | PC-98 | Assist Art | アシストアート | 1991 | Assist Co., Ltd. |
 | PC-98 | Ayako | 彩子 | 1988 | Art Function |
 | PC-98 | Camel | キャメル | ? | Nazca Corporation |
@@ -169,6 +169,7 @@ Total entries: 275
 | PC-98 | CANDY2 |  | 1985 | ASCII |
 | PC-98 | Character Maker 98 | キャラクターツクール98 | 1994 | Pegasus Japan |
 | PC-98 | Doodle Book / Rakugaki-chō | 落書き帳 | 1993 | Toshiya Hayashi |
+| PC-98 | Drawing Tool | お絵描きツール | 1992 | ASCII/LOGiN |
 | PC-98 | DynaPix V | ダイナビックスV | 1988 | Dynaware |
 | PC-98 | ESQUISSE | 電子水彩エスキース | 1989 | SAPIENCE |
 | PC-98 | Funny |  | 1984 | Zeit |
@@ -201,7 +202,7 @@ Total entries: 275
 | PC-98 | Z's STAFF Kid98 |  | 1988 | Zeit |
 | PC-98 | Z's STAFF Kid98 v3.0 |  | 1990 | Zeit |
 | PS-55 | Z's STAFF TRAD |  | 1989 | Zeit |
-| SFC | Mario Paint | マリオペイント | 1992 | Nintendo |
+| SFC | Mario Paint | マリオペイント | 1992 | Intelligent Systems |
 | SMC | Graphic Editor | グラフィックエディター | 1984 | Sony |
 | TRON-OS | Pelistina |  | 2005 | KAENRYUU Koutoku |
 | TRON-OS | Pelistina 2 |  | 2005 | KAENRYUU Koutoku |
