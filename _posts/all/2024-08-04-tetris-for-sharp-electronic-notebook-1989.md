@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TETRIS for Sharp Electronic Notebook (1989)"
-modified: '2024-08-07T19:10+01:00'
+modified: '2026-09-06T21:14+01:00'
 date: '2024-08-04T17:47+01:00'
 tags:
 - tetris
@@ -22,7 +22,7 @@ Sharp's Denshi Techō (電子手帳) were a range of electronic notebooks or org
 
 As well as being [home to some of the earliest emoji](/2024/05/10/emoji-history-the-missing-years/) these devices could run software from IC cards (solid state storage). There were about 30 games released in this format, everything from classics like *Sokoban*, *Shanghai*, *Lode Runner*, *Puzznic*, *Fortress*, to everygreen games like *Golf*, *Baseball*, *Mahjong*, *Shogi*, *Othello*, *Solitaire*, *President* (card game), exclusive games like *Yamamura Misa Suspense – The Kyoto Zai-tech Murder Case*, and some contemporary titles like *Hatris*.
 
-And perhaps most importantly: a version of *Tetris*, released in December 1989. [Tetris-mania was in full effect](/2024/06/18/tetris-heavenly-scrolls/) and the *Game Boy* had recently received its version of *Tetris* in April 1989.
+And perhaps most importantly: a version of *Tetris*, released in December 1989. [Tetris-mania was in full effect](/2024/06/18/tetris-heavenly-scrolls/) and the *Game Boy* had recently received its version of *Tetris* in June 1989.
 
 There's not much about these devices online, particularly in English, but two notable places are: [HP Museum forum](https://www.hpmuseum.org/forum/thread-16524.html) (for devices and IC cards) and [Insert Credit forum](https://forums.insertcredit.com/t/stay-sharp-with-sc-denshi-system-techo-games/2326) (for games). The devices are common on Japanese auction and selling websites, but the games are becoming more difficult to find.
 
