@@ -169,7 +169,7 @@ Total entries: 276
 | PC-98 | CANDY2 |  | 1985 | ASCII |
 | PC-98 | Character Maker 98 | キャラクターツクール98 | 1994 | Pegasus Japan |
 | PC-98 | Doodle Book / Rakugaki-chō | 落書き帳 | 1993 | Toshiya Hayashi |
-| PC-98 | Drawing Tool | お絵描きツール | 1992 | ASCII/LOGiN |
+| PC-98 | Drawing Tool | お絵描きツール | 1992 | SystemSoft |
 | PC-98 | DynaPix V | ダイナビックスV | 1988 | Dynaware |
 | PC-98 | ESQUISSE | 電子水彩エスキース | 1989 | SAPIENCE |
 | PC-98 | Funny |  | 1984 | Zeit |
