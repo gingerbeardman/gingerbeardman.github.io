@@ -98,7 +98,7 @@ Reading it now, the resemblance to today's generative-ai tools is hard to miss. 
 
 (In the original, the robot speaks entirely in katakana, its speech wobbling between Kansai, Kyushu, and Hiroshima dialects with the odd flourish of archaic courtly Japanese—エランデタモレ, "pray choose". English can't really reproduce that, so here it's an over-formal servant whose register keeps slipping.)
 
-MTJ even gives his machine a name: the パクリングロボット (*Pakuringu Robotto*). パクリング is a word you won't find in any dictionary—it's his own coinage, the slang パクリ (*pakuri*, "rip-off") bolted onto an English *-ing*, as in サンプリング (sampling) or ボウリング (bowling). A jokey pseudo-word built from real parts, which is why I can't resist translating it as the *Rip-O-Bot*. He follows the skit with a warning that lands rather differently reading it today:
+MTJ even gives his machine a name: the パクリングロボット (*Pakuringu Robotto*). パクリング is a word you won't find in any dictionary—it's his own coinage, the slang パクリ (*pakuri*, "rip-off") bolted onto an English *-ing*, as in サンプリング (sampling) or ボウリング (bowling). A jokey pseudo-word built from real parts, which is why I can't resist translating it as the *Rip-O-Bot*. He follows the skit with a warning that hits rather differently reading it today:
 
 > と言ったかどうかは知らないけど、こんな時代がもうそこまで来ているのは事実です。
 >
