@@ -2,7 +2,7 @@
 layout: page_footerless
 title: Newsletter
 published: private
-permalink: /newsletter.html
+permalink: /newsletter/
 ---
 
 <br>

@@ -2,11 +2,11 @@
 layout: page_footerless
 title: Wishlist
 #published: private
-permalink: /wishlist.html
+permalink: /wishlist/
 ---
 
 <br>
-I'm looking for some hard-to-find stuff, please [get in touch](/support) if you can help! Thanks!
+I'm looking for some hard-to-find stuff, please [get in touch](/support/) if you can help! Thanks!
 
 入手困難なものを探しているんだ。もし手伝えるなら連絡をくれ！ありがとう！
 

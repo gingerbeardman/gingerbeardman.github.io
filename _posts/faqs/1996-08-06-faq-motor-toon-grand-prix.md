@@ -9,7 +9,7 @@ tags:
 
 ---
 
-> This might be the first entry on this blog, but it's not quite my oldest content on the internet. For that you'll need to check out the archive linked to from the bottom of the [about page](/about#history-repeating).
+> This might be the first entry on this blog, but it's not quite my oldest content on the internet. For that you'll need to check out the archive linked to from the bottom of the [about page](/about/#history-repeating).
 
 I wrote a video game FAQ and uploaded it to GameFAQs:
 

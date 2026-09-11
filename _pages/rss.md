@@ -2,7 +2,7 @@
 layout: page
 title: RSS
 published: private
-permalink: /feed.html
+permalink: /feed/
 ---
 
 <br>

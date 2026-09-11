@@ -45,7 +45,7 @@ As with all the macOS apps I build, they start with a personal need. This one wa
 
 ## A little bit of history repeating
 
-I've been into pixel art since [Deluxe Paint ST](/about) (yes, on Atari ST not Commodore Amiga!), and of course on the classic Macintosh. I also collect [information about the multitude of Japanese "dot art" pixel art apps](/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/), which are quite different to the apps that I grew up with. All this to say that I already had a list of features I missed, pined for, or otherwise thought should make a return. [Naturally](/2024/07/14/shibuya-pixel-art-contest-2024/#bonus), dithering should be a tent pole feature affecting all tools.
+I've been into pixel art since [Deluxe Paint ST](/about/) (yes, on Atari ST not Commodore Amiga!), and of course on the classic Macintosh. I also collect [information about the multitude of Japanese "dot art" pixel art apps](/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/), which are quite different to the apps that I grew up with. All this to say that I already had a list of features I missed, pined for, or otherwise thought should make a return. [Naturally](/2024/07/14/shibuya-pixel-art-contest-2024/#bonus), dithering should be a tent pole feature affecting all tools.
 
 A dither smudge like the one shown below was last seen by me in 1992's Multi Paint System (PC-98).
 
@@ -66,7 +66,7 @@ A full post-mortem will come after release.
 The trickiest parts of development so far:
 - drawing pixelated circles of any width and height (all the classic graphics programming text books require the circle to have odd dimensions so that the coordinate of the centre pixel is an integer)
 - figuring out the intricacies of the document-based application model
-- trying to get the "New Document" button to appear on the file selector that appears at app launch (in fact this one still evades me for reasons I can't figure out, [get in touch if you can help](/support)!)
+- trying to get the "New Document" button to appear on the file selector that appears at app launch (in fact this one still evades me for reasons I can't figure out, [get in touch if you can help](/support/)!)
 - automating help book compilation ([thanks Mario](https://marioaguzman.wordpress.com/2020/09/12/auth/)!)
 - performance bottlenecks with some aspects of SwiftUI (thanks [WWDC Lab](https://developer.apple.com/wwdc25/labs/overview/)!)
 - surprise performance gains from using AppKit for better gestures
@@ -88,4 +88,4 @@ One interesting thing about the app:
 
 ## Launching late-2025
 
-I hope to launch the app this autumn, but until then: if you're a pixel artist feel free to [get in touch](/support) with your email address and I'll send you a TestFlight invite!
+I hope to launch the app this autumn, but until then: if you're a pixel artist feel free to [get in touch](/support/) with your email address and I'll send you a TestFlight invite!

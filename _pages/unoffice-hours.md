@@ -2,7 +2,7 @@
 layout: page_footerless
 title: Unoffice Hours
 published: public
-permalink: /unoffice-hours.html
+permalink: /unoffice-hours/
 ---
 
 <br>
@@ -26,7 +26,7 @@ Some topics people have discussed with me:
 - Architecture & design
 - Music & video games
 - Neurodiversity
-- [Topics featured on my blog](/tags)
+- [Topics featured on my blog](/tags/)
 - Life, the Universe and Everything
 
 Topics I don't generally talk about:

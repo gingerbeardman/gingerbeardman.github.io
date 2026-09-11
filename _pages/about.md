@@ -4,7 +4,7 @@ title: About
 date: '2025-10-17T02:35+01:00'
 modified: '2026-08-17T16:41+01:00'
 published: private
-permalink: /about.html
+permalink: /about/
 style: |
   img.profile {
     float: right;
@@ -71,7 +71,7 @@ For the first half of 2025, I was busy creating software for a wide range of pla
 
 2026 start with a bang, [I launched a game](/2026/02/12/serenity-demo/), [went to Tokyo](/2026/02/22/the-majesty-of-mount-fuji/), and I decided to finish off some apps I had built for myself and release them to the public. This process took a few months but I eventually [released 20 apps (and a screensaver) on the same day](/2026/04/17/today-i-shipped-twenty-apps-and-a-screensaver/) in April 2026, a process about which [I was interviewed by Adam Engst of the venerable TidBITS](https://tidbits.com/2026/04/20/vidbits-matt-sephtons-wall-of-tiny-apps/). New games made this year for iPhone, Desktop, Super Nintendo (SNES/SFC), Linux handheld, Nintendo Wii, Sega Dreamcast and other unannounced platforms. I'm currently working on [Jinks](https://jinks.gg), a totally new way to make video games.
 
-I've [opened up my calendar to some 30-minute calls every week](/unoffice-hours) if you fancy chatting about something. There are three things I don't really talk about: religion, politics, and ai. No comment. Pretty much anything else goes.
+I've [opened up my calendar to some 30-minute calls every week](/unoffice-hours/) if you fancy chatting about something. There are three things I don't really talk about: religion, politics, and ai. No comment. Pretty much anything else goes.
 
 And that brings us to the present. Thanks for reading—I’ll keep this page updated as things evolve. Cheers!
 
@@ -91,7 +91,7 @@ Every year I try to do a [summary of blog posts from the past year](/tag/year), 
 
 ## Subscribe & Support
 
-You can [subscribe to the blog using RSS](/feed.xml) and support it by [sending some blog love](/support).
+You can [subscribe to the blog using RSS](/feed.xml) and support it by [sending some blog love](/support/).
 
 ----
 

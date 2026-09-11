@@ -57,7 +57,7 @@ The following posts keep on truckin' (most popular first):
 - Improved replacement of "nouns" which are automatically-emphasised words (6 Mar, 11 May)
 - Improved sitemap and feed XML (14 Apr)
 - Added support for comments links to Bluesky and Mastodon (23 Apr)
-- Added [ wishlist](/wishlist) of hard-to-find stuff (8 Aug)
+- Added [ wishlist](/wishlist/) of hard-to-find stuff (8 Aug)
 
 ## Previous years
 - [My most popular posts of 2024](/2024/12/31/my-most-popular-posts-of-the-year/)

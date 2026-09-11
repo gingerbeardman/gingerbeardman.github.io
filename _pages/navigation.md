@@ -2,7 +2,7 @@
 layout: page
 title: Navigation
 published: private
-permalink: /navigation.html
+permalink: /navigation/
 ---
 
 <style>

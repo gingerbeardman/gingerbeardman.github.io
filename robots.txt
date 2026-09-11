@@ -1,0 +1,11 @@
+---
+---
+User-agent: *
+Disallow: /these-arent-the-droids-youre-looking-for/
+Disallow: /these-arent-the-droids-youre-looking-for
+Disallow: /these-arent-the-droids-youre-looking-for.html
+Disallow: /bad-vibes/
+Disallow: /bad-vibes
+Disallow: /bad-vibes.html
+
+Sitemap: {{ site.url }}/sitemap.xml

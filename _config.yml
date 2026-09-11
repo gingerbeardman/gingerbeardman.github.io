@@ -85,7 +85,8 @@ defaults:
     scope:
       path: "_pages"
     values:
-      permalink: /:basename:output_ext
+      # Directory index so Netlify Pretty URLs keep the trailing slash
+      permalink: /:basename/
   -
     scope:
       path: "files/**"

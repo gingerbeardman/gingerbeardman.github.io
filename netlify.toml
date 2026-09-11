@@ -1,3 +1,33 @@
 [build]
   command = "bundle exec jekyll build && rm -rf _site/pagefind && npx --yes pagefind --site _site"
   publish = "_site"
+
+[[headers]]
+  for = "/these-arent-the-droids-youre-looking-for/"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+
+[[headers]]
+  for = "/these-arent-the-droids-youre-looking-for"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+
+[[headers]]
+  for = "/these-arent-the-droids-youre-looking-for.html"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+
+[[headers]]
+  for = "/bad-vibes/"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+
+[[headers]]
+  for = "/bad-vibes"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+
+[[headers]]
+  for = "/bad-vibes.html"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
