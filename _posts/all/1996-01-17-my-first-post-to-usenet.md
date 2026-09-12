@@ -16,6 +16,6 @@ pinned: false
 
 ---
 
-On 17 January 1996 I made my first post to USENET. It a reply to a thread in `alt.music.bjork`
+On 17 January 1996 I made my first post to USENET. It was a reply to a thread in `alt.music.bjork`
 
 My messages ares preserved by [USENET-Rewind](https://www.usenet-rewind.com), but are too embarrassing to share here.
