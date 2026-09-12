@@ -2,6 +2,7 @@
 layout: post
 title: "My first website"
 date: '1996-03-11T12:00+00:00'
+modified: '2026-09-12T13:13+01:00'
 tags:
 - early
 - website
