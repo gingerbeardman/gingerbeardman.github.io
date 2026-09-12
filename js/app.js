@@ -39,24 +39,35 @@ $(document).ready(function() {
   // Off Canvas menu
   // =================
 
+  let menuVisible = false;
+  let menuFocusTimer;
+  let menuVisibleTimer;
+
+  function closeMenu() {
+    clearTimeout(menuFocusTimer);
+    clearTimeout(menuVisibleTimer);
+    $('.js-off-canvas-toggle').removeClass('is-active');
+    $('.js-off-canvas-container').removeClass('is-active');
+    $('#query').blur();
+    menuVisible = false;
+  }
+
   function doMenu(e) {
     e.preventDefault();
     $('.js-off-canvas-toggle').toggleClass('is-active');
     $('.js-off-canvas-container').toggleClass('is-active');
     if ($('.js-off-canvas-container').hasClass('is-active')) {
-      setTimeout(function(b){
+      menuFocusTimer = setTimeout(function(){
         $('#query').focus();
-      },200,true);
-      setTimeout(function(b){
-          menuVisible = b;
-      },400,true);
+      }, 200);
+      menuVisibleTimer = setTimeout(function(){
+        menuVisible = true;
+      }, 400);
     } else {
-      $('#query').blur();
-      menuVisible = false;
+      closeMenu();
     }
   }
 
-  let menuVisible = false;
   $('.js-off-canvas-toggle').click(function(e) {
     doMenu(e);
   });
@@ -66,9 +77,7 @@ $(document).ready(function() {
   $('header,.o-wrapper').click(function(e) {
     if ( !containingElement.contains( e.target ) ) {
       if (menuVisible == true) {
-        $('.js-off-canvas-toggle').removeClass('is-active');
-        $('.js-off-canvas-container').removeClass('is-active');
-        menuVisible = false;
+        closeMenu();
       }
     }
   });
@@ -97,6 +106,12 @@ $(document).ready(function() {
   // =================
 
   document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && $('.js-off-canvas-container').hasClass('is-active')) {
+          e.preventDefault();
+          closeMenu();
+          return;
+      }
+
       // Check if the pressed key is 's' or 'S'
       if ((e.key === 's' || e.key === 'S') && (e.metaKey || e.ctrlKey)) {
           // Scroll to the top of the page

@@ -42,29 +42,31 @@ layout: default
             {{ content }}
           {% endif %}
         </div>
-        {% if page.comments %}
+        {% if page.modified or page.comments %}
           <div class='c-comments'>
             {% if page.modified %}
               --<br>
               Originally published: {{ page.date | date: '%Y-%m-%d' }}
               <br>
             {% endif %}
-            {% unless page.donate == false %}--<br>
-            {% include donation-prompt.html %}<br>
-            {% endunless %}--<br>
-            Comments: 
-            {% if page.comments.first.platform %}
-              {% for comment in page.comments %}
-                <a href="{{ comment.url }}" target="comments">
-                  {% case comment.platform %}
-                    {% when 'twitter' %}Twitter
-                    {% when 'bluesky' %}Bluesky
-                    {% when 'mastodon' %}Mastodon
-                  {% endcase %}
-                </a>{% unless forloop.last %}, {% endunless %}
-              {% endfor %}
-            {% else %}
-              <a href="{{ page.comments }}" target="comments">@{{ site.twitter.username }}</a>
+            {% if page.comments %}
+              {% unless page.donate == false %}--<br>
+              {% include donation-prompt.html %}<br>
+              {% endunless %}--<br>
+              Comments:
+              {% if page.comments.first.platform %}
+                {% for comment in page.comments %}
+                  <a href="{{ comment.url }}" target="comments">
+                    {% case comment.platform %}
+                      {% when 'twitter' %}Twitter
+                      {% when 'bluesky' %}Bluesky
+                      {% when 'mastodon' %}Mastodon
+                    {% endcase %}
+                  </a>{% unless forloop.last %}, {% endunless %}
+                {% endfor %}
+              {% else %}
+                <a href="{{ page.comments }}" target="comments">@{{ site.twitter.username }}</a>
+              {% endif %}
             {% endif %}
           </div>
         {% endif %}      </article>
