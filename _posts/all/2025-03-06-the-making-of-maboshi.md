@@ -12,7 +12,7 @@ tags:
 nouns:
 - MaBoShi
 - Flametail
-- Kuniake Watanabe
+- Kuniaki Watanabe
 - Micky Albert
 - Mindware Corp
 - Mindware
