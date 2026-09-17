@@ -72,7 +72,7 @@ Over its short term of popularity the P/ECE platform had a vibrant homebrew scen
 
 ***
 
-## Selected Games by Kuniake Watanabe
+## Selected Games by Kuniaki Watanabe
 
 Anyway! During his indie days, Kuni developed for a [range of platforms](https://k-u.hatenadiary.org/entries/1970/01/01) and in a variety of languages and wrote several games for the P/ECE. Here are my favourites:
 
