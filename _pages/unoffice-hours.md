@@ -33,7 +33,6 @@ Topics I don't generally talk about:
 
 - Religion
 - Politics
-- AI
 
 ---
 
