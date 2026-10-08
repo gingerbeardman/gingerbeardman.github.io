@@ -29,6 +29,12 @@ comments:
 
 A [Nova](https://nova.app) extension that keeps your terminals running in a [*tmux*](https://github.com/tmux/tmux) session per project, shared between Nova's terminal and *Ghostty*, *iTerm*, *kitty* or *Terminal*.
 
+## Why?
+
+With the this setup, each project gets a session and each Nova terminal tab gets a tmux window. Close a tab or quit Nova and your shells, builds and other processes keep running. Open another tab to return to an unused window, or join the session from your external terminal.
+
+tmux also provides renamable sessions, split panes, windows and searchable scrollback inside Nova's terminal.
+
 ## Usage
 
 Invoke via **Extensions > Tmux Session**, or search in the Command Palette:
