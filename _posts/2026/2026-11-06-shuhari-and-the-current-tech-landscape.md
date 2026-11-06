@@ -27,11 +27,13 @@ Of course, decompilation has been possible since the first software was written,
 
 Decompilation can be proven through static analysis and, naturally, recompilation. The operation of the recompiled game can be validated by comparing memory contents, driving with input scripts and checking the game behaves identically, and even comparing graphics at a pixel level. I don't know if people are doing this, but it's the way I would approach it.
 
-The connecting glue most of these "recomps" seem to add are system specific stuff: bespoke graphics renderers to fit the host system, control and user interface layers, and sometimes quality of life features. Of course, LLMs/agents can make all of this iteration so much easier and quicker so it's no surprise they are responsible for this new wave of game releases, but make no mistake all of this is possible without their use. It would just take a lot longer.
+The connecting glue most of these "recomps" seem to add are system specific stuff: bespoke graphics renderers to fit the host system, control and user interface layers, and sometimes quality of life features. Of course, LLMs/agents can make all of this iteration much easier and quicker so it's no surprise they are responsible for this new wave of game releases. But make no mistake: all of this is possible by human without the use of those new tools. It would just take a lot longer.
 
 ## What next?
 
-It seems increasingly likely as time goes on that the future of game making, and software development on the whole, will not involve coding as we have known it for much of the last century. That both terrifies and excites me in equal measure. What a wild and crazy time to be alive! At this point I have no idea how things will be at the end of the month, but I'm excited to find out.
+It seems increasingly likely as time goes on that the future of game making, and software development on the whole, will not involve coding as we have known it for much of the last century. That both terrifies and excites me in equal measure. What a wild and crazy time to be alive! At this point I have no idea how things will be as near as the end of the month, but I'm as excited to find out.
+
+----
 
 This came out of [an exchange with Kuniaki Watanabe](https://twitter.com/k_u/status/2091857533275426822), creator of [MaBoShi](/tags/maboshi/).
 
