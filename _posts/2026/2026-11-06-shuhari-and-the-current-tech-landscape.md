@@ -25,7 +25,7 @@ In 1989, *Bubble Bobble* designer Fukio Mitsuji imagined a machine that could ge
 
 Of course, decompilation has been possible since the first software was written, and today can be as easy as loading a binary into Ghidra and pressing decompile. Compiling the code goes the other way, and whilst a little bit more involved it's still pretty standard stuff. If you're wondering how the quality of the decompilation and recompilation is, it's not guaranteed (as it evident by the poor quality of some of them) but it can be proven along the way. 
 
-Decompilation can be proven through static analysis and, naturally, recompilation. The operation of the recompiled game can be validated by comparing memory contents, driving with input scripts and checking the game behaves identically, and even comparing graphics at a pixel level. 
+Decompilation can be proven through static analysis and, naturally, recompilation. The operation of the recompiled game can be validated by comparing memory contents, driving with input scripts and checking the game behaves identically, and even comparing graphics at a pixel level. I don't know if people are doing this, but it would be the way I would approach it.
 
 The connecting glue most of these "recomps" seem to add are system specific stuff: bespoke graphics renderers to fit the host system, control and user interface layers, and sometimes quality of life features. Of course, LLMs/agents can make all of this iteration so much easier and quicker so it's no surprise they are responsible for this new wave of game releases, but make no mistake all of this is possible without their use. It would just take a lot longer.
 
