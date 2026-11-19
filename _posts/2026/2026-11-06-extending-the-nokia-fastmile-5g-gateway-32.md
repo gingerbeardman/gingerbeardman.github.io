@@ -2,6 +2,7 @@
 layout: post
 title: Extending the Nokia FastMile 5G Gateway 3.2
 date: '2026-11-06T10:40+00:00'
+modified: '2026-11-19T14:21+00:00'
 tags:
 - hack
 - networking
@@ -22,6 +23,8 @@ Interestingly this required no exploit—I drove the device's own management cli
 The stock web UI is minified Angular that references a Dynamic DNS backend but wires no page to it—the feature is shipped and orphaned. Rather than patch the bundle, I built a companion page styled to match, reusing the device's own RSA/AES login crypto so it auto-logs-in and survives firmware bumps. I also improved the login prompt, added dark mode that follows host system, and added some quality-of-life tweaks to the navigation and styling. And I put back three superadmin-only pages the stock menu hides from the admin role—ACS, Access Control (the SSH and CWMP switches), and Cell Management—shown only when you're actually logged in as superadmin.
 
 The Status → General page now leads with a System card: the router's CPU (with a bar per core), load average, memory and uptime, read straight from `/proc` and refreshed every five seconds. It takes the place of the Data Usage card, which only repeated the Cellular WAN totals. I wanted the modem's own CPU and memory too—the data model has them—but asking for them stalled for minutes and the watchdog rebooted the router. So, router stats only.
+
+That reboot led me to a nice find: the firmware quietly logs its last 100 boots to `/configs/reboot_history`, each with a reason—a restart from the web UI, the reset button, a factory reset, a watchdog reset, or "Unknown" when the router went down without saying why. The card now shows restarts over the past week and month, flags the unexpected ones, and lists the latest ten on hover. It turns out the modem crashed every few weeks from August to late October, and each time the watchdog rebooted the whole router. None so far in November.
 
 ## Hidden features
 
