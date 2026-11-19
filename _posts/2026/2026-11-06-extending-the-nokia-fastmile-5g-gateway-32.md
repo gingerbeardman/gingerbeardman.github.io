@@ -21,6 +21,8 @@ Interestingly this required no exploit—I drove the device's own management cli
 
 The stock web UI is minified Angular that references a Dynamic DNS backend but wires no page to it—the feature is shipped and orphaned. Rather than patch the bundle, I built a companion page styled to match, reusing the device's own RSA/AES login crypto so it auto-logs-in and survives firmware bumps. I also improved the login prompt, added dark mode that follows host system, and added some quality-of-life tweaks to the navigation and styling. And I put back three superadmin-only pages the stock menu hides from the admin role—ACS, Access Control (the SSH and CWMP switches), and Cell Management—shown only when you're actually logged in as superadmin.
 
+The Status → General page now leads with a System card: the router's CPU (with a bar per core), load average, memory and uptime, read straight from `/proc` and refreshed every five seconds. It takes the place of the Data Usage card, which only repeated the Cellular WAN totals. I wanted the modem's own CPU and memory too—the data model has them—but asking for them stalled for minutes and the watchdog rebooted the router. So, router stats only.
+
 ## Hidden features
 
 DDNS is live now, backed by OpenWrt's full `ddns-scripts` (~70 providers) rather than Nokia's crippled native CGI. Network-wide ad blocking is in too, using `adblock-fast` and the latest lists.
