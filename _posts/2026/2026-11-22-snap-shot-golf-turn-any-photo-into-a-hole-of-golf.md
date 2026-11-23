@@ -43,6 +43,6 @@ So, that's Snap Shot Golf to a tee: a casual golf game for iOS with Game Center 
 
 The price is the most golf-centric one I could think of: fore! (4 USD/GBP/EUR) ⛳️🏌️‍♂️
 
-Have fun with it!
-
 [gingerbeardman.com/apps/snap-shot-golf/](https://www.gingerbeardman.com/apps/snap-shot-golf/)
+
+Have fun with it!
