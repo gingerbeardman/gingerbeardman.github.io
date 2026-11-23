@@ -2,6 +2,7 @@
 layout: post
 title: "Snap Shot Golf: turn any photo into a hole of golf"
 date: '2026-11-22T23:36+00:00'
+modified: '2026-11-23T11:26+00:00'
 tags:
 - videogame
 - gamedev
@@ -21,7 +22,7 @@ comments:
     url: https://mastodon.gamedev.place/@gingerbeardman/117655219995646851
 ---
 
-There's an old Sharp X68000 game called TIM COUNTRY CLUB (1994, Moai). It's a devilishly difficult and perhaps rather un-fun game of golf where your control of direction and power is severely constrained: the Dark Souls of golf games. But it does one interesting thing: it generates the course by manipulating and recolouring any image file you feed it. Some eight years ago I saw a video of that game and commented ["I think this is an interesting idea that could be expanded on"](https://www.youtube.com/watch?v=XewOeAinRT4), then promptly forgot all about it...until April 2026, when it came back to me whilst discussing [weird golf games](https://selectbutton.net/t/what-if-golf-but-weird/16859).
+There's an old Sharp X68000 game called [TIM COUNTRY CLUB](https://www.retrogamesoft.com/X68000_TCC1994.htm) (1994, Moai). It's a devilishly difficult and perhaps rather un-fun game of golf where your control of direction and power is severely constrained: the Dark Souls of golf games. But it does one interesting thing: it generates the course by manipulating and recolouring any image file you feed it. Some eight years ago I saw a video of that game and commented ["I think this is an interesting idea that could be expanded on"](https://www.youtube.com/watch?v=XewOeAinRT4), then promptly forgot all about it...until April 2026, when it came back to me whilst discussing [weird golf games](https://selectbutton.net/t/what-if-golf-but-weird/16859).
 
 With it fresh in my mind, I wondered how I could take the high-level concept of turning an image into a hole of golf and do it in a modern way on an iPhone. I landed on a top-down golf game that reads a photo or image, does some edge, feature and colour detection, and translates the results into a golf course: blue eyes become lakes and the shape of a face dictates the bend of the fairway.
 
