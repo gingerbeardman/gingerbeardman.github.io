@@ -2,7 +2,7 @@
 layout: post
 title: "Snap Shot Golf: turn any photo into a hole of golf"
 date: '2026-11-22T23:36+00:00'
-modified: '2026-11-23T11:26+00:00'
+modified: '2026-11-24T12:17+00:00'
 tags:
 - videogame
 - gamedev
@@ -38,7 +38,7 @@ Then came the social side. Because everything is procedurally generated, a hole 
 
 The hardest part of development wasn't the course generation or the physics, it was screen sizes. Between notches, Dynamic Islands, rounded corners, home indicators and the very different aspect ratios of iPad, every device needs its own safe area. The scenery needs to run edge to edge whilst the controls and scores stay clear of the unsafe bits, and on iPad that meant a lot of fighting with pillarboxing before it looked right. Controls ran a close second: it took many failed attempts before I realised I could use a second finger to shape shots, like plucking a bow.
 
-Each of those achievements needed its own illustration, and after working so hard on the game I burned myself out drawing them. I put the game aside, only to be reminded a few months later by one of the testers that the TestFlight build had expired! Oops. Even then it took me another month or two to summon the energy to finish the Game Center artwork and submit it for review. May feels like a million years ago.
+Each of the achievements and leaderboards needed its own illustration, and after working so hard on the game I burned myself out drawing them. I put the game aside, only to be reminded a few months later by one of the testers that the TestFlight build had expired! Oops. Even then it took me another month or two to summon the energy to finish the Game Center artwork and submit it for review. May feels like a million years ago.
 
 So, that's Snap Shot Golf to a tee: a casual golf game for iOS with Game Center support, sharing and competing with friends, and the ability to turn any photo into a hole of golf. And it's a mere 595 KB.
 
